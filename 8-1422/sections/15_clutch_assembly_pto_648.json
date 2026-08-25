@@ -1,0 +1,258 @@
+{
+  "sectionTitle": "Clutch Assembly (PTO) (648)",
+  "breadcrumb": "Clutch Assembly (PTO) (648)",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/clutch_assembly_pto_648.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 74.02,
+      "y": 17.53,
+      "partNo": "C16616",
+      "desc": "FAN - cooling"
+    },
+    {
+      "ref": 2,
+      "x": 37.46,
+      "y": 67.91,
+      "partNo": "C24741",
+      "desc": "HUB - clutch"
+    },
+    {
+      "ref": 3,
+      "x": 40.86,
+      "y": 24.93,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14045699",
+          "partNo": "C27031",
+          "desc": "KIT - engaging arm (use before S/N 14045699)"
+        },
+        {
+          "serialNote": "use S/N 14045699 and after",
+          "partNo": "C26166",
+          "desc": "ARM - engaging (use S/N 14045699 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 41.67,
+      "y": 79.86,
+      "partNo": "164-41",
+      "desc": "SCREW - 5/16'' - 18 x 1'' flat head socket"
+    },
+    {
+      "ref": 5,
+      "x": 33.35,
+      "y": 75.3,
+      "partNo": "193-76",
+      "desc": "LOCK WASHER - 5/16'' special external tooth"
+    },
+    {
+      "ref": 6,
+      "x": 72.81,
+      "y": 32.74,
+      "partNo": "C28677",
+      "desc": "WASHER - fan 17/32''"
+    },
+    {
+      "ref": 7,
+      "x": 55.39,
+      "y": 76.82,
+      "partNo": "C15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 7,
+      "x": 44.97,
+      "y": 71.05,
+      "partNo": "C15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 7,
+      "x": 65.6,
+      "y": 81.08,
+      "partNo": "C15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 8,
+      "x": 61.0,
+      "y": 78.75,
+      "partNo": "C15557",
+      "desc": "WASHER - spacer .050"
+    },
+    {
+      "ref": 8,
+      "x": 51.48,
+      "y": 73.38,
+      "partNo": "C15557",
+      "desc": "WASHER - spacer .050"
+    },
+    {
+      "ref": 8,
+      "x": 33.85,
+      "y": 48.34,
+      "partNo": "C15557",
+      "desc": "WASHER - spacer .050"
+    },
+    {
+      "ref": 9,
+      "x": 53.68,
+      "y": 54.12,
+      "partNo": "C31045",
+      "desc": "PULLEY AND DISC ASSEMBLY"
+    },
+    {
+      "ref": 10,
+      "x": 43.87,
+      "y": 50.98,
+      "partNo": "C23740",
+      "desc": "KIT - friction disc"
+    },
+    {
+      "ref": 11,
+      "x": 59.89,
+      "y": 47.23,
+      "partNo": "C29735",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 11,
+      "x": 60.29,
+      "y": 59.09,
+      "partNo": "C29735",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 11,
+      "x": 73.72,
+      "y": 64.16,
+      "partNo": "C29735",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 12,
+      "x": 79.22,
+      "y": 65.78,
+      "partNo": "C23033",
+      "desc": "CAM - clutch"
+    },
+    {
+      "ref": 13,
+      "x": 50.58,
+      "y": 23.21,
+      "partNo": "C16786",
+      "desc": "SPRING - clutch load"
+    },
+    {
+      "ref": 14,
+      "x": 77.72,
+      "y": 33.65,
+      "partNo": "129-125",
+      "desc": "NUT - 1/2'' N.F."
+    },
+    {
+      "ref": 15,
+      "x": 74.72,
+      "y": 52.5,
+      "partNo": "C23627",
+      "desc": "GUIDE - adjusting nut"
+    },
+    {
+      "ref": 16,
+      "x": 65.7,
+      "y": 49.05,
+      "partNo": "C23624",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": 17,
+      "x": 64.9,
+      "y": 17.84,
+      "partNo": "C23630",
+      "desc": "SPACER - hub"
+    },
+    {
+      "ref": 18,
+      "x": 69.51,
+      "y": 50.37,
+      "partNo": "C23625",
+      "desc": "NUT - adjust"
+    },
+    {
+      "ref": 19,
+      "x": 67.61,
+      "y": 61.82,
+      "partNo": "NSS**",
+      "desc": "SPACER - washer .200'' (use before S/N 14030157)"
+    },
+    {
+      "ref": 21,
+      "x": 21.93,
+      "y": 12.97,
+      "partNo": "C29811*",
+      "desc": "SPACER - washer .100'' (use S/N 14030157 and after)"
+    },
+    {
+      "ref": 21,
+      "x": 62.9,
+      "y": 61.52,
+      "partNo": "C29811*",
+      "desc": "SPACER - washer .100'' (use S/N 14030157 and after)"
+    },
+    {
+      "ref": 22,
+      "x": 38.46,
+      "y": 50.98,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4'' - 20 flange lock"
+    },
+    {
+      "ref": 22,
+      "x": 47.47,
+      "y": 30.61,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4'' - 20 flange lock"
+    },
+    {
+      "ref": 23,
+      "x": 51.38,
+      "y": 44.59,
+      "partNo": "C31019",
+      "desc": "CAM - clutch"
+    },
+    {
+      "ref": 24,
+      "x": 43.87,
+      "y": 29.39,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4'' - 20 x 3/4''"
+    },
+    {
+      "ref": 25,
+      "x": 41.26,
+      "y": 40.14,
+      "partNo": "C31018",
+      "desc": "CLEVIS - PTO brake"
+    },
+    {
+      "ref": 26,
+      "x": 22.84,
+      "y": 80.47,
+      "partNo": "C29772",
+      "desc": "WRENCH - clutch adjust"
+    },
+    {
+      "ref": 20,
+      "x": 21.63,
+      "y": 12.87,
+      "partNo": "C21652",
+      "desc": "BUSHING - spacer (648BH only, from Fan and Hub Assembly list)"
+    }
+  ],
+  "footnotes": ""
+}

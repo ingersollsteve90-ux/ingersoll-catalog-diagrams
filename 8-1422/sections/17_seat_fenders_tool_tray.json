@@ -1,0 +1,232 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Tray",
+  "breadcrumb": "Seat, Fenders and Tool Tray",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/seat_fenders_tool_tray.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 32.38,
+      "y": 80.84,
+      "partNo": "C17488",
+      "desc": "SUPPORT - seat, front"
+    },
+    {
+      "ref": 2,
+      "x": 22.15,
+      "y": 75.4,
+      "partNo": "C26698",
+      "desc": "SUPPORT - seat, rear"
+    },
+    {
+      "ref": 3,
+      "x": 25.26,
+      "y": 70.47,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2'' x 1'' NC hex"
+    },
+    {
+      "ref": 3,
+      "x": 53.33,
+      "y": 60.21,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2'' x 1'' NC hex"
+    },
+    {
+      "ref": 5,
+      "x": 35.28,
+      "y": 66.68,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2''"
+    },
+    {
+      "ref": 5,
+      "x": 44.81,
+      "y": 64.52,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2''"
+    },
+    {
+      "ref": 6,
+      "x": 27.67,
+      "y": 64.83,
+      "partNo": "C26028",
+      "desc": "TRAY - tool"
+    },
+    {
+      "ref": 7,
+      "x": 60.24,
+      "y": 43.49,
+      "partNo": "C16429",
+      "desc": "PIN - seat hinge"
+    },
+    {
+      "ref": 8,
+      "x": 53.43,
+      "y": 22.55,
+      "variants": [
+        {
+          "serialNote": "lack",
+          "partNo": "C30067",
+          "desc": "SEAT - black"
+        },
+        {
+          "serialNote": "rown",
+          "partNo": "C26909",
+          "desc": "SEAT - brown"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 22.65,
+      "y": 51.8,
+      "partNo": "C15410",
+      "desc": "CUSHION - rubber"
+    },
+    {
+      "ref": 9,
+      "x": 22.35,
+      "y": 36.71,
+      "partNo": "C15410",
+      "desc": "CUSHION - rubber"
+    },
+    {
+      "ref": 10,
+      "x": 24.26,
+      "y": 54.47,
+      "partNo": "195-2175",
+      "desc": "WASHER - 5/16'' x 1-1/4'' O.D."
+    },
+    {
+      "ref": 11,
+      "x": 25.86,
+      "y": 58.26,
+      "partNo": "113-122",
+      "desc": "BOLT - 5/16'' x 1-1/2'' NC hex"
+    },
+    {
+      "ref": 12,
+      "x": 18.24,
+      "y": 46.56,
+      "partNo": "C14534",
+      "desc": "BUMPER - seat (use before S/N 14076863)"
+    },
+    {
+      "ref": 13,
+      "x": 50.82,
+      "y": 47.9,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16'' x 1/2'' NC hex flange"
+    },
+    {
+      "ref": 13,
+      "x": 59.54,
+      "y": 71.5,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16'' x 1/2'' NC hex flange"
+    },
+    {
+      "ref": 14,
+      "x": 47.91,
+      "y": 37.94,
+      "variants": [
+        {
+          "serialNote": "before S/N 14076863 use C29307 and (2",
+          "partNo": "NSS",
+          "desc": "HINGE - seat (before S/N 14076863 use C29307 and (2) of C29305, C29306, 113-102, 131-911)"
+        },
+        {
+          "serialNote": "used S/N 14076863 and after",
+          "partNo": "C29307",
+          "desc": "HINGE - seat (used S/N 14076863 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 44.6,
+      "y": 84.33,
+      "partNo": "C14728",
+      "desc": "GRIP - shift lever"
+    },
+    {
+      "ref": 16,
+      "x": 80.99,
+      "y": 54.26,
+      "variants": [
+        {
+          "serialNote": "648",
+          "partNo": "C17456",
+          "desc": "FENDER - L.H. (648)"
+        },
+        {
+          "serialNote": "648",
+          "partNo": "C17457",
+          "desc": "FENDER - R.H. (648)"
+        },
+        {
+          "serialNote": "648BH",
+          "partNo": "C22850",
+          "desc": "FENDER - L.H. (648BH)"
+        },
+        {
+          "serialNote": "648BH",
+          "partNo": "C22849",
+          "desc": "FENDER - R.H. (648BH)"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 68.06,
+      "y": 77.66,
+      "partNo": "C17491",
+      "desc": "LEVER - shift"
+    },
+    {
+      "ref": 18,
+      "x": 64.15,
+      "y": 76.42,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8'' x 1-1/8''"
+    },
+    {
+      "ref": 19,
+      "x": 71.87,
+      "y": 80.53,
+      "partNo": "C17216",
+      "desc": "SPRING - shift lever"
+    },
+    {
+      "ref": 20,
+      "x": 75.78,
+      "y": 81.86,
+      "partNo": "C17066",
+      "desc": "WASHER - cupped"
+    },
+    {
+      "ref": 21,
+      "x": 78.79,
+      "y": 84.12,
+      "partNo": "131-1181",
+      "desc": "NUT - lock 3/8'' NC hex"
+    },
+    {
+      "ref": 22,
+      "x": 61.24,
+      "y": 75.19,
+      "partNo": "113-257",
+      "desc": "BOLT - 3/8'' x 2-1/2'' NC hex"
+    },
+    {
+      "ref": 23,
+      "x": 75.98,
+      "y": 44.72,
+      "partNo": "C26092",
+      "desc": "PAD - step, fender (648BH)"
+    }
+  ],
+  "footnotes": ""
+}

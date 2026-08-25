@@ -1,0 +1,205 @@
+{
+  "sectionTitle": "Hydraulic Reservoir and Heat Exchanger Mounting",
+  "breadcrumb": "Hydraulic Reservoir and Heat Exchanger Mounting",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/hyd_reservoir_heat_exchanger.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 72.66,
+      "y": 35.96,
+      "partNo": "C25952",
+      "desc": "RESERVOIR - hydraulic oil"
+    },
+    {
+      "ref": 2,
+      "x": 46.44,
+      "y": 29.35,
+      "variants": [
+        {
+          "serialNote": "5''",
+          "partNo": "C25237",
+          "desc": "CAP - reservoir 1.5''"
+        },
+        {
+          "serialNote": "75''",
+          "partNo": "C26133",
+          "desc": "CAP - reservoir 1.75''"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 46.74,
+      "y": 32.3,
+      "partNo": "NSS",
+      "desc": "INSERT - reservoir"
+    },
+    {
+      "ref": 4,
+      "x": 66.55,
+      "y": 22.74,
+      "partNo": "C25954",
+      "desc": "STRAP - tank mounting"
+    },
+    {
+      "ref": 5,
+      "x": 14.01,
+      "y": 80.21,
+      "partNo": "C25376",
+      "desc": "EXCHANGER - heat (use before S/N 14030233)"
+    },
+    {
+      "ref": 6,
+      "x": 19.62,
+      "y": 94.35,
+      "partNo": "C25164",
+      "desc": "CLIP - mounting"
+    },
+    {
+      "ref": 7,
+      "x": 28.62,
+      "y": 90.39,
+      "partNo": "187-1252",
+      "desc": "SCREW - 1/4'' - 20 x 1-1/2'' Phillips, self-tapping"
+    },
+    {
+      "ref": 8,
+      "x": 20.42,
+      "y": 69.84,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14030233",
+          "partNo": "C25979",
+          "desc": "MOUNT - heat exchanger R.H. (use before S/N 14030233)"
+        },
+        {
+          "serialNote": "use S/N 14030233 and after",
+          "partNo": "C26451",
+          "desc": "MOUNT - heat exchanger R.H. (use S/N 14030233 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 35.43,
+      "y": 34.03,
+      "partNo": "C26452",
+      "desc": "MOUNT - heat exchanger L.H."
+    },
+    {
+      "ref": 10,
+      "x": 30.52,
+      "y": 44.61,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16'' - 18 x 3/4'' hex"
+    },
+    {
+      "ref": 11,
+      "x": 29.82,
+      "y": 57.02,
+      "partNo": "195-103",
+      "desc": "WASHER - 5/16''"
+    },
+    {
+      "ref": 12,
+      "x": 27.52,
+      "y": 54.27,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16''"
+    },
+    {
+      "ref": 12,
+      "x": 22.72,
+      "y": 48.37,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16''"
+    },
+    {
+      "ref": 13,
+      "x": 50.44,
+      "y": 52.34,
+      "partNo": "C25985",
+      "desc": "SUPPORT - reservoir"
+    },
+    {
+      "ref": 14,
+      "x": 77.46,
+      "y": 55.39,
+      "partNo": "C25988",
+      "desc": "BAFFLE - corner, L.H."
+    },
+    {
+      "ref": 15,
+      "x": 12.51,
+      "y": 62.31,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16'' - 18 x 1/2''"
+    },
+    {
+      "ref": 16,
+      "x": 19.32,
+      "y": 50.0,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16''"
+    },
+    {
+      "ref": 17,
+      "x": 26.32,
+      "y": 46.74,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16'' - 18"
+    },
+    {
+      "ref": 18,
+      "x": 79.26,
+      "y": 65.36,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4'' - 20 x 5/8''"
+    },
+    {
+      "ref": 19,
+      "x": 25.92,
+      "y": 40.74,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4''"
+    },
+    {
+      "ref": 20,
+      "x": 20.02,
+      "y": 36.57,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4'' - 20"
+    },
+    {
+      "ref": 21,
+      "x": 81.36,
+      "y": 77.36,
+      "partNo": "C26456",
+      "desc": "EXCHANGER - heat (use S/N 14030233 and after)"
+    },
+    {
+      "ref": 22,
+      "x": 75.26,
+      "y": 82.65,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4'' - 20 x 1/2'' hex"
+    },
+    {
+      "ref": 23,
+      "x": 11.01,
+      "y": 51.42,
+      "partNo": "131-1180",
+      "desc": "NUT - lock 1/4'' - 20"
+    },
+    {
+      "ref": 24,
+      "x": 83.97,
+      "y": 68.62,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4'' - 20 x 1/2'' self tapping"
+    }
+  ],
+  "footnotes": ""
+}

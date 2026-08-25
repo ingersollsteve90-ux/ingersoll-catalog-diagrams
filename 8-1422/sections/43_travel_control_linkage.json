@@ -1,0 +1,296 @@
+{
+  "sectionTitle": "Travel Control Linkage",
+  "breadcrumb": "Travel Control Linkage",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/travel_control_linkage.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 37.93,
+      "y": 48.75,
+      "partNo": "C29801",
+      "desc": "ARM - control (also reqs. C29765, C29803 before S/N 14098394)"
+    },
+    {
+      "ref": 2,
+      "x": 40.93,
+      "y": 46.62,
+      "partNo": "C29764",
+      "desc": "BUSHING - ball (use S/N 14098394 and after)"
+    },
+    {
+      "ref": 3,
+      "x": 50.24,
+      "y": 45.4,
+      "partNo": "C29800",
+      "desc": "BUSHING - ball (use S/N 14098394 and after)"
+    },
+    {
+      "ref": 4,
+      "x": 53.64,
+      "y": 33.84,
+      "partNo": "132-334",
+      "desc": "PIN - cotter 1/8'' x 3/4''"
+    },
+    {
+      "ref": 5,
+      "x": 46.14,
+      "y": 30.29,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16''"
+    },
+    {
+      "ref": 5,
+      "x": 43.53,
+      "y": 40.43,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16''"
+    },
+    {
+      "ref": 5,
+      "x": 52.74,
+      "y": 78.26,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16''"
+    },
+    {
+      "ref": 6,
+      "x": 36.13,
+      "y": 73.29,
+      "partNo": "C26680",
+      "desc": "PEDAL - motion control"
+    },
+    {
+      "ref": 7,
+      "x": 50.54,
+      "y": 65.69,
+      "partNo": "C26424",
+      "desc": "ROD  pedal control"
+    },
+    {
+      "ref": 8,
+      "x": 51.94,
+      "y": 81.4,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16'' NC hex"
+    },
+    {
+      "ref": 9,
+      "x": 31.12,
+      "y": 70.35,
+      "partNo": "C18277",
+      "desc": "SPRING - pedal return"
+    },
+    {
+      "ref": 10,
+      "x": 70.66,
+      "y": 63.45,
+      "partNo": "C17551",
+      "desc": "DISC - friction"
+    },
+    {
+      "ref": 11,
+      "x": 69.95,
+      "y": 66.19,
+      "partNo": "C26266",
+      "desc": "BUSHING - nylon"
+    },
+    {
+      "ref": 12,
+      "x": 70.86,
+      "y": 69.94,
+      "partNo": "C18391",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 13,
+      "x": 68.45,
+      "y": 75.42,
+      "partNo": "195-533",
+      "desc": "WASHER - 5/8''"
+    },
+    {
+      "ref": 14,
+      "x": 67.45,
+      "y": 78.06,
+      "partNo": "131-165",
+      "desc": "NUT - 1/2'' NC hex"
+    },
+    {
+      "ref": 15,
+      "x": 27.82,
+      "y": 50.27,
+      "partNo": "129-37",
+      "desc": "NUT - #10 - 32"
+    },
+    {
+      "ref": 16,
+      "x": 12.11,
+      "y": 76.03,
+      "partNo": "NSS",
+      "desc": "BRACKET - guide (use C29765)"
+    },
+    {
+      "ref": 17,
+      "x": 16.11,
+      "y": 86.58,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16'' x 1'' NC hex"
+    },
+    {
+      "ref": 18,
+      "x": 25.42,
+      "y": 85.26,
+      "partNo": "131-176",
+      "desc": "NUT - lock 5/16'' NC hex"
+    },
+    {
+      "ref": 19,
+      "x": 48.64,
+      "y": 43.37,
+      "partNo": "C29803",
+      "desc": "ROD - valve control (also reqs. C29801, C29765 before S/N 14098394)"
+    },
+    {
+      "ref": 20,
+      "x": 58.95,
+      "y": 51.69,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14098394",
+          "partNo": "195-518",
+          "desc": "WASHER - 1/4'' (use before S/N 14098394)"
+        },
+        {
+          "serialNote": "use S/N 14098394 and after",
+          "partNo": "195-521",
+          "desc": "WASHER - 5/16'' (use S/N 14098394 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 21,
+      "x": 49.74,
+      "y": 32.22,
+      "partNo": "C19025",
+      "desc": "BALL JOINT"
+    },
+    {
+      "ref": 22,
+      "x": 46.04,
+      "y": 41.95,
+      "partNo": "129-122",
+      "desc": "NUT - 5/16'' NF hex"
+    },
+    {
+      "ref": 23,
+      "x": 56.14,
+      "y": 56.76,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14098394",
+          "partNo": "132-320",
+          "desc": "PIN - cotter 3/32'' x 3/4'' (use before S/N 14098394)"
+        },
+        {
+          "serialNote": "use S/N 14098394 and after",
+          "partNo": "132-333",
+          "desc": "PIN - cotter 1/8'' x 5/8'' (use S/N 14098394 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 24,
+      "x": 71.76,
+      "y": 24.11,
+      "partNo": "C29047",
+      "desc": "KNOB - control lever"
+    },
+    {
+      "ref": 25,
+      "x": 68.65,
+      "y": 41.65,
+      "partNo": "353-442",
+      "desc": "BUSHING - lever"
+    },
+    {
+      "ref": 26,
+      "x": 60.45,
+      "y": 36.58,
+      "partNo": "C19376",
+      "desc": "WASHER - spacer, 3/32''"
+    },
+    {
+      "ref": 27,
+      "x": 60.45,
+      "y": 34.65,
+      "partNo": "C19377",
+      "desc": "WASHER - spacer, 1/32''"
+    },
+    {
+      "ref": 28,
+      "x": 31.32,
+      "y": 48.95,
+      "partNo": "192-18",
+      "desc": "LOCK WASHER - #10"
+    },
+    {
+      "ref": 29,
+      "x": 25.22,
+      "y": 75.22,
+      "partNo": "NSS",
+      "desc": "BRACKET - valve control (use C29765)"
+    },
+    {
+      "ref": 30,
+      "x": 52.64,
+      "y": 56.56,
+      "partNo": "182-528",
+      "desc": "SCREW - #10 - 32 x 1/2''"
+    },
+    {
+      "ref": 31,
+      "x": 32.63,
+      "y": 57.17,
+      "partNo": "C29765",
+      "desc": "BRACKET - valve control"
+    },
+    {
+      "ref": 32,
+      "x": 31.82,
+      "y": 60.51,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16'' x 3/4'' N.C. hex"
+    },
+    {
+      "ref": 33,
+      "x": 57.65,
+      "y": 61.32,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16'' - 18 N.C. hex"
+    },
+    {
+      "ref": 34,
+      "x": 54.14,
+      "y": 63.86,
+      "partNo": "193-29",
+      "desc": "LOCK WASHER - 5/16'' (internal tooth)"
+    },
+    {
+      "ref": 35,
+      "x": 61.75,
+      "y": 28.87,
+      "partNo": "C26168",
+      "desc": "LEVER - direction control"
+    },
+    {
+      "ref": 36,
+      "x": 60.55,
+      "y": 49.26,
+      "partNo": "C23514",
+      "desc": "FOLLOWER - cam"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,429 @@
+{
+  "sectionTitle": "Hydraulic Control Valve - Tractor",
+  "breadcrumb": "Hydraulic Control Valve - Tractor",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/hcv_tractor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 23.82,
+      "y": 32.09,
+      "partNo": "C25968",
+      "desc": "VALVE - tractor control"
+    },
+    {
+      "ref": 2,
+      "x": 62.95,
+      "y": 26.63,
+      "partNo": "NSS",
+      "desc": "BODY - valve (order C25968 valve)"
+    },
+    {
+      "ref": 3,
+      "x": 68.85,
+      "y": 32.3,
+      "partNo": "NSS",
+      "desc": "SPOOL - valve (order C25968 valve)"
+    },
+    {
+      "ref": 4,
+      "x": 59.85,
+      "y": 41.43,
+      "partNo": "NSS",
+      "desc": "SPOOL - valve (order C25968 valve)"
+    },
+    {
+      "ref": 5,
+      "x": 79.36,
+      "y": 37.34,
+      "partNo": "C28856",
+      "desc": "SEAL - \"O\" ring, spool"
+    },
+    {
+      "ref": 5,
+      "x": 65.35,
+      "y": 30.62,
+      "partNo": "C28856",
+      "desc": "SEAL - \"O\" ring, spool"
+    },
+    {
+      "ref": 5,
+      "x": 55.04,
+      "y": 39.23,
+      "partNo": "C28856",
+      "desc": "SEAL - \"O\" ring, spool"
+    },
+    {
+      "ref": 5,
+      "x": 39.53,
+      "y": 31.88,
+      "partNo": "C28856",
+      "desc": "SEAL - \"O\" ring, spool"
+    },
+    {
+      "ref": 6,
+      "x": 43.13,
+      "y": 22.86,
+      "partNo": "C28705",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 7,
+      "x": 40.33,
+      "y": 21.28,
+      "partNo": "C28706",
+      "desc": "SPRING - detent"
+    },
+    {
+      "ref": 8,
+      "x": 36.83,
+      "y": 19.92,
+      "partNo": "C28707",
+      "desc": "SPACER"
+    },
+    {
+      "ref": 9,
+      "x": 33.13,
+      "y": 18.34,
+      "variants": [
+        {
+          "serialNote": "use with 1/4'' detent ball",
+          "partNo": "C17439",
+          "desc": "DETENT - spool (use with 1/4'' detent ball)"
+        },
+        {
+          "serialNote": "use with 3/16'' detent ball",
+          "partNo": "C26668",
+          "desc": "DETENT - spool (use with 3/16'' detent ball)"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 22.62,
+      "y": 25.69,
+      "partNo": "C17438",
+      "desc": "COVER - detent"
+    },
+    {
+      "ref": 11,
+      "x": 15.71,
+      "y": 17.92,
+      "partNo": "211-5",
+      "desc": "BALL - steel 3/16''"
+    },
+    {
+      "ref": 11,
+      "x": 19.11,
+      "y": 13.51,
+      "partNo": "211-5",
+      "desc": "BALL - steel 3/16''"
+    },
+    {
+      "ref": 12,
+      "x": 14.01,
+      "y": 19.92,
+      "partNo": "C17444",
+      "desc": "SPRING - detent"
+    },
+    {
+      "ref": 12,
+      "x": 20.62,
+      "y": 11.63,
+      "partNo": "C17444",
+      "desc": "SPRING - detent"
+    },
+    {
+      "ref": 13,
+      "x": 13.11,
+      "y": 22.44,
+      "partNo": "C28708",
+      "desc": "SCREW - detent, cap"
+    },
+    {
+      "ref": 13,
+      "x": 22.92,
+      "y": 9.63,
+      "partNo": "C28708",
+      "desc": "SCREW - detent, cap"
+    },
+    {
+      "ref": 14,
+      "x": 14.31,
+      "y": 14.04,
+      "partNo": "169-114",
+      "desc": "SCREW - cover"
+    },
+    {
+      "ref": 14,
+      "x": 31.72,
+      "y": 8.48,
+      "partNo": "169-114",
+      "desc": "SCREW - cover"
+    },
+    {
+      "ref": 15,
+      "x": 27.82,
+      "y": 24.22,
+      "partNo": "129-531",
+      "desc": "CAP - relief adjust"
+    },
+    {
+      "ref": 16,
+      "x": 30.72,
+      "y": 25.69,
+      "partNo": "C17435",
+      "desc": "GASKET - relief adjust cap"
+    },
+    {
+      "ref": 17,
+      "x": 34.03,
+      "y": 26.84,
+      "partNo": "C17433",
+      "desc": "SCREW - relief adjust"
+    },
+    {
+      "ref": 18,
+      "x": 35.83,
+      "y": 27.79,
+      "partNo": "NSS",
+      "desc": "SPRING - relief"
+    },
+    {
+      "ref": 19,
+      "x": 38.83,
+      "y": 29.05,
+      "partNo": "211-7",
+      "desc": "BALL - steel 1/4''"
+    },
+    {
+      "ref": 19,
+      "x": 13.61,
+      "y": 16.98,
+      "partNo": "211-7",
+      "desc": "BALL - steel 1/4''"
+    },
+    {
+      "ref": 19,
+      "x": 17.71,
+      "y": 12.15,
+      "partNo": "211-7",
+      "desc": "BALL - steel 1/4''"
+    },
+    {
+      "ref": 20,
+      "x": 47.54,
+      "y": 40.17,
+      "partNo": "218-5007",
+      "desc": "SEAL - \"O\" ring, bushing"
+    },
+    {
+      "ref": 21,
+      "x": 50.54,
+      "y": 38.81,
+      "partNo": "C28752",
+      "desc": "SEAL - \"O\" ring"
+    },
+    {
+      "ref": 22,
+      "x": 55.24,
+      "y": 45.53,
+      "partNo": "221-841",
+      "desc": "PLUG - pipe 1/4''"
+    },
+    {
+      "ref": 23,
+      "x": 48.04,
+      "y": 16.35,
+      "partNo": "195-521",
+      "desc": "WASHER - return"
+    },
+    {
+      "ref": 24,
+      "x": 44.53,
+      "y": 14.77,
+      "partNo": "C26431",
+      "desc": "SPRING - return"
+    },
+    {
+      "ref": 25,
+      "x": 42.03,
+      "y": 13.41,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14014280",
+          "partNo": "C18853",
+          "desc": "SPACER - (use before S/N 14014280)"
+        },
+        {
+          "serialNote": "use S/N 14014280 and after",
+          "partNo": "C26667",
+          "desc": "SPACER - (use S/N 14014280 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 26,
+      "x": 36.93,
+      "y": 10.79,
+      "partNo": "164-602",
+      "desc": "SCREW - No. 10 - 32 x 1/2'' socket"
+    },
+    {
+      "ref": 27,
+      "x": 34.13,
+      "y": 9.74,
+      "partNo": "C18847",
+      "desc": "COVER - return"
+    },
+    {
+      "ref": 28,
+      "x": 70.05,
+      "y": 3.23,
+      "partNo": "C21510",
+      "desc": "CAP - relief adjust"
+    },
+    {
+      "ref": 29,
+      "x": 78.36,
+      "y": 6.9,
+      "partNo": "C21507",
+      "desc": "SPRING - relief"
+    },
+    {
+      "ref": 29,
+      "x": 54.54,
+      "y": 10.79,
+      "partNo": "C21507",
+      "desc": "SPRING - relief"
+    },
+    {
+      "ref": 30,
+      "x": 83.57,
+      "y": 9.53,
+      "partNo": "211-208",
+      "desc": "BALL - steel 5/16''"
+    },
+    {
+      "ref": 30,
+      "x": 59.25,
+      "y": 13.2,
+      "partNo": "211-208",
+      "desc": "BALL - steel 5/16''"
+    },
+    {
+      "ref": 31,
+      "x": 72.86,
+      "y": 4.49,
+      "partNo": "C21508",
+      "desc": "GASKET - relief adjust cap"
+    },
+    {
+      "ref": 32,
+      "x": 75.56,
+      "y": 5.64,
+      "partNo": "C21509",
+      "desc": "SCREW - relief adjust"
+    },
+    {
+      "ref": 33,
+      "x": 80.86,
+      "y": 8.37,
+      "partNo": "C21506",
+      "desc": "RETAINER - ball, relief"
+    },
+    {
+      "ref": 33,
+      "x": 57.04,
+      "y": 11.73,
+      "partNo": "C21506",
+      "desc": "RETAINER - ball, relief"
+    },
+    {
+      "ref": 34,
+      "x": 84.77,
+      "y": 11.84,
+      "partNo": "C21522",
+      "desc": "SEAT - ball, relief"
+    },
+    {
+      "ref": 35,
+      "x": 62.45,
+      "y": 14.67,
+      "partNo": "C26663",
+      "desc": "SEAT - ball, relief"
+    },
+    {
+      "ref": 36,
+      "x": 52.34,
+      "y": 9.74,
+      "partNo": "C26665",
+      "desc": "SCREW - relief adjust"
+    },
+    {
+      "ref": 37,
+      "x": 49.84,
+      "y": 8.27,
+      "partNo": "C26664",
+      "desc": "GASKET - relief adjust, cap and nut"
+    },
+    {
+      "ref": 37,
+      "x": 44.43,
+      "y": 7.22,
+      "partNo": "C26664",
+      "desc": "GASKET - relief adjust, cap and nut"
+    },
+    {
+      "ref": 38,
+      "x": 47.64,
+      "y": 7.74,
+      "partNo": "129-166",
+      "desc": "NUT - relief adjust"
+    },
+    {
+      "ref": 39,
+      "x": 41.13,
+      "y": 6.59,
+      "partNo": "C26666",
+      "desc": "CAP - relief"
+    },
+    {
+      "ref": 40,
+      "x": 41.73,
+      "y": 34.3,
+      "partNo": "C26669",
+      "desc": "RING - backup"
+    },
+    {
+      "ref": 41,
+      "x": 39.33,
+      "y": 12.57,
+      "partNo": "192-18",
+      "desc": "LOCK WASHER"
+    },
+    {
+      "ref": 42,
+      "x": 12.31,
+      "y": 31.36,
+      "partNo": "C18852",
+      "desc": "BUSHING - power beyond"
+    },
+    {
+      "ref": 42,
+      "x": 44.23,
+      "y": 41.85,
+      "partNo": "C18852",
+      "desc": "BUSHING - power beyond"
+    },
+    {
+      "ref": 43,
+      "x": 11.71,
+      "y": 37.55,
+      "partNo": "PNL",
+      "desc": "(part not listed in printed table - visible on diagram only)"
+    }
+  ],
+  "footnotes": ""
+}

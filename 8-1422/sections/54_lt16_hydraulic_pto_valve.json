@@ -1,0 +1,206 @@
+{
+  "sectionTitle": "LT16 Hydraulic PTO Valve",
+  "breadcrumb": "LT16 Hydraulic PTO Valve",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/lt16_hydraulic_pto_valve.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 37.61,
+      "y": 26.12,
+      "partNo": "C11888",
+      "desc": "BRACKET - handle"
+    },
+    {
+      "ref": 2,
+      "x": 69.59,
+      "y": 33.73,
+      "partNo": "C11889",
+      "desc": "HANDLE - valve"
+    },
+    {
+      "ref": 3,
+      "x": 63.77,
+      "y": 27.12,
+      "partNo": "141-62",
+      "desc": "PIN - clevis"
+    },
+    {
+      "ref": 4,
+      "x": 65.07,
+      "y": 31.04,
+      "partNo": "132-5",
+      "desc": "PIN - cotter 1/16'' x 1/2''"
+    },
+    {
+      "ref": 5,
+      "x": 54.15,
+      "y": 22.31,
+      "partNo": "182-527",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 6,
+      "x": 54.55,
+      "y": 26.0,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4''"
+    },
+    {
+      "ref": 7,
+      "x": 58.46,
+      "y": 37.2,
+      "partNo": "221-842",
+      "desc": "PLUG - relief 3/8'' NPT"
+    },
+    {
+      "ref": 8,
+      "x": 58.36,
+      "y": 40.11,
+      "partNo": "C28700",
+      "desc": "WASHER - relief, .010''"
+    },
+    {
+      "ref": 9,
+      "x": 58.46,
+      "y": 43.24,
+      "partNo": "C28698",
+      "desc": "WASHER - relief, .020''"
+    },
+    {
+      "ref": 10,
+      "x": 58.46,
+      "y": 44.7,
+      "partNo": "C28716",
+      "desc": "SPRING - relief"
+    },
+    {
+      "ref": 11,
+      "x": 58.16,
+      "y": 47.61,
+      "partNo": "211-11",
+      "desc": "BALL - relief 3/8''"
+    },
+    {
+      "ref": 12,
+      "x": 57.76,
+      "y": 49.96,
+      "partNo": "C18417",
+      "desc": "SEAT - relief"
+    },
+    {
+      "ref": 13,
+      "x": 57.86,
+      "y": 52.53,
+      "partNo": "C28696",
+      "desc": "SEAL - \"O\" ring, relief seat"
+    },
+    {
+      "ref": 14,
+      "x": 40.72,
+      "y": 50.63,
+      "partNo": "C11891",
+      "desc": "SEAL - \"U\" cup"
+    },
+    {
+      "ref": 14,
+      "x": 39.92,
+      "y": 37.2,
+      "partNo": "C11891",
+      "desc": "SEAL - \"U\" cup"
+    },
+    {
+      "ref": 15,
+      "x": 55.55,
+      "y": 54.77,
+      "partNo": "NSS",
+      "desc": "BODY AND SPOOL ASSEMBLY - (order C30044 valve)"
+    },
+    {
+      "ref": 16,
+      "x": 54.35,
+      "y": 67.42,
+      "partNo": "C11895",
+      "desc": "ADAPTER - spool"
+    },
+    {
+      "ref": 17,
+      "x": 41.32,
+      "y": 68.43,
+      "partNo": "195-102",
+      "desc": "WASHER - detent"
+    },
+    {
+      "ref": 18,
+      "x": 40.72,
+      "y": 71.23,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4''"
+    },
+    {
+      "ref": 19,
+      "x": 40.42,
+      "y": 74.47,
+      "partNo": "75-48",
+      "desc": "SCREW - 1/4'' x 1/2'' rd. hd. machine"
+    },
+    {
+      "ref": 20,
+      "x": 39.01,
+      "y": 77.94,
+      "partNo": "C11893",
+      "desc": "BONNET - detent"
+    },
+    {
+      "ref": 21,
+      "x": 40.72,
+      "y": 82.09,
+      "partNo": "169-88",
+      "desc": "SCREW - bonnet #8 x 2-1/4'' fillister head"
+    },
+    {
+      "ref": 22,
+      "x": 53.55,
+      "y": 74.36,
+      "partNo": "C11901",
+      "desc": "PIN - detent"
+    },
+    {
+      "ref": 23,
+      "x": 56.35,
+      "y": 75.71,
+      "partNo": "C11892",
+      "desc": "SPRING - detent"
+    },
+    {
+      "ref": 24,
+      "x": 58.76,
+      "y": 76.49,
+      "partNo": "C11886",
+      "desc": "WASHER - detent cap"
+    },
+    {
+      "ref": 25,
+      "x": 61.77,
+      "y": 78.39,
+      "partNo": "C11887",
+      "desc": "CAP - detent"
+    },
+    {
+      "ref": 26,
+      "x": 32.5,
+      "y": 58.47,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8'' x 3/4'' NC hex"
+    },
+    {
+      "ref": 27,
+      "x": 36.41,
+      "y": 61.38,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8''"
+    }
+  ],
+  "footnotes": ""
+}

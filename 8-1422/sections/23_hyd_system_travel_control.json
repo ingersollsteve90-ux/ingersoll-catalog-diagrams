@@ -1,0 +1,483 @@
+{
+  "sectionTitle": "Hydraulic System (Travel Control)",
+  "breadcrumb": "Hydraulic System (Travel Control)",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/hyd_system_travel_control.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 34.75,
+      "y": 49.18,
+      "variants": [
+        {
+          "serialNote": "use C28370, C28371, 217-179",
+          "partNo": "NSS*",
+          "desc": "PUMP - hydraulic (repairs page 53) (use C28370, C28371, 217-179)"
+        },
+        {
+          "serialNote": "**",
+          "partNo": "C28370",
+          "desc": "PUMP - hydraulic (repairs page 53)**"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 33.55,
+      "y": 55.4,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14030241",
+          "partNo": "61-616",
+          "desc": "SCREW - 3/8'' - 16 - 1'' hex socket head N.C. (use before S/N 14030241)"
+        },
+        {
+          "serialNote": "use S/N 14030241 and after",
+          "partNo": "62-616",
+          "desc": "SCREW - 3/8'' - 24 x 1'' N.F. (use S/N 14030241 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 36.56,
+      "y": 57.11,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8''"
+    },
+    {
+      "ref": 3,
+      "x": 64.3,
+      "y": 48.86,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8''"
+    },
+    {
+      "ref": 4,
+      "x": 87.64,
+      "y": 41.35,
+      "partNo": "C25952",
+      "desc": "RESERVOIR - oil"
+    },
+    {
+      "ref": 5,
+      "x": 82.83,
+      "y": 76.41,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14030233",
+          "partNo": "C25376",
+          "desc": "EXCHANGER - heat (use before S/N 14030233)"
+        },
+        {
+          "serialNote": "use S/N 14030233 and after",
+          "partNo": "C26456",
+          "desc": "EXCHANGER - heat (use S/N 14030233 and after) shown"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 63.6,
+      "y": 83.91,
+      "partNo": "NSS",
+      "desc": "HOSE - rubber 3/4\" I.D. (use C22902)"
+    },
+    {
+      "ref": 7,
+      "x": 71.61,
+      "y": 77.59,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14030233",
+          "partNo": "C25955",
+          "desc": "HOSE - rubber 90 3/4\" I.D. (use before S/N 14030233)"
+        },
+        {
+          "serialNote": "use S/N 14030233 and after",
+          "partNo": "C25955",
+          "desc": "HOSE - rubber 90 3/4\" I.D. (use S/N 14030233 and after) (cut to size)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 49.98,
+      "y": 68.26,
+      "partNo": "C28293",
+      "desc": "HOSE - rubber 1\" I.D."
+    },
+    {
+      "ref": 9,
+      "x": 55.99,
+      "y": 72.44,
+      "partNo": "214-256",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 9,
+      "x": 75.02,
+      "y": 81.13,
+      "partNo": "214-256",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 9,
+      "x": 71.11,
+      "y": 73.19,
+      "partNo": "214-256",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 9,
+      "x": 60.6,
+      "y": 91.74,
+      "partNo": "214-256",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 9,
+      "x": 42.27,
+      "y": 64.62,
+      "partNo": "214-256",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 10,
+      "x": 43.97,
+      "y": 61.19,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "217-390*",
+          "desc": "FITTING - pump inlet (includes 218-5008 O ring)"
+        },
+        {
+          "serialNote": "standard",
+          "partNo": "217-179**",
+          "desc": "FITTING - pump inlet (includes 218-5008 O ring)"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 38.36,
+      "y": 47.68,
+      "partNo": "218-5107",
+      "desc": "FITTING - pump outlet 90 (includes 218-5007 O ring)"
+    },
+    {
+      "ref": 12,
+      "x": 22.34,
+      "y": 15.08,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic (includes 218-5007 O ring)"
+    },
+    {
+      "ref": 12,
+      "x": 43.07,
+      "y": 16.8,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic (includes 218-5007 O ring)"
+    },
+    {
+      "ref": 12,
+      "x": 57.59,
+      "y": 22.8,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic (includes 218-5007 O ring)"
+    },
+    {
+      "ref": 12,
+      "x": 62.2,
+      "y": 7.69,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic (includes 218-5007 O ring)"
+    },
+    {
+      "ref": 13,
+      "x": 55.09,
+      "y": 19.27,
+      "partNo": "218-5065",
+      "desc": "FITTING - travel valve outlet (includes 218-5007 O ring)"
+    },
+    {
+      "ref": 14,
+      "x": 44.17,
+      "y": 19.8,
+      "partNo": "218-5066",
+      "desc": "FITTING - hydraulic (includes 218-5006 O ring)"
+    },
+    {
+      "ref": 14,
+      "x": 41.36,
+      "y": 28.7,
+      "partNo": "218-5066",
+      "desc": "FITTING - hydraulic (includes 218-5006 O ring)"
+    },
+    {
+      "ref": 15,
+      "x": 36.16,
+      "y": 14.01,
+      "partNo": "NSS",
+      "desc": "FITTING - hydraulic (includes 218-5006 O ring) (use 218-5406 and 218-5254)"
+    },
+    {
+      "ref": 16,
+      "x": 30.75,
+      "y": 10.69,
+      "partNo": "218-5251",
+      "desc": "FITTING - swivel (includes 218-5007 O ring)"
+    },
+    {
+      "ref": 17,
+      "x": 29.75,
+      "y": 22.48,
+      "partNo": "218-5117",
+      "desc": "FITTING - hydraulic 90 (includes 218-5006 ring)"
+    },
+    {
+      "ref": 18,
+      "x": 38.96,
+      "y": 26.23,
+      "partNo": "C24995",
+      "desc": "VALVE - holding"
+    },
+    {
+      "ref": 19,
+      "x": 32.75,
+      "y": 26.88,
+      "partNo": "C28487",
+      "desc": "\"O\" RING - end caps"
+    },
+    {
+      "ref": 20,
+      "x": 19.63,
+      "y": 29.13,
+      "partNo": "C24994",
+      "desc": "TUBE - holding valve to hydraulic motor"
+    },
+    {
+      "ref": 21,
+      "x": 52.68,
+      "y": 33.74,
+      "partNo": "C25007",
+      "desc": "TUBE - holding valve to travel valve"
+    },
+    {
+      "ref": 22,
+      "x": 49.88,
+      "y": 20.55,
+      "partNo": "C25008",
+      "desc": "TUBE - holding valve to travel valve"
+    },
+    {
+      "ref": 23,
+      "x": 55.79,
+      "y": 39.53,
+      "partNo": "C18284",
+      "desc": "TUBE - pump to travel valve"
+    },
+    {
+      "ref": 24,
+      "x": 19.33,
+      "y": 75.77,
+      "partNo": "C21611",
+      "desc": "TUBE - travel valve to tee"
+    },
+    {
+      "ref": 25,
+      "x": 28.85,
+      "y": 77.16,
+      "partNo": "C25956",
+      "desc": "TUBE - tee to filter"
+    },
+    {
+      "ref": 26,
+      "x": 19.63,
+      "y": 62.15,
+      "partNo": "218-596",
+      "desc": "FITTING - tee"
+    },
+    {
+      "ref": 27,
+      "x": 42.87,
+      "y": 73.84,
+      "partNo": "218-616",
+      "desc": "FITTING - tee"
+    },
+    {
+      "ref": 28,
+      "x": 32.05,
+      "y": 80.38,
+      "partNo": "218-335",
+      "desc": "CAP - tee"
+    },
+    {
+      "ref": 29,
+      "x": 48.38,
+      "y": 87.13,
+      "partNo": "217-155",
+      "desc": "FITTING - hydraulic"
+    },
+    {
+      "ref": 30,
+      "x": 43.77,
+      "y": 85.31,
+      "partNo": "C30152",
+      "desc": "FILTER - hydraulic oil"
+    },
+    {
+      "ref": 30,
+      "x": 25.54,
+      "y": 81.99,
+      "partNo": "C30152",
+      "desc": "FILTER - hydraulic oil"
+    },
+    {
+      "ref": 31,
+      "x": 17.23,
+      "y": 93.46,
+      "partNo": "C28753",
+      "desc": "HOUSING - filter"
+    },
+    {
+      "ref": 32,
+      "x": 36.46,
+      "y": 89.38,
+      "partNo": "C28754",
+      "desc": "COVER - filter"
+    },
+    {
+      "ref": 33,
+      "x": 13.02,
+      "y": 92.81,
+      "partNo": "113-3",
+      "desc": "BOLT - cover"
+    },
+    {
+      "ref": 34,
+      "x": 24.44,
+      "y": 95.92,
+      "partNo": "C28783",
+      "desc": "KIT - filter service"
+    },
+    {
+      "ref": 35,
+      "x": 25.94,
+      "y": 84.77,
+      "partNo": "NSS",
+      "desc": "CARTRIDGE - filter"
+    },
+    {
+      "ref": 36,
+      "x": 30.35,
+      "y": 87.02,
+      "partNo": "C28755",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 37,
+      "x": 50.08,
+      "y": 60.86,
+      "partNo": "C22947",
+      "desc": "TIE - hose"
+    },
+    {
+      "ref": 38,
+      "x": 55.09,
+      "y": 3.61,
+      "partNo": "C25968",
+      "desc": "VALVE - hydraulic, travel control (repairs page 49)"
+    },
+    {
+      "ref": 39,
+      "x": 40.76,
+      "y": 4.36,
+      "partNo": "171-247",
+      "desc": "SCREW - 5/16'' - 18 x 1-1/4'' flat head"
+    },
+    {
+      "ref": 40,
+      "x": 40.86,
+      "y": 13.05,
+      "partNo": "131-351",
+      "desc": "NUT - lock, 5/16'' - 18 hex"
+    },
+    {
+      "ref": 41,
+      "x": 30.95,
+      "y": 5.54,
+      "partNo": "NSS",
+      "desc": "MOTOR - hydraulic drive (repairs page 55)"
+    },
+    {
+      "ref": 42,
+      "x": 16.23,
+      "y": 19.05,
+      "partNo": "C28949",
+      "desc": "SEAL - hydraulic motor to case"
+    },
+    {
+      "ref": 43,
+      "x": 12.12,
+      "y": 5.86,
+      "partNo": "166-86",
+      "desc": "BOLT - 1/2'' - 13 x 1-1/4'' 12 point flanged"
+    },
+    {
+      "ref": 44,
+      "x": 56.69,
+      "y": 66.12,
+      "partNo": "C25948",
+      "desc": "SUPPORT - pump"
+    },
+    {
+      "ref": 45,
+      "x": 62.1,
+      "y": 51.75,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8'' x 3/4''"
+    },
+    {
+      "ref": 46,
+      "x": 66.1,
+      "y": 53.9,
+      "partNo": "195-104",
+      "desc": "WASHER - 7/16'' x 1''"
+    },
+    {
+      "ref": 47,
+      "x": 47.57,
+      "y": 57.0,
+      "partNo": "C28289",
+      "desc": "KEY - 3/16\" x .97\" (pump shaft)"
+    },
+    {
+      "ref": 48,
+      "x": 57.89,
+      "y": 52.5,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "C25950*",
+          "desc": "COUPLING - pump (repairs page 53)"
+        },
+        {
+          "serialNote": "standard",
+          "partNo": "C28371**",
+          "desc": "COUPLING - pump (repairs page 53)"
+        }
+      ]
+    },
+    {
+      "ref": 49,
+      "x": 56.69,
+      "y": 61.19,
+      "partNo": "C28321",
+      "desc": "KEY - square 1/4\" x 3/4\" (engine shaft)"
+    }
+  ],
+  "footnotes": ""
+}

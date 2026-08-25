@@ -1,0 +1,345 @@
+{
+  "sectionTitle": "Hood, Frame and Grille",
+  "breadcrumb": "Hood, Frame and Grille",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/hood_frame_grille.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 67.11,
+      "y": 57.22,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "NSS",
+          "desc": "FRAME - main 648 (contact Ingersoll Service Parts for availability)"
+        },
+        {
+          "serialNote": "BH",
+          "partNo": "NSS",
+          "desc": "FRAME - main 648BH (contact Ingersoll Service Parts for availability)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 22.74,
+      "y": 91.7,
+      "variants": [
+        {
+          "serialNote": "L.H.",
+          "partNo": "C25933",
+          "desc": "PAD - foot, L.H."
+        },
+        {
+          "serialNote": "R.H.",
+          "partNo": "C25935",
+          "desc": "PAD - foot, R.H."
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 13.22,
+      "y": 88.15,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8'' x 1'' NC hex"
+    },
+    {
+      "ref": 4,
+      "x": 16.33,
+      "y": 87.31,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8''"
+    },
+    {
+      "ref": 4,
+      "x": 53.88,
+      "y": 41.23,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8''"
+    },
+    {
+      "ref": 4,
+      "x": 64.0,
+      "y": 43.53,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8''"
+    },
+    {
+      "ref": 5,
+      "x": 13.12,
+      "y": 76.24,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8''"
+    },
+    {
+      "ref": 5,
+      "x": 67.31,
+      "y": 41.65,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8''"
+    },
+    {
+      "ref": 6,
+      "x": 41.77,
+      "y": 85.85,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8'' NC hex"
+    },
+    {
+      "ref": 6,
+      "x": 56.79,
+      "y": 40.29,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8'' NC hex"
+    },
+    {
+      "ref": 7,
+      "x": 86.84,
+      "y": 64.43,
+      "partNo": "C25969",
+      "desc": "TRAY - battery"
+    },
+    {
+      "ref": 8,
+      "x": 85.73,
+      "y": 54.29,
+      "partNo": "C16239",
+      "desc": "STRAP - battery hold down"
+    },
+    {
+      "ref": 9,
+      "x": 54.29,
+      "y": 51.47,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16'' x 3/4'' NC hex"
+    },
+    {
+      "ref": 10,
+      "x": 81.13,
+      "y": 84.7,
+      "partNo": "C29759",
+      "desc": "PIN - axle pivot (also use C29760, C22278, 219-55 before S/N 14098406)"
+    },
+    {
+      "ref": 11,
+      "x": 88.14,
+      "y": 90.03,
+      "partNo": "187-1910",
+      "desc": "BOLT - 3/8'' x 3/4'' NC hex head"
+    },
+    {
+      "ref": 12,
+      "x": 76.82,
+      "y": 95.05,
+      "partNo": "219-17",
+      "desc": "FITTING - lube (use before S/N 14045712)"
+    },
+    {
+      "ref": 13,
+      "x": 73.01,
+      "y": 29.84,
+      "partNo": "C25971",
+      "desc": "FRAME - grille"
+    },
+    {
+      "ref": 14,
+      "x": 80.03,
+      "y": 53.67,
+      "partNo": "C19375",
+      "desc": "INSERT - grille"
+    },
+    {
+      "ref": 15,
+      "x": 79.02,
+      "y": 28.9,
+      "partNo": "C21545",
+      "desc": "PANEL - headlight"
+    },
+    {
+      "ref": 16,
+      "x": 86.94,
+      "y": 36.74,
+      "partNo": "187-1036",
+      "desc": "BOLT - 1/4'' x 1/2'' NC hex slotted."
+    },
+    {
+      "ref": 17,
+      "x": 58.19,
+      "y": 33.29,
+      "partNo": "C17653",
+      "desc": "NUT - 1/4'' tinnerman"
+    },
+    {
+      "ref": 18,
+      "x": 66.3,
+      "y": 45.73,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8'' x 3/4'' NC hex"
+    },
+    {
+      "ref": 19,
+      "x": 27.24,
+      "y": 41.23,
+      "partNo": "C17647",
+      "desc": "PANEL - dash"
+    },
+    {
+      "ref": 20,
+      "x": 42.17,
+      "y": 43.84,
+      "partNo": "187-1036",
+      "desc": "BOLT - 1/4'' x 1/2'' NC hex self tapping"
+    },
+    {
+      "ref": 21,
+      "x": 48.88,
+      "y": 31.62,
+      "partNo": "129-37",
+      "desc": "NUT - #10"
+    },
+    {
+      "ref": 22,
+      "x": 17.33,
+      "y": 32.14,
+      "partNo": "C25975",
+      "desc": "SUPPORT - grille"
+    },
+    {
+      "ref": 23,
+      "x": 26.84,
+      "y": 34.65,
+      "partNo": "111-340",
+      "desc": "BOLT - 3/8'' x 3/4'' NC round head, square neck"
+    },
+    {
+      "ref": 24,
+      "x": 60.7,
+      "y": 12.5,
+      "partNo": "C25973",
+      "desc": "HOOD"
+    },
+    {
+      "ref": 25,
+      "x": 75.92,
+      "y": 77.39,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8'' - 16 x 1-1/4'' (engine mounting)"
+    },
+    {
+      "ref": 26,
+      "x": 69.61,
+      "y": 65.06,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8''"
+    },
+    {
+      "ref": 27,
+      "x": 65.2,
+      "y": 64.43,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8'' - 16 hex"
+    },
+    {
+      "ref": 28,
+      "x": 85.13,
+      "y": 74.88,
+      "partNo": "C18055",
+      "desc": "PIN - latch"
+    },
+    {
+      "ref": 29,
+      "x": 88.34,
+      "y": 77.39,
+      "partNo": "C10898",
+      "desc": "PIN - safety"
+    },
+    {
+      "ref": 30,
+      "x": 56.99,
+      "y": 52.62,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16''"
+    },
+    {
+      "ref": 31,
+      "x": 71.81,
+      "y": 17.09,
+      "partNo": "C21638",
+      "desc": "STRIP - seal"
+    },
+    {
+      "ref": 32,
+      "x": 75.72,
+      "y": 92.44,
+      "partNo": "C27508",
+      "desc": "PIN - attachment"
+    },
+    {
+      "ref": 33,
+      "x": 60.8,
+      "y": 92.44,
+      "partNo": "131-1318",
+      "desc": "NUT - lock 1/2'' NF jam"
+    },
+    {
+      "ref": 34,
+      "x": 76.02,
+      "y": 23.89,
+      "partNo": "182-528",
+      "desc": "SCREW - #10 x 1/2'' pan head"
+    },
+    {
+      "ref": 35,
+      "x": 45.67,
+      "y": 28.69,
+      "partNo": "192-18",
+      "desc": "LOCK WASHER - #10"
+    },
+    {
+      "ref": 36,
+      "x": 47.67,
+      "y": 26.5,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 37,
+      "x": 69.71,
+      "y": 68.71,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8''"
+    },
+    {
+      "ref": 38,
+      "x": 86.54,
+      "y": 95.99,
+      "partNo": "219-55",
+      "desc": "FITTING - lube 90 (use S/N 14045712 and after)"
+    },
+    {
+      "ref": 39,
+      "x": 78.42,
+      "y": 85.54,
+      "partNo": "C29760",
+      "desc": "RING - retaining (use S/N 14098406 and after)"
+    },
+    {
+      "ref": 40,
+      "x": 84.33,
+      "y": 88.05,
+      "partNo": "C22278",
+      "desc": "PIN - retaining (use S/N 14098406 and after)"
+    },
+    {
+      "ref": 41,
+      "x": 59.99,
+      "y": 50.01,
+      "partNo": "C21540",
+      "desc": "HINGE - hood"
+    }
+  ],
+  "footnotes": ""
+}

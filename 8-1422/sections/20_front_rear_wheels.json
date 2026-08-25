@@ -1,0 +1,135 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 38.59,
+      "y": 38.81,
+      "variants": [
+        {
+          "serialNote": "648BH",
+          "partNo": "C26907",
+          "desc": "WHEEL - rim, rear (648BH) (used in LL-120 Hi-Flotation kit)(brown)"
+        },
+        {
+          "serialNote": "648",
+          "partNo": "C10316",
+          "desc": "WHEEL - rim, rear (648)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 18.44,
+      "y": 65.31,
+      "partNo": "C27763",
+      "desc": "BOLT - rear wheel lug"
+    },
+    {
+      "ref": 3,
+      "x": 52.02,
+      "y": 52.06,
+      "partNo": "C28317",
+      "desc": "CAP - dust"
+    },
+    {
+      "ref": 4,
+      "x": 62.05,
+      "y": 74.52,
+      "partNo": "132-335",
+      "desc": "PIN - cotter 1/8'' x 1-1/4''"
+    },
+    {
+      "ref": 5,
+      "x": 56.63,
+      "y": 48.03,
+      "partNo": "129-290",
+      "desc": "NUT - castle 3/4'' NC hex"
+    },
+    {
+      "ref": 6,
+      "x": 59.24,
+      "y": 44.86,
+      "partNo": "C28972",
+      "desc": "WASHER - retaining"
+    },
+    {
+      "ref": 7,
+      "x": 61.65,
+      "y": 40.83,
+      "partNo": "C28262",
+      "desc": "BEARING - cone"
+    },
+    {
+      "ref": 7,
+      "x": 78.69,
+      "y": 18.08,
+      "partNo": "C28262",
+      "desc": "BEARING - cone"
+    },
+    {
+      "ref": 8,
+      "x": 81.79,
+      "y": 14.91,
+      "partNo": "C28316",
+      "desc": "SEAL - bearing"
+    },
+    {
+      "ref": 9,
+      "x": 65.25,
+      "y": 30.17,
+      "partNo": "C28305",
+      "desc": "NUT - wheel"
+    },
+    {
+      "ref": 10,
+      "x": 69.06,
+      "y": 22.98,
+      "partNo": "C27435",
+      "desc": "HUB ASSEMBLY - front wheel"
+    },
+    {
+      "ref": 11,
+      "x": 75.78,
+      "y": 21.82,
+      "partNo": "C28988",
+      "desc": "RACE - bearing"
+    },
+    {
+      "ref": 11,
+      "x": 71.67,
+      "y": 64.15,
+      "partNo": "C28988",
+      "desc": "RACE - bearing"
+    },
+    {
+      "ref": 12,
+      "x": 83.7,
+      "y": 55.51,
+      "variants": [
+        {
+          "serialNote": "STUD - wheel",
+          "partNo": "C18300",
+          "desc": "STUD - wheel"
+        },
+        {
+          "serialNote": "HUB - wheel",
+          "partNo": "NSS",
+          "desc": "HUB - wheel"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 40.9,
+      "y": 54.36,
+      "partNo": "C26902",
+      "desc": "WHEEL - rim, front(brown)"
+    }
+  ],
+  "footnotes": ""
+}

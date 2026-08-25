@@ -1,0 +1,298 @@
+{
+  "sectionTitle": "Hydraulic System (Bucket Control)",
+  "breadcrumb": "Hydraulic System (Bucket Control)",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/hyd_system_bucket_control.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 15.26,
+      "y": 29.55,
+      "partNo": "C18179",
+      "desc": "VALVE - bucket control (repairs page 51)"
+    },
+    {
+      "ref": 2,
+      "x": 87.03,
+      "y": 44.8,
+      "partNo": "NSS",
+      "desc": "CYLINDER - lift arm (repairs page 63 or 65)"
+    },
+    {
+      "ref": 3,
+      "x": 67.88,
+      "y": 83.86,
+      "partNo": "NSS",
+      "desc": "CYLINDER - bucket (repairs page 63 or 65)"
+    },
+    {
+      "ref": 4,
+      "x": 11.45,
+      "y": 11.91,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14076821",
+          "partNo": "218-5066",
+          "desc": "FITTING - hydraulic (use before S/N 14076821)"
+        },
+        {
+          "serialNote": "\"O\" RING",
+          "partNo": "218-5006",
+          "desc": "\"O\" RING"
+        },
+        {
+          "serialNote": "use S/N 14076821 and after",
+          "partNo": "218-5058",
+          "desc": "FITTING - hydraulic (use S/N 14076821 and after)"
+        },
+        {
+          "serialNote": "\"O\" RING",
+          "partNo": "218-5006",
+          "desc": "\"O\" RING"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 19.37,
+      "y": 32.48,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14076821",
+          "partNo": "218-5066",
+          "desc": "FITTING - hydraulic (use before S/N 14076821)"
+        },
+        {
+          "serialNote": "\"O\" RING",
+          "partNo": "218-5006",
+          "desc": "\"O\" RING"
+        },
+        {
+          "serialNote": "use S/N 14076821 and after",
+          "partNo": "218-5058",
+          "desc": "FITTING - hydraulic (use S/N 14076821 and after)"
+        },
+        {
+          "serialNote": "\"O\" RING",
+          "partNo": "218-5006",
+          "desc": "\"O\" RING"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 34.9,
+      "y": 11.91,
+      "partNo": "C18175*",
+      "desc": "TUBE - travel valve to bucket valve (use before S/N 14076821)"
+    },
+    {
+      "ref": 6,
+      "x": 25.28,
+      "y": 37.18,
+      "partNo": "218-5057",
+      "desc": "FITTING - hydraulic (includes 218-5057 O ring)"
+    },
+    {
+      "ref": 6,
+      "x": 16.06,
+      "y": 45.01,
+      "partNo": "218-5057",
+      "desc": "FITTING - hydraulic (includes 218-5057 O ring)"
+    },
+    {
+      "ref": 7,
+      "x": 37.81,
+      "y": 32.16,
+      "partNo": "C25162",
+      "desc": "TUBE - bucket valve to L.H. tower"
+    },
+    {
+      "ref": 8,
+      "x": 29.49,
+      "y": 78.22,
+      "partNo": "C25161",
+      "desc": "TUBE - bucket valve to R.H. tower"
+    },
+    {
+      "ref": 9,
+      "x": 70.09,
+      "y": 76.97,
+      "partNo": "218-533",
+      "desc": "FITTING - 45"
+    },
+    {
+      "ref": 10,
+      "x": 86.12,
+      "y": 90.02,
+      "partNo": "218-443",
+      "desc": "FITTING - hydraulic"
+    },
+    {
+      "ref": 11,
+      "x": 81.21,
+      "y": 65.79,
+      "partNo": "C26439",
+      "desc": "TUBE - bucket cylinder"
+    },
+    {
+      "ref": 12,
+      "x": 52.85,
+      "y": 68.3,
+      "partNo": "720-303",
+      "desc": "HOSE - bucket cylinder"
+    },
+    {
+      "ref": 12,
+      "x": 23.18,
+      "y": 73.62,
+      "partNo": "720-303",
+      "desc": "HOSE - bucket cylinder"
+    },
+    {
+      "ref": 13,
+      "x": 44.73,
+      "y": 82.92,
+      "partNo": "C25164",
+      "desc": "CLIP - tube mounting"
+    },
+    {
+      "ref": 14,
+      "x": 42.72,
+      "y": 85.63,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4'' - 20 x 1/2'' tapping"
+    },
+    {
+      "ref": 15,
+      "x": 28.39,
+      "y": 50.96,
+      "partNo": "C25166",
+      "desc": "FITTING - \"tee\" (includes 218-5005 O ring)"
+    },
+    {
+      "ref": 16,
+      "x": 35.81,
+      "y": 44.28,
+      "partNo": "C25167",
+      "desc": "FITTING - special 90 (includes 218-5005 O ring)"
+    },
+    {
+      "ref": 17,
+      "x": 40.32,
+      "y": 58.06,
+      "partNo": "C26032",
+      "desc": "TUBE - bucket valve to R.H. tower"
+    },
+    {
+      "ref": 18,
+      "x": 48.03,
+      "y": 52.22,
+      "partNo": "C25157",
+      "desc": "TUBE - bucket valve to L.H. tower"
+    },
+    {
+      "ref": 19,
+      "x": 16.36,
+      "y": 49.6,
+      "partNo": "C25160",
+      "desc": "TUBE - bucket valve to R.H. tower"
+    },
+    {
+      "ref": 20,
+      "x": 46.83,
+      "y": 38.12,
+      "partNo": "C25158",
+      "desc": "TUBE - bucket valve to L.H. tower"
+    },
+    {
+      "ref": 21,
+      "x": 46.13,
+      "y": 67.98,
+      "partNo": "C25153",
+      "desc": "TUBE - lift cylinder, rod end"
+    },
+    {
+      "ref": 22,
+      "x": 73.49,
+      "y": 57.85,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14063829",
+          "partNo": "C25154",
+          "desc": "TUBE - lift cylinder, piston end (use before S/N 14063829)"
+        },
+        {
+          "serialNote": "use S/N 14063829 and after",
+          "partNo": "C26435",
+          "desc": "TUBE - lift cylinder, piston end (use S/N 14063829 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 23,
+      "x": 25.88,
+      "y": 62.45,
+      "partNo": "720-301",
+      "desc": "HOSE - lift cylinder"
+    },
+    {
+      "ref": 23,
+      "x": 16.06,
+      "y": 64.54,
+      "partNo": "720-301",
+      "desc": "HOSE - lift cylinder"
+    },
+    {
+      "ref": 24,
+      "x": 39.92,
+      "y": 72.06,
+      "partNo": "C25155",
+      "desc": "TUBE - bucket cylinder R.H."
+    },
+    {
+      "ref": 25,
+      "x": 40.32,
+      "y": 69.76,
+      "partNo": "C25156",
+      "desc": "TUBE - bucket cylinder L.H."
+    },
+    {
+      "ref": 26,
+      "x": 62.87,
+      "y": 57.85,
+      "partNo": "218-1022",
+      "desc": "FITTING - hydraulic"
+    },
+    {
+      "ref": 26,
+      "x": 60.26,
+      "y": 66.1,
+      "partNo": "218-1022",
+      "desc": "FITTING - hydraulic"
+    },
+    {
+      "ref": 27,
+      "x": 82.11,
+      "y": 42.71,
+      "partNo": "214-262",
+      "desc": "CLAMP - 2-5/16'' to 3-1/4''"
+    },
+    {
+      "ref": 27,
+      "x": 87.03,
+      "y": 70.07,
+      "partNo": "214-262",
+      "desc": "CLAMP - 2-5/16'' to 3-1/4''"
+    },
+    {
+      "ref": 28,
+      "x": 60.46,
+      "y": 30.28,
+      "partNo": "C25165",
+      "desc": "GROMET - tower"
+    }
+  ],
+  "footnotes": ""
+}

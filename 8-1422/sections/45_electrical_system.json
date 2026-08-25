@@ -1,0 +1,367 @@
+{
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "Electrical System",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 42.57,
+      "y": 39.85,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14063830",
+          "partNo": "C25564",
+          "desc": "HARNESS - wire (use before S/N 14063830)"
+        },
+        {
+          "serialNote": "use S/N 14063830 and after",
+          "partNo": "C27527",
+          "desc": "HARNESS - wire (use S/N 14063830 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 39.46,
+      "y": 65.81,
+      "partNo": "C24815",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 3,
+      "x": 83.73,
+      "y": 36.53,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14063830",
+          "partNo": "C24809",
+          "desc": "CABLE - solenoid to starter (black)(use before S/N 14063830)"
+        },
+        {
+          "serialNote": "use S/N 14063830 and after",
+          "partNo": "C29410",
+          "desc": "CABLE - solenoid to starter (black)(use S/N 14063830 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 67.61,
+      "y": 20.85,
+      "variants": [
+        {
+          "serialNote": "use S/N 14063830 and after",
+          "partNo": "C27521",
+          "desc": "CABLE - solenoid to battery positive (red)(use S/N 14063830 and after)"
+        },
+        {
+          "serialNote": "use before S/N 14063830",
+          "partNo": "C14565",
+          "desc": "CABLE - solenoid to battery positive (red)(use before S/N 14063830)"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 70.21,
+      "y": 21.89,
+      "partNo": "C24814",
+      "desc": "CABLE - battery negative to ground (black)"
+    },
+    {
+      "ref": 6,
+      "x": 69.81,
+      "y": 59.48,
+      "partNo": "C24813",
+      "desc": "CONNECTOR - stator"
+    },
+    {
+      "ref": 7,
+      "x": 15.82,
+      "y": 55.64,
+      "partNo": "C25486",
+      "desc": "CONNECTOR - rectifier"
+    },
+    {
+      "ref": 8,
+      "x": 65.1,
+      "y": 65.4,
+      "partNo": "C14537",
+      "desc": "CONNECTOR - lights"
+    },
+    {
+      "ref": 9,
+      "x": 24.74,
+      "y": 29.05,
+      "partNo": "C29413",
+      "desc": "AMMETER - 30 amperes, 12v"
+    },
+    {
+      "ref": 10,
+      "x": 16.13,
+      "y": 63.74,
+      "partNo": "C27509",
+      "desc": "RECTIFIER - voltage, 12v"
+    },
+    {
+      "ref": 11,
+      "x": 16.83,
+      "y": 43.49,
+      "partNo": "C28304",
+      "desc": "HOUR METER"
+    },
+    {
+      "ref": 12,
+      "x": 18.73,
+      "y": 84.3,
+      "partNo": "C28979",
+      "desc": "SWITCH - oil pressure"
+    },
+    {
+      "ref": 13,
+      "x": 45.97,
+      "y": 42.03,
+      "partNo": "C27970",
+      "desc": "BATTERY - 12v"
+    },
+    {
+      "ref": 14,
+      "x": 62.5,
+      "y": 22.93,
+      "variants": [
+        {
+          "serialNote": "screw type)",
+          "partNo": "C18113",
+          "desc": "CAP - battery (screw type)"
+        },
+        {
+          "serialNote": "push type)",
+          "partNo": "C29074",
+          "desc": "CAP - battery (push type)"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 9.01,
+      "y": 39.44,
+      "partNo": "C30268",
+      "desc": "SWITCH - ignition (includes key and hardware)"
+    },
+    {
+      "ref": 16,
+      "x": 11.42,
+      "y": 31.65,
+      "partNo": "C27751",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": 17,
+      "x": 85.33,
+      "y": 32.06,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14063830",
+          "partNo": "C26525",
+          "desc": "SOLENOID - start, 12v (use before S/N 14063830)"
+        },
+        {
+          "serialNote": "use S/N 14063830 and after",
+          "partNo": "C27523",
+          "desc": "SOLENOID - start, 12v (use S/N 14063830 and after) shown"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 77.22,
+      "y": 64.77,
+      "partNo": "C22571",
+      "desc": "HEADLIGHT ASSEMBLY - 12v (repairs page 75)"
+    },
+    {
+      "ref": 19,
+      "x": 73.82,
+      "y": 45.77,
+      "partNo": "C29733",
+      "desc": "STARTER - (repairs page 17)"
+    },
+    {
+      "ref": 20,
+      "x": 72.61,
+      "y": 50.96,
+      "partNo": "C24956",
+      "desc": "STATOR"
+    },
+    {
+      "ref": 21,
+      "x": 30.05,
+      "y": 78.17,
+      "partNo": "C22765",
+      "desc": "SWITCH - neutral start (1 only on 648BH)"
+    },
+    {
+      "ref": 21,
+      "x": 41.36,
+      "y": 71.0,
+      "partNo": "C22765",
+      "desc": "SWITCH - neutral start (1 only on 648BH)"
+    },
+    {
+      "ref": 22,
+      "x": 60.19,
+      "y": 82.84,
+      "partNo": "C29752",
+      "desc": "COIL - ignition, 12v"
+    },
+    {
+      "ref": 23,
+      "x": 36.66,
+      "y": 77.55,
+      "partNo": "C29990",
+      "desc": "BREAKER CONTACT ASSEMBLY - ignition (repairs page 19)"
+    },
+    {
+      "ref": 24,
+      "x": 50.48,
+      "y": 72.98,
+      "partNo": "C25845",
+      "desc": "SPARK PLUG - (includes gasket)"
+    },
+    {
+      "ref": 25,
+      "x": 49.48,
+      "y": 77.55,
+      "partNo": "C28673",
+      "desc": "GASKET - spark plug"
+    },
+    {
+      "ref": 26,
+      "x": 56.09,
+      "y": 70.69,
+      "partNo": "C29993",
+      "desc": "CABLE - spark plug"
+    },
+    {
+      "ref": 27,
+      "x": 69.81,
+      "y": 45.15,
+      "variants": [
+        {
+          "serialNote": "648",
+          "partNo": "C24683",
+          "desc": "WIRE - solenoid to switch (648)(use before S/N 14063830)"
+        },
+        {
+          "serialNote": "648BH",
+          "partNo": "C24817",
+          "desc": "WIRE - solenoid to switch (648BH)(use before S/N 14063830)"
+        },
+        {
+          "serialNote": "648",
+          "partNo": "C27538",
+          "desc": "WIRE - solenoid to switch (648)(use S/N 14063830 and after)"
+        },
+        {
+          "serialNote": "648BH",
+          "partNo": "C27539",
+          "desc": "WIRE - solenoid to switch (648BH)(use S/N 14063830 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 28,
+      "x": 22.54,
+      "y": 34.66,
+      "partNo": "223-30",
+      "desc": "FUSE - 30 amperes (included in wire harness)"
+    },
+    {
+      "ref": 29,
+      "x": 40.26,
+      "y": 73.6,
+      "partNo": "C29992",
+      "desc": "WIRE - breaker contacts to coil negative"
+    },
+    {
+      "ref": 30,
+      "x": 73.52,
+      "y": 56.57,
+      "partNo": "C25338",
+      "desc": "CONNECTOR - stator"
+    },
+    {
+      "ref": 31,
+      "x": 34.85,
+      "y": 72.67,
+      "partNo": "C23327",
+      "desc": "WIRE - switch to switch (648 only)"
+    },
+    {
+      "ref": 32,
+      "x": 18.83,
+      "y": 72.35,
+      "partNo": "C29412",
+      "desc": "WIRE - ground"
+    },
+    {
+      "ref": 33,
+      "x": 11.72,
+      "y": 44.52,
+      "partNo": "NSS",
+      "desc": "LIGHT - oil pressure (includes wires and connector)(use C30003 and C29411)"
+    },
+    {
+      "ref": 34,
+      "x": 15.22,
+      "y": 53.04,
+      "partNo": "C29411",
+      "desc": "WIRE - switch to hour meter"
+    },
+    {
+      "ref": 35,
+      "x": 29.45,
+      "y": 81.8,
+      "partNo": "C23327",
+      "desc": "WIRE - connector to switch"
+    },
+    {
+      "ref": 36,
+      "x": 23.04,
+      "y": 77.75,
+      "partNo": "C28994",
+      "desc": "CONNECTOR"
+    },
+    {
+      "ref": 37,
+      "x": 18.43,
+      "y": 53.25,
+      "partNo": "C26167",
+      "desc": "WIRE - ground"
+    },
+    {
+      "ref": 38,
+      "x": 27.84,
+      "y": 61.87,
+      "partNo": "C25244",
+      "desc": "WIRE - ground"
+    },
+    {
+      "ref": 39,
+      "x": 21.93,
+      "y": 32.69,
+      "partNo": "C29035",
+      "desc": "HOLDER - fuse"
+    },
+    {
+      "ref": 40,
+      "x": 80.43,
+      "y": 32.38,
+      "partNo": "C27549",
+      "desc": "CONNECTOR - solenoid"
+    }
+  ],
+  "footnotes": ""
+}

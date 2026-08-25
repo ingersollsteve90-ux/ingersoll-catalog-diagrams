@@ -1,0 +1,496 @@
+{
+  "sectionTitle": "Transmission and Final Drive",
+  "breadcrumb": "Transmission and Final Drive",
+  "catalogLabel": "Catalog 8-1422",
+  "modelNumbers": "Catalog 8-1422 — Models 648, 648BH",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1422/transmission_final_drive.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 46.94,
+      "y": 60.07,
+      "partNo": "NSS",
+      "desc": "CASE - transmission (order assembly above)"
+    },
+    {
+      "ref": 1,
+      "x": 13.91,
+      "y": 58.03,
+      "partNo": "NSS",
+      "desc": "CASE - transmission (order assembly above)"
+    },
+    {
+      "ref": 2,
+      "x": 22.02,
+      "y": 47.0,
+      "partNo": "C12713",
+      "desc": "BEARING - flanged"
+    },
+    {
+      "ref": 2,
+      "x": 70.05,
+      "y": 25.64,
+      "partNo": "C12713",
+      "desc": "BEARING - flanged"
+    },
+    {
+      "ref": 3,
+      "x": 68.75,
+      "y": 68.45,
+      "variants": [
+        {
+          "serialNote": "648",
+          "partNo": "C24804",
+          "desc": "BEARING - flanged (648)"
+        },
+        {
+          "serialNote": "648BH",
+          "partNo": "C26245",
+          "desc": "BEARING - flanged (648BH)(use S/N 14014289 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 29.22,
+      "y": 74.38,
+      "variants": [
+        {
+          "serialNote": "648",
+          "partNo": "C24804",
+          "desc": "BEARING - flanged (648)"
+        },
+        {
+          "serialNote": "648BH",
+          "partNo": "C26245",
+          "desc": "BEARING - flanged (648BH)(use S/N 14014289 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 77.36,
+      "y": 59.15,
+      "variants": [
+        {
+          "serialNote": "648BH",
+          "partNo": "C18097",
+          "desc": "SEAL - axle (648BH)(use S/N 14014289 and after)"
+        },
+        {
+          "serialNote": "648",
+          "partNo": "C24803",
+          "desc": "SEAL - axle (648)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 29.62,
+      "y": 85.0,
+      "variants": [
+        {
+          "serialNote": "648BH",
+          "partNo": "C18097",
+          "desc": "SEAL - axle (648BH)(use S/N 14014289 and after)"
+        },
+        {
+          "serialNote": "648",
+          "partNo": "C24803",
+          "desc": "SEAL - axle (648)"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 39.73,
+      "y": 30.85,
+      "partNo": "C13241",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": 6,
+      "x": 41.33,
+      "y": 88.89,
+      "partNo": "C13385",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": 7,
+      "x": 77.66,
+      "y": 83.88,
+      "partNo": "C13266",
+      "desc": "SEAL - shift rod"
+    },
+    {
+      "ref": 8,
+      "x": 43.83,
+      "y": 56.91,
+      "partNo": "C28281",
+      "desc": "BEARING - roller"
+    },
+    {
+      "ref": 9,
+      "x": 74.16,
+      "y": 85.62,
+      "partNo": "PNL",
+      "desc": "(part not listed in printed table - visible on diagram only)"
+    },
+    {
+      "ref": 10,
+      "x": 40.73,
+      "y": 61.4,
+      "variants": [
+        {
+          "serialNote": "3/8''",
+          "partNo": "221-843",
+          "desc": "PLUG - filler and drain 3/8''"
+        },
+        {
+          "serialNote": "1/2''",
+          "partNo": "221-844",
+          "desc": "PLUG - filler and drain 1/2''"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 50.24,
+      "y": 84.9,
+      "variants": [
+        {
+          "serialNote": "3/8''",
+          "partNo": "221-843",
+          "desc": "PLUG - filler and drain 3/8''"
+        },
+        {
+          "serialNote": "1/2''",
+          "partNo": "221-844",
+          "desc": "PLUG - filler and drain 1/2''"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 19.92,
+      "y": 79.08,
+      "partNo": "C22638",
+      "desc": "SHAFT - axle, short R.H. (648)"
+    },
+    {
+      "ref": 12,
+      "x": 87.17,
+      "y": 64.77,
+      "partNo": "C22637",
+      "desc": "SHAFT - axle, long L.H. (648)"
+    },
+    {
+      "ref": 13,
+      "x": 71.46,
+      "y": 15.94,
+      "partNo": "C13197",
+      "desc": "COVER - transmission"
+    },
+    {
+      "ref": 14,
+      "x": 87.87,
+      "y": 80.2,
+      "partNo": "138-2073",
+      "desc": "PIN - roll 3/16'' x 1-1/4''"
+    },
+    {
+      "ref": 15,
+      "x": 43.83,
+      "y": 30.96,
+      "partNo": "C26342",
+      "desc": "RING - retainer, axle"
+    },
+    {
+      "ref": 16,
+      "x": 26.42,
+      "y": 35.25,
+      "partNo": "126-128",
+      "desc": "KEY - woodruff, brake idler"
+    },
+    {
+      "ref": 17,
+      "x": 62.35,
+      "y": 23.19,
+      "partNo": "C13196",
+      "desc": "GASKET - transmission cover"
+    },
+    {
+      "ref": 18,
+      "x": 48.34,
+      "y": 8.99,
+      "partNo": "C28241",
+      "desc": "BREATHER - transmission"
+    },
+    {
+      "ref": 19,
+      "x": 65.55,
+      "y": 12.98,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4''"
+    },
+    {
+      "ref": 20,
+      "x": 65.35,
+      "y": 10.63,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4'' x 3/4'' NC hex"
+    },
+    {
+      "ref": 21,
+      "x": 58.65,
+      "y": 47.92,
+      "partNo": "C12725",
+      "desc": "FORK - shift"
+    },
+    {
+      "ref": 22,
+      "x": 83.37,
+      "y": 81.94,
+      "partNo": "C24802",
+      "desc": "ROD - gear shift"
+    },
+    {
+      "ref": 23,
+      "x": 62.35,
+      "y": 47.0,
+      "partNo": "C14168",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 23,
+      "x": 51.84,
+      "y": 57.32,
+      "partNo": "C14168",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 24,
+      "x": 48.24,
+      "y": 55.89,
+      "partNo": "C14644",
+      "desc": "GEAR - cluster input"
+    },
+    {
+      "ref": 25,
+      "x": 50.94,
+      "y": 32.18,
+      "partNo": "C30030",
+      "desc": "GEAR - high 41 tooth (also use C30031 before S/N 14098394)"
+    },
+    {
+      "ref": 26,
+      "x": 32.13,
+      "y": 43.32,
+      "partNo": "C12552",
+      "desc": "GEAR - low 55 tooth"
+    },
+    {
+      "ref": 27,
+      "x": 22.42,
+      "y": 26.77,
+      "partNo": "NSS",
+      "desc": "KIT - diff. case"
+    },
+    {
+      "ref": 27,
+      "x": 25.72,
+      "y": 10.73,
+      "partNo": "NSS",
+      "desc": "KIT - diff. case"
+    },
+    {
+      "ref": 28,
+      "x": 34.93,
+      "y": 90.52,
+      "partNo": "C25258",
+      "desc": "BRAKE DRUM"
+    },
+    {
+      "ref": 29,
+      "x": 27.22,
+      "y": 24.93,
+      "partNo": "NSS",
+      "desc": "GEAR - differential pinion"
+    },
+    {
+      "ref": 29,
+      "x": 17.31,
+      "y": 10.63,
+      "partNo": "NSS",
+      "desc": "GEAR - differential pinion"
+    },
+    {
+      "ref": 30,
+      "x": 23.72,
+      "y": 24.42,
+      "partNo": "NSS",
+      "desc": "GEAR - differential"
+    },
+    {
+      "ref": 30,
+      "x": 23.72,
+      "y": 12.77,
+      "partNo": "NSS",
+      "desc": "GEAR - differential"
+    },
+    {
+      "ref": 31,
+      "x": 30.52,
+      "y": 26.15,
+      "partNo": "NSS",
+      "desc": "WASHER - pinion thrust"
+    },
+    {
+      "ref": 31,
+      "x": 12.01,
+      "y": 10.63,
+      "partNo": "NSS",
+      "desc": "WASHER - pinion thrust"
+    },
+    {
+      "ref": 32,
+      "x": 20.72,
+      "y": 12.26,
+      "partNo": "NSS",
+      "desc": "PIN - differential cross"
+    },
+    {
+      "ref": 33,
+      "x": 12.91,
+      "y": 17.16,
+      "partNo": "NSS",
+      "desc": "PIN - differential cross lock"
+    },
+    {
+      "ref": 34,
+      "x": 72.56,
+      "y": 38.41,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14098394",
+          "partNo": "28-680",
+          "desc": "BOLT - 3/8'' x 5'' NF hex shown (use before S/N 14098394)"
+        },
+        {
+          "serialNote": "use S/N 14098394 and after",
+          "partNo": "C30031",
+          "desc": "KIT - screw (is a quantity of 4)(use S/N 14098394 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 35,
+      "x": 35.73,
+      "y": 52.51,
+      "partNo": "131-1133",
+      "desc": "NUT - lock 3/8'' NC hex (use before S/N 14098394)"
+    },
+    {
+      "ref": 36,
+      "x": 32.83,
+      "y": 52.21,
+      "partNo": "C12718",
+      "desc": "WASHER - differential"
+    },
+    {
+      "ref": 36,
+      "x": 65.55,
+      "y": 27.89,
+      "partNo": "C12718",
+      "desc": "WASHER - differential"
+    },
+    {
+      "ref": 37,
+      "x": 29.42,
+      "y": 53.74,
+      "partNo": "C14223",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": 38,
+      "x": 31.52,
+      "y": 34.02,
+      "partNo": "C25254",
+      "desc": "GEAR - brake idler"
+    },
+    {
+      "ref": 39,
+      "x": 35.03,
+      "y": 33.1,
+      "partNo": "C14222",
+      "desc": "RING - retainer, brake idler"
+    },
+    {
+      "ref": 40,
+      "x": 42.73,
+      "y": 10.11,
+      "variants": [
+        {
+          "serialNote": "x 1-1/4'' NC",
+          "partNo": "113-417",
+          "desc": "BOLT - 1/2'' x 1-1/4'' NC (transaxle mounting)"
+        },
+        {
+          "serialNote": "13 x 1-1/4'' 12 pt. flange",
+          "partNo": "166-86",
+          "desc": "BOLT - 1/2'' - 13 x 1-1/4'' 12 pt. flange"
+        }
+      ]
+    },
+    {
+      "ref": 41,
+      "x": 42.33,
+      "y": 12.16,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2''"
+    },
+    {
+      "ref": 42,
+      "x": 35.93,
+      "y": 71.41,
+      "partNo": "NSS*",
+      "desc": "SHAFT - axle, short R.H. (648BH)(used in LL-120 Hi-Flotation kit)"
+    },
+    {
+      "ref": 43,
+      "x": 85.17,
+      "y": 48.33,
+      "partNo": "NSS**",
+      "desc": "SHAFT - axle, long L.H. (648BH)(used in LL-120 Hi-Flotation kit)shown"
+    },
+    {
+      "ref": 44,
+      "x": 24.12,
+      "y": 30.45,
+      "partNo": "C30029",
+      "desc": "DIFFERENTIAL - (includes C30030, C30031 and C12552)"
+    },
+    {
+      "ref": 45,
+      "x": 84.97,
+      "y": 46.49,
+      "partNo": "C26250",
+      "desc": "SHAFT - axle, long L.H. (648BH)(use S/N 14014289 and after)"
+    },
+    {
+      "ref": 46,
+      "x": 36.33,
+      "y": 73.15,
+      "partNo": "C26249",
+      "desc": "SHAFT - axle, short R.H. (648BH)(use S/N 14014289 and after)"
+    },
+    {
+      "ref": 47,
+      "x": 38.73,
+      "y": 90.52,
+      "partNo": "C24803",
+      "desc": "SEAL - shaft"
+    }
+  ],
+  "footnotes": ""
+}
