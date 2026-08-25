@@ -1,0 +1,97 @@
+{
+  "sectionTitle": "Axle and Wheels (K36, HSWD, AHSWD)",
+  "breadcrumb": "Axle and Wheels (K36, HSWD, AHSWD)",
+  "catalogLabel": "Catalog 8-2052",
+  "modelNumbers": "Catalog 8-2052 — Models K36, HSWD, AHSWD",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2052/axle_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 35.33,
+      "y": 59.3,
+      "partNo": "C30908",
+      "desc": "WHEEL"
+    },
+    {
+      "ref": 2,
+      "x": 29.01,
+      "y": 70.96,
+      "partNo": "C24503",
+      "desc": "BUSHING - wheel"
+    },
+    {
+      "ref": 2,
+      "x": 63.33,
+      "y": 71.21,
+      "partNo": "C24503",
+      "desc": "BUSHING - wheel"
+    },
+    {
+      "ref": 3,
+      "x": 46.25,
+      "y": 50.99,
+      "partNo": "219-10",
+      "desc": "FITTING - lube 1/4\" - 28 taper"
+    },
+    {
+      "ref": 4,
+      "x": 14.3,
+      "y": 80.26,
+      "partNo": "C26526",
+      "desc": "CAP - hub, plastic"
+    },
+    {
+      "ref": 5,
+      "x": 34.39,
+      "y": 88.2,
+      "partNo": "C28226",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 6,
+      "x": 19.99,
+      "y": 78.77,
+      "partNo": "132-49",
+      "desc": "PIN - cotter"
+    },
+    {
+      "ref": 7,
+      "x": 80.74,
+      "y": 34.86,
+      "partNo": "C27880",
+      "desc": "SHAFT - axle"
+    },
+    {
+      "ref": 8,
+      "x": 72.35,
+      "y": 9.3,
+      "variants": [
+        {
+          "serialNote": "shown",
+          "partNo": "C27881",
+          "desc": "SUPPORT - axle R.H. (shown)"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C27882",
+          "desc": "SUPPORT - axle L.H."
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 34.39,
+      "y": 38.08,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" - 18 x 1\""
+    },
+    {
+      "ref": 10,
+      "x": 85.8,
+      "y": 66.62,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" flange lock"
+    }
+  ],
+  "footnotes": ""
+}

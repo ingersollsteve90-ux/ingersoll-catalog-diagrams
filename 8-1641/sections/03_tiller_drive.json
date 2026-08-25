@@ -1,0 +1,184 @@
+{
+  "sectionTitle": "Tiller Drive",
+  "breadcrumb": "Tiller Drive",
+  "catalogLabel": "Catalog 8-1641",
+  "modelNumbers": "Catalog 8-1641 — Rotary Tiller Models HT32, L75, HT41, J74, K74, L74",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1641/03_tiller_drive.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 16.2,
+      "y": 7.5,
+      "partNo": "C 28320",
+      "desc": "HOSE - 1/2\" I.D. x 42\" (1065 mm)"
+    },
+    {
+      "ref": 2,
+      "x": 13.5,
+      "y": 48.9,
+      "partNo": "218-5251",
+      "desc": "FITTING - union 7/8\" \"O\" ring x 1/2\" NPT"
+    },
+    {
+      "ref": 2,
+      "x": 28.5,
+      "y": 46.7,
+      "partNo": "218-5251",
+      "desc": "FITTING - union 7/8\" \"O\" ring x 1/2\" NPT"
+    },
+    {
+      "ref": 3,
+      "x": 24.9,
+      "y": 58.9,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 4,
+      "x": 63.8,
+      "y": 67.0,
+      "partNo": "C 26303",
+      "desc": "SHAFT - input"
+    },
+    {
+      "ref": 5,
+      "x": 43.3,
+      "y": 78.3,
+      "partNo": "C 26309",
+      "desc": "PIN - clevis"
+    },
+    {
+      "ref": 6,
+      "x": 51.7,
+      "y": 65.2,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 7,
+      "x": 66.4,
+      "y": 80.2,
+      "partNo": "C 26321",
+      "desc": "CHAIN - drive, No. 50, 56 pitch"
+    },
+    {
+      "ref": 8,
+      "x": 56.2,
+      "y": 29.1,
+      "variants": [
+        {
+          "serialNote": "Optional - 13T (hard soil)",
+          "partNo": "C 26310",
+          "desc": "SPROCKET - drive (13T optional, for hard soil)"
+        },
+        {
+          "serialNote": "Standard - 15T (average soil)",
+          "partNo": "C 26312",
+          "desc": "SPROCKET - drive (15T standard, for average soil)"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 92.1,
+      "y": 18.0,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4\" - 20 x 3/4\""
+    },
+    {
+      "ref": 10,
+      "x": 61.1,
+      "y": 26.9,
+      "partNo": "C 26344",
+      "desc": "WASHER - 5/16\" I.D. 1-1/4\" O.D. 7 Ga."
+    },
+    {
+      "ref": 11,
+      "x": 52.6,
+      "y": 33.6,
+      "partNo": "C 26311",
+      "desc": "SPACER - sprocket"
+    },
+    {
+      "ref": 12,
+      "x": 47.1,
+      "y": 27.1,
+      "partNo": "C 26314",
+      "desc": "MOUNT - motor"
+    },
+    {
+      "ref": 13,
+      "x": 62.6,
+      "y": 41.7,
+      "partNo": "113-410",
+      "desc": "BOLT - 1/2\" - 13 x 1-1/2\" hex"
+    },
+    {
+      "ref": 14,
+      "x": 19.5,
+      "y": 86.7,
+      "partNo": "131-1182",
+      "desc": "NUT - lock 1/2\" - 13"
+    },
+    {
+      "ref": 14,
+      "x": 46.0,
+      "y": 60.4,
+      "partNo": "131-1182",
+      "desc": "NUT - lock 1/2\" - 13"
+    },
+    {
+      "ref": 15,
+      "x": 84.9,
+      "y": 56.5,
+      "partNo": "C 26315",
+      "desc": "COVER - chain, lower"
+    },
+    {
+      "ref": 16,
+      "x": 71.9,
+      "y": 12.1,
+      "partNo": "C 26316",
+      "desc": "COVER - chain, upper"
+    },
+    {
+      "ref": 17,
+      "x": 90.7,
+      "y": 34.8,
+      "partNo": "195-518",
+      "desc": "WASHER - 1/4\""
+    },
+    {
+      "ref": 18,
+      "x": 67.5,
+      "y": 54.1,
+      "partNo": "131-1180",
+      "desc": "NUT - lock 1/4\""
+    },
+    {
+      "ref": 19,
+      "x": 7.9,
+      "y": 74.5,
+      "partNo": "C 27903*",
+      "desc": "MOTOR - hydraulic drive (check thread size in shaft)"
+    },
+    {
+      "ref": 20,
+      "x": 66.2,
+      "y": 25.2,
+      "variants": [
+        {
+          "serialNote": "printed catalog lists TWO different bolts both as ref 20 (see next row) - likely an original catalog numbering error, transcribed as-is",
+          "partNo": "113-4",
+          "desc": "BOLT - 1/4\" - 20 x 1\""
+        },
+        {
+          "serialNote": "see note on other ref 20 row above",
+          "partNo": "113-103",
+          "desc": "BOLT - 5/16\" - 18 x 1\""
+        }
+      ]
+    }
+  ],
+  "footnotes": "* on L74 before S/N AR13850 and on L75 before S/N AS12881 reduce spacer (11) length by .20\" if required for sprocket mounting bolt clearance. Also included with Ref 19 (motor assembly), not separately shown on the diagram: C 26341 - KIT - seal, hydraulic motor."
+}

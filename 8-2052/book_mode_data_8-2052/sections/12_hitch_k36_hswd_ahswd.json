@@ -1,0 +1,159 @@
+{
+  "sectionTitle": "Hitch (K36, HSWD, AHSWD)",
+  "breadcrumb": "Hitch (K36, HSWD, AHSWD)",
+  "catalogLabel": "Catalog 8-2052",
+  "modelNumbers": "Catalog 8-2052 — Models K36, HSWD, AHSWD",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2052/hitch_k36_hswd_ahswd.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 63.42,
+      "y": 69.02,
+      "partNo": "C26237",
+      "desc": "PLATE - hitch"
+    },
+    {
+      "ref": 2,
+      "x": 52.85,
+      "y": 32.2,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" - 18 x 1\""
+    },
+    {
+      "ref": 3,
+      "x": 58.67,
+      "y": 75.46,
+      "partNo": "195-521",
+      "desc": "LOCK WASHER - 5/16\" (early production)"
+    },
+    {
+      "ref": 4,
+      "x": 58.67,
+      "y": 81.66,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18"
+    },
+    {
+      "ref": 5,
+      "x": 12.2,
+      "y": 33.42,
+      "variants": [
+        {
+          "serialNote": "shown",
+          "partNo": "C27884",
+          "desc": "SUPPORT - hitch R.H. (shown)"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C27883",
+          "desc": "SUPPORT - hitch L.H."
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 65.58,
+      "y": 56.14,
+      "variants": [
+        {
+          "serialNote": "K36, HSWD",
+          "partNo": "C27886",
+          "desc": "PLATE - hitch (K36, HSWD)"
+        },
+        {
+          "serialNote": "AHSWD",
+          "partNo": "C42459",
+          "desc": "PLATE - hitch (AHSWD)"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 38.21,
+      "y": 88.59,
+      "partNo": "C27890",
+      "desc": "BASE - screw jack (K36, HSWD)"
+    },
+    {
+      "ref": 8,
+      "x": 52.98,
+      "y": 23.21,
+      "partNo": "C27889",
+      "desc": "SCREW - lift (K36, HSWD)"
+    },
+    {
+      "ref": 9,
+      "x": 37.94,
+      "y": 42.53,
+      "partNo": "138-96",
+      "desc": "PIN - spiral 3/16\" x 1\" (K36, HSWD)"
+    },
+    {
+      "ref": 10,
+      "x": 42.01,
+      "y": 77.17,
+      "partNo": "C27888",
+      "desc": "BALL - steel (K36, HSWD)"
+    },
+    {
+      "ref": 11,
+      "x": 33.2,
+      "y": 32.2,
+      "partNo": "138-308",
+      "desc": "PIN - roll 1/4\" x 3\""
+    },
+    {
+      "ref": 12,
+      "x": 79.81,
+      "y": 69.02,
+      "partNo": "C26673",
+      "desc": "DRAW BAR - heavy duty"
+    },
+    {
+      "ref": 13,
+      "x": 16.13,
+      "y": 76.19,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" - 16 x 1\""
+    },
+    {
+      "ref": 14,
+      "x": 30.49,
+      "y": 54.44,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" flange lock"
+    },
+    {
+      "ref": 15,
+      "x": 61.66,
+      "y": 39.13,
+      "partNo": "C10888",
+      "desc": "PIN - hitch"
+    },
+    {
+      "ref": 16,
+      "x": 87.81,
+      "y": 67.57,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "221-33",
+          "desc": "PLUG - pipe 3/8\" hex socket head"
+        },
+        {
+          "serialNote": "",
+          "partNo": "221-34",
+          "desc": "PLUG - pipe 1/2\" hex socket head"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 48.11,
+      "y": 11.66,
+      "partNo": "C42460",
+      "desc": "BOLT - special (AHSWD)"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,128 @@
+{
+  "sectionTitle": "Bed and Wedge Slider (J32, K32, L32, J34, K34, L34, K36, HSHD, HSWD, AHSHD, AHSWD)",
+  "breadcrumb": "Bed and Wedge Slider (J32, K32, L32, J34, K34, L34, K36, HSHD, HSWD, AHSHD, AHSWD)",
+  "catalogLabel": "Catalog 8-2052",
+  "modelNumbers": "Catalog 8-2052 — Models J32, K32, L32, J34, K34, L34, K36, HSHD, HSWD, AHSHD, AHSWD",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2052/bed_wedge_slider.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 78.8,
+      "y": 44.22,
+      "partNo": "C42455",
+      "desc": "BED - splitter (J32, K32, L32, HSHD, AHSHD)"
+    },
+    {
+      "ref": 2,
+      "x": 81.7,
+      "y": 11.64,
+      "variants": [
+        {
+          "serialNote": "shown",
+          "partNo": "C26679",
+          "desc": "BED - splitter (J34, K34, L34) (shown)"
+        },
+        {
+          "serialNote": "K36, HSWD, AHSWD",
+          "partNo": "C42456",
+          "desc": "BED - splitter (K36, HSWD, AHSWD)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 51.93,
+      "y": 60.74,
+      "partNo": "C26961",
+      "desc": "WEDGE SLIDER"
+    },
+    {
+      "ref": 4,
+      "x": 50.92,
+      "y": 72.11,
+      "partNo": "C26479",
+      "desc": "PLATE - bottom"
+    },
+    {
+      "ref": 5,
+      "x": 42.85,
+      "y": 84.65,
+      "partNo": "113-417",
+      "desc": "BOLT - 1/2\" x 1-1/4\""
+    },
+    {
+      "ref": 6,
+      "x": 68.58,
+      "y": 77.27,
+      "partNo": "131-930",
+      "desc": "NUT - 1/2\" flange"
+    },
+    {
+      "ref": 7,
+      "x": 60.64,
+      "y": 88.87,
+      "partNo": "113-2419",
+      "desc": "BOLT - 1/2\" x 6-1/2\" (J34, K34, L34)"
+    },
+    {
+      "ref": 8,
+      "x": 70.85,
+      "y": 83.95,
+      "partNo": "C26677",
+      "desc": "ROLLER - pipe (J34, K34, L34)"
+    },
+    {
+      "ref": 9,
+      "x": 11.58,
+      "y": 76.33,
+      "variants": [
+        {
+          "serialNote": "J34, K34, L34",
+          "partNo": "C26678",
+          "desc": "SHOE - bed support (J34, K34, L34)"
+        },
+        {
+          "serialNote": "AHSWD, AHSHD",
+          "partNo": "C42457",
+          "desc": "STRAP - (AHSWD, AHSHD)"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 86.87,
+      "y": 46.56,
+      "partNo": "C26734",
+      "desc": "BAR - stabilizer (between arms on 3 pt. hitch) (J32, K32, L32) *"
+    },
+    {
+      "ref": 11,
+      "x": 65.43,
+      "y": 63.55,
+      "partNo": "113-209",
+      "desc": "BOLT - 3/8\" x 1-1/2\" (J32, K32, L32)"
+    },
+    {
+      "ref": 12,
+      "x": 72.36,
+      "y": 62.15,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\" (J32, K32, L32)"
+    },
+    {
+      "ref": 13,
+      "x": 83.46,
+      "y": 60.74,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\" (J32, K32, L32)"
+    },
+    {
+      "ref": 14,
+      "x": 88.51,
+      "y": 58.16,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" (J32, K32, L32)"
+    }
+  ],
+  "footnotes": "* Not required if using HH34 hitch"
+}

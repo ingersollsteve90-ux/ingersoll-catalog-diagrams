@@ -1,0 +1,514 @@
+{
+  "sectionTitle": "Axle and Mounting Brackets (J48)",
+  "breadcrumb": "Axle and Mounting Brackets (J48)",
+  "catalogLabel": "Catalog 8-1301",
+  "modelNumbers": "Catalog 8-1301 — Models J48",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1301/sec5_axle_j48.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 37.57,
+      "y": 17.2,
+      "partNo": "C25646",
+      "desc": "AXLE - rear"
+    },
+    {
+      "ref": 2,
+      "x": 52.19,
+      "y": 21.06,
+      "partNo": "111-371",
+      "desc": "BOLT - carriage 3/8\" - 16 x 1\""
+    },
+    {
+      "ref": 3,
+      "x": 42.37,
+      "y": 10.36,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\""
+    },
+    {
+      "ref": 4,
+      "x": 47.07,
+      "y": 6.62,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16 hex"
+    },
+    {
+      "ref": 5,
+      "x": 14.73,
+      "y": 39.69,
+      "partNo": "C20005",
+      "desc": "PIN - locking"
+    },
+    {
+      "ref": 6,
+      "x": 28.18,
+      "y": 37.82,
+      "partNo": "C10482",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 7,
+      "x": 22.2,
+      "y": 40.46,
+      "partNo": "138-96",
+      "desc": "PIN - roll"
+    },
+    {
+      "ref": 8,
+      "x": 33.08,
+      "y": 38.37,
+      "partNo": "C15935",
+      "desc": "BRACKET - height adjusting"
+    },
+    {
+      "ref": 9,
+      "x": 35.54,
+      "y": 42.89,
+      "partNo": "111-202",
+      "desc": "BOLT - carriage 5/16\" - 18 x 3/4\""
+    },
+    {
+      "ref": 10,
+      "x": 44.18,
+      "y": 29.55,
+      "partNo": "193-29",
+      "desc": "LOCK WASHER - 5/16\""
+    },
+    {
+      "ref": 11,
+      "x": 41.84,
+      "y": 24.59,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" - 18"
+    },
+    {
+      "ref": 12,
+      "x": 19.32,
+      "y": 12.02,
+      "partNo": "C25682",
+      "desc": "WHEEL - height adjusting"
+    },
+    {
+      "ref": 13,
+      "x": 14.83,
+      "y": 17.75,
+      "partNo": "C25683",
+      "desc": "SPACER - sleeve"
+    },
+    {
+      "ref": 14,
+      "x": 9.18,
+      "y": 39.69,
+      "partNo": "113-447",
+      "desc": "BOLT - 1/2\" - 13 x 3-1/2\" hex"
+    },
+    {
+      "ref": 15,
+      "x": 28.92,
+      "y": 10.69,
+      "partNo": "131-1182",
+      "desc": "NUT - lock 1/2\" - 13 hex"
+    },
+    {
+      "ref": 16,
+      "x": 64.14,
+      "y": 78.17,
+      "partNo": "C25654",
+      "desc": "BRACKET - front mounting"
+    },
+    {
+      "ref": 17,
+      "x": 31.7,
+      "y": 88.42,
+      "partNo": "C25657",
+      "desc": "LINK - stabilizer"
+    },
+    {
+      "ref": 18,
+      "x": 26.89,
+      "y": 88.2,
+      "partNo": "C10898",
+      "desc": "PIN - retaining, special"
+    },
+    {
+      "ref": 18,
+      "x": 93.06,
+      "y": 65.82,
+      "partNo": "C10898",
+      "desc": "PIN - retaining, special"
+    },
+    {
+      "ref": 18,
+      "x": 80.58,
+      "y": 69.02,
+      "partNo": "C10898",
+      "desc": "PIN - retaining, special"
+    },
+    {
+      "ref": 18,
+      "x": 24.55,
+      "y": 76.96,
+      "partNo": "C10898",
+      "desc": "PIN - retaining, special"
+    },
+    {
+      "ref": 19,
+      "x": 42.37,
+      "y": 64.94,
+      "partNo": "C25659",
+      "desc": "BRACKET - idler pulleys"
+    },
+    {
+      "ref": 20,
+      "x": 44.61,
+      "y": 59.54,
+      "partNo": "C25663",
+      "desc": "ARM AND BEARING ASSEMBLY"
+    },
+    {
+      "ref": 21,
+      "x": 40.23,
+      "y": 60.31,
+      "partNo": "C17597",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": 21,
+      "x": 50.59,
+      "y": 54.02,
+      "partNo": "C17597",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": 22,
+      "x": 35.43,
+      "y": 62.29,
+      "partNo": "C25667",
+      "desc": "SPRING - torsion"
+    },
+    {
+      "ref": 23,
+      "x": 28.6,
+      "y": 65.16,
+      "partNo": "C25668",
+      "desc": "SHAFT - pivot"
+    },
+    {
+      "ref": 24,
+      "x": 18.68,
+      "y": 58.1,
+      "partNo": "138-319",
+      "desc": "PIN - roll 3/16\" x 1\""
+    },
+    {
+      "ref": 24,
+      "x": 65.64,
+      "y": 98.46,
+      "partNo": "138-319",
+      "desc": "PIN - roll 3/16\" x 1\""
+    },
+    {
+      "ref": 25,
+      "x": 26.25,
+      "y": 45.2,
+      "partNo": "C25370",
+      "desc": "PULLEY - idler"
+    },
+    {
+      "ref": 25,
+      "x": 21.13,
+      "y": 86.99,
+      "partNo": "C25370",
+      "desc": "PULLEY - idler"
+    },
+    {
+      "ref": 26,
+      "x": 31.91,
+      "y": 44.65,
+      "partNo": "C12264",
+      "desc": "BUSHING - shoulder"
+    },
+    {
+      "ref": 26,
+      "x": 30.31,
+      "y": 74.64,
+      "partNo": "C12264",
+      "desc": "BUSHING - shoulder"
+    },
+    {
+      "ref": 27,
+      "x": 52.61,
+      "y": 48.62,
+      "partNo": "113-209",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/2\" hex"
+    },
+    {
+      "ref": 27,
+      "x": 13.02,
+      "y": 85.12,
+      "partNo": "113-209",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/2\" hex"
+    },
+    {
+      "ref": 28,
+      "x": 24.01,
+      "y": 48.84,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\""
+    },
+    {
+      "ref": 28,
+      "x": 73.43,
+      "y": 70.12,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\""
+    },
+    {
+      "ref": 28,
+      "x": 15.69,
+      "y": 80.49,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\""
+    },
+    {
+      "ref": 29,
+      "x": 20.17,
+      "y": 52.48,
+      "partNo": "131-933",
+      "desc": "NUT - lock 3/8\" - 16 hex"
+    },
+    {
+      "ref": 29,
+      "x": 68.84,
+      "y": 61.3,
+      "partNo": "131-933",
+      "desc": "NUT - lock 3/8\" - 16 hex"
+    },
+    {
+      "ref": 29,
+      "x": 53.04,
+      "y": 71.55,
+      "partNo": "131-933",
+      "desc": "NUT - lock 3/8\" - 16 hex"
+    },
+    {
+      "ref": 30,
+      "x": 13.13,
+      "y": 62.73,
+      "partNo": "C25669",
+      "desc": "LINK AND BUSHING ASSEMBLY - suspension R.H. (includes item 31)"
+    },
+    {
+      "ref": 31,
+      "x": 12.17,
+      "y": 72.11,
+      "partNo": "C24182",
+      "desc": "BUSHING - flange"
+    },
+    {
+      "ref": 31,
+      "x": 84.42,
+      "y": 51.82,
+      "partNo": "C24182",
+      "desc": "BUSHING - flange"
+    },
+    {
+      "ref": 31,
+      "x": 73.64,
+      "y": 58.77,
+      "partNo": "C24182",
+      "desc": "BUSHING - flange"
+    },
+    {
+      "ref": 32,
+      "x": 64.35,
+      "y": 62.73,
+      "partNo": "C25672",
+      "desc": "LINK - suspension L.H."
+    },
+    {
+      "ref": 33,
+      "x": 35.86,
+      "y": 66.7,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/4\" hex"
+    },
+    {
+      "ref": 34,
+      "x": 65.96,
+      "y": 73.98,
+      "partNo": "C16573",
+      "desc": "SPACER"
+    },
+    {
+      "ref": 35,
+      "x": 83.24,
+      "y": 64.94,
+      "partNo": "C25675",
+      "desc": "BELL CRANK AND BUSHING ASSEMBLY (includes item 31)"
+    },
+    {
+      "ref": 36,
+      "x": 88.26,
+      "y": 50.94,
+      "partNo": "138-2002",
+      "desc": "PIN - spiral"
+    },
+    {
+      "ref": 37,
+      "x": 88.05,
+      "y": 66.26,
+      "partNo": "C25679",
+      "desc": "LINK - adjusting"
+    },
+    {
+      "ref": 38,
+      "x": 66.6,
+      "y": 87.65,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\""
+    },
+    {
+      "ref": 38,
+      "x": 90.39,
+      "y": 47.3,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\""
+    },
+    {
+      "ref": 38,
+      "x": 42.48,
+      "y": 83.9,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\""
+    },
+    {
+      "ref": 39,
+      "x": 93.6,
+      "y": 50.83,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 40,
+      "x": 65.53,
+      "y": 42.34,
+      "partNo": "C25681",
+      "desc": "ROD - leveler"
+    },
+    {
+      "ref": 41,
+      "x": 74.71,
+      "y": 46.86,
+      "partNo": "129-163",
+      "desc": "NUT - lock 3/8\" - 24"
+    },
+    {
+      "ref": 41,
+      "x": 57.52,
+      "y": 38.48,
+      "partNo": "129-163",
+      "desc": "NUT - lock 3/8\" - 24"
+    },
+    {
+      "ref": 42,
+      "x": 78.76,
+      "y": 48.73,
+      "partNo": "213-4",
+      "desc": "CLEVIS - 3/8\""
+    },
+    {
+      "ref": 42,
+      "x": 46.32,
+      "y": 44.1,
+      "partNo": "213-4",
+      "desc": "CLEVIS - 3/8\""
+    },
+    {
+      "ref": 43,
+      "x": 82.82,
+      "y": 47.63,
+      "partNo": "141-54",
+      "desc": "PIN - clevis 3/8\""
+    },
+    {
+      "ref": 43,
+      "x": 55.07,
+      "y": 34.18,
+      "partNo": "141-54",
+      "desc": "PIN - clevis 3/8\""
+    },
+    {
+      "ref": 44,
+      "x": 70.65,
+      "y": 55.79,
+      "partNo": "132-321",
+      "desc": "PIN - cotter"
+    },
+    {
+      "ref": 44,
+      "x": 38.1,
+      "y": 95.26,
+      "partNo": "132-321",
+      "desc": "PIN - cotter"
+    },
+    {
+      "ref": 45,
+      "x": 74.81,
+      "y": 93.16,
+      "partNo": "C16562",
+      "desc": "SCREW - idler adjusting"
+    },
+    {
+      "ref": 46,
+      "x": 58.27,
+      "y": 95.59,
+      "partNo": "132-318",
+      "desc": "PIN - cotter"
+    },
+    {
+      "ref": 47,
+      "x": 38.1,
+      "y": 81.92,
+      "partNo": "C14269",
+      "desc": "NUT - adjusting, special"
+    },
+    {
+      "ref": 48,
+      "x": 6.4,
+      "y": 61.85,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\""
+    },
+    {
+      "ref": 48,
+      "x": 54.64,
+      "y": 57.22,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\""
+    },
+    {
+      "ref": 49,
+      "x": 6.83,
+      "y": 72.33,
+      "partNo": "132-311",
+      "desc": "PIN - cotter 5/32\" x 1-1/4\""
+    },
+    {
+      "ref": 49,
+      "x": 59.66,
+      "y": 57.44,
+      "partNo": "132-311",
+      "desc": "PIN - cotter 5/32\" x 1-1/4\""
+    },
+    {
+      "ref": 50,
+      "x": 40.45,
+      "y": 43.66,
+      "partNo": "C10883",
+      "desc": "PIN - safety"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,144 @@
+{
+  "sectionTitle": "Cylinder (Seal Kit) (J31, K31, J32, K32, L32, J34, K34, L34, K36, HSHD, HSWD)",
+  "breadcrumb": "Cylinder (Seal Kit) (J31, K31, J32, K32, L32, J34, K34, L34, K36, HSHD, HSWD)",
+  "catalogLabel": "Catalog 8-2052",
+  "modelNumbers": "Catalog 8-2052 — Models J31, K31, J32, K32, L32, J34, K34, L34, K36, HSHD, HSWD",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2052/cylinder_seals.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 79.82,
+      "y": 49.85,
+      "partNo": "C26600",
+      "desc": "CYLINDER - hydraulic (J31, K31)"
+    },
+    {
+      "ref": 2,
+      "x": 86.48,
+      "y": 80.88,
+      "variants": [
+        {
+          "serialNote": "J32, K32, L32, J34, K34, L34, K36, HSWD, HSHD",
+          "partNo": "C27252",
+          "desc": "CYLINDER - hydraulic (J32, K32, L32, J34, K34, L34, K36, HSWD, HSHD)"
+        },
+        {
+          "serialNote": "use S/N and after: see footnotes",
+          "partNo": "C27272",
+          "desc": "KIT - seal, cylinder ** (use S/N and after: see footnotes)"
+        },
+        {
+          "serialNote": "use before S/N: see footnotes",
+          "partNo": "C26615",
+          "desc": "KIT - seal, cylinder * (use before S/N: see footnotes)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 73.92,
+      "y": 80.61,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - end cap"
+    },
+    {
+      "ref": 3,
+      "x": 65.15,
+      "y": 47.72,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - end cap"
+    },
+    {
+      "ref": 3,
+      "x": 73.02,
+      "y": 18.42,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - end cap"
+    },
+    {
+      "ref": 4,
+      "x": 59.56,
+      "y": 78.88,
+      "partNo": "NSS",
+      "desc": "PACKING - rod"
+    },
+    {
+      "ref": 4,
+      "x": 43.83,
+      "y": 43.19,
+      "partNo": "NSS",
+      "desc": "PACKING - rod"
+    },
+    {
+      "ref": 4,
+      "x": 58.95,
+      "y": 14.96,
+      "partNo": "NSS",
+      "desc": "PACKING - rod"
+    },
+    {
+      "ref": 5,
+      "x": 40.5,
+      "y": 79.68,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - piston"
+    },
+    {
+      "ref": 5,
+      "x": 30.52,
+      "y": 45.32,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - piston"
+    },
+    {
+      "ref": 5,
+      "x": 46.55,
+      "y": 12.03,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - piston"
+    },
+    {
+      "ref": 6,
+      "x": 31.27,
+      "y": 78.88,
+      "partNo": "NSS",
+      "desc": "POLYPAK - piston"
+    },
+    {
+      "ref": 6,
+      "x": 20.69,
+      "y": 45.98,
+      "partNo": "NSS",
+      "desc": "POLYPAK - piston"
+    },
+    {
+      "ref": 6,
+      "x": 21.9,
+      "y": 20.28,
+      "partNo": "NSS",
+      "desc": "POLYPAK - piston"
+    },
+    {
+      "ref": 7,
+      "x": 78.01,
+      "y": 82.61,
+      "partNo": "NSS",
+      "desc": "WIPER - rod"
+    },
+    {
+      "ref": 7,
+      "x": 68.78,
+      "y": 51.18,
+      "partNo": "NSS",
+      "desc": "WIPER - rod"
+    },
+    {
+      "ref": 7,
+      "x": 79.22,
+      "y": 23.61,
+      "partNo": "NSS",
+      "desc": "WIPER - rod"
+    }
+  ],
+  "footnotes": "* Use before S/N: ALL - J31, K31 | AN 12900 - J32, K32, L32 | AP 13480 - J34, K34, L34 | AM 14875 - K36\n** Use S/N and after: AN 12900 - J32, K32, L32 | AP 13480 - J34, K34, L34 | AM 14875 - K36 | ALL - HSHD, HSWD"
+}

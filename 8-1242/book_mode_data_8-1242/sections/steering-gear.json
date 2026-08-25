@@ -1,0 +1,248 @@
+{
+  "sectionTitle": "Steering Gear",
+  "breadcrumb": "Steering Gear",
+  "catalogLabel": "Catalog 8-1242",
+  "modelNumbers": "Catalog 8-1242 — Models 446, 448",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1242/steering-gear.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 17.58,
+      "y": 9.87,
+      "partNo": "C16945",
+      "desc": "CAP - steering wheel"
+    },
+    {
+      "ref": 2,
+      "x": 81.08,
+      "y": 14.06,
+      "partNo": "C18014",
+      "desc": "WHEEL - steering (use before PIN 446-14011642, 448-14013773; after use C26325)"
+    },
+    {
+      "ref": 3,
+      "x": 20.62,
+      "y": 14.36,
+      "partNo": "131-1113",
+      "desc": "NUT - lock 5/8\""
+    },
+    {
+      "ref": 4,
+      "x": 44.95,
+      "y": 42.23,
+      "partNo": "NSS",
+      "desc": "SHAFT - steering (use C26325, C26326, 138-143) [after PIN use C26326]"
+    },
+    {
+      "ref": 4,
+      "x": 58.94,
+      "y": 71.52,
+      "partNo": "NSS",
+      "desc": "SHAFT - steering (use C26325, C26326, 138-143) [after PIN use C26326]"
+    },
+    {
+      "ref": 5,
+      "x": 67.33,
+      "y": 66.32,
+      "partNo": "NSS",
+      "desc": "SUPPORT - steering gear (use items 14, 22, 23, 24, 25, 26 and 27)"
+    },
+    {
+      "ref": 6,
+      "x": 73.42,
+      "y": 77.75,
+      "partNo": "C14200",
+      "desc": "PIN - pivot"
+    },
+    {
+      "ref": 7,
+      "x": 89.84,
+      "y": 83.87,
+      "partNo": "C14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 7,
+      "x": 25.25,
+      "y": 69.28,
+      "partNo": "C14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 7,
+      "x": 45.32,
+      "y": 83.06,
+      "partNo": "C14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 8,
+      "x": 74.63,
+      "y": 57.85,
+      "partNo": "129-148",
+      "desc": "NUT - 3/4\", special"
+    },
+    {
+      "ref": 9,
+      "x": 89.35,
+      "y": 86.73,
+      "partNo": "195-2175",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 10,
+      "x": 88.98,
+      "y": 89.18,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16\" zinc"
+    },
+    {
+      "ref": 11,
+      "x": 89.23,
+      "y": 91.12,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" x 3/4\" N.C. hex"
+    },
+    {
+      "ref": 12,
+      "x": 21.72,
+      "y": 76.01,
+      "partNo": "NSS",
+      "desc": "GEAR - steering (use C29040)"
+    },
+    {
+      "ref": 13,
+      "x": 9.68,
+      "y": 53.56,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" N.C. hex"
+    },
+    {
+      "ref": 14,
+      "x": 14.91,
+      "y": 51.93,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\""
+    },
+    {
+      "ref": 14,
+      "x": 27.8,
+      "y": 89.28,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\""
+    },
+    {
+      "ref": 15,
+      "x": 52.25,
+      "y": 56.21,
+      "partNo": "195-2069",
+      "desc": "WASHER - 5/8\" zinc"
+    },
+    {
+      "ref": 16,
+      "x": 23.42,
+      "y": 27.12,
+      "partNo": "C15096",
+      "desc": "BUSHING - flanged nylon"
+    },
+    {
+      "ref": 17,
+      "x": 47.38,
+      "y": 37.74,
+      "partNo": "126-16",
+      "desc": "KEY - Woodruff 3/16\" x 3/4\" (early production)"
+    },
+    {
+      "ref": 18,
+      "x": 90.32,
+      "y": 39.68,
+      "partNo": "C24098",
+      "desc": "TUBE - steering"
+    },
+    {
+      "ref": 19,
+      "x": 21.84,
+      "y": 72.03,
+      "partNo": "219-404",
+      "desc": "FITTING - lubrication, 45 degrees"
+    },
+    {
+      "ref": 19,
+      "x": 60.4,
+      "y": 56.21,
+      "partNo": "219-404",
+      "desc": "FITTING - lubrication, 45 degrees"
+    },
+    {
+      "ref": 20,
+      "x": 21.72,
+      "y": 17.32,
+      "partNo": "C12975",
+      "desc": "WASHER - 5/8\""
+    },
+    {
+      "ref": 21,
+      "x": 37.65,
+      "y": 9.87,
+      "partNo": "C18017",
+      "desc": "RETAINER - steering wheel"
+    },
+    {
+      "ref": 22,
+      "x": 19.65,
+      "y": 48.86,
+      "partNo": "NSS",
+      "desc": "SUPPORT - steering gear (use C30019, C29044, C29812)"
+    },
+    {
+      "ref": 23,
+      "x": 26.71,
+      "y": 62.85,
+      "partNo": "C25787",
+      "desc": "PIN - pivot"
+    },
+    {
+      "ref": 24,
+      "x": 27.31,
+      "y": 86.22,
+      "partNo": "195-2029",
+      "desc": "WASHER - 7/16\" x 1.25"
+    },
+    {
+      "ref": 25,
+      "x": 18.44,
+      "y": 33.96,
+      "partNo": "113-241",
+      "desc": "BOLT - 3/8\" - 16 x 3\" hex"
+    },
+    {
+      "ref": 26,
+      "x": 27.8,
+      "y": 92.14,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16 hex"
+    },
+    {
+      "ref": 27,
+      "x": 16.73,
+      "y": 38.66,
+      "partNo": "195-137",
+      "desc": "WASHER - 1-1/8\" O.D."
+    },
+    {
+      "ref": 28,
+      "x": 39.96,
+      "y": 29.47,
+      "partNo": "138-143",
+      "desc": "PIN - roll 1/4\" x 2-1/4\""
+    },
+    {
+      "ref": 29,
+      "x": 38.38,
+      "y": 25.08,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\""
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,248 @@
+{
+  "sectionTitle": "Chassis, Belts and Chassis Covers (J48, K48, L48, M48)",
+  "breadcrumb": "Chassis, Belts and Chassis Covers (J48, K48, L48, M48)",
+  "catalogLabel": "Catalog 8-1301",
+  "modelNumbers": "Catalog 8-1301 — Models J48, K48, L48, M48",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1301/sec3_chassis_j48.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 65.74,
+      "y": 6.66,
+      "variants": [
+        {
+          "serialNote": "K48, L48 (use C27727 and items 23,24,25,26,27)",
+          "partNo": "NSS",
+          "desc": "CHASSIS - mower 60\" (1520mm)"
+        },
+        {
+          "serialNote": "J48",
+          "partNo": "C25611",
+          "desc": "CHASSIS - mower 60\" (1520mm)"
+        },
+        {
+          "serialNote": "M48",
+          "partNo": "C27727",
+          "desc": "CHASSIS - mower 60\" (1520mm)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 14.84,
+      "y": 29.86,
+      "partNo": "C25687",
+      "desc": "BELT - spindle drive"
+    },
+    {
+      "ref": 3,
+      "x": 14.29,
+      "y": 19.31,
+      "partNo": "C25689",
+      "desc": "GUARD - chassis belt"
+    },
+    {
+      "ref": 4,
+      "x": 10.6,
+      "y": 9.1,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\" self-tapping"
+    },
+    {
+      "ref": 5,
+      "x": 60.16,
+      "y": 48.5,
+      "partNo": "A70524",
+      "desc": "ROLLER - 2-1/2\" x 7\" (63.5x177.8mm)"
+    },
+    {
+      "ref": 6,
+      "x": 45.54,
+      "y": 54.27,
+      "variants": [
+        {
+          "serialNote": "J48",
+          "partNo": "C25684",
+          "desc": "SHAFT - roller"
+        },
+        {
+          "serialNote": "K48, L48, M48 (shown)",
+          "partNo": "C26405",
+          "desc": "SHAFT - roller"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 43.08,
+      "y": 47.06,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\" (3.17x25.4mm) (J48)"
+    },
+    {
+      "ref": 8,
+      "x": 89.62,
+      "y": 52.83,
+      "partNo": "A70514",
+      "desc": "ROLLER - 2-1/2\" x 2-3/8\" (63.5x60.32mm)"
+    },
+    {
+      "ref": 9,
+      "x": 84.26,
+      "y": 54.27,
+      "partNo": "C25620",
+      "desc": "SPACER - sleeve (J48, K48, L48)"
+    },
+    {
+      "ref": 10,
+      "x": 79.02,
+      "y": 55.38,
+      "partNo": "113-427",
+      "desc": "BOLT - 1/2\" - 13 x 3-1/4\" hex"
+    },
+    {
+      "ref": 11,
+      "x": 88.84,
+      "y": 42.4,
+      "partNo": "131-1182",
+      "desc": "NUT - lock 1/2\" hex"
+    },
+    {
+      "ref": 11,
+      "x": 74.44,
+      "y": 41.29,
+      "partNo": "131-1182",
+      "desc": "NUT - lock 1/2\" hex"
+    },
+    {
+      "ref": 12,
+      "x": 84.38,
+      "y": 43.51,
+      "partNo": "C25685",
+      "desc": "CASTER - roller (J48, K48, L48)"
+    },
+    {
+      "ref": 13,
+      "x": 85.16,
+      "y": 41.07,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\""
+    },
+    {
+      "ref": 14,
+      "x": 39.4,
+      "y": 57.16,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\" (K48, L48, M48)"
+    },
+    {
+      "ref": 15,
+      "x": 56.25,
+      "y": 81.69,
+      "partNo": "C26653",
+      "desc": "BELT - \"V\" mower drive"
+    },
+    {
+      "ref": 16,
+      "x": 10.71,
+      "y": 59.27,
+      "partNo": "C25690",
+      "desc": "LINK - mower lift R.H. (J48)"
+    },
+    {
+      "ref": 17,
+      "x": 23.66,
+      "y": 71.25,
+      "variants": [
+        {
+          "serialNote": "J48",
+          "partNo": "C25691",
+          "desc": "LINK - mower lift L.H."
+        },
+        {
+          "serialNote": "K48, L48, M48",
+          "partNo": "C26958",
+          "desc": "LINK - mower lift"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 26.23,
+      "y": 74.81,
+      "partNo": "C10821",
+      "desc": "PIN - clevis (quantity 4 on K48, L48, M48)"
+    },
+    {
+      "ref": 18,
+      "x": 23.44,
+      "y": 63.26,
+      "partNo": "C10821",
+      "desc": "PIN - clevis (quantity 4 on K48, L48, M48)"
+    },
+    {
+      "ref": 19,
+      "x": 14.4,
+      "y": 66.04,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\""
+    },
+    {
+      "ref": 20,
+      "x": 6.7,
+      "y": 74.81,
+      "partNo": "C10898",
+      "desc": "PIN - retaining, special"
+    },
+    {
+      "ref": 21,
+      "x": 14.17,
+      "y": 81.69,
+      "partNo": "132-310",
+      "desc": "PIN - cotter"
+    },
+    {
+      "ref": 22,
+      "x": 33.93,
+      "y": 58.71,
+      "partNo": "138-106",
+      "desc": "PIN - roll 3/16\" x 2-1/2\" (K48)"
+    },
+    {
+      "ref": 23,
+      "x": 93.3,
+      "y": 34.74,
+      "partNo": "C27730",
+      "desc": "WHEEL - anti-scalp"
+    },
+    {
+      "ref": 24,
+      "x": 75.78,
+      "y": 31.3,
+      "partNo": "C27731",
+      "desc": "SPACER - sleeve"
+    },
+    {
+      "ref": 25,
+      "x": 92.41,
+      "y": 21.86,
+      "partNo": "113-252",
+      "desc": "BOLT - 3/8\" - 16\" x 3-3/4\""
+    },
+    {
+      "ref": 26,
+      "x": 70.87,
+      "y": 34.52,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16"
+    },
+    {
+      "ref": 27,
+      "x": 84.15,
+      "y": 35.96,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\""
+    }
+  ],
+  "footnotes": ""
+}

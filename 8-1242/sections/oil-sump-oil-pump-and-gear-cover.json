@@ -1,0 +1,311 @@
+{
+  "sectionTitle": "Oil Sump, Oil Pump and Gear Cover",
+  "breadcrumb": "Oil Sump, Oil Pump and Gear Cover",
+  "catalogLabel": "Catalog 8-1242",
+  "modelNumbers": "Catalog 8-1242 — Models 446, 448",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-1242/oil-sump-oil-pump-and-gear-cover.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 87.01,
+      "y": 30.85,
+      "partNo": "C22631",
+      "desc": "COVER ASSEMBLY - gear"
+    },
+    {
+      "ref": 2,
+      "x": 84.88,
+      "y": 22.29,
+      "partNo": "C20305",
+      "desc": "BEARING - governor shaft"
+    },
+    {
+      "ref": 3,
+      "x": 66.67,
+      "y": 12.29,
+      "partNo": "C22632",
+      "desc": "SHAFT AND ARM ASSEMBLY - governor"
+    },
+    {
+      "ref": 4,
+      "x": 57.57,
+      "y": 18.96,
+      "partNo": "C20307",
+      "desc": "YOKE - governor shaft"
+    },
+    {
+      "ref": 5,
+      "x": 82.52,
+      "y": 16.7,
+      "partNo": "182-84",
+      "desc": "SCREW - yoke retaining"
+    },
+    {
+      "ref": 6,
+      "x": 61.0,
+      "y": 31.44,
+      "partNo": "C20309",
+      "desc": "PIN - governor, cup stop"
+    },
+    {
+      "ref": 7,
+      "x": 68.56,
+      "y": 16.46,
+      "partNo": "C20310",
+      "desc": "SEAL - oil, governor shaft"
+    },
+    {
+      "ref": 8,
+      "x": 57.45,
+      "y": 28.71,
+      "partNo": "211-5",
+      "desc": "BALL - governor shaft bearing"
+    },
+    {
+      "ref": 8,
+      "x": 83.7,
+      "y": 25.26,
+      "partNo": "211-5",
+      "desc": "BALL - governor shaft bearing"
+    },
+    {
+      "ref": 9,
+      "x": 82.16,
+      "y": 48.33,
+      "partNo": "C20312",
+      "desc": "SEAL - gear cover"
+    },
+    {
+      "ref": 10,
+      "x": 56.5,
+      "y": 38.46,
+      "partNo": "C20313",
+      "desc": "GASKET - gear cover"
+    },
+    {
+      "ref": 11,
+      "x": 65.49,
+      "y": 19.31,
+      "partNo": "C23320",
+      "desc": "PIN - gear cover 5/16\" x 1-1/8\""
+    },
+    {
+      "ref": 12,
+      "x": 56.27,
+      "y": 47.15,
+      "partNo": "C24958",
+      "desc": "DIPSTICK - oil level indicator"
+    },
+    {
+      "ref": 13,
+      "x": 82.87,
+      "y": 53.81,
+      "partNo": "C29984",
+      "desc": "GASKET - oil pan"
+    },
+    {
+      "ref": 14,
+      "x": 52.72,
+      "y": 86.04,
+      "partNo": "NSS",
+      "desc": "PLUG - oil sump, 1/2\" square head (use 221-844)"
+    },
+    {
+      "ref": 15,
+      "x": 52.6,
+      "y": 70.34,
+      "partNo": "221-844",
+      "desc": "PLUG - oil sump, 1/2\" socket head"
+    },
+    {
+      "ref": 16,
+      "x": 84.76,
+      "y": 66.89,
+      "partNo": "C22633",
+      "desc": "SUMP - oil"
+    },
+    {
+      "ref": 17,
+      "x": 17.84,
+      "y": 37.03,
+      "partNo": "C20320",
+      "desc": "SPRING - oil bypass"
+    },
+    {
+      "ref": 18,
+      "x": 17.95,
+      "y": 28.83,
+      "partNo": "114-200",
+      "desc": "BOLT - oil bypass 3/8\" x 1\" N.C. hex"
+    },
+    {
+      "ref": 19,
+      "x": 17.6,
+      "y": 41.67,
+      "partNo": "C20322",
+      "desc": "VALVE - oil bypass"
+    },
+    {
+      "ref": 20,
+      "x": 17.95,
+      "y": 21.69,
+      "partNo": "C29734",
+      "desc": "PUMP - oil"
+    },
+    {
+      "ref": 21,
+      "x": 52.72,
+      "y": 19.31,
+      "partNo": "C23321",
+      "desc": "INTAKE - oil pump (includes cup, screen and pipe)"
+    },
+    {
+      "ref": 22,
+      "x": 90.32,
+      "y": 81.88,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\""
+    },
+    {
+      "ref": 23,
+      "x": 89.02,
+      "y": 85.56,
+      "partNo": "113-257",
+      "desc": "BOLT - 3/8\" x 2-1/2\" N.C. hex"
+    },
+    {
+      "ref": 24,
+      "x": 20.67,
+      "y": 9.68,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4\""
+    },
+    {
+      "ref": 25,
+      "x": 17.84,
+      "y": 12.06,
+      "partNo": "113-4",
+      "desc": "BOLT - 1/4\" x 1\" N.C. hex"
+    },
+    {
+      "ref": 26,
+      "x": 65.85,
+      "y": 87.47,
+      "partNo": "221-1190",
+      "desc": "NIPPLE - oil drain"
+    },
+    {
+      "ref": 27,
+      "x": 53.55,
+      "y": 82.12,
+      "partNo": "221-1377",
+      "desc": "ELBOW - oil drain"
+    },
+    {
+      "ref": 28,
+      "x": 65.25,
+      "y": 46.91,
+      "partNo": "C20331",
+      "desc": "WASHER - 5/16\" copper"
+    },
+    {
+      "ref": 28,
+      "x": 28.24,
+      "y": 54.88,
+      "partNo": "C20331",
+      "desc": "WASHER - 5/16\" copper"
+    },
+    {
+      "ref": 29,
+      "x": 17.36,
+      "y": 33.11,
+      "partNo": "C20574",
+      "desc": "WASHER - 3/8\" copper"
+    },
+    {
+      "ref": 30,
+      "x": 56.39,
+      "y": 10.63,
+      "partNo": "C20325",
+      "desc": "KIT - gasket, oil pump"
+    },
+    {
+      "ref": 31,
+      "x": 68.45,
+      "y": 49.29,
+      "partNo": "113-120",
+      "desc": "BOLT - 5/16\" x 1-3/4\""
+    },
+    {
+      "ref": 32,
+      "x": 65.96,
+      "y": 50.36,
+      "partNo": "26-544",
+      "desc": "BOLT - 5/16\" x 2-3/4\""
+    },
+    {
+      "ref": 33,
+      "x": 9.91,
+      "y": 54.04,
+      "partNo": "C20330",
+      "desc": "GASKET - oil filter adapter (448)"
+    },
+    {
+      "ref": 34,
+      "x": 32.14,
+      "y": 57.37,
+      "partNo": "113-103",
+      "desc": "SCREW - 5/16\" - 18 x 1\" (448)"
+    },
+    {
+      "ref": 35,
+      "x": 34.39,
+      "y": 61.3,
+      "partNo": "221-1849",
+      "desc": "PLUG - pipe (448)"
+    },
+    {
+      "ref": 36,
+      "x": 38.29,
+      "y": 64.87,
+      "partNo": "C26191",
+      "desc": "FILTER - oil (448)"
+    },
+    {
+      "ref": 37,
+      "x": 46.69,
+      "y": 69.51,
+      "partNo": "C20577",
+      "desc": "SEAL - oil filter (448)"
+    },
+    {
+      "ref": 38,
+      "x": 33.33,
+      "y": 90.32,
+      "partNo": "C25389",
+      "desc": "DRAIN - oil filter (448)"
+    },
+    {
+      "ref": 39,
+      "x": 9.91,
+      "y": 84.97,
+      "partNo": "182-525",
+      "desc": "SCREW - No. 10-32 x 3/8\" (448)"
+    },
+    {
+      "ref": 40,
+      "x": 9.68,
+      "y": 76.52,
+      "partNo": "192-18",
+      "desc": "WASHER - No. 10 (448)"
+    },
+    {
+      "ref": 41,
+      "x": 23.75,
+      "y": 52.26,
+      "partNo": "C20565",
+      "desc": "ADAPTER - oil filter (448)"
+    }
+  ],
+  "footnotes": ""
+}
