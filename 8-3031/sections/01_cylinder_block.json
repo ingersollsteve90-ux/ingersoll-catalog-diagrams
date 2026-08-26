@@ -1,0 +1,254 @@
+{
+  "sectionTitle": "Cylinder Block, Head and Oil Pan",
+  "breadcrumb": "Cylinder Block, Head and Oil Pan",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/01_cylinder_block.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 50.9,
+      "y": 43.6,
+      "partNo": "NSS",
+      "desc": "BLOCK - cylinder, bare"
+    },
+    {
+      "ref": 2,
+      "x": 54.8,
+      "y": 52.7,
+      "partNo": "KO236559",
+      "desc": "SHAFT-balance gear stub"
+    },
+    {
+      "ref": 3,
+      "x": 63.3,
+      "y": 52.2,
+      "partNo": "C32888",
+      "desc": "GASKET - shim"
+    },
+    {
+      "ref": 4,
+      "x": 70.2,
+      "y": 55.1,
+      "partNo": "C32889",
+      "desc": "GASKET - bearing plate"
+    },
+    {
+      "ref": 5,
+      "x": 74.6,
+      "y": 58.0,
+      "partNo": "C28669",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 5,
+      "x": 18.4,
+      "y": 36.8,
+      "partNo": "C28669",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 6,
+      "x": 97.4,
+      "y": 58.9,
+      "partNo": "C32890",
+      "desc": "PLATE - bearing"
+    },
+    {
+      "ref": 7,
+      "x": 97.3,
+      "y": 67.9,
+      "partNo": "C32891",
+      "desc": "SEAL - front oil"
+    },
+    {
+      "ref": 8,
+      "x": 83.9,
+      "y": 76.5,
+      "partNo": "113-207",
+      "desc": "SCREW - 3/8” – 16 x 1”"
+    },
+    {
+      "ref": 9,
+      "x": 15.6,
+      "y": 63.6,
+      "partNo": "NSS",
+      "desc": "SCREW - 1/4” – 20 x 1/2” (use 113-1 & 192-19)"
+    },
+    {
+      "ref": 10,
+      "x": 22.6,
+      "y": 61.1,
+      "partNo": "KO235026",
+      "desc": "COVER - camshaft"
+    },
+    {
+      "ref": 11,
+      "x": 28.1,
+      "y": 59.1,
+      "partNo": "KO235025",
+      "desc": "GASKET - camshaft cover"
+    },
+    {
+      "ref": 12,
+      "x": 21.9,
+      "y": 47.1,
+      "partNo": "KO235125-S",
+      "desc": "SHAFT - governor gear"
+    },
+    {
+      "ref": 13,
+      "x": 18.1,
+      "y": 46.3,
+      "partNo": "41-18",
+      "desc": "PLUG - expansion"
+    },
+    {
+      "ref": 14,
+      "x": 20.7,
+      "y": 38.8,
+      "partNo": "C28691",
+      "desc": "BEARING - governor cross shaft"
+    },
+    {
+      "ref": 15,
+      "x": 2.9,
+      "y": 43.7,
+      "partNo": "C28678",
+      "desc": "SEAL - rear oil"
+    },
+    {
+      "ref": 16,
+      "x": 26.0,
+      "y": 31.9,
+      "variants": [
+        {
+          "serialNote": "exhaust seat (3010,3012)",
+          "partNo": "KO230170",
+          "desc": "INSERT"
+        },
+        {
+          "serialNote": "valve seat (3014, 4014)",
+          "partNo": "KO230265",
+          "desc": "INSERT"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 27.1,
+      "y": 27.8,
+      "partNo": "KO235007-S",
+      "desc": "GUIDE - valve"
+    },
+    {
+      "ref": 18,
+      "x": 49.6,
+      "y": 8.7,
+      "variants": [
+        {
+          "serialNote": "(3010)",
+          "partNo": "C32898",
+          "desc": "HEAD - cylinder"
+        },
+        {
+          "serialNote": "(3012, 3014, 4014)",
+          "partNo": "C32899",
+          "desc": "HEAD - cylinder"
+        }
+      ]
+    },
+    {
+      "ref": 19,
+      "x": 45.5,
+      "y": 21.7,
+      "partNo": "C30482",
+      "desc": "GASKET - head"
+    },
+    {
+      "ref": 20,
+      "x": 26.0,
+      "y": 7.5,
+      "partNo": "KO270889",
+      "desc": "WASHER - 3/8”"
+    },
+    {
+      "ref": 21,
+      "x": 26.4,
+      "y": 4.1,
+      "partNo": "KO270158",
+      "desc": "BOLT – head 3/8” – 16 x 1-1/2”"
+    },
+    {
+      "ref": 22,
+      "x": 44.0,
+      "y": 3.9,
+      "partNo": "KO235748",
+      "desc": "STRAP - lifting"
+    },
+    {
+      "ref": 23,
+      "x": 44.9,
+      "y": 1.6,
+      "partNo": "C32901",
+      "desc": "SCREW – socket head 3/8” – 16 x 1”"
+    },
+    {
+      "ref": 24,
+      "x": 49.9,
+      "y": 68.4,
+      "partNo": "C32953",
+      "desc": "GASKET - oil pan"
+    },
+    {
+      "ref": 25,
+      "x": 55.0,
+      "y": 74.3,
+      "partNo": "C32954",
+      "desc": "PAN - oil"
+    },
+    {
+      "ref": 26,
+      "x": 22.0,
+      "y": 81.0,
+      "partNo": "195-103",
+      "desc": "WASHER - 3/8”"
+    },
+    {
+      "ref": 27,
+      "x": 22.6,
+      "y": 83.7,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8” – 16 x 1”"
+    },
+    {
+      "ref": 28,
+      "x": 30.5,
+      "y": 96.1,
+      "partNo": "C32376",
+      "desc": "CLAMP - hose 5/8”"
+    },
+    {
+      "ref": 29,
+      "x": 34.9,
+      "y": 98.3,
+      "partNo": "C32331",
+      "desc": "VALVE - oil drain"
+    },
+    {
+      "ref": 30,
+      "x": 43.9,
+      "y": 90.2,
+      "partNo": "221-86",
+      "desc": "REDUCER - pipe 3/8” to 1/4”"
+    },
+    {
+      "ref": 31,
+      "x": 21.8,
+      "y": 91.9,
+      "partNo": "C32333",
+      "desc": "HOSE - oil drain"
+    }
+  ],
+  "footnotes": ""
+}

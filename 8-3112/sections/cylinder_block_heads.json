@@ -1,0 +1,382 @@
+{
+  "sectionTitle": "Cylinder Block and Cylinder Heads",
+  "breadcrumb": "Cylinder Block and Cylinder Heads",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/cylinder_block_heads.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 45.79,
+      "y": 65.3,
+      "partNo": "C34190",
+      "desc": "BLOCK - cylinder"
+    },
+    {
+      "ref": 2,
+      "x": 91.47,
+      "y": 54.3,
+      "partNo": "C34191",
+      "desc": "BEARING - main"
+    },
+    {
+      "ref": 3,
+      "x": 96.48,
+      "y": 46.5,
+      "partNo": "C34192",
+      "desc": "SEAL-oil"
+    },
+    {
+      "ref": 4,
+      "x": 77.41,
+      "y": 82.3,
+      "partNo": "C34203",
+      "desc": "PLUG-pipe"
+    },
+    {
+      "ref": 5,
+      "x": 77.19,
+      "y": 47.4,
+      "partNo": "C34239",
+      "desc": "PLUG-pipe"
+    },
+    {
+      "ref": 6,
+      "x": 82.2,
+      "y": 71.3,
+      "partNo": "C34327",
+      "desc": "DOWEL - crankcase"
+    },
+    {
+      "ref": 7,
+      "x": 86.24,
+      "y": 60.4,
+      "partNo": "C34328",
+      "desc": "DOWEL - cylinder head"
+    },
+    {
+      "ref": 8,
+      "x": 29.98,
+      "y": 56.3,
+      "partNo": "C34317",
+      "desc": "BAFFLE - breather"
+    },
+    {
+      "ref": 9,
+      "x": 67.27,
+      "y": 83.1,
+      "partNo": "C34227",
+      "desc": "PLATE - windage"
+    },
+    {
+      "ref": 10,
+      "x": 60.4,
+      "y": 86.3,
+      "partNo": "C34279",
+      "desc": "SCREW - sem"
+    },
+    {
+      "ref": 11,
+      "x": 36.85,
+      "y": 75.5,
+      "partNo": "C34370",
+      "desc": "PUMP-oil"
+    },
+    {
+      "ref": 12,
+      "x": 29.77,
+      "y": 80.0,
+      "partNo": "C34246",
+      "desc": "\"0\" RING - pump"
+    },
+    {
+      "ref": 13,
+      "x": 25.84,
+      "y": 88.4,
+      "partNo": "C34338",
+      "desc": "SCREW - pump mounting"
+    },
+    {
+      "ref": 14,
+      "x": 58.22,
+      "y": 20.8,
+      "variants": [
+        {
+          "serialNote": "Use before Engine Date Code: 3012-all, 3014-all, 3016-90091100, 4016-90091100 [*]",
+          "partNo": "C34193",
+          "desc": "HEAD - cylinder R.H., No. I"
+        },
+        {
+          "serialNote": "Use after Engine Date Code: 3016-90091000, 4016-90091000 [**]",
+          "partNo": "C40932",
+          "desc": "HEAD - cylinder R.H., No. 1"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 85.36,
+      "y": 45.0,
+      "variants": [
+        {
+          "serialNote": "Use before Engine Date Code: 3012-all, 3014-all, 3016-90091100, 4016-90091100 [*]",
+          "partNo": "C34194",
+          "desc": "HEAD - cylinder L.H., No. 2"
+        },
+        {
+          "serialNote": "Use after Engine Date Code: 3016-90091000, 4016-90091000 [**]",
+          "partNo": "C40933",
+          "desc": "HEAD - cylinder L.H., No. 2"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 69.56,
+      "y": 29.6,
+      "partNo": "C34348",
+      "desc": "SEAT - exhaust valve"
+    },
+    {
+      "ref": 17,
+      "x": 81.44,
+      "y": 29.4,
+      "partNo": "C34347",
+      "desc": "SEAT - intake valve"
+    },
+    {
+      "ref": 18,
+      "x": 89.72,
+      "y": 38.6,
+      "partNo": "C34349",
+      "desc": "GUIDE - valve"
+    },
+    {
+      "ref": 19,
+      "x": 59.85,
+      "y": 40.5,
+      "variants": [
+        {
+          "serialNote": "Use before Engine Date Code: 3012-all, 3014-all, 3016-90091100, 4016-90091100 [*]",
+          "partNo": "C34196",
+          "desc": "GASKET - head"
+        },
+        {
+          "serialNote": "Use after Engine Date Code: 3016-90091000, 4016-90091000 [**]",
+          "partNo": "C40934",
+          "desc": "GASKET - head"
+        }
+      ]
+    },
+    {
+      "ref": 20,
+      "x": 39.9,
+      "y": 35.2,
+      "partNo": "C34202",
+      "desc": "BOLT - head"
+    },
+    {
+      "ref": 20,
+      "x": 47.43,
+      "y": 19.5,
+      "partNo": "C34202",
+      "desc": "BOLT - head"
+    },
+    {
+      "ref": 21,
+      "x": 49.39,
+      "y": 23.0,
+      "partNo": "C34195",
+      "desc": "WASHER - head bolt"
+    },
+    {
+      "ref": 22,
+      "x": 81.98,
+      "y": 10.0,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C34368",
+          "desc": "COVER - valve (No. 2 cylinder) L.H"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C34369",
+          "desc": "COVER - valve (No. 1 cylinder) R.H"
+        }
+      ]
+    },
+    {
+      "ref": 23,
+      "x": 66.61,
+      "y": 20.9,
+      "partNo": "C34367",
+      "desc": "GASKET - valve cover"
+    },
+    {
+      "ref": 24,
+      "x": 95.83,
+      "y": 14.7,
+      "partNo": "C34262",
+      "desc": "NUT - lock, valve cover"
+    },
+    {
+      "ref": 25,
+      "x": 86.56,
+      "y": 11.3,
+      "partNo": "C34261",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 26,
+      "x": 41.87,
+      "y": 16.3,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C34372",
+          "desc": "ROD - push, intake"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C34373",
+          "desc": "ROD - push, exhaust"
+        }
+      ]
+    },
+    {
+      "ref": 27,
+      "x": 39.03,
+      "y": 8.2,
+      "partNo": "C34377",
+      "desc": "SHAFT - rocker arm"
+    },
+    {
+      "ref": 28,
+      "x": 38.71,
+      "y": 12.8,
+      "partNo": "C34378",
+      "desc": "SUPPORT - rocker arm"
+    },
+    {
+      "ref": 29,
+      "x": 32.49,
+      "y": 5.3,
+      "partNo": "C34259",
+      "desc": "STUD - rocker arm"
+    },
+    {
+      "ref": 30,
+      "x": 16.9,
+      "y": 15.1,
+      "partNo": "C34376",
+      "desc": "ARM - rocker"
+    },
+    {
+      "ref": 31,
+      "x": 21.15,
+      "y": 11.3,
+      "partNo": "C34265",
+      "desc": "SCREW AND NUT - valve adjust"
+    },
+    {
+      "ref": 32,
+      "x": 40.67,
+      "y": 24.8,
+      "partNo": "C34230",
+      "desc": "TAPPET - valve"
+    },
+    {
+      "ref": 33,
+      "x": 37.07,
+      "y": 27.0,
+      "partNo": "C34346",
+      "desc": "SEAL - valve guide"
+    },
+    {
+      "ref": 34,
+      "x": 32.71,
+      "y": 30.2,
+      "partNo": "C34224",
+      "desc": "VALVE - exhaust"
+    },
+    {
+      "ref": 35,
+      "x": 25.95,
+      "y": 31.9,
+      "partNo": "C34225",
+      "desc": "VALVE - intake"
+    },
+    {
+      "ref": 36,
+      "x": 20.83,
+      "y": 26.0,
+      "partNo": "C34226",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": 37,
+      "x": 21.81,
+      "y": 21.6,
+      "partNo": "C34228",
+      "desc": "RETAINER - valve spring"
+    },
+    {
+      "ref": 38,
+      "x": 14.94,
+      "y": 19.7,
+      "partNo": "C34229",
+      "desc": "RETAINER - valve"
+    },
+    {
+      "ref": 39,
+      "x": 53.53,
+      "y": 97.2,
+      "partNo": "C34272",
+      "desc": "SCREEN - oil pick-up"
+    },
+    {
+      "ref": 40,
+      "x": 35.54,
+      "y": 93.5,
+      "partNo": "C34339",
+      "desc": "SCREW - mounting"
+    },
+    {
+      "ref": 41,
+      "x": 44.37,
+      "y": 96.8,
+      "partNo": "C34248",
+      "desc": "\"0\" RING - pick-up tube"
+    },
+    {
+      "ref": 42,
+      "x": 57.13,
+      "y": 43.7,
+      "partNo": "C34342",
+      "desc": "LINER - exhaust port"
+    },
+    {
+      "ref": 43,
+      "x": 78.71,
+      "y": 63.4,
+      "partNo": "113-120",
+      "desc": "BOLT - 5/16\"-18x1-3/4\""
+    },
+    {
+      "ref": 44,
+      "x": 79.37,
+      "y": 68.1,
+      "partNo": "195-521",
+      "desc": "WASHER - .34\" x .69\""
+    },
+    {
+      "ref": 45,
+      "x": 72.39,
+      "y": 80.6,
+      "partNo": "131-69",
+      "desc": "NUT - lock 5/16\" - 18"
+    }
+  ],
+  "footnotes": "* Use before Engine Date Code: 3012-all, 3014-all, 3016-90091100, 4016-90091100\n** Use after Engine Date Code: 3016-90091000, 4016-90091000"
+}

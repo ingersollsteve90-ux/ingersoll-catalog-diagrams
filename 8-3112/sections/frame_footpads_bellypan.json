@@ -1,0 +1,314 @@
+{
+  "sectionTitle": "Frame, Footpads and Belly Pan",
+  "breadcrumb": "Frame, Footpads and Belly Pan",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/frame_footpads_bellypan.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 88.1,
+      "y": 50.4,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 4 (see Notes below)",
+          "partNo": "C37127",
+          "desc": "FRAME - main (4016)"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14167800,3014-14168800,3016-14169500,4016-all after [**]",
+          "partNo": "C37260",
+          "desc": "FRAME - main (3012, 3014, 3016)"
+        },
+        {
+          "serialNote": "Use PIN to PIN: 3012-14145818 to 14167800,3014-14146794 to 14168800,3016-14147979 to 14169500 [***]",
+          "partNo": "C34167",
+          "desc": "FRAME - main (3012,3014,3016)"
+        },
+        {
+          "serialNote": "Use before PIN: 3012-14145818,3014-14146794,3016-14147979 [+]",
+          "partNo": "NSS",
+          "desc": "FRAME - main (3012, 3014, 3016) (use C34167, C33940, C33945)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 82.1,
+      "y": 30.0,
+      "partNo": "C31610",
+      "desc": "SHIELD - oil tank"
+    },
+    {
+      "ref": 3,
+      "x": 62.2,
+      "y": 68.9,
+      "partNo": "C24137",
+      "desc": "SPRING - latch"
+    },
+    {
+      "ref": 4,
+      "x": 91.9,
+      "y": 52.6,
+      "partNo": "C22023",
+      "desc": "HINGE - frame"
+    },
+    {
+      "ref": 5,
+      "x": 57.2,
+      "y": 62.7,
+      "partNo": "131-1318",
+      "desc": "NUT - lock 1/2\" N.F"
+    },
+    {
+      "ref": 6,
+      "x": 62.2,
+      "y": 60.3,
+      "partNo": "C27508",
+      "desc": "PIN - attachment"
+    },
+    {
+      "ref": 7,
+      "x": 81.1,
+      "y": 72.4,
+      "partNo": "131-69",
+      "desc": "NUT - lock 5/16\" - 18 lock"
+    },
+    {
+      "ref": 8,
+      "x": 84.7,
+      "y": 48.3,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\" (over engine foot pad)"
+    },
+    {
+      "ref": 9,
+      "x": 80.5,
+      "y": 44.3,
+      "partNo": "113-120",
+      "desc": "BOLT - 5/16\" - 18 x 1-3/4\""
+    },
+    {
+      "ref": 10,
+      "x": 50.8,
+      "y": 63.5,
+      "variants": [
+        {
+          "serialNote": "Use PIN and after: 3012-14167800,3014-14168800,3016-14169500,4016-all after [**]",
+          "partNo": "C37132",
+          "desc": "FOOT REST - L.H. (3012, 3014, 3016)"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14167800,3014-14168800,3016-14169500,4016-all after [**]",
+          "partNo": "C37134",
+          "desc": "FOOT REST - R.H. (3012, 3014, 3016)"
+        },
+        {
+          "serialNote": "Option 3 of 6 (see Notes below)",
+          "partNo": "C37136",
+          "desc": "FOOT REST - L.H. (4016)"
+        },
+        {
+          "serialNote": "Option 4 of 6 (see Notes below)",
+          "partNo": "C37138",
+          "desc": "FOOT REST - R.H. (4016)"
+        },
+        {
+          "serialNote": "Use before PIN [*]",
+          "partNo": "C30458",
+          "desc": "FOOT REST - L.H. (3012, 3014, 3016)"
+        },
+        {
+          "serialNote": "Use before PIN [*]",
+          "partNo": "C30460",
+          "desc": "FOOT REST - R.H. (3012, 3014, 3016)"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 21.4,
+      "y": 55.3,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16\" x 1/2\" NC. flange lock"
+    },
+    {
+      "ref": 12,
+      "x": 57.5,
+      "y": 6.0,
+      "variants": [
+        {
+          "serialNote": "Use before PIN [*]",
+          "partNo": "C31368",
+          "desc": "CAP - instrument panel"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14167800,3014-14168800,3016-14169500,4016-all after [**]",
+          "partNo": "C37167",
+          "desc": "CAP - instrument panel"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14167800,3014-14168800,3016-14169500,4016-all after [**]",
+          "partNo": "C37166",
+          "desc": "INSERT - cap"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 20.9,
+      "y": 36.2,
+      "partNo": "C14730",
+      "desc": "SPACER - rear, frame"
+    },
+    {
+      "ref": 14,
+      "x": 25.0,
+      "y": 21.2,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\""
+    },
+    {
+      "ref": 15,
+      "x": 25.7,
+      "y": 15.3,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "113-424",
+          "desc": "BOLT - 1/2\" - 13 x 1\" transaxle mounting"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "166-86",
+          "desc": "BOLT - 1/2\" - 13 x 1-1/4\" 12 pt. flange (4016)"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 64.0,
+      "y": 77.3,
+      "partNo": "138-2073",
+      "desc": "PIN - roll 3/16\" x 1-1/4\""
+    },
+    {
+      "ref": 17,
+      "x": 57.2,
+      "y": 69.3,
+      "partNo": "C16373",
+      "desc": "PIN-latch"
+    },
+    {
+      "ref": 18,
+      "x": 8.2,
+      "y": 73.4,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C31597",
+          "desc": "SCREW - 1/4\" - 20 x 1/2\" black"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C33576",
+          "desc": "SCREW - 1/4\" x 5/16\" black"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 73.0,
+      "y": 34.3,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C31597",
+          "desc": "SCREW - 1/4\" - 20 x 1/2\" black"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C33576",
+          "desc": "SCREW - 1/4\" x 5/16\" black"
+        }
+      ]
+    },
+    {
+      "ref": 20,
+      "x": 41.5,
+      "y": 8.4,
+      "partNo": "C33548",
+      "desc": "COVER - access"
+    },
+    {
+      "ref": 21,
+      "x": 30.3,
+      "y": 10.1,
+      "partNo": "C33576",
+      "desc": "SCREW - 1/4\" - 20 x 5/16\""
+    },
+    {
+      "ref": 22,
+      "x": 27.1,
+      "y": 74.2,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C33550",
+          "desc": "SCREEN - tower side R.H. (shown)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C33549",
+          "desc": "SCREEN - tower side L.H"
+        }
+      ]
+    },
+    {
+      "ref": 23,
+      "x": 52.3,
+      "y": 93.0,
+      "partNo": "C31369",
+      "desc": "PAN - belly"
+    },
+    {
+      "ref": 24,
+      "x": 58.5,
+      "y": 97.5,
+      "partNo": "C31603",
+      "desc": "RETAINER - belly pan"
+    },
+    {
+      "ref": 25,
+      "x": 97.6,
+      "y": 34.5,
+      "partNo": "C33472",
+      "desc": "SEAL - engine air"
+    },
+    {
+      "ref": 26,
+      "x": 85.8,
+      "y": 4.6,
+      "partNo": "C30274",
+      "desc": "LENS - display"
+    },
+    {
+      "ref": 27,
+      "x": 42.1,
+      "y": 76.7,
+      "variants": [
+        {
+          "serialNote": "Use PIN and after: 3012-14167800,3014-14168800,3016-14169500,4016-all after [**]",
+          "partNo": "C37140",
+          "desc": "PAD - foot rest L.H"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14167800,3014-14168800,3016-14169500,4016-all after [**]",
+          "partNo": "C37141",
+          "desc": "PAD - foot rest R.H"
+        }
+      ]
+    }
+  ],
+  "footnotes": "+ Use before PIN: 3012-14145818,3014-14146794,3016-14147979\n* Use before PIN / ** Use PIN and after: 3012-14167800,3014-14168800,3016-14169500,4016-all after\n*** Use PIN to PIN: 3012-14145818 to 14167800,3014-14146794 to 14168800,3016-14147979 to 14169500"
+}

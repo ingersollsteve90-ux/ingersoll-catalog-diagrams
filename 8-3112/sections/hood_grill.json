@@ -1,0 +1,191 @@
+{
+  "sectionTitle": "Hood and Grill",
+  "breadcrumb": "Hood and Grill",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/hood_grill.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 69.5,
+      "y": 29.3,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C33547",
+          "desc": "HOOD"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C31357",
+          "desc": "HINGE - hood (not shown) is welded to hood"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 85.1,
+      "y": 39.5,
+      "partNo": "C16362",
+      "desc": "ROD - hood hinge"
+    },
+    {
+      "ref": 3,
+      "x": 86.5,
+      "y": 52.5,
+      "partNo": "132-334",
+      "desc": "PIN - cotter 1/8\" x 3/4\""
+    },
+    {
+      "ref": 4,
+      "x": 18.1,
+      "y": 12.5,
+      "partNo": "C29314",
+      "desc": "BUTTON - push, hood release"
+    },
+    {
+      "ref": 5,
+      "x": 15.6,
+      "y": 20.4,
+      "partNo": "C30126",
+      "desc": "ROD - push, hood release"
+    },
+    {
+      "ref": 6,
+      "x": 12.3,
+      "y": 19.3,
+      "partNo": "C30004",
+      "desc": "SPRING - release"
+    },
+    {
+      "ref": 7,
+      "x": 27.1,
+      "y": 14.4,
+      "partNo": "C33467",
+      "desc": "LATCH - hood"
+    },
+    {
+      "ref": 8,
+      "x": 50.0,
+      "y": 74.2,
+      "partNo": "C31611",
+      "desc": "BRACKET - hood stop"
+    },
+    {
+      "ref": 9,
+      "x": 45.3,
+      "y": 63.2,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16\" - 18 x 1/2\" flange lock"
+    },
+    {
+      "ref": 10,
+      "x": 80.0,
+      "y": 81.8,
+      "partNo": "C31365",
+      "desc": "GRILLE"
+    },
+    {
+      "ref": 11,
+      "x": 77.9,
+      "y": 73.0,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 11,
+      "x": 34.1,
+      "y": 74.0,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 11,
+      "x": 20.5,
+      "y": 72.3,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 12,
+      "x": 10.9,
+      "y": 47.4,
+      "partNo": "C31597",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\" black"
+    },
+    {
+      "ref": 12,
+      "x": 30.7,
+      "y": 40.4,
+      "partNo": "C31597",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\" black"
+    },
+    {
+      "ref": 12,
+      "x": 88.9,
+      "y": 81.1,
+      "partNo": "C31597",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\" black"
+    },
+    {
+      "ref": 13,
+      "x": 97.7,
+      "y": 62.3,
+      "partNo": "187-1328",
+      "desc": "SCREW - #8 - 18 x 3/8\""
+    },
+    {
+      "ref": 14,
+      "x": 77.4,
+      "y": 65.1,
+      "partNo": "C31366",
+      "desc": "SHROUD - headlight"
+    },
+    {
+      "ref": 15,
+      "x": 42.7,
+      "y": 46.1,
+      "partNo": "C33567",
+      "desc": "SHIELD - heat"
+    },
+    {
+      "ref": 15,
+      "x": 22.3,
+      "y": 48.3,
+      "partNo": "C33567",
+      "desc": "SHIELD - heat"
+    },
+    {
+      "ref": 16,
+      "x": 58.4,
+      "y": 94.0,
+      "partNo": "C33568",
+      "desc": "BRACKET - heat shield"
+    },
+    {
+      "ref": 16,
+      "x": 31.3,
+      "y": 70.5,
+      "partNo": "C33568",
+      "desc": "BRACKET - heat shield"
+    },
+    {
+      "ref": 17,
+      "x": 15.4,
+      "y": 49.1,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C33569",
+          "desc": "EXTENDER - hood L.H"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C33570",
+          "desc": "EXTENDER - hood R.H. (shown)"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

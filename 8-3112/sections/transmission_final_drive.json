@@ -1,0 +1,477 @@
+{
+  "sectionTitle": "Transmission and Final Drive",
+  "breadcrumb": "Transmission and Final Drive",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/transmission_final_drive.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 51.35,
+      "y": 63.2,
+      "partNo": "NSS",
+      "desc": "CASE - transmission (see above)"
+    },
+    {
+      "ref": 2,
+      "x": 76.88,
+      "y": 25.8,
+      "partNo": "C12713",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": 2,
+      "x": 23.79,
+      "y": 49.1,
+      "partNo": "C12713",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": 3,
+      "x": 71.18,
+      "y": 60.6,
+      "partNo": "C24804",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": 3,
+      "x": 32.54,
+      "y": 78.6,
+      "partNo": "C24804",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": 4,
+      "x": 75.25,
+      "y": 59.0,
+      "partNo": "C24803",
+      "desc": "SEAL - shaft"
+    },
+    {
+      "ref": 4,
+      "x": 31.72,
+      "y": 89.9,
+      "partNo": "C24803",
+      "desc": "SEAL - shaft"
+    },
+    {
+      "ref": 5,
+      "x": 43.83,
+      "y": 31.5,
+      "partNo": "C13241",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": 6,
+      "x": 45.86,
+      "y": 94.0,
+      "partNo": "C13385",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": 7,
+      "x": 80.23,
+      "y": 87.1,
+      "partNo": "C13266",
+      "desc": "SEAL - shift rod"
+    },
+    {
+      "ref": 8,
+      "x": 43.32,
+      "y": 57.5,
+      "partNo": "C28281",
+      "desc": "BEARING - roller"
+    },
+    {
+      "ref": 9,
+      "x": 24.3,
+      "y": 30.9,
+      "variants": [
+        {
+          "serialNote": "Flag * (see Notes below)",
+          "partNo": "C30029",
+          "desc": "DIFFERENTIAL ASSEMBLY, 20o PA gears (assemblies include items 25, 34, & 26)"
+        },
+        {
+          "serialNote": "Flag * * (see Notes below)",
+          "partNo": "C36902",
+          "desc": "DIFFERENTIAL ASSEMBLY, 20o PA gears"
+        },
+        {
+          "serialNote": "Flag * * * (see Notes below)",
+          "partNo": "C46929",
+          "desc": "DIFFERENTIAL ASSEMBLY, 25o PA gears"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 55.11,
+      "y": 89.3,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "221-3",
+          "desc": "PLUG - filler and drain 3/8\" (square head)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "221-1842",
+          "desc": "PLUG - pipe 3/8\" socket"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 45.15,
+      "y": 64.7,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "221-3",
+          "desc": "PLUG - filler and drain 3/8\" (square head)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "221-1842",
+          "desc": "PLUG - pipe 3/8\" socket"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 17.28,
+      "y": 85.5,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C22638",
+          "desc": "SHAFT - axle, short R.H. (4000 Series)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C16699",
+          "desc": "SHAFT - axle, short R.H. (3000 Series)"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 29.69,
+      "y": 36.6,
+      "partNo": "126-128",
+      "desc": "KEY - woodruff, brake idler #18, 1/4\" x 1-1/8\""
+    },
+    {
+      "ref": 14,
+      "x": 86.44,
+      "y": 54.8,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C22637",
+          "desc": "SHAFT - axle, long L.H. (4000 Series)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C16700",
+          "desc": "SHAFT - axle, long L.H. (3000 Series)"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 47.89,
+      "y": 31.9,
+      "partNo": "C26342",
+      "desc": "RING - retainer, axle"
+    },
+    {
+      "ref": 16,
+      "x": 67.52,
+      "y": 23.4,
+      "partNo": "C13196",
+      "desc": "GASKET - transmission cover"
+    },
+    {
+      "ref": 17,
+      "x": 78.0,
+      "y": 15.6,
+      "partNo": "C36935",
+      "desc": "COVER - transmission"
+    },
+    {
+      "ref": 18,
+      "x": 52.88,
+      "y": 7.7,
+      "partNo": "C28241",
+      "desc": "BREATHER - transmission"
+    },
+    {
+      "ref": 19,
+      "x": 46.37,
+      "y": 11.4,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\""
+    },
+    {
+      "ref": 20,
+      "x": 71.28,
+      "y": 10.0,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4\" x 1/2\" N.C. hex lock"
+    },
+    {
+      "ref": 21,
+      "x": 63.55,
+      "y": 50.2,
+      "partNo": "C12725",
+      "desc": "FORK - shift"
+    },
+    {
+      "ref": 22,
+      "x": 86.54,
+      "y": 84.7,
+      "variants": [
+        {
+          "serialNote": "Flag * (see Notes below)",
+          "partNo": "C32486",
+          "desc": "ROD - gear shift"
+        },
+        {
+          "serialNote": "Flag * * (see Notes below)",
+          "partNo": "C37222",
+          "desc": "ROD - gear shift"
+        }
+      ]
+    },
+    {
+      "ref": 23,
+      "x": 57.05,
+      "y": 59.9,
+      "partNo": "C14168",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 23,
+      "x": 67.83,
+      "y": 48.5,
+      "partNo": "C14168",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 24,
+      "x": 48.71,
+      "y": 57.5,
+      "variants": [
+        {
+          "serialNote": "Flag * (see Notes below)",
+          "partNo": "C14644",
+          "desc": "GEAR - cluster input, 20o PA gears"
+        },
+        {
+          "serialNote": "Flag * * (see Notes below)",
+          "partNo": "C36901",
+          "desc": "GEAR - cluster input, 20 PA gears"
+        },
+        {
+          "serialNote": "Flag * * * (see Notes below)",
+          "partNo": "C46928",
+          "desc": "GEAR - cluster input, 25o PA gears"
+        }
+      ]
+    },
+    {
+      "ref": 25,
+      "x": 55.52,
+      "y": 33.1,
+      "variants": [
+        {
+          "serialNote": "Flag * (see Notes below)",
+          "partNo": "C30030",
+          "desc": "GEAR - high 41 tooth"
+        },
+        {
+          "serialNote": "Flag * * (see Notes below)",
+          "partNo": "C36903",
+          "desc": "GEAR - high range"
+        }
+      ]
+    },
+    {
+      "ref": 26,
+      "x": 35.08,
+      "y": 45.4,
+      "partNo": "C12552",
+      "desc": "GEAR - low 55 tooth, 20o PA gear - 25o gear is not available, order C46929 (and items C46927 and C46928 if needed to match pressure angle gears)"
+    },
+    {
+      "ref": 27,
+      "x": 27.65,
+      "y": 9.6,
+      "partNo": "NSS",
+      "desc": "DIFFERENTIAL CASE"
+    },
+    {
+      "ref": 27,
+      "x": 24.1,
+      "y": 27.5,
+      "partNo": "NSS",
+      "desc": "DIFFERENTIAL CASE"
+    },
+    {
+      "ref": 28,
+      "x": 38.74,
+      "y": 96.0,
+      "partNo": "C33305",
+      "desc": "BRAKE DRUM"
+    },
+    {
+      "ref": 29,
+      "x": 18.91,
+      "y": 10.1,
+      "partNo": "NSS",
+      "desc": "GEAR - differential pinion"
+    },
+    {
+      "ref": 29,
+      "x": 29.99,
+      "y": 25.3,
+      "partNo": "NSS",
+      "desc": "GEAR - differential pinion"
+    },
+    {
+      "ref": 30,
+      "x": 25.72,
+      "y": 12.2,
+      "partNo": "NSS",
+      "desc": "GEAR - differential"
+    },
+    {
+      "ref": 30,
+      "x": 26.33,
+      "y": 24.6,
+      "partNo": "NSS",
+      "desc": "GEAR - differential"
+    },
+    {
+      "ref": 31,
+      "x": 13.62,
+      "y": 10.4,
+      "partNo": "NSS",
+      "desc": "WASHER - pinion thrust"
+    },
+    {
+      "ref": 31,
+      "x": 33.05,
+      "y": 26.9,
+      "partNo": "NSS",
+      "desc": "WASHER - pinion thrust"
+    },
+    {
+      "ref": 32,
+      "x": 22.57,
+      "y": 12.1,
+      "partNo": "NSS",
+      "desc": "PIN - differential"
+    },
+    {
+      "ref": 33,
+      "x": 13.62,
+      "y": 16.9,
+      "partNo": "NSS",
+      "desc": "PIN - differential pin lock"
+    },
+    {
+      "ref": 34,
+      "x": 38.74,
+      "y": 55.8,
+      "partNo": "C30031",
+      "desc": "KIT - screw (set of four)"
+    },
+    {
+      "ref": 36,
+      "x": 71.18,
+      "y": 28.6,
+      "partNo": "C12718",
+      "desc": "WASHER - differential"
+    },
+    {
+      "ref": 36,
+      "x": 32.33,
+      "y": 48.7,
+      "partNo": "C12718",
+      "desc": "WASHER - differential"
+    },
+    {
+      "ref": 37,
+      "x": 32.03,
+      "y": 56.5,
+      "partNo": "C14223",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": 38,
+      "x": 34.37,
+      "y": 34.9,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C33417",
+          "desc": "GEAR - brake idler, 20o PA gear"
+        },
+        {
+          "serialNote": "Flag * * * (see Notes below)",
+          "partNo": "C46927",
+          "desc": "GEAR - brake idler, 25o PA gear"
+        }
+      ]
+    },
+    {
+      "ref": 39,
+      "x": 39.25,
+      "y": 33.9,
+      "partNo": "C14222",
+      "desc": "RING - retainer, brake idler"
+    },
+    {
+      "ref": 40,
+      "x": 46.88,
+      "y": 9.3,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "113-424",
+          "desc": "BOLT - 1/2\" - 13 x 1\" hex"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "166-85",
+          "desc": "BOLT 1/2\" - 13 x 1\" 12 pt. flange"
+        }
+      ]
+    },
+    {
+      "ref": 41,
+      "x": 96.61,
+      "y": 82.3,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 42,
+      "x": 96.0,
+      "y": 73.9,
+      "partNo": "195-541",
+      "desc": "WASHER - .656\" ID x 1.312 OD"
+    },
+    {
+      "ref": 43,
+      "x": 43.52,
+      "y": 37.3,
+      "partNo": "138-2073",
+      "desc": "PIN - spiral 3/16\" x 1-1/4\""
+    }
+  ],
+  "footnotes": "Multiple refs (9,22,24,25,26,38,40) have variant part numbers by PIN / pressure-angle gear spec — see printed parts list for exact before/PIN-and-after breakpoints per model (3012/3014/3016/3018/4016/4018)."
+}

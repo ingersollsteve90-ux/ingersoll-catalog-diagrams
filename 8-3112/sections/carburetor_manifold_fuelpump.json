@@ -1,0 +1,354 @@
+{
+  "sectionTitle": "Carburetor, Manifold and Fuel Pump",
+  "breadcrumb": "Carburetor, Manifold and Fuel Pump",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/carburetor_manifold_fuelpump.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 36.82,
+      "y": 9.7,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C40919",
+          "desc": "BODY - upper (used with round air filter)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C34241",
+          "desc": "BODY - upper (used with square air filter)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 50.84,
+      "y": 18.3,
+      "partNo": "C34258",
+      "desc": "SHAFT - choke"
+    },
+    {
+      "ref": 3,
+      "x": 43.48,
+      "y": 16.6,
+      "partNo": "NSS",
+      "desc": "COLLAR - choke (use overhaul kit)"
+    },
+    {
+      "ref": 4,
+      "x": 39.55,
+      "y": 14.5,
+      "partNo": "NSS",
+      "desc": "SEAL - shaft (use overhaul kit)"
+    },
+    {
+      "ref": 5,
+      "x": 18.37,
+      "y": 23.2,
+      "partNo": "NSS",
+      "desc": "GASKET - body (use overhaul kit)"
+    },
+    {
+      "ref": 6,
+      "x": 33.29,
+      "y": 6.9,
+      "partNo": "C34245",
+      "desc": "VALVE - choke"
+    },
+    {
+      "ref": 7,
+      "x": 28.75,
+      "y": 3.7,
+      "partNo": "C34242",
+      "desc": "SCREW - valve"
+    },
+    {
+      "ref": 8,
+      "x": 14.94,
+      "y": 17.6,
+      "partNo": "C34250",
+      "desc": "SCREW - body"
+    },
+    {
+      "ref": 9,
+      "x": 39.45,
+      "y": 31.2,
+      "partNo": "C34244",
+      "desc": "FLOAT - fuel"
+    },
+    {
+      "ref": 10,
+      "x": 15.34,
+      "y": 29.1,
+      "partNo": "NSS",
+      "desc": "PIN - float hinge (use overhaul kit)"
+    },
+    {
+      "ref": 11,
+      "x": 20.08,
+      "y": 33.2,
+      "partNo": "NSS",
+      "desc": "VALVE - fuel inlet (use overhaul kit)"
+    },
+    {
+      "ref": 12,
+      "x": 35.01,
+      "y": 34.4,
+      "partNo": "NSS",
+      "desc": "JET - slow speed (use overhaul kit)"
+    },
+    {
+      "ref": 13,
+      "x": 17.86,
+      "y": 36.6,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "JET - main 3012, 3014 (use overhaul kit)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "JET - main 3016 (use over haul kit)"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 13.53,
+      "y": 44.5,
+      "partNo": "C34355",
+      "desc": "PLUG-jet"
+    },
+    {
+      "ref": 15,
+      "x": 17.46,
+      "y": 45.0,
+      "partNo": "NSS",
+      "desc": "GASKET - plug"
+    },
+    {
+      "ref": 16,
+      "x": 39.55,
+      "y": 36.6,
+      "partNo": "NSS",
+      "desc": "PLUG - welch (use overhaul kit)"
+    },
+    {
+      "ref": 17,
+      "x": 44.89,
+      "y": 38.8,
+      "partNo": "NSS",
+      "desc": "VALVE - idle adjust (use overhaul kit)"
+    },
+    {
+      "ref": 18,
+      "x": 45.5,
+      "y": 46.3,
+      "partNo": "C34243",
+      "desc": "SCREW AND SPRING - throttle adjust"
+    },
+    {
+      "ref": 19,
+      "x": 17.86,
+      "y": 49.7,
+      "partNo": "NSS",
+      "desc": "BODY - lower (use complete carburetor)"
+    },
+    {
+      "ref": 20,
+      "x": 21.59,
+      "y": 52.4,
+      "partNo": "C34256",
+      "desc": "VALVE - throttle"
+    },
+    {
+      "ref": 21,
+      "x": 23.81,
+      "y": 56.7,
+      "partNo": "C34242",
+      "desc": "SCREW - valve"
+    },
+    {
+      "ref": 22,
+      "x": 47.41,
+      "y": 62.6,
+      "partNo": "C34257",
+      "desc": "SHAFT - throttle"
+    },
+    {
+      "ref": 23,
+      "x": 33.19,
+      "y": 54.8,
+      "partNo": "NSS",
+      "desc": "SEAL - shaft (use. overhaul kit)"
+    },
+    {
+      "ref": 24,
+      "x": 37.93,
+      "y": 55.9,
+      "partNo": "NSS",
+      "desc": "COLLAR - throttle"
+    },
+    {
+      "ref": 25,
+      "x": 20.18,
+      "y": 59.9,
+      "partNo": "C34235",
+      "desc": "BOLT - mounting"
+    },
+    {
+      "ref": 26,
+      "x": 36.62,
+      "y": 66.1,
+      "partNo": "C34233",
+      "desc": "GASKET - mounting"
+    },
+    {
+      "ref": 26,
+      "x": 36.62,
+      "y": 76.6,
+      "partNo": "C34233",
+      "desc": "GASKET - mounting"
+    },
+    {
+      "ref": 27,
+      "x": 36.62,
+      "y": 70.9,
+      "partNo": "C34253",
+      "desc": "SPACER - carburetor"
+    },
+    {
+      "ref": 28,
+      "x": 13.83,
+      "y": 89.4,
+      "partNo": "C34232",
+      "desc": "MANIFOLD intake"
+    },
+    {
+      "ref": 29,
+      "x": 50.34,
+      "y": 84.5,
+      "partNo": "C34236",
+      "desc": "BOLT - manifold"
+    },
+    {
+      "ref": 30,
+      "x": 26.94,
+      "y": 96.9,
+      "partNo": "C34234",
+      "desc": "GASKET - manifold"
+    },
+    {
+      "ref": 31,
+      "x": 78.17,
+      "y": 74.6,
+      "partNo": "C34354",
+      "desc": "SOLENOID - fuel shut off"
+    },
+    {
+      "ref": 32,
+      "x": 82.81,
+      "y": 53.9,
+      "partNo": "NSS",
+      "desc": "HOSE - vacuum (use C28937 cut to length)"
+    },
+    {
+      "ref": 33,
+      "x": 72.42,
+      "y": 53.1,
+      "partNo": "214-251",
+      "desc": "CLAMP-hose"
+    },
+    {
+      "ref": 34,
+      "x": 93.4,
+      "y": 30.2,
+      "partNo": "C34300",
+      "desc": "PUMP - fuel"
+    },
+    {
+      "ref": 35,
+      "x": 84.83,
+      "y": 26.7,
+      "partNo": "C34339",
+      "desc": "SCREW - mounting"
+    },
+    {
+      "ref": 36,
+      "x": 97.03,
+      "y": 40.1,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C34333",
+          "desc": "BRACKET - fuel pump (3012, 3014)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C34334",
+          "desc": "BRACKET - fuel pump (3016)"
+        }
+      ]
+    },
+    {
+      "ref": 37,
+      "x": 80.39,
+      "y": 43.5,
+      "partNo": "C34279",
+      "desc": "SCREW - bracket"
+    },
+    {
+      "ref": 38,
+      "x": 64.86,
+      "y": 44.2,
+      "partNo": "C34274",
+      "desc": "BRACKET - choke control"
+    },
+    {
+      "ref": 39,
+      "x": 63.75,
+      "y": 31.8,
+      "partNo": "C34268",
+      "desc": "LINK - choke"
+    },
+    {
+      "ref": 40,
+      "x": 78.38,
+      "y": 39.6,
+      "partNo": "BR221535",
+      "desc": "CLAMP - casing"
+    },
+    {
+      "ref": 41,
+      "x": 76.46,
+      "y": 30.8,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 4 (see Notes below)",
+          "partNo": "C34292",
+          "desc": "SCREW - clamp"
+        },
+        {
+          "serialNote": "Option 2 of 4 (see Notes below)",
+          "partNo": "C34251",
+          "desc": "KIT - carburetor overhaul (3012, 3014)"
+        },
+        {
+          "serialNote": "Option 3 of 4 (see Notes below)",
+          "partNo": "C34252",
+          "desc": "KIT - carburetor overhaul (3016)"
+        },
+        {
+          "serialNote": "Option 4 of 4 (see Notes below)",
+          "partNo": "C40920",
+          "desc": "CARBURETOR - 3016 (used with round air filter)"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

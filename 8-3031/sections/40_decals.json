@@ -1,0 +1,134 @@
+{
+  "sectionTitle": "Decals",
+  "breadcrumb": "Decals",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/40_decals.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 51.9,
+      "y": 82.7,
+      "partNo": "C32093",
+      "desc": "DECAL - “Ingersoll”"
+    },
+    {
+      "ref": 2,
+      "x": 21.8,
+      "y": 77.8,
+      "partNo": "C26699",
+      "desc": "DECAL - fuel tank gauge"
+    },
+    {
+      "ref": 3,
+      "x": 89.6,
+      "y": 64.3,
+      "partNo": "321-4767",
+      "desc": "DECAL - hydraulic reservoir"
+    },
+    {
+      "ref": 4,
+      "x": 90.8,
+      "y": 77.3,
+      "partNo": "321-1788",
+      "desc": "DECAL - shift range"
+    },
+    {
+      "ref": 5,
+      "x": 44.8,
+      "y": 92.8,
+      "partNo": "C27871",
+      "desc": "DECAL - brake"
+    },
+    {
+      "ref": 6,
+      "x": 54.9,
+      "y": 1.7,
+      "variants": [
+        {
+          "serialNote": "L.H. (shown) (3010)",
+          "partNo": "C31997",
+          "desc": "DECAL - hood"
+        },
+        {
+          "serialNote": "R.H. (3010)",
+          "partNo": "C32001",
+          "desc": "DECAL - hood"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 55.0,
+      "y": 14.4,
+      "variants": [
+        {
+          "serialNote": "L.H. (shown) (3012)",
+          "partNo": "C31998",
+          "desc": "DECAL - hood"
+        },
+        {
+          "serialNote": "R.H. (3012)",
+          "partNo": "C32002",
+          "desc": "DECAL - hood"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 55.1,
+      "y": 26.1,
+      "variants": [
+        {
+          "serialNote": "L.H. (shown) (3014)",
+          "partNo": "C31999",
+          "desc": "DECAL - hood"
+        },
+        {
+          "serialNote": "R.H. (3014)",
+          "partNo": "C32003",
+          "desc": "DECAL - hood"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 55.3,
+      "y": 39.0,
+      "variants": [
+        {
+          "serialNote": "L.H. (shown) (4014)",
+          "partNo": "C32000",
+          "desc": "DECAL - hood"
+        },
+        {
+          "serialNote": "R.H. (4014)",
+          "partNo": "C32006",
+          "desc": "DECAL - hood"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 24.0,
+      "y": 56.8,
+      "partNo": "C30539",
+      "desc": "MEDALLION - logo"
+    },
+    {
+      "ref": 11,
+      "x": 54.6,
+      "y": 54.8,
+      "partNo": "321-6659",
+      "desc": "DECAL - “Caution”"
+    },
+    {
+      "ref": 12,
+      "x": 71.3,
+      "y": 91.5,
+      "partNo": "C30274",
+      "desc": "LENS - display"
+    }
+  ],
+  "footnotes": ""
+}

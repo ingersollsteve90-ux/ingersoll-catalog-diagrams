@@ -1,0 +1,166 @@
+{
+  "sectionTitle": "Kohler Carburetor",
+  "breadcrumb": "Kohler Carburetor",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/11_kohler_carburetor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 61.81,
+      "y": 30.16,
+      "partNo": "C23860",
+      "desc": "GASKET - carburetor mounting"
+    },
+    {
+      "ref": 2,
+      "x": 40.41,
+      "y": 62.67,
+      "partNo": "NSS",
+      "desc": "SCREW - 5/16”- 18 x 1”(use 113-103 and 192-20)"
+    },
+    {
+      "ref": 3,
+      "x": 36.77,
+      "y": 27.41,
+      "partNo": "C10678",
+      "desc": "CONNECTOR - hose, 90°"
+    },
+    {
+      "ref": 4,
+      "x": 46.79,
+      "y": 24.96,
+      "variants": [
+        {
+          "serialNote": "3010, 3012 (use C33215)",
+          "partNo": "NSS",
+          "desc": "CARBURETOR ASSEMBLY"
+        },
+        {
+          "serialNote": "3014, 4014 (use C33216)",
+          "partNo": "NSS",
+          "desc": "CARBURETOR ASSEMBLY"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 85.15,
+      "y": 10.29,
+      "variants": [
+        {
+          "serialNote": "(3010, 3012)",
+          "partNo": "C28879",
+          "desc": "NEEDLE - main fuel adjust"
+        },
+        {
+          "serialNote": "(3014, 4014)",
+          "partNo": "C24652",
+          "desc": "NEEDLE - main fuel adjust"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 84.58,
+      "y": 18.75,
+      "partNo": "KO200383",
+      "desc": "SPRING - main fuel"
+    },
+    {
+      "ref": 7,
+      "x": 87.88,
+      "y": 18.24,
+      "partNo": "A72098",
+      "desc": "SPRING - idle fuel"
+    },
+    {
+      "ref": 8,
+      "x": 90.84,
+      "y": 15.9,
+      "variants": [
+        {
+          "serialNote": "(3010, 3012)",
+          "partNo": "C28880",
+          "desc": "NEEDLE - idle fuel adjust"
+        },
+        {
+          "serialNote": "(3014,4014)",
+          "partNo": "K0275231",
+          "desc": "NEEDLE - idle fuel adjust"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 93.23,
+      "y": 30.77,
+      "partNo": "C32853",
+      "desc": "SPRING - idle speed"
+    },
+    {
+      "ref": 10,
+      "x": 96.19,
+      "y": 33.32,
+      "partNo": "C32938",
+      "desc": "SCREW - idle speed adjust"
+    },
+    {
+      "ref": 11,
+      "x": 90.05,
+      "y": 44.53,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl (useC27278kit)"
+    },
+    {
+      "ref": 12,
+      "x": 90.84,
+      "y": 60.63,
+      "partNo": "C27276",
+      "desc": "KIT - float"
+    },
+    {
+      "ref": 13,
+      "x": 71.49,
+      "y": 57.47,
+      "partNo": "C27277",
+      "desc": "GASKET - bowl baffle"
+    },
+    {
+      "ref": 14,
+      "x": 70.12,
+      "y": 63.68,
+      "partNo": "C28676",
+      "desc": "PIN - float"
+    },
+    {
+      "ref": 15,
+      "x": 90.39,
+      "y": 79.68,
+      "partNo": "KO235448",
+      "desc": "BOWL - fuel"
+    },
+    {
+      "ref": 16,
+      "x": 88.45,
+      "y": 91.4,
+      "partNo": "C26422",
+      "desc": "SCREW AND GASKET - bowl retaining"
+    },
+    {
+      "ref": 17,
+      "x": 75.36,
+      "y": 90.48,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl retaining screw"
+    },
+    {
+      "ref": 18,
+      "x": 21.74,
+      "y": 52.99,
+      "partNo": "C32799",
+      "desc": "GASKET - air cleaner"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,190 @@
+{
+  "sectionTitle": "Flywheel, Crankshaft, Camshaft and Pistons",
+  "breadcrumb": "Flywheel, Crankshaft, Camshaft and Pistons",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/flywheel_crank_pistons.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 12.33,
+      "y": 36.1,
+      "partNo": "C34371",
+      "desc": "SLIDER - governor"
+    },
+    {
+      "ref": 2,
+      "x": 28.9,
+      "y": 26.3,
+      "partNo": "C34231",
+      "desc": "CAMSHAFT"
+    },
+    {
+      "ref": 3,
+      "x": 48.53,
+      "y": 49.5,
+      "partNo": "C34204",
+      "desc": "CRANKSHAFT"
+    },
+    {
+      "ref": 4,
+      "x": 46.63,
+      "y": 28.4,
+      "partNo": "C34211",
+      "desc": "KEY - flywheel"
+    },
+    {
+      "ref": 5,
+      "x": 73.23,
+      "y": 48.1,
+      "partNo": "C34210",
+      "desc": "FLYWHEEL - includes ring gear"
+    },
+    {
+      "ref": 6,
+      "x": 85.99,
+      "y": 58.8,
+      "partNo": "C34331",
+      "desc": "GEAR - ring"
+    },
+    {
+      "ref": 7,
+      "x": 50.11,
+      "y": 66.8,
+      "partNo": "C34288",
+      "desc": "NUT - flywheel"
+    },
+    {
+      "ref": 8,
+      "x": 56.13,
+      "y": 65.4,
+      "partNo": "C34237",
+      "desc": "WASHER - flywheel"
+    },
+    {
+      "ref": 9,
+      "x": 52.54,
+      "y": 88.2,
+      "partNo": "C33504",
+      "desc": "STUD - screen mounting"
+    },
+    {
+      "ref": 10,
+      "x": 33.33,
+      "y": 64.2,
+      "partNo": "C33503",
+      "desc": "SCREEN - flywheel"
+    },
+    {
+      "ref": 11,
+      "x": 23.52,
+      "y": 89.1,
+      "partNo": "195-518",
+      "desc": "WASHER-1/4\""
+    },
+    {
+      "ref": 12,
+      "x": 83.78,
+      "y": 13.7,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 4 (see Notes below)",
+          "partNo": "C34212",
+          "desc": "PISTON ASSEMBLY - standard (includes rings)"
+        },
+        {
+          "serialNote": "Option 2 of 4 (see Notes below)",
+          "partNo": "C34213",
+          "desc": "PISTON ASSEMBLY - .010\" oversize (includes rings)"
+        },
+        {
+          "serialNote": "Option 3 of 4 (see Notes below)",
+          "partNo": "C34214",
+          "desc": "PISTON ASSEMBLY - .020\" oversize (includes rings)"
+        },
+        {
+          "serialNote": "Option 4 of 4 (see Notes below)",
+          "partNo": "C34215",
+          "desc": "PISTON ASSEMBLY - .030\" oversize (includes rings)"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 96.76,
+      "y": 16.7,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 4 (see Notes below)",
+          "partNo": "C34216",
+          "desc": "RING SET - piston, standard"
+        },
+        {
+          "serialNote": "Option 2 of 4 (see Notes below)",
+          "partNo": "C34217",
+          "desc": "RING SET - piston, .010’, oversize"
+        },
+        {
+          "serialNote": "Option 3 of 4 (see Notes below)",
+          "partNo": "C34218",
+          "desc": "RING SET - piston, .020\" oversize"
+        },
+        {
+          "serialNote": "Option 4 of 4 (see Notes below)",
+          "partNo": "C34219",
+          "desc": "RING SET - piston, .030\" oversize"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 88.74,
+      "y": 37.5,
+      "partNo": "C34221",
+      "desc": "PIN - piston, standard"
+    },
+    {
+      "ref": 15,
+      "x": 93.49,
+      "y": 30.0,
+      "partNo": "C34220",
+      "desc": "LOCK - piston pin"
+    },
+    {
+      "ref": 15,
+      "x": 81.03,
+      "y": 41.6,
+      "partNo": "C34220",
+      "desc": "LOCK - piston pin"
+    },
+    {
+      "ref": 15,
+      "x": 76.39,
+      "y": 20.7,
+      "partNo": "C34220",
+      "desc": "LOCK - piston pin"
+    },
+    {
+      "ref": 16,
+      "x": 60.77,
+      "y": 29.8,
+      "partNo": "C34222",
+      "desc": "ROD - connecting"
+    },
+    {
+      "ref": 17,
+      "x": 64.89,
+      "y": 40.9,
+      "partNo": "C34223",
+      "desc": "BOLT - connecting rod"
+    },
+    {
+      "ref": 18,
+      "x": 19.62,
+      "y": 94.9,
+      "partNo": "131-1102",
+      "desc": "NUT - 1/4\" - 20 lock"
+    }
+  ],
+  "footnotes": ""
+}

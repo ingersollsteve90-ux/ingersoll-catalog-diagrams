@@ -1,0 +1,148 @@
+{
+  "sectionTitle": "Rings, Piston and Connecting Rod (3014, 4014)",
+  "breadcrumb": "Rings, Piston and Connecting Rod (3014, 4014)",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/08_rings_piston_3014_4014.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 5.6,
+      "y": 24.4,
+      "variants": [
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C32844",
+          "desc": "RINGSET - standard"
+        },
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C32845",
+          "desc": "RING SET - .010” (0.25 mm) oversize"
+        },
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C32846",
+          "desc": "RING SET - .020” (0.51 mm) oversize"
+        },
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C32847",
+          "desc": "RINGSET - .030”(0.76mm)oversize"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32821",
+          "desc": "RINGSET - standard"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32822",
+          "desc": "RINGSET - .010” (0.25mm) oversize"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32823",
+          "desc": "RINGSET - .020” (0.51mm) oversize"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32824",
+          "desc": "RING SET - .030” (0.76 mm) oversize"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 94.6,
+      "y": 31.2,
+      "variants": [
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C29526",
+          "desc": "PISTON ASSEMBLY - includes rings (standard)"
+        },
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C29527",
+          "desc": "PISTON ASSEMBLY - includes rings .003” (0.08”) oversize"
+        },
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C29528",
+          "desc": "PISTON ASSEMBLY - includes rings .010” (0.25 mm) oversize"
+        },
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C29529",
+          "desc": "PISTON ASSEMBLY - includes rings .020” (0.51 mm) oversize"
+        },
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C29530",
+          "desc": "PISTON ASSEMBLY - includes rings .030” (0.76 mm) oversize"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32839",
+          "desc": "PISTON ASSEMBLY - includes rings (standard)"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32840",
+          "desc": "PISTON ASSEMBLY - includes rings .003” (0.08 mm) oversize"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32841",
+          "desc": "PISTON ASSEMBLY - includes rings .010” (0.25 mm) oversize"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32842",
+          "desc": "PISTON ASSEMBLY - includes rings .020” (0.51 mm) oversize"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32843",
+          "desc": "PISTON ASSEMBLY - includes rings .030” (0.76 mm) oversize"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 6.7,
+      "y": 51.1,
+      "partNo": "KO235004",
+      "desc": "RETAINER - piston pin"
+    },
+    {
+      "ref": 4,
+      "x": 71.5,
+      "y": 81.9,
+      "variants": [
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C30483",
+          "desc": "CONNECTING ROD ASSEMBLY - standard"
+        },
+        {
+          "serialNote": "Use before Engine S/N 1822205133",
+          "partNo": "C23135",
+          "desc": "CONNECTING ROD ASSEMBLY - .010” (0.25 mm) oversize.................................1 (Use After Engine Serial Number 1822205123)"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32800",
+          "desc": "CONNECTING ROD ASSEMBLY - standard"
+        },
+        {
+          "serialNote": "Use after Engine S/N 1822205123",
+          "partNo": "C32801",
+          "desc": "CONNECTING ROD ASSEMBLY - .010” (0.25 mm) undersize"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

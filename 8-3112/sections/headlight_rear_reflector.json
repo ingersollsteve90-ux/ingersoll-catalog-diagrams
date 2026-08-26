@@ -1,0 +1,76 @@
+{
+  "sectionTitle": "Headlight Assembly and Rear Reflector",
+  "breadcrumb": "Headlight Assembly and Rear Reflector",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/headlight_rear_reflector.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 8.63,
+      "y": 40.33,
+      "partNo": "C29637",
+      "desc": "RETAINER - head light"
+    },
+    {
+      "ref": 2,
+      "x": 19.32,
+      "y": 84.3,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "187-1328",
+          "desc": "SCREW - No. 8 x 3/8\""
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C32178",
+          "desc": "HEADLIGHT ASSEMBLY"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 34.58,
+      "y": 16.17,
+      "partNo": "NSS",
+      "desc": "RECEPTACLE - headlight (order C32178)"
+    },
+    {
+      "ref": 4,
+      "x": 46.97,
+      "y": 19.58,
+      "partNo": "C28932",
+      "desc": "BULB - headlight"
+    },
+    {
+      "ref": 5,
+      "x": 49.19,
+      "y": 36.82,
+      "partNo": "C14304",
+      "desc": "GASKET - headlight"
+    },
+    {
+      "ref": 5,
+      "x": 63.93,
+      "y": 52.47,
+      "partNo": "C14304",
+      "desc": "GASKET - headlight"
+    },
+    {
+      "ref": 6,
+      "x": 56.11,
+      "y": 42.89,
+      "partNo": "C22573",
+      "desc": "LENS - headlight"
+    },
+    {
+      "ref": 7,
+      "x": 85.97,
+      "y": 28.62,
+      "partNo": "C30942",
+      "desc": "REFLECTOR - red, rear fender"
+    }
+  ],
+  "footnotes": ""
+}

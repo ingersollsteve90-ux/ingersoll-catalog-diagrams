@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/26_front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 74.72,
+      "y": 35.4,
+      "variants": [
+        {
+          "serialNote": "5 bolt (3010, 3012,3014) for 23 x 8.50- 12 tire",
+          "partNo": "C30913",
+          "desc": "WHEEL - rear,"
+        },
+        {
+          "serialNote": "6 bolt (4014) shown",
+          "partNo": "C30917",
+          "desc": "WHEEL - rear,"
+        },
+        {
+          "serialNote": "5 bolt (3010, 3012, 3014) for 23 x 10.50- 12 tire",
+          "partNo": "C30922",
+          "desc": "WHEEL - rear,"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 51.01,
+      "y": 74.3,
+      "variants": [
+        {
+          "serialNote": "(4014)",
+          "partNo": "C27763",
+          "desc": "BOLT - rear wheel"
+        },
+        {
+          "serialNote": "(3010,3012, 3014)",
+          "partNo": "C10314",
+          "desc": "BOLT - rear wheel"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 86.9,
+      "y": 71.0,
+      "partNo": "C30912",
+      "desc": "WHEEL - front (includes bearings)"
+    },
+    {
+      "ref": 4,
+      "x": 91.58,
+      "y": 64.3,
+      "partNo": "219-403",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 5,
+      "x": 95.17,
+      "y": 58.6,
+      "partNo": "C12110",
+      "desc": "BEARING-wheel"
+    },
+    {
+      "ref": 5,
+      "x": 82.66,
+      "y": 77.4,
+      "partNo": "C12110",
+      "desc": "BEARING-wheel"
+    },
+    {
+      "ref": 6,
+      "x": 67.87,
+      "y": 94.7,
+      "partNo": "C28965",
+      "desc": "CAP - hub, front wheel (optional)"
+    },
+    {
+      "ref": 7,
+      "x": 74.18,
+      "y": 87.4,
+      "partNo": "C26021",
+      "desc": "CAP - plastic, front"
+    },
+    {
+      "ref": 8,
+      "x": 33.39,
+      "y": 32.9,
+      "partNo": "C28236",
+      "desc": "STEM - valve"
+    }
+  ],
+  "footnotes": ""
+}

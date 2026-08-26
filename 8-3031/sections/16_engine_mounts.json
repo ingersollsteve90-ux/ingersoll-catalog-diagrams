@@ -1,0 +1,76 @@
+{
+  "sectionTitle": "Engine Mounts",
+  "breadcrumb": "Engine Mounts",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/16_engine_mounts.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 72.45,
+      "y": 48.62,
+      "variants": [
+        {
+          "serialNote": "R.H. (shown)",
+          "partNo": "C31956",
+          "desc": "PLATE - engine mount"
+        },
+        {
+          "serialNote": "L.H",
+          "partNo": "C31666",
+          "desc": "PLATE - engine mount"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 89.11,
+      "y": 63.62,
+      "partNo": "C32268",
+      "desc": "MOUNT - engine"
+    },
+    {
+      "ref": 3,
+      "x": 50.58,
+      "y": 91.66,
+      "partNo": "NSS",
+      "desc": "RIVET - 3/16” x 7/16” (use 151-539)"
+    },
+    {
+      "ref": 4,
+      "x": 33.42,
+      "y": 52.99,
+      "partNo": "113-219",
+      "desc": "BOLT - 3/8” – 16 x 2”"
+    },
+    {
+      "ref": 5,
+      "x": 43.53,
+      "y": 71.44,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8”"
+    },
+    {
+      "ref": 6,
+      "x": 94.52,
+      "y": 74.15,
+      "partNo": "C25556",
+      "desc": "WASHER - snubbing"
+    },
+    {
+      "ref": 7,
+      "x": 65.91,
+      "y": 14.22,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8” – 16 x 1-1/4"
+    },
+    {
+      "ref": 8,
+      "x": 66.22,
+      "y": 29.65,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8”"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,187 @@
+{
+  "sectionTitle": "Blower Housing and Engine Air Guides",
+  "breadcrumb": "Blower Housing and Engine Air Guides",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/blower_housing_air_guides.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 49.55,
+      "y": 65.7,
+      "partNo": "C40922",
+      "desc": "HOUSING - blower"
+    },
+    {
+      "ref": 2,
+      "x": 63.09,
+      "y": 85.3,
+      "variants": [
+        {
+          "serialNote": "Use before Engine Date Code: 3012-all,3014-all,3016-90111700,4016-90111700 [+]",
+          "partNo": "C34343",
+          "desc": "COVER - air guide (cyl. No.1)"
+        },
+        {
+          "serialNote": "Use after Engine Date Code: 3016-90111600,4016-90111600 [++]",
+          "partNo": "C40936",
+          "desc": "COVER - air guide (cyl. No.1)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 16.75,
+      "y": 67.8,
+      "variants": [
+        {
+          "serialNote": "Use before Engine Date Code: 3012-all,3014-all,3016-90111700,4016-90111700 [+]",
+          "partNo": "C34344",
+          "desc": "COVER - air guide (cyl. No.2)"
+        },
+        {
+          "serialNote": "Use after Engine Date Code: 3016-90111600,4016-90111600 [++]",
+          "partNo": "C40937",
+          "desc": "COVER - air guide (cyl. No.2)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 91.71,
+      "y": 19.0,
+      "variants": [
+        {
+          "serialNote": "Use PIN and after [*]",
+          "partNo": "C34280",
+          "desc": "COVER - valley extension"
+        },
+        {
+          "serialNote": "Use before PIN: 3012-all before,3014-all before,3016-14169725,4016-14171045 [**]",
+          "partNo": "C40935",
+          "desc": "COVER - valley extension"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 79.49,
+      "y": 52.3,
+      "partNo": "C34318",
+      "desc": "PLATE - back"
+    },
+    {
+      "ref": 6,
+      "x": 27.24,
+      "y": 56.2,
+      "partNo": "C34350",
+      "desc": "COVER - carburetor"
+    },
+    {
+      "ref": 7,
+      "x": 89.98,
+      "y": 68.3,
+      "partNo": "C34332",
+      "desc": "SHIELD - starter"
+    },
+    {
+      "ref": 8,
+      "x": 42.01,
+      "y": 12.6,
+      "partNo": "C34365",
+      "desc": "TUBE - air inlet"
+    },
+    {
+      "ref": 9,
+      "x": 80.2,
+      "y": 33.4,
+      "partNo": "C34279",
+      "desc": "SCREW - mounting"
+    },
+    {
+      "ref": 9,
+      "x": 41.81,
+      "y": 97.3,
+      "partNo": "C34279",
+      "desc": "SCREW - mounting"
+    },
+    {
+      "ref": 9,
+      "x": 13.39,
+      "y": 82.3,
+      "partNo": "C34279",
+      "desc": "SCREW - mounting"
+    },
+    {
+      "ref": 9,
+      "x": 67.67,
+      "y": 65.8,
+      "partNo": "C34279",
+      "desc": "SCREW - mounting"
+    },
+    {
+      "ref": 9,
+      "x": 49.55,
+      "y": 23.9,
+      "partNo": "C34279",
+      "desc": "SCREW - mounting"
+    },
+    {
+      "ref": 9,
+      "x": 97.31,
+      "y": 13.5,
+      "partNo": "C34279",
+      "desc": "SCREW - mounting"
+    },
+    {
+      "ref": 10,
+      "x": 62.28,
+      "y": 31.9,
+      "partNo": "C34281",
+      "desc": "SCREW - blower housing"
+    },
+    {
+      "ref": 11,
+      "x": 15.73,
+      "y": 51.8,
+      "partNo": "C34325",
+      "desc": "SCREW - carburetor cover"
+    },
+    {
+      "ref": 12,
+      "x": 97.0,
+      "y": 65.7,
+      "partNo": "C34301",
+      "desc": "SCREW - shield, starter"
+    },
+    {
+      "ref": 14,
+      "x": 32.95,
+      "y": 82.9,
+      "partNo": "C34264",
+      "desc": "LOCKWASHER"
+    },
+    {
+      "ref": 15,
+      "x": 39.06,
+      "y": 84.6,
+      "partNo": "C34299",
+      "desc": "NUT - hex"
+    },
+    {
+      "ref": 16,
+      "x": 33.35,
+      "y": 21.6,
+      "partNo": "C43441",
+      "desc": "TUBE - air inlet"
+    },
+    {
+      "ref": 13,
+      "x": 83.36,
+      "y": 24.2,
+      "partNo": "C34345",
+      "desc": "COVER - valley"
+    }
+  ],
+  "footnotes": "+ Use before Engine Date Code: 3012-all,3014-all,3016-90111700,4016-90111700\n++ Use after Engine Date Code: 3016-90111600,4016-90111600\n* Use PIN and after / ** Use before PIN: 3012-all before,3014-all before,3016-14169725,4016-14171045"
+}

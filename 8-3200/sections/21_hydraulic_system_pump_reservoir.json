@@ -1,0 +1,409 @@
+{
+  "sectionTitle": "Hydraulic System - Pump & Reservoir",
+  "breadcrumb": "Hydraulic System - Pump & Reservoir",
+  "catalogLabel": "Catalog 8-3200",
+  "modelNumbers": "Catalog 8-3200 — Models 3118, 4116, 4118, 4120",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3200/21_hydraulic_system_pump_reservoir.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 37.99,
+      "y": 42.21,
+      "partNo": "C36905",
+      "desc": "PUMP - hydraulic (repairs and mounting components page 47)"
+    },
+    {
+      "ref": 2,
+      "x": 63.14,
+      "y": 25.22,
+      "partNo": "C36908",
+      "desc": "FITTING - return tee 1/2” x 3/4” 1-5/16”"
+    },
+    {
+      "ref": 3,
+      "x": 37.52,
+      "y": 25.45,
+      "partNo": "C33423",
+      "desc": "HOSE - pump inlet"
+    },
+    {
+      "ref": 4,
+      "x": 43.55,
+      "y": 35.55,
+      "partNo": "217-391",
+      "desc": "FITTING - 1” hose x 7/8” -"
+    },
+    {
+      "ref": 5,
+      "x": 28.83,
+      "y": 42.44,
+      "partNo": "218-5062",
+      "desc": "FITTING - 7/8” -14 flare x 7/8” -14"
+    },
+    {
+      "ref": 6,
+      "x": 24.66,
+      "y": 45.89,
+      "partNo": "218-5128",
+      "desc": "FITTING - 90° 9/16” - 18 flare x 3/4” - 16 (to power steering “in”)"
+    },
+    {
+      "ref": 7,
+      "x": 30.92,
+      "y": 4.9,
+      "partNo": "C37093",
+      "desc": "CAP - oil reservoir"
+    },
+    {
+      "ref": 8,
+      "x": 44.94,
+      "y": 64.72,
+      "partNo": "C37146",
+      "desc": "BRACKET - oil filter"
+    },
+    {
+      "ref": 9,
+      "x": 34.62,
+      "y": 81.71,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4” - 20 x 3/4”"
+    },
+    {
+      "ref": 9,
+      "x": 51.66,
+      "y": 91.01,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4” - 20 x 3/4”"
+    },
+    {
+      "ref": 10,
+      "x": 41.12,
+      "y": 61.85,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4” - 20 flange lock"
+    },
+    {
+      "ref": 10,
+      "x": 50.16,
+      "y": 78.96,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4” - 20 flange lock"
+    },
+    {
+      "ref": 11,
+      "x": 48.3,
+      "y": 65.75,
+      "partNo": "C33446",
+      "desc": "HEAD - oil filter"
+    },
+    {
+      "ref": 12,
+      "x": 32.31,
+      "y": 66.78,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4” - 20 x 1/2” flange lock"
+    },
+    {
+      "ref": 13,
+      "x": 54.1,
+      "y": 62.65,
+      "partNo": "217-333",
+      "desc": "FITTING - 90° 3/8” x 3/4” hose"
+    },
+    {
+      "ref": 13,
+      "x": 30.57,
+      "y": 73.9,
+      "partNo": "217-333",
+      "desc": "FITTING - 90° 3/8” x 3/4” hose"
+    },
+    {
+      "ref": 14,
+      "x": 59.43,
+      "y": 71.84,
+      "partNo": "C33445",
+      "desc": "FILTER - oil"
+    },
+    {
+      "ref": 15,
+      "x": 33.81,
+      "y": 75.86,
+      "partNo": "C40683",
+      "desc": "BRACKET - air deflector"
+    },
+    {
+      "ref": 16,
+      "x": 39.49,
+      "y": 87.45,
+      "partNo": "C39523",
+      "desc": "DEFLECTOR - air"
+    },
+    {
+      "ref": 17,
+      "x": 35.2,
+      "y": 7.54,
+      "partNo": "C37228",
+      "desc": "RESERVOIR"
+    },
+    {
+      "ref": 18,
+      "x": 37.18,
+      "y": 11.56,
+      "partNo": "C33167",
+      "desc": "SLEEVE - inlet (shown)"
+    },
+    {
+      "ref": 19,
+      "x": 68.24,
+      "y": 68.05,
+      "partNo": "C14619",
+      "desc": "HOSE - 3/4” x 4”"
+    },
+    {
+      "ref": 20,
+      "x": 61.98,
+      "y": 22.35,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 43.55,
+      "y": 20.28,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 67.89,
+      "y": 31.99,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 69.86,
+      "y": 43.94,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 75.77,
+      "y": 48.87,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 72.06,
+      "y": 56.11,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 76.0,
+      "y": 65.75,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 72.06,
+      "y": 69.2,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 64.18,
+      "y": 65.98,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 87.94,
+      "y": 71.95,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 83.19,
+      "y": 52.09,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 60.36,
+      "y": 85.16,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 20,
+      "x": 63.95,
+      "y": 94.69,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4”"
+    },
+    {
+      "ref": 21,
+      "x": 48.77,
+      "y": 35.78,
+      "partNo": "C41045",
+      "desc": "CLAMP - hose SAE #6"
+    },
+    {
+      "ref": 21,
+      "x": 47.38,
+      "y": 41.18,
+      "partNo": "C41045",
+      "desc": "CLAMP - hose SAE #6"
+    },
+    {
+      "ref": 22,
+      "x": 32.19,
+      "y": 29.24,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose 1-3/8”"
+    },
+    {
+      "ref": 22,
+      "x": 46.68,
+      "y": 33.72,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose 1-3/8”"
+    },
+    {
+      "ref": 23,
+      "x": 47.61,
+      "y": 38.65,
+      "partNo": "C37229",
+      "desc": "HOSE - 1/2” x 3”"
+    },
+    {
+      "ref": 24,
+      "x": 50.85,
+      "y": 17.53,
+      "partNo": "C37230",
+      "desc": "HOSE - 90°"
+    },
+    {
+      "ref": 25,
+      "x": 72.64,
+      "y": 40.15,
+      "partNo": "C37231",
+      "desc": "HOSE - 90°"
+    },
+    {
+      "ref": 26,
+      "x": 86.2,
+      "y": 63.68,
+      "partNo": "C33556",
+      "desc": "HOSE - 90°"
+    },
+    {
+      "ref": 26,
+      "x": 57.69,
+      "y": 90.78,
+      "partNo": "C33556",
+      "desc": "HOSE - 90°"
+    },
+    {
+      "ref": 27,
+      "x": 12.95,
+      "y": 46.69,
+      "partNo": "C37232",
+      "desc": "HOSE - supply"
+    },
+    {
+      "ref": 28,
+      "x": 50.74,
+      "y": 7.42,
+      "partNo": "C36909",
+      "desc": "VALVE - relief C36934 CARTRIDGE – relief valve"
+    },
+    {
+      "ref": 29,
+      "x": 13.99,
+      "y": 26.02,
+      "partNo": "218-5117",
+      "desc": "FITTING - 90° 7/8” - 14 flare x 3/4” -"
+    },
+    {
+      "ref": 30,
+      "x": 59.89,
+      "y": 15.34,
+      "partNo": "218-5059",
+      "desc": "FITTING - 3/4” - 16 flare x 3/4” -"
+    },
+    {
+      "ref": 31,
+      "x": 14.57,
+      "y": 34.98,
+      "partNo": "218-595",
+      "desc": "FITTING - tee 7/8” - 14 flare"
+    },
+    {
+      "ref": 32,
+      "x": 67.2,
+      "y": 11.56,
+      "partNo": "113-132",
+      "desc": "BOLT - 1/4” - 20 x 1-3/4"
+    },
+    {
+      "ref": 33,
+      "x": 63.14,
+      "y": 8.11,
+      "partNo": "195-518",
+      "desc": "WASHER - 1/4”"
+    },
+    {
+      "ref": 34,
+      "x": 14.69,
+      "y": 30.73,
+      "partNo": "C37239",
+      "desc": "TUBE - relief valve to tee"
+    },
+    {
+      "ref": 35,
+      "x": 50.27,
+      "y": 45.08,
+      "partNo": "C37240",
+      "desc": "TUBE - relief valve to return"
+    },
+    {
+      "ref": 36,
+      "x": 63.37,
+      "y": 51.74,
+      "partNo": "C45497",
+      "desc": "TUBE - oil filter “out” to return"
+    },
+    {
+      "ref": 37,
+      "x": 80.29,
+      "y": 73.33,
+      "partNo": "C37242",
+      "desc": "TUBE - heat exchanger “out” to oil filter “in”"
+    },
+    {
+      "ref": 38,
+      "x": 79.48,
+      "y": 95.72,
+      "partNo": "C37486",
+      "desc": "EXCHANGER - heat"
+    },
+    {
+      "ref": 39,
+      "x": 56.76,
+      "y": 83.55,
+      "partNo": "C37243",
+      "desc": "TUBE - travel valve “out” to heat exchanger"
+    }
+  ],
+  "footnotes": ""
+}

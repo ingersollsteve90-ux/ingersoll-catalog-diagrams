@@ -1,0 +1,114 @@
+{
+  "sectionTitle": "Fuel System (Tractor)",
+  "breadcrumb": "Fuel System (Tractor)",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/fuel_system_tractor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 31.7,
+      "y": 62.19,
+      "partNo": "C10678",
+      "desc": "ELBOW - hose 90"
+    },
+    {
+      "ref": 2,
+      "x": 48.75,
+      "y": 54.1,
+      "partNo": "C28962",
+      "desc": "RETAINER - fuel line"
+    },
+    {
+      "ref": 3,
+      "x": 49.32,
+      "y": 74.08,
+      "partNo": "NSS",
+      "desc": "HOSE - fuel line (1270 mm) (use C28937 cut to length)"
+    },
+    {
+      "ref": 4,
+      "x": 48.18,
+      "y": 12.09,
+      "variants": [
+        {
+          "serialNote": "Measure threads on the cap or filler neck on tank for correct part. [*]",
+          "partNo": "C28940",
+          "desc": "TANK - fuel - 1.50\" Threads"
+        },
+        {
+          "serialNote": "Measure threads on the cap or filler neck on tank for correct part. [*]",
+          "partNo": "C44818",
+          "desc": "TANK - fuel - 1.75\" Threads"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 12.59,
+      "y": 5.53,
+      "variants": [
+        {
+          "serialNote": "Measure threads on the cap or filler neck on tank for correct part. [*]",
+          "partNo": "C37094",
+          "desc": "CAP - fuel tank - 1.50\" Threads"
+        },
+        {
+          "serialNote": "Measure threads on the cap or filler neck on tank for correct part. [*]",
+          "partNo": "C44819",
+          "desc": "CAP - fuel tank - 1.75\" Threads"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 94.47,
+      "y": 76.43,
+      "partNo": "NSS",
+      "desc": "HOSE - fuel line (use C28937 cut to length)"
+    },
+    {
+      "ref": 7,
+      "x": 94.35,
+      "y": 11.17,
+      "partNo": "C23527",
+      "desc": "LINER - tank"
+    },
+    {
+      "ref": 8,
+      "x": 19.64,
+      "y": 68.34,
+      "partNo": "C14690",
+      "desc": "CUSHION - fuel tank"
+    },
+    {
+      "ref": 9,
+      "x": 37.61,
+      "y": 66.9,
+      "partNo": "C32376",
+      "desc": "CLAMP - hose 1/2\""
+    },
+    {
+      "ref": 9,
+      "x": 60.81,
+      "y": 81.45,
+      "partNo": "C32376",
+      "desc": "CLAMP - hose 1/2\""
+    },
+    {
+      "ref": 9,
+      "x": 82.64,
+      "y": 77.46,
+      "partNo": "C32376",
+      "desc": "CLAMP - hose 1/2\""
+    },
+    {
+      "ref": 10,
+      "x": 66.61,
+      "y": 85.96,
+      "partNo": "C31978",
+      "desc": "FILTER - fuel"
+    }
+  ],
+  "footnotes": "* Measure threads on the cap or filler neck on tank for correct part."
+}

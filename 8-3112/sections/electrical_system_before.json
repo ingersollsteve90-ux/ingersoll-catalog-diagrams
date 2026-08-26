@@ -1,0 +1,317 @@
+{
+  "sectionTitle": "Electrical System (Before PIN)",
+  "breadcrumb": "Electrical System (Before PIN)",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/electrical_system_before.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 43.2,
+      "y": 75.9,
+      "partNo": "C25338",
+      "desc": "CONNECTOR - seat harness, male"
+    },
+    {
+      "ref": 2,
+      "x": 31.9,
+      "y": 49.0,
+      "partNo": "C24460",
+      "desc": "CONNECTOR - ignition switch"
+    },
+    {
+      "ref": 3,
+      "x": 43.7,
+      "y": 87.2,
+      "partNo": "C34181",
+      "desc": "WIRE - lights"
+    },
+    {
+      "ref": 4,
+      "x": 36.3,
+      "y": 43.2,
+      "partNo": "C31947",
+      "desc": "KIT - fuse holder"
+    },
+    {
+      "ref": 5,
+      "x": 40.0,
+      "y": 46.7,
+      "partNo": "C30260",
+      "desc": "FUSE - 30 amp"
+    },
+    {
+      "ref": 6,
+      "x": 83.7,
+      "y": 63.7,
+      "partNo": "C31986",
+      "desc": "KIT - diode, 6 amp, 15 volt"
+    },
+    {
+      "ref": 7,
+      "x": 52.2,
+      "y": 10.8,
+      "partNo": "C30262",
+      "desc": "BULB - indicator light (not included with harness)"
+    },
+    {
+      "ref": 7,
+      "x": 62.9,
+      "y": 8.5,
+      "partNo": "C30262",
+      "desc": "BULB - indicator light (not included with harness)"
+    },
+    {
+      "ref": 8,
+      "x": 63.2,
+      "y": 12.1,
+      "partNo": "C30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 8,
+      "x": 49.5,
+      "y": 16.8,
+      "partNo": "C30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 9,
+      "x": 86.1,
+      "y": 66.0,
+      "partNo": "C31948",
+      "desc": "CONNECTOR - PTO male"
+    },
+    {
+      "ref": 10,
+      "x": 46.0,
+      "y": 57.6,
+      "partNo": "C30279",
+      "desc": "CONNECTOR - switch"
+    },
+    {
+      "ref": 10,
+      "x": 81.3,
+      "y": 15.2,
+      "partNo": "C30279",
+      "desc": "CONNECTOR - switch"
+    },
+    {
+      "ref": 10,
+      "x": 53.5,
+      "y": 80.8,
+      "partNo": "C30279",
+      "desc": "CONNECTOR - switch"
+    },
+    {
+      "ref": 11,
+      "x": 22.4,
+      "y": 40.6,
+      "partNo": "C25486",
+      "desc": "CONNECTOR - sensor"
+    },
+    {
+      "ref": 12,
+      "x": 69.5,
+      "y": 69.5,
+      "partNo": "C31950",
+      "desc": "CONNECTOR - 3 terminal"
+    },
+    {
+      "ref": 13,
+      "x": 73.4,
+      "y": 70.7,
+      "partNo": "C31951",
+      "desc": "CONNECTOR - PTO switch, 2 terminal"
+    },
+    {
+      "ref": 14,
+      "x": 15.3,
+      "y": 86.0,
+      "partNo": "C34291",
+      "desc": "SPARK PLUG - includes gasket"
+    },
+    {
+      "ref": 15,
+      "x": 61.8,
+      "y": 34.1,
+      "partNo": "C33022",
+      "desc": "CABLE - battery positive to solenoid"
+    },
+    {
+      "ref": 16,
+      "x": 68.0,
+      "y": 36.8,
+      "partNo": "C31943",
+      "desc": "CABLE - battery negative to ground"
+    },
+    {
+      "ref": 17,
+      "x": 78.1,
+      "y": 30.6,
+      "partNo": "C33088",
+      "desc": "CABLE - solenoid to starter"
+    },
+    {
+      "ref": 18,
+      "x": 51.2,
+      "y": 78.8,
+      "partNo": "C31945",
+      "desc": "HARNESS - seat switch (includes ref. 10 and 19)"
+    },
+    {
+      "ref": 19,
+      "x": 46.7,
+      "y": 77.7,
+      "partNo": "C24813",
+      "desc": "CONNECTOR - seat harness, female"
+    },
+    {
+      "ref": 20,
+      "x": 46.5,
+      "y": 89.0,
+      "partNo": "C14537",
+      "desc": "CONNECTOR - headlights"
+    },
+    {
+      "ref": 21,
+      "x": 71.5,
+      "y": 27.3,
+      "partNo": "C33024",
+      "desc": "SOLENOID - start, 12 volt"
+    },
+    {
+      "ref": 22,
+      "x": 41.0,
+      "y": 30.5,
+      "partNo": "C31617",
+      "desc": "SENSOR - voltage (includes connector)"
+    },
+    {
+      "ref": 23,
+      "x": 61.5,
+      "y": 92.7,
+      "partNo": "C32178",
+      "desc": "HEADLIGHT - 12 volt (see page 55 for repairs)"
+    },
+    {
+      "ref": 23,
+      "x": 82.7,
+      "y": 86.0,
+      "partNo": "C32178",
+      "desc": "HEADLIGHT - 12 volt (see page 55 for repairs)"
+    },
+    {
+      "ref": 24,
+      "x": 36.0,
+      "y": 79.2,
+      "partNo": "C43044",
+      "desc": "SWITCH - headlight"
+    },
+    {
+      "ref": 25,
+      "x": 83.9,
+      "y": 47.9,
+      "partNo": "C34284",
+      "desc": "STARTER - 12 volt (see page 17 for repairs)"
+    },
+    {
+      "ref": 26,
+      "x": 52.6,
+      "y": 65.9,
+      "partNo": "C31937",
+      "desc": "SWITCH - PTO"
+    },
+    {
+      "ref": 27,
+      "x": 53.5,
+      "y": 37.3,
+      "partNo": "C31213",
+      "desc": "BATTERY - 12 volt, 32 amps, 230 CCA"
+    },
+    {
+      "ref": 28,
+      "x": 13.3,
+      "y": 38.7,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C30267",
+          "desc": "SWITCH - ignition (includes key and hardware)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C32407",
+          "desc": "KEY - ignition"
+        }
+      ]
+    },
+    {
+      "ref": 29,
+      "x": 35.0,
+      "y": 15.3,
+      "partNo": "C42929",
+      "desc": "HOURMETER"
+    },
+    {
+      "ref": 30,
+      "x": 88.9,
+      "y": 18.0,
+      "partNo": "C30275",
+      "desc": "SWITCH - inter - lock"
+    },
+    {
+      "ref": 30,
+      "x": 59.8,
+      "y": 82.4,
+      "partNo": "C30275",
+      "desc": "SWITCH - inter - lock"
+    },
+    {
+      "ref": 30,
+      "x": 52.4,
+      "y": 62.8,
+      "partNo": "C30275",
+      "desc": "SWITCH - inter - lock"
+    },
+    {
+      "ref": 31,
+      "x": 81.5,
+      "y": 74.1,
+      "partNo": "C33197",
+      "desc": "CLUTCH - PTO (see page 21 for repairs)"
+    },
+    {
+      "ref": 32,
+      "x": 32.3,
+      "y": 70.9,
+      "partNo": "C34303",
+      "desc": "STATOR - charging"
+    },
+    {
+      "ref": 33,
+      "x": 30.0,
+      "y": 78.4,
+      "partNo": "C34304",
+      "desc": "RECTIFIER - voltage, 12 volts"
+    },
+    {
+      "ref": 34,
+      "x": 29.2,
+      "y": 82.0,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C34289",
+          "desc": "ARMATURE - magneto (3012, 3014)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C34294",
+          "desc": "ARMATURE - magneto (3016)"
+        }
+      ]
+    }
+  ],
+  "footnotes": "This diagram/parts list covers BEFORE PIN: 3012-14167800, 3014-14168800, 3016-14169500. Ref 23 HEADLIGHT and ref 25 STARTER have their own repair breakdowns on pages 55 and 17 respectively. Ref 31 CLUTCH-PTO repairs on page 21."
+}

@@ -1,0 +1,306 @@
+{
+  "sectionTitle": "Electrical System Hardware",
+  "breadcrumb": "Electrical System Hardware",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/38_electrical_hardware.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 75.2,
+      "y": 42.1,
+      "partNo": "C32945",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 2,
+      "x": 81.0,
+      "y": 47.4,
+      "partNo": "C32946",
+      "desc": "SCREW – sems #10-24 x 7/8”"
+    },
+    {
+      "ref": 3,
+      "x": 82.3,
+      "y": 55.0,
+      "partNo": "163-7",
+      "desc": "SCREW - #8-32 x 3/8” washer head"
+    },
+    {
+      "ref": 4,
+      "x": 83.9,
+      "y": 62.7,
+      "partNo": "C28717",
+      "desc": "CLIP - wire"
+    },
+    {
+      "ref": 5,
+      "x": 96.4,
+      "y": 74.0,
+      "partNo": "C32947",
+      "desc": "SCREW - #10-24 x 3/4”"
+    },
+    {
+      "ref": 6,
+      "x": 51.4,
+      "y": 50.6,
+      "partNo": "C31977",
+      "desc": "CLIP - hi-tension lead"
+    },
+    {
+      "ref": 7,
+      "x": 45.7,
+      "y": 62.3,
+      "partNo": "C32949",
+      "desc": "CONNECTOR - female, 3 contact straight"
+    },
+    {
+      "ref": 8,
+      "x": 25.9,
+      "y": 95.7,
+      "partNo": "182-10",
+      "desc": "SCREW - #4-40 x 7/8”"
+    },
+    {
+      "ref": 9,
+      "x": 34.2,
+      "y": 91.1,
+      "partNo": "129-13",
+      "desc": "NUT - #4-40"
+    },
+    {
+      "ref": 10,
+      "x": 32.6,
+      "y": 76.9,
+      "partNo": "192-13",
+      "desc": "LOCKWASHER - #4"
+    },
+    {
+      "ref": 11,
+      "x": 11.0,
+      "y": 82.3,
+      "partNo": "C22947",
+      "desc": "TIE - nylon"
+    },
+    {
+      "ref": 12,
+      "x": 55.0,
+      "y": 82.1,
+      "partNo": "187-1073",
+      "desc": "SCREW - 1/4”-20 x 5/8”"
+    },
+    {
+      "ref": 13,
+      "x": 46.0,
+      "y": 13.5,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4” – 20 x 1/2” flangelock"
+    },
+    {
+      "ref": 14,
+      "x": 70.6,
+      "y": 79.9,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "193-70",
+          "desc": "LOCKWASHER - #10 external tooth"
+        },
+        {
+          "serialNote": null,
+          "partNo": "192-18",
+          "desc": "LOCKWASHER - #10"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 73.2,
+      "y": 67.8,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "193-70",
+          "desc": "LOCKWASHER - #10 external tooth"
+        },
+        {
+          "serialNote": null,
+          "partNo": "192-18",
+          "desc": "LOCKWASHER - #10"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 64.2,
+      "y": 61.1,
+      "variants": [
+        {
+          "serialNote": "32 x 3/4” screw",
+          "partNo": "182-147",
+          "desc": "SCREW - #10"
+        },
+        {
+          "serialNote": "24 x 3/4” black",
+          "partNo": "182-559",
+          "desc": "SCREW - #10"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 68.2,
+      "y": 60.2,
+      "partNo": "129-37",
+      "desc": "NUT - #10-32"
+    },
+    {
+      "ref": 16,
+      "x": 60.3,
+      "y": 83.9,
+      "partNo": "129-37",
+      "desc": "NUT - #10-32"
+    },
+    {
+      "ref": 17,
+      "x": 55.1,
+      "y": 20.4,
+      "partNo": "C31619",
+      "desc": "CAP - PTO switch"
+    },
+    {
+      "ref": 18,
+      "x": 58.8,
+      "y": 3.0,
+      "partNo": "C31620",
+      "desc": "NUT - knurled 1/2”-27"
+    },
+    {
+      "ref": 19,
+      "x": 33.9,
+      "y": 8.5,
+      "partNo": "C31621",
+      "desc": "RETAINER - battery"
+    },
+    {
+      "ref": 20,
+      "x": 16.5,
+      "y": 18.1,
+      "partNo": "C24069",
+      "desc": "COVER - terminal"
+    },
+    {
+      "ref": 21,
+      "x": 88.5,
+      "y": 18.3,
+      "partNo": "C32396",
+      "desc": "NUT - switch 5/8” - 32"
+    },
+    {
+      "ref": 22,
+      "x": 84.6,
+      "y": 15.4,
+      "partNo": "C32397",
+      "desc": "CAP - nut"
+    },
+    {
+      "ref": 23,
+      "x": 64.3,
+      "y": 24.2,
+      "partNo": "C19521",
+      "desc": "CLIP - wire"
+    },
+    {
+      "ref": 24,
+      "x": 32.9,
+      "y": 16.4,
+      "partNo": "111-132",
+      "desc": "BOLT - 5/16”-18 x 3/4” carriage"
+    },
+    {
+      "ref": 24,
+      "x": 11.9,
+      "y": 33.0,
+      "partNo": "111-132",
+      "desc": "BOLT - 5/16”-18 x 3/4” carriage"
+    },
+    {
+      "ref": 25,
+      "x": 38.8,
+      "y": 22.9,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16”-18"
+    },
+    {
+      "ref": 25,
+      "x": 22.3,
+      "y": 21.4,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16”-18"
+    },
+    {
+      "ref": 26,
+      "x": 79.3,
+      "y": 12.5,
+      "partNo": "C32407",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": 27,
+      "x": 91.9,
+      "y": 20.4,
+      "partNo": "C23012",
+      "desc": "LOCK WASHER"
+    },
+    {
+      "ref": 28,
+      "x": 33.4,
+      "y": 68.1,
+      "partNo": "129-36",
+      "desc": "NUT - #8-36"
+    },
+    {
+      "ref": 29,
+      "x": 24.9,
+      "y": 72.8,
+      "partNo": "129-27",
+      "desc": "NUT - #10"
+    },
+    {
+      "ref": 29,
+      "x": 25.2,
+      "y": 57.9,
+      "partNo": "129-27",
+      "desc": "NUT - #10"
+    },
+    {
+      "ref": 30,
+      "x": 25.2,
+      "y": 69.0,
+      "partNo": "193-99",
+      "desc": "LOCK WASHER - #10"
+    },
+    {
+      "ref": 31,
+      "x": 61.0,
+      "y": 87.3,
+      "partNo": "129-17",
+      "desc": "NUT - #10 - 24"
+    },
+    {
+      "ref": 32,
+      "x": 71.4,
+      "y": 59.7,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4” - 20"
+    },
+    {
+      "ref": 33,
+      "x": 73.4,
+      "y": 71.2,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4” ...............................................................................................2 HEADLIGHT ASSEMBLY AND REAR RELECTOR"
+    }
+  ],
+  "footnotes": ""
+}

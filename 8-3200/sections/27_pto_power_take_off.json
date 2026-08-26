@@ -1,0 +1,360 @@
+{
+  "sectionTitle": "PTO (Power Take Off)",
+  "breadcrumb": "PTO (Power Take Off)",
+  "catalogLabel": "Catalog 8-3200",
+  "modelNumbers": "Catalog 8-3200 — Models 3118, 4116, 4118, 4120",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3200/27_pto_power_take_off.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 81.04,
+      "y": 90.43,
+      "partNo": "C42198",
+      "desc": "LATCH - reverse lockout"
+    },
+    {
+      "ref": 2,
+      "x": 73.73,
+      "y": 88.39,
+      "partNo": "C42078",
+      "desc": "GATE - shift"
+    },
+    {
+      "ref": 3,
+      "x": 90.08,
+      "y": 79.46,
+      "partNo": "C42081",
+      "desc": "STOP - lever"
+    },
+    {
+      "ref": 4,
+      "x": 89.54,
+      "y": 65.92,
+      "partNo": "C42082",
+      "desc": "PIN - hinge"
+    },
+    {
+      "ref": 5,
+      "x": 86.21,
+      "y": 81.83,
+      "partNo": "C42083",
+      "desc": "SPRING - torsion"
+    },
+    {
+      "ref": 6,
+      "x": 83.19,
+      "y": 67.85,
+      "partNo": "C37400",
+      "desc": "ACTUATOR - switch"
+    },
+    {
+      "ref": 7,
+      "x": 90.19,
+      "y": 87.64,
+      "partNo": "C29620",
+      "desc": "SCREW - 5/16” - 18 x 3/4"
+    },
+    {
+      "ref": 8,
+      "x": 79.11,
+      "y": 66.35,
+      "partNo": "C37406",
+      "desc": "LEVER - PTO"
+    },
+    {
+      "ref": 9,
+      "x": 80.29,
+      "y": 57.42,
+      "partNo": "C10487",
+      "desc": "KNOB"
+    },
+    {
+      "ref": 10,
+      "x": 71.47,
+      "y": 66.78,
+      "partNo": "C28964",
+      "desc": "PIN - clevis 3/16” x 1”"
+    },
+    {
+      "ref": 11,
+      "x": 66.95,
+      "y": 80.65,
+      "partNo": "132-329",
+      "desc": "PIN - cotter 1/16” x 3/4”"
+    },
+    {
+      "ref": 12,
+      "x": 43.06,
+      "y": 64.95,
+      "partNo": "218-5062",
+      "desc": "FITTING - 7/8"
+    },
+    {
+      "ref": 13,
+      "x": 43.49,
+      "y": 46.13,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° 7/8”"
+    },
+    {
+      "ref": 13,
+      "x": 55.54,
+      "y": 63.98,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° 7/8”"
+    },
+    {
+      "ref": 14,
+      "x": 41.88,
+      "y": 52.05,
+      "partNo": "C36910",
+      "desc": "VALVE - PTO"
+    },
+    {
+      "ref": 15,
+      "x": 66.52,
+      "y": 85.81,
+      "partNo": "C37401",
+      "desc": "BRACKET - actuating"
+    },
+    {
+      "ref": 16,
+      "x": 48.55,
+      "y": 41.08,
+      "partNo": "61-420",
+      "desc": "SCREW - 1/4” - 20 x 1-1/4” socket head"
+    },
+    {
+      "ref": 17,
+      "x": 58.23,
+      "y": 29.58,
+      "partNo": "218-465",
+      "desc": "FITTING - 1/2” x 7/8” -"
+    },
+    {
+      "ref": 17,
+      "x": 33.7,
+      "y": 52.8,
+      "partNo": "218-465",
+      "desc": "FITTING - 1/2” x 7/8” -"
+    },
+    {
+      "ref": 18,
+      "x": 54.9,
+      "y": 26.35,
+      "partNo": "C37142",
+      "desc": "NIPPLE - pipe"
+    },
+    {
+      "ref": 18,
+      "x": 29.72,
+      "y": 49.68,
+      "partNo": "C37142",
+      "desc": "NIPPLE - pipe"
+    },
+    {
+      "ref": 19,
+      "x": 17.35,
+      "y": 39.04,
+      "partNo": "C37187",
+      "desc": "COUPLING - quick, male 7/8”"
+    },
+    {
+      "ref": 20,
+      "x": 13.58,
+      "y": 35.27,
+      "partNo": "C37188",
+      "desc": "COUPLING - quick, female 7/8”"
+    },
+    {
+      "ref": 21,
+      "x": 27.35,
+      "y": 46.13,
+      "partNo": "C37144",
+      "desc": "CLAMP"
+    },
+    {
+      "ref": 21,
+      "x": 42.09,
+      "y": 26.99,
+      "partNo": "C37144",
+      "desc": "CLAMP"
+    },
+    {
+      "ref": 22,
+      "x": 26.38,
+      "y": 40.22,
+      "partNo": "C37145",
+      "desc": "COVER - clamp"
+    },
+    {
+      "ref": 22,
+      "x": 42.52,
+      "y": 22.16,
+      "partNo": "C37145",
+      "desc": "COVER - clamp"
+    },
+    {
+      "ref": 23,
+      "x": 42.95,
+      "y": 15.28,
+      "partNo": "113-14",
+      "desc": "BOLT - 1/4” - 20 x 2”"
+    },
+    {
+      "ref": 23,
+      "x": 23.59,
+      "y": 33.55,
+      "partNo": "113-14",
+      "desc": "BOLT - 1/4” - 20 x 2”"
+    },
+    {
+      "ref": 24,
+      "x": 42.74,
+      "y": 35.38,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4” - 20 flange lock"
+    },
+    {
+      "ref": 24,
+      "x": 25.31,
+      "y": 60.65,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4” - 20 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 21.11,
+      "y": 15.81,
+      "partNo": "C40641",
+      "desc": "CAP - dust"
+    },
+    {
+      "ref": 26,
+      "x": 32.73,
+      "y": 16.57,
+      "partNo": "C40642",
+      "desc": "PLUG - dust"
+    },
+    {
+      "ref": 27,
+      "x": 66.95,
+      "y": 43.77,
+      "partNo": "C37454",
+      "desc": "CONDUIT - corrugated (cut to length)"
+    },
+    {
+      "ref": 27,
+      "x": 44.89,
+      "y": 79.57,
+      "partNo": "C37454",
+      "desc": "CONDUIT - corrugated (cut to length)"
+    },
+    {
+      "ref": 28,
+      "x": 73.51,
+      "y": 50.0,
+      "partNo": "C22947",
+      "desc": "TIE - nylon"
+    },
+    {
+      "ref": 29,
+      "x": 62.21,
+      "y": 32.59,
+      "partNo": "C37233",
+      "desc": "TUBE - L.H"
+    },
+    {
+      "ref": 30,
+      "x": 37.25,
+      "y": 56.56,
+      "partNo": "C37234",
+      "desc": "TUBE - R.H"
+    },
+    {
+      "ref": 31,
+      "x": 34.02,
+      "y": 83.66,
+      "partNo": "C33750",
+      "desc": "HOSE - hydraulic 21” (3118)"
+    },
+    {
+      "ref": 32,
+      "x": 23.48,
+      "y": 72.15,
+      "partNo": "218-443",
+      "desc": "FITTING - 3/8” x 1/4”"
+    },
+    {
+      "ref": 33,
+      "x": 20.57,
+      "y": 70.0,
+      "partNo": "C37249",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 34,
+      "x": 17.13,
+      "y": 67.31,
+      "partNo": "C41043",
+      "desc": "COUPLING - quick, male 9/16”"
+    },
+    {
+      "ref": 35,
+      "x": 20.68,
+      "y": 85.7,
+      "partNo": "C33404",
+      "desc": "CAP - dust"
+    },
+    {
+      "ref": 36,
+      "x": 58.23,
+      "y": 78.39,
+      "partNo": "C37235",
+      "desc": "TUBE - supply tee to P.T.O. “in” (3118)"
+    },
+    {
+      "ref": 37,
+      "x": 57.37,
+      "y": 46.89,
+      "partNo": "C37237",
+      "desc": "TUBE - travel valve to P.T.O. “out” (3118)"
+    },
+    {
+      "ref": 38,
+      "x": 13.58,
+      "y": 64.84,
+      "partNo": "C41044",
+      "desc": "COUPLING - quick, female 9/16”"
+    },
+    {
+      "ref": 39,
+      "x": 81.47,
+      "y": 26.46,
+      "partNo": "C37439",
+      "desc": "KEY - coupler switch C37440 DECAL 113-1 BOLT - 1/4” - 195-518 WASHER - 1/4”"
+    },
+    {
+      "ref": 40,
+      "x": 75.88,
+      "y": 17.75,
+      "partNo": "C37437",
+      "desc": "BRACKET - switch mounting"
+    },
+    {
+      "ref": 41,
+      "x": 84.7,
+      "y": 29.68,
+      "partNo": "C37459",
+      "desc": "CUSHION - key"
+    },
+    {
+      "ref": 42,
+      "x": 82.66,
+      "y": 14.09,
+      "partNo": "C42048",
+      "desc": "KIT - coupler switch INDEX PTO VALVE REF. PART NO. DESCRIPTION REQ'D"
+    }
+  ],
+  "footnotes": ""
+}

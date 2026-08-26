@@ -1,0 +1,125 @@
+{
+  "sectionTitle": "Camshaft and Valves (3014, 4014)",
+  "breadcrumb": "Camshaft and Valves (3014, 4014)",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/03_camshaft_valves_3014_4014.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 53.87,
+      "y": 9.04,
+      "partNo": "C32803",
+      "desc": "CAMSHAFT ASSEMBLY"
+    },
+    {
+      "ref": 2,
+      "x": 55.48,
+      "y": 26.43,
+      "partNo": "C28680",
+      "desc": "SPRING-actuating"
+    },
+    {
+      "ref": 3,
+      "x": 71.44,
+      "y": 27.3,
+      "variants": [
+        {
+          "serialNote": ".005”",
+          "partNo": "KO275066",
+          "desc": "SPACER"
+        },
+        {
+          "serialNote": ".010”",
+          "partNo": "KO275067",
+          "desc": "SPACER"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 78.17,
+      "y": 34.36,
+      "partNo": "C30487",
+      "desc": "PIN - camshaft"
+    },
+    {
+      "ref": 5,
+      "x": 92.08,
+      "y": 43.93,
+      "partNo": "C32849",
+      "desc": "PLUG - cup 1/2”O.D"
+    },
+    {
+      "ref": 6,
+      "x": 70.12,
+      "y": 41.53,
+      "partNo": "KO237672",
+      "desc": "VALVE - exhaust"
+    },
+    {
+      "ref": 7,
+      "x": 81.54,
+      "y": 48.82,
+      "partNo": "KO235582",
+      "desc": "VALVE - intake"
+    },
+    {
+      "ref": 8,
+      "x": 56.51,
+      "y": 47.62,
+      "partNo": "KO235011",
+      "desc": "RETAINER - upper spring"
+    },
+    {
+      "ref": 8,
+      "x": 86.37,
+      "y": 64.68,
+      "partNo": "KO235011",
+      "desc": "RETAINER - upper spring"
+    },
+    {
+      "ref": 9,
+      "x": 55.92,
+      "y": 57.07,
+      "partNo": "KO235168",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": 9,
+      "x": 89.01,
+      "y": 75.98,
+      "partNo": "KO235168",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": 10,
+      "x": 55.19,
+      "y": 66.96,
+      "partNo": "KO230020",
+      "desc": "ROTATOR - valve"
+    },
+    {
+      "ref": 10,
+      "x": 90.18,
+      "y": 84.46,
+      "partNo": "KO230020",
+      "desc": "ROTATOR - valve"
+    },
+    {
+      "ref": 11,
+      "x": 70.12,
+      "y": 97.5,
+      "partNo": "KOD235327",
+      "desc": "TAPPET - valve"
+    },
+    {
+      "ref": 12,
+      "x": 61.78,
+      "y": 73.16,
+      "partNo": "C24884",
+      "desc": "KIT - retainer"
+    }
+  ],
+  "footnotes": ""
+}

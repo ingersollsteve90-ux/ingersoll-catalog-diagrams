@@ -1,0 +1,250 @@
+{
+  "sectionTitle": "Steering Gear",
+  "breadcrumb": "Steering Gear",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/steering_gear.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 13.4,
+      "y": 52.0,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" N.C. hex"
+    },
+    {
+      "ref": 2,
+      "x": 57.0,
+      "y": 10.8,
+      "variants": [
+        {
+          "serialNote": "Use before PIN [+]",
+          "partNo": "C26325",
+          "desc": "WHEEL - steering"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14167800, 3014-14168800, 3016-14169500, 4016-all after [++]",
+          "partNo": "C37131",
+          "desc": "WHEEL - steering (shown)"
+        },
+        {
+          "serialNote": "Option 3 of 4 (see Notes below)",
+          "partNo": "C42894",
+          "desc": "INSERT - Steering wheel, (snaps in with two retainer tabs)"
+        },
+        {
+          "serialNote": "Option 4 of 4 (see Notes below)",
+          "partNo": "C42591",
+          "desc": "INSERT - Steering wheel, (also order a C42592 screw to secure)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 29.1,
+      "y": 59.9,
+      "partNo": "C29044",
+      "desc": "PIN-pivot"
+    },
+    {
+      "ref": 4,
+      "x": 46.8,
+      "y": 35.7,
+      "variants": [
+        {
+          "serialNote": "Use before PIN [*]",
+          "partNo": "C26326",
+          "desc": "SHAFT - steering"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14145818, 3014-14146794, 3016-14146794 [**]",
+          "partNo": "C33940",
+          "desc": "SHAFT - steering"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 64.1,
+      "y": 78.1,
+      "variants": [
+        {
+          "serialNote": "Use before PIN [*]",
+          "partNo": "C26326",
+          "desc": "SHAFT - steering"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14145818, 3014-14146794, 3016-14146794 [**]",
+          "partNo": "C33940",
+          "desc": "SHAFT - steering"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 17.2,
+      "y": 32.1,
+      "partNo": "C29812",
+      "desc": "WASHER - 3/8\" x 1.4\""
+    },
+    {
+      "ref": 5,
+      "x": 28.6,
+      "y": 91.3,
+      "partNo": "C29812",
+      "desc": "WASHER - 3/8\" x 1.4\""
+    },
+    {
+      "ref": 6,
+      "x": 19.1,
+      "y": 26.2,
+      "partNo": "113-241",
+      "desc": "BOLT - 3/8\" - 16 x 3\""
+    },
+    {
+      "ref": 7,
+      "x": 28.0,
+      "y": 65.5,
+      "partNo": "C14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 7,
+      "x": 48.0,
+      "y": 87.5,
+      "partNo": "C14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 8,
+      "x": 30.2,
+      "y": 98.2,
+      "partNo": "131-1352",
+      "desc": "NUT - 3/8\" - 16 hex lock (torque 40-45 ft. lbs.)"
+    },
+    {
+      "ref": 9,
+      "x": 54.2,
+      "y": 56.6,
+      "partNo": "C27501",
+      "desc": "BUSHING"
+    },
+    {
+      "ref": 10,
+      "x": 40.7,
+      "y": 21.1,
+      "partNo": "138-143",
+      "desc": "PIN - roIl 1/4\" x 2-1/4\""
+    },
+    {
+      "ref": 11,
+      "x": 40.3,
+      "y": 16.4,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "195-541",
+          "desc": "WASHER - 5/8\""
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "195-2206",
+          "desc": "WASHER - 5/8\" x 1-1/4\" x .06\" thick"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 26.5,
+      "y": 78.0,
+      "partNo": "C33309",
+      "desc": "GEAR - steering"
+    },
+    {
+      "ref": 13,
+      "x": 29.7,
+      "y": 73.5,
+      "partNo": "C33308",
+      "desc": "BUSHING - sleeve"
+    },
+    {
+      "ref": 13,
+      "x": 30.0,
+      "y": 85.7,
+      "partNo": "C33308",
+      "desc": "BUSHING - sleeve"
+    },
+    {
+      "ref": 14,
+      "x": 18.3,
+      "y": 49.8,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\""
+    },
+    {
+      "ref": 15,
+      "x": 59.1,
+      "y": 62.7,
+      "partNo": "195-2069",
+      "desc": "WASHER - 5/8\" zinc plated"
+    },
+    {
+      "ref": 16,
+      "x": 24.3,
+      "y": 18.7,
+      "partNo": "C15096",
+      "desc": "BUSHING - flanged nylon"
+    },
+    {
+      "ref": 17,
+      "x": 57.8,
+      "y": 41.9,
+      "partNo": "C30019",
+      "desc": "SUPPORT - steering gear (includes item 9)"
+    },
+    {
+      "ref": 18,
+      "x": 97.1,
+      "y": 37.4,
+      "variants": [
+        {
+          "serialNote": "Use before PIN [*]",
+          "partNo": "C30127",
+          "desc": "TUBE - steering"
+        },
+        {
+          "serialNote": "Use PIN and after: 3012-14167800, 3014-14168800, 3016-14169500, 4016-all after [++]",
+          "partNo": "C37479",
+          "desc": "TUBE - steering"
+        },
+        {
+          "serialNote": "Use PIN to PIN: 3012-14145818 to 14167800, 3014-14146794 to 14168800, 3016-14147979 to 14169500 [***]",
+          "partNo": "C33945",
+          "desc": "TUBE - steering"
+        }
+      ]
+    },
+    {
+      "ref": 19,
+      "x": 63.7,
+      "y": 3.9,
+      "partNo": "C37197",
+      "desc": "INSERT - steering wheel"
+    },
+    {
+      "ref": 20,
+      "x": 71.5,
+      "y": 30.5,
+      "partNo": "C39504",
+      "desc": "BOOT - steering column"
+    },
+    {
+      "ref": 21,
+      "x": 69.9,
+      "y": 24.7,
+      "partNo": "C39507",
+      "desc": "INSERT - boot"
+    }
+  ],
+  "footnotes": "* Use before PIN / ** Use PIN and after: 3012-14145818, 3014-14146794, 3016-14146794/14147979, 4016-all after\n+ Use before PIN / ++ Use PIN and after: 3012-14167800, 3014-14168800, 3016-14169500, 4016-all after\n*** Use PIN to PIN: 3012-14145818 to 14167800, 3014-14146794 to 14168800, 3016-14147979 to 14169500"
+}

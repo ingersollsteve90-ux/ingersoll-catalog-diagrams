@@ -1,0 +1,199 @@
+{
+  "sectionTitle": "Fuel System (Engine)",
+  "breadcrumb": "Fuel System (Engine)",
+  "catalogLabel": "Catalog 8-3200",
+  "modelNumbers": "Catalog 8-3200 — Models 3118, 4116, 4118, 4120",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3200/06_fuel_system_engine.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 60.27,
+      "y": 27.85,
+      "partNo": "C29868",
+      "desc": "CARBURETOR - fuel (3118, 4116, 4118) repairs page"
+    },
+    {
+      "ref": 2,
+      "x": 60.5,
+      "y": 36.13,
+      "partNo": "C29969",
+      "desc": "GASKET - carburetor mounting"
+    },
+    {
+      "ref": 3,
+      "x": 51.54,
+      "y": 11.4,
+      "partNo": "C29944",
+      "desc": "SEAL - “0” ring"
+    },
+    {
+      "ref": 4,
+      "x": 59.81,
+      "y": 39.79,
+      "partNo": "C29952",
+      "desc": "ADAPTER - carburetor"
+    },
+    {
+      "ref": 5,
+      "x": 59.01,
+      "y": 45.49,
+      "partNo": "C29953",
+      "desc": "GASKET - adapter"
+    },
+    {
+      "ref": 6,
+      "x": 69.92,
+      "y": 60.54,
+      "partNo": "C32450",
+      "desc": "MANIFOLD - intake"
+    },
+    {
+      "ref": 7,
+      "x": 46.83,
+      "y": 62.48,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4”"
+    },
+    {
+      "ref": 8,
+      "x": 47.64,
+      "y": 67.96,
+      "partNo": "113-65",
+      "desc": "BOLT - 1/4” -20 x 1-3/8”"
+    },
+    {
+      "ref": 9,
+      "x": 69.69,
+      "y": 44.63,
+      "partNo": "113-121",
+      "desc": "BOLT - 5/16” - 18 x 2”"
+    },
+    {
+      "ref": 10,
+      "x": 69.35,
+      "y": 53.44,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16”"
+    },
+    {
+      "ref": 10,
+      "x": 47.98,
+      "y": 56.99,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16”"
+    },
+    {
+      "ref": 11,
+      "x": 39.37,
+      "y": 56.35,
+      "partNo": "C26202",
+      "desc": "GASKET - manifold"
+    },
+    {
+      "ref": 12,
+      "x": 54.64,
+      "y": 63.01,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16” – 18 x 1”"
+    },
+    {
+      "ref": 13,
+      "x": 70.95,
+      "y": 9.04,
+      "partNo": "C20360",
+      "desc": "CLIP - retaining, control rod to carburetor"
+    },
+    {
+      "ref": 14,
+      "x": 70.27,
+      "y": 23.34,
+      "partNo": "C29988",
+      "desc": "ROD - governor control"
+    },
+    {
+      "ref": 15,
+      "x": 44.19,
+      "y": 18.07,
+      "partNo": "195-2027",
+      "desc": "WASHER - 5/16”"
+    },
+    {
+      "ref": 16,
+      "x": 34.2,
+      "y": 35.38,
+      "partNo": "NSS",
+      "desc": "HOSE - fuel (use C28937 cut to length)"
+    },
+    {
+      "ref": 17,
+      "x": 40.17,
+      "y": 88.39,
+      "partNo": "C29959",
+      "desc": "PUMP - fuel"
+    },
+    {
+      "ref": 18,
+      "x": 35.35,
+      "y": 88.82,
+      "partNo": "182-559",
+      "desc": "SCREW - tapping #10 - 24 x 5/8”"
+    },
+    {
+      "ref": 19,
+      "x": 50.51,
+      "y": 76.67,
+      "partNo": "NSS",
+      "desc": "HOSE - vacuum (use C28937 cut to length)"
+    },
+    {
+      "ref": 20,
+      "x": 28.0,
+      "y": 62.26,
+      "partNo": "214-103",
+      "desc": "CLAMP - hose 1/2” (wire).......................................................................................UAR"
+    },
+    {
+      "ref": 21,
+      "x": 40.29,
+      "y": 67.96,
+      "partNo": "C20411",
+      "desc": "CAP - fuel outlet.....................................................................................................UAR"
+    },
+    {
+      "ref": 22,
+      "x": 40.63,
+      "y": 63.66,
+      "partNo": "NSS",
+      "desc": "CLAMP - hose 7/16” (wire) (use C32376)..............................................................UAR"
+    },
+    {
+      "ref": 23,
+      "x": 41.66,
+      "y": 81.51,
+      "partNo": "C32376",
+      "desc": "CLAMP - hose 1/2” (worm drive)"
+    },
+    {
+      "ref": 24,
+      "x": 41.55,
+      "y": 31.19,
+      "partNo": "C10678",
+      "desc": "ELBOW - hose"
+    },
+    {
+      "ref": 25,
+      "x": 48.67,
+      "y": 82.8,
+      "partNo": "C20412",
+      "desc": "TUBE - vacuum"
+    },
+    {
+      "ref": 26,
+      "x": 78.19,
+      "y": 27.32,
+      "partNo": "C33406",
+      "desc": "SPRING - governor rod (optional) INDEX FUEL SYSTEM (TRACTOR)"
+    }
+  ],
+  "footnotes": ""
+}

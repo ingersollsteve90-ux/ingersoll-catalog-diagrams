@@ -1,0 +1,111 @@
+{
+  "sectionTitle": "Starter",
+  "breadcrumb": "Starter",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/starter.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 70.22,
+      "y": 62.7,
+      "partNo": "C34336",
+      "desc": "CAP ASSEMBLY - commutator end"
+    },
+    {
+      "ref": 2,
+      "x": 57.74,
+      "y": 85.84,
+      "partNo": "C34286",
+      "desc": "BRUSH ASSEMBLY"
+    },
+    {
+      "ref": 3,
+      "x": 36.16,
+      "y": 92.28,
+      "partNo": "C34405",
+      "desc": "HOUSING - starter"
+    },
+    {
+      "ref": 4,
+      "x": 15.81,
+      "y": 94.99,
+      "partNo": "C34313",
+      "desc": "ARMATURE - starter"
+    },
+    {
+      "ref": 5,
+      "x": 66.29,
+      "y": 55.96,
+      "partNo": "C34285",
+      "desc": "BOLT - thru"
+    },
+    {
+      "ref": 6,
+      "x": 82.3,
+      "y": 46.3,
+      "partNo": "C34364",
+      "desc": "SPRING - brush"
+    },
+    {
+      "ref": 7,
+      "x": 74.57,
+      "y": 14.51,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C30444",
+          "desc": "CAP ASSEMBLY - drive end (3012, 3014)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C34335",
+          "desc": "CAP ASSEMBLY - drive end (3016)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 46.07,
+      "y": 20.34,
+      "partNo": "C30406",
+      "desc": "CLUTCH - drive"
+    },
+    {
+      "ref": 9,
+      "x": 23.95,
+      "y": 25.77,
+      "partNo": "C27424",
+      "desc": "KIT - retainer"
+    },
+    {
+      "ref": 10,
+      "x": 26.26,
+      "y": 32.01,
+      "partNo": "C27422",
+      "desc": "GEAR - drive"
+    },
+    {
+      "ref": 11,
+      "x": 26.53,
+      "y": 54.35,
+      "partNo": "C34353",
+      "desc": "PIN - roll"
+    },
+    {
+      "ref": 12,
+      "x": 89.9,
+      "y": 26.98,
+      "partNo": "C34263",
+      "desc": "BOLT - starter mounting"
+    },
+    {
+      "ref": 13,
+      "x": 70.5,
+      "y": 92.68,
+      "partNo": "C31618",
+      "desc": "COVER - terminal"
+    }
+  ],
+  "footnotes": ""
+}

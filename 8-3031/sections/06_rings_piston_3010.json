@@ -1,0 +1,93 @@
+{
+  "sectionTitle": "Rings, Piston and Connecting Rod (Model 3010)",
+  "breadcrumb": "Rings, Piston and Connecting Rod (Model 3010)",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/06_rings_piston_3010.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 20.0,
+      "y": 24.3,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "KO235287",
+          "desc": "RING SET"
+        },
+        {
+          "serialNote": ".010” (0.25 mm) oversize",
+          "partNo": "KO235288",
+          "desc": "RING SET"
+        },
+        {
+          "serialNote": ".020” (0.51” mm) oversize",
+          "partNo": "KO235289",
+          "desc": "RING SET"
+        },
+        {
+          "serialNote": ".030” (0.76 mm) oversize",
+          "partNo": "KO235290",
+          "desc": "RING SET"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 95.6,
+      "y": 31.4,
+      "variants": [
+        {
+          "serialNote": "(standard)",
+          "partNo": "C29516",
+          "desc": "PISTON ASSEMBLY - includes rings"
+        },
+        {
+          "serialNote": ".003” (0.08 mm) oversize",
+          "partNo": "C29517",
+          "desc": "PISTON ASSEMBLY - includes rings"
+        },
+        {
+          "serialNote": ".010” (0.25 mm) oversize",
+          "partNo": "C29518",
+          "desc": "PISTON ASSEMBLY - includes rings"
+        },
+        {
+          "serialNote": ".020” (0.51 mm) oversize",
+          "partNo": "C29519",
+          "desc": "PISTON ASSEMBLY - includes rings"
+        },
+        {
+          "serialNote": ".030” (0.76 mm) oversize",
+          "partNo": "C29520",
+          "desc": "PISTON ASSEMBLY - includes rings"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 19.1,
+      "y": 51.3,
+      "partNo": "KO235004",
+      "desc": "RETAINER - piston pin"
+    },
+    {
+      "ref": 4,
+      "x": 75.0,
+      "y": 82.0,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "C30484",
+          "desc": "CONNECTING ROD ASSEMBLY"
+        },
+        {
+          "serialNote": ".010” (0.25 mm) undersize",
+          "partNo": "C18101",
+          "desc": "CONNECTING ROD ASSEMBLY"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

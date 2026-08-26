@@ -1,0 +1,166 @@
+{
+  "sectionTitle": "Oil Drain, Oil Filter and Filler Tube",
+  "breadcrumb": "Oil Drain, Oil Filter and Filler Tube",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/oil_drain_filter_filler.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 35.02,
+      "y": 44.6,
+      "variants": [
+        {
+          "serialNote": "Use before PIN: 3012-all before, 3014-all before, 3016-14169725 [+]",
+          "partNo": "C34309",
+          "desc": "TUBE - oil filler"
+        },
+        {
+          "serialNote": "Use PIN and after: 4016-1417045 [++]",
+          "partNo": "C40931",
+          "desc": "TUBE - oil filler"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 18.92,
+      "y": 71.9,
+      "partNo": "C34308",
+      "desc": "SEAL - filler tube"
+    },
+    {
+      "ref": 3,
+      "x": 20.06,
+      "y": 9.3,
+      "variants": [
+        {
+          "serialNote": "Use before PIN: 3012-all before, 3014-all before, 3016-14169725 [+]",
+          "partNo": "C34307",
+          "desc": "DIPSTICK"
+        },
+        {
+          "serialNote": "Use PIN and after: 4016-1417045 [++]",
+          "partNo": "C40930",
+          "desc": "DIPSTICK"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 29.35,
+      "y": 21.4,
+      "partNo": "C34340",
+      "desc": "\"0\" RING - filler tube"
+    },
+    {
+      "ref": 5,
+      "x": 11.33,
+      "y": 46.7,
+      "partNo": "C34276",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 6,
+      "x": 79.89,
+      "y": 69.1,
+      "variants": [
+        {
+          "serialNote": "Use before PIN: 3012-all before, 3014-all before, 3016-14169725 [+]",
+          "partNo": "C34374",
+          "desc": "FILTER - oil"
+        },
+        {
+          "serialNote": "Use PIN and after: 4016-1417045 [++]",
+          "partNo": "C34544",
+          "desc": "FILTER - oil"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 94.29,
+      "y": 38.9,
+      "partNo": "C34375",
+      "desc": "ADAPTER - oil filter"
+    },
+    {
+      "ref": 8,
+      "x": 92.25,
+      "y": 28.2,
+      "partNo": "C34239",
+      "desc": "PLUG-pipe"
+    },
+    {
+      "ref": 9,
+      "x": 64.14,
+      "y": 36.0,
+      "partNo": "C34361",
+      "desc": "GASKET - adapter"
+    },
+    {
+      "ref": 10,
+      "x": 69.35,
+      "y": 51.2,
+      "partNo": "C34362",
+      "desc": "SCREW - adapter"
+    },
+    {
+      "ref": 11,
+      "x": 74.68,
+      "y": 17.7,
+      "partNo": "C34264",
+      "desc": "LOCKWASHER"
+    },
+    {
+      "ref": 12,
+      "x": 84.31,
+      "y": 20.7,
+      "partNo": "C34260",
+      "desc": "STUD - adapter"
+    },
+    {
+      "ref": 13,
+      "x": 61.76,
+      "y": 76.1,
+      "partNo": "C33450",
+      "desc": "NIPPLE - oil drain"
+    },
+    {
+      "ref": 14,
+      "x": 57.11,
+      "y": 94.9,
+      "partNo": "221-86",
+      "desc": "REDUCER - pipe 3/8\" - 14"
+    },
+    {
+      "ref": 15,
+      "x": 54.05,
+      "y": 70.5,
+      "partNo": "C14906",
+      "desc": "GASKET - oil drain"
+    },
+    {
+      "ref": 16,
+      "x": 42.61,
+      "y": 87.7,
+      "partNo": "C14399",
+      "desc": "PLUG - oil drain (shown)"
+    },
+    {
+      "ref": 17,
+      "x": 37.51,
+      "y": 87.4,
+      "partNo": "218-5154",
+      "desc": "PLUG -oil drain"
+    },
+    {
+      "ref": 18,
+      "x": 66.63,
+      "y": 76.7,
+      "partNo": "C37148",
+      "desc": "NIPPLE - pipe 2\" long"
+    }
+  ],
+  "footnotes": "* Use before PIN: 3012-14167800, 3014-14168800, 3016-14169500\n** Use PIN and after: 4016-all after\n+ Use before PIN: 3012-all before, 3014-all before, 3016-14169725\n++ Use PIN and after: 4016-1417045"
+}

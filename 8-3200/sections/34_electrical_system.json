@@ -1,0 +1,255 @@
+{
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "Electrical System",
+  "catalogLabel": "Catalog 8-3200",
+  "modelNumbers": "Catalog 8-3200 — Models 3118, 4116, 4118, 4120",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3200/34_electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 30.57,
+      "y": 68.73,
+      "partNo": "C36917",
+      "desc": "HARNESS - wire, main"
+    },
+    {
+      "ref": 2,
+      "x": 81.19,
+      "y": 86.36,
+      "partNo": "C31943",
+      "desc": "CABLE - battery negative to ground"
+    },
+    {
+      "ref": 3,
+      "x": 27.08,
+      "y": 31.88,
+      "partNo": "C37269",
+      "desc": "HARNESS - wire, seat switch, PTO and taillights"
+    },
+    {
+      "ref": 4,
+      "x": 80.45,
+      "y": 42.43,
+      "partNo": "C14537",
+      "desc": "CONNECTOR - headlights"
+    },
+    {
+      "ref": 5,
+      "x": 51.59,
+      "y": 14.46,
+      "partNo": "C37165",
+      "desc": "TAILLIGHT – rear (#194 bulb)"
+    },
+    {
+      "ref": 6,
+      "x": 27.33,
+      "y": 92.31,
+      "partNo": "C31617",
+      "desc": "SENSOR - voltage"
+    },
+    {
+      "ref": 7,
+      "x": 83.68,
+      "y": 34.39,
+      "partNo": "C32178",
+      "desc": "HEADLIGHT - 12 volt (page 61 for service)"
+    },
+    {
+      "ref": 7,
+      "x": 67.26,
+      "y": 34.08,
+      "partNo": "C32178",
+      "desc": "HEADLIGHT - 12 volt (page 61 for service)"
+    },
+    {
+      "ref": 8,
+      "x": 64.03,
+      "y": 83.86,
+      "partNo": "C43044",
+      "desc": "SWITCH - headlights"
+    },
+    {
+      "ref": 9,
+      "x": 90.77,
+      "y": 77.39,
+      "partNo": "C41010",
+      "desc": "BATTERY - 12 volt"
+    },
+    {
+      "ref": 10,
+      "x": 50.72,
+      "y": 79.16,
+      "partNo": "C30530",
+      "desc": "SWITCH - ignition C24460 CONNECTOR - ignition switch"
+    },
+    {
+      "ref": 11,
+      "x": 59.18,
+      "y": 79.06,
+      "partNo": "C42929",
+      "desc": "HOURMETER"
+    },
+    {
+      "ref": 12,
+      "x": 44.12,
+      "y": 4.23,
+      "partNo": "C37298",
+      "desc": "SWITCH - seat (black)"
+    },
+    {
+      "ref": 12,
+      "x": 51.21,
+      "y": 21.87,
+      "partNo": "C37298",
+      "desc": "SWITCH - seat (black)"
+    },
+    {
+      "ref": 13,
+      "x": 45.24,
+      "y": 40.55,
+      "partNo": "C30275",
+      "desc": "SWITCH - micro (at travel lever)"
+    },
+    {
+      "ref": 13,
+      "x": 40.39,
+      "y": 40.96,
+      "partNo": "C30275",
+      "desc": "SWITCH - micro (at travel lever)"
+    },
+    {
+      "ref": 14,
+      "x": 33.05,
+      "y": 14.14,
+      "partNo": "C37399",
+      "desc": "SWITCH - micro (at PTO)"
+    },
+    {
+      "ref": 15,
+      "x": 25.71,
+      "y": 19.36,
+      "partNo": "C30279",
+      "desc": "CONNECTOR - micro switch"
+    },
+    {
+      "ref": 15,
+      "x": 33.68,
+      "y": 45.56,
+      "partNo": "C30279",
+      "desc": "CONNECTOR - micro switch"
+    },
+    {
+      "ref": 16,
+      "x": 89.9,
+      "y": 49.31,
+      "partNo": "C32312",
+      "desc": "STARTER AND SOLENOID - 12 volt (see page 57 for service)"
+    },
+    {
+      "ref": 17,
+      "x": 62.78,
+      "y": 46.08,
+      "partNo": "C32461",
+      "desc": "RECTIFIER - voltage, 12 volts"
+    },
+    {
+      "ref": 18,
+      "x": 70.25,
+      "y": 46.6,
+      "partNo": "C32296",
+      "desc": "COIL - ignition, 12 volt"
+    },
+    {
+      "ref": 19,
+      "x": 72.24,
+      "y": 56.41,
+      "partNo": "C32307",
+      "desc": "CONDENSER - 12 volt"
+    },
+    {
+      "ref": 20,
+      "x": 62.16,
+      "y": 35.12,
+      "partNo": "C42118",
+      "desc": "CONNECTOR - single female, taillight"
+    },
+    {
+      "ref": 21,
+      "x": 48.98,
+      "y": 89.08,
+      "partNo": "C31947",
+      "desc": "KIT - fuse holder"
+    },
+    {
+      "ref": 22,
+      "x": 48.98,
+      "y": 90.75,
+      "partNo": "C30260",
+      "desc": "FUSE - 30 amp"
+    },
+    {
+      "ref": 23,
+      "x": 26.46,
+      "y": 56.72,
+      "partNo": "C30262",
+      "desc": "BULB - indicator"
+    },
+    {
+      "ref": 23,
+      "x": 27.08,
+      "y": 51.92,
+      "partNo": "C30262",
+      "desc": "BULB - indicator"
+    },
+    {
+      "ref": 24,
+      "x": 29.7,
+      "y": 59.12,
+      "partNo": "C30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 26,
+      "x": 41.51,
+      "y": 96.7,
+      "partNo": "C25486",
+      "desc": "CONNECTOR - three wire, sensor"
+    },
+    {
+      "ref": 27,
+      "x": 32.56,
+      "y": 7.67,
+      "partNo": "C37398",
+      "desc": "CONNECTOR - seat switch"
+    },
+    {
+      "ref": 27,
+      "x": 46.49,
+      "y": 21.87,
+      "partNo": "C37398",
+      "desc": "CONNECTOR - seat switch"
+    },
+    {
+      "ref": 28,
+      "x": 43.88,
+      "y": 33.14,
+      "partNo": "C42115",
+      "desc": "CONNECTOR - six wire, seat harness, male"
+    },
+    {
+      "ref": 29,
+      "x": 62.16,
+      "y": 30.95,
+      "partNo": "C42116",
+      "desc": "CONNECTOR - harness, taillight, male"
+    },
+    {
+      "ref": 25,
+      "x": 44.62,
+      "y": 36.16,
+      "partNo": "C42117",
+      "desc": "CONNECTOR - six wire, harness, female"
+    }
+  ],
+  "footnotes": ""
+}

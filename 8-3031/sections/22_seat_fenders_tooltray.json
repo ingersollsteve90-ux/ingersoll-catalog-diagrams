@@ -1,0 +1,335 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Tray",
+  "breadcrumb": "Seat, Fenders and Tool Tray",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/22_seat_fenders_tooltray.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 22.3,
+      "y": 91.0,
+      "variants": [
+        {
+          "serialNote": "shown (3010, 3012, 3014)",
+          "partNo": "C31020",
+          "desc": "SUPPORT - seat, front"
+        },
+        {
+          "serialNote": "(4014)",
+          "partNo": "C31021",
+          "desc": "SUPPORT - seat, front"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 6.8,
+      "y": 81.3,
+      "variants": [
+        {
+          "serialNote": "(3010, 3012, 3014)",
+          "partNo": "C26827",
+          "desc": "SUPPORT - seat, rear"
+        },
+        {
+          "serialNote": "(4014)",
+          "partNo": "C27224",
+          "desc": "SUPPORT - seat, rear"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 22.8,
+      "y": 66.9,
+      "variants": [
+        {
+          "serialNote": "3-1/4” (3010,3012,3014)",
+          "partNo": "113-427",
+          "desc": "BOLT - 1/2” x"
+        },
+        {
+          "serialNote": "2-1/4” N.C. hex (4014)",
+          "partNo": "113-441",
+          "desc": "BOLT - 1/2” x"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 46.5,
+      "y": 56.2,
+      "variants": [
+        {
+          "serialNote": "1/2” x 1” N.C. hex",
+          "partNo": "113-424",
+          "desc": "BOLT"
+        },
+        {
+          "serialNote": "5/16” x 5/8”",
+          "partNo": "113-118",
+          "desc": "BOLT"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 35.1,
+      "y": 61.0,
+      "variants": [
+        {
+          "serialNote": "5/16”",
+          "partNo": "192-20",
+          "desc": "LOCKWASHER"
+        },
+        {
+          "serialNote": "1/2”",
+          "partNo": "192-23",
+          "desc": "LOCKWASHER"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 25.5,
+      "y": 62.0,
+      "partNo": "C31004",
+      "desc": "TRAY - tool"
+    },
+    {
+      "ref": 7,
+      "x": 62.4,
+      "y": 36.7,
+      "partNo": "C16429",
+      "desc": "PIN – seat hinge"
+    },
+    {
+      "ref": 8,
+      "x": 40.4,
+      "y": 9.5,
+      "variants": [
+        {
+          "serialNote": "shown (black) (3010, 3012, 3014)",
+          "partNo": "C30071",
+          "desc": "SEAT"
+        },
+        {
+          "serialNote": "(black) (4014) high back",
+          "partNo": "C30066",
+          "desc": "SEAT"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 17.2,
+      "y": 32.2,
+      "partNo": "C15410",
+      "desc": "CUSHION - rubber"
+    },
+    {
+      "ref": 9,
+      "x": 29.6,
+      "y": 49.3,
+      "partNo": "C15410",
+      "desc": "CUSHION - rubber"
+    },
+    {
+      "ref": 10,
+      "x": 27.1,
+      "y": 51.3,
+      "partNo": "195-2175",
+      "desc": "WASHER - 5/16” x 1-1/4” OD, zinc"
+    },
+    {
+      "ref": 11,
+      "x": 23.2,
+      "y": 54.3,
+      "partNo": "113-122",
+      "desc": "BOLT - 5/16” x 1-1/2”"
+    },
+    {
+      "ref": 12,
+      "x": 3.0,
+      "y": 32.2,
+      "partNo": "C31006",
+      "desc": "SPRING - seat switch"
+    },
+    {
+      "ref": 13,
+      "x": 62.8,
+      "y": 28.8,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16” x 1/2” flangelock"
+    },
+    {
+      "ref": 13,
+      "x": 56.7,
+      "y": 76.8,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16” x 1/2” flangelock"
+    },
+    {
+      "ref": 13,
+      "x": 48.0,
+      "y": 44.0,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16” x 1/2” flangelock"
+    },
+    {
+      "ref": 14,
+      "x": 43.7,
+      "y": 32.7,
+      "partNo": "C31005",
+      "desc": "HINGE ASSEMBLY - seat"
+    },
+    {
+      "ref": 15,
+      "x": 4.9,
+      "y": 45.3,
+      "partNo": "C26526",
+      "desc": "CAP - spring"
+    },
+    {
+      "ref": 16,
+      "x": 34.9,
+      "y": 98.0,
+      "partNo": "C14728",
+      "desc": "GRIP - shift lever"
+    },
+    {
+      "ref": 17,
+      "x": 68.3,
+      "y": 84.3,
+      "partNo": "C27594",
+      "desc": "LEVER - shift"
+    },
+    {
+      "ref": 18,
+      "x": 62.1,
+      "y": 81.7,
+      "partNo": "195-525",
+      "desc": "WASHER - 7/16” x 1-1/4” O.D"
+    },
+    {
+      "ref": 19,
+      "x": 74.9,
+      "y": 87.1,
+      "partNo": "C17216",
+      "desc": "SPRING – shift lever"
+    },
+    {
+      "ref": 20,
+      "x": 79.7,
+      "y": 89.2,
+      "partNo": "C30489",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 21,
+      "x": 83.2,
+      "y": 91.9,
+      "partNo": "131-1216",
+      "desc": "NUT – lock 3/8” N.C. hex"
+    },
+    {
+      "ref": 22,
+      "x": 12.5,
+      "y": 55.0,
+      "partNo": "C29305",
+      "desc": "CAP - spring"
+    },
+    {
+      "ref": 23,
+      "x": 12.5,
+      "y": 45.2,
+      "partNo": "C29306",
+      "desc": "SPRING - seat"
+    },
+    {
+      "ref": 24,
+      "x": 13.5,
+      "y": 51.6,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16” – 18 x 3/4”"
+    },
+    {
+      "ref": 24,
+      "x": 3.5,
+      "y": 38.3,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16” – 18 x 3/4”"
+    },
+    {
+      "ref": 25,
+      "x": 13.4,
+      "y": 35.4,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16” – 18 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 75.0,
+      "y": 42.9,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16” – 18 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 3.2,
+      "y": 27.2,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16” – 18 flange lock"
+    },
+    {
+      "ref": 26,
+      "x": 83.7,
+      "y": 14.3,
+      "partNo": "C30942",
+      "desc": "REFLECTOR - red, rear fender"
+    },
+    {
+      "ref": 27,
+      "x": 89.4,
+      "y": 21.1,
+      "variants": [
+        {
+          "serialNote": "RH. (3010, 3012, 3014)",
+          "partNo": "C32386",
+          "desc": "FENDER"
+        },
+        {
+          "serialNote": "L.H. shown (3010, 3012, 3014)",
+          "partNo": "C32385",
+          "desc": "FENDER"
+        },
+        {
+          "serialNote": "R.H. (4014)",
+          "partNo": "C32388",
+          "desc": "FENDER"
+        },
+        {
+          "serialNote": "L.H. (4014)",
+          "partNo": "C32387",
+          "desc": "FENDER"
+        }
+      ]
+    },
+    {
+      "ref": 28,
+      "x": 96.3,
+      "y": 47.0,
+      "partNo": "182-547",
+      "desc": "SCREW - 1/4” -20 x 1/2"
+    },
+    {
+      "ref": 29,
+      "x": 84.3,
+      "y": 45.0,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4”"
+    }
+  ],
+  "footnotes": ""
+}

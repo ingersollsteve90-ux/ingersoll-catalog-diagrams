@@ -1,0 +1,194 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor",
+  "breadcrumb": "Hydraulic Drive Motor",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/30_hydraulic_drive_motor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 72.65,
+      "y": 91.86,
+      "variants": [
+        {
+          "serialNote": "3/8”-24 x 4-1/4” (3010,3012,3014)",
+          "partNo": "28-668",
+          "desc": "BOLT"
+        },
+        {
+          "serialNote": "3/8” -24 x 4-5/8” (4014)",
+          "partNo": "C31327",
+          "desc": "BOLT"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 67.95,
+      "y": 89.84,
+      "partNo": "C31309",
+      "desc": "COVER - end"
+    },
+    {
+      "ref": 3,
+      "x": 62.65,
+      "y": 63.23,
+      "partNo": "C31310",
+      "desc": "COMMUTATOR AND RING SET"
+    },
+    {
+      "ref": 4,
+      "x": 48.24,
+      "y": 73.45,
+      "partNo": "C31311",
+      "desc": "MANIFOLD"
+    },
+    {
+      "ref": 5,
+      "x": 44.53,
+      "y": 47.65,
+      "variants": [
+        {
+          "serialNote": "(3010,3012,3014)",
+          "partNo": "C31312",
+          "desc": "ROTOR ASSEMBLY"
+        },
+        {
+          "serialNote": "(4014)",
+          "partNo": "C31313",
+          "desc": "ROTOR ASSEMBLY"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 27.42,
+      "y": 54.63,
+      "partNo": "C31314",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": 7,
+      "x": 94.87,
+      "y": 47.14,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C31315",
+          "desc": "LINK - drive (3010, 3012, 3014)"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C31316",
+          "desc": "LINK – drive (4014)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 84.26,
+      "y": 38.04,
+      "partNo": "C31317",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 9,
+      "x": 77.86,
+      "y": 33.59,
+      "partNo": "C31318",
+      "desc": "SHAFT - coupling"
+    },
+    {
+      "ref": 10,
+      "x": 68.05,
+      "y": 25.7,
+      "partNo": "C31319",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 11,
+      "x": 62.55,
+      "y": 39.96,
+      "partNo": "C31320",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 12,
+      "x": 55.74,
+      "y": 8.6,
+      "partNo": "C31321",
+      "desc": "HOUSING - drive end"
+    },
+    {
+      "ref": 13,
+      "x": 47.63,
+      "y": 7.18,
+      "partNo": "C31322",
+      "desc": "BEARING - outer"
+    },
+    {
+      "ref": 14,
+      "x": 58.24,
+      "y": 77.7,
+      "partNo": "NSS",
+      "desc": "SEAL - commutator ring"
+    },
+    {
+      "ref": 15,
+      "x": 63.75,
+      "y": 85.69,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 90.77,
+      "y": 39.56,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 52.34,
+      "y": 76.48,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 44.33,
+      "y": 68.49,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 33.72,
+      "y": 61.21,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 16,
+      "x": 63.75,
+      "y": 21.65,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 17,
+      "x": 59.54,
+      "y": 17.91,
+      "partNo": "NSS",
+      "desc": "WASHER - backup"
+    },
+    {
+      "ref": 18,
+      "x": 43.33,
+      "y": 3.95,
+      "partNo": "NSS",
+      "desc": "SEAL - dirt (not used) ...........................................................................................1 DRAWBAR AND TOW HITCH"
+    }
+  ],
+  "footnotes": ""
+}

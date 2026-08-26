@@ -1,0 +1,174 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor",
+  "breadcrumb": "Hydraulic Drive Motor",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/hydraulic_drive_motor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 68.74,
+      "y": 95.8,
+      "partNo": "28-668",
+      "desc": "BOLT - 3/8\" - 24 x 4-1/4\""
+    },
+    {
+      "ref": 2,
+      "x": 62.58,
+      "y": 92.8,
+      "partNo": "C31309",
+      "desc": "COVER - end"
+    },
+    {
+      "ref": 3,
+      "x": 56.04,
+      "y": 65.5,
+      "partNo": "C31310",
+      "desc": "COMMUTATOR AND RING SET"
+    },
+    {
+      "ref": 4,
+      "x": 38.75,
+      "y": 77.0,
+      "partNo": "C31311",
+      "desc": "MANIFOLD"
+    },
+    {
+      "ref": 5,
+      "x": 33.43,
+      "y": 51.1,
+      "partNo": "C31312",
+      "desc": "ROTOR ASSEMBLY"
+    },
+    {
+      "ref": 6,
+      "x": 12.15,
+      "y": 58.6,
+      "partNo": "C31314",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": 7,
+      "x": 95.47,
+      "y": 51.2,
+      "partNo": "C31315",
+      "desc": "LINK - drive"
+    },
+    {
+      "ref": 8,
+      "x": 82.89,
+      "y": 41.8,
+      "partNo": "C31317",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 9,
+      "x": 75.15,
+      "y": 36.5,
+      "partNo": "C31318",
+      "desc": "SHAFT - coupling"
+    },
+    {
+      "ref": 10,
+      "x": 63.18,
+      "y": 28.4,
+      "partNo": "C31319",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 11,
+      "x": 55.56,
+      "y": 42.8,
+      "partNo": "C31320",
+      "desc": "BEARING -thrust"
+    },
+    {
+      "ref": 12,
+      "x": 46.73,
+      "y": 11.4,
+      "partNo": "C31321",
+      "desc": "HOUSING - drive end"
+    },
+    {
+      "ref": 13,
+      "x": 37.91,
+      "y": 10.2,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C31322",
+          "desc": "BEARING - outer"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C31323",
+          "desc": "KIT - seal"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 50.36,
+      "y": 81.8,
+      "partNo": "NSS",
+      "desc": "SEAL - commutator ring"
+    },
+    {
+      "ref": 15,
+      "x": 43.47,
+      "y": 79.7,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 57.86,
+      "y": 89.5,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 20.01,
+      "y": 64.6,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 33.43,
+      "y": 72.5,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 90.75,
+      "y": 43.0,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 16,
+      "x": 57.38,
+      "y": 24.7,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 17,
+      "x": 51.21,
+      "y": 21.1,
+      "partNo": "NSS",
+      "desc": "WASHER - backup"
+    },
+    {
+      "ref": 18,
+      "x": 31.5,
+      "y": 7.2,
+      "partNo": "NSS",
+      "desc": "SEAL - dirt (not used)"
+    }
+  ],
+  "footnotes": ""
+}

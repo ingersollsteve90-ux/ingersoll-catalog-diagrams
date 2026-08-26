@@ -1,0 +1,340 @@
+{
+  "sectionTitle": "Hydraulic System",
+  "breadcrumb": "Hydraulic System",
+  "catalogLabel": "Catalog 8-3031",
+  "modelNumbers": "Catalog 8-3031 (Kohler) — Models 3010, 3012, 3014, 4014",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3031/28_hydraulic_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 30.2,
+      "y": 37.9,
+      "partNo": "NSS",
+      "desc": "VALVE - control (repairs page 45) (use C33473, 218-51 54)"
+    },
+    {
+      "ref": 2,
+      "x": 30.8,
+      "y": 47.6,
+      "partNo": "218-5065",
+      "desc": "FITTING - 3/4” x 7/8 “0” ring"
+    },
+    {
+      "ref": 3,
+      "x": 26.0,
+      "y": 51.8,
+      "partNo": "218-5007",
+      "desc": "“0” RING"
+    },
+    {
+      "ref": 4,
+      "x": 26.3,
+      "y": 63.1,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90°elbow"
+    },
+    {
+      "ref": 4,
+      "x": 10.4,
+      "y": 63.2,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90°elbow"
+    },
+    {
+      "ref": 5,
+      "x": 25.4,
+      "y": 60.1,
+      "partNo": "218-5007",
+      "desc": "“0” RING"
+    },
+    {
+      "ref": 6,
+      "x": 39.2,
+      "y": 42.2,
+      "partNo": "218-5062",
+      "desc": "FITTING - 5/8” x 7/8 ”O”ring"
+    },
+    {
+      "ref": 6,
+      "x": 33.9,
+      "y": 11.2,
+      "partNo": "218-5062",
+      "desc": "FITTING - 5/8” x 7/8 ”O”ring"
+    },
+    {
+      "ref": 6,
+      "x": 26.5,
+      "y": 18.4,
+      "partNo": "218-5062",
+      "desc": "FITTING - 5/8” x 7/8 ”O”ring"
+    },
+    {
+      "ref": 7,
+      "x": 34.9,
+      "y": 40.2,
+      "partNo": "218-5007",
+      "desc": "“0” RING"
+    },
+    {
+      "ref": 7,
+      "x": 23.1,
+      "y": 15.9,
+      "partNo": "218-5007",
+      "desc": "“0” RING"
+    },
+    {
+      "ref": 8,
+      "x": 43.9,
+      "y": 45.7,
+      "partNo": "218-5232",
+      "desc": "FITTING 90°elbow"
+    },
+    {
+      "ref": 9,
+      "x": 16.9,
+      "y": 32.2,
+      "partNo": "C27764",
+      "desc": "SCREW - 5/16”-18 x 1-1/4”roundhead"
+    },
+    {
+      "ref": 10,
+      "x": 28.1,
+      "y": 32.9,
+      "partNo": "131-351",
+      "desc": "NUT - lock5/16”"
+    },
+    {
+      "ref": 11,
+      "x": 4.4,
+      "y": 57.6,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C29655",
+          "desc": "TUBE – valve to upper motor port (3010, 3012, 3014)"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C29657",
+          "desc": "TUBE - valve to upper motor port (4014) (shown)"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 13.6,
+      "y": 51.3,
+      "variants": [
+        {
+          "serialNote": "(3010, 3012, 3014)",
+          "partNo": "C29656",
+          "desc": "TUBE - valve to lower motor port"
+        },
+        {
+          "serialNote": "(4014)",
+          "partNo": "C29658",
+          "desc": "TUBE - valve to lower motor port"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 80.0,
+      "y": 87.2,
+      "partNo": "C31435 *",
+      "desc": "TUBE - valve “out” to heat exchanger"
+    },
+    {
+      "ref": 14,
+      "x": 9.7,
+      "y": 6.4,
+      "variants": [
+        {
+          "serialNote": "(3010, 3012, 3014) (repairs page 47)",
+          "partNo": "C30939",
+          "desc": "MOTOR - hydraulic"
+        },
+        {
+          "serialNote": "(4014) (repairs page 47)",
+          "partNo": "C33234",
+          "desc": "MOTOR - hydraulic"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 3.6,
+      "y": 10.9,
+      "partNo": "C28949",
+      "desc": "SEAL - motor to transmission"
+    },
+    {
+      "ref": 16,
+      "x": 15.7,
+      "y": 1.9,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "NSS",
+          "desc": "SCREW - 1/2” - 18 x 1” 12 Pt. flange (use 166-86 and 192-23)"
+        },
+        {
+          "serialNote": null,
+          "partNo": "166-86",
+          "desc": "BOLT - 1/2” - 18 x 1-1/4” 12 pt. flange (use 80 ft. lb. of torque)"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 79.5,
+      "y": 48.1,
+      "partNo": "C31958",
+      "desc": "PUMP - hydraulic 1/2” shaft (repairs page 49)"
+    },
+    {
+      "ref": 18,
+      "x": 76.9,
+      "y": 60.1,
+      "partNo": "C33423",
+      "desc": "HOSE - pump inlet"
+    },
+    {
+      "ref": 19,
+      "x": 83.1,
+      "y": 15.7,
+      "partNo": "C33180",
+      "desc": "RESERVOIR - oil"
+    },
+    {
+      "ref": 20,
+      "x": 66.5,
+      "y": 7.5,
+      "partNo": "C25237",
+      "desc": "CAP - reservoir"
+    },
+    {
+      "ref": 21,
+      "x": 85.9,
+      "y": 57.6,
+      "variants": [
+        {
+          "serialNote": "(shown) 3014, 4014)",
+          "partNo": "C31295",
+          "desc": "EXCHANGER - heat"
+        },
+        {
+          "serialNote": "(3010,3012)",
+          "partNo": "C31972",
+          "desc": "EXCHANGER - heat"
+        }
+      ]
+    },
+    {
+      "ref": 22,
+      "x": 65.9,
+      "y": 77.8,
+      "partNo": "C31431",
+      "desc": "HOSE - formed 90° 6-3/4” x 6-3/4” (cut to length)"
+    },
+    {
+      "ref": 23,
+      "x": 78.0,
+      "y": 80.7,
+      "partNo": "214-254",
+      "desc": "CLAMP – hose 1-1/4”"
+    },
+    {
+      "ref": 23,
+      "x": 83.5,
+      "y": 74.8,
+      "partNo": "214-254",
+      "desc": "CLAMP – hose 1-1/4”"
+    },
+    {
+      "ref": 23,
+      "x": 76.0,
+      "y": 65.9,
+      "partNo": "214-254",
+      "desc": "CLAMP – hose 1-1/4”"
+    },
+    {
+      "ref": 23,
+      "x": 55.1,
+      "y": 65.9,
+      "partNo": "214-254",
+      "desc": "CLAMP – hose 1-1/4”"
+    },
+    {
+      "ref": 24,
+      "x": 77.8,
+      "y": 55.6,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose 1-3/8”"
+    },
+    {
+      "ref": 24,
+      "x": 64.6,
+      "y": 56.9,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose 1-3/8”"
+    },
+    {
+      "ref": 25,
+      "x": 42.6,
+      "y": 59.2,
+      "partNo": "C31966",
+      "desc": "HOSE - pump to valve"
+    },
+    {
+      "ref": 26,
+      "x": 52.0,
+      "y": 39.0,
+      "partNo": "218-5117",
+      "desc": "FITTING - 90° elbow"
+    },
+    {
+      "ref": 27,
+      "x": 96.0,
+      "y": 54.8,
+      "partNo": "C31973",
+      "desc": "“J” NUT - 1/4”-20"
+    },
+    {
+      "ref": 28,
+      "x": 93.1,
+      "y": 59.3,
+      "partNo": "C31974",
+      "desc": "“U” Clip - retainer"
+    },
+    {
+      "ref": 29,
+      "x": 91.0,
+      "y": 92.0,
+      "partNo": "NSS**",
+      "desc": "HOSE - hydraulic (use C29697 cut to length)"
+    },
+    {
+      "ref": 30,
+      "x": 87.3,
+      "y": 98.2,
+      "partNo": "218-754",
+      "desc": "NUT - cap, hydraulic"
+    },
+    {
+      "ref": 31,
+      "x": 70.8,
+      "y": 92.1,
+      "partNo": "C33115 **",
+      "desc": "TUBE - valve “out” to heat exchanger"
+    },
+    {
+      "ref": 32,
+      "x": 13.8,
+      "y": 4.7,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2” ..............................................................................................4 * early production ** late production"
+    }
+  ],
+  "footnotes": "* Ref. 13 = early production tube. ** Ref. 31 = late production tube."
+}

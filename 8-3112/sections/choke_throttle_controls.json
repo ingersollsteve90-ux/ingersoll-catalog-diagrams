@@ -1,0 +1,130 @@
+{
+  "sectionTitle": "Choke and Throttle Controls",
+  "breadcrumb": "Choke and Throttle Controls",
+  "catalogLabel": "Catalog 8-3112",
+  "modelNumbers": "Catalog 8-3112 — Models 3012, 3014, 3016, 3018, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3112/choke_throttle_controls.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 35.53,
+      "y": 53.99,
+      "variants": [
+        {
+          "serialNote": "Use before PIN: 3012-14167800,3014-14168800,3016-14169500 [*]",
+          "partNo": "C33468",
+          "desc": "CONTROL - throttle"
+        },
+        {
+          "serialNote": "Flag * * (see Notes below)",
+          "partNo": "C37149",
+          "desc": "CONTROL - throttle"
+        },
+        {
+          "serialNote": "Use After PIN: 3014-14190502,3018-14190546,4016-14190534 [+]",
+          "partNo": "C46393",
+          "desc": "CONTROL - throttle"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 78.82,
+      "y": 54.3,
+      "variants": [
+        {
+          "serialNote": "Use before PIN: 3012-14167800,3014-14168800,3016-14169500 [*]",
+          "partNo": "C33438",
+          "desc": "CONTROL - choke"
+        },
+        {
+          "serialNote": "Flag * * (see Notes below)",
+          "partNo": "C37150",
+          "desc": "CONTROL - choke"
+        },
+        {
+          "serialNote": "Use After PIN: 3014-14190502,3018-14190546,4016-14190534 [+]",
+          "partNo": "C46394",
+          "desc": "CONTROL - choke"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 36.84,
+      "y": 20.29,
+      "partNo": "C30073",
+      "desc": "HANDLE - throttle"
+    },
+    {
+      "ref": 4,
+      "x": 86.23,
+      "y": 14.93,
+      "partNo": "C30074",
+      "desc": "HANDLE - choke"
+    },
+    {
+      "ref": 5,
+      "x": 47.22,
+      "y": 28.43,
+      "partNo": "182-559",
+      "desc": "BOLT - No. 10-24 x 3/4"
+    },
+    {
+      "ref": 6,
+      "x": 13.8,
+      "y": 32.76,
+      "partNo": "C35291",
+      "desc": "KNOB - control"
+    },
+    {
+      "ref": 7,
+      "x": 61.21,
+      "y": 57.19,
+      "partNo": "C34117",
+      "desc": "NUT - No. 10-24 flange lock"
+    },
+    {
+      "ref": 8,
+      "x": 80.8,
+      "y": 85.02,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C31977",
+          "desc": "CLIP - cable"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C27233",
+          "desc": "CLAMP - double"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 68.94,
+      "y": 84.92,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "113-1",
+          "desc": "BOLT - 1/4\" - 20 x 1/2\" (clip to frame)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C37200",
+          "desc": "SCREW - 6 mm (clip to engine)"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 65.65,
+      "y": 70.18,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\"-20"
+    }
+  ],
+  "footnotes": "*Use before PIN: 3012-14167800,3014-14168800,3016-14169500\n**Use PIN and after: 3012-14167801,3014-14168800 to 14190501,3016-14169501,3018-Prior To 14190546,4016-Prior to 14190534\n+Use After PIN: 3014-14190502,3018-14190546,4016-14190534"
+}

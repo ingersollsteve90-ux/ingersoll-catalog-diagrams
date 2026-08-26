@@ -1,0 +1,101 @@
+{
+  "sectionTitle": "PTO Valve",
+  "breadcrumb": "PTO Valve",
+  "catalogLabel": "Catalog 8-3200",
+  "modelNumbers": "Catalog 8-3200 — Models 3118, 4116, 4118, 4120",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3200/28_pto_valve.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 54.73,
+      "y": 34.94,
+      "partNo": "C36910",
+      "desc": "VALVE - PTO"
+    },
+    {
+      "ref": 2,
+      "x": 36.89,
+      "y": 23.71,
+      "partNo": "C26706",
+      "desc": "WIPER - spool"
+    },
+    {
+      "ref": 3,
+      "x": 40.64,
+      "y": 28.89,
+      "partNo": "C26707",
+      "desc": "RING - seal"
+    },
+    {
+      "ref": 3,
+      "x": 59.97,
+      "y": 49.05,
+      "partNo": "C26707",
+      "desc": "RING - seal"
+    },
+    {
+      "ref": 4,
+      "x": 65.09,
+      "y": 52.8,
+      "partNo": "C26722",
+      "desc": "SPACER"
+    },
+    {
+      "ref": 5,
+      "x": 67.96,
+      "y": 56.97,
+      "partNo": "195-526",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 5,
+      "x": 75.19,
+      "y": 64.6,
+      "partNo": "195-526",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 6,
+      "x": 71.2,
+      "y": 61.58,
+      "partNo": "C26724",
+      "desc": "SPRING - return"
+    },
+    {
+      "ref": 7,
+      "x": 79.81,
+      "y": 70.65,
+      "partNo": "C26725",
+      "desc": "BOLT"
+    },
+    {
+      "ref": 8,
+      "x": 87.79,
+      "y": 76.7,
+      "partNo": "C26726",
+      "desc": "CAP - spring"
+    },
+    {
+      "ref": 9,
+      "x": 94.66,
+      "y": 82.46,
+      "partNo": "165-143",
+      "desc": "SCREW - 1/4” - 20 x 3/4"
+    },
+    {
+      "ref": 10,
+      "x": 28.29,
+      "y": 13.63,
+      "partNo": "165-142",
+      "desc": "SCREW - 1/4” - 20 x 5/8"
+    },
+    {
+      "ref": 11,
+      "x": 33.03,
+      "y": 17.66,
+      "partNo": "C26727",
+      "desc": "RETAINER - seal"
+    }
+  ],
+  "footnotes": ""
+}
