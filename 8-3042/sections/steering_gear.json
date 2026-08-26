@@ -1,0 +1,209 @@
+{
+  "sectionTitle": "Steering Gear",
+  "breadcrumb": "Steering Gear",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/steering_gear.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 5.57,
+      "y": 50.14,
+      "partNo": "113- 206",
+      "desc": "BOLT - 3/8'' x 3/4'' N.C. hex"
+    },
+    {
+      "ref": 2,
+      "x": 79.89,
+      "y": 5.61,
+      "partNo": "C 26325",
+      "desc": "WHEEL - steering"
+    },
+    {
+      "ref": 3,
+      "x": 21.9,
+      "y": 57.97,
+      "partNo": "C 29044",
+      "desc": "PIN - pivot"
+    },
+    {
+      "ref": 4,
+      "x": 57.56,
+      "y": 77.55,
+      "partNo": "C 26326",
+      "desc": "SHAFT - steering"
+    },
+    {
+      "ref": 4,
+      "x": 39.9,
+      "y": 35.49,
+      "partNo": "C 26326",
+      "desc": "SHAFT - steering"
+    },
+    {
+      "ref": 5,
+      "x": 21.9,
+      "y": 87.96,
+      "partNo": "C 29812",
+      "desc": "WASHER - 3/8'' x 1.4''"
+    },
+    {
+      "ref": 5,
+      "x": 9.9,
+      "y": 32.35,
+      "partNo": "C 29812",
+      "desc": "WASHER - 3/8'' x 1.4''"
+    },
+    {
+      "ref": 6,
+      "x": 11.24,
+      "y": 26.31,
+      "partNo": "113- 241",
+      "desc": "BOLT - 3/8'' - 16 x 3''"
+    },
+    {
+      "ref": 7,
+      "x": 20.57,
+      "y": 63.79,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 7,
+      "x": 41.23,
+      "y": 84.04,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 8,
+      "x": 22.12,
+      "y": 94.44,
+      "partNo": "131- 1352",
+      "desc": "NUT - 3/8'' - 16 hex lock flange"
+    },
+    {
+      "ref": 9,
+      "x": 46.9,
+      "y": 55.4,
+      "partNo": "C 27501",
+      "desc": "BUSHING"
+    },
+    {
+      "ref": 10,
+      "x": 33.34,
+      "y": 22.06,
+      "partNo": "138- 143",
+      "desc": "PIN - roll 1/4'' x 2-1/4''"
+    },
+    {
+      "ref": 11,
+      "x": 33.57,
+      "y": 17.36,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "195- 541",
+          "desc": "WASHER - 5/8''"
+        },
+        {
+          "serialNote": "",
+          "partNo": "195- 2206",
+          "desc": "WASHER - 5/8'' x 1-1/4'' x .06"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 19.24,
+      "y": 75.54,
+      "partNo": "C 33309",
+      "desc": "GEAR - steering"
+    },
+    {
+      "ref": 13,
+      "x": 22.57,
+      "y": 70.95,
+      "partNo": "C 33308",
+      "desc": "BUSHING - sleeve"
+    },
+    {
+      "ref": 13,
+      "x": 21.9,
+      "y": 83.03,
+      "partNo": "C 33308",
+      "desc": "BUSHING - sleeve"
+    },
+    {
+      "ref": 14,
+      "x": 10.9,
+      "y": 48.35,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8''"
+    },
+    {
+      "ref": 15,
+      "x": 51.45,
+      "y": 60.66,
+      "partNo": "195- 2069",
+      "desc": "WASHER - 5/8'' zinc plated"
+    },
+    {
+      "ref": 16,
+      "x": 17.12,
+      "y": 19.49,
+      "partNo": "C 15096",
+      "desc": "BUSHING - flanged nylon"
+    },
+    {
+      "ref": 17,
+      "x": 51.12,
+      "y": 41.3,
+      "partNo": "C 30019",
+      "desc": "SUPPORT - steering gear (includes item 9)"
+    },
+    {
+      "ref": 18,
+      "x": 89.34,
+      "y": 33.58,
+      "partNo": "C 30127",
+      "desc": "TUBE - steering"
+    },
+    {
+      "ref": 19,
+      "x": 62.89,
+      "y": 60.55,
+      "partNo": "C 37131",
+      "desc": "WHEEL - steering"
+    },
+    {
+      "ref": 20,
+      "x": 80.34,
+      "y": 62.34,
+      "partNo": "C 42849",
+      "desc": "CAP - steering wheel"
+    },
+    {
+      "ref": 21,
+      "x": 83.78,
+      "y": 86.28,
+      "partNo": "C 37479",
+      "desc": "TUBE - steering"
+    },
+    {
+      "ref": 22,
+      "x": 78.11,
+      "y": 79.68,
+      "partNo": "C 39504",
+      "desc": "BOOT - steering column"
+    },
+    {
+      "ref": 23,
+      "x": 75.56,
+      "y": 74.42,
+      "partNo": "C 39507",
+      "desc": "INSERT - boot"
+    }
+  ],
+  "footnotes": "*Use on 3016,3018,3020,4016,4018-ALL, 4020-before PIN 14176500; **Use on 4020-PIN 14176500 and after. Both wheel/tube variants appear together on one diagram. User-added annotation on this page: Steering Shaft (ref 4) early version C26326 23-7/8\" long, later version C33940 25-3/8\" long."
+}

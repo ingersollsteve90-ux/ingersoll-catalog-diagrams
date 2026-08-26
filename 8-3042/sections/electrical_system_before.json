@@ -1,0 +1,307 @@
+{
+  "sectionTitle": "Electrical System (3016,3018,3020,4016,4018-All; 4020-before PIN 14176500)",
+  "breadcrumb": "Electrical System (3016,3018,3020,4016,4018-All; 4020-before PIN 14176500)",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/electrical_system_before.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 81.47,
+      "y": 61.16,
+      "partNo": "C 31986",
+      "desc": "KIT - diode, 6 amps, 15 volt"
+    },
+    {
+      "ref": 2,
+      "x": 26.97,
+      "y": 40.53,
+      "partNo": "C 31947",
+      "desc": "KIT - fuse holder"
+    },
+    {
+      "ref": 3,
+      "x": 30.87,
+      "y": 42.39,
+      "partNo": "C 30260",
+      "desc": "FUSE - 30 amp"
+    },
+    {
+      "ref": 4,
+      "x": 36.19,
+      "y": 76.08,
+      "partNo": "C 25338",
+      "desc": "CONNECTOR - seat harness, male"
+    },
+    {
+      "ref": 5,
+      "x": 10.3,
+      "y": 42.39,
+      "partNo": "C 24460",
+      "desc": "CONNECTOR - ignition switch"
+    },
+    {
+      "ref": 6,
+      "x": 42.22,
+      "y": 9.25,
+      "partNo": "C 30262",
+      "desc": "BULB - indicator lights (not included with harness)"
+    },
+    {
+      "ref": 6,
+      "x": 55.1,
+      "y": 5.52,
+      "partNo": "C 30262",
+      "desc": "BULB - indicator lights (not included with harness)"
+    },
+    {
+      "ref": 7,
+      "x": 56.52,
+      "y": 9.14,
+      "partNo": "C 30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 7,
+      "x": 41.16,
+      "y": 16.06,
+      "partNo": "C 30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 8,
+      "x": 87.73,
+      "y": 65.22,
+      "partNo": "C 31948",
+      "desc": "CONNECTOR - PTO"
+    },
+    {
+      "ref": 9,
+      "x": 47.3,
+      "y": 80.69,
+      "partNo": "C 30279",
+      "desc": "CONNECTOR - switch"
+    },
+    {
+      "ref": 9,
+      "x": 75.67,
+      "y": 12.43,
+      "partNo": "C 30279",
+      "desc": "CONNECTOR - switch"
+    },
+    {
+      "ref": 9,
+      "x": 35.84,
+      "y": 61.05,
+      "partNo": "C 30279",
+      "desc": "CONNECTOR - switch"
+    },
+    {
+      "ref": 10,
+      "x": 14.91,
+      "y": 38.88,
+      "partNo": "C 25486",
+      "desc": "CONNECTOR - sensor"
+    },
+    {
+      "ref": 11,
+      "x": 55.46,
+      "y": 62.69,
+      "partNo": "C 31952",
+      "desc": "CONNECTOR - PTO switch, 2 terminal"
+    },
+    {
+      "ref": 12,
+      "x": 64.09,
+      "y": 64.23,
+      "partNo": "C 31950",
+      "desc": "CONNECTOR - PTO switch, 3 terminal"
+    },
+    {
+      "ref": 13,
+      "x": 40.45,
+      "y": 77.73,
+      "partNo": "C 24813",
+      "desc": "CONNECTOR - seat harness, female"
+    },
+    {
+      "ref": 14,
+      "x": 94.11,
+      "y": 22.86,
+      "partNo": "C 31943",
+      "desc": "CABLE - battery negative to ground"
+    },
+    {
+      "ref": 15,
+      "x": 43.76,
+      "y": 78.71,
+      "partNo": "C 31044",
+      "desc": "HARNESS - wire, seat switch (includes Ref. 9 and 13)"
+    },
+    {
+      "ref": 16,
+      "x": 39.86,
+      "y": 89.14,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - headlights"
+    },
+    {
+      "ref": 17,
+      "x": 32.76,
+      "y": 29.44,
+      "partNo": "C 31617",
+      "desc": "SENSOR - voltage (includes connector)"
+    },
+    {
+      "ref": 18,
+      "x": 76.86,
+      "y": 82.33,
+      "partNo": "C 32178",
+      "desc": "HEADLIGHT - 12 volt (see page 63 for service)"
+    },
+    {
+      "ref": 18,
+      "x": 38.32,
+      "y": 94.51,
+      "partNo": "C 32178",
+      "desc": "HEADLIGHT - 12 volt (see page 63 for service)"
+    },
+    {
+      "ref": 19,
+      "x": 30.52,
+      "y": 85.74,
+      "partNo": "C 29322",
+      "desc": "SWITCH - headlight"
+    },
+    {
+      "ref": 20,
+      "x": 45.53,
+      "y": 63.35,
+      "partNo": "C 31619",
+      "desc": "CAP - PTO switch"
+    },
+    {
+      "ref": 21,
+      "x": 48.37,
+      "y": 61.05,
+      "partNo": "C 31937",
+      "desc": "SWITCH - PTO"
+    },
+    {
+      "ref": 22,
+      "x": 5.93,
+      "y": 39.76,
+      "partNo": "C 30530",
+      "desc": "SWITCH - ignition (includes key and mounting hardware)"
+    },
+    {
+      "ref": 23,
+      "x": 24.49,
+      "y": 11.78,
+      "partNo": "C 31623",
+      "desc": "HOURMETER"
+    },
+    {
+      "ref": 24,
+      "x": 87.61,
+      "y": 42.39,
+      "partNo": "C 31213",
+      "desc": "BATTERY - 12 volt, 32 amp, 230 CCA"
+    },
+    {
+      "ref": 25,
+      "x": 83.0,
+      "y": 15.29,
+      "partNo": "C 30275",
+      "desc": "SWITCH - inter - lock"
+    },
+    {
+      "ref": 25,
+      "x": 40.57,
+      "y": 62.58,
+      "partNo": "C 30275",
+      "desc": "SWITCH - inter - lock"
+    },
+    {
+      "ref": 25,
+      "x": 55.34,
+      "y": 82.99,
+      "partNo": "C 30275",
+      "desc": "SWITCH - inter - lock"
+    },
+    {
+      "ref": 26,
+      "x": 87.26,
+      "y": 78.38,
+      "partNo": "NSS",
+      "desc": "CLUTCH - PTO (see page 25 for repairs)"
+    },
+    {
+      "ref": 27,
+      "x": 31.82,
+      "y": 37.01,
+      "partNo": "C 32312",
+      "desc": "STARTER AND SOLENOID - (see page 57 for repairs)"
+    },
+    {
+      "ref": 28,
+      "x": 12.43,
+      "y": 58.08,
+      "partNo": "C 24956",
+      "desc": "STATOR - charging"
+    },
+    {
+      "ref": 29,
+      "x": 26.5,
+      "y": 75.97,
+      "partNo": "C 32461",
+      "desc": "RECTIFIER - voltage, 12 volt"
+    },
+    {
+      "ref": 30,
+      "x": 59.83,
+      "y": 40.64,
+      "partNo": "C 32454",
+      "desc": "SPARK PLUG - includes gasket"
+    },
+    {
+      "ref": 31,
+      "x": 74.49,
+      "y": 58.96,
+      "partNo": "C 32296",
+      "desc": "COIL - ignition 12 volt"
+    },
+    {
+      "ref": 32,
+      "x": 76.15,
+      "y": 43.93,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 32298",
+          "desc": "CABLE - spark plug 9\""
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 32299",
+          "desc": "CABLE - spark plug 18-1/2\""
+        }
+      ]
+    },
+    {
+      "ref": 33,
+      "x": 59.48,
+      "y": 53.04,
+      "partNo": "C 32307",
+      "desc": "CONDENSER"
+    },
+    {
+      "ref": 34,
+      "x": 88.44,
+      "y": 53.04,
+      "partNo": "C 32294",
+      "desc": "CONTROL - ignition"
+    }
+  ],
+  "footnotes": "3016,3018,3020,4016,4018-ALL; 4020-before PIN 14176500."
+}

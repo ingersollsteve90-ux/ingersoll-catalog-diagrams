@@ -1,0 +1,347 @@
+{
+  "sectionTitle": "Piston, Crankshaft, Flywheel and Camshaft",
+  "breadcrumb": "Piston, Crankshaft, Flywheel and Camshaft",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/piston_crankshaft_flywheel_camshaft.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 90.43,
+      "y": 92.38,
+      "variants": [
+        {
+          "serialNote": "includes pin and retaining ring",
+          "partNo": "C 24931",
+          "desc": "PISTON - standard"
+        },
+        {
+          "serialNote": "includes pin and retaining ring",
+          "partNo": "C 24932",
+          "desc": "PISTON - .005 (0.13 mm) oversize"
+        },
+        {
+          "serialNote": "includes pin and retaining ring",
+          "partNo": "C 24933",
+          "desc": "PISTON - .010 (0.25 mm) oversize"
+        },
+        {
+          "serialNote": "includes pin and retaining ring",
+          "partNo": "C 24934",
+          "desc": "PISTON - .020 (0.51 mm) oversize"
+        },
+        {
+          "serialNote": "includes pin and retaining ring",
+          "partNo": "C 24935",
+          "desc": "PISTON - .030 (0.76 mm) oversize"
+        },
+        {
+          "serialNote": "includes pin and retaining ring",
+          "partNo": "C 24936",
+          "desc": "PISTON - .040 (1.02 mm) oversize"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 81.5,
+      "y": 81.83,
+      "partNo": "C 29972",
+      "desc": "PIN - piston"
+    },
+    {
+      "ref": 3,
+      "x": 81.95,
+      "y": 92.38,
+      "partNo": "C 20241",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 4,
+      "x": 59.25,
+      "y": 79.84,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "C 29739",
+          "desc": "RING SET - piston"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 24938",
+          "desc": "RING SET - piston .005'' (0.13 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 24939",
+          "desc": "RING SET - piston .010'' (0.25 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 24940",
+          "desc": "RING SET - piston .020'' (0.51 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 24941",
+          "desc": "RING SET - piston .030'' (0.76 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 24942",
+          "desc": "RING SET - piston .040'' (1.02 mm) oversize"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 80.15,
+      "y": 69.44,
+      "variants": [
+        {
+          "serialNote": "3016, 4016",
+          "partNo": "C 29750",
+          "desc": "CONNECTING ROD - (standard) includes nut and bolt"
+        },
+        {
+          "serialNote": "3016, 4016",
+          "partNo": "C 29751",
+          "desc": "CONNECTING ROD - .010'' (0.25 mm) undersize, includes nut & bolt"
+        },
+        {
+          "serialNote": "3016, 4016",
+          "partNo": "C 20204",
+          "desc": "CONNECTING ROD - .020'' (0.51 mm) undersize, includes nut & bolt"
+        },
+        {
+          "serialNote": "3016, 4016",
+          "partNo": "C 20205",
+          "desc": "CONNECTING ROD - .030'' (.076 mm) undersize, includes nut & bolt"
+        },
+        {
+          "serialNote": "3018, 3020, 4018, 4020",
+          "partNo": "C 25383",
+          "desc": "CONNECTING ROD - (standard) includes nut & bolt"
+        },
+        {
+          "serialNote": "3018, 3020, 4018, 4020",
+          "partNo": "C 25384",
+          "desc": "CONNECTING ROD - .010'' (0.25 mm) undersize, includes nut & bolt"
+        },
+        {
+          "serialNote": "3018, 3020, 4018, 4020",
+          "partNo": "C 25385",
+          "desc": "CONNECTING ROD - .020'' (0.51 mm) undersize, includes nut & bolt"
+        },
+        {
+          "serialNote": "3018, 3020, 4018, 4020",
+          "partNo": "C 25386",
+          "desc": "CONNECTING ROD - .030'' (0.76 mm) undersize, includes nut & bolt"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 86.59,
+      "y": 70.82,
+      "partNo": "C 25774",
+      "desc": "BOLT - connecting rod 5/16'' special N.F."
+    },
+    {
+      "ref": 7,
+      "x": 76.53,
+      "y": 67.91,
+      "partNo": "C 25775",
+      "desc": "NUT - lock, connecting rod 5/16'' N.F."
+    },
+    {
+      "ref": 8,
+      "x": 15.54,
+      "y": 32.44,
+      "partNo": "C 20223",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 9,
+      "x": 18.7,
+      "y": 31.52,
+      "partNo": "C 24325",
+      "desc": "HUB - governor cup"
+    },
+    {
+      "ref": 10,
+      "x": 21.64,
+      "y": 24.49,
+      "partNo": "C 24326",
+      "desc": "CUP - governor"
+    },
+    {
+      "ref": 11,
+      "x": 25.93,
+      "y": 22.04,
+      "partNo": "211- 216",
+      "desc": "BALL - governor"
+    },
+    {
+      "ref": 12,
+      "x": 48.97,
+      "y": 7.66,
+      "partNo": "126- 9",
+      "desc": "KEY - woodruff 1/8'' x 1/2''"
+    },
+    {
+      "ref": 13,
+      "x": 54.06,
+      "y": 21.58,
+      "variants": [
+        {
+          "serialNote": "3016, 3018, 4016, 4018",
+          "partNo": "C 32468",
+          "desc": "CAMSHAFT - (includes pin)"
+        },
+        {
+          "serialNote": "3020, 4020",
+          "partNo": "C 32469",
+          "desc": "CAMSHAFT - (includes pin)"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 32.48,
+      "y": 13.63,
+      "partNo": "C 22261",
+      "desc": "GEAR ASSEMBLY - camshaft"
+    },
+    {
+      "ref": 15,
+      "x": 45.13,
+      "y": 12.86,
+      "partNo": "C 20229",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 16,
+      "x": 49.99,
+      "y": 21.89,
+      "partNo": "C 20233",
+      "desc": "PIN - center"
+    },
+    {
+      "ref": 17,
+      "x": 84.78,
+      "y": 45.44,
+      "variants": [
+        {
+          "serialNote": "3016, 4016",
+          "partNo": "C 32284",
+          "desc": "CRANKSHAFT - engine"
+        },
+        {
+          "serialNote": "3018, 3020, 4018, 4020",
+          "partNo": "C 32285",
+          "desc": "CRANKSHAFT - engine"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 75.74,
+      "y": 49.41,
+      "partNo": "126- 9",
+      "desc": "KEY - woodruff, crankshaft gear"
+    },
+    {
+      "ref": 19,
+      "x": 49.31,
+      "y": 43.29,
+      "partNo": "C 20218",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 20,
+      "x": 52.25,
+      "y": 41.77,
+      "partNo": "C 20219",
+      "desc": "WASHER - special"
+    },
+    {
+      "ref": 21,
+      "x": 57.11,
+      "y": 40.69,
+      "partNo": "C 22262",
+      "desc": "GEAR - crankshaft"
+    },
+    {
+      "ref": 22,
+      "x": 94.38,
+      "y": 40.85,
+      "partNo": "C 31976",
+      "desc": "KEY - square, clutch"
+    },
+    {
+      "ref": 23,
+      "x": 23.22,
+      "y": 54.15,
+      "partNo": "C 32286",
+      "desc": "FLYWHEEL - engine"
+    },
+    {
+      "ref": 24,
+      "x": 28.98,
+      "y": 50.48,
+      "partNo": "C 20226",
+      "desc": "GEAR - ring, flywheel"
+    },
+    {
+      "ref": 25,
+      "x": 5.71,
+      "y": 74.95,
+      "partNo": "C 32473",
+      "desc": "BOLT - flywheel"
+    },
+    {
+      "ref": 26,
+      "x": 8.76,
+      "y": 73.11,
+      "partNo": "C 32463",
+      "desc": "WASHER - special"
+    },
+    {
+      "ref": 27,
+      "x": 10.91,
+      "y": 70.36,
+      "partNo": "C 20303",
+      "desc": "WASHER - special"
+    },
+    {
+      "ref": 28,
+      "x": 13.62,
+      "y": 85.65,
+      "partNo": "C 32464",
+      "desc": "SCREW - #10-24 x 3/8'' flange lock"
+    },
+    {
+      "ref": 29,
+      "x": 10.8,
+      "y": 62.1,
+      "partNo": "C 32287",
+      "desc": "SCREEN - flywheel"
+    },
+    {
+      "ref": 30,
+      "x": 63.77,
+      "y": 40.08,
+      "partNo": "C 32288",
+      "desc": "KEY - 3/16'' x 2'' special, flywheel"
+    },
+    {
+      "ref": 31,
+      "x": 43.33,
+      "y": 44.06,
+      "partNo": "C 24956",
+      "desc": "STATOR - charging"
+    }
+  ],
+  "footnotes": ""
+}

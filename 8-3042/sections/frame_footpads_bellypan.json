@@ -1,0 +1,279 @@
+{
+  "sectionTitle": "Frame, Foot Pads and Belly Pan",
+  "breadcrumb": "Frame, Foot Pads and Belly Pan",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/frame_footpads_bellypan.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 85.21,
+      "y": 47.83,
+      "variants": [
+        {
+          "serialNote": "3016, 3018, 3020",
+          "partNo": "C 31625",
+          "desc": "FRAME - main"
+        },
+        {
+          "serialNote": "4016, 4018, 4020 before PIN 14176500",
+          "partNo": "C 31627",
+          "desc": "FRAME - main"
+        },
+        {
+          "serialNote": "4020 PIN 14176500 and after",
+          "partNo": "C 43222",
+          "desc": "FRAME - main"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 77.97,
+      "y": 28.57,
+      "partNo": "C 31610",
+      "desc": "SHIELD - oil tank"
+    },
+    {
+      "ref": 3,
+      "x": 57.73,
+      "y": 65.73,
+      "partNo": "C 24137",
+      "desc": "SPRING - latch"
+    },
+    {
+      "ref": 4,
+      "x": 89.96,
+      "y": 50.02,
+      "partNo": "C 22023",
+      "desc": "HINGE - frame"
+    },
+    {
+      "ref": 5,
+      "x": 53.21,
+      "y": 60.54,
+      "partNo": "131-1318",
+      "desc": "NUT - lock 1/2'' N.F."
+    },
+    {
+      "ref": 6,
+      "x": 57.96,
+      "y": 57.81,
+      "partNo": "C 27508",
+      "desc": "PIN - attachment"
+    },
+    {
+      "ref": 7,
+      "x": 79.67,
+      "y": 43.46,
+      "partNo": "131-1352",
+      "desc": "NUT - lock 3/8'' N.C. flange"
+    },
+    {
+      "ref": 8,
+      "x": 81.37,
+      "y": 45.78,
+      "partNo": "195- 525",
+      "desc": "WASHER - 3/8'' x 13/16'' (over engine foot pad) early production"
+    },
+    {
+      "ref": 9,
+      "x": 77.97,
+      "y": 71.74,
+      "partNo": "113- 208",
+      "desc": "BOLT - 3/8'' - 16 x 1-1/4''"
+    },
+    {
+      "ref": 10,
+      "x": 31.95,
+      "y": 62.31,
+      "variants": [
+        {
+          "serialNote": "3016, 3018, 3020",
+          "partNo": "C 30458",
+          "desc": "REST - foot L.H."
+        },
+        {
+          "serialNote": "3016, 3018, 3020",
+          "partNo": "C 30460",
+          "desc": "REST - foot R.H. shown"
+        },
+        {
+          "serialNote": "4016, 4018, 4020 before PIN 14176500",
+          "partNo": "C 30462",
+          "desc": "REST - foot L.H."
+        },
+        {
+          "serialNote": "4016, 4018, 4020 before PIN 14176500",
+          "partNo": "C 30464",
+          "desc": "REST - foot R.H."
+        },
+        {
+          "serialNote": "4020 PIN 14176500 and after",
+          "partNo": "C 37136",
+          "desc": "REST - foot L.H."
+        },
+        {
+          "serialNote": "4020 PIN 14176500 and after",
+          "partNo": "C 37138",
+          "desc": "REST - foot R.H."
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 13.74,
+      "y": 53.3,
+      "partNo": "121- 106",
+      "desc": "BOLT - 5/16'' x 1/2'' N.C. flange lock"
+    },
+    {
+      "ref": 12,
+      "x": 51.96,
+      "y": 6.85,
+      "variants": [
+        {
+          "serialNote": "on 4020 use before PIN 14176500",
+          "partNo": "C 31368",
+          "desc": "CAP - instrument panel"
+        },
+        {
+          "serialNote": "4020 PIN 14176500 and after",
+          "partNo": "C 37167",
+          "desc": "CAP - instrument panel"
+        },
+        {
+          "serialNote": "3016, 3018, 3020, 4016, 4018",
+          "partNo": "C 31368",
+          "desc": "CAP instrument panel"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 13.06,
+      "y": 35.95,
+      "partNo": "C 14730",
+      "desc": "SPACER - rear, frame (3016, 3018, 3020)"
+    },
+    {
+      "ref": 14,
+      "x": 18.27,
+      "y": 21.61,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2''"
+    },
+    {
+      "ref": 15,
+      "x": 18.83,
+      "y": 16.28,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "113- 424",
+          "desc": "BOLT - 1/2'' - 13 x 1'' transaxle mounting"
+        },
+        {
+          "serialNote": "",
+          "partNo": "166- 85",
+          "desc": "BOLT - 1/2'' x 1'', 12 pt. flange"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 60.33,
+      "y": 74.33,
+      "partNo": "138-2073",
+      "desc": "PIN - roll 3/16'' x 1-1/4''"
+    },
+    {
+      "ref": 17,
+      "x": 52.64,
+      "y": 66.55,
+      "partNo": "C 16373",
+      "desc": "PIN - latch"
+    },
+    {
+      "ref": 18,
+      "x": 5.71,
+      "y": 81.03,
+      "partNo": "C 31597",
+      "desc": "BOLT - 1/4'' - 20 x 1/2'' black"
+    },
+    {
+      "ref": 18,
+      "x": 69.27,
+      "y": 32.67,
+      "partNo": "C 31597",
+      "desc": "BOLT - 1/4'' - 20 x 1/2'' black"
+    },
+    {
+      "ref": 19,
+      "x": 29.23,
+      "y": 11.09,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4''"
+    },
+    {
+      "ref": 20,
+      "x": 35.57,
+      "y": 8.77,
+      "partNo": "C 31359",
+      "desc": "COVER - access"
+    },
+    {
+      "ref": 21,
+      "x": 23.24,
+      "y": 10.41,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4'' - 20 x 1/2'' self tap"
+    },
+    {
+      "ref": 22,
+      "x": 24.26,
+      "y": 80.62,
+      "partNo": "C 31967",
+      "desc": "SCREW - tower side"
+    },
+    {
+      "ref": 23,
+      "x": 47.55,
+      "y": 88.81,
+      "partNo": "C 31369",
+      "desc": "PAN - belly"
+    },
+    {
+      "ref": 24,
+      "x": 55.36,
+      "y": 93.18,
+      "partNo": "C 31603",
+      "desc": "RETAINER - belly pan"
+    },
+    {
+      "ref": 25,
+      "x": 94.37,
+      "y": 32.94,
+      "partNo": "C 33472",
+      "desc": "SEAL - engine air (4020 PIN 14176500 and after)"
+    },
+    {
+      "ref": 26,
+      "x": 27.76,
+      "y": 74.74,
+      "variants": [
+        {
+          "serialNote": "4020 PIN 14176500 and after",
+          "partNo": "C 37140",
+          "desc": "PAD - footrest L.H."
+        },
+        {
+          "serialNote": "4020 PIN 14176500 and after",
+          "partNo": "C 37141",
+          "desc": "PAD - footrest R.H."
+        }
+      ]
+    }
+  ],
+  "footnotes": "Frame/foot rests/instrument caps/pads vary by model and 4020 PIN 14176500 breakpoint (variants stacked on same ref, see printed table)."
+}

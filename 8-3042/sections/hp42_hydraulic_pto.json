@@ -1,0 +1,395 @@
+{
+  "sectionTitle": "HP42 Hydraulic PTO",
+  "breadcrumb": "HP42 Hydraulic PTO",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/hp42_hydraulic_pto.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 83.15,
+      "y": 90.01,
+      "partNo": "C 42198",
+      "desc": "LATCH - reverse lockout (early production)"
+    },
+    {
+      "ref": 2,
+      "x": 75.17,
+      "y": 87.61,
+      "partNo": "C 42078",
+      "desc": "GATE - shift"
+    },
+    {
+      "ref": 3,
+      "x": 93.52,
+      "y": 79.19,
+      "partNo": "C 42081",
+      "desc": "STOP - lever"
+    },
+    {
+      "ref": 4,
+      "x": 92.8,
+      "y": 64.77,
+      "partNo": "C 42082",
+      "desc": "PIN - hinge"
+    },
+    {
+      "ref": 5,
+      "x": 89.11,
+      "y": 81.0,
+      "partNo": "C 42083",
+      "desc": "SPRING - torsion"
+    },
+    {
+      "ref": 6,
+      "x": 85.18,
+      "y": 65.97,
+      "partNo": "C 37400",
+      "desc": "ACTUATOR - switch"
+    },
+    {
+      "ref": 7,
+      "x": 94.11,
+      "y": 87.41,
+      "partNo": "C 29629",
+      "desc": "SCREW - 5/16'' - 18 x 3/4''"
+    },
+    {
+      "ref": 8,
+      "x": 80.89,
+      "y": 64.57,
+      "partNo": "C 37406",
+      "desc": "LEVER - PTO"
+    },
+    {
+      "ref": 9,
+      "x": 82.08,
+      "y": 55.35,
+      "partNo": "C 10487",
+      "desc": "KNOB"
+    },
+    {
+      "ref": 10,
+      "x": 71.96,
+      "y": 65.37,
+      "partNo": "C 28964",
+      "desc": "PIN - clevis 3/16'' x 1''"
+    },
+    {
+      "ref": 11,
+      "x": 66.6,
+      "y": 79.19,
+      "partNo": "132- 329",
+      "desc": "PIN - cotter 1/16'' x 3/4''"
+    },
+    {
+      "ref": 12,
+      "x": 39.21,
+      "y": 62.36,
+      "partNo": "218-5062",
+      "desc": "FITTING - 7/8''"
+    },
+    {
+      "ref": 13,
+      "x": 54.45,
+      "y": 62.56,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° 7/8''"
+    },
+    {
+      "ref": 13,
+      "x": 40.63,
+      "y": 42.93,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° 7/8''"
+    },
+    {
+      "ref": 14,
+      "x": 38.01,
+      "y": 48.94,
+      "partNo": "C 30046",
+      "desc": "VALVE - PTO (repairs page 67)"
+    },
+    {
+      "ref": 15,
+      "x": 66.84,
+      "y": 84.2,
+      "partNo": "C 37401",
+      "desc": "BRACKET - actuating"
+    },
+    {
+      "ref": 16,
+      "x": 45.87,
+      "y": 37.72,
+      "partNo": "61- 420",
+      "desc": "SCREW - 1/4'' - 20 x 1-1/4'' socket head"
+    },
+    {
+      "ref": 17,
+      "x": 57.55,
+      "y": 25.89,
+      "partNo": "218- 465",
+      "desc": "FITTING - 1/2'' x 7/8'' - 14"
+    },
+    {
+      "ref": 17,
+      "x": 28.72,
+      "y": 49.74,
+      "partNo": "218- 465",
+      "desc": "FITTING - 1/2'' x 7/8'' - 14"
+    },
+    {
+      "ref": 18,
+      "x": 53.26,
+      "y": 22.29,
+      "partNo": "C 37142",
+      "desc": "NIPPLE - pipe"
+    },
+    {
+      "ref": 18,
+      "x": 24.67,
+      "y": 46.33,
+      "partNo": "C 37142",
+      "desc": "NIPPLE - pipe"
+    },
+    {
+      "ref": 19,
+      "x": 10.26,
+      "y": 35.91,
+      "partNo": "C 37187",
+      "desc": "COUPLING - quick, male 7/8''"
+    },
+    {
+      "ref": 20,
+      "x": 5.98,
+      "y": 31.5,
+      "partNo": "C 37188",
+      "desc": "COUPLING - quick, female 7/8''"
+    },
+    {
+      "ref": 21,
+      "x": 21.94,
+      "y": 42.93,
+      "partNo": "C 37144",
+      "desc": "CLAMP"
+    },
+    {
+      "ref": 21,
+      "x": 39.44,
+      "y": 22.89,
+      "partNo": "C 37144",
+      "desc": "CLAMP"
+    },
+    {
+      "ref": 22,
+      "x": 39.09,
+      "y": 17.48,
+      "partNo": "C 37145",
+      "desc": "COVER - clamp"
+    },
+    {
+      "ref": 22,
+      "x": 20.74,
+      "y": 36.71,
+      "partNo": "C 37145",
+      "desc": "COVER - clamp"
+    },
+    {
+      "ref": 23,
+      "x": 17.41,
+      "y": 29.5,
+      "partNo": "113- 14",
+      "desc": "BOLT - 1/4'' - 20 x 2''"
+    },
+    {
+      "ref": 23,
+      "x": 39.68,
+      "y": 10.47,
+      "partNo": "113- 14",
+      "desc": "BOLT - 1/4'' - 20 x 2''"
+    },
+    {
+      "ref": 24,
+      "x": 39.68,
+      "y": 30.9,
+      "partNo": "131- 934",
+      "desc": "NUT - 1/4'' - 20 flange lock"
+    },
+    {
+      "ref": 24,
+      "x": 19.79,
+      "y": 56.75,
+      "partNo": "131- 934",
+      "desc": "NUT - 1/4'' - 20 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 14.67,
+      "y": 10.27,
+      "partNo": "C 40641",
+      "desc": "CAP - dust"
+    },
+    {
+      "ref": 26,
+      "x": 28.37,
+      "y": 11.47,
+      "partNo": "C 40642",
+      "desc": "PLUG - dust"
+    },
+    {
+      "ref": 27,
+      "x": 67.31,
+      "y": 40.32,
+      "partNo": "C 37454",
+      "desc": "CONDUIT - corrugated (cut to length)"
+    },
+    {
+      "ref": 27,
+      "x": 41.83,
+      "y": 78.39,
+      "partNo": "C 37454",
+      "desc": "CONDUIT - corrugated (cut to length)"
+    },
+    {
+      "ref": 28,
+      "x": 81.61,
+      "y": 43.33,
+      "partNo": "C 22947",
+      "desc": "TIE - nylon"
+    },
+    {
+      "ref": 29,
+      "x": 61.72,
+      "y": 28.9,
+      "partNo": "C 37233",
+      "desc": "TUBE - L.H."
+    },
+    {
+      "ref": 30,
+      "x": 33.01,
+      "y": 53.55,
+      "partNo": "C 37234",
+      "desc": "TUBE - R.H."
+    },
+    {
+      "ref": 31,
+      "x": 29.44,
+      "y": 82.4,
+      "partNo": "C 33560",
+      "desc": "HOSE - hydraulic 23''"
+    },
+    {
+      "ref": 32,
+      "x": 16.93,
+      "y": 69.57,
+      "partNo": "218- 443",
+      "desc": "FITTING - 3/8'' x 1/4''"
+    },
+    {
+      "ref": 33,
+      "x": 13.48,
+      "y": 67.97,
+      "partNo": "C 37249",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 34,
+      "x": 10.26,
+      "y": 64.77,
+      "partNo": "C 41043",
+      "desc": "COUPLING - quick, male 9/16''"
+    },
+    {
+      "ref": 35,
+      "x": 13.6,
+      "y": 84.6,
+      "partNo": "C 33404",
+      "desc": "CAP - dust"
+    },
+    {
+      "ref": 36,
+      "x": 56.24,
+      "y": 76.99,
+      "partNo": "C 40671",
+      "desc": "TUBE - pump to P.T.O. \"in\""
+    },
+    {
+      "ref": 37,
+      "x": 56.12,
+      "y": 44.33,
+      "partNo": "C 40673",
+      "desc": "TUBE - travel valve to P.T.O. \"out\""
+    },
+    {
+      "ref": 38,
+      "x": 6.33,
+      "y": 61.76,
+      "partNo": "C 41044",
+      "desc": "COUPLING - quick, female 9/16''"
+    },
+    {
+      "ref": 39,
+      "x": 83.63,
+      "y": 23.09,
+      "partNo": "C 37439",
+      "desc": "KEY - coupling switch"
+    },
+    {
+      "ref": 40,
+      "x": 77.68,
+      "y": 14.87,
+      "partNo": "C 37437",
+      "desc": "BRACKET - switch mounting"
+    },
+    {
+      "ref": 41,
+      "x": 87.92,
+      "y": 26.1,
+      "partNo": "C 37459",
+      "desc": "CUSHION - key"
+    },
+    {
+      "ref": 42,
+      "x": 85.3,
+      "y": 10.07,
+      "partNo": "C 42048",
+      "desc": "KIT - coupler switch"
+    },
+    {
+      "ref": 44,
+      "x": 88.87,
+      "y": 47.53,
+      "partNo": "C 37399",
+      "desc": "SWITCH - interlock"
+    },
+    {
+      "ref": 45,
+      "x": 83.87,
+      "y": 62.16,
+      "partNo": "C 33696",
+      "desc": "SCREW - #4-40 x 1-1/8''"
+    },
+    {
+      "ref": 46,
+      "x": 93.99,
+      "y": 48.14,
+      "partNo": "C 33697",
+      "desc": "NUT - #4 - 40"
+    },
+    {
+      "ref": 47,
+      "x": 59.81,
+      "y": 67.37,
+      "partNo": "218- 475",
+      "desc": "FITTING - 90° 7/8'' x 7/8'' male"
+    },
+    {
+      "ref": 48,
+      "x": 62.67,
+      "y": 56.15,
+      "partNo": "218-5232",
+      "desc": "FITTING - 90° 7/8'' male x 7/8'' female"
+    }
+  ],
+  "footnotes": "For 4020 -- PIN 14176500 and after only. Ref 43 is skipped entirely in the printed catalog (goes 42 to 44)."
+}

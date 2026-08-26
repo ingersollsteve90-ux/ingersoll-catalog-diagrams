@@ -1,0 +1,251 @@
+{
+  "sectionTitle": "Electrical System Hardware",
+  "breadcrumb": "Electrical System Hardware",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/electrical_system_hardware.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 63.63,
+      "y": 56.19,
+      "partNo": "121- 21",
+      "desc": "BOLT - 1/4'' - 20 x 1/2'' flange lock"
+    },
+    {
+      "ref": 1,
+      "x": 41.45,
+      "y": 9.94,
+      "partNo": "121- 21",
+      "desc": "BOLT - 1/4'' - 20 x 1/2'' flange lock"
+    },
+    {
+      "ref": 2,
+      "x": 52.43,
+      "y": 92.18,
+      "partNo": "182- 525",
+      "desc": "BOLT - #10 - 32 x 3/8''"
+    },
+    {
+      "ref": 3,
+      "x": 59.9,
+      "y": 94.66,
+      "partNo": "C 32460",
+      "desc": "LOCKWASHER - #10 internal tooth"
+    },
+    {
+      "ref": 4,
+      "x": 72.86,
+      "y": 80.4,
+      "partNo": "C 32453",
+      "desc": "CLIP - wire"
+    },
+    {
+      "ref": 5,
+      "x": 81.96,
+      "y": 67.0,
+      "partNo": "C 32456",
+      "desc": "BOLT - 1/4'' - 20 x 1''"
+    },
+    {
+      "ref": 6,
+      "x": 66.67,
+      "y": 83.32,
+      "partNo": "C 32455",
+      "desc": "CLIP - wire"
+    },
+    {
+      "ref": 7,
+      "x": 63.63,
+      "y": 83.1,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4'' - 20 x 1''"
+    },
+    {
+      "ref": 8,
+      "x": 37.72,
+      "y": 86.88,
+      "partNo": "182- 12",
+      "desc": "SCREW - #4 - 40 x 1-1/8''"
+    },
+    {
+      "ref": 9,
+      "x": 46.94,
+      "y": 82.67,
+      "partNo": "192- 13",
+      "desc": "LOCKWASHER - #4"
+    },
+    {
+      "ref": 10,
+      "x": 45.19,
+      "y": 67.22,
+      "partNo": "129- 13",
+      "desc": "NUT - #4 - 40"
+    },
+    {
+      "ref": 11,
+      "x": 23.13,
+      "y": 72.29,
+      "partNo": "C 22947",
+      "desc": "TIE - wire"
+    },
+    {
+      "ref": 12,
+      "x": 89.78,
+      "y": 61.27,
+      "partNo": "C 32301",
+      "desc": "NUT - M5 metric (negative terminal)"
+    },
+    {
+      "ref": 13,
+      "x": 94.22,
+      "y": 65.27,
+      "partNo": "C 32300",
+      "desc": "NUT - M4 metric (positive terminal)"
+    },
+    {
+      "ref": 14,
+      "x": 10.99,
+      "y": 60.3,
+      "partNo": "193- 6",
+      "desc": "LOCKWASHER - #10"
+    },
+    {
+      "ref": 15,
+      "x": 15.19,
+      "y": 70.57,
+      "partNo": "C 32459",
+      "desc": "SCREW - #10 - 32 x 1'' self lock"
+    },
+    {
+      "ref": 16,
+      "x": 59.55,
+      "y": 77.37,
+      "partNo": "C 32295",
+      "desc": "INSULATOR - ignition module"
+    },
+    {
+      "ref": 17,
+      "x": 67.95,
+      "y": 53.71,
+      "partNo": "C 31619",
+      "desc": "CAP - PTO switch"
+    },
+    {
+      "ref": 18,
+      "x": 71.81,
+      "y": 34.91,
+      "partNo": "C 31620",
+      "desc": "NUT - knurled 1/2'' - 27"
+    },
+    {
+      "ref": 19,
+      "x": 27.68,
+      "y": 5.41,
+      "partNo": "C 31621",
+      "desc": "RETAINER - battery"
+    },
+    {
+      "ref": 20,
+      "x": 10.99,
+      "y": 14.7,
+      "partNo": "C 24069",
+      "desc": "COVER - battery positive terminal"
+    },
+    {
+      "ref": 21,
+      "x": 85.0,
+      "y": 15.02,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 32396",
+          "desc": "NUT - switch"
+        },
+        {
+          "serialNote": "",
+          "partNo": "NSS",
+          "desc": "NUT - switch, knurled, black (use C32396 and C32397) shown"
+        }
+      ]
+    },
+    {
+      "ref": 22,
+      "x": 81.26,
+      "y": 12.75,
+      "partNo": "C 32397",
+      "desc": "CAP - nut"
+    },
+    {
+      "ref": 23,
+      "x": 60.6,
+      "y": 21.51,
+      "partNo": "C 19521",
+      "desc": "CLIP - wire"
+    },
+    {
+      "ref": 24,
+      "x": 27.45,
+      "y": 14.27,
+      "partNo": "111- 132",
+      "desc": "BOLT - 5/16'' - 18 x 3/4'' carriage"
+    },
+    {
+      "ref": 24,
+      "x": 5.85,
+      "y": 30.58,
+      "partNo": "111- 132",
+      "desc": "BOLT - 5/16'' - 18 x 3/4'' carriage"
+    },
+    {
+      "ref": 25,
+      "x": 33.28,
+      "y": 20.53,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16'' - 18"
+    },
+    {
+      "ref": 26,
+      "x": 75.78,
+      "y": 8.97,
+      "partNo": "C 32407",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": 27,
+      "x": 88.73,
+      "y": 17.18,
+      "partNo": "C 23012",
+      "desc": "LOCKWASHER"
+    },
+    {
+      "ref": 28,
+      "x": 46.12,
+      "y": 57.71,
+      "partNo": "129- 36",
+      "desc": "NUT - #8 - 36"
+    },
+    {
+      "ref": 29,
+      "x": 37.14,
+      "y": 61.92,
+      "partNo": "129- 27",
+      "desc": "NUT - #10 NF"
+    },
+    {
+      "ref": 29,
+      "x": 36.79,
+      "y": 46.14,
+      "partNo": "129- 27",
+      "desc": "NUT - #10 NF"
+    },
+    {
+      "ref": 30,
+      "x": 37.72,
+      "y": 58.03,
+      "partNo": "193- 6",
+      "desc": "LOCKWASHER - #10"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 64.61,
+      "y": 28.92,
+      "variants": [
+        {
+          "serialNote": "3016, 3018, 3020",
+          "partNo": "C 30913",
+          "desc": "WHEEL - rear, 5 bolt for 23 x 8.50 - 12 tire"
+        },
+        {
+          "serialNote": "4016, 4018, 4020",
+          "partNo": "C 30917",
+          "desc": "WHEEL - rear, 6 bolt shown"
+        },
+        {
+          "serialNote": "3016, 3018",
+          "partNo": "C 30922",
+          "desc": "WHEEL - rear, 5 bolt for 23 x 10.50 - 12 tire"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 31.91,
+      "y": 70.54,
+      "variants": [
+        {
+          "serialNote": "4016, 4018, 4020",
+          "partNo": "C 27763",
+          "desc": "BOLT - rear wheel"
+        },
+        {
+          "serialNote": "3016, 3018, 3020",
+          "partNo": "C 10314",
+          "desc": "BOLT - rear wheel"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 81.62,
+      "y": 68.67,
+      "partNo": "C 30912",
+      "desc": "WHEEL - front (includes bearings)"
+    },
+    {
+      "ref": 4,
+      "x": 87.19,
+      "y": 59.98,
+      "partNo": "219- 403",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 5,
+      "x": 92.76,
+      "y": 53.3,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel"
+    },
+    {
+      "ref": 5,
+      "x": 76.19,
+      "y": 73.8,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel"
+    },
+    {
+      "ref": 6,
+      "x": 55.22,
+      "y": 92.27,
+      "partNo": "C 28965",
+      "desc": "CAP - hub, front wheel (optional)"
+    },
+    {
+      "ref": 7,
+      "x": 64.61,
+      "y": 84.98,
+      "partNo": "C 26021",
+      "desc": "CAP - plastic, front"
+    },
+    {
+      "ref": 8,
+      "x": 7.43,
+      "y": 28.3,
+      "partNo": "C 28236",
+      "desc": "STEM - valve"
+    }
+  ],
+  "footnotes": "Rear wheel (ref1) and bolt (ref2) vary by model / bolt pattern / tire size (variants per ref)."
+}

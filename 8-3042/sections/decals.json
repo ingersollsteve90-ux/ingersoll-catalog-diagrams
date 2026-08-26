@@ -1,0 +1,189 @@
+{
+  "sectionTitle": "Decals (English)",
+  "breadcrumb": "Decals (English)",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/decals.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 49.8,
+      "y": 15.52,
+      "variants": [
+        {
+          "serialNote": "shown",
+          "partNo": "C 32364",
+          "desc": "DECAL - \"3018\" hood L.H."
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 32365",
+          "desc": "DECAL - \"3018\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 13.33,
+      "y": 74.29,
+      "partNo": "C 33588",
+      "desc": "DECAL - fuel gauge"
+    },
+    {
+      "ref": 3,
+      "x": 31.08,
+      "y": 74.51,
+      "partNo": "321- 4767",
+      "desc": "DECAL - hydraulic reservoir"
+    },
+    {
+      "ref": 4,
+      "x": 32.41,
+      "y": 86.2,
+      "partNo": "321- 1788",
+      "desc": "DECAL - shift range"
+    },
+    {
+      "ref": 5,
+      "x": 50.4,
+      "y": 55.63,
+      "partNo": "C 33590",
+      "desc": "DECAL - brake"
+    },
+    {
+      "ref": 6,
+      "x": 49.68,
+      "y": 5.63,
+      "variants": [
+        {
+          "serialNote": "shown",
+          "partNo": "C 32004",
+          "desc": "DECAL - \"3016\" hood L.H."
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 32005",
+          "desc": "DECAL - \"3016\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 49.32,
+      "y": 24.96,
+      "variants": [
+        {
+          "serialNote": "shown",
+          "partNo": "C 32007",
+          "desc": "DECAL - \"4016\" hood L.H."
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 32008",
+          "desc": "DECAL - \"4016\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 49.8,
+      "y": 34.85,
+      "variants": [
+        {
+          "serialNote": "shown",
+          "partNo": "C 32009",
+          "desc": "DECAL - \"4018\" hood L.H."
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 32010",
+          "desc": "DECAL - \"4018\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 49.32,
+      "y": 74.17,
+      "partNo": "321- 6659",
+      "desc": "DECAL - \"Caution\""
+    },
+    {
+      "ref": 10,
+      "x": 16.95,
+      "y": 56.98,
+      "partNo": "C 30539",
+      "desc": "MEDALLION"
+    },
+    {
+      "ref": 11,
+      "x": 50.65,
+      "y": 63.61,
+      "partNo": "C 30274",
+      "desc": "LENS - display"
+    },
+    {
+      "ref": 12,
+      "x": 48.35,
+      "y": 94.4,
+      "partNo": "C 32093",
+      "desc": "DECAL - seat back \"Ingersoll\""
+    },
+    {
+      "ref": 13,
+      "x": 49.68,
+      "y": 44.51,
+      "variants": [
+        {
+          "serialNote": "use before PIN 14176500",
+          "partNo": "C 32011",
+          "desc": "DECAL - \"4020\" hood L.H. (shown)"
+        },
+        {
+          "serialNote": "use before PIN 14176500",
+          "partNo": "C 32012",
+          "desc": "DECAL - \"4020\" hood R.H. (shown)"
+        },
+        {
+          "serialNote": "use PIN 14176500 and after",
+          "partNo": "C 43229",
+          "desc": "DECAL - \"4020\" hood L.H."
+        },
+        {
+          "serialNote": "use PIN 14176500 and after",
+          "partNo": "C 43230",
+          "desc": "DECAL - \"4020\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 82.41,
+      "y": 86.42,
+      "partNo": "C 37197",
+      "desc": "DECAL - \"logo\" steering wheel insert (4020 PIN 14176500 and after)"
+    },
+    {
+      "ref": 15,
+      "x": 82.29,
+      "y": 54.74,
+      "partNo": "C 34184",
+      "desc": "DECAL - flag (4020 PIN 14176500 and after)"
+    },
+    {
+      "ref": 16,
+      "x": 81.56,
+      "y": 66.08,
+      "partNo": "C 37274",
+      "desc": "DECAL - shift range (4020 PIN 14176500 and after)"
+    },
+    {
+      "ref": 17,
+      "x": 81.08,
+      "y": 76.2,
+      "partNo": "C 37275",
+      "desc": "DECAL - PTO (4020 PIN 14176500 and after) if equiped"
+    }
+  ],
+  "footnotes": "Several refs (1,6,7,8,13) have multiple part numbers -- one per model (3016/3018/4016/4018/4020) or PIN break. 3020 hood decals (not shown on diagram) listed as footnote-only, no hotspot."
+}

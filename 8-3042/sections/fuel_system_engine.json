@@ -1,0 +1,202 @@
+{
+  "sectionTitle": "Fuel System (Engine)",
+  "breadcrumb": "Fuel System (Engine)",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/fuel_system_engine.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 62.83,
+      "y": 25.59,
+      "variants": [
+        {
+          "serialNote": "3016, 3018, 4016, 4018",
+          "partNo": "C 29868",
+          "desc": "CARBURETOR - fuel repairs page 19"
+        },
+        {
+          "serialNote": "3020, 4020",
+          "partNo": "C 29869",
+          "desc": "CARBURETOR - fuel repairs page 19"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 62.83,
+      "y": 34.53,
+      "partNo": "C 29969",
+      "desc": "GASKET - carburetor mounting"
+    },
+    {
+      "ref": 3,
+      "x": 47.7,
+      "y": 7.52,
+      "partNo": "C 29944",
+      "desc": "SEAL - \"O\" ring"
+    },
+    {
+      "ref": 4,
+      "x": 62.02,
+      "y": 39.15,
+      "partNo": "C 29952",
+      "desc": "ADAPTER - carburetor"
+    },
+    {
+      "ref": 5,
+      "x": 60.72,
+      "y": 44.72,
+      "partNo": "C 29953",
+      "desc": "GASKET - adapter"
+    },
+    {
+      "ref": 6,
+      "x": 79.76,
+      "y": 61.96,
+      "partNo": "C 32450",
+      "desc": "MANIFOLD - intake"
+    },
+    {
+      "ref": 7,
+      "x": 39.72,
+      "y": 64.48,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 8,
+      "x": 41.19,
+      "y": 70.15,
+      "partNo": "113- 65",
+      "desc": "BOLT - 1/4\" - 20 x 1-3/8\""
+    },
+    {
+      "ref": 9,
+      "x": 78.45,
+      "y": 44.83,
+      "partNo": "113- 121",
+      "desc": "BOLT - 5/16\" - 18 x 2\""
+    },
+    {
+      "ref": 10,
+      "x": 77.8,
+      "y": 53.97,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 10,
+      "x": 42.49,
+      "y": 58.91,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 11,
+      "x": 27.52,
+      "y": 57.33,
+      "partNo": "C 26202",
+      "desc": "GASKET - manifold"
+    },
+    {
+      "ref": 12,
+      "x": 53.07,
+      "y": 65.32,
+      "partNo": "113- 103",
+      "desc": "BOLT - 5/16\" - 18 x 1\""
+    },
+    {
+      "ref": 13,
+      "x": 81.06,
+      "y": 5.31,
+      "partNo": "C 20360",
+      "desc": "CLIP - retaining, control rod to carburetor"
+    },
+    {
+      "ref": 14,
+      "x": 79.1,
+      "y": 20.97,
+      "partNo": "C 29988",
+      "desc": "ROD - governor control"
+    },
+    {
+      "ref": 15,
+      "x": 35.65,
+      "y": 15.61,
+      "partNo": "195- 2027",
+      "desc": "WASHER - 5/16\""
+    },
+    {
+      "ref": 16,
+      "x": 18.89,
+      "y": 33.27,
+      "partNo": "NSS",
+      "desc": "HOSE - fuel (use C28937 cut to length)"
+    },
+    {
+      "ref": 17,
+      "x": 29.79,
+      "y": 93.59,
+      "partNo": "C 29959",
+      "desc": "PUMP - fuel"
+    },
+    {
+      "ref": 18,
+      "x": 20.84,
+      "y": 94.75,
+      "partNo": "182- 559",
+      "desc": "SCREW - tapping #10 - 24 x 5/8\""
+    },
+    {
+      "ref": 19,
+      "x": 45.74,
+      "y": 80.03,
+      "partNo": "NSS",
+      "desc": "HOSE - vacuum (use C28937 cut to length)"
+    },
+    {
+      "ref": 20,
+      "x": 8.15,
+      "y": 64.06,
+      "partNo": "214- 103",
+      "desc": "CLAMP - hose 1/2\" (wire)"
+    },
+    {
+      "ref": 21,
+      "x": 28.33,
+      "y": 70.78,
+      "partNo": "C 20411",
+      "desc": "CAP - fuel outlet"
+    },
+    {
+      "ref": 22,
+      "x": 29.47,
+      "y": 66.79,
+      "partNo": "NSS",
+      "desc": "CLAMP - hose 7/16\" (wire) (use C32376)"
+    },
+    {
+      "ref": 23,
+      "x": 31.42,
+      "y": 86.34,
+      "partNo": "C 32376",
+      "desc": "CLAMP - hose 1/2\" (worm drive)"
+    },
+    {
+      "ref": 24,
+      "x": 32.07,
+      "y": 29.8,
+      "partNo": "C 10678",
+      "desc": "ELBOW - hose 90°"
+    },
+    {
+      "ref": 25,
+      "x": 91.96,
+      "y": 19.5,
+      "partNo": "C 33406",
+      "desc": "SPRING - governor rod (optional)"
+    }
+  ],
+  "footnotes": "Carburetor C29868 used on 3016,3018,4016,4018; C29869 used on 3020,4020 (repairs on Carburetor section)."
+}

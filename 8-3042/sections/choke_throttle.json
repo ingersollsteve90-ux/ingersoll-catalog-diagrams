@@ -1,0 +1,144 @@
+{
+  "sectionTitle": "Choke and Throttle",
+  "breadcrumb": "Choke and Throttle",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/choke_throttle.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 10.7,
+      "y": 54.57,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 33414",
+          "desc": "CONTROL - throttle"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 37226",
+          "desc": "CONTROL - throttle"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 14.58,
+      "y": 14.76,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 30073",
+          "desc": "HANDLE - throttle control, orange"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 35291",
+          "desc": "HANDLE - control, black"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 42.5,
+      "y": 56.52,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 31893",
+          "desc": "CONTROL - choke"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 37227",
+          "desc": "CONTROL - choke"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 44.95,
+      "y": 6.97,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 30074",
+          "desc": "HANDLE - choke control, black"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 35291",
+          "desc": "HANDLE - control, black"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 42.93,
+      "y": 89.79,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 31977",
+          "desc": "CLIP - cable (single cable) shown"
+        },
+        {
+          "serialNote": "dual cable",
+          "partNo": "C 33218",
+          "desc": "CLIP - cable"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 28.69,
+      "y": 51.93,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - No. 10 (early production)"
+    },
+    {
+      "ref": 7,
+      "x": 30.56,
+      "y": 59.03,
+      "partNo": "C 34117",
+      "desc": "NUT - No. 10 - 24 flange lock"
+    },
+    {
+      "ref": 8,
+      "x": 18.61,
+      "y": 28.68,
+      "partNo": "182-559",
+      "desc": "BOLT - No. 10 - 24 x 3/4\" phillips, black"
+    },
+    {
+      "ref": 9,
+      "x": 75.03,
+      "y": 28.96,
+      "partNo": "C 22369",
+      "desc": "BOLT - washer head #10 - 32 x 5/16\""
+    },
+    {
+      "ref": 10,
+      "x": 81.36,
+      "y": 24.51,
+      "partNo": "C 29957",
+      "desc": "BRACKET - choke cable"
+    },
+    {
+      "ref": 11,
+      "x": 92.87,
+      "y": 8.36,
+      "partNo": "C 29506",
+      "desc": "CLIP - retaining, choke cable"
+    },
+    {
+      "ref": 12,
+      "x": 71.14,
+      "y": 13.09,
+      "partNo": "187-1511",
+      "desc": "SCREW - tapping #10 - 32 x 1/2\""
+    }
+  ],
+  "footnotes": "*use on 3016,3018,3020,4016,4018-all, 4020-before PIN 14176500; **use on 4020-PIN 14176500 and after."
+}

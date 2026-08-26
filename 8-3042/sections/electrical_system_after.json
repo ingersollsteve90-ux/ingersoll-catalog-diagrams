@@ -1,0 +1,293 @@
+{
+  "sectionTitle": "Electrical System (4020-PIN 14176500 and after)",
+  "breadcrumb": "Electrical System (4020-PIN 14176500 and after)",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/electrical_system_after.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 13.59,
+      "y": 69.13,
+      "partNo": "C 43227",
+      "desc": "HARNESS - wire, main"
+    },
+    {
+      "ref": 2,
+      "x": 76.46,
+      "y": 85.03,
+      "partNo": "C 31943",
+      "desc": "CABLE - battery negative to ground"
+    },
+    {
+      "ref": 3,
+      "x": 6.7,
+      "y": 32.47,
+      "partNo": "C 43228",
+      "desc": "HARNESS - wire, seat switch, PTO and taillights"
+    },
+    {
+      "ref": 4,
+      "x": 77.52,
+      "y": 44.55,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - headlights"
+    },
+    {
+      "ref": 5,
+      "x": 38.87,
+      "y": 16.77,
+      "partNo": "C 37165",
+      "desc": "TAILLIGHT - rear"
+    },
+    {
+      "ref": 6,
+      "x": 9.09,
+      "y": 90.4,
+      "partNo": "C 31617",
+      "desc": "SENSOR - voltage"
+    },
+    {
+      "ref": 7,
+      "x": 61.77,
+      "y": 35.77,
+      "partNo": "C 32178",
+      "desc": "HEADLIGHT - 12 volt (page 63 for service)"
+    },
+    {
+      "ref": 7,
+      "x": 79.11,
+      "y": 35.26,
+      "partNo": "C 32178",
+      "desc": "HEADLIGHT - 12 volt (page 63 for service)"
+    },
+    {
+      "ref": 8,
+      "x": 54.23,
+      "y": 83.69,
+      "partNo": "C 29322",
+      "desc": "SWITCH - headlights"
+    },
+    {
+      "ref": 9,
+      "x": 91.82,
+      "y": 72.85,
+      "partNo": "C 41010",
+      "desc": "BATTERY - 12 volt"
+    },
+    {
+      "ref": 10,
+      "x": 38.08,
+      "y": 78.42,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 30530",
+          "desc": "SWITCH - ignition"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 24460",
+          "desc": "CONNECTOR - ignition switch"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 51.31,
+      "y": 79.15,
+      "partNo": "C 42929",
+      "desc": "HOURMETER"
+    },
+    {
+      "ref": 12,
+      "x": 38.87,
+      "y": 23.17,
+      "partNo": "C 37298",
+      "desc": "SWITCH - seat (black)"
+    },
+    {
+      "ref": 12,
+      "x": 29.6,
+      "y": 5.2,
+      "partNo": "C 37298",
+      "desc": "SWITCH - seat (black)"
+    },
+    {
+      "ref": 13,
+      "x": 33.71,
+      "y": 42.07,
+      "partNo": "C 30275",
+      "desc": "SWITCH - micro (at travel lever)"
+    },
+    {
+      "ref": 13,
+      "x": 26.03,
+      "y": 41.97,
+      "partNo": "C 30275",
+      "desc": "SWITCH - micro (at travel lever)"
+    },
+    {
+      "ref": 14,
+      "x": 15.97,
+      "y": 16.36,
+      "partNo": "C 37399",
+      "desc": "SWITCH - micro (at PTO)"
+    },
+    {
+      "ref": 15,
+      "x": 6.7,
+      "y": 21.11,
+      "partNo": "C 30279",
+      "desc": "CONNECTOR - micro switch"
+    },
+    {
+      "ref": 15,
+      "x": 16.9,
+      "y": 46.2,
+      "partNo": "C 30279",
+      "desc": "CONNECTOR - micro switch"
+    },
+    {
+      "ref": 16,
+      "x": 89.57,
+      "y": 50.13,
+      "partNo": "C 32312",
+      "desc": "STARTER AND SOLENOID - 12 volt (see page 57 for service)"
+    },
+    {
+      "ref": 17,
+      "x": 53.3,
+      "y": 46.51,
+      "partNo": "C 32461",
+      "desc": "RECTIFIER - voltage, 12 volts"
+    },
+    {
+      "ref": 18,
+      "x": 64.68,
+      "y": 47.44,
+      "partNo": "C 32296",
+      "desc": "COIL - ignition, 12 volt"
+    },
+    {
+      "ref": 19,
+      "x": 67.46,
+      "y": 56.43,
+      "partNo": "C 32307",
+      "desc": "CONDENSER - 12 volt"
+    },
+    {
+      "ref": 20,
+      "x": 54.62,
+      "y": 36.39,
+      "partNo": "C 42118",
+      "desc": "CONNECTOR - single female, taillight"
+    },
+    {
+      "ref": 21,
+      "x": 37.41,
+      "y": 88.13,
+      "partNo": "C 31947",
+      "desc": "KIT - fuse holder"
+    },
+    {
+      "ref": 22,
+      "x": 37.81,
+      "y": 90.2,
+      "partNo": "C 30260",
+      "desc": "FUSE - 30 amp"
+    },
+    {
+      "ref": 23,
+      "x": 7.63,
+      "y": 55.6,
+      "partNo": "C 30262",
+      "desc": "BULB - indicator"
+    },
+    {
+      "ref": 23,
+      "x": 8.29,
+      "y": 51.99,
+      "partNo": "C 30262",
+      "desc": "BULB - indicator"
+    },
+    {
+      "ref": 24,
+      "x": 11.2,
+      "y": 58.6,
+      "partNo": "C 30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 25,
+      "x": 30.0,
+      "y": 36.91,
+      "partNo": "C 42117",
+      "desc": "CONNECTOR - six wire, harness, female"
+    },
+    {
+      "ref": 26,
+      "x": 28.68,
+      "y": 94.84,
+      "partNo": "C 25486",
+      "desc": "CONNECTOR - three wire, sensor"
+    },
+    {
+      "ref": 27,
+      "x": 33.97,
+      "y": 23.38,
+      "partNo": "C 37398",
+      "desc": "CONNECTOR - seat switch"
+    },
+    {
+      "ref": 27,
+      "x": 15.57,
+      "y": 9.23,
+      "partNo": "C 37398",
+      "desc": "CONNECTOR - seat switch"
+    },
+    {
+      "ref": 28,
+      "x": 29.87,
+      "y": 33.5,
+      "partNo": "C 42115",
+      "desc": "CONNECTOR - six wire, seat harness, male"
+    },
+    {
+      "ref": 29,
+      "x": 54.89,
+      "y": 32.05,
+      "partNo": "C 42116",
+      "desc": "CONNECTOR - harness, taillight, male"
+    },
+    {
+      "ref": 30,
+      "x": 42.05,
+      "y": 76.46,
+      "partNo": "C 31937",
+      "desc": "SWITCH - PTO"
+    },
+    {
+      "ref": 31,
+      "x": 81.76,
+      "y": 43.41,
+      "partNo": "C 31986",
+      "desc": "KIT - diode"
+    },
+    {
+      "ref": 32,
+      "x": 88.38,
+      "y": 35.88,
+      "partNo": "C 33198",
+      "desc": "CLUTCH - PTO, electric (see page 25 for repairs)"
+    },
+    {
+      "ref": 33,
+      "x": 93.41,
+      "y": 43.52,
+      "partNo": "C 31948",
+      "desc": "CONNECTOR - PTO"
+    }
+  ],
+  "footnotes": "4020-PIN 14176500 and after. Genuinely different wiring/harness diagram -- separate section, not a variant."
+}

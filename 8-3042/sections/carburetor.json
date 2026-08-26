@@ -1,0 +1,146 @@
+{
+  "sectionTitle": "Carburetor",
+  "breadcrumb": "Carburetor",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/carburetor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 13.95,
+      "y": 36.44,
+      "partNo": "C 29965",
+      "desc": "KIT - float"
+    },
+    {
+      "ref": 2,
+      "x": 63.57,
+      "y": 61.87,
+      "variants": [
+        {
+          "serialNote": "3016, 3018, 4016, 4018",
+          "partNo": "C 29966",
+          "desc": "JET - power"
+        },
+        {
+          "serialNote": "3020, 4020",
+          "partNo": "C 30015",
+          "desc": "JET - power"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 29.22,
+      "y": 57.0,
+      "partNo": "C 29967",
+      "desc": "JET - idle"
+    },
+    {
+      "ref": 4,
+      "x": 82.41,
+      "y": 68.28,
+      "partNo": "NSS",
+      "desc": "GASKET AND SEAL PACKAGE"
+    },
+    {
+      "ref": 4,
+      "x": 68.81,
+      "y": 73.48,
+      "partNo": "NSS",
+      "desc": "GASKET AND SEAL PACKAGE"
+    },
+    {
+      "ref": 4,
+      "x": 12.04,
+      "y": 28.48,
+      "partNo": "NSS",
+      "desc": "GASKET AND SEAL PACKAGE"
+    },
+    {
+      "ref": 4,
+      "x": 32.8,
+      "y": 90.39,
+      "partNo": "NSS",
+      "desc": "GASKET AND SEAL PACKAGE"
+    },
+    {
+      "ref": 5,
+      "x": 30.41,
+      "y": 86.52,
+      "partNo": "C 29969",
+      "desc": "GASKET - mounting"
+    },
+    {
+      "ref": 6,
+      "x": 26.83,
+      "y": 94.48,
+      "partNo": "NSS",
+      "desc": "SCREW AND PLUG PACKAGE"
+    },
+    {
+      "ref": 6,
+      "x": 53.07,
+      "y": 74.25,
+      "partNo": "NSS",
+      "desc": "SCREW AND PLUG PACKAGE"
+    },
+    {
+      "ref": 6,
+      "x": 58.56,
+      "y": 90.61,
+      "partNo": "NSS",
+      "desc": "SCREW AND PLUG PACKAGE"
+    },
+    {
+      "ref": 6,
+      "x": 87.42,
+      "y": 59.55,
+      "partNo": "NSS",
+      "desc": "SCREW AND PLUG PACKAGE"
+    },
+    {
+      "ref": 6,
+      "x": 49.02,
+      "y": 8.13,
+      "partNo": "NSS",
+      "desc": "SCREW AND PLUG PACKAGE"
+    },
+    {
+      "ref": 6,
+      "x": 88.13,
+      "y": 5.59,
+      "partNo": "NSS",
+      "desc": "SCREW AND PLUG PACKAGE"
+    },
+    {
+      "ref": 7,
+      "x": 13.0,
+      "y": 51.14,
+      "partNo": "NSS",
+      "desc": "VALVE - inlet"
+    },
+    {
+      "ref": 8,
+      "x": 78.12,
+      "y": 81.44,
+      "partNo": "NSS",
+      "desc": "VALVE - idle adjust"
+    },
+    {
+      "ref": 9,
+      "x": 68.81,
+      "y": 78.89,
+      "partNo": "NSS",
+      "desc": "SPRING - tension"
+    },
+    {
+      "ref": 9,
+      "x": 44.96,
+      "y": 87.52,
+      "partNo": "NSS",
+      "desc": "SPRING - tension"
+    }
+  ],
+  "footnotes": "Fits C29868 (3016,3018,4016,4018) and C29869 (3020,4020)."
+}

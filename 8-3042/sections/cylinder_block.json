@@ -1,0 +1,544 @@
+{
+  "sectionTitle": "Cylinder Block",
+  "breadcrumb": "Cylinder Block",
+  "catalogLabel": "Catalog 8-3042",
+  "modelNumbers": "Catalog 8-3042 — Models 3016, 3018, 3020, 4016, 4018, 4020",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3042/cylinder_block.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 10.75,
+      "y": 49.12,
+      "variants": [
+        {
+          "serialNote": "3016, 4016",
+          "partNo": "C 33243",
+          "desc": "BLOCK ASSEMBLY - short includes cylinder and crankcase, all bearings, crankshaft, camshaft, timing gear, connecting rods, pistons, piston rings, valves, oil pump and breather tube (does not include gasket set)"
+        },
+        {
+          "serialNote": "3018, 3020, 4018, 4020",
+          "partNo": "C 33244",
+          "desc": "BLOCK ASSEMBLY - short includes cylinder and crankcase, all bearings, crankshaft, camshaft, timing gear, connecting rods, pistons, piston rings, valves, oil pump and breather tube (does not include gasket set)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 45.34,
+      "y": 47.27,
+      "partNo": "41- 26",
+      "desc": "PLUG - welch"
+    },
+    {
+      "ref": 3,
+      "x": 83.02,
+      "y": 47.55,
+      "partNo": "113- 208",
+      "desc": "BOLT - 3/8'' - 16 x 1-1/4''"
+    },
+    {
+      "ref": 4,
+      "x": 64.74,
+      "y": 52.12,
+      "partNo": "C 20256",
+      "desc": "SHIM - end play, crankshaft (.005'')"
+    },
+    {
+      "ref": 5,
+      "x": 60.04,
+      "y": 45.27,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "C 22618",
+          "desc": "BEARING - crankshaft, rear (includes thrust washer)"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 22619",
+          "desc": "BEARING - crankshaft, rear .002'' (0.05 mm) undersize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 22620",
+          "desc": "BEARING - crankshaft, rear .010'' (0.25 mm) undersize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 22621",
+          "desc": "BEARING - crankshaft, rear .020'' (0.51 mm) undersize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 22622",
+          "desc": "BEARING - crankshaft, rear .030'' (0.76 mm) undersize"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 54.98,
+      "y": 48.27,
+      "partNo": "C 20267",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 7,
+      "x": 51.77,
+      "y": 46.7,
+      "partNo": "C 20268",
+      "desc": "GASKET - bearing plate"
+    },
+    {
+      "ref": 8,
+      "x": 63.01,
+      "y": 40.85,
+      "partNo": "C 20269",
+      "desc": "PLATE - bearing, rear"
+    },
+    {
+      "ref": 9,
+      "x": 12.11,
+      "y": 63.96,
+      "partNo": "C 20270",
+      "desc": "BEARING - camshaft 3/4'' length (service part is 5/16'' length)"
+    },
+    {
+      "ref": 10,
+      "x": 71.16,
+      "y": 40.85,
+      "partNo": "C 20271",
+      "desc": "SEAL - oil, crankshaft rear"
+    },
+    {
+      "ref": 11,
+      "x": 48.8,
+      "y": 45.13,
+      "partNo": "C 20272",
+      "desc": "PIN - drive, bearing stop"
+    },
+    {
+      "ref": 11,
+      "x": 22.61,
+      "y": 75.66,
+      "partNo": "C 20272",
+      "desc": "PIN - drive, bearing stop"
+    },
+    {
+      "ref": 12,
+      "x": 33.98,
+      "y": 83.37,
+      "partNo": "C 24946",
+      "desc": "TUBE - oil"
+    },
+    {
+      "ref": 13,
+      "x": 57.57,
+      "y": 75.09,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "C 29974",
+          "desc": "INSERT - valve seat, exhaust"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 29975",
+          "desc": "INSERT - valve seat, exhaust .002'' (0.05 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 29976",
+          "desc": "INSERT - valve seat, exhaust .005'' (0.13 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 29977",
+          "desc": "INSERT - valve seat, exhaust .010'' (0.25 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 29978",
+          "desc": "INSERT - valve seat, exhaust .025'' (0.64 mm) oversize"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 65.85,
+      "y": 65.82,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "C 20287",
+          "desc": "INSERT - valve seat, intake"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20288",
+          "desc": "INSERT - valve seat, intake .002'' (0.05 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20289",
+          "desc": "INSERT - valve seat, intake .005'' (0.13 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20290",
+          "desc": "INSERT - valve seat, intake .010'' (0.25 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20291",
+          "desc": "INSERT - valve seat, intake .025'' (0.64 mm) oversize"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 27.92,
+      "y": 79.23,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "C 20295",
+          "desc": "BEARING - crankshaft, front, flanged"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20296",
+          "desc": "BEARING - crankshaft, front .002'' (0.05 mm) undersize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20297",
+          "desc": "BEARING - crankshaft, front .010'' (0.25 mm) undersize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20298",
+          "desc": "BEARING - crankshaft, front .020'' (0.51 mm) undersize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20299",
+          "desc": "BEARING - crankshaft, front .030'' (0.76 mm) undersize"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 46.45,
+      "y": 41.7,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 32274",
+          "desc": "GUIDE - valve, exhaust"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 32275",
+          "desc": "GUIDE - valve, intake"
+        }
+      ]
+    },
+    {
+      "ref": 19,
+      "x": 79.19,
+      "y": 51.69,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8''"
+    },
+    {
+      "ref": 20,
+      "x": 19.77,
+      "y": 69.67,
+      "partNo": "C 23320",
+      "desc": "PIN - alignment, gear cover"
+    },
+    {
+      "ref": 21,
+      "x": 21.87,
+      "y": 31.0,
+      "partNo": "C 20244",
+      "desc": "REED - breather"
+    },
+    {
+      "ref": 22,
+      "x": 7.29,
+      "y": 29.15,
+      "partNo": "C 20245",
+      "desc": "BAFFLE - breather"
+    },
+    {
+      "ref": 23,
+      "x": 19.77,
+      "y": 26.15,
+      "partNo": "C 20243",
+      "desc": "SPRING - breather"
+    },
+    {
+      "ref": 24,
+      "x": 48.68,
+      "y": 26.58,
+      "partNo": "C 33245",
+      "desc": "COVER - valve"
+    },
+    {
+      "ref": 25,
+      "x": 21.87,
+      "y": 14.73,
+      "partNo": "C 24948",
+      "desc": "COVER - valve (with breather port)"
+    },
+    {
+      "ref": 26,
+      "x": 23.23,
+      "y": 21.01,
+      "partNo": "C 20251",
+      "desc": "GASKET - valve cover"
+    },
+    {
+      "ref": 26,
+      "x": 49.42,
+      "y": 33.57,
+      "partNo": "C 20251",
+      "desc": "GASKET - valve cover"
+    },
+    {
+      "ref": 26,
+      "x": 6.18,
+      "y": 35.71,
+      "partNo": "C 20251",
+      "desc": "GASKET - valve cover"
+    },
+    {
+      "ref": 27,
+      "x": 19.89,
+      "y": 35.0,
+      "variants": [
+        {
+          "serialNote": "standard",
+          "partNo": "C 20276",
+          "desc": "TAPPET - valve"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20471",
+          "desc": "TAPPET - valve .002 (0.05 mm) oversize"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 20277",
+          "desc": "TAPPET - valve .005 (0.13 mm) oversize"
+        }
+      ]
+    },
+    {
+      "ref": 28,
+      "x": 69.92,
+      "y": 67.81,
+      "partNo": "C 32272",
+      "desc": "VALVE - intake"
+    },
+    {
+      "ref": 29,
+      "x": 63.01,
+      "y": 76.8,
+      "partNo": "C 32273",
+      "desc": "VALVE - exhaust"
+    },
+    {
+      "ref": 30,
+      "x": 10.13,
+      "y": 10.74,
+      "partNo": "113- 132",
+      "desc": "BOLT - 1/4'' - 20 x 1-3/4''"
+    },
+    {
+      "ref": 30,
+      "x": 45.22,
+      "y": 22.44,
+      "partNo": "113- 132",
+      "desc": "BOLT - 1/4'' - 20 x 1-3/4''"
+    },
+    {
+      "ref": 31,
+      "x": 28.66,
+      "y": 44.56,
+      "partNo": "C 32276",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": 32,
+      "x": 22.12,
+      "y": 41.27,
+      "partNo": "C 32277",
+      "desc": "LOCK - valve and spring"
+    },
+    {
+      "ref": 36,
+      "x": 81.91,
+      "y": 68.81,
+      "partNo": "C 29979",
+      "desc": "GASKET - head"
+    },
+    {
+      "ref": 37,
+      "x": 89.07,
+      "y": 71.95,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C 32279",
+          "desc": "HEAD - cylinder R.H."
+        },
+        {
+          "serialNote": "",
+          "partNo": "C 32280",
+          "desc": "HEAD - cylinder L.H."
+        }
+      ]
+    },
+    {
+      "ref": 38,
+      "x": 30.39,
+      "y": 35.71,
+      "partNo": "C 32281",
+      "desc": "RETAINER - valve spring"
+    },
+    {
+      "ref": 39,
+      "x": 22.36,
+      "y": 28.29,
+      "partNo": "195- 2010",
+      "desc": "WASHER - 1/4\""
+    },
+    {
+      "ref": 40,
+      "x": 93.89,
+      "y": 83.65,
+      "partNo": "C 20248",
+      "desc": "WASHER - 5/16''"
+    },
+    {
+      "ref": 41,
+      "x": 91.79,
+      "y": 92.93,
+      "partNo": "C 32440",
+      "desc": "BOLT - head 2-3/8'' long"
+    },
+    {
+      "ref": 42,
+      "x": 9.52,
+      "y": 14.02,
+      "partNo": "C 20247",
+      "desc": "WASHER - 1/4'' copper"
+    },
+    {
+      "ref": 42,
+      "x": 34.84,
+      "y": 25.72,
+      "partNo": "C 20247",
+      "desc": "WASHER - 1/4'' copper"
+    },
+    {
+      "ref": 43,
+      "x": 17.18,
+      "y": 69.1,
+      "partNo": "211- 7",
+      "desc": "PLUG - core hole"
+    },
+    {
+      "ref": 44,
+      "x": 23.23,
+      "y": 43.56,
+      "partNo": "C 32282",
+      "desc": "CAP - valve"
+    },
+    {
+      "ref": 45,
+      "x": 17.55,
+      "y": 84.22,
+      "variants": [
+        {
+          "serialNote": "does not include bearings",
+          "partNo": "C 29981",
+          "desc": "KIT - gasket, complete engine"
+        },
+        {
+          "serialNote": "carbon removal/valve grind",
+          "partNo": "C 29982",
+          "desc": "KIT - gasket,"
+        }
+      ]
+    },
+    {
+      "ref": 46,
+      "x": 33.23,
+      "y": 11.02,
+      "partNo": "C 20504",
+      "desc": "SCREEN - breather tube"
+    },
+    {
+      "ref": 46,
+      "x": 34.22,
+      "y": 23.3,
+      "partNo": "C 20504",
+      "desc": "SCREEN - breather tube"
+    },
+    {
+      "ref": 47,
+      "x": 33.23,
+      "y": 7.17,
+      "partNo": "C 20490",
+      "desc": "VALVE - breather cap"
+    },
+    {
+      "ref": 48,
+      "x": 22.86,
+      "y": 11.02,
+      "partNo": "C 20493",
+      "desc": "\"O\" RING - breather cap"
+    },
+    {
+      "ref": 49,
+      "x": 35.34,
+      "y": 13.16,
+      "partNo": "C 22265",
+      "desc": "SCREW - #8 x 3/4 self tapping"
+    },
+    {
+      "ref": 50,
+      "x": 35.83,
+      "y": 16.16,
+      "partNo": "C 20536",
+      "desc": "CLAMP - breather cap"
+    },
+    {
+      "ref": 51,
+      "x": 34.22,
+      "y": 20.16,
+      "partNo": "C 29948",
+      "desc": "FILTER - breather"
+    },
+    {
+      "ref": 52,
+      "x": 33.98,
+      "y": 28.72,
+      "partNo": "C 33247",
+      "desc": "TUBE - breather"
+    },
+    {
+      "ref": 33,
+      "x": 26.81,
+      "y": 39.56,
+      "estimated": true,
+      "partNo": "C 32278",
+      "desc": "SEAL - intake valve"
+    }
+  ],
+  "footnotes": "* use before S/N; ** use S/N and after: 3016-14127138, 3018-14132690, 3020-14133215, 4016-14128811, 4018-14129997, 4020-14131216. NOTE: this diagram (page 6) is printed a second, identical time on page 8, next to the rest of the parts table (ref 21-52) -- page 6 was used here since one copy covers every ref. Refs 17-18 and 34-35 not confirmed as separate callouts in the printed artwork -- verify while placing dots (could be a real gap, like the 8-3112 precedent). Ref 33 (SEAL - intake valve) is real (listed in table, confirmed p7) but has no printed callout circle on the diagram -- hotspot placed at an ESTIMATED position in the valve-stem hardware cluster near refs 31/32/38/44, not an exact circle match."
+}
