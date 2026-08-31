@@ -1,0 +1,481 @@
+{
+  "sectionTitle": "Hydraulic System — 3016PS,3020PS,4016PS,4018PS (3018PS before PIN, 4020PS before PIN)",
+  "breadcrumb": "Hydraulic System — 3016PS,3020PS,4016PS,4018PS (3018PS before PIN, 4020PS before PIN)",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/hydraulic_system_before.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 32.72,
+      "y": 47.55,
+      "partNo": "C 33473",
+      "desc": "VALVE - control (repairs page 57)"
+    },
+    {
+      "ref": 2,
+      "x": 32.97,
+      "y": 56.36,
+      "partNo": "218-5065",
+      "desc": "FITTING - 3/4\" x 5/8\""
+    },
+    {
+      "ref": 3,
+      "x": 28.55,
+      "y": 60.27,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 4,
+      "x": 29.66,
+      "y": 71.09,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° elbow"
+    },
+    {
+      "ref": 4,
+      "x": 14.34,
+      "y": 71.43,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° elbow"
+    },
+    {
+      "ref": 5,
+      "x": 28.31,
+      "y": 67.86,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 6,
+      "x": 45.22,
+      "y": 48.1,
+      "partNo": "218-5062",
+      "desc": "FITTING - 5/8\" x 7/8\" \"O\" ring"
+    },
+    {
+      "ref": 6,
+      "x": 36.89,
+      "y": 20.98,
+      "partNo": "218-5062",
+      "desc": "FITTING - 5/8\" x 7/8\" \"O\" ring"
+    },
+    {
+      "ref": 6,
+      "x": 29.29,
+      "y": 27.9,
+      "partNo": "218-5062",
+      "desc": "FITTING - 5/8\" x 7/8\" \"O\" ring"
+    },
+    {
+      "ref": 7,
+      "x": 37.99,
+      "y": 46.88,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 7,
+      "x": 26.35,
+      "y": 26.12,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 9,
+      "x": 20.71,
+      "y": 41.3,
+      "partNo": "C 27764",
+      "desc": "SCREW - 5/16\" - 18 x 1-1/4\" round head"
+    },
+    {
+      "ref": 10,
+      "x": 31.37,
+      "y": 41.96,
+      "partNo": "131-351",
+      "desc": "NUT - lock 5/16\""
+    },
+    {
+      "ref": 11,
+      "x": 9.07,
+      "y": 65.51,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 29655",
+          "desc": "TUBE - valve to upper motor port (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016PS, 4018PS, 4020PS)",
+          "partNo": "C 29657",
+          "desc": "TUBE - valve to upper motor port (4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 17.53,
+      "y": 59.49,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 29656",
+          "desc": "TUBE - valve to lower motor port (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016PS, 4018PS, 4020PS)",
+          "partNo": "C 29658",
+          "desc": "TUBE - valve to lower motor port (4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 79.29,
+      "y": 94.42,
+      "partNo": "C 31435",
+      "desc": "TUBE - valve \"out\" to heat exchanger"
+    },
+    {
+      "ref": 14,
+      "x": 14.34,
+      "y": 16.85,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 30939",
+          "desc": "MOTOR - hydraulic (repairs page 55) (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016PS, 4018PS, 4020PS)",
+          "partNo": "C 33234",
+          "desc": "MOTOR - hydraulic (4016PS, 4018PS, 4020PS) (repairs page 55)"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 8.82,
+      "y": 20.76,
+      "partNo": "C 28949",
+      "desc": "SEAL - motor to transmission"
+    },
+    {
+      "ref": 16,
+      "x": 18.75,
+      "y": 12.5,
+      "partNo": "166-85",
+      "desc": "SCREW - 1/2\" - 13 x 1\" 12 pt. flange"
+    },
+    {
+      "ref": 17,
+      "x": 78.06,
+      "y": 56.92,
+      "partNo": "C 33579",
+      "desc": "PUMP - hydraulic 3/4\" shaft (repairs page 53)"
+    },
+    {
+      "ref": 18,
+      "x": 88.6,
+      "y": 58.37,
+      "partNo": "C 33551",
+      "desc": "HOSE - pump inlet"
+    },
+    {
+      "ref": 19,
+      "x": 91.3,
+      "y": 14.4,
+      "partNo": "C 33180",
+      "desc": "RESERVOIR - oil"
+    },
+    {
+      "ref": 20,
+      "x": 75.37,
+      "y": 7.03,
+      "partNo": "C 37093",
+      "desc": "CAP - reservoir"
+    },
+    {
+      "ref": 21,
+      "x": 84.56,
+      "y": 65.85,
+      "partNo": "C 31295",
+      "desc": "EXCHANGER - heat"
+    },
+    {
+      "ref": 22,
+      "x": 64.34,
+      "y": 88.95,
+      "partNo": "C 33555",
+      "desc": "HOSE - formed 90°"
+    },
+    {
+      "ref": 23,
+      "x": 77.21,
+      "y": 88.06,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 23,
+      "x": 82.6,
+      "y": 82.48,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 23,
+      "x": 53.8,
+      "y": 76.9,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 23,
+      "x": 79.05,
+      "y": 72.32,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 23,
+      "x": 62.13,
+      "y": 48.1,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 23,
+      "x": 77.45,
+      "y": 48.1,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 23,
+      "x": 77.21,
+      "y": 39.29,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 23,
+      "x": 67.65,
+      "y": 39.51,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 24,
+      "x": 87.38,
+      "y": 26.0,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose 1-3/8\""
+    },
+    {
+      "ref": 24,
+      "x": 77.08,
+      "y": 69.42,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose 1-3/8\""
+    },
+    {
+      "ref": 25,
+      "x": 64.09,
+      "y": 71.32,
+      "partNo": "C 33557",
+      "desc": "HOSE - pump to regulator"
+    },
+    {
+      "ref": 26,
+      "x": 61.64,
+      "y": 51.12,
+      "partNo": "218-5117",
+      "desc": "FITTING - 90° elbow"
+    },
+    {
+      "ref": 26,
+      "x": 57.11,
+      "y": 56.47,
+      "partNo": "218-5117",
+      "desc": "FITTING - 90° elbow"
+    },
+    {
+      "ref": 27,
+      "x": 93.87,
+      "y": 63.62,
+      "partNo": "C 31973",
+      "desc": "\"J\" NUT - 1/4\" - 20"
+    },
+    {
+      "ref": 28,
+      "x": 91.05,
+      "y": 67.08,
+      "partNo": "C 31974",
+      "desc": "\"U\" Clip - retainer"
+    },
+    {
+      "ref": 29,
+      "x": 17.65,
+      "y": 56.92,
+      "partNo": "C 33559",
+      "desc": "FITTING - tee, 3/8\" tube x 1/2\" - 20"
+    },
+    {
+      "ref": 30,
+      "x": 6.13,
+      "y": 49.89,
+      "partNo": "218-754",
+      "desc": "CAP - 3/8\" tube"
+    },
+    {
+      "ref": 31,
+      "x": 53.92,
+      "y": 19.53,
+      "partNo": "C 33577",
+      "desc": "BRACKET - oil filter"
+    },
+    {
+      "ref": 32,
+      "x": 61.4,
+      "y": 26.9,
+      "partNo": "C 33446",
+      "desc": "HEAD - oil filter"
+    },
+    {
+      "ref": 33,
+      "x": 57.97,
+      "y": 15.96,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 33,
+      "x": 49.76,
+      "y": 22.32,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 34,
+      "x": 45.71,
+      "y": 27.46,
+      "partNo": "217-333",
+      "desc": "FITTING - 90° 3/8\" NPTF x 3/4\" barb stem"
+    },
+    {
+      "ref": 34,
+      "x": 73.53,
+      "y": 32.37,
+      "partNo": "217-333",
+      "desc": "FITTING - 90° 3/8\" NPTF x 3/4\" barb stem"
+    },
+    {
+      "ref": 35,
+      "x": 57.84,
+      "y": 39.96,
+      "partNo": "C 33445",
+      "desc": "FILTER - oil"
+    },
+    {
+      "ref": 36,
+      "x": 75.37,
+      "y": 53.35,
+      "partNo": "C 33544",
+      "desc": "TUBE - filter to tank"
+    },
+    {
+      "ref": 37,
+      "x": 75.74,
+      "y": 83.82,
+      "partNo": "C 33556",
+      "desc": "HOSE - formed 90°"
+    },
+    {
+      "ref": 38,
+      "x": 76.84,
+      "y": 44.09,
+      "partNo": "NSS",
+      "desc": "HOSE - 3/4\" x 4\" (use C29697 cut to length)"
+    },
+    {
+      "ref": 38,
+      "x": 59.68,
+      "y": 42.19,
+      "partNo": "NSS",
+      "desc": "HOSE - 3/4\" x 4\" (use C29697 cut to length)"
+    },
+    {
+      "ref": 39,
+      "x": 69.98,
+      "y": 70.76,
+      "partNo": "217-366",
+      "desc": "FITTING - 90° 1\" hose x 1-1/16\" - 20 UNF"
+    },
+    {
+      "ref": 40,
+      "x": 51.47,
+      "y": 50.0,
+      "partNo": "C 33766",
+      "desc": "TUBE - hydraulic"
+    },
+    {
+      "ref": 41,
+      "x": 52.82,
+      "y": 68.53,
+      "partNo": "C 25245",
+      "desc": "FITTING - hydraulic"
+    },
+    {
+      "ref": 42,
+      "x": 44.36,
+      "y": 60.16,
+      "partNo": "C 33765",
+      "desc": "HOSE - regulator valve \"by pass\" to travel valve"
+    },
+    {
+      "ref": 43,
+      "x": 41.79,
+      "y": 35.71,
+      "partNo": "C 33834",
+      "desc": "BRACKET - support"
+    },
+    {
+      "ref": 44,
+      "x": 48.78,
+      "y": 42.97,
+      "partNo": "C 33218",
+      "desc": "CLAMP - tube"
+    },
+    {
+      "ref": 45,
+      "x": 46.81,
+      "y": 45.76,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\""
+    },
+    {
+      "ref": 45,
+      "x": 46.32,
+      "y": 34.93,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\""
+    },
+    {
+      "ref": 46,
+      "x": 36.52,
+      "y": 38.28,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange"
+    },
+    {
+      "ref": 47,
+      "x": 36.52,
+      "y": 44.42,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\""
+    }
+  ],
+  "footnotes": "3016PS, 3020PS (3018PS before PIN 14181900); 4016PS, 4018PS (4020PS before PIN 14184000). Ref 8 does not exist in the printed table (skips 7->9)."
+}

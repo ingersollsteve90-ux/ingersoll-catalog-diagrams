@@ -1,0 +1,333 @@
+{
+  "sectionTitle": "Front Axle",
+  "breadcrumb": "Front Axle",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/front_axle.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 57.35,
+      "y": 16.81,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 18812",
+          "desc": "AXLE - front (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 40687",
+          "desc": "AXLE - front shown (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 35.31,
+      "y": 74.23,
+      "partNo": "195-545",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": 3,
+      "x": 45.63,
+      "y": 57.85,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 45088",
+          "desc": "SPINDLE - R.H. (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016)",
+          "partNo": "C 31341",
+          "desc": "SPINDLE - R.H. shown (4016)"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 45086",
+          "desc": "SPINDLE - L.H. (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS, before PIN)",
+          "partNo": "C 31340",
+          "desc": "SPINDLE - L.H. (4016, 4016PS, 4018PS, 4020PS, before PIN)"
+        },
+        {
+          "serialNote": "(4016PS, 4018PS, 4020PS, before PIN)",
+          "partNo": "C 33537",
+          "desc": "SPINDLE - R.H. (4016PS, 4018PS, 4020PS, before PIN)"
+        },
+        {
+          "serialNote": "(4020PS, PIN and after)",
+          "partNo": "C 40690",
+          "desc": "SPINDLE - L.H. (4020PS, PIN and after)"
+        },
+        {
+          "serialNote": "(4020PS, PIN and after)",
+          "partNo": "C 40688",
+          "desc": "SPINDLE - R.H. (4020PS, PIN and after) shown"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 44.65,
+      "y": 47.19,
+      "variants": [
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 27902",
+          "desc": "RING - retaining, spindle (4016, 4016PS, 4018PS, 4020PS)"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 28232",
+          "desc": "RING - retaining, spindle (3016PS, 3018PS, 3020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 90.13,
+      "y": 37.72,
+      "partNo": "C 22278",
+      "desc": "PIN - retaining, axle pivot"
+    },
+    {
+      "ref": 6,
+      "x": 47.8,
+      "y": 40.09,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 11906",
+          "desc": "WASHER - thrust (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 13716",
+          "desc": "WASHER - thrust (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 46.39,
+      "y": 23.52,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 11906",
+          "desc": "WASHER - thrust (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 13716",
+          "desc": "WASHER - thrust (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 63.75,
+      "y": 45.22,
+      "partNo": "219-404",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 8,
+      "x": 67.55,
+      "y": 49.96,
+      "partNo": "C 13106",
+      "desc": "COVER - lubrication fitting"
+    },
+    {
+      "ref": 8,
+      "x": 64.95,
+      "y": 9.91,
+      "partNo": "C 13106",
+      "desc": "COVER - lubrication fitting"
+    },
+    {
+      "ref": 9,
+      "x": 43.13,
+      "y": 90.21,
+      "partNo": "132-311",
+      "desc": "PIN - cotter 5/32\" x 1-1/4\""
+    },
+    {
+      "ref": 10,
+      "x": 69.94,
+      "y": 62.19,
+      "variants": [
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 25855",
+          "desc": "TIE ROD - (4016, 4016PS, 4018PS, 4020PS)"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 25856",
+          "desc": "TIE ROD - (3016PS, 3018PS, 3020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 31.73,
+      "y": 77.58,
+      "partNo": "C 28226",
+      "desc": "WASHER - wheel spacer"
+    },
+    {
+      "ref": 12,
+      "x": 94.58,
+      "y": 33.58,
+      "partNo": "187-1910",
+      "desc": "BOLT - 3/8\" - 16 x 3/4\" N.C. hex head"
+    },
+    {
+      "ref": 13,
+      "x": 22.94,
+      "y": 28.85,
+      "partNo": "C 44806",
+      "desc": "LINK - drag (4016)"
+    },
+    {
+      "ref": 14,
+      "x": 10.24,
+      "y": 16.02,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc"
+    },
+    {
+      "ref": 14,
+      "x": 32.93,
+      "y": 48.18,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc"
+    },
+    {
+      "ref": 14,
+      "x": 93.6,
+      "y": 60.81,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc"
+    },
+    {
+      "ref": 14,
+      "x": 50.94,
+      "y": 86.26,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc"
+    },
+    {
+      "ref": 15,
+      "x": 59.84,
+      "y": 83.7,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2\" N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 84.7,
+      "y": 68.7,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2\" N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 32.27,
+      "y": 52.72,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2\" N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 12.63,
+      "y": 21.15,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2\" N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 5.47,
+      "y": 10.3,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2\" N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 16,
+      "x": 32.27,
+      "y": 36.94,
+      "partNo": "129-365",
+      "desc": "NUT - 1/2\" N.F. L.H. thread, lock"
+    },
+    {
+      "ref": 16,
+      "x": 78.73,
+      "y": 57.45,
+      "partNo": "129-365",
+      "desc": "NUT - 1/2\" N.F. L.H. thread, lock"
+    },
+    {
+      "ref": 17,
+      "x": 94.14,
+      "y": 52.72,
+      "partNo": "C 44641",
+      "desc": "BALL JOINT - 1/2\" L.H. thread"
+    },
+    {
+      "ref": 17,
+      "x": 36.94,
+      "y": 39.89,
+      "partNo": "C 44641",
+      "desc": "BALL JOINT - 1/2\" L.H. thread"
+    },
+    {
+      "ref": 18,
+      "x": 8.72,
+      "y": 31.21,
+      "partNo": "C 44640",
+      "desc": "BALL JOINT - 1/2\" R.H. thread"
+    },
+    {
+      "ref": 18,
+      "x": 55.29,
+      "y": 73.44,
+      "partNo": "C 44640",
+      "desc": "BALL JOINT - 1/2\" R.H. thread"
+    },
+    {
+      "ref": 19,
+      "x": 75.8,
+      "y": 44.24,
+      "partNo": "C 22568",
+      "desc": "PIN - axle pivot"
+    },
+    {
+      "ref": 20,
+      "x": 67.98,
+      "y": 14.25,
+      "partNo": "219-17",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 21,
+      "x": 62.01,
+      "y": 65.94,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/4\""
+    },
+    {
+      "ref": 22,
+      "x": 58.54,
+      "y": 69.69,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16"
+    }
+  ],
+  "footnotes": "Axle/spindle/washer/tie-rod part numbers vary 3016PS,3018PS,3020PS vs 4016,4016PS,4018PS,4020PS (variants per ref). Ref3 spindle also has before/after-PIN variants for 4020PS (PIN 14180301)."
+}

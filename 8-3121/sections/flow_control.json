@@ -1,0 +1,181 @@
+{
+  "sectionTitle": "Flow Control",
+  "breadcrumb": "Flow Control",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/flow_control.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 76.3,
+      "y": 22.49,
+      "partNo": "C 23618",
+      "desc": "VALVE - flow control"
+    },
+    {
+      "ref": 2,
+      "x": 60.66,
+      "y": 40.59,
+      "partNo": "218-445",
+      "desc": "FITTING - 5/8\" tube x 7/8\" - 14"
+    },
+    {
+      "ref": 3,
+      "x": 48.53,
+      "y": 19.66,
+      "partNo": "218-485",
+      "desc": "FITTING - 90° 5/8\" tube x 7/8\" - 14"
+    },
+    {
+      "ref": 3,
+      "x": 80.91,
+      "y": 26.64,
+      "partNo": "218-485",
+      "desc": "FITTING - 90° 5/8\" tube x 7/8\" - 14"
+    },
+    {
+      "ref": 4,
+      "x": 57.26,
+      "y": 45.08,
+      "partNo": "C 44986",
+      "desc": "TUBE - flow valve to travel valve"
+    },
+    {
+      "ref": 5,
+      "x": 46.83,
+      "y": 56.87,
+      "partNo": "C 42531",
+      "desc": "TUBE - flow valve to PTO valve"
+    },
+    {
+      "ref": 6,
+      "x": 54.96,
+      "y": 80.13,
+      "partNo": "C 36846",
+      "desc": "TUBE - travel valve to heat exchanger"
+    },
+    {
+      "ref": 7,
+      "x": 94.01,
+      "y": 17.0,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 8,
+      "x": 59.45,
+      "y": 14.85,
+      "partNo": "C 36848",
+      "desc": "LEVER - control"
+    },
+    {
+      "ref": 9,
+      "x": 69.75,
+      "y": 85.77,
+      "partNo": "C 36849",
+      "desc": "HOSE - return 5/8\""
+    },
+    {
+      "ref": 10,
+      "x": 53.63,
+      "y": 11.69,
+      "partNo": "C 28251",
+      "desc": "KNOB - lever"
+    },
+    {
+      "ref": 11,
+      "x": 89.88,
+      "y": 84.44,
+      "partNo": "C 36850",
+      "desc": "TUBE - flow valve to return"
+    },
+    {
+      "ref": 12,
+      "x": 91.22,
+      "y": 8.37,
+      "partNo": "113-15",
+      "desc": "BOLT - 1/4 - 20 x 2-1/4\""
+    },
+    {
+      "ref": 13,
+      "x": 70.12,
+      "y": 13.35,
+      "partNo": "131-1180",
+      "desc": "NUT - lock 1/4\" - 20"
+    },
+    {
+      "ref": 14,
+      "x": 84.55,
+      "y": 22.32,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 15,
+      "x": 61.02,
+      "y": 85.77,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 15,
+      "x": 71.94,
+      "y": 91.75,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 16,
+      "x": 69.75,
+      "y": 9.7,
+      "partNo": "C 36853",
+      "desc": "BRACKET - mounting"
+    },
+    {
+      "ref": 17,
+      "x": 39.19,
+      "y": 19.99,
+      "variants": [
+        {
+          "serialNote": "(3018PS)",
+          "partNo": "C 44987",
+          "desc": "TUBE - flow valve to PTO valve (3018PS)"
+        },
+        {
+          "serialNote": "(4020PS)",
+          "partNo": "C 44988",
+          "desc": "TUBE - flow valve to PTO valve (4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 16.28,
+      "y": 70.99,
+      "partNo": "C 33220",
+      "desc": "DECAL - \"fast\""
+    },
+    {
+      "ref": 19,
+      "x": 27.43,
+      "y": 71.16,
+      "partNo": "C 33219",
+      "desc": "DECAL - \"slow\""
+    },
+    {
+      "ref": 20,
+      "x": 6.09,
+      "y": 45.08,
+      "partNo": "218-5229",
+      "desc": "FITTING - 90° swivel 5/16\" tube (install to tee fittings on travel valve when 3 point hitch is used)"
+    },
+    {
+      "ref": 21,
+      "x": 47.8,
+      "y": 37.44,
+      "partNo": "218-5232",
+      "desc": "FITTING - 90° swivel 5/8\" tube"
+    }
+  ],
+  "footnotes": "Use with HP34 PTO. Use after PIN: 3018PS-14181900, 4020PS-14184000. CONFIRMED CATALOG MISPRINT: the circle near the two 90-degree fittings by the flow valve is printed as '32' in the original catalog, but ref 32 does not exist in the printed parts table (table only goes 1-21). Ref 21 (FITTING-90 swivel 5/8in tube, 'install to tee fittings on travel valve when 3 point hitch is used') matches this location and part description -- user confirmed the '32' circle is a misprint that should read '21'. Hotspot placement corrected: the dot is placed on the '32' circle location and labeled ref 21; no separate ref-32 hotspot exists."
+}

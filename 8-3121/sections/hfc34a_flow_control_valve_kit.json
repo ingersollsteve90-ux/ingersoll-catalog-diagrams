@@ -1,0 +1,174 @@
+{
+  "sectionTitle": "HFC34A Flow Control Valve Kit",
+  "breadcrumb": "HFC34A Flow Control Valve Kit",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/hfc34a_flow_control_valve_kit.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 74.26,
+      "y": 23.14,
+      "partNo": "C 23618",
+      "desc": "VALVE - flow control"
+    },
+    {
+      "ref": 2,
+      "x": 57.1,
+      "y": 40.58,
+      "partNo": "218-445",
+      "desc": "FITTING - 5/8\" x 7/8\" - 14"
+    },
+    {
+      "ref": 3,
+      "x": 41.67,
+      "y": 22.64,
+      "partNo": "218-485",
+      "desc": "FITTING - 5/8\" x 7/8\" - 14 90° elbow"
+    },
+    {
+      "ref": 3,
+      "x": 79.72,
+      "y": 26.46,
+      "partNo": "218-485",
+      "desc": "FITTING - 5/8\" x 7/8\" - 14 90° elbow"
+    },
+    {
+      "ref": 4,
+      "x": 53.11,
+      "y": 44.4,
+      "partNo": "C 36844",
+      "desc": "TUBE - flow valve to travel valve"
+    },
+    {
+      "ref": 5,
+      "x": 41.94,
+      "y": 56.85,
+      "partNo": "C 36845",
+      "desc": "TUBE - flow valve to PTO valve"
+    },
+    {
+      "ref": 6,
+      "x": 50.72,
+      "y": 79.43,
+      "partNo": "C 36846",
+      "desc": "TUBE - travel valve to heat exchanger"
+    },
+    {
+      "ref": 7,
+      "x": 93.42,
+      "y": 17.83,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20"
+    },
+    {
+      "ref": 8,
+      "x": 55.77,
+      "y": 15.33,
+      "partNo": "C 36848",
+      "desc": "LEVER - valve"
+    },
+    {
+      "ref": 9,
+      "x": 65.62,
+      "y": 85.58,
+      "partNo": "C 36849",
+      "desc": "HOSE - rubber 5/8\" I.D."
+    },
+    {
+      "ref": 10,
+      "x": 50.05,
+      "y": 11.68,
+      "partNo": "C 28251",
+      "desc": "KNOB - lever"
+    },
+    {
+      "ref": 11,
+      "x": 88.5,
+      "y": 84.08,
+      "partNo": "C 36850",
+      "desc": "TUBE - flow valve to return"
+    },
+    {
+      "ref": 12,
+      "x": 91.56,
+      "y": 8.36,
+      "partNo": "113-15",
+      "desc": "BOLT - 1/4\" - 20 x 2-1/4\""
+    },
+    {
+      "ref": 13,
+      "x": 67.88,
+      "y": 13.67,
+      "partNo": "131-1180",
+      "desc": "NUT - 1/4\" - 20 lock"
+    },
+    {
+      "ref": 14,
+      "x": 82.91,
+      "y": 23.14,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\" flange lock"
+    },
+    {
+      "ref": 15,
+      "x": 68.68,
+      "y": 91.72,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose #12 5/8\" to 1-1/4\""
+    },
+    {
+      "ref": 15,
+      "x": 57.37,
+      "y": 84.75,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose #12 5/8\" to 1-1/4\""
+    },
+    {
+      "ref": 16,
+      "x": 30.37,
+      "y": 14.67,
+      "partNo": "C 22947",
+      "desc": "TIE - nylon"
+    },
+    {
+      "ref": 17,
+      "x": 22.78,
+      "y": 19.32,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C 33010",
+          "desc": "HOSE - flow valve to PTO (for 3012, 3014, 3016)"
+        },
+        {
+          "serialNote": "(for 4016)",
+          "partNo": "C 33011",
+          "desc": "HOSE - flow valve to PTO (for 4016)"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 6.69,
+      "y": 74.29,
+      "partNo": "C 33220",
+      "desc": "DECAL - \"fast\""
+    },
+    {
+      "ref": 19,
+      "x": 18.66,
+      "y": 74.62,
+      "partNo": "C 33219",
+      "desc": "DECAL - \"slow\""
+    },
+    {
+      "ref": 20,
+      "x": 67.08,
+      "y": 10.02,
+      "partNo": "C 36853",
+      "desc": "BRACKET - mounting"
+    }
+  ],
+  "footnotes": "Use with HP31 or HP41 PTO. All 3016PS,3020PS,4016,4016PS,4018PS. 3018PS - before PIN 14181900. 4020PS - before PIN 14184000."
+}

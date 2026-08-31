@@ -1,0 +1,181 @@
+{
+  "sectionTitle": "Manual Steering (4016)",
+  "breadcrumb": "Manual Steering (4016)",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/manual_steering_4016.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 6.05,
+      "y": 52.1,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" N.C. hex"
+    },
+    {
+      "ref": 2,
+      "x": 79.04,
+      "y": 5.63,
+      "partNo": "C26325",
+      "desc": "WHEEL - steering"
+    },
+    {
+      "ref": 3,
+      "x": 24.75,
+      "y": 58.4,
+      "partNo": "C29044",
+      "desc": "PIN - pivot"
+    },
+    {
+      "ref": 4,
+      "x": 41.88,
+      "y": 35.56,
+      "partNo": "C33940",
+      "desc": "SHAFT - steering"
+    },
+    {
+      "ref": 4,
+      "x": 59.25,
+      "y": 77.87,
+      "partNo": "C33940",
+      "desc": "SHAFT - steering"
+    },
+    {
+      "ref": 5,
+      "x": 13.29,
+      "y": 32.19,
+      "partNo": "C29812",
+      "desc": "WASHER - 3/8\" x 1.4\""
+    },
+    {
+      "ref": 5,
+      "x": 24.99,
+      "y": 88.11,
+      "partNo": "C29812",
+      "desc": "WASHER - 3/8\" x 1.4\""
+    },
+    {
+      "ref": 6,
+      "x": 14.86,
+      "y": 27.12,
+      "partNo": "113-241",
+      "desc": "BOLT - 3/8\" - 16 x 3\""
+    },
+    {
+      "ref": 7,
+      "x": 22.94,
+      "y": 64.14,
+      "partNo": "C14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 7,
+      "x": 43.33,
+      "y": 84.73,
+      "partNo": "C14201",
+      "desc": "WASHER - shim"
+    },
+    {
+      "ref": 8,
+      "x": 25.71,
+      "y": 94.41,
+      "partNo": "131-1352",
+      "desc": "NUT - 3/8\" - 16 hex lock (tighten to a torque of 45 ft. lbs.)"
+    },
+    {
+      "ref": 9,
+      "x": 49.12,
+      "y": 55.36,
+      "partNo": "C27501",
+      "desc": "BUSHING"
+    },
+    {
+      "ref": 10,
+      "x": 34.88,
+      "y": 22.06,
+      "partNo": "138-143",
+      "desc": "PIN - roll 1/4\" - 2-1/4\""
+    },
+    {
+      "ref": 11,
+      "x": 35.25,
+      "y": 17.56,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "195-541",
+          "desc": "WASHER - 5/8\""
+        },
+        {
+          "serialNote": null,
+          "partNo": "195-2206",
+          "desc": "WASHER - shim .060\""
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 21.37,
+      "y": 75.95,
+      "partNo": "C33309",
+      "desc": "GEAR - steering"
+    },
+    {
+      "ref": 13,
+      "x": 26.08,
+      "y": 71.34,
+      "partNo": "C33308",
+      "desc": "BUSHING - sleeve"
+    },
+    {
+      "ref": 13,
+      "x": 26.2,
+      "y": 83.16,
+      "partNo": "C33308",
+      "desc": "BUSHING - sleeve"
+    },
+    {
+      "ref": 14,
+      "x": 11.48,
+      "y": 50.3,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 15,
+      "x": 53.34,
+      "y": 61.44,
+      "partNo": "195-2069",
+      "desc": "WASHER - 5/8\" zinc plated"
+    },
+    {
+      "ref": 16,
+      "x": 19.68,
+      "y": 19.92,
+      "partNo": "C15096",
+      "desc": "BUSHING - flanged nylon"
+    },
+    {
+      "ref": 17,
+      "x": 52.13,
+      "y": 41.64,
+      "partNo": "C44378",
+      "desc": "SUPPORT - steering gear (includes item 9)"
+    },
+    {
+      "ref": 18,
+      "x": 89.65,
+      "y": 33.42,
+      "partNo": "C33945",
+      "desc": "TUBE - steering"
+    },
+    {
+      "ref": 19,
+      "x": 21.13,
+      "y": 49.85,
+      "partNo": "195-103",
+      "desc": "WASHER - 3/8\""
+    }
+  ],
+  "footnotes": "4016 is the only model in this catalog without power steering (see title page: '4016* PIN 14149628 to 14170800 — this model does not have power steering'). This section is specific to that model only."
+}

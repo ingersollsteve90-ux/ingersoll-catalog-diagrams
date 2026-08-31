@@ -1,0 +1,104 @@
+{
+  "sectionTitle": "HH34 Three Point Hitch Cylinder",
+  "breadcrumb": "HH34 Three Point Hitch Cylinder",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/hh34_hitch_cylinder.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 10.39,
+      "y": 43.97,
+      "partNo": "218-5479",
+      "desc": "FITTING - tee 1/2\" - 20 swivel female x 1/2\" - 20 male"
+    },
+    {
+      "ref": 2,
+      "x": 89.7,
+      "y": 32.34,
+      "partNo": "C 28189",
+      "desc": "PIN - cylinder rod 1/2\" x 2-1/8\""
+    },
+    {
+      "ref": 3,
+      "x": 87.83,
+      "y": 60.76,
+      "partNo": "C 32254",
+      "desc": "PIN - cylinder foot 1/2\" x 4-5/8\""
+    },
+    {
+      "ref": 4,
+      "x": 83.68,
+      "y": 40.09,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 4,
+      "x": 85.13,
+      "y": 9.28,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 5,
+      "x": 28.87,
+      "y": 26.99,
+      "partNo": "C 32247",
+      "desc": "HOSE - hydraulic 1/4\" x 33\" (cylinder to forward valve port)"
+    },
+    {
+      "ref": 6,
+      "x": 35.3,
+      "y": 74.97,
+      "partNo": "C 32246",
+      "desc": "HOSE - hydraulic 1/4\" x 24\" (cylinder to rear valve port)"
+    },
+    {
+      "ref": 7,
+      "x": 44.23,
+      "y": 25.15,
+      "partNo": "218-5104",
+      "desc": "FITTING - 90° elbow 5/16\" tube x 1/2\" - 20"
+    },
+    {
+      "ref": 7,
+      "x": 70.39,
+      "y": 90.83,
+      "partNo": "218-5104",
+      "desc": "FITTING - 90° elbow 5/16\" tube x 1/2\" - 20"
+    },
+    {
+      "ref": 8,
+      "x": 57.31,
+      "y": 25.52,
+      "partNo": "218-5004",
+      "desc": "O-Ring"
+    },
+    {
+      "ref": 8,
+      "x": 74.75,
+      "y": 74.41,
+      "partNo": "218-5004",
+      "desc": "O-Ring"
+    },
+    {
+      "ref": 9,
+      "x": 65.82,
+      "y": 20.9,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C 32245",
+          "desc": "CYLINDER - lift"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C 34533",
+          "desc": "KIT - seal"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

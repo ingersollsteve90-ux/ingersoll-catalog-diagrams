@@ -1,0 +1,194 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor",
+  "breadcrumb": "Hydraulic Drive Motor",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/hydraulic_drive_motor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 65.52,
+      "y": 93.7,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "28-668",
+          "desc": "BOLT - 3/8\" - 24 x 4-1/4\" (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C31327",
+          "desc": "BOLT - 3/8\" - 24 x 4-5/8\" (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 59.81,
+      "y": 91.66,
+      "partNo": "C31309",
+      "desc": "COVER - end"
+    },
+    {
+      "ref": 3,
+      "x": 52.16,
+      "y": 63.71,
+      "partNo": "C31310",
+      "desc": "COMMUTATOR AND RING SET"
+    },
+    {
+      "ref": 4,
+      "x": 33.85,
+      "y": 74.43,
+      "partNo": "C31311",
+      "desc": "MANIFOLD"
+    },
+    {
+      "ref": 5,
+      "x": 29.64,
+      "y": 49.54,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C31312",
+          "desc": "ROTOR ASSEMBLY (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C31313",
+          "desc": "ROTOR ASSEMBLY (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 7.58,
+      "y": 57.33,
+      "partNo": "C31314",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": 7,
+      "x": 92.54,
+      "y": 49.54,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C31315",
+          "desc": "LINK - drive (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C31316",
+          "desc": "LINK - drive (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 79.93,
+      "y": 39.46,
+      "partNo": "C31317",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 9,
+      "x": 71.67,
+      "y": 36.4,
+      "partNo": "C31318",
+      "desc": "SHAFT - coupling"
+    },
+    {
+      "ref": 10,
+      "x": 59.06,
+      "y": 27.59,
+      "partNo": "C31319",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 11,
+      "x": 51.56,
+      "y": 41.5,
+      "partNo": "C31320",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 12,
+      "x": 43.3,
+      "y": 11.0,
+      "partNo": "C31321",
+      "desc": "HOUSING - drive end"
+    },
+    {
+      "ref": 13,
+      "x": 34.6,
+      "y": 9.98,
+      "partNo": "C31322",
+      "desc": "BEARING - outer"
+    },
+    {
+      "ref": 14,
+      "x": 46.61,
+      "y": 79.15,
+      "partNo": "NSS",
+      "desc": "SEAL - commutator ring"
+    },
+    {
+      "ref": 15,
+      "x": 15.83,
+      "y": 62.56,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 29.79,
+      "y": 70.98,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 40.15,
+      "y": 79.15,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 54.41,
+      "y": 88.08,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 87.73,
+      "y": 40.61,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 16,
+      "x": 53.06,
+      "y": 23.38,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 17,
+      "x": 47.51,
+      "y": 20.07,
+      "partNo": "NSS",
+      "desc": "WASHER - backup"
+    },
+    {
+      "ref": 18,
+      "x": 27.54,
+      "y": 6.41,
+      "partNo": "NSS",
+      "desc": "SEAL - dirt (not used)"
+    }
+  ],
+  "footnotes": "Bolt(ref1)/rotor assembly(ref5)/link-drive(ref7) vary 3016PS,3018PS,3020PS vs 4016,4016PS,4018PS,4020PS (variants per ref)."
+}

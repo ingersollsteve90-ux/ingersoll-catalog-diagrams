@@ -1,0 +1,220 @@
+{
+  "sectionTitle": "Speed Control",
+  "breadcrumb": "Speed Control",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/speed_control.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 50.55,
+      "y": 7.54,
+      "partNo": "C 28237",
+      "desc": "KNOB - speed control"
+    },
+    {
+      "ref": 2,
+      "x": 41.7,
+      "y": 21.57,
+      "partNo": "C 29636",
+      "desc": "BUSHING - lever"
+    },
+    {
+      "ref": 3,
+      "x": 37.53,
+      "y": 54.9,
+      "partNo": "C 37250",
+      "desc": "LEVER - speed control"
+    },
+    {
+      "ref": 4,
+      "x": 37.01,
+      "y": 78.13,
+      "partNo": "C 10482",
+      "desc": "SPRING - compression"
+    },
+    {
+      "ref": 5,
+      "x": 37.14,
+      "y": 86.13,
+      "partNo": "NSS",
+      "desc": "WASHER - nylon (use C44383)"
+    },
+    {
+      "ref": 6,
+      "x": 19.17,
+      "y": 72.55,
+      "partNo": "C 31670",
+      "desc": "ROD - control"
+    },
+    {
+      "ref": 7,
+      "x": 14.88,
+      "y": 68.18,
+      "partNo": "129-122",
+      "desc": "NUT - 5/16\" N.F. hex, zinc plated"
+    },
+    {
+      "ref": 8,
+      "x": 11.23,
+      "y": 66.52,
+      "partNo": "C 19025",
+      "desc": "JOINT - ball"
+    },
+    {
+      "ref": 10,
+      "x": 20.09,
+      "y": 39.82,
+      "partNo": "132-320",
+      "desc": "PIN - cotter 3/32\" x 3/4\""
+    },
+    {
+      "ref": 11,
+      "x": 19.17,
+      "y": 11.46,
+      "partNo": "138-2072",
+      "desc": "PIN - roll 1/8\" x 1-3/4\""
+    },
+    {
+      "ref": 12,
+      "x": 74.77,
+      "y": 75.27,
+      "partNo": "C 30827",
+      "desc": "SPRING - locator"
+    },
+    {
+      "ref": 12,
+      "x": 44.17,
+      "y": 69.99,
+      "partNo": "C 30827",
+      "desc": "SPRING - locator"
+    },
+    {
+      "ref": 13,
+      "x": 74.9,
+      "y": 92.46,
+      "partNo": "113-14",
+      "desc": "BOLT - 1/4\" 20 x 2\""
+    },
+    {
+      "ref": 13,
+      "x": 44.56,
+      "y": 88.24,
+      "partNo": "113-14",
+      "desc": "BOLT - 1/4\" 20 x 2\""
+    },
+    {
+      "ref": 14,
+      "x": 74.25,
+      "y": 84.02,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 14,
+      "x": 44.43,
+      "y": 78.74,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 15,
+      "x": 92.08,
+      "y": 88.99,
+      "partNo": "C 31678",
+      "desc": "CARRIER - locator"
+    },
+    {
+      "ref": 16,
+      "x": 11.23,
+      "y": 35.6,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 17,
+      "x": 43.13,
+      "y": 48.27,
+      "partNo": "C 32362",
+      "desc": "LOCATOR - half"
+    },
+    {
+      "ref": 17,
+      "x": 91.3,
+      "y": 41.33,
+      "partNo": "C 32362",
+      "desc": "LOCATOR - half"
+    },
+    {
+      "ref": 17,
+      "x": 91.43,
+      "y": 30.32,
+      "partNo": "C 32362",
+      "desc": "LOCATOR - half"
+    },
+    {
+      "ref": 18,
+      "x": 93.52,
+      "y": 52.04,
+      "partNo": "C 31674",
+      "desc": "ACCUATOR - switch"
+    },
+    {
+      "ref": 19,
+      "x": 43.39,
+      "y": 39.82,
+      "partNo": "C 29653",
+      "desc": "SPACER - tube"
+    },
+    {
+      "ref": 20,
+      "x": 44.82,
+      "y": 38.16,
+      "partNo": "C 44384 *",
+      "desc": "STRAP - retainer"
+    },
+    {
+      "ref": 20,
+      "x": 84.4,
+      "y": 30.02,
+      "partNo": "C 44384 *",
+      "desc": "STRAP - retainer"
+    },
+    {
+      "ref": 24,
+      "x": 57.71,
+      "y": 53.09,
+      "partNo": "C 37254 *",
+      "desc": "SUPPORT - locator"
+    },
+    {
+      "ref": 25,
+      "x": 60.71,
+      "y": 59.58,
+      "partNo": "C 37255 *",
+      "desc": "CARRIER - locator"
+    },
+    {
+      "ref": 26,
+      "x": 58.49,
+      "y": 83.71,
+      "partNo": "C 37198 *",
+      "desc": "CAM - switch"
+    },
+    {
+      "ref": 27,
+      "x": 64.61,
+      "y": 66.22,
+      "partNo": "C 44029 *",
+      "desc": "RETAINER - switch"
+    },
+    {
+      "ref": 28,
+      "x": 64.87,
+      "y": 87.48,
+      "partNo": "187-1328 *",
+      "desc": "SCREW - #8 - 18 x 3/8\""
+    }
+  ],
+  "footnotes": "Refs marked * (locator/carrier/cam/retainer/screw, refs 20,23,25,26,27,28): use PIN and after — 3018PS 14181900, 4020PS 14184000. Refs 9,21,22,23 (washer/bolt/lockwasher/nut mounting hardware) are listed in the parts table but have no callout circle drawn anywhere in the diagram — confirmed by close visual inspection, not placeable."
+}

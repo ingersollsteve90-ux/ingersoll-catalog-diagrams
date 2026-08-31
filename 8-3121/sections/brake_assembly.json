@@ -1,0 +1,282 @@
+{
+  "sectionTitle": "Brake Assembly",
+  "breadcrumb": "Brake Assembly",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/brake_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 87.18,
+      "y": 45.0,
+      "partNo": "C 33942",
+      "desc": "PEDAL - brake actuating"
+    },
+    {
+      "ref": 2,
+      "x": 30.28,
+      "y": 91.83,
+      "partNo": "C 26381",
+      "desc": "ARM - brake pedal"
+    },
+    {
+      "ref": 3,
+      "x": 54.34,
+      "y": 94.19,
+      "partNo": "138-2073",
+      "desc": "PIN - roll 3/16\" x 1-1/4\""
+    },
+    {
+      "ref": 4,
+      "x": 62.32,
+      "y": 60.41,
+      "partNo": "C 31660",
+      "desc": "SPRING - return"
+    },
+    {
+      "ref": 5,
+      "x": 51.83,
+      "y": 60.41,
+      "variants": [
+        {
+          "serialNote": "(shown)",
+          "partNo": "C 31662",
+          "desc": "GUIDE - neutral return (shown) 4016"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 33759",
+          "desc": "GUIDE - neutral return (3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 77.03,
+      "y": 44.76,
+      "partNo": "C 31604",
+      "desc": "ACCUATOR - parking brake"
+    },
+    {
+      "ref": 7,
+      "x": 72.47,
+      "y": 49.59,
+      "partNo": "C 31661",
+      "desc": "LEVER - brake lock"
+    },
+    {
+      "ref": 8,
+      "x": 57.3,
+      "y": 45.47,
+      "partNo": "C 21942",
+      "desc": "SPRING - brake lock"
+    },
+    {
+      "ref": 9,
+      "x": 76.12,
+      "y": 36.29,
+      "partNo": "C 31605",
+      "desc": "CAP - accuator"
+    },
+    {
+      "ref": 10,
+      "x": 13.52,
+      "y": 5.93,
+      "partNo": "C 33427",
+      "desc": "BAND - brake"
+    },
+    {
+      "ref": 11,
+      "x": 21.16,
+      "y": 6.04,
+      "partNo": "C 23910",
+      "desc": "PIN - clevis"
+    },
+    {
+      "ref": 12,
+      "x": 5.77,
+      "y": 39.47,
+      "partNo": "113-2262",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/2\" hex"
+    },
+    {
+      "ref": 13,
+      "x": 21.84,
+      "y": 20.05,
+      "partNo": "129-143",
+      "desc": "NUT - 3/8\" - 16 special"
+    },
+    {
+      "ref": 14,
+      "x": 25.72,
+      "y": 18.28,
+      "partNo": "C 23899",
+      "desc": "ARM - brake"
+    },
+    {
+      "ref": 15,
+      "x": 44.31,
+      "y": 11.22,
+      "partNo": "C 24761",
+      "desc": "ARM - brake (includes adjustment nut)"
+    },
+    {
+      "ref": 16,
+      "x": 34.96,
+      "y": 14.28,
+      "partNo": "C 40646",
+      "desc": "GUIDE - brake actuator"
+    },
+    {
+      "ref": 17,
+      "x": 30.17,
+      "y": 16.87,
+      "partNo": "195-533",
+      "desc": "WASHER - .531\" I.D."
+    },
+    {
+      "ref": 17,
+      "x": 50.81,
+      "y": 28.29,
+      "partNo": "195-533",
+      "desc": "WASHER - .531\" I.D."
+    },
+    {
+      "ref": 17,
+      "x": 18.99,
+      "y": 38.17,
+      "partNo": "195-533",
+      "desc": "WASHER - .531\" I.D."
+    },
+    {
+      "ref": 17,
+      "x": 81.48,
+      "y": 70.89,
+      "partNo": "195-533",
+      "desc": "WASHER - .531\" I.D."
+    },
+    {
+      "ref": 18,
+      "x": 56.39,
+      "y": 28.99,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 18,
+      "x": 77.37,
+      "y": 51.12,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 18,
+      "x": 68.71,
+      "y": 65.71,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 18,
+      "x": 50.81,
+      "y": 48.53,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 18,
+      "x": 13.41,
+      "y": 40.17,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 18,
+      "x": 57.08,
+      "y": 87.95,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 19,
+      "x": 42.71,
+      "y": 39.47,
+      "partNo": "C 28978",
+      "desc": "CLEVIS"
+    },
+    {
+      "ref": 20,
+      "x": 62.32,
+      "y": 33.7,
+      "partNo": "141-4",
+      "desc": "PIN - clevis"
+    },
+    {
+      "ref": 21,
+      "x": 64.03,
+      "y": 39.11,
+      "partNo": "132-321",
+      "desc": "PIN - cotter"
+    },
+    {
+      "ref": 22,
+      "x": 22.53,
+      "y": 76.54,
+      "variants": [
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 31993",
+          "desc": "ROD - brake (4016, 4016PS, 4018PS, 4020PS)"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 31992",
+          "desc": "ROD - brake (3016PS, 3018PS, 3020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 23,
+      "x": 94.36,
+      "y": 38.05,
+      "partNo": "C 31975",
+      "desc": "PAD - brake pedal"
+    },
+    {
+      "ref": 24,
+      "x": 53.88,
+      "y": 78.54,
+      "partNo": "C 44380",
+      "desc": "BRACKET - support (3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS)"
+    },
+    {
+      "ref": 25,
+      "x": 39.63,
+      "y": 72.3,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" - 16 x 3/4\""
+    },
+    {
+      "ref": 26,
+      "x": 48.3,
+      "y": 80.3,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 27,
+      "x": 51.03,
+      "y": 53.23,
+      "partNo": "195-2063",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 28,
+      "x": 45.33,
+      "y": 68.53,
+      "partNo": "195-103",
+      "desc": "WASHER - 3/8\""
+    }
+  ],
+  "footnotes": ""
+}

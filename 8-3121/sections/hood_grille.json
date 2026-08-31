@@ -1,0 +1,125 @@
+{
+  "sectionTitle": "Hood and Grille",
+  "breadcrumb": "Hood and Grille",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/hood_grille.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 58.42,
+      "y": 12.09,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C31353",
+          "desc": "HOOD"
+        },
+        {
+          "serialNote": "(not shown)",
+          "partNo": "C37312",
+          "desc": "HINGE - hood (not shown), is welded to hood"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 74.85,
+      "y": 25.86,
+      "partNo": "C16362",
+      "desc": "ROD - hood hinge"
+    },
+    {
+      "ref": 3,
+      "x": 77.03,
+      "y": 43.25,
+      "partNo": "132-334",
+      "desc": "PIN - cotter 1/8\" x 3/4\""
+    },
+    {
+      "ref": 4,
+      "x": 12.0,
+      "y": 48.08,
+      "partNo": "C29314",
+      "desc": "BUTTON - push, hood release"
+    },
+    {
+      "ref": 5,
+      "x": 10.05,
+      "y": 58.22,
+      "partNo": "C30126",
+      "desc": "ROD - push, hood release"
+    },
+    {
+      "ref": 6,
+      "x": 5.79,
+      "y": 57.49,
+      "partNo": "C30004",
+      "desc": "SPRING - release"
+    },
+    {
+      "ref": 7,
+      "x": 21.42,
+      "y": 50.73,
+      "partNo": "C33467",
+      "desc": "LATCH - hood"
+    },
+    {
+      "ref": 8,
+      "x": 42.45,
+      "y": 77.3,
+      "partNo": "C31611",
+      "desc": "BRACKET - hood stop"
+    },
+    {
+      "ref": 9,
+      "x": 37.51,
+      "y": 63.29,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16\"-18 x 1/2\" flange lock"
+    },
+    {
+      "ref": 10,
+      "x": 75.31,
+      "y": 87.92,
+      "partNo": "C45043",
+      "desc": "GRILLE"
+    },
+    {
+      "ref": 11,
+      "x": 72.21,
+      "y": 75.61,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\"-20 flange lock"
+    },
+    {
+      "ref": 12,
+      "x": 84.5,
+      "y": 86.23,
+      "partNo": "C31597",
+      "desc": "SCREW - 1/4\"-20 x 1/2\" black"
+    },
+    {
+      "ref": 13,
+      "x": 94.27,
+      "y": 55.56,
+      "partNo": "187-1328",
+      "desc": "SCREW - #8-18 x 3/8\""
+    },
+    {
+      "ref": 14,
+      "x": 81.86,
+      "y": 44.21,
+      "partNo": "C31366",
+      "desc": "SHROUD - headlight"
+    },
+    {
+      "ref": 15,
+      "x": 29.69,
+      "y": 35.28,
+      "partNo": "C31612",
+      "desc": "SHIELD - heat"
+    }
+  ],
+  "footnotes": ""
+}

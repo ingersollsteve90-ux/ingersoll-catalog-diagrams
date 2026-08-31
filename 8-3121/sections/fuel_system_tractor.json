@@ -1,0 +1,118 @@
+{
+  "sectionTitle": "Fuel System (Tractor)",
+  "breadcrumb": "Fuel System (Tractor)",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/fuel_system_tractor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 26.96,
+      "y": 67.65,
+      "partNo": "C10678",
+      "desc": "ELBOW - hose 90°"
+    },
+    {
+      "ref": 2,
+      "x": 43.13,
+      "y": 57.97,
+      "partNo": "C28962",
+      "desc": "RETAINER - fuel line"
+    },
+    {
+      "ref": 3,
+      "x": 44.05,
+      "y": 80.44,
+      "partNo": "NSS",
+      "desc": "HOSE - fuel line (use C28937 cut to length)"
+    },
+    {
+      "ref": 4,
+      "x": 42.6,
+      "y": 13.04,
+      "partNo": "NSS",
+      "desc": "TANK - fuel (use C44818, C44819)"
+    },
+    {
+      "ref": 5,
+      "x": 9.34,
+      "y": 5.98,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C11529",
+          "desc": "CAP - fuel tank (includes insert) (1.5\")"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C44819",
+          "desc": "CAP - fuel tank (1.75\")"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 85.06,
+      "y": 82.95,
+      "partNo": "NSS",
+      "desc": "HOSE - fuel line (use C28937 cut to length)"
+    },
+    {
+      "ref": 7,
+      "x": 84.66,
+      "y": 12.44,
+      "partNo": "C23527",
+      "desc": "LINER - tank"
+    },
+    {
+      "ref": 8,
+      "x": 6.58,
+      "y": 64.9,
+      "partNo": "C14690",
+      "desc": "CUSHION - fuel tank"
+    },
+    {
+      "ref": 9,
+      "x": 32.48,
+      "y": 72.67,
+      "partNo": "C32376",
+      "desc": "CLAMP - hose 1/2\""
+    },
+    {
+      "ref": 9,
+      "x": 54.96,
+      "y": 89.05,
+      "partNo": "C32376",
+      "desc": "CLAMP - hose 1/2\""
+    },
+    {
+      "ref": 9,
+      "x": 74.41,
+      "y": 83.79,
+      "partNo": "C32376",
+      "desc": "CLAMP - hose 1/2\""
+    },
+    {
+      "ref": 10,
+      "x": 60.74,
+      "y": 93.23,
+      "partNo": "C31978",
+      "desc": "FILTER - fuel"
+    },
+    {
+      "ref": 11,
+      "x": 93.34,
+      "y": 82.11,
+      "partNo": "C24689",
+      "desc": "CLIP - \"J\" fuel line retaining"
+    },
+    {
+      "ref": 12,
+      "x": 93.47,
+      "y": 94.06,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" - 20 self tap"
+    }
+  ],
+  "footnotes": ""
+}

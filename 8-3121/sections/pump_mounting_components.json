@@ -1,0 +1,93 @@
+{
+  "sectionTitle": "Pump Mounting Components",
+  "breadcrumb": "Pump Mounting Components",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/pump_mounting_components.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 22.29,
+      "y": 72.8,
+      "partNo": "C32437",
+      "desc": "MOUNT - rubber"
+    },
+    {
+      "ref": 2,
+      "x": 10.85,
+      "y": 59.66,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock"
+    },
+    {
+      "ref": 3,
+      "x": 75.21,
+      "y": 41.12,
+      "partNo": "C32199",
+      "desc": "SCREW - Set 5/16\" - 18 x 5/16\" socket (use loctite)"
+    },
+    {
+      "ref": 4,
+      "x": 89.25,
+      "y": 51.16,
+      "variants": [
+        {
+          "serialNote": "(4016)",
+          "partNo": "C31964",
+          "desc": "ADAPTER - drive (4016)"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C33553",
+          "desc": "ADAPTER - drive (3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 42.38,
+      "y": 13.04,
+      "variants": [
+        {
+          "serialNote": "(4016)",
+          "partNo": "C33506",
+          "desc": "PLATE - pump torque arm (4016)"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C33552",
+          "desc": "PLATE - pump torque arm (3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 27.26,
+      "y": 18.45,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/4\" hex"
+    },
+    {
+      "ref": 7,
+      "x": 50.37,
+      "y": 64.56,
+      "partNo": "131-1352",
+      "desc": "NUT - 3/8\" - 16 flange lock"
+    },
+    {
+      "ref": 8,
+      "x": 61.82,
+      "y": 47.81,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" - 18 x 1\" hex"
+    },
+    {
+      "ref": 9,
+      "x": 68.94,
+      "y": 87.22,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\""
+    }
+  ],
+  "footnotes": "Adapter-drive(ref4)/plate-pump torque arm(ref5) vary 4016 vs all power-steering models (variants per ref)."
+}

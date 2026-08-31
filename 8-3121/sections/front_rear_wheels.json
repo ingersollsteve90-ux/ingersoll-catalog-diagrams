@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 64.09,
+      "y": 30.16,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 30913",
+          "desc": "WHEEL - rear, 5 bolt (3016PS, 3018PS, 3020PS) for 23 x 8.50-12 tire"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 30917",
+          "desc": "WHEEL - rear, 6 bolt (4016, 4016PS, 4018PS, 4020PS) shown"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 30922",
+          "desc": "WHEEL - rear, 5 bolt (3016PS, 3018PS, 3020PS) for 23 X 10.50-12 tire"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 33.47,
+      "y": 71.28,
+      "variants": [
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C 27763",
+          "desc": "BOLT - rear wheel (4016, 4016PS, 4018PS, 4020PS)"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C 10314",
+          "desc": "BOLT - rear wheel (3016PS, 3018PS, 3020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 80.75,
+      "y": 69.56,
+      "partNo": "C 30912",
+      "desc": "WHEEL - front (includes bearings)"
+    },
+    {
+      "ref": 4,
+      "x": 86.69,
+      "y": 61.08,
+      "partNo": "219-403",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 5,
+      "x": 92.64,
+      "y": 54.64,
+      "partNo": "C 44499",
+      "desc": "BEARING - wheel"
+    },
+    {
+      "ref": 5,
+      "x": 75.1,
+      "y": 75.05,
+      "partNo": "C 44499",
+      "desc": "BEARING - wheel"
+    },
+    {
+      "ref": 6,
+      "x": 56.51,
+      "y": 92.16,
+      "partNo": "C 28965",
+      "desc": "CAP - hub, front wheel (optional)"
+    },
+    {
+      "ref": 7,
+      "x": 64.39,
+      "y": 85.88,
+      "partNo": "C 44478",
+      "desc": "CAP - plastic, front"
+    },
+    {
+      "ref": 8,
+      "x": 9.24,
+      "y": 28.59,
+      "partNo": "C 28236",
+      "desc": "STEM - valve"
+    }
+  ],
+  "footnotes": "Rear wheel (ref1) and bolt (ref2) vary by model / bolt pattern / tire size (variants per ref)."
+}

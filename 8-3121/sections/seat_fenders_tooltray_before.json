@@ -1,0 +1,321 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Tray (3016PS,3020PS,4016,4016PS,4018PS-All; 3018PS/4020PS before PIN)",
+  "breadcrumb": "Seat, Fenders and Tool Tray (3016PS,3020PS,4016,4016PS,4018PS-All; 3018PS/4020PS before PIN)",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/seat_fenders_tooltray_before.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 24.36,
+      "y": 86.39,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C31020",
+          "desc": "Support, seat, front shown (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C31021",
+          "desc": "Support, seat, front (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 9.34,
+      "y": 76.11,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C26827",
+          "desc": "Support, seat, rear (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C27224",
+          "desc": "Support, seat, rear (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 24.48,
+      "y": 62.48,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "113-427",
+          "desc": "Bolt, 1/2\" x 3-1/4\" (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "113-441",
+          "desc": "Bolt, 1/2\"-2-1/4\" N.C. hex (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 47.17,
+      "y": 52.44,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "113-424",
+          "desc": "Bolt, 1/2\" x 1\" N.C. hex"
+        },
+        {
+          "serialNote": null,
+          "partNo": "113-118",
+          "desc": "Bolt, 5/16\" x 5/8\""
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 36.06,
+      "y": 56.78,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "192-20",
+          "desc": "Lockwasher, 5/16\""
+        },
+        {
+          "serialNote": null,
+          "partNo": "192-23",
+          "desc": "Lockwasher, 1/2\""
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 27.08,
+      "y": 58.27,
+      "partNo": "C31004",
+      "desc": "Tray, tool"
+    },
+    {
+      "ref": 7,
+      "x": 61.24,
+      "y": 33.23,
+      "partNo": "C16429",
+      "desc": "Pin, seat hinge"
+    },
+    {
+      "ref": 8,
+      "x": 41.62,
+      "y": 6.22,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C30071",
+          "desc": "Seat, shown (black) (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C30066",
+          "desc": "Seat, black (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 19.51,
+      "y": 28.53,
+      "partNo": "C29812",
+      "desc": "Washer, special"
+    },
+    {
+      "ref": 10,
+      "x": 28.97,
+      "y": 47.24,
+      "partNo": "195-2175",
+      "desc": "Washer, 5/16\" x 1-1/4\" OD, zinc"
+    },
+    {
+      "ref": 11,
+      "x": 24.83,
+      "y": 50.58,
+      "partNo": "113-102",
+      "desc": "Bolt, 5/16\" x 3/4\""
+    },
+    {
+      "ref": 12,
+      "x": 5.91,
+      "y": 27.78,
+      "partNo": "C31006",
+      "desc": "Spring, seat switch"
+    },
+    {
+      "ref": 13,
+      "x": 56.63,
+      "y": 72.39,
+      "partNo": "121-106",
+      "desc": "Bolt, 5/16\" x 1/2\" flange lock"
+    },
+    {
+      "ref": 13,
+      "x": 48.83,
+      "y": 40.17,
+      "partNo": "121-106",
+      "desc": "Bolt, 5/16\" x 1/2\" flange lock"
+    },
+    {
+      "ref": 14,
+      "x": 44.46,
+      "y": 29.14,
+      "partNo": "C33474",
+      "desc": "Hinge assembly, seat"
+    },
+    {
+      "ref": 15,
+      "x": 7.92,
+      "y": 41.04,
+      "partNo": "C26526",
+      "desc": "Cap, spring"
+    },
+    {
+      "ref": 16,
+      "x": 35.82,
+      "y": 93.83,
+      "partNo": "C14728",
+      "desc": "Grip, shift lever"
+    },
+    {
+      "ref": 17,
+      "x": 67.04,
+      "y": 80.08,
+      "partNo": "C27594",
+      "desc": "Lever, shift"
+    },
+    {
+      "ref": 18,
+      "x": 61.83,
+      "y": 77.47,
+      "partNo": "195-525",
+      "desc": "Washer, 7/16\""
+    },
+    {
+      "ref": 19,
+      "x": 73.78,
+      "y": 82.55,
+      "partNo": "C17216",
+      "desc": "Spring, shift lever"
+    },
+    {
+      "ref": 20,
+      "x": 78.15,
+      "y": 84.78,
+      "partNo": "C30489",
+      "desc": "Washer"
+    },
+    {
+      "ref": 21,
+      "x": 82.05,
+      "y": 87.14,
+      "partNo": "131-1216",
+      "desc": "Nut, lock 3/8\" N.C. hex"
+    },
+    {
+      "ref": 22,
+      "x": 15.49,
+      "y": 50.33,
+      "partNo": "C29305",
+      "desc": "Cap, spring"
+    },
+    {
+      "ref": 23,
+      "x": 15.73,
+      "y": 41.16,
+      "partNo": "C29306",
+      "desc": "Spring, seat"
+    },
+    {
+      "ref": 24,
+      "x": 6.98,
+      "y": 34.1,
+      "partNo": "113-102",
+      "desc": "Bolt, 5/16\"-18 x 3/4\""
+    },
+    {
+      "ref": 24,
+      "x": 15.84,
+      "y": 47.24,
+      "partNo": "113-102",
+      "desc": "Bolt, 5/16\"-18 x 3/4\""
+    },
+    {
+      "ref": 25,
+      "x": 6.86,
+      "y": 22.95,
+      "partNo": "131-911",
+      "desc": "Nut, 5/16\"-18 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 16.32,
+      "y": 31.38,
+      "partNo": "131-911",
+      "desc": "Nut, 5/16\"-18 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 39.25,
+      "y": 67.19,
+      "partNo": "131-911",
+      "desc": "Nut, 5/16\"-18 flange lock"
+    },
+    {
+      "ref": 26,
+      "x": 82.29,
+      "y": 10.81,
+      "partNo": "C30942",
+      "desc": "Reflector, red, rear fender"
+    },
+    {
+      "ref": 27,
+      "x": 87.25,
+      "y": 17.87,
+      "variants": [
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C32386",
+          "desc": "Fender, R.H. (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(3016PS, 3018PS, 3020PS)",
+          "partNo": "C32385",
+          "desc": "Fender, L.H. shown (3016PS, 3018PS, 3020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C32388",
+          "desc": "Fender, R.H. (4016, 4016PS, 4018PS, 4020PS)"
+        },
+        {
+          "serialNote": "(4016, 4016PS, 4018PS, 4020PS)",
+          "partNo": "C32387",
+          "desc": "Fender, L.H. (4016, 4016PS, 4018PS, 4020PS)"
+        }
+      ]
+    },
+    {
+      "ref": 28,
+      "x": 94.11,
+      "y": 43.15,
+      "partNo": "182-547",
+      "desc": "Screw, 1/4\"-20 x 1/2\""
+    },
+    {
+      "ref": 29,
+      "x": 83.59,
+      "y": 41.41,
+      "partNo": "131-934",
+      "desc": "Nut, 1/4\""
+    }
+  ],
+  "footnotes": "3016PS,3020PS,4016,4016PS,4018PS - All. 3018PS - before PIN 14181900. 4020PS - before PIN 14184000."
+}

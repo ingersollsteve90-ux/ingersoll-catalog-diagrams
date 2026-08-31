@@ -1,0 +1,48 @@
+{
+  "sectionTitle": "WW30 and WW30W Wheel Weights (3016PS,3018PS,3020PS)",
+  "breadcrumb": "WW30 and WW30W Wheel Weights (3016PS,3018PS,3020PS)",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/ww30_wheel_weights.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 46.02,
+      "y": 91.57,
+      "partNo": "NSS",
+      "desc": "WEIGHT - wheel 55 lb. (order as Machinery Item)"
+    },
+    {
+      "ref": 2,
+      "x": 7.43,
+      "y": 85.14,
+      "partNo": "131-1182",
+      "desc": "NUT - 1/2\" N.C. lock"
+    },
+    {
+      "ref": 3,
+      "x": 12.62,
+      "y": 79.73,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\""
+    },
+    {
+      "ref": 4,
+      "x": 92.63,
+      "y": 8.53,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "111-521",
+          "desc": "BOLT - 1/2\" x 7\" carriage (WW30)"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C-30545",
+          "desc": "BOLT - 1/2\" - 13 x 8-1/2\" (WW30W)"
+        }
+      ]
+    }
+  ],
+  "footnotes": "Ref4 bolt varies WW30 vs WW30W (variant)."
+}

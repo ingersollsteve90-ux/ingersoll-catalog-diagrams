@@ -1,0 +1,240 @@
+{
+  "sectionTitle": "HP31/HP41 Hydraulic PTO — PTO Hoses and Mounting Bracket",
+  "breadcrumb": "HP31/HP41 Hydraulic PTO — PTO Hoses and Mounting Bracket",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/pto_hoses_mounting_bracket.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 29.12,
+      "y": 49.38,
+      "partNo": "C 32200",
+      "desc": "BRACKET - valve mounting"
+    },
+    {
+      "ref": 2,
+      "x": 16.86,
+      "y": 76.92,
+      "partNo": "218-5201",
+      "desc": "FITTING - workport, 90° elbow 7/8\" - 14 x 1/2\" NPSM swivel"
+    },
+    {
+      "ref": 3,
+      "x": 66.79,
+      "y": 47.05,
+      "partNo": "218-5107",
+      "desc": "FITTING - inlet port, 7/8\" - 14 x 7/8\" - 14 flare, 90° adjustable elbow"
+    },
+    {
+      "ref": 4,
+      "x": 42.48,
+      "y": 69.34,
+      "partNo": "218-5062",
+      "desc": "FITTING - outlet port, 7/8\" - 14 x 7/8\" - 14 flare, straight"
+    },
+    {
+      "ref": 5,
+      "x": 5.7,
+      "y": 36.9,
+      "partNo": "C 32403",
+      "desc": "HANDLE - valve"
+    },
+    {
+      "ref": 6,
+      "x": 12.77,
+      "y": 19.98,
+      "partNo": "C 26020",
+      "desc": "GRIP - handle"
+    },
+    {
+      "ref": 7,
+      "x": 84.13,
+      "y": 74.35,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C 34179",
+          "desc": "HOSE - pump to PTO 46-1/4\" (HP31)"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C 34180",
+          "desc": "HOSE - pump to PTO 39\" (HP41)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 52.32,
+      "y": 88.36,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C 32209",
+          "desc": "HOSE - PTO to travel valve 32\" (HP31)"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C 32210",
+          "desc": "HOSE - PTO to travel valve 34\" (HP41)"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 26.36,
+      "y": 15.2,
+      "partNo": "C 32211",
+      "desc": "BRACKET - handle guide"
+    },
+    {
+      "ref": 10,
+      "x": 43.48,
+      "y": 18.0,
+      "partNo": "111-101",
+      "desc": "BOLT - 1/4\" - 20 x 5/8\" carriage"
+    },
+    {
+      "ref": 11,
+      "x": 41.27,
+      "y": 5.86,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 11,
+      "x": 23.48,
+      "y": 26.16,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 12,
+      "x": 74.19,
+      "y": 52.77,
+      "partNo": "C 32332",
+      "desc": "CLAMP - tube (HP31)"
+    },
+    {
+      "ref": 13,
+      "x": 51.76,
+      "y": 37.13,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" - 18 x 1\""
+    },
+    {
+      "ref": 13,
+      "x": 74.08,
+      "y": 70.15,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" - 18 x 1\""
+    },
+    {
+      "ref": 14,
+      "x": 69.33,
+      "y": 57.09,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\""
+    },
+    {
+      "ref": 14,
+      "x": 51.54,
+      "y": 49.85,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\""
+    },
+    {
+      "ref": 15,
+      "x": 51.65,
+      "y": 44.37,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 16,
+      "x": 77.84,
+      "y": 50.78,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock"
+    },
+    {
+      "ref": 17,
+      "x": 5.59,
+      "y": 61.52,
+      "partNo": "C 32214",
+      "desc": "PIN - clevis 3/8\" x 1-1/2\""
+    },
+    {
+      "ref": 18,
+      "x": 40.28,
+      "y": 29.78,
+      "partNo": "C 28105",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 19,
+      "x": 11.44,
+      "y": 60.94,
+      "partNo": "C 28964",
+      "desc": "PIN - clevis 3/16\" x 1\""
+    },
+    {
+      "ref": 20,
+      "x": 18.84,
+      "y": 57.09,
+      "partNo": "C 10883",
+      "desc": "PIN - safety"
+    },
+    {
+      "ref": 21,
+      "x": 42.04,
+      "y": 61.29,
+      "partNo": "C 29106",
+      "desc": "SPACER - 3/8\" I.D. x 5/8\" O.D. x 5/8\" long (HP31)"
+    },
+    {
+      "ref": 22,
+      "x": 54.31,
+      "y": 36.67,
+      "partNo": "113-122",
+      "desc": "BOLT - 5/16\" - 18 x 1-1/2\" (HP31)"
+    },
+    {
+      "ref": 23,
+      "x": 83.69,
+      "y": 53.7,
+      "partNo": "C 32213",
+      "desc": "CLAMP - tube (HP41)"
+    },
+    {
+      "ref": 24,
+      "x": 80.82,
+      "y": 92.79,
+      "partNo": "218-5232",
+      "desc": "FITTING - 90° swivel elbow 7/8\" - 14"
+    },
+    {
+      "ref": 25,
+      "x": 94.52,
+      "y": 83.69,
+      "partNo": "218-475",
+      "desc": "FITTING - 90° elbow 7/8\" - 14"
+    },
+    {
+      "ref": 26,
+      "x": 41.38,
+      "y": 11.23,
+      "partNo": "C 32327",
+      "desc": "BRACKET - handle stop"
+    },
+    {
+      "ref": 27,
+      "x": 32.21,
+      "y": 12.98,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4\" - 20 x 3/4\""
+    }
+  ],
+  "footnotes": "HP31 used on 3016PS,3020PS (3018PS before PIN 14181900); HP41 used on 4016,4016PS (4020PS before PIN 14184000). Several hose/clamp refs vary HP31 vs HP41 (variants per ref)."
+}

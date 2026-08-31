@@ -1,0 +1,163 @@
+{
+  "sectionTitle": "Choke and Throttle",
+  "breadcrumb": "Choke and Throttle",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/choke_throttle.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 7.8,
+      "y": 50.31,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C 33468",
+          "desc": "CONTROL - throttle"
+        },
+        {
+          "serialNote": "(early production)",
+          "partNo": "C 37226",
+          "desc": "CONTROL - throttle (early production)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 12.94,
+      "y": 14.94,
+      "partNo": "NSS",
+      "desc": "HANDLE - throttle control, orange (use C35291)"
+    },
+    {
+      "ref": 3,
+      "x": 40.68,
+      "y": 51.83,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C 31893",
+          "desc": "CONTROL - choke"
+        },
+        {
+          "serialNote": "(early production)",
+          "partNo": "C 37227",
+          "desc": "CONTROL - choke (early production)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 43.48,
+      "y": 6.44,
+      "partNo": "C 30074",
+      "desc": "HANDLE - choke control, black"
+    },
+    {
+      "ref": 5,
+      "x": 41.92,
+      "y": 83.03,
+      "partNo": "C 27233",
+      "desc": "CLIP - double cable"
+    },
+    {
+      "ref": 6,
+      "x": 26.96,
+      "y": 48.54,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - No. 10 (early production)"
+    },
+    {
+      "ref": 7,
+      "x": 28.21,
+      "y": 54.75,
+      "partNo": "C 34117",
+      "desc": "NUT - No. 10-24 flange lock"
+    },
+    {
+      "ref": 8,
+      "x": 17.3,
+      "y": 25.84,
+      "partNo": "182-559",
+      "desc": "BOLT - No. 10-24 x 3/4\" phillips, black"
+    },
+    {
+      "ref": 9,
+      "x": 74.49,
+      "y": 25.84,
+      "partNo": "C 22369",
+      "desc": "BOLT - washer head #10-32 x 5/16\""
+    },
+    {
+      "ref": 10,
+      "x": 81.5,
+      "y": 23.18,
+      "partNo": "C 29957",
+      "desc": "BRACKET - choke cable"
+    },
+    {
+      "ref": 11,
+      "x": 92.25,
+      "y": 9.99,
+      "partNo": "C 29506",
+      "desc": "CLIP - retaining, choke cable"
+    },
+    {
+      "ref": 12,
+      "x": 69.66,
+      "y": 12.02,
+      "partNo": "187-1511",
+      "desc": "SCREW - tapping #10-32 x 1/2\""
+    },
+    {
+      "ref": 13,
+      "x": 32.88,
+      "y": 81.25,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4\"-20 x 1/2\""
+    },
+    {
+      "ref": 14,
+      "x": 31.48,
+      "y": 66.29,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\"-20 flange lock"
+    },
+    {
+      "ref": 15,
+      "x": 64.83,
+      "y": 68.7,
+      "partNo": "C 37536",
+      "desc": "BRACKET - wire stand off"
+    },
+    {
+      "ref": 16,
+      "x": 68.25,
+      "y": 60.08,
+      "partNo": "C 31977",
+      "desc": "CLIP - wire"
+    },
+    {
+      "ref": 17,
+      "x": 73.55,
+      "y": 52.22,
+      "partNo": "113-4",
+      "desc": "BOLT - 1/4\"-20 x 1\""
+    },
+    {
+      "ref": 18,
+      "x": 50.34,
+      "y": 62.74,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\"-20"
+    },
+    {
+      "ref": 19,
+      "x": 26.03,
+      "y": 12.66,
+      "partNo": "C 35291",
+      "desc": "KNOB - choke and throttle"
+    }
+  ],
+  "footnotes": "Refs marked * are early-production parts (ref1 vs ref1*, ref3 vs ref3*, etc — two throttle/choke control variants shown together on one diagram, dashed outline)."
+}

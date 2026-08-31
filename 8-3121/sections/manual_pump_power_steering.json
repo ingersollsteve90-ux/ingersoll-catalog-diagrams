@@ -1,0 +1,118 @@
+{
+  "sectionTitle": "Manual Pump (Power Steering)",
+  "breadcrumb": "Manual Pump (Power Steering)",
+  "catalogLabel": "Catalog 8-3121",
+  "modelNumbers": "Catalog 8-3121 — Models 3016PS, 3018PS, 3020PS, 4016PS, 4018PS, 4020PS, 4016",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3121/manual_pump_power_steering.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 38.26,
+      "y": 93.51,
+      "partNo": "129-127",
+      "desc": "NUT - 5/8\" - 18"
+    },
+    {
+      "ref": 2,
+      "x": 46.43,
+      "y": 6.52,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C 34485",
+          "desc": "KIT - cover and manifold"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C 30281",
+          "desc": "KIT - cover and manifold"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 41.94,
+      "y": 20.93,
+      "partNo": "NSS",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 4,
+      "x": 39.54,
+      "y": 14.18,
+      "partNo": "NSS",
+      "desc": "RING - seal"
+    },
+    {
+      "ref": 4,
+      "x": 23.7,
+      "y": 30.15,
+      "partNo": "NSS",
+      "desc": "RING - seal"
+    },
+    {
+      "ref": 4,
+      "x": 56.83,
+      "y": 27.94,
+      "partNo": "NSS",
+      "desc": "RING - seal"
+    },
+    {
+      "ref": 4,
+      "x": 74.11,
+      "y": 43.13,
+      "partNo": "NSS",
+      "desc": "RING - seal"
+    },
+    {
+      "ref": 4,
+      "x": 92.04,
+      "y": 58.59,
+      "partNo": "NSS",
+      "desc": "RING - seal"
+    },
+    {
+      "ref": 5,
+      "x": 27.54,
+      "y": 23.79,
+      "partNo": "NSS",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 6,
+      "x": 30.42,
+      "y": 38.2,
+      "partNo": "NSS",
+      "desc": "SEAL - commutator"
+    },
+    {
+      "ref": 7,
+      "x": 73.47,
+      "y": 75.47,
+      "partNo": "NSS",
+      "desc": "SEAL - face"
+    },
+    {
+      "ref": 8,
+      "x": 76.51,
+      "y": 79.75,
+      "partNo": "NSS",
+      "desc": "RING - back-up"
+    },
+    {
+      "ref": 9,
+      "x": 18.74,
+      "y": 10.67,
+      "partNo": "C 34484",
+      "desc": "VALVE - relief"
+    },
+    {
+      "ref": 10,
+      "x": 13.78,
+      "y": 10.15,
+      "partNo": "C 34483",
+      "desc": "PLUG - relief valve"
+    }
+  ],
+  "footnotes": ""
+}
