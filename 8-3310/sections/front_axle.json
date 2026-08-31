@@ -1,0 +1,255 @@
+{
+  "sectionTitle": "Front Axle",
+  "breadcrumb": "Front Axle",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/front_axle.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 43.66,
+      "y": 13.23,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C18812",
+          "desc": "AXLE - front (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C40687",
+          "desc": "AXLE - front shown (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 11.94,
+      "y": 78.73,
+      "partNo": "C27597",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": 3,
+      "x": 25.09,
+      "y": 60.58,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C33535",
+          "desc": "SPINDLE - R.H. (3118D)"
+        },
+        {
+          "serialNote": "3118D (2)",
+          "partNo": "C31337",
+          "desc": "SPINDLE - L.H. (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C40690",
+          "desc": "SPINDLE - L.H. (4118D)"
+        },
+        {
+          "serialNote": "4118D (2)",
+          "partNo": "C40688",
+          "desc": "SPINDLE - R.H. (4118D) shown"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 24.0,
+      "y": 48.14,
+      "variants": [
+        {
+          "serialNote": "4118D",
+          "partNo": "C27902",
+          "desc": "RING - retaining, spindle (4118D)"
+        },
+        {
+          "serialNote": "3118D",
+          "partNo": "C28232",
+          "desc": "RING - retaining, spindle (3118D)"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 91.31,
+      "y": 37.21,
+      "partNo": "C22278",
+      "desc": "PIN - retaining, axle pivot"
+    },
+    {
+      "ref": 6,
+      "x": 27.5,
+      "y": 19.55,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C11906",
+          "desc": "WASHER - thrust (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C13716",
+          "desc": "WASHER - thrust (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 30.15,
+      "y": 39.81,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C11906",
+          "desc": "WASHER - thrust (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C13716",
+          "desc": "WASHER - thrust (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 52.83,
+      "y": 45.43,
+      "partNo": "219-404",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 8,
+      "x": 57.54,
+      "y": 50.75,
+      "partNo": "C13106",
+      "desc": "COVER - lubrication fitting"
+    },
+    {
+      "ref": 8,
+      "x": 54.04,
+      "y": 5.01,
+      "partNo": "C13106",
+      "desc": "COVER - lubrication fitting"
+    },
+    {
+      "ref": 9,
+      "x": 24.97,
+      "y": 96.19,
+      "partNo": "132-311",
+      "desc": "PIN - cotter 5/32\" x 1-1/4\""
+    },
+    {
+      "ref": 10,
+      "x": 61.28,
+      "y": 64.79,
+      "variants": [
+        {
+          "serialNote": "4118D",
+          "partNo": "C25855",
+          "desc": "TIE ROD (4118D)"
+        },
+        {
+          "serialNote": "3118D",
+          "partNo": "C25856",
+          "desc": "TIE ROD (3118D)"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 6.03,
+      "y": 83.15,
+      "partNo": "C28226",
+      "desc": "WASHER - wheel spacer"
+    },
+    {
+      "ref": 12,
+      "x": 97.71,
+      "y": 32.09,
+      "partNo": "187-1910",
+      "desc": "BOLT - 3/8\" - 16 x 3/4\" N.C. hex head"
+    },
+    {
+      "ref": 13,
+      "x": 60.91,
+      "y": 8.62,
+      "partNo": "219-17",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 14,
+      "x": 96.98,
+      "y": 61.98,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc"
+    },
+    {
+      "ref": 14,
+      "x": 34.62,
+      "y": 93.38,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc"
+    },
+    {
+      "ref": 15,
+      "x": 48.49,
+      "y": 89.67,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2\" N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 83.47,
+      "y": 71.11,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2\" N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 16,
+      "x": 74.79,
+      "y": 59.67,
+      "partNo": "129-365",
+      "desc": "NUT - 1/2\" N.F. L.H. thread, lock"
+    },
+    {
+      "ref": 17,
+      "x": 96.98,
+      "y": 53.86,
+      "partNo": "C13605",
+      "desc": "BALL JOINT - 1/2\" L.H. thread"
+    },
+    {
+      "ref": 18,
+      "x": 40.05,
+      "y": 77.83,
+      "partNo": "C12102",
+      "desc": "BALL JOINT - 1/2\" R.H. thread"
+    },
+    {
+      "ref": 19,
+      "x": 70.32,
+      "y": 44.43,
+      "partNo": "C22568",
+      "desc": "PIN - axle pivot"
+    },
+    {
+      "ref": 20,
+      "x": 48.37,
+      "y": 60.08,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" x 16 x 1-1/4\""
+    },
+    {
+      "ref": 21,
+      "x": 47.04,
+      "y": 74.32,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16"
+    }
+  ],
+  "footnotes": "* check thread rotation for correct part"
+}

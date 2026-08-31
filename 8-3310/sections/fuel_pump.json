@@ -1,0 +1,130 @@
+{
+  "sectionTitle": "Fuel Pump",
+  "breadcrumb": "Fuel Pump",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/fuel_pump.jpg",
+  "hotspots": [
+    {
+      "ref": 2,
+      "x": 38.61,
+      "y": 30.3,
+      "partNo": "NSS",
+      "desc": "BODY - upper"
+    },
+    {
+      "ref": 3,
+      "x": 77.21,
+      "y": 72.1,
+      "partNo": "P130516080",
+      "desc": "BODY - lower"
+    },
+    {
+      "ref": 4,
+      "x": 49.11,
+      "y": 84.2,
+      "partNo": "P130516081",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 5,
+      "x": 48.39,
+      "y": 93.7,
+      "partNo": "P130516082",
+      "desc": "PLUNGER"
+    },
+    {
+      "ref": 6,
+      "x": 71.17,
+      "y": 97.2,
+      "partNo": "P130516085",
+      "desc": "PIN"
+    },
+    {
+      "ref": 7,
+      "x": 43.95,
+      "y": 50.7,
+      "partNo": "P130516088",
+      "desc": "PIN"
+    },
+    {
+      "ref": 8,
+      "x": 32.74,
+      "y": 65.6,
+      "partNo": "P130516083",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 9,
+      "x": 26.69,
+      "y": 70.5,
+      "partNo": "P131226180",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 10,
+      "x": 15.3,
+      "y": 81.9,
+      "partNo": "P130516086",
+      "desc": "LEVER"
+    },
+    {
+      "ref": 11,
+      "x": 70.28,
+      "y": 55.3,
+      "partNo": "P130516087",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 12,
+      "x": 51.24,
+      "y": 45.4,
+      "partNo": "P130516084",
+      "desc": "DIAPHRAGM"
+    },
+    {
+      "ref": 13,
+      "x": 39.86,
+      "y": 15.6,
+      "partNo": "P130516090",
+      "desc": "CAP"
+    },
+    {
+      "ref": 14,
+      "x": 38.61,
+      "y": 22.1,
+      "partNo": "P130516089",
+      "desc": "GASKET"
+    },
+    {
+      "ref": 15,
+      "x": 90.02,
+      "y": 6.5,
+      "partNo": "P130516092",
+      "desc": "BOLT"
+    },
+    {
+      "ref": 16,
+      "x": 91.09,
+      "y": 10.7,
+      "partNo": "P130516069",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 17,
+      "x": 39.68,
+      "y": 8.1,
+      "partNo": "P130516091",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 1,
+      "x": 52.49,
+      "y": 3.0,
+      "estimated": true,
+      "partNo": "C43604",
+      "desc": "PUMP - fuel"
+    }
+  ],
+  "footnotes": ""
+}

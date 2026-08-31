@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 66.45,
+      "y": 27.46,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C30913",
+          "desc": "WHEEL - rear, 5 bolt (3118D) for 23 x 8.50 - 12 tire"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C30917",
+          "desc": "WHEEL - rear, 6 bolt (4118D)"
+        },
+        {
+          "serialNote": "3118D (2)",
+          "partNo": "C30922",
+          "desc": "WHEEL - rear, 5 bolt (3118D)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 42.45,
+      "y": 72.51,
+      "variants": [
+        {
+          "serialNote": "4118D",
+          "partNo": "C27763",
+          "desc": "BOLT - rear wheel (4118D)"
+        },
+        {
+          "serialNote": "3118D",
+          "partNo": "C10314",
+          "desc": "BOLT - rear wheel (3118D)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 78.22,
+      "y": 68.4,
+      "partNo": "C30912",
+      "desc": "WHEEL - front (includes bearings)"
+    },
+    {
+      "ref": 4,
+      "x": 82.96,
+      "y": 60.08,
+      "partNo": "219-403",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 5,
+      "x": 86.59,
+      "y": 54.26,
+      "partNo": "C12110",
+      "desc": "BEARING - wheel"
+    },
+    {
+      "ref": 5,
+      "x": 73.71,
+      "y": 76.28,
+      "partNo": "C12110",
+      "desc": "BEARING - wheel"
+    },
+    {
+      "ref": 6,
+      "x": 59.4,
+      "y": 94.75,
+      "partNo": "C28965",
+      "desc": "CAP - hub, front wheel (optional)"
+    },
+    {
+      "ref": 7,
+      "x": 65.9,
+      "y": 86.65,
+      "partNo": "C26021",
+      "desc": "CAP - plastic, front"
+    },
+    {
+      "ref": 8,
+      "x": 25.28,
+      "y": 26.2,
+      "partNo": "C28236",
+      "desc": "STEM - valve"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C13106 — COVER - lubrication fitting."
+}

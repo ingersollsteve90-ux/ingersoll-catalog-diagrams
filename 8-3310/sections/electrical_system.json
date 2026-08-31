@@ -1,0 +1,375 @@
+{
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "Electrical System",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 5.97,
+      "y": 54.7,
+      "partNo": "C43037",
+      "desc": "HARNESS - wire, main"
+    },
+    {
+      "ref": 2,
+      "x": 65.51,
+      "y": 38.6,
+      "partNo": "C37269",
+      "desc": "HARNESS - wire, seat switch, PTO and tail lights"
+    },
+    {
+      "ref": 3,
+      "x": 39.44,
+      "y": 18.3,
+      "partNo": "C43042",
+      "desc": "CABLE - battery (-) negative terminal"
+    },
+    {
+      "ref": 4,
+      "x": 31.53,
+      "y": 22.3,
+      "partNo": "C43043",
+      "desc": "CABLE - battery (+) positive terminal"
+    },
+    {
+      "ref": 5,
+      "x": 9.46,
+      "y": 14.6,
+      "partNo": "C14537",
+      "desc": "CONNECTOR - electrical"
+    },
+    {
+      "ref": 6,
+      "x": 66.02,
+      "y": 22.7,
+      "partNo": "C37165",
+      "desc": "TAIL LIGHT - 12 volt"
+    },
+    {
+      "ref": 7,
+      "x": 13.98,
+      "y": 4.2,
+      "partNo": "C32178",
+      "desc": "HEAD LIGHT - 12 v (repairs page 69)"
+    },
+    {
+      "ref": 8,
+      "x": 38.31,
+      "y": 79.7,
+      "partNo": "C43044",
+      "desc": "SWITCH - light"
+    },
+    {
+      "ref": 9,
+      "x": 26.19,
+      "y": 11.6,
+      "partNo": "C44071",
+      "desc": "BATTERY - 12 volt, 450 CCA"
+    },
+    {
+      "ref": 10,
+      "x": 64.28,
+      "y": 98.4,
+      "partNo": "C43047",
+      "desc": "MODULE - warning light"
+    },
+    {
+      "ref": 11,
+      "x": 36.25,
+      "y": 82.5,
+      "partNo": "C42929",
+      "desc": "HOURMETER"
+    },
+    {
+      "ref": 12,
+      "x": 74.44,
+      "y": 28.0,
+      "partNo": "C37298",
+      "desc": "SWITCH - interlock, seat and coupler (black)"
+    },
+    {
+      "ref": 12,
+      "x": 75.16,
+      "y": 14.2,
+      "partNo": "C37298",
+      "desc": "SWITCH - interlock, seat and coupler (black)"
+    },
+    {
+      "ref": 13,
+      "x": 20.75,
+      "y": 95.4,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C42829",
+          "desc": "SWITCH - ignition"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C42855",
+          "desc": "KEY - ignition"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 29.48,
+      "y": 91.1,
+      "partNo": "C42830",
+      "desc": "INDICATOR - glow plug"
+    },
+    {
+      "ref": 15,
+      "x": 44.88,
+      "y": 35.4,
+      "partNo": "C42831",
+      "desc": "REGULATOR - voltage"
+    },
+    {
+      "ref": 16,
+      "x": 89.32,
+      "y": 89.0,
+      "partNo": "C43048",
+      "desc": "HORN - warning"
+    },
+    {
+      "ref": 17,
+      "x": 16.54,
+      "y": 16.0,
+      "partNo": "C43049",
+      "desc": "SWITCH - temperature, hydraulic oil"
+    },
+    {
+      "ref": 18,
+      "x": 71.05,
+      "y": 47.0,
+      "partNo": "C37515",
+      "desc": "RELAY - starter"
+    },
+    {
+      "ref": 19,
+      "x": 81.73,
+      "y": 94.2,
+      "partNo": "C43190",
+      "desc": "MODULE - warning horn"
+    },
+    {
+      "ref": 20,
+      "x": 84.19,
+      "y": 21.1,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C42048",
+          "desc": "KIT - coupler switch (includes switch, brackets, key and wire harness) see page 57"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C37436",
+          "desc": "HARNESS - coupler switch kit"
+        }
+      ]
+    },
+    {
+      "ref": 21,
+      "x": 75.77,
+      "y": 49.2,
+      "partNo": "C42117",
+      "desc": "CONNECTOR - 6 terminal"
+    },
+    {
+      "ref": 22,
+      "x": 75.88,
+      "y": 53.0,
+      "partNo": "C42118",
+      "desc": "CONNECTOR - 1 terminal"
+    },
+    {
+      "ref": 23,
+      "x": 45.39,
+      "y": 94.0,
+      "partNo": "C43038",
+      "desc": "CONNECTOR - 8 terminal"
+    },
+    {
+      "ref": 23,
+      "x": 67.87,
+      "y": 88.2,
+      "partNo": "C43038",
+      "desc": "CONNECTOR - 8 terminal"
+    },
+    {
+      "ref": 24,
+      "x": 68.18,
+      "y": 83.9,
+      "partNo": "C24460",
+      "desc": "CONNECTOR - 5 terminal"
+    },
+    {
+      "ref": 25,
+      "x": 35.33,
+      "y": 85.2,
+      "partNo": "C30279",
+      "desc": "CONNECTOR - interloc switch"
+    },
+    {
+      "ref": 25,
+      "x": 97.64,
+      "y": 36.5,
+      "partNo": "C30279",
+      "desc": "CONNECTOR - interloc switch"
+    },
+    {
+      "ref": 26,
+      "x": 5.15,
+      "y": 85.6,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C31947",
+          "desc": "KIT - fuse holder"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C30260",
+          "desc": "FUSE - 30 amp"
+        }
+      ]
+    },
+    {
+      "ref": 27,
+      "x": 50.73,
+      "y": 50.8,
+      "partNo": "C43040",
+      "desc": "CONNECTOR - 6 terminal"
+    },
+    {
+      "ref": 28,
+      "x": 69.82,
+      "y": 55.6,
+      "partNo": "C43041",
+      "desc": "CONNECTOR - 5 terminal"
+    },
+    {
+      "ref": 29,
+      "x": 11.0,
+      "y": 87.2,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C44146",
+          "desc": "HOLDER - fuse (if equipped)"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C44147",
+          "desc": "SPRING - fuse (if equipped)"
+        },
+        {
+          "serialNote": "Option 3",
+          "partNo": "C44148",
+          "desc": "CAP - fuse (if equipped)"
+        },
+        {
+          "serialNote": "Option 4",
+          "partNo": "C44149",
+          "desc": "FUSE - 5 amp (if equipped)"
+        }
+      ]
+    },
+    {
+      "ref": 30,
+      "x": 95.69,
+      "y": 52.8,
+      "partNo": "C44194",
+      "desc": "CONNECTOR - 2 terminal"
+    },
+    {
+      "ref": 31,
+      "x": 42.1,
+      "y": 90.6,
+      "partNo": "C30275",
+      "desc": "SWITCH - interloc (at travel lever)"
+    },
+    {
+      "ref": 32,
+      "x": 84.19,
+      "y": 27.6,
+      "partNo": "C37399",
+      "desc": "SWITCH - interloc (at PTO)"
+    },
+    {
+      "ref": 33,
+      "x": 22.6,
+      "y": 23.9,
+      "partNo": "C43609",
+      "desc": "STARTER - repairs page 33"
+    },
+    {
+      "ref": 34,
+      "x": 32.46,
+      "y": 30.4,
+      "partNo": "C43610",
+      "desc": "ALTERNATOR - repairs page 35"
+    },
+    {
+      "ref": 35,
+      "x": 57.09,
+      "y": 41.8,
+      "partNo": "C43603",
+      "desc": "HEATER - glow plug"
+    },
+    {
+      "ref": 36,
+      "x": 96.51,
+      "y": 25.5,
+      "partNo": "C44022",
+      "desc": "HARNESS - fuel level switch (if equipped)"
+    },
+    {
+      "ref": 37,
+      "x": 33.58,
+      "y": 27.2,
+      "partNo": "C43602",
+      "desc": "SENDER - temperature, water"
+    },
+    {
+      "ref": 38,
+      "x": 60.68,
+      "y": 44.7,
+      "partNo": "P185206082",
+      "desc": "SOLENOID - fuel shut off"
+    },
+    {
+      "ref": 39,
+      "x": 6.07,
+      "y": 79.5,
+      "partNo": "N/A",
+      "desc": "LIGHT - low fuel (if equipped)"
+    },
+    {
+      "ref": 40,
+      "x": 90.45,
+      "y": 11.8,
+      "partNo": "N/A",
+      "desc": "SWITCH - fuel level (if equipped)"
+    },
+    {
+      "ref": 41,
+      "x": 56.78,
+      "y": 37.6,
+      "partNo": "C43601",
+      "desc": "SWITCH - oil pressure"
+    },
+    {
+      "ref": 42,
+      "x": 21.47,
+      "y": 38.5,
+      "partNo": "C44594",
+      "desc": "LINK - fusible"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: 193-1000 — NUT - #10 - 32 (tail light retaining).\nAlso listed, not shown on diagram: 182-571 — SCREW - #6 - 32 x 1/2\" (module retaining).\nAlso listed, not shown on diagram: 113-17 — BOLT - 1/4\" - 20 x 1-1/4\" (regulator retaining).\nAlso listed, not shown on diagram: 192-19 — LOCK WASHER - 1/4\" (regulator retaining).\nAlso listed, not shown on diagram: 187-1036 — SCREW - 1/4\" - 20 x 1/2\" (relay retaining).\nAlso listed, not shown on diagram: 182-571 — SCREW - #6 - 32 x 1/2\" (warning module retaining).\nAlso listed, not shown on diagram: 193-1003 — NUT - #6 x 32 (warning module retaining)."
+}

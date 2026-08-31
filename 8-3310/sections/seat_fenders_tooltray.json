@@ -1,0 +1,383 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Tray",
+  "breadcrumb": "Seat, Fenders and Tool Tray",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/seat_fenders_tooltray.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 23.95,
+      "y": 83.29,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37261",
+          "desc": "SUPPORT - seat, front shown (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37262",
+          "desc": "SUPPORT - seat, front (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 8.72,
+      "y": 74.06,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C43079",
+          "desc": "SUPPORT - seat, rear (3118D) shown"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C43080",
+          "desc": "SUPPORT - seat, rear (4118D)"
+        },
+        {
+          "serialNote": "3118D (2)",
+          "partNo": "C37154",
+          "desc": "FENDER - R.H. (3118D)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 24.88,
+      "y": 60.38,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "113-427",
+          "desc": "BOLT - 1/2\" x 3-1/4\" (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "113-441",
+          "desc": "BOLT - 1/2\" - 2-1/4\" N.C. hex (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 48.4,
+      "y": 50.35,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "113-424",
+          "desc": "BOLT - 1/2\" x 1\" N.C. hex"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "113-118",
+          "desc": "BOLT - 5/16\" x 5/8\""
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 37.11,
+      "y": 54.91,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "192-20",
+          "desc": "LOCKWASHER - 5/16\""
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "192-23",
+          "desc": "LOCKWASHER - 1/2\""
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 26.75,
+      "y": 55.52,
+      "partNo": "C44321",
+      "desc": "TRAY - tool (includes switch bracket)"
+    },
+    {
+      "ref": 7,
+      "x": 63.74,
+      "y": 32.01,
+      "partNo": "C16429",
+      "desc": "PIN - seat hinge"
+    },
+    {
+      "ref": 8,
+      "x": 41.25,
+      "y": 6.27,
+      "partNo": "C44320",
+      "desc": "SEAT - black"
+    },
+    {
+      "ref": 9,
+      "x": 78.86,
+      "y": 74.47,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37428",
+          "desc": "PLATE - shift pattern (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37430",
+          "desc": "PLATE - shift pattern (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 90.47,
+      "y": 83.69,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37409",
+          "desc": "COVER - shift lever (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37411",
+          "desc": "COVER - shift lever (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 70.06,
+      "y": 9.71,
+      "partNo": "C42155",
+      "desc": "PROTECTOR - tail light"
+    },
+    {
+      "ref": 12,
+      "x": 5.2,
+      "y": 28.05,
+      "partNo": "C37462",
+      "desc": "SPRING - seat switch"
+    },
+    {
+      "ref": 13,
+      "x": 61.25,
+      "y": 26.64,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16\" x 1/2\" flange lock"
+    },
+    {
+      "ref": 13,
+      "x": 49.75,
+      "y": 38.8,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16\" x 1/2\" flange lock"
+    },
+    {
+      "ref": 13,
+      "x": 58.04,
+      "y": 70.11,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16\" x 1/2\" flange lock"
+    },
+    {
+      "ref": 14,
+      "x": 45.5,
+      "y": 28.26,
+      "partNo": "C37152",
+      "desc": "HINGE ASSEMBLY - seat"
+    },
+    {
+      "ref": 15,
+      "x": 7.17,
+      "y": 39.91,
+      "partNo": "C26526",
+      "desc": "CAP - spring"
+    },
+    {
+      "ref": 16,
+      "x": 69.02,
+      "y": 69.2,
+      "partNo": "C10487",
+      "desc": "KNOB-shift"
+    },
+    {
+      "ref": 17,
+      "x": 49.65,
+      "y": 84.1,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37244",
+          "desc": "LEVER-shift (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37247",
+          "desc": "LEVER - shift (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 68.61,
+      "y": 76.7,
+      "partNo": "195-525",
+      "desc": "WASHER - 7/16\" x 1-1/4\" O.D"
+    },
+    {
+      "ref": 19,
+      "x": 58.14,
+      "y": 83.89,
+      "partNo": "C10482",
+      "desc": "SPRING - shift lever"
+    },
+    {
+      "ref": 20,
+      "x": 61.66,
+      "y": 85.51,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\""
+    },
+    {
+      "ref": 21,
+      "x": 20.01,
+      "y": 54.2,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 22,
+      "x": 14.42,
+      "y": 49.34,
+      "partNo": "C29305",
+      "desc": "CAP - spring"
+    },
+    {
+      "ref": 23,
+      "x": 14.42,
+      "y": 40.01,
+      "partNo": "C29306",
+      "desc": "SPRING - seat"
+    },
+    {
+      "ref": 24,
+      "x": 6.13,
+      "y": 33.83,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\""
+    },
+    {
+      "ref": 24,
+      "x": 15.87,
+      "y": 46.3,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\""
+    },
+    {
+      "ref": 25,
+      "x": 5.51,
+      "y": 23.29,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 15.77,
+      "y": 28.87,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 74.1,
+      "y": 38.29,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 39.91,
+      "y": 64.94,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 27.58,
+      "y": 46.8,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock"
+    },
+    {
+      "ref": 26,
+      "x": 85.91,
+      "y": 39.81,
+      "partNo": "131-934",
+      "desc": "NUT- 1/4"
+    },
+    {
+      "ref": 27,
+      "x": 90.47,
+      "y": 17.52,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37153",
+          "desc": "FENDER - R.H. (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37156",
+          "desc": "FENDER - R.H. (4118D)"
+        },
+        {
+          "serialNote": "4118D (2)",
+          "partNo": "C37155",
+          "desc": "FENDER - L.H. (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 28,
+      "x": 97.41,
+      "y": 41.63,
+      "partNo": "C31597",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 28,
+      "x": 86.12,
+      "y": 75.99,
+      "partNo": "C31597",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 28,
+      "x": 90.05,
+      "y": 94.94,
+      "partNo": "C31597",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 29,
+      "x": 19.18,
+      "y": 62.41,
+      "partNo": "C37299",
+      "desc": "BRACKET - seat switch mounting (early production)"
+    },
+    {
+      "ref": 30,
+      "x": 13.59,
+      "y": 63.73,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4\" - 20 x 5/8\""
+    }
+  ],
+  "footnotes": ""
+}

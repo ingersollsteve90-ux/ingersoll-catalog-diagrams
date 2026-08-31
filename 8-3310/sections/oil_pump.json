@@ -1,0 +1,114 @@
+{
+  "sectionTitle": "Oil Pump",
+  "breadcrumb": "Oil Pump",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/oil_pump.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 30.95,
+      "y": 39.02,
+      "partNo": "P165026110",
+      "desc": "GEAR ASSEMBLY"
+    },
+    {
+      "ref": 2,
+      "x": 40.25,
+      "y": 58.66,
+      "partNo": "P198216821",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 3,
+      "x": 7.33,
+      "y": 63.24,
+      "partNo": "P140166130",
+      "desc": "ROTOR"
+    },
+    {
+      "ref": 4,
+      "x": 73.17,
+      "y": 75.35,
+      "partNo": "P140116140",
+      "desc": "COVER"
+    },
+    {
+      "ref": 5,
+      "x": 66.09,
+      "y": 76.33,
+      "variants": [
+        {
+          "serialNote": "0.10mm",
+          "partNo": "P199286150",
+          "desc": "SHIM - 0.10mm"
+        },
+        {
+          "serialNote": "0.15mm",
+          "partNo": "P199286160",
+          "desc": "SHIM - 0.15mm"
+        },
+        {
+          "serialNote": "0.20mm",
+          "partNo": "P199286170",
+          "desc": "SHIM - 0.20mm"
+        },
+        {
+          "serialNote": "0.50mm",
+          "partNo": "P199286180",
+          "desc": "SHIM - 0.50mm"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 43.8,
+      "y": 87.56,
+      "partNo": "P198216720",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 7,
+      "x": 33.91,
+      "y": 94.87,
+      "partNo": "P199236540",
+      "desc": "COLLAR"
+    },
+    {
+      "ref": 8,
+      "x": 26.82,
+      "y": 96.95,
+      "partNo": "P036800010",
+      "desc": "CIRCLIP"
+    },
+    {
+      "ref": 9,
+      "x": 57.97,
+      "y": 31.5,
+      "partNo": "P199266180",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 10,
+      "x": 45.72,
+      "y": 5.43,
+      "partNo": "P140036120",
+      "desc": "VALVE"
+    },
+    {
+      "ref": 11,
+      "x": 55.61,
+      "y": 11.43,
+      "partNo": "P052100150",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 12,
+      "x": 85.57,
+      "y": 79.38,
+      "partNo": "P140186010",
+      "desc": "KIT - repair"
+    }
+  ],
+  "footnotes": ""
+}

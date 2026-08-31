@@ -1,0 +1,52 @@
+{
+  "sectionTitle": "Tachometer",
+  "breadcrumb": "Tachometer",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/tachometer.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 35.21,
+      "y": 90.58,
+      "partNo": "P120076070",
+      "desc": "SHAFT"
+    },
+    {
+      "ref": 2,
+      "x": 35.93,
+      "y": 37.52,
+      "partNo": "P199566651",
+      "desc": "PLATE"
+    },
+    {
+      "ref": 3,
+      "x": 28.59,
+      "y": 47.8,
+      "partNo": "P011310612",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 4,
+      "x": 24.42,
+      "y": 62.02,
+      "partNo": "P010700610",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 5,
+      "x": 66.98,
+      "y": 6.42,
+      "partNo": "P199376230",
+      "desc": "CAP"
+    },
+    {
+      "ref": 6,
+      "x": 47.71,
+      "y": 9.72,
+      "partNo": "P120996060",
+      "desc": "SEAL"
+    }
+  ],
+  "footnotes": ""
+}

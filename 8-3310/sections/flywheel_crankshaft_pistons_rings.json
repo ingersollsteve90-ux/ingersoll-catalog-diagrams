@@ -1,0 +1,242 @@
+{
+  "sectionTitle": "Flywheel, Crankshaft, Pistons and Rings",
+  "breadcrumb": "Flywheel, Crankshaft, Pistons and Rings",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/flywheel_crankshaft_pistons_rings.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 24.72,
+      "y": 40.55,
+      "partNo": "P115236020",
+      "desc": "KIT - crankshaft"
+    },
+    {
+      "ref": 2,
+      "x": 85.59,
+      "y": 35.52,
+      "partNo": "NSS",
+      "desc": "CRANKSHAFT"
+    },
+    {
+      "ref": 3,
+      "x": 29.48,
+      "y": 42.46,
+      "partNo": "P115276210",
+      "desc": "GEAR"
+    },
+    {
+      "ref": 4,
+      "x": 48.52,
+      "y": 49.6,
+      "partNo": "P030509020",
+      "desc": "KEY"
+    },
+    {
+      "ref": 6,
+      "x": 79.96,
+      "y": 45.98,
+      "variants": [
+        {
+          "serialNote": "Standard",
+          "partNo": "P198586030",
+          "desc": "KIT - bearing (standard)"
+        },
+        {
+          "serialNote": "0.25mm undersize",
+          "partNo": "P198586034",
+          "desc": "KIT - bearing (0.25mm undersize)"
+        },
+        {
+          "serialNote": "0.50mm undersize",
+          "partNo": "P198586037",
+          "desc": "KIT - bearing (0.50mm undersize)"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 69.56,
+      "y": 23.75,
+      "variants": [
+        {
+          "serialNote": "Standard",
+          "partNo": "P198586060",
+          "desc": "KIT - bearing (standard)"
+        },
+        {
+          "serialNote": "0.25mm undersize",
+          "partNo": "P198586064",
+          "desc": "KIT - bearing (0.25mm undersize)"
+        },
+        {
+          "serialNote": "0.50mm undersize",
+          "partNo": "P198586067",
+          "desc": "KIT - bearing (0.50mm undersize)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 29.48,
+      "y": 5.04,
+      "partNo": "P115026240",
+      "desc": "ROD - connecting"
+    },
+    {
+      "ref": 9,
+      "x": 22.84,
+      "y": 15.81,
+      "partNo": "NSS",
+      "desc": "ROD"
+    },
+    {
+      "ref": 10,
+      "x": 21.46,
+      "y": 23.55,
+      "partNo": "NSS",
+      "desc": "CAP"
+    },
+    {
+      "ref": 11,
+      "x": 19.08,
+      "y": 13.9,
+      "partNo": "P198517325",
+      "desc": "BUSHING"
+    },
+    {
+      "ref": 12,
+      "x": 39.25,
+      "y": 15.51,
+      "partNo": "P115176130",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 13,
+      "x": 26.72,
+      "y": 25.16,
+      "partNo": "P020109103",
+      "desc": "NUT"
+    },
+    {
+      "ref": 14,
+      "x": 55.41,
+      "y": 5.04,
+      "variants": [
+        {
+          "serialNote": "Standard",
+          "partNo": "P115017090",
+          "desc": "KIT - piston (standard)"
+        },
+        {
+          "serialNote": "0.50mm oversize",
+          "partNo": "P115017100",
+          "desc": "KIT - piston (0.50mm oversize)"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 91.11,
+      "y": 12.39,
+      "partNo": "NSS",
+      "desc": "PISTON ASSEMBLY"
+    },
+    {
+      "ref": 16,
+      "x": 62.17,
+      "y": 8.36,
+      "partNo": "NSS",
+      "desc": "PISTON"
+    },
+    {
+      "ref": 17,
+      "x": 47.01,
+      "y": 9.97,
+      "partNo": "P115326260",
+      "desc": "PIN"
+    },
+    {
+      "ref": 18,
+      "x": 51.77,
+      "y": 7.96,
+      "partNo": "P036500019",
+      "desc": "CIRCLIP"
+    },
+    {
+      "ref": 18,
+      "x": 51.15,
+      "y": 18.22,
+      "partNo": "P036500019",
+      "desc": "CIRCLIP"
+    },
+    {
+      "ref": 19,
+      "x": 73.44,
+      "y": 8.46,
+      "variants": [
+        {
+          "serialNote": "Standard",
+          "partNo": "P115107400",
+          "desc": "KIT - rings (standard)"
+        },
+        {
+          "serialNote": "0.50mm oversize",
+          "partNo": "P115107410",
+          "desc": "KIT - rings (0.50mm oversize)"
+        }
+      ]
+    },
+    {
+      "ref": 20,
+      "x": 93.61,
+      "y": 88.94,
+      "partNo": "P115357260",
+      "desc": "FLYWHEEL"
+    },
+    {
+      "ref": 21,
+      "x": 73.57,
+      "y": 94.97,
+      "partNo": "P115376150",
+      "desc": "RING"
+    },
+    {
+      "ref": 22,
+      "x": 94.36,
+      "y": 63.39,
+      "partNo": "P010109330",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 23,
+      "x": 22.84,
+      "y": 81.29,
+      "partNo": "P115396741",
+      "desc": "PULLEY"
+    },
+    {
+      "ref": 24,
+      "x": 6.3,
+      "y": 91.75,
+      "partNo": "P020800018",
+      "desc": "NUT"
+    },
+    {
+      "ref": 25,
+      "x": 14.44,
+      "y": 88.53,
+      "partNo": "P026200018",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 26,
+      "x": 37.87,
+      "y": 78.88,
+      "partNo": "P034100508",
+      "desc": "KEY"
+    }
+  ],
+  "footnotes": ""
+}

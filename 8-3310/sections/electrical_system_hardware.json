@@ -1,0 +1,131 @@
+{
+  "sectionTitle": "Electrical System Hardware",
+  "breadcrumb": "Electrical System Hardware",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/electrical_system_hardware.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 6.43,
+      "y": 11.06,
+      "partNo": "C43046",
+      "desc": "COVER - terminal, battery positive"
+    },
+    {
+      "ref": 2,
+      "x": 59.94,
+      "y": 49.99,
+      "partNo": "C22947",
+      "desc": "TIE - plastic"
+    },
+    {
+      "ref": 3,
+      "x": 31.05,
+      "y": 94.27,
+      "partNo": "193-1000",
+      "desc": "NUT - #10 - 32 tail light"
+    },
+    {
+      "ref": 4,
+      "x": 22.5,
+      "y": 88.47,
+      "partNo": "C42358",
+      "desc": "CLIP - tail light wire"
+    },
+    {
+      "ref": 5,
+      "x": 29.75,
+      "y": 66.15,
+      "partNo": "C19521",
+      "desc": "CLIP - wire"
+    },
+    {
+      "ref": 9,
+      "x": 73.93,
+      "y": 26.2,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C44078",
+          "desc": "CLIP - \"J\""
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C32455",
+          "desc": "CLIP - wire"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 87.28,
+      "y": 29.39,
+      "partNo": "111-108",
+      "desc": "BOLT - 1/4\" -20 x 3/4\" carriage"
+    },
+    {
+      "ref": 11,
+      "x": 69.66,
+      "y": 18.57,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 12,
+      "x": 63.57,
+      "y": 9.81,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20"
+    },
+    {
+      "ref": 13,
+      "x": 93.49,
+      "y": 42.14,
+      "partNo": "C33697",
+      "desc": "NUT - #4 - 40"
+    },
+    {
+      "ref": 14,
+      "x": 82.35,
+      "y": 68.55,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C37199",
+          "desc": "SCREW - #4 - 40 x 1-1/2\""
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C33696",
+          "desc": "SCREW - #4 - 40 x 1-1/8\""
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 15.89,
+      "y": 15.73,
+      "estimated": true,
+      "partNo": "C44004",
+      "desc": "RETAINER - battery"
+    },
+    {
+      "ref": 7,
+      "x": 22.37,
+      "y": 20.28,
+      "estimated": true,
+      "partNo": "113-17",
+      "desc": "BOLT - 1/4\" -20 x 1-1/4\""
+    },
+    {
+      "ref": 8,
+      "x": 28.85,
+      "y": 16.86,
+      "estimated": true,
+      "partNo": "195-518",
+      "desc": "WASHER - 1/4\""
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,439 @@
+{
+  "sectionTitle": "Hydraulic System - Oil Pump, Reservoir, Filter and Heat Exchanger",
+  "breadcrumb": "Hydraulic System - Oil Pump, Reservoir, Filter and Heat Exchanger",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/hydraulic_system_oil_pump_reservoir.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 33.53,
+      "y": 41.7,
+      "partNo": "C42854",
+      "desc": "PUMP - hydraulic (repairs and mounting components page 59)"
+    },
+    {
+      "ref": 2,
+      "x": 60.82,
+      "y": 25.1,
+      "partNo": "C36908",
+      "desc": "FITTING - return tee 1/2\" x 3/4\" 1-5/16\""
+    },
+    {
+      "ref": 3,
+      "x": 31.98,
+      "y": 25.1,
+      "partNo": "C33423",
+      "desc": "HOSE - pump inlet"
+    },
+    {
+      "ref": 4,
+      "x": 38.49,
+      "y": 35.2,
+      "partNo": "217-391",
+      "desc": "FITTING - 1\" hose x 7/8\" - 14"
+    },
+    {
+      "ref": 5,
+      "x": 22.57,
+      "y": 42.3,
+      "partNo": "218-5062",
+      "desc": "FITTING - 7/8\" - 14 flare x 7/8\" - 14 (includes 218-5007 \"0\" ring)"
+    },
+    {
+      "ref": 6,
+      "x": 18.33,
+      "y": 45.1,
+      "partNo": "218-5128",
+      "desc": "FITTING - 900 9/16\" - 18 flare x 3/4\" - 16 (to power steering \"in\")"
+    },
+    {
+      "ref": 7,
+      "x": 25.15,
+      "y": 4.9,
+      "variants": [
+        {
+          "serialNote": "Shown",
+          "partNo": "C37093",
+          "desc": "CAP - oil reservoir (shown)"
+        },
+        {
+          "serialNote": "Option 1",
+          "partNo": "C44342",
+          "desc": "CAP - oil reservoir with dipstick"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 63.2,
+      "y": 76.9,
+      "partNo": "C43103",
+      "desc": "BRACKET - oil filter"
+    },
+    {
+      "ref": 9,
+      "x": 60.41,
+      "y": 67.5,
+      "partNo": "113-118",
+      "desc": "BOLT - 5/16\" - 18 x 5/8\""
+    },
+    {
+      "ref": 10,
+      "x": 63.51,
+      "y": 72.8,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 11,
+      "x": 49.14,
+      "y": 81.4,
+      "partNo": "C43026",
+      "desc": "HEAD - oil filter"
+    },
+    {
+      "ref": 12,
+      "x": 65.58,
+      "y": 68.3,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\" flange lock"
+    },
+    {
+      "ref": 13,
+      "x": 33.01,
+      "y": 72.6,
+      "partNo": "217-333",
+      "desc": "FITTING - 90° 3/8\" x 3/4\" hose"
+    },
+    {
+      "ref": 14,
+      "x": 34.77,
+      "y": 84.6,
+      "partNo": "C33445",
+      "desc": "FILTER - oil"
+    },
+    {
+      "ref": 15,
+      "x": 53.69,
+      "y": 81.7,
+      "partNo": "217-1008",
+      "desc": "FITTING - increaser"
+    },
+    {
+      "ref": 16,
+      "x": 58.65,
+      "y": 83.2,
+      "partNo": "217-160",
+      "desc": "FITTING - hose connector"
+    },
+    {
+      "ref": 17,
+      "x": 29.6,
+      "y": 7.5,
+      "partNo": "C37228",
+      "desc": "RESERVOIR"
+    },
+    {
+      "ref": 18,
+      "x": 31.67,
+      "y": 11.3,
+      "variants": [
+        {
+          "serialNote": "Shown",
+          "partNo": "C33167",
+          "desc": "SLEEVE - inlet (shown)"
+        },
+        {
+          "serialNote": "Option 1",
+          "partNo": "C42540",
+          "desc": "SLEEVE - outlet"
+        }
+      ]
+    },
+    {
+      "ref": 19,
+      "x": 68.47,
+      "y": 87.5,
+      "partNo": "C43344",
+      "desc": "HOSE - 3/4\" x 5\""
+    },
+    {
+      "ref": 20,
+      "x": 63.2,
+      "y": 85.8,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 58.65,
+      "y": 64.8,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 76.53,
+      "y": 67.8,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 89.04,
+      "y": 58.5,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 72.09,
+      "y": 51.7,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 45.11,
+      "y": 61.1,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 63.2,
+      "y": 42.2,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 58.44,
+      "y": 21.8,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 60.51,
+      "y": 29.7,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 38.9,
+      "y": 19.8,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 20,
+      "x": 77.15,
+      "y": 90.4,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose 1-1/4\""
+    },
+    {
+      "ref": 21,
+      "x": 57.3,
+      "y": 18.4,
+      "partNo": "C41045",
+      "desc": "CLAMP - hose SAE #6"
+    },
+    {
+      "ref": 21,
+      "x": 44.18,
+      "y": 35.4,
+      "partNo": "C41045",
+      "desc": "CLAMP - hose SAE #6"
+    },
+    {
+      "ref": 22,
+      "x": 42.21,
+      "y": 33.5,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose 1-3/8\""
+    },
+    {
+      "ref": 22,
+      "x": 25.57,
+      "y": 29.2,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose 1-3/8\""
+    },
+    {
+      "ref": 23,
+      "x": 45.31,
+      "y": 42.6,
+      "partNo": "C43345",
+      "desc": "HOSE - 1/2\" x 13\""
+    },
+    {
+      "ref": 24,
+      "x": 47.59,
+      "y": 17.7,
+      "partNo": "C37230",
+      "desc": "HOSE - 90°"
+    },
+    {
+      "ref": 25,
+      "x": 66.09,
+      "y": 37.7,
+      "partNo": "C43067",
+      "desc": "HOSE - 90°"
+    },
+    {
+      "ref": 25,
+      "x": 52.55,
+      "y": 59.5,
+      "partNo": "C43067",
+      "desc": "HOSE - 90°"
+    },
+    {
+      "ref": 26,
+      "x": 80.56,
+      "y": 55.4,
+      "partNo": "C44286",
+      "desc": "HOSE - 3/4\" x 9\""
+    },
+    {
+      "ref": 27,
+      "x": 5.2,
+      "y": 46.6,
+      "partNo": "C37232",
+      "desc": "HOSE - supply"
+    },
+    {
+      "ref": 28,
+      "x": 46.97,
+      "y": 7.1,
+      "partNo": "C36909",
+      "desc": "VALVE - relief"
+    },
+    {
+      "ref": 29,
+      "x": 5.72,
+      "y": 25.4,
+      "partNo": "218-5117",
+      "desc": "FITTING -900 7/8\" - 14 flare x 3/4\" - 16 (includes 218-5006 \"O\" ring)"
+    },
+    {
+      "ref": 30,
+      "x": 57.41,
+      "y": 14.9,
+      "partNo": "217-182",
+      "desc": "FITTING - hose"
+    },
+    {
+      "ref": 31,
+      "x": 6.55,
+      "y": 35.0,
+      "partNo": "218-595",
+      "desc": "FITTING - tee 7/8\" - 14 flare"
+    },
+    {
+      "ref": 32,
+      "x": 64.64,
+      "y": 11.1,
+      "partNo": "113-132",
+      "desc": "BOLT - 1/4\" - 20 x 1-3/4\""
+    },
+    {
+      "ref": 33,
+      "x": 60.41,
+      "y": 8.2,
+      "partNo": "195-518",
+      "desc": "WASHER - 1/4\""
+    },
+    {
+      "ref": 34,
+      "x": 6.86,
+      "y": 30.4,
+      "partNo": "C37239",
+      "desc": "TUBE - relief valve to tee"
+    },
+    {
+      "ref": 35,
+      "x": 62.99,
+      "y": 60.4,
+      "partNo": "C42963",
+      "desc": "TUBE - travel valve \"out\" to heat exchanger"
+    },
+    {
+      "ref": 36,
+      "x": 32.39,
+      "y": 63.7,
+      "partNo": "C43070",
+      "desc": "TUBE - oil filter \"out\" to return"
+    },
+    {
+      "ref": 37,
+      "x": 42.63,
+      "y": 70.2,
+      "partNo": "C43108",
+      "desc": "HOSE - cushion"
+    },
+    {
+      "ref": 38,
+      "x": 95.04,
+      "y": 63.0,
+      "partNo": "C43072",
+      "desc": "EXCHANGER - heat"
+    },
+    {
+      "ref": 39,
+      "x": 69.09,
+      "y": 75.4,
+      "variants": [
+        {
+          "serialNote": "Shown",
+          "partNo": "C43106",
+          "desc": "BRACE - oil cooler R.H. (shown)"
+        },
+        {
+          "serialNote": "Option 1",
+          "partNo": "C43105",
+          "desc": "BRACE - oil cooler L.H"
+        }
+      ]
+    },
+    {
+      "ref": 40,
+      "x": 69.5,
+      "y": 73.0,
+      "partNo": "C43107",
+      "desc": "HOSE - cushion 3/4\" x 1\""
+    },
+    {
+      "ref": 41,
+      "x": 72.92,
+      "y": 82.3,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 42,
+      "x": 76.53,
+      "y": 82.7,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4\" -20 x 1/2\""
+    },
+    {
+      "ref": 43,
+      "x": 91.52,
+      "y": 87.7,
+      "partNo": "C43076",
+      "desc": "HOSE - cushion 7/8\" x 2-1/2\""
+    },
+    {
+      "ref": 44,
+      "x": 73.85,
+      "y": 98.3,
+      "partNo": "C43078",
+      "desc": "MOUNT - heat exchanger"
+    }
+  ],
+  "footnotes": ""
+}

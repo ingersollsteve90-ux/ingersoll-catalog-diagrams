@@ -1,0 +1,194 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor",
+  "breadcrumb": "Hydraulic Drive Motor",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/hydraulic_drive_motor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 62.45,
+      "y": 97.11,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "28-668",
+          "desc": "BOLT - 3/8\" - 24 x 4-1/4\" (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C31327",
+          "desc": "BOLT - 3/8\" - 24 x 4-5/8\" (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 57.96,
+      "y": 94.55,
+      "partNo": "C31309",
+      "desc": "COVER - end"
+    },
+    {
+      "ref": 3,
+      "x": 53.14,
+      "y": 66.64,
+      "partNo": "C31310",
+      "desc": "COMMUTATORAND RING SET"
+    },
+    {
+      "ref": 4,
+      "x": 39.44,
+      "y": 77.21,
+      "partNo": "C31311",
+      "desc": "MANIFOLD"
+    },
+    {
+      "ref": 5,
+      "x": 36.51,
+      "y": 50.07,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C31312",
+          "desc": "ROTOR ASSEMBLY (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C31313",
+          "desc": "ROTOR ASSEMBLY (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 21.55,
+      "y": 57.64,
+      "partNo": "C31314",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": 7,
+      "x": 82.23,
+      "y": 51.63,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C31315",
+          "desc": "LINK - drive (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C31316",
+          "desc": "LINK - drive (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 73.12,
+      "y": 40.73,
+      "partNo": "C31317",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 9,
+      "x": 67.68,
+      "y": 36.62,
+      "partNo": "C31318",
+      "desc": "SHAFT - coupling"
+    },
+    {
+      "ref": 10,
+      "x": 57.96,
+      "y": 27.39,
+      "partNo": "C31319",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 11,
+      "x": 53.14,
+      "y": 41.07,
+      "partNo": "C31320",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 12,
+      "x": 46.76,
+      "y": 9.71,
+      "partNo": "C31321",
+      "desc": "HOUSING - drive end"
+    },
+    {
+      "ref": 13,
+      "x": 40.28,
+      "y": 9.71,
+      "partNo": "C31322",
+      "desc": "BEARING - outer"
+    },
+    {
+      "ref": 14,
+      "x": 49.06,
+      "y": 81.1,
+      "partNo": "NSS",
+      "desc": "SEAL - commutator ring"
+    },
+    {
+      "ref": 15,
+      "x": 54.08,
+      "y": 89.99,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 44.04,
+      "y": 80.43,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 36.93,
+      "y": 72.09,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 26.68,
+      "y": 64.31,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 78.98,
+      "y": 42.07,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 16,
+      "x": 54.08,
+      "y": 22.5,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 17,
+      "x": 50.53,
+      "y": 20.05,
+      "partNo": "NSS",
+      "desc": "WASHER - back-up"
+    },
+    {
+      "ref": 18,
+      "x": 35.78,
+      "y": 5.6,
+      "partNo": "NSS",
+      "desc": "SEAL - dirt (not used)"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C33234 — MOTOR - hydraulic (4118D).\nAlso listed, not shown on diagram: C30939 — MOTOR - hydraulic (3118D).\nAlso listed, not shown on diagram: C31323 — KIT - seal."
+}

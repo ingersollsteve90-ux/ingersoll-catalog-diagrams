@@ -1,0 +1,314 @@
+{
+  "sectionTitle": "Cylinder Block",
+  "breadcrumb": "Cylinder Block",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/cylinder_block.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 50.2,
+      "y": 5.07,
+      "partNo": "P110006670",
+      "desc": "BLOCK - cylinder, short"
+    },
+    {
+      "ref": 2,
+      "x": 14.16,
+      "y": 80.04,
+      "partNo": "P064200015",
+      "desc": "PLUG"
+    },
+    {
+      "ref": 4,
+      "x": 88.92,
+      "y": 61.1,
+      "partNo": "P064200040",
+      "desc": "PLUG"
+    },
+    {
+      "ref": 5,
+      "x": 82.68,
+      "y": 42.25,
+      "partNo": "P064200040",
+      "desc": "PLUG"
+    },
+    {
+      "ref": 5,
+      "x": 41.67,
+      "y": 82.17,
+      "partNo": "P064200040",
+      "desc": "PLUG"
+    },
+    {
+      "ref": 6,
+      "x": 19.89,
+      "y": 75.68,
+      "partNo": "P198466050",
+      "desc": "PLUG"
+    },
+    {
+      "ref": 7,
+      "x": 9.32,
+      "y": 61.4,
+      "partNo": "P198466010",
+      "desc": "PLUG"
+    },
+    {
+      "ref": 8,
+      "x": 8.82,
+      "y": 67.68,
+      "partNo": "P198466070",
+      "desc": "PLUG"
+    },
+    {
+      "ref": 9,
+      "x": 9.2,
+      "y": 74.87,
+      "partNo": "P165296160",
+      "desc": "SHAFT"
+    },
+    {
+      "ref": 10,
+      "x": 6.4,
+      "y": 65.25,
+      "partNo": "P198517090",
+      "desc": "BUSHING"
+    },
+    {
+      "ref": 11,
+      "x": 35.94,
+      "y": 81.46,
+      "variants": [
+        {
+          "serialNote": "Standard",
+          "partNo": "P198517300",
+          "desc": "BUSHING - standard"
+        },
+        {
+          "serialNote": "0.25mm undersize",
+          "partNo": "P198517304",
+          "desc": "BUSHING -0.25mm undersize"
+        },
+        {
+          "serialNote": "0.50mm undersize",
+          "partNo": "P198517307",
+          "desc": "BUSHING -0.50mm undersize"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 93.76,
+      "y": 57.65,
+      "partNo": "P040106203",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 13,
+      "x": 97.07,
+      "y": 51.88,
+      "partNo": "P064100045",
+      "desc": "PLUG"
+    },
+    {
+      "ref": 14,
+      "x": 12.25,
+      "y": 59.17,
+      "partNo": "P042303015",
+      "desc": "BUSHING"
+    },
+    {
+      "ref": 15,
+      "x": 23.33,
+      "y": 49.65,
+      "partNo": "P030500512",
+      "desc": "DOWEL"
+    },
+    {
+      "ref": 16,
+      "x": 19.77,
+      "y": 54.21,
+      "partNo": "P030500616",
+      "desc": "DOWEL"
+    },
+    {
+      "ref": 17,
+      "x": 90.19,
+      "y": 49.04,
+      "partNo": "P030500820",
+      "desc": "DOWEL"
+    },
+    {
+      "ref": 18,
+      "x": 36.07,
+      "y": 45.6,
+      "partNo": "P030309005",
+      "desc": "PIN"
+    },
+    {
+      "ref": 19,
+      "x": 22.7,
+      "y": 45.19,
+      "partNo": "P012100620",
+      "desc": "STUD"
+    },
+    {
+      "ref": 20,
+      "x": 12.25,
+      "y": 56.03,
+      "partNo": "P012100635",
+      "desc": "STUD"
+    },
+    {
+      "ref": 21,
+      "x": 7.67,
+      "y": 70.11,
+      "partNo": "P012100660",
+      "desc": "STUD"
+    },
+    {
+      "ref": 22,
+      "x": 63.7,
+      "y": 95.14,
+      "partNo": "P110156220",
+      "desc": "HOLDER"
+    },
+    {
+      "ref": 23,
+      "x": 38.11,
+      "y": 87.94,
+      "partNo": "NSS",
+      "desc": "CAP"
+    },
+    {
+      "ref": 24,
+      "x": 40.65,
+      "y": 92.91,
+      "partNo": "NSS",
+      "desc": "CAP"
+    },
+    {
+      "ref": 25,
+      "x": 56.32,
+      "y": 93.82,
+      "partNo": "P030500612",
+      "desc": "DOWEL"
+    },
+    {
+      "ref": 26,
+      "x": 45.87,
+      "y": 82.57,
+      "partNo": "P010810840",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 27,
+      "x": 78.48,
+      "y": 89.77,
+      "partNo": "P110156230",
+      "desc": "HOLDER"
+    },
+    {
+      "ref": 28,
+      "x": 61.41,
+      "y": 75.99,
+      "partNo": "NSS",
+      "desc": "CAP"
+    },
+    {
+      "ref": 29,
+      "x": 69.05,
+      "y": 90.38,
+      "partNo": "NSS",
+      "desc": "CAP"
+    },
+    {
+      "ref": 30,
+      "x": 72.75,
+      "y": 88.45,
+      "partNo": "P030500612",
+      "desc": "DOWEL"
+    },
+    {
+      "ref": 31,
+      "x": 64.72,
+      "y": 71.23,
+      "partNo": "P010810840",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 32,
+      "x": 93.38,
+      "y": 83.69,
+      "partNo": "P110156240",
+      "desc": "HOLDER"
+    },
+    {
+      "ref": 33,
+      "x": 91.72,
+      "y": 72.34,
+      "partNo": "NSS",
+      "desc": "CAP"
+    },
+    {
+      "ref": 34,
+      "x": 86.63,
+      "y": 83.49,
+      "partNo": "NSS",
+      "desc": "CAP"
+    },
+    {
+      "ref": 36,
+      "x": 75.17,
+      "y": 72.04,
+      "partNo": "P010810840",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 37,
+      "x": 43.96,
+      "y": 98.18,
+      "partNo": "P011310850",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 38,
+      "x": 68.93,
+      "y": 93.41,
+      "partNo": "P011310850",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 39,
+      "x": 82.55,
+      "y": 87.94,
+      "partNo": "P010700845",
+      "desc": "SCREW"
+    },
+    {
+      "ref": 40,
+      "x": 27.66,
+      "y": 83.28,
+      "partNo": "P036509005",
+      "desc": "CIRCLIP"
+    },
+    {
+      "ref": 35,
+      "x": 82.17,
+      "y": 77.71,
+      "estimated": true,
+      "partNo": "P030500612",
+      "desc": "DOWEL"
+    },
+    {
+      "ref": 41,
+      "x": 38.87,
+      "y": 57.45,
+      "estimated": true,
+      "partNo": "P064200018",
+      "desc": "PLUG"
+    }
+  ],
+  "footnotes": ""
+}

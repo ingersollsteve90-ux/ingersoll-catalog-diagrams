@@ -1,0 +1,194 @@
+{
+  "sectionTitle": "Hydraulic System - Hydraulic Valve and Motor",
+  "breadcrumb": "Hydraulic System - Hydraulic Valve and Motor",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/hydraulic_valve_motor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 84.8,
+      "y": 31.38,
+      "partNo": "C36897",
+      "desc": "VALVE - control (repairs page 61)"
+    },
+    {
+      "ref": 2,
+      "x": 85.78,
+      "y": 55.92,
+      "partNo": "218-5065",
+      "desc": "FITTING - 3/4\" x 7/8\" \"O\" ring"
+    },
+    {
+      "ref": 3,
+      "x": 81.0,
+      "y": 65.83,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 4,
+      "x": 81.1,
+      "y": 92.97,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° elbow"
+    },
+    {
+      "ref": 4,
+      "x": 65.22,
+      "y": 93.5,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° elbow"
+    },
+    {
+      "ref": 5,
+      "x": 80.45,
+      "y": 85.67,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 6,
+      "x": 94.6,
+      "y": 43.52,
+      "partNo": "218-5062",
+      "desc": "FITTING - 5/8\" x 7/8\" \"0\" RING"
+    },
+    {
+      "ref": 7,
+      "x": 90.24,
+      "y": 38.04,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 7,
+      "x": 28.76,
+      "y": 41.69,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 8,
+      "x": 21.26,
+      "y": 6.46,
+      "partNo": "166-86",
+      "desc": "SCREW - 1/2\" - 13 x 1-1/4\""
+    },
+    {
+      "ref": 9,
+      "x": 71.96,
+      "y": 17.68,
+      "partNo": "C27764",
+      "desc": "SCREW - 5/16\" - 18 x 1-1/4"
+    },
+    {
+      "ref": 10,
+      "x": 82.95,
+      "y": 20.03,
+      "partNo": "131-351",
+      "desc": "NUT - lock 5/16\""
+    },
+    {
+      "ref": 11,
+      "x": 59.23,
+      "y": 79.92,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37220",
+          "desc": "TUBE - valve to upper motor port (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37309",
+          "desc": "TUBE - valve to upper motor port (4118D) shown"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 68.26,
+      "y": 64.14,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37221",
+          "desc": "TUBE - valve to lower motor port (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37310",
+          "desc": "TUBE - valve to lower motor port (4118D) shown"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 19.62,
+      "y": 13.77,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\""
+    },
+    {
+      "ref": 14,
+      "x": 14.95,
+      "y": 17.68,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C30939",
+          "desc": "MOTOR - hydraulic (3118D) repairs below"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C33234",
+          "desc": "MOTOR - hydraulic (4118D) repairs below"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 8.09,
+      "y": 28.51,
+      "partNo": "C28949",
+      "desc": "SEAL - motor to transmission"
+    },
+    {
+      "ref": 16,
+      "x": 67.39,
+      "y": 56.44,
+      "partNo": "C33559",
+      "desc": "FITTING - tee 3/8\" tube x 1/2\" - 20"
+    },
+    {
+      "ref": 17,
+      "x": 22.02,
+      "y": 53.17,
+      "partNo": "218-5137",
+      "desc": "FITTING - 45° 7/8\" - 14 (3118D)"
+    },
+    {
+      "ref": 18,
+      "x": 32.14,
+      "y": 46.39,
+      "partNo": "218-5062",
+      "desc": "FITTING - 7/8\" - 14 (4118D)"
+    },
+    {
+      "ref": 18,
+      "x": 39.54,
+      "y": 29.82,
+      "partNo": "218-5062",
+      "desc": "FITTING - 7/8\" - 14 (4118D)"
+    },
+    {
+      "ref": 19,
+      "x": 45.85,
+      "y": 19.51,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90° male 7/8\" - 14 (311D)"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,142 @@
+{
+  "sectionTitle": "Decals",
+  "breadcrumb": "Decals",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/decals.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 49.78,
+      "y": 15.08,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C43082",
+          "desc": "DECAL - \"3118D\" hood L.H"
+        },
+        {
+          "serialNote": "3118D (2)",
+          "partNo": "C43083",
+          "desc": "DECAL - \"3118D\" hood R.H. (shown)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 90.39,
+      "y": 65.2,
+      "partNo": "C33588",
+      "desc": "DECAL - fuel gauge"
+    },
+    {
+      "ref": 3,
+      "x": 9.62,
+      "y": 66.92,
+      "partNo": "C37197",
+      "desc": "DECAL - steering wheel"
+    },
+    {
+      "ref": 4,
+      "x": 12.3,
+      "y": 36.95,
+      "partNo": "C37274",
+      "desc": "DECAL - shift range"
+    },
+    {
+      "ref": 5,
+      "x": 12.42,
+      "y": 28.24,
+      "partNo": "C33590",
+      "desc": "DECAL - brake"
+    },
+    {
+      "ref": 6,
+      "x": 50.23,
+      "y": 27.94,
+      "partNo": "C34184",
+      "desc": "DECAL - flag"
+    },
+    {
+      "ref": 7,
+      "x": 56.94,
+      "y": 61.35,
+      "partNo": "C43090",
+      "desc": "INSERT - instrument panel decal"
+    },
+    {
+      "ref": 8,
+      "x": 50.57,
+      "y": 5.06,
+      "variants": [
+        {
+          "serialNote": "4118D",
+          "partNo": "C43084",
+          "desc": "DECAL - \"4118D\" hood L.H"
+        },
+        {
+          "serialNote": "4118D (2)",
+          "partNo": "C43085",
+          "desc": "DECAL - \"4118D\" hood R.H. (shown)"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 70.59,
+      "y": 32.7,
+      "partNo": "C44340",
+      "desc": "DECAL - Warning (shown)"
+    },
+    {
+      "ref": 10,
+      "x": 50.57,
+      "y": 42.52,
+      "partNo": "C30539",
+      "desc": "MEDALLION"
+    },
+    {
+      "ref": 11,
+      "x": 11.74,
+      "y": 49.2,
+      "partNo": "C37275",
+      "desc": "DECAL PTO"
+    },
+    {
+      "ref": 12,
+      "x": 80.88,
+      "y": 92.53,
+      "partNo": "C43091",
+      "desc": "DECAL - anti-freeze"
+    },
+    {
+      "ref": 13,
+      "x": 54.82,
+      "y": 92.53,
+      "partNo": "C43092",
+      "desc": "DECAL - ether"
+    },
+    {
+      "ref": 14,
+      "x": 24.5,
+      "y": 92.33,
+      "partNo": "C37497",
+      "desc": "DECAL - diesel fuel only"
+    },
+    {
+      "ref": 15,
+      "x": 77.19,
+      "y": 52.54,
+      "partNo": "C43410",
+      "desc": "DECAL - diesel"
+    },
+    {
+      "ref": 16,
+      "x": 70.26,
+      "y": 45.96,
+      "partNo": "C44341",
+      "desc": "DECAL - Attention"
+    }
+  ],
+  "footnotes": "REF 9: DECAL - Caution (use C44340 and C44341) (not sold as a full assembly — order the listed component part(s) separately)."
+}

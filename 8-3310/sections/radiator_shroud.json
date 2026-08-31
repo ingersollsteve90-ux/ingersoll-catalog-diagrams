@@ -1,0 +1,235 @@
+{
+  "sectionTitle": "Radiator and Shroud",
+  "breadcrumb": "Radiator and Shroud",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/radiator_shroud.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 83.53,
+      "y": 44.5,
+      "partNo": "C43211",
+      "desc": "RADIATOR"
+    },
+    {
+      "ref": 2,
+      "x": 92.27,
+      "y": 32.82,
+      "partNo": "C43009",
+      "desc": "CAP - radiator 15 PSI"
+    },
+    {
+      "ref": 3,
+      "x": 53.8,
+      "y": 80.16,
+      "partNo": "C43011",
+      "desc": "HOSE - overflow 23\""
+    },
+    {
+      "ref": 4,
+      "x": 91.36,
+      "y": 87.31,
+      "partNo": "C43148",
+      "desc": "BRACKET - mounting"
+    },
+    {
+      "ref": 5,
+      "x": 77.81,
+      "y": 83.38,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 6,
+      "x": 77.4,
+      "y": 90.23,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 6,
+      "x": 7.81,
+      "y": 49.13,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 7,
+      "x": 89.25,
+      "y": 92.45,
+      "partNo": "C43012",
+      "desc": "MOUNT - rubber"
+    },
+    {
+      "ref": 8,
+      "x": 79.21,
+      "y": 96.68,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 9,
+      "x": 89.25,
+      "y": 98.19,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4"
+    },
+    {
+      "ref": 10,
+      "x": 76.0,
+      "y": 38.46,
+      "partNo": "C43021",
+      "desc": "HOSE - radiator inlet"
+    },
+    {
+      "ref": 11,
+      "x": 69.77,
+      "y": 65.15,
+      "partNo": "C43022",
+      "desc": "HOSE - radiator outlet"
+    },
+    {
+      "ref": 12,
+      "x": 61.94,
+      "y": 47.02,
+      "partNo": "C44567",
+      "desc": "SPRING - hose insert"
+    },
+    {
+      "ref": 13,
+      "x": 98.09,
+      "y": 74.72,
+      "partNo": "C43010",
+      "desc": "PLUG - drain (included with radiator)"
+    },
+    {
+      "ref": 14,
+      "x": 70.07,
+      "y": 34.93,
+      "partNo": "214-255",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 15,
+      "x": 44.66,
+      "y": 12.37,
+      "partNo": "C44013",
+      "desc": "SHROUD - fan"
+    },
+    {
+      "ref": 16,
+      "x": 12.03,
+      "y": 42.39,
+      "partNo": "C44306",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\" flathead"
+    },
+    {
+      "ref": 17,
+      "x": 33.01,
+      "y": 23.35,
+      "partNo": "C33576",
+      "desc": "SCREW - 1/4\" - 20 x 5/16\""
+    },
+    {
+      "ref": 18,
+      "x": 26.59,
+      "y": 32.11,
+      "partNo": "353-406",
+      "desc": "PLUG - hole"
+    },
+    {
+      "ref": 19,
+      "x": 14.64,
+      "y": 27.68,
+      "partNo": "C43035",
+      "desc": "LATCH - screen"
+    },
+    {
+      "ref": 20,
+      "x": 9.92,
+      "y": 30.0,
+      "partNo": "195-518",
+      "desc": "WASHER - 1/4\""
+    },
+    {
+      "ref": 21,
+      "x": 6.1,
+      "y": 33.52,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 22,
+      "x": 63.54,
+      "y": 23.15,
+      "partNo": "C44038",
+      "desc": "SCREEN - radiator"
+    },
+    {
+      "ref": 23,
+      "x": 23.47,
+      "y": 8.64,
+      "partNo": "C43385",
+      "desc": "GUARD - fan"
+    },
+    {
+      "ref": 24,
+      "x": 5.0,
+      "y": 16.4,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\" tap"
+    },
+    {
+      "ref": 24,
+      "x": 28.19,
+      "y": 74.52,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\" tap"
+    },
+    {
+      "ref": 25,
+      "x": 18.45,
+      "y": 67.16,
+      "variants": [
+        {
+          "serialNote": "Use before PIN break",
+          "partNo": "C43013",
+          "desc": "BRACE - radiator R.H. (shown)"
+        },
+        {
+          "serialNote": "Use PIN and after",
+          "partNo": "C44319",
+          "desc": "BRACE - radiator R.H"
+        },
+        {
+          "serialNote": "Option 1",
+          "partNo": "C43363",
+          "desc": "BRACE - radiator L.H"
+        }
+      ]
+    },
+    {
+      "ref": 26,
+      "x": 6.2,
+      "y": 60.92,
+      "partNo": "C31597",
+      "desc": "SCREW - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 27,
+      "x": 78.61,
+      "y": 21.23,
+      "partNo": "C43342",
+      "desc": "BAFFLE - air"
+    },
+    {
+      "ref": 28,
+      "x": 68.06,
+      "y": 9.85,
+      "partNo": "C44141",
+      "desc": "TRIM - edge bulb"
+    }
+  ],
+  "footnotes": "* Use before PIN:\n** Use PIN and after:\n3118D - 14178772\n4118D - 14179302"
+}

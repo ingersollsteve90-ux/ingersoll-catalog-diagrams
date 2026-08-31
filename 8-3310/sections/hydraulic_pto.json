@@ -1,0 +1,390 @@
+{
+  "sectionTitle": "Hydraulic System - PTO (Power Take Off)",
+  "breadcrumb": "Hydraulic System - PTO (Power Take Off)",
+  "catalogLabel": "Catalog 8-3310",
+  "modelNumbers": "Catalog 8-3310 — Models 3118D, 4118D",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3310/hydraulic_pto.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 84.92,
+      "y": 95.34,
+      "partNo": "C42198",
+      "desc": "LATCH - reverse lockout"
+    },
+    {
+      "ref": 2,
+      "x": 76.56,
+      "y": 92.63,
+      "partNo": "C42078",
+      "desc": "GATE - shift"
+    },
+    {
+      "ref": 3,
+      "x": 95.77,
+      "y": 83.52,
+      "partNo": "C42081",
+      "desc": "STOP - lever"
+    },
+    {
+      "ref": 4,
+      "x": 94.73,
+      "y": 67.91,
+      "partNo": "C42082",
+      "desc": "PIN - hinge"
+    },
+    {
+      "ref": 5,
+      "x": 90.91,
+      "y": 84.5,
+      "partNo": "C42083",
+      "desc": "SPRING - torsion"
+    },
+    {
+      "ref": 6,
+      "x": 87.4,
+      "y": 68.56,
+      "partNo": "C37400",
+      "desc": "ACTUATOR - switch"
+    },
+    {
+      "ref": 7,
+      "x": 95.66,
+      "y": 93.06,
+      "partNo": "C29620",
+      "desc": "SCREW - 5/16\" - 18 x 3/4\""
+    },
+    {
+      "ref": 8,
+      "x": 83.06,
+      "y": 68.34,
+      "partNo": "C37406",
+      "desc": "LEVER - PTO"
+    },
+    {
+      "ref": 9,
+      "x": 84.61,
+      "y": 57.5,
+      "partNo": "C10487",
+      "desc": "KNOB"
+    },
+    {
+      "ref": 10,
+      "x": 73.77,
+      "y": 68.34,
+      "partNo": "C28964",
+      "desc": "PIN - clevis 3/16\" x 1\""
+    },
+    {
+      "ref": 11,
+      "x": 68.6,
+      "y": 83.3,
+      "partNo": "132-329",
+      "desc": "PIN - cotter 1/16\" x 3/4\""
+    },
+    {
+      "ref": 12,
+      "x": 40.72,
+      "y": 64.98,
+      "partNo": "218-5062",
+      "desc": "FITTING - 7/8\" (includes 218-5007 \"O\" ring)"
+    },
+    {
+      "ref": 13,
+      "x": 41.34,
+      "y": 42.64,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90 7/8\" (includes 218-5007 \"O\" ring)"
+    },
+    {
+      "ref": 13,
+      "x": 55.8,
+      "y": 65.3,
+      "partNo": "218-5107",
+      "desc": "FITTING - 90 7/8\" (includes 218-5007 \"O\" ring)"
+    },
+    {
+      "ref": 14,
+      "x": 39.38,
+      "y": 50.02,
+      "partNo": "C36910",
+      "desc": "VALVE - PTO"
+    },
+    {
+      "ref": 15,
+      "x": 69.33,
+      "y": 91.43,
+      "partNo": "C37401",
+      "desc": "BRACKET - actuating"
+    },
+    {
+      "ref": 16,
+      "x": 47.12,
+      "y": 38.2,
+      "partNo": "61-420",
+      "desc": "SCREW - 1/4\" - 20 x 1-1/4\" socket head"
+    },
+    {
+      "ref": 17,
+      "x": 59.41,
+      "y": 23.99,
+      "partNo": "218-465",
+      "desc": "FITTING - 1/2\" x 7/8\" - 14"
+    },
+    {
+      "ref": 17,
+      "x": 29.87,
+      "y": 50.56,
+      "partNo": "218-465",
+      "desc": "FITTING - 1/2\" x 7/8\" - 14"
+    },
+    {
+      "ref": 18,
+      "x": 54.76,
+      "y": 19.98,
+      "partNo": "C37142",
+      "desc": "NIPPLE - pipe"
+    },
+    {
+      "ref": 18,
+      "x": 25.64,
+      "y": 47.96,
+      "partNo": "C37142",
+      "desc": "NIPPLE - pipe"
+    },
+    {
+      "ref": 19,
+      "x": 11.18,
+      "y": 34.95,
+      "partNo": "C37187",
+      "desc": "COUPLING - quick, male 7/8\""
+    },
+    {
+      "ref": 20,
+      "x": 6.64,
+      "y": 30.61,
+      "partNo": "C37188",
+      "desc": "COUPLING - quick, female 7/8\""
+    },
+    {
+      "ref": 21,
+      "x": 40.41,
+      "y": 21.39,
+      "partNo": "C37144",
+      "desc": "CLAMP"
+    },
+    {
+      "ref": 21,
+      "x": 21.92,
+      "y": 43.4,
+      "partNo": "C37144",
+      "desc": "CLAMP"
+    },
+    {
+      "ref": 22,
+      "x": 21.71,
+      "y": 37.11,
+      "partNo": "C37145",
+      "desc": "COVER - clamp"
+    },
+    {
+      "ref": 22,
+      "x": 39.58,
+      "y": 14.78,
+      "partNo": "C37145",
+      "desc": "COVER - clamp"
+    },
+    {
+      "ref": 23,
+      "x": 18.82,
+      "y": 28.44,
+      "partNo": "113-14",
+      "desc": "BOLT - 1/4\" -20 x 2\""
+    },
+    {
+      "ref": 23,
+      "x": 41.23,
+      "y": 7.51,
+      "partNo": "113-14",
+      "desc": "BOLT - 1/4\" -20 x 2\""
+    },
+    {
+      "ref": 24,
+      "x": 20.37,
+      "y": 58.8,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 24,
+      "x": 40.51,
+      "y": 30.93,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock"
+    },
+    {
+      "ref": 25,
+      "x": 15.62,
+      "y": 7.73,
+      "partNo": "C40641",
+      "desc": "CAP - dust"
+    },
+    {
+      "ref": 26,
+      "x": 29.05,
+      "y": 8.71,
+      "partNo": "C40642",
+      "desc": "PLUG - dust"
+    },
+    {
+      "ref": 27,
+      "x": 69.12,
+      "y": 41.34,
+      "partNo": "C37454",
+      "desc": "CONDUIT - corrugated (cut to length)"
+    },
+    {
+      "ref": 27,
+      "x": 43.4,
+      "y": 82.11,
+      "partNo": "C37454",
+      "desc": "CONDUIT - corrugated (cut to length)"
+    },
+    {
+      "ref": 28,
+      "x": 76.87,
+      "y": 49.04,
+      "partNo": "C22947",
+      "desc": "TIE - nylon"
+    },
+    {
+      "ref": 29,
+      "x": 63.13,
+      "y": 27.68,
+      "partNo": "C37233",
+      "desc": "TUBE - L.H"
+    },
+    {
+      "ref": 30,
+      "x": 34.11,
+      "y": 54.57,
+      "partNo": "C37234",
+      "desc": "TUBE - R.H"
+    },
+    {
+      "ref": 31,
+      "x": 30.49,
+      "y": 86.12,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C33750",
+          "desc": "HOSE - hydraulic 21\" (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C32399",
+          "desc": "HOSE - hydraulic 25\" (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 32,
+      "x": 17.89,
+      "y": 73.76,
+      "partNo": "218-443",
+      "desc": "FITTING - 3/8\" x 9/16\" - 18"
+    },
+    {
+      "ref": 33,
+      "x": 13.76,
+      "y": 69.97,
+      "partNo": "C37249",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 34,
+      "x": 11.18,
+      "y": 67.69,
+      "partNo": "C41043",
+      "desc": "COUPLING - quick, male 9/16\""
+    },
+    {
+      "ref": 35,
+      "x": 13.35,
+      "y": 90.13,
+      "partNo": "C33404",
+      "desc": "CAP - dust"
+    },
+    {
+      "ref": 36,
+      "x": 58.38,
+      "y": 81.78,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37235",
+          "desc": "TUBE - supply tee to P.T.O. \"in\" (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37236",
+          "desc": "TUBE - supply tee to P.T.O. \"in\" (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 37,
+      "x": 57.76,
+      "y": 44.7,
+      "variants": [
+        {
+          "serialNote": "3118D",
+          "partNo": "C37237",
+          "desc": "TUBE - travel valve to P.T.O. \"out\" (3118D)"
+        },
+        {
+          "serialNote": "4118D",
+          "partNo": "C37238",
+          "desc": "TUBE - travel valve to P.T.O. \"out\" (4118D)"
+        }
+      ]
+    },
+    {
+      "ref": 38,
+      "x": 6.43,
+      "y": 64.22,
+      "partNo": "C41044",
+      "desc": "COUPLING - quick, female 9/16\""
+    },
+    {
+      "ref": 39,
+      "x": 86.06,
+      "y": 21.83,
+      "partNo": "C37439",
+      "desc": "KEY - coupler switch"
+    },
+    {
+      "ref": 40,
+      "x": 79.24,
+      "y": 11.42,
+      "partNo": "C37437",
+      "desc": "BRACKET - switch mounting"
+    },
+    {
+      "ref": 41,
+      "x": 89.78,
+      "y": 24.97,
+      "partNo": "C37459",
+      "desc": "CUSHION - key"
+    },
+    {
+      "ref": 42,
+      "x": 87.4,
+      "y": 6.75,
+      "partNo": "C42048",
+      "desc": "KIT - coupler switch"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C37440 — DECAL.\nAlso listed, not shown on diagram: 113-1 — BOLT - 1/4\" -20.\nAlso listed, not shown on diagram: 195-518 — WASHER - 1/4\"."
+}
