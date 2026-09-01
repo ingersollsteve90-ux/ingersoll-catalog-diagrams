@@ -1,0 +1,262 @@
+{
+  "sectionTitle": "Choke, Throttle and Governor",
+  "breadcrumb": "Choke, Throttle and Governor",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/choke_throttle_governor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 6.7,
+      "y": 51.9,
+      "partNo": "C 25603",
+      "desc": "CONTROL - throttle"
+    },
+    {
+      "ref": 2,
+      "x": 8.5,
+      "y": 24.9,
+      "partNo": "C 12224",
+      "desc": "HANDLE - throttle control, black"
+    },
+    {
+      "ref": 3,
+      "x": 45.9,
+      "y": 53.3,
+      "partNo": "C 25605",
+      "desc": "CONTROL - choke"
+    },
+    {
+      "ref": 4,
+      "x": 26.7,
+      "y": 19.3,
+      "partNo": "C 14506",
+      "desc": "HANDLE - choke control, white"
+    },
+    {
+      "ref": 5,
+      "x": 19.4,
+      "y": 32.5,
+      "partNo": "111- 5",
+      "desc": "BOLT - 10-24 x 5/8\" round head, square neck"
+    },
+    {
+      "ref": 6,
+      "x": 29.1,
+      "y": 54.4,
+      "partNo": "192- 18",
+      "desc": "LOCKWASHER - #10 Std. plated"
+    },
+    {
+      "ref": 7,
+      "x": 29.4,
+      "y": 59.8,
+      "partNo": "129- 17",
+      "desc": "NUT - #10 - 24 plated"
+    },
+    {
+      "ref": 8,
+      "x": 41.4,
+      "y": 8.8,
+      "partNo": "KOA 237653",
+      "desc": "LEVER - governor"
+    },
+    {
+      "ref": 9,
+      "x": 38.6,
+      "y": 12.7,
+      "partNo": "113- 17",
+      "desc": "BOLT - 1/4\" x 1-1/4\" NC hex"
+    },
+    {
+      "ref": 9,
+      "x": 55.1,
+      "y": 61.0,
+      "partNo": "113- 17",
+      "desc": "BOLT - 1/4\" x 1-1/4\" NC hex"
+    },
+    {
+      "ref": 10,
+      "x": 37.4,
+      "y": 27.8,
+      "partNo": "195- 518",
+      "desc": "WASHER - 1/4\" plated"
+    },
+    {
+      "ref": 11,
+      "x": 39.0,
+      "y": 34.2,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" hex"
+    },
+    {
+      "ref": 12,
+      "x": 55.8,
+      "y": 52.2,
+      "partNo": "KO 235496",
+      "desc": "SPRING - governor"
+    },
+    {
+      "ref": 13,
+      "x": 58.2,
+      "y": 57.7,
+      "partNo": "92- 4",
+      "desc": "LOCKWASHER - 1/4\" plated"
+    },
+    {
+      "ref": 14,
+      "x": 62.2,
+      "y": 55.4,
+      "partNo": "C 18098",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 15,
+      "x": 65.3,
+      "y": 53.0,
+      "partNo": "KO 275690",
+      "desc": "WASHER - wavy"
+    },
+    {
+      "ref": 16,
+      "x": 69.6,
+      "y": 50.3,
+      "partNo": "H 43034",
+      "desc": "CLAMP - swivel, wire"
+    },
+    {
+      "ref": 17,
+      "x": 72.8,
+      "y": 46.5,
+      "partNo": "KO 235086",
+      "desc": "LEVER - speed control"
+    },
+    {
+      "ref": 18,
+      "x": 78.6,
+      "y": 44.9,
+      "partNo": "KO 235085",
+      "desc": "SPACER - speed control bracket"
+    },
+    {
+      "ref": 19,
+      "x": 83.3,
+      "y": 40.8,
+      "partNo": "KO 235084",
+      "desc": "BRACKET - high speed stop"
+    },
+    {
+      "ref": 20,
+      "x": 69.8,
+      "y": 24.2,
+      "partNo": "129- 37",
+      "desc": "NUT - #10 - 32 hex"
+    },
+    {
+      "ref": 22,
+      "x": 55.4,
+      "y": 30.2,
+      "partNo": "C 25020",
+      "desc": "JOINT - ball"
+    },
+    {
+      "ref": 23,
+      "x": 51.4,
+      "y": 8.7,
+      "partNo": "KO 235277",
+      "desc": "ROD - throttle"
+    },
+    {
+      "ref": 24,
+      "x": 55.3,
+      "y": 6.2,
+      "partNo": "49485",
+      "desc": "RING - retaining, throttle rod"
+    },
+    {
+      "ref": 25,
+      "x": 59.8,
+      "y": 9.4,
+      "partNo": "KO 235476",
+      "desc": "BUSHING - governor cross shaft"
+    },
+    {
+      "ref": 26,
+      "x": 66.6,
+      "y": 5.8,
+      "partNo": "C 23126",
+      "desc": "SHAFT ASSEMBLY - governor cross"
+    },
+    {
+      "ref": 27,
+      "x": 88.2,
+      "y": 8.8,
+      "partNo": "V 34418",
+      "desc": "BEARING - needle, governor shaft"
+    },
+    {
+      "ref": 28,
+      "x": 89.3,
+      "y": 14.2,
+      "partNo": "V 34419",
+      "desc": "GEAR ASSEMBLY - governor"
+    },
+    {
+      "ref": 29,
+      "x": 91.6,
+      "y": 18.9,
+      "partNo": "KO 235125-S",
+      "desc": "SHAFT - governor stub"
+    },
+    {
+      "ref": 30,
+      "x": 80.0,
+      "y": 37.5,
+      "partNo": "C 18099",
+      "desc": "WASHER - governor stop pin"
+    },
+    {
+      "ref": 31,
+      "x": 75.6,
+      "y": 38.8,
+      "partNo": "V 34416",
+      "desc": "PIN - governor stop"
+    },
+    {
+      "ref": 32,
+      "x": 44.6,
+      "y": 84.4,
+      "partNo": "KOA 237559",
+      "desc": "BRACKET - throttle cable"
+    },
+    {
+      "ref": 33,
+      "x": 24.7,
+      "y": 9.1,
+      "partNo": "C 23032",
+      "desc": "PAD - rubber (also requires C24511 stiffener)"
+    },
+    {
+      "ref": 34,
+      "x": 93.3,
+      "y": 91.4,
+      "partNo": "KOA 236919",
+      "desc": "BRACKET - choke cable"
+    },
+    {
+      "ref": 35,
+      "x": 29.0,
+      "y": 70.2,
+      "partNo": "V 34421",
+      "desc": "SCREW - #10 x 3/8\" NC fillister head, sems"
+    },
+    {
+      "ref": 36,
+      "x": 74.0,
+      "y": 17.6,
+      "partNo": "E 78369",
+      "desc": "SPACER - shaft (used engine S/N 3173783 and after)"
+    }
+  ],
+  "footnotes": "Ref 21 not used in the printed table (skips 20 to 22)."
+}

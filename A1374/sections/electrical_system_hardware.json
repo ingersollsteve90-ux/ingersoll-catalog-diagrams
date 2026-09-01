@@ -1,0 +1,360 @@
+{
+  "sectionTitle": "Electrical System Hardware",
+  "breadcrumb": "Electrical System Hardware",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/electrical_system_hardware.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 8.4,
+      "y": 79.0,
+      "partNo": "C 23330",
+      "desc": "NUT - switch mounting"
+    },
+    {
+      "ref": 2,
+      "x": 13.6,
+      "y": 82.6,
+      "partNo": "C 23012",
+      "desc": "LOCKWASHER - internal tooth"
+    },
+    {
+      "ref": 3,
+      "x": 48.1,
+      "y": 74.1,
+      "partNo": "131- 629",
+      "desc": "NUT - speed type \"U\""
+    },
+    {
+      "ref": 4,
+      "x": 56.4,
+      "y": 94.3,
+      "partNo": "187- 1047",
+      "desc": "SCREW - #8 x 1/2\" self tapping, rd. head Phillips"
+    },
+    {
+      "ref": 5,
+      "x": 67.0,
+      "y": 62.8,
+      "partNo": "NSS",
+      "desc": "RECEPTACLE - headlamp (order C22571)"
+    },
+    {
+      "ref": 6,
+      "x": 76.1,
+      "y": 63.9,
+      "partNo": "A 41264",
+      "desc": "BULB - headlamp"
+    },
+    {
+      "ref": 7,
+      "x": 78.7,
+      "y": 71.2,
+      "partNo": "C 14304",
+      "desc": "GASKET - headlamp"
+    },
+    {
+      "ref": 7,
+      "x": 89.6,
+      "y": 79.0,
+      "partNo": "C 14304",
+      "desc": "GASKET - headlamp"
+    },
+    {
+      "ref": 8,
+      "x": 83.5,
+      "y": 74.9,
+      "partNo": "C 22573",
+      "desc": "LENS - headlamp"
+    },
+    {
+      "ref": 9,
+      "x": 58.5,
+      "y": 21.7,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\" hex"
+    },
+    {
+      "ref": 10,
+      "x": 55.5,
+      "y": 51.7,
+      "partNo": "193- 57",
+      "desc": "LOCKWASHER - 1/4\" external tooth"
+    },
+    {
+      "ref": 11,
+      "x": 61.8,
+      "y": 54.2,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 83.9,
+      "y": 59.2,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 50.0,
+      "y": 25.5,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 32.7,
+      "y": 17.6,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 77.0,
+      "y": 25.6,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 36.6,
+      "y": 6.8,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 12,
+      "x": 38.8,
+      "y": 17.9,
+      "partNo": "113- 3",
+      "desc": "BOLT - 1/4\" - 20 x 3/4\" hex"
+    },
+    {
+      "ref": 12,
+      "x": 43.7,
+      "y": 41.8,
+      "partNo": "113- 3",
+      "desc": "BOLT - 1/4\" - 20 x 3/4\" hex"
+    },
+    {
+      "ref": 13,
+      "x": 70.9,
+      "y": 34.6,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 13,
+      "x": 82.5,
+      "y": 46.1,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 13,
+      "x": 53.3,
+      "y": 13.8,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 13,
+      "x": 82.1,
+      "y": 35.3,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 13,
+      "x": 47.1,
+      "y": 5.7,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 14,
+      "x": 79.4,
+      "y": 15.9,
+      "partNo": "129- 162",
+      "desc": "NUT - 5/16\" NF hex"
+    },
+    {
+      "ref": 15,
+      "x": 61.2,
+      "y": 11.9,
+      "partNo": "129- 27",
+      "desc": "NUT - #10 N.F. hex"
+    },
+    {
+      "ref": 15,
+      "x": 36.2,
+      "y": 53.8,
+      "partNo": "129- 27",
+      "desc": "NUT - #10 N.F. hex"
+    },
+    {
+      "ref": 15,
+      "x": 37.5,
+      "y": 39.5,
+      "partNo": "129- 27",
+      "desc": "NUT - #10 N.F. hex"
+    },
+    {
+      "ref": 15,
+      "x": 37.6,
+      "y": 78.1,
+      "partNo": "129- 27",
+      "desc": "NUT - #10 N.F. hex"
+    },
+    {
+      "ref": 16,
+      "x": 70.3,
+      "y": 10.7,
+      "partNo": "193- 99",
+      "desc": "LOCKWASHER - #10"
+    },
+    {
+      "ref": 16,
+      "x": 36.9,
+      "y": 49.2,
+      "partNo": "193- 99",
+      "desc": "LOCKWASHER - #10"
+    },
+    {
+      "ref": 16,
+      "x": 37.2,
+      "y": 85.4,
+      "partNo": "193- 99",
+      "desc": "LOCKWASHER - #10"
+    },
+    {
+      "ref": 17,
+      "x": 7.1,
+      "y": 28.3,
+      "partNo": "111- 202",
+      "desc": "BOLT - 5/16\" x 3/4\" N.C. rd. head sq. neck"
+    },
+    {
+      "ref": 18,
+      "x": 27.4,
+      "y": 12.2,
+      "partNo": "111- 108",
+      "desc": "BOLT - 1/4\" x 3/4\" N.C. rd. head sq. neck"
+    },
+    {
+      "ref": 19,
+      "x": 16.8,
+      "y": 16.3,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" NC hex"
+    },
+    {
+      "ref": 20,
+      "x": 29.4,
+      "y": 62.1,
+      "partNo": "182- 10",
+      "desc": "SCREW - #4 - 40 x 7/8\" N.C. Pan head"
+    },
+    {
+      "ref": 21,
+      "x": 41.3,
+      "y": 54.6,
+      "partNo": "129- 13",
+      "desc": "NUT - #4 - 40 hex"
+    },
+    {
+      "ref": 22,
+      "x": 35.2,
+      "y": 60.8,
+      "partNo": "192- 13",
+      "desc": "LOCKWASHER - #4"
+    },
+    {
+      "ref": 23,
+      "x": 11.4,
+      "y": 14.2,
+      "partNo": "C 24069",
+      "desc": "COVER - terminal"
+    },
+    {
+      "ref": 24,
+      "x": 24.3,
+      "y": 81.1,
+      "partNo": "187- 1844",
+      "desc": "SCREW - #10 x 1-1/2\" N.F. self tap"
+    },
+    {
+      "ref": 25,
+      "x": 19.5,
+      "y": 93.7,
+      "partNo": "22- 58",
+      "desc": "BOLT - 5/16 x 1/2 N.C. hex, self tap"
+    },
+    {
+      "ref": 26,
+      "x": 78.4,
+      "y": 20.1,
+      "partNo": "193- 29",
+      "desc": "LOCKWASHER"
+    },
+    {
+      "ref": 27,
+      "x": 85.2,
+      "y": 16.9,
+      "partNo": "187- 1908",
+      "desc": "SCREW - self tapping"
+    },
+    {
+      "ref": 28,
+      "x": 68.7,
+      "y": 52.1,
+      "partNo": "113- 17",
+      "desc": "BOLT - 1/4\" - 20 x 1-1/4\" hex"
+    },
+    {
+      "ref": 29,
+      "x": 92.9,
+      "y": 21.5,
+      "partNo": "C 10836",
+      "desc": "NUT - speed type \"U\""
+    },
+    {
+      "ref": 30,
+      "x": 9.8,
+      "y": 43.3,
+      "partNo": "182- 147",
+      "desc": "BOLT - #10 - 32 x 3/4\""
+    },
+    {
+      "ref": 31,
+      "x": 23.1,
+      "y": 43.4,
+      "partNo": "129- 37",
+      "desc": "NUT - #10 - 32 hex"
+    },
+    {
+      "ref": 31,
+      "x": 8.9,
+      "y": 59.9,
+      "partNo": "129- 37",
+      "desc": "NUT - #10 - 32 hex"
+    },
+    {
+      "ref": 32,
+      "x": 22.6,
+      "y": 49.2,
+      "partNo": "192- 18",
+      "desc": "LOCK WASHER - #10"
+    },
+    {
+      "ref": 32,
+      "x": 9.2,
+      "y": 47.3,
+      "partNo": "192- 18",
+      "desc": "LOCK WASHER - #10"
+    }
+  ],
+  "footnotes": "Table also lists 2 unnumbered items (CLIP - stator wires; RETAINER - wire, head lamp) with no ref number - likely footnote-only; confirm during placement. Also listed, not shown on diagram: 187- 1334 HEADLAMP ASSEMBLY; V 34829 CLIP - stator wires; C 19521 RETAINER - wire, head lamp."
+}

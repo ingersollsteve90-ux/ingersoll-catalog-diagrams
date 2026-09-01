@@ -1,0 +1,146 @@
+{
+  "sectionTitle": "Clutch, Belts and Guard",
+  "breadcrumb": "Clutch, Belts and Guard",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/clutch_belts_guard.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 56.7,
+      "y": 15.0,
+      "variants": [
+        {
+          "serialNote": "used S/N 9760975 and after",
+          "partNo": "C 25327",
+          "desc": "SHAFT - clutch idler (used S/N 9760975 and after)"
+        },
+        {
+          "serialNote": "used before S/N 9760975",
+          "partNo": "C 24824",
+          "desc": "SHAFT - clutch idler (used before S/N 9760975)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 68.7,
+      "y": 11.5,
+      "partNo": "C 18964",
+      "desc": "LEVER - clutch"
+    },
+    {
+      "ref": 3,
+      "x": 79.5,
+      "y": 21.6,
+      "partNo": "138- 96",
+      "desc": "PIN - roll 3/16\" x 1\""
+    },
+    {
+      "ref": 4,
+      "x": 47.2,
+      "y": 25.3,
+      "partNo": "C 23456",
+      "desc": "PULLEY - clutch idler"
+    },
+    {
+      "ref": 5,
+      "x": 44.3,
+      "y": 30.0,
+      "partNo": "195- 103",
+      "desc": "WASHER - 3/8\" flat"
+    },
+    {
+      "ref": 5,
+      "x": 67.6,
+      "y": 37.1,
+      "partNo": "195- 103",
+      "desc": "WASHER - 3/8\" flat"
+    },
+    {
+      "ref": 6,
+      "x": 39.3,
+      "y": 32.3,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 7,
+      "x": 35.7,
+      "y": 33.9,
+      "partNo": "113- 208",
+      "desc": "BOLT - 3/8\" x 1-3/4\" NC hex"
+    },
+    {
+      "ref": 8,
+      "x": 64.7,
+      "y": 6.1,
+      "partNo": "C 19553",
+      "desc": "SPRING - clutch"
+    },
+    {
+      "ref": 9,
+      "x": 7.7,
+      "y": 44.7,
+      "partNo": "126- 16",
+      "desc": "KEY - Woodruff #9"
+    },
+    {
+      "ref": 10,
+      "x": 32.9,
+      "y": 83.0,
+      "partNo": "C 19397",
+      "desc": "GUARD - belt (used before S/N 9760975)"
+    },
+    {
+      "ref": 11,
+      "x": 28.9,
+      "y": 74.1,
+      "partNo": "187- 1036",
+      "desc": "SCREW - 1/4\" x 1/2\" self tapping"
+    },
+    {
+      "ref": 11,
+      "x": 33.8,
+      "y": 94.0,
+      "partNo": "187- 1036",
+      "desc": "SCREW - 1/4\" x 1/2\" self tapping"
+    },
+    {
+      "ref": 12,
+      "x": 65.3,
+      "y": 58.3,
+      "partNo": "C 23685",
+      "desc": "BELT - tractor drive"
+    },
+    {
+      "ref": 13,
+      "x": 34.3,
+      "y": 62.7,
+      "partNo": "C 26437",
+      "desc": "BELT - clutching"
+    },
+    {
+      "ref": 14,
+      "x": 9.4,
+      "y": 38.3,
+      "partNo": "C 23452",
+      "desc": "PULLEY - transaxle input"
+    },
+    {
+      "ref": 15,
+      "x": 15.2,
+      "y": 34.8,
+      "partNo": "178- 858",
+      "desc": "SETSCREW - 5/16\" x 3/8\" knurled cup point"
+    },
+    {
+      "ref": 15,
+      "x": 35.2,
+      "y": 47.6,
+      "partNo": "178- 858",
+      "desc": "SETSCREW - 5/16\" x 3/8\" knurled cup point"
+    }
+  ],
+  "footnotes": "Refs 1 and 10 vary before/after S/N 9760975 (idler shaft, belt guard - guard not used after this S/N)."
+}

@@ -1,0 +1,80 @@
+{
+  "sectionTitle": "Air Cleaner",
+  "breadcrumb": "Air Cleaner",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/air_cleaner.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 57.3,
+      "y": 83.4,
+      "partNo": "KO 237895",
+      "desc": "AIR CLEANER ASSEMBLY"
+    },
+    {
+      "ref": 2,
+      "x": 19.0,
+      "y": 51.0,
+      "partNo": "NSS",
+      "desc": "COVER - air cleaner (order KO237895)"
+    },
+    {
+      "ref": 3,
+      "x": 66.1,
+      "y": 7.7,
+      "partNo": "NSS",
+      "desc": "BASE - air cleaner (order KO237895)"
+    },
+    {
+      "ref": 4,
+      "x": 87.3,
+      "y": 83.1,
+      "partNo": "KO 237423",
+      "desc": "GASKET - cover, air cleaner"
+    },
+    {
+      "ref": 5,
+      "x": 8.6,
+      "y": 68.5,
+      "partNo": "C 26703",
+      "desc": "NUT - wing 1/4\" N.C."
+    },
+    {
+      "ref": 6,
+      "x": 77.7,
+      "y": 6.8,
+      "partNo": "KO 275341",
+      "desc": "GASKET - air horn"
+    },
+    {
+      "ref": 7,
+      "x": 51.6,
+      "y": 23.6,
+      "partNo": "A 70090",
+      "desc": "ELEMENT - air cleaner"
+    },
+    {
+      "ref": 8,
+      "x": 57.7,
+      "y": 23.0,
+      "partNo": "177- 94",
+      "desc": "SCREW - fillister head 10-32 x 5/16\""
+    },
+    {
+      "ref": 9,
+      "x": 61.9,
+      "y": 17.4,
+      "partNo": "193- 6",
+      "desc": "LOCKWASHER - ext. tooth"
+    },
+    {
+      "ref": 10,
+      "x": 36.9,
+      "y": 36.2,
+      "partNo": "KO 237421",
+      "desc": "PRE-CLEANER"
+    }
+  ],
+  "footnotes": ""
+}

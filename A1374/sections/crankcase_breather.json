@@ -1,0 +1,87 @@
+{
+  "sectionTitle": "Crankcase Breather",
+  "breadcrumb": "Crankcase Breather",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/crankcase_breather.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 14.0,
+      "y": 91.4,
+      "partNo": "129- 409",
+      "desc": "NUT - 1/4\" NC hex"
+    },
+    {
+      "ref": 2,
+      "x": 23.2,
+      "y": 88.1,
+      "partNo": "92- 4",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 3,
+      "x": 32.8,
+      "y": 84.7,
+      "partNo": "KO 275220",
+      "desc": "STUD - valve cover"
+    },
+    {
+      "ref": 4,
+      "x": 42.3,
+      "y": 82.3,
+      "partNo": "KO 275143",
+      "desc": "COVER - valve"
+    },
+    {
+      "ref": 5,
+      "x": 61.3,
+      "y": 75.0,
+      "partNo": "KO 231032",
+      "desc": "SEAL - breather"
+    },
+    {
+      "ref": 6,
+      "x": 66.9,
+      "y": 8.6,
+      "partNo": "KO 235048",
+      "desc": "GASKET - breather plate"
+    },
+    {
+      "ref": 7,
+      "x": 14.3,
+      "y": 26.9,
+      "partNo": "KO 235118",
+      "desc": "FILTER - breather"
+    },
+    {
+      "ref": 8,
+      "x": 29.4,
+      "y": 21.7,
+      "partNo": "KO 235117",
+      "desc": "BAFFLE - breather"
+    },
+    {
+      "ref": 9,
+      "x": 42.3,
+      "y": 17.4,
+      "partNo": "KO 235047",
+      "desc": "REED - breather"
+    },
+    {
+      "ref": 10,
+      "x": 56.9,
+      "y": 12.2,
+      "partNo": "KO 235631",
+      "desc": "PLATE - breather"
+    },
+    {
+      "ref": 11,
+      "x": 82.6,
+      "y": 67.1,
+      "partNo": "KO 275144",
+      "desc": "GASKET - valve cover"
+    }
+  ],
+  "footnotes": "Shares one combined diagram with \"Camshaft and Valves\" (refs 12-13 not used)."
+}

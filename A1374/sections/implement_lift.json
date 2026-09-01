@@ -1,0 +1,115 @@
+{
+  "sectionTitle": "Implement Lift",
+  "breadcrumb": "Implement Lift",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/implement_lift.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 43.5,
+      "y": 89.2,
+      "partNo": "C 18809",
+      "desc": "LEVER ASSEMBLY - implement lift"
+    },
+    {
+      "ref": 2,
+      "x": 72.8,
+      "y": 94.2,
+      "partNo": "219- 404",
+      "desc": "FITTING - lube 45°"
+    },
+    {
+      "ref": 3,
+      "x": 28.4,
+      "y": 57.1,
+      "partNo": "C 17281",
+      "desc": "SPACER - latch"
+    },
+    {
+      "ref": 4,
+      "x": 13.3,
+      "y": 57.4,
+      "partNo": "C 18811",
+      "desc": "LIFT - latch"
+    },
+    {
+      "ref": 5,
+      "x": 8.6,
+      "y": 70.0,
+      "partNo": "164- 42",
+      "desc": "SCREW - 5/16\" x 1-1/4\" flat head socket"
+    },
+    {
+      "ref": 6,
+      "x": 91.5,
+      "y": 61.6,
+      "partNo": "C 17249",
+      "desc": "BRACKET - mounting top"
+    },
+    {
+      "ref": 7,
+      "x": 91.7,
+      "y": 86.8,
+      "partNo": "C 17250",
+      "desc": "BRACKET - mounting bottom"
+    },
+    {
+      "ref": 8,
+      "x": 91.8,
+      "y": 94.8,
+      "partNo": "113- 207",
+      "desc": "BOLT - 3/8\" x 1\" NC hex"
+    },
+    {
+      "ref": 9,
+      "x": 90.7,
+      "y": 53.9,
+      "partNo": "131- 1181",
+      "desc": "NUT - lock 3/8\""
+    },
+    {
+      "ref": 10,
+      "x": 36.7,
+      "y": 85.7,
+      "partNo": "138- 2054",
+      "desc": "PIN - spiral 5/16\" x 1-3/4\""
+    },
+    {
+      "ref": 11,
+      "x": 32.4,
+      "y": 40.0,
+      "partNo": "C 15564",
+      "desc": "SPRING - lift lever"
+    },
+    {
+      "ref": 12,
+      "x": 52.4,
+      "y": 33.3,
+      "partNo": "195- 521",
+      "desc": "WASHER - 3/8\" x 11/16\" OD"
+    },
+    {
+      "ref": 13,
+      "x": 11.5,
+      "y": 18.0,
+      "partNo": "C 17067",
+      "desc": "ROD - lift lever, push"
+    },
+    {
+      "ref": 14,
+      "x": 8.1,
+      "y": 7.6,
+      "partNo": "C 14525",
+      "desc": "BUTTON - thumb"
+    },
+    {
+      "ref": 16,
+      "x": 37.6,
+      "y": 59.4,
+      "partNo": "131- 911",
+      "desc": "NUT - lock 5/16\" - 18 flanged"
+    }
+  ],
+  "footnotes": "Ref 15 (138- 2054 - PIN - spirol 5/16\" x 1-3/4\") is listed in the parts table but has no printed callout circle on the diagram (confirmed by visual sweep) -- parts-list only, not shown on diagram."
+}

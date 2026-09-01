@@ -1,0 +1,121 @@
+{
+  "sectionTitle": "Baffles and Shrouds",
+  "breadcrumb": "Baffles and Shrouds",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/baffles_shrouds.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 14.1,
+      "y": 11.7,
+      "partNo": "C 26985",
+      "desc": "DEFLECTOR - engine air"
+    },
+    {
+      "ref": 2,
+      "x": 66.6,
+      "y": 10.7,
+      "partNo": "192- 19",
+      "desc": "LOCK WASHER - 1/4\" zinc plated"
+    },
+    {
+      "ref": 3,
+      "x": 74.2,
+      "y": 6.5,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" x 1-1/2\" NC hex, zinc plated"
+    },
+    {
+      "ref": 4,
+      "x": 74.2,
+      "y": 40.6,
+      "partNo": "KO 237520",
+      "desc": "BAFFLE - cylinder head"
+    },
+    {
+      "ref": 5,
+      "x": 29.0,
+      "y": 61.3,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14033980",
+          "partNo": "KO 235652",
+          "desc": "BAFFLE - carburetor side, air (use before S/N 14033980) shown"
+        },
+        {
+          "serialNote": "use S/N 14033980 and after",
+          "partNo": "C 27280",
+          "desc": "BAFFLE - carburetor side, air (use S/N 14033980 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 30.4,
+      "y": 85.8,
+      "partNo": "C 24879",
+      "desc": "HOUSING - blower"
+    },
+    {
+      "ref": 7,
+      "x": 66.6,
+      "y": 93.5,
+      "partNo": "113- 2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 7,
+      "x": 15.2,
+      "y": 88.4,
+      "partNo": "113- 2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 7,
+      "x": 86.0,
+      "y": 15.5,
+      "partNo": "113- 2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 8,
+      "x": 21.4,
+      "y": 82.0,
+      "partNo": "192- 19",
+      "desc": "LOCK WASHER - 1/4\" zinc plated"
+    },
+    {
+      "ref": 8,
+      "x": 79.8,
+      "y": 18.6,
+      "partNo": "192- 19",
+      "desc": "LOCK WASHER - 1/4\" zinc plated"
+    },
+    {
+      "ref": 8,
+      "x": 60.7,
+      "y": 88.7,
+      "partNo": "192- 19",
+      "desc": "LOCK WASHER - 1/4\" zinc plated"
+    },
+    {
+      "ref": 9,
+      "x": 54.8,
+      "y": 18.6,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14033980",
+          "partNo": "KO 236676",
+          "desc": "BAFFLE - cylinder (use before S/N 14033980) shown"
+        },
+        {
+          "serialNote": "use S/N 14033980 and after",
+          "partNo": "C 27281",
+          "desc": "BAFFLE - cylinder (use S/N 14033980 and after)"
+        }
+      ]
+    }
+  ],
+  "footnotes": "Refs 5 and 9 have before/after S/N 14033980 part-number variants."
+}

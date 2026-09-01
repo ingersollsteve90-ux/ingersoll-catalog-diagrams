@@ -1,0 +1,815 @@
+{
+  "sectionTitle": "C18956 Transaxle",
+  "breadcrumb": "C18956 Transaxle",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/transaxle_c18956.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 89.2,
+      "y": 80.9,
+      "partNo": "NSS",
+      "desc": "LEVER AND HOUSING ASSY, shift (includes Ref. 2 thru 7)"
+    },
+    {
+      "ref": 2,
+      "x": 80.8,
+      "y": 79.4,
+      "partNo": "A 32181",
+      "desc": "RING - snap"
+    },
+    {
+      "ref": 3,
+      "x": 87.0,
+      "y": 76.2,
+      "partNo": "35012",
+      "desc": "RING - guard, shift lever"
+    },
+    {
+      "ref": 4,
+      "x": 87.2,
+      "y": 65.2,
+      "partNo": "C 19324",
+      "desc": "PIN - shift lever"
+    },
+    {
+      "ref": 5,
+      "x": 91.5,
+      "y": 75.3,
+      "partNo": "C 11162",
+      "desc": "HOUSING - shift lever"
+    },
+    {
+      "ref": 6,
+      "x": 76.5,
+      "y": 71.1,
+      "partNo": "C 11163",
+      "desc": "KEEPER - shift lever"
+    },
+    {
+      "ref": 7,
+      "x": 94.3,
+      "y": 72.4,
+      "partNo": "C 18957",
+      "desc": "LEVER - shift"
+    },
+    {
+      "ref": 8,
+      "x": 57.9,
+      "y": 69.4,
+      "partNo": "NSS",
+      "desc": "ROD ASSY - shift (order Ref. 9 thru 12 and 24)"
+    },
+    {
+      "ref": 9,
+      "x": 47.1,
+      "y": 68.0,
+      "partNo": "C 11166",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 9,
+      "x": 83.8,
+      "y": 57.3,
+      "partNo": "C 11166",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 10,
+      "x": 78.7,
+      "y": 62.7,
+      "partNo": "211- 5",
+      "desc": "BALL - steel"
+    },
+    {
+      "ref": 10,
+      "x": 46.4,
+      "y": 64.4,
+      "partNo": "211- 5",
+      "desc": "BALL - steel"
+    },
+    {
+      "ref": 11,
+      "x": 46.1,
+      "y": 70.3,
+      "partNo": "C 11167",
+      "desc": "FORK - shifter"
+    },
+    {
+      "ref": 11,
+      "x": 82.7,
+      "y": 54.0,
+      "partNo": "C 11167",
+      "desc": "FORK - shifter"
+    },
+    {
+      "ref": 12,
+      "x": 53.1,
+      "y": 62.7,
+      "partNo": "C 11168",
+      "desc": "ROD - shifter (3rd and 4th)"
+    },
+    {
+      "ref": 13,
+      "x": 70.8,
+      "y": 56.0,
+      "partNo": "NSS",
+      "desc": "ROD ASSY - shift (order Ref. 9, 10, 11 and 14)"
+    },
+    {
+      "ref": 14,
+      "x": 74.9,
+      "y": 63.4,
+      "partNo": "C 11170",
+      "desc": "ROD - shifter (1st - 2nd and reverse)"
+    },
+    {
+      "ref": 15,
+      "x": 10.0,
+      "y": 35.2,
+      "partNo": "C 11171",
+      "desc": "AXLE - transmission"
+    },
+    {
+      "ref": 15,
+      "x": 77.2,
+      "y": 5.4,
+      "partNo": "C 11171",
+      "desc": "AXLE - transmission"
+    },
+    {
+      "ref": 16,
+      "x": 33.5,
+      "y": 24.3,
+      "partNo": "C 11178",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 16,
+      "x": 52.6,
+      "y": 16.2,
+      "partNo": "C 11178",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 16,
+      "x": 23.5,
+      "y": 38.5,
+      "partNo": "C 11178",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 16,
+      "x": 13.5,
+      "y": 67.0,
+      "partNo": "C 11178",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 16,
+      "x": 66.6,
+      "y": 9.6,
+      "partNo": "C 11178",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 16,
+      "x": 66.6,
+      "y": 57.6,
+      "partNo": "C 11178",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 17,
+      "x": 13.5,
+      "y": 29.1,
+      "partNo": "113- 12",
+      "desc": "SCREW - 1/4\" x 2-1/2\" NC hex cap"
+    },
+    {
+      "ref": 18,
+      "x": 18.7,
+      "y": 27.3,
+      "partNo": "92- 4",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 19,
+      "x": 47.3,
+      "y": 17.2,
+      "partNo": "C 19540",
+      "desc": "GEAR - ring"
+    },
+    {
+      "ref": 20,
+      "x": 38.0,
+      "y": 23.4,
+      "partNo": "C 11173",
+      "desc": "PIN - drive"
+    },
+    {
+      "ref": 21,
+      "x": 41.1,
+      "y": 17.5,
+      "partNo": "C 11174",
+      "desc": "BLOCK - drive"
+    },
+    {
+      "ref": 21,
+      "x": 48.7,
+      "y": 29.3,
+      "partNo": "C 11174",
+      "desc": "BLOCK - drive"
+    },
+    {
+      "ref": 22,
+      "x": 47.8,
+      "y": 27.2,
+      "partNo": "C 19546",
+      "desc": "PINION - bevel"
+    },
+    {
+      "ref": 22,
+      "x": 37.9,
+      "y": 19.7,
+      "partNo": "C 19546",
+      "desc": "PINION - bevel"
+    },
+    {
+      "ref": 23,
+      "x": 36.6,
+      "y": 56.9,
+      "partNo": "C 19536",
+      "desc": "SHAFT AND GEAR - brake"
+    },
+    {
+      "ref": 24,
+      "x": 57.4,
+      "y": 60.7,
+      "partNo": "A 11538",
+      "desc": "RING - snap"
+    },
+    {
+      "ref": 24,
+      "x": 71.7,
+      "y": 65.3,
+      "partNo": "A 11538",
+      "desc": "RING - snap"
+    },
+    {
+      "ref": 25,
+      "x": 56.7,
+      "y": 52.7,
+      "partNo": "C 11177",
+      "desc": "SHAFT AND BEARING ASSY. - pinion"
+    },
+    {
+      "ref": 26,
+      "x": 61.3,
+      "y": 58.0,
+      "partNo": "A 27287",
+      "desc": "BEARING - pinion"
+    },
+    {
+      "ref": 27,
+      "x": 22.8,
+      "y": 53.8,
+      "partNo": "C 11179",
+      "desc": "GEAR ASSEMBLY - cluster"
+    },
+    {
+      "ref": 28,
+      "x": 28.3,
+      "y": 60.0,
+      "partNo": "C 11180",
+      "desc": "BUSHING - cluster gear"
+    },
+    {
+      "ref": 28,
+      "x": 20.0,
+      "y": 65.6,
+      "partNo": "C 11180",
+      "desc": "BUSHING - cluster gear"
+    },
+    {
+      "ref": 29,
+      "x": 61.9,
+      "y": 60.7,
+      "partNo": "C 11181",
+      "desc": "STOP - shifter"
+    },
+    {
+      "ref": 30,
+      "x": 47.1,
+      "y": 36.8,
+      "partNo": "C 11182",
+      "desc": "GASKET - case and cover"
+    },
+    {
+      "ref": 31,
+      "x": 76.2,
+      "y": 68.0,
+      "partNo": "C 11183",
+      "desc": "GASKET - shift lever housing"
+    },
+    {
+      "ref": 32,
+      "x": 45.0,
+      "y": 56.6,
+      "partNo": "C 11184",
+      "desc": "GEAR - shifting (3rd and 4th)"
+    },
+    {
+      "ref": 33,
+      "x": 48.6,
+      "y": 54.8,
+      "partNo": "C 11185",
+      "desc": "GEAR - shifting (1st - 2nd and reverse)"
+    },
+    {
+      "ref": 34,
+      "x": 34.8,
+      "y": 33.7,
+      "partNo": "C 19547",
+      "desc": "GEAR - bevel"
+    },
+    {
+      "ref": 34,
+      "x": 58.4,
+      "y": 23.7,
+      "partNo": "C 19547",
+      "desc": "GEAR - bevel"
+    },
+    {
+      "ref": 35,
+      "x": 42.3,
+      "y": 54.8,
+      "partNo": "C 11187",
+      "desc": "GEAR - idler"
+    },
+    {
+      "ref": 36,
+      "x": 12.5,
+      "y": 58.5,
+      "partNo": "C 11188",
+      "desc": "GEAR ASSEMBLY - cluster (Includes two of Ref. 28)"
+    },
+    {
+      "ref": 37,
+      "x": 23.7,
+      "y": 62.5,
+      "partNo": "C 11189",
+      "desc": "SPACER"
+    },
+    {
+      "ref": 38,
+      "x": 38.5,
+      "y": 31.6,
+      "partNo": "C 11222",
+      "desc": "RING - snap"
+    },
+    {
+      "ref": 38,
+      "x": 55.2,
+      "y": 24.7,
+      "partNo": "C 11222",
+      "desc": "RING - snap"
+    },
+    {
+      "ref": 39,
+      "x": 39.0,
+      "y": 60.9,
+      "partNo": "C 11190",
+      "desc": "SHAFT - input"
+    },
+    {
+      "ref": 40,
+      "x": 41.1,
+      "y": 68.7,
+      "partNo": "C 11191",
+      "desc": "GEAR - spur, input shaft"
+    },
+    {
+      "ref": 41,
+      "x": 18.8,
+      "y": 50.0,
+      "partNo": "C 11201",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 41,
+      "x": 33.4,
+      "y": 43.0,
+      "partNo": "C 11201",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 42,
+      "x": 73.3,
+      "y": 22.8,
+      "partNo": "C 11192",
+      "desc": "SEAL AND RETAINER - oil (includes ref 43)"
+    },
+    {
+      "ref": 42,
+      "x": 59.8,
+      "y": 82.7,
+      "partNo": "C 11192",
+      "desc": "SEAL AND RETAINER - oil (includes ref 43)"
+    },
+    {
+      "ref": 43,
+      "x": 81.8,
+      "y": 26.4,
+      "partNo": "C 11195",
+      "desc": "SEAL - oil"
+    },
+    {
+      "ref": 43,
+      "x": 52.0,
+      "y": 76.3,
+      "partNo": "C 11195",
+      "desc": "SEAL - oil"
+    },
+    {
+      "ref": 43,
+      "x": 56.0,
+      "y": 46.6,
+      "partNo": "C 11195",
+      "desc": "SEAL - oil"
+    },
+    {
+      "ref": 44,
+      "x": 25.9,
+      "y": 47.2,
+      "partNo": "C 11194",
+      "desc": "PINION - output"
+    },
+    {
+      "ref": 45,
+      "x": 28.7,
+      "y": 45.1,
+      "partNo": "C 11193",
+      "desc": "GEAR - output"
+    },
+    {
+      "ref": 46,
+      "x": 88.1,
+      "y": 25.0,
+      "partNo": "C 11196",
+      "desc": "HOUSING - axle"
+    },
+    {
+      "ref": 46,
+      "x": 41.1,
+      "y": 80.7,
+      "partNo": "C 11196",
+      "desc": "HOUSING - axle"
+    },
+    {
+      "ref": 47,
+      "x": 79.0,
+      "y": 33.1,
+      "partNo": "C 19538",
+      "desc": "COVER ASSY - transaxle (Includes ref. 54, 55, 57, 59 & 63)"
+    },
+    {
+      "ref": 48,
+      "x": 72.4,
+      "y": 85.1,
+      "partNo": "C 19537",
+      "desc": "CASE ASSY. - transaxle (Includes ref. 54, 55, 57 & 63)"
+    },
+    {
+      "ref": 49,
+      "x": 66.5,
+      "y": 87.3,
+      "partNo": "83- 412",
+      "desc": "SCREW - 1/4\" x 3/4\" NC socket head"
+    },
+    {
+      "ref": 50,
+      "x": 68.4,
+      "y": 20.6,
+      "partNo": "F 53650",
+      "desc": "PIN - dowel"
+    },
+    {
+      "ref": 51,
+      "x": 48.5,
+      "y": 91.3,
+      "partNo": "83- 514",
+      "desc": "SCREW - 5/16\" x 7/8\" NC hex"
+    },
+    {
+      "ref": 52,
+      "x": 70.9,
+      "y": 41.2,
+      "partNo": "221- 672",
+      "desc": "PLUG - drain, magnetic"
+    },
+    {
+      "ref": 53,
+      "x": 52.5,
+      "y": 89.3,
+      "partNo": "92- 5",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 54,
+      "x": 72.4,
+      "y": 52.9,
+      "partNo": "C 11200",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 54,
+      "x": 10.5,
+      "y": 68.2,
+      "partNo": "C 11200",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 55,
+      "x": 34.2,
+      "y": 70.8,
+      "partNo": "A 27999",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 55,
+      "x": 30.1,
+      "y": 50.3,
+      "partNo": "A 27999",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 55,
+      "x": 41.1,
+      "y": 38.1,
+      "partNo": "A 27999",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 57,
+      "x": 37.7,
+      "y": 41.2,
+      "partNo": "C 11203",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 57,
+      "x": 10.6,
+      "y": 43.7,
+      "partNo": "C 11203",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 58,
+      "x": 90.4,
+      "y": 14.0,
+      "partNo": "C 11204",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 58,
+      "x": 40.3,
+      "y": 91.9,
+      "partNo": "C 11204",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 59,
+      "x": 46.2,
+      "y": 42.6,
+      "partNo": "A 12652",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 61,
+      "x": 43.4,
+      "y": 45.4,
+      "partNo": "C 11205",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 62,
+      "x": 38.8,
+      "y": 47.1,
+      "partNo": "C 11207",
+      "desc": "SHAFT AND PINION"
+    },
+    {
+      "ref": 63,
+      "x": 57.4,
+      "y": 73.8,
+      "partNo": "R 21491",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 63,
+      "x": 86.5,
+      "y": 27.8,
+      "partNo": "R 21491",
+      "desc": "BEARING - needle"
+    },
+    {
+      "ref": 64,
+      "x": 62.6,
+      "y": 50.1,
+      "partNo": "C 11209",
+      "desc": "SHAFT - idler, reverse"
+    },
+    {
+      "ref": 65,
+      "x": 51.3,
+      "y": 48.5,
+      "partNo": "C 11210",
+      "desc": "SPACER - idler, reverse"
+    },
+    {
+      "ref": 66,
+      "x": 45.5,
+      "y": 52.3,
+      "partNo": "C 11211",
+      "desc": "IDLER - reverse"
+    },
+    {
+      "ref": 67,
+      "x": 33.6,
+      "y": 50.3,
+      "partNo": "C 11212",
+      "desc": "GEAR - spur"
+    },
+    {
+      "ref": 68,
+      "x": 71.3,
+      "y": 7.9,
+      "partNo": "F 19633",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 69,
+      "x": 19.6,
+      "y": 39.6,
+      "partNo": "C 19541",
+      "desc": "CARRIER ASSY. - differential"
+    },
+    {
+      "ref": 70,
+      "x": 29.4,
+      "y": 35.1,
+      "partNo": "C 19542",
+      "desc": "CARRIER ASSY. - differential"
+    },
+    {
+      "ref": 71,
+      "x": 70.8,
+      "y": 17.2,
+      "partNo": "C 11216",
+      "desc": "BUSHING - carrier assembly"
+    },
+    {
+      "ref": 71,
+      "x": 19.2,
+      "y": 33.0,
+      "partNo": "C 11216",
+      "desc": "BUSHING - carrier assembly"
+    },
+    {
+      "ref": 72,
+      "x": 62.0,
+      "y": 12.3,
+      "partNo": "C 11208",
+      "desc": "\"O\" RING - axle housing"
+    },
+    {
+      "ref": 72,
+      "x": 48.8,
+      "y": 77.6,
+      "partNo": "C 11208",
+      "desc": "\"O\" RING - axle housing"
+    },
+    {
+      "ref": 73,
+      "x": 77.1,
+      "y": 19.6,
+      "partNo": "C 11223",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 74,
+      "x": 48.7,
+      "y": 50.2,
+      "partNo": "F 15105",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 75,
+      "x": 34.0,
+      "y": 62.3,
+      "partNo": "221- 1843",
+      "desc": "PLUG - pipe"
+    },
+    {
+      "ref": 75,
+      "x": 76.7,
+      "y": 39.1,
+      "partNo": "221- 1843",
+      "desc": "PLUG - pipe"
+    },
+    {
+      "ref": 76,
+      "x": 14.0,
+      "y": 33.7,
+      "partNo": "C 19544",
+      "desc": "RACE - thrust"
+    },
+    {
+      "ref": 76,
+      "x": 79.3,
+      "y": 13.0,
+      "partNo": "C 19544",
+      "desc": "RACE - thrust"
+    },
+    {
+      "ref": 77,
+      "x": 28.7,
+      "y": 26.5,
+      "partNo": "C 19545",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 77,
+      "x": 56.9,
+      "y": 13.6,
+      "partNo": "C 19545",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 78,
+      "x": 88.0,
+      "y": 52.4,
+      "partNo": "C 10487",
+      "desc": "KNOB - shift lever"
+    },
+    {
+      "ref": 79,
+      "x": 87.8,
+      "y": 60.0,
+      "partNo": "C 26189",
+      "desc": "BOOT - shift lever"
+    },
+    {
+      "ref": 80,
+      "x": 87.8,
+      "y": 62.5,
+      "partNo": "C 19450",
+      "desc": "RING - boot mounting (early production)"
+    },
+    {
+      "ref": 81,
+      "x": 25.7,
+      "y": 90.6,
+      "partNo": "C 26462",
+      "desc": "HUB - rear wheel"
+    },
+    {
+      "ref": 82,
+      "x": 30.1,
+      "y": 83.4,
+      "partNo": "83- 68",
+      "desc": "SETSCREW - 3/8\" x 1/2\" NC soc."
+    },
+    {
+      "ref": 83,
+      "x": 5.7,
+      "y": 35.7,
+      "partNo": "126- 128",
+      "desc": "KEY - Woodruff #18"
+    },
+    {
+      "ref": 84,
+      "x": 35.5,
+      "y": 94.7,
+      "partNo": "C 10314",
+      "desc": "BOLT - mounting, rear wheel"
+    },
+    {
+      "ref": 85,
+      "x": 86.4,
+      "y": 67.7,
+      "partNo": "187- 1073",
+      "desc": "SCREW - 1/4\" hex washer head - self tapping (early production)"
+    },
+    {
+      "ref": 85,
+      "x": 88.7,
+      "y": 57.7,
+      "partNo": "187- 1073",
+      "desc": "SCREW - 1/4\" hex washer head - self tapping (early production)"
+    }
+  ],
+  "footnotes": "Long section - diagram is printed twice in the source catalog (identical illustration) so the parts table could span two page-pairs (refs 1-45 then 46-85); only one copy of the diagram is used here. Ref 56 (C 11202 - BEARING - ball) is listed in the parts table but has no printed callout circle on the diagram (confirmed by visual sweep) -- parts-list only, not shown on diagram. Ref 60 (C 11206 - SEAL - oil) is listed in the parts table but has no printed callout circle on the diagram (confirmed by visual sweep) -- parts-list only, not shown on diagram."
+}

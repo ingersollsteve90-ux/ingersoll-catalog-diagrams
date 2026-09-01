@@ -1,0 +1,275 @@
+{
+  "sectionTitle": "Hood, Frame and Grille",
+  "breadcrumb": "Hood, Frame and Grille",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/hood_frame_grille.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 83.7,
+      "y": 75.7,
+      "variants": [
+        {
+          "serialNote": "also requires C24872 arm prior to S/N 9733539",
+          "partNo": "C 24770",
+          "desc": "FRAME - main (also requires C24872 arm prior to S/N 9733539) (used before S/N 9760975)"
+        },
+        {
+          "serialNote": "use S/N 9760975 to 14003736",
+          "partNo": "NSS*",
+          "desc": "KIT - frame, main (use S/N 9760975 to 14003736)"
+        },
+        {
+          "serialNote": "use S/N 14003736 and after",
+          "partNo": "C 26939",
+          "desc": "FRAME - main (use S/N 14003736 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 86.5,
+      "y": 89.8,
+      "partNo": "C 22023",
+      "desc": "SPACER - hood hinge mtg."
+    },
+    {
+      "ref": 3,
+      "x": 93.6,
+      "y": 68.4,
+      "partNo": "C 22817",
+      "desc": "TRAY - battery"
+    },
+    {
+      "ref": 4,
+      "x": 69.2,
+      "y": 55.6,
+      "partNo": "121- 106",
+      "desc": "SCREW - 5/16\" x 1/2\" whizlock"
+    },
+    {
+      "ref": 5,
+      "x": 68.3,
+      "y": 12.0,
+      "variants": [
+        {
+          "serialNote": "use before S/N 14033980",
+          "partNo": "C 22775",
+          "desc": "HOOD AND GRILLE ASSEMBLY - (use before S/N 14033980)"
+        },
+        {
+          "serialNote": "use S/N 14033980 and after",
+          "partNo": "C 26815",
+          "desc": "HOOD AND GRILLE - (use S/N 14033980 and after) shown"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 56.0,
+      "y": 43.8,
+      "partNo": "C 18153",
+      "desc": "CHANNEL - instrument panel liner"
+    },
+    {
+      "ref": 7,
+      "x": 89.7,
+      "y": 74.3,
+      "partNo": "C 16362",
+      "desc": "ROD - hood hinge"
+    },
+    {
+      "ref": 8,
+      "x": 92.5,
+      "y": 86.1,
+      "partNo": "132- 46",
+      "desc": "PIN - cotter 1/8\" x 3/4\""
+    },
+    {
+      "ref": 9,
+      "x": 39.0,
+      "y": 85.6,
+      "variants": [
+        {
+          "serialNote": "used before S/N 9760975",
+          "partNo": "C 18890",
+          "desc": "PAD - foot L.H. (used before S/N 9760975)"
+        },
+        {
+          "serialNote": "used before S/N 9760975",
+          "partNo": "C 18150",
+          "desc": "PAD - foot R.H. (used before S/N 9760975)"
+        },
+        {
+          "serialNote": "used S/N 9760975 and after",
+          "partNo": "C 25315",
+          "desc": "PAD - foot L.H. (used S/N 9760975 and after)"
+        },
+        {
+          "serialNote": "used S/N 9760975 and after",
+          "partNo": "C 25316",
+          "desc": "PAD - foot R.H. (used S/N 9760975 and after) shown"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 7.5,
+      "y": 89.8,
+      "partNo": "113- 113",
+      "desc": "BOLT - 5/16\" x 7/8\" NC hex"
+    },
+    {
+      "ref": 11,
+      "x": 11.9,
+      "y": 88.3,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 12,
+      "x": 13.6,
+      "y": 68.2,
+      "partNo": "195- 104",
+      "desc": "WASHER - 3/8\" flat"
+    },
+    {
+      "ref": 12,
+      "x": 11.7,
+      "y": 59.1,
+      "partNo": "195- 104",
+      "desc": "WASHER - 3/8\" flat"
+    },
+    {
+      "ref": 13,
+      "x": 11.4,
+      "y": 70.8,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 13,
+      "x": 12.9,
+      "y": 54.7,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 14,
+      "x": 14.8,
+      "y": 50.7,
+      "partNo": "113- 206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex"
+    },
+    {
+      "ref": 15,
+      "x": 89.7,
+      "y": 50.7,
+      "partNo": "C 16239",
+      "desc": "STRAP - battery hold down"
+    },
+    {
+      "ref": 16,
+      "x": 48.3,
+      "y": 91.3,
+      "partNo": "C 16373",
+      "desc": "PIN - latch"
+    },
+    {
+      "ref": 17,
+      "x": 52.1,
+      "y": 90.1,
+      "partNo": "C 24137",
+      "desc": "SPRING - latch"
+    },
+    {
+      "ref": 18,
+      "x": 65.9,
+      "y": 94.1,
+      "partNo": "138- 2073",
+      "desc": "PIN - roll 3/16\" x 1-1/4\""
+    },
+    {
+      "ref": 19,
+      "x": 65.7,
+      "y": 66.5,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" NC hex"
+    },
+    {
+      "ref": 20,
+      "x": 6.3,
+      "y": 75.5,
+      "partNo": "113- 207",
+      "desc": "BOLT - 3/8\" x 1\" NC hex"
+    },
+    {
+      "ref": 21,
+      "x": 52.3,
+      "y": 83.3,
+      "partNo": "C 18733",
+      "desc": "PIN - attachment"
+    },
+    {
+      "ref": 22,
+      "x": 48.5,
+      "y": 85.4,
+      "partNo": "131- 1318",
+      "desc": "NUT - lock 1/2\" - #20 NF jam"
+    },
+    {
+      "ref": 23,
+      "x": 33.4,
+      "y": 5.9,
+      "partNo": "C 23527",
+      "desc": "LINER - hood"
+    },
+    {
+      "ref": 24,
+      "x": 44.7,
+      "y": 50.2,
+      "partNo": "353- 406",
+      "desc": "PLUG - instrument panel"
+    },
+    {
+      "ref": 25,
+      "x": 31.9,
+      "y": 39.6,
+      "variants": [
+        {
+          "serialNote": "use before S/N 9778826",
+          "partNo": "C 24822",
+          "desc": "COVER - access (use before S/N 9778826)"
+        },
+        {
+          "serialNote": "use S/N 9778826 and after",
+          "partNo": "C 26506",
+          "desc": "COVER - access (use S/N 9778826 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 26,
+      "x": 21.0,
+      "y": 42.0,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 27,
+      "x": 27.2,
+      "y": 42.6,
+      "partNo": "193- 57",
+      "desc": "LOCKWASHER - 1/4\", internal tooth"
+    },
+    {
+      "ref": 28,
+      "x": 86.4,
+      "y": 48.0,
+      "partNo": "C 16361",
+      "desc": "HINGE - hood"
+    }
+  ],
+  "footnotes": "Heavy before/after part-number variants at S/N breakpoints 9733539, 9760975, 14033980, and 9778826 across refs 1, 5, 9, 25 - see printed table for exact ranges."
+}

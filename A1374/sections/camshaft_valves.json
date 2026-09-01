@@ -1,0 +1,125 @@
+{
+  "sectionTitle": "Camshaft and Valves",
+  "breadcrumb": "Camshaft and Valves",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/camshaft_valves.jpg",
+  "hotspots": [
+    {
+      "ref": 14,
+      "x": 82.7,
+      "y": 6.1,
+      "partNo": "KO 235826",
+      "desc": "VALVE - exhaust"
+    },
+    {
+      "ref": 15,
+      "x": 82.9,
+      "y": 11.0,
+      "partNo": "KO 235008",
+      "desc": "VALVE - intake"
+    },
+    {
+      "ref": 16,
+      "x": 58.9,
+      "y": 16.3,
+      "partNo": "KO 230170",
+      "desc": "INSERT - exhaust valve seat"
+    },
+    {
+      "ref": 17,
+      "x": 82.6,
+      "y": 26.6,
+      "partNo": "KO 235007-S",
+      "desc": "GUIDE - valve"
+    },
+    {
+      "ref": 18,
+      "x": 7.8,
+      "y": 68.3,
+      "partNo": "KO 235011",
+      "desc": "SEAT - valve spring"
+    },
+    {
+      "ref": 19,
+      "x": 7.9,
+      "y": 72.6,
+      "partNo": "KO 235010",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": 20,
+      "x": 7.6,
+      "y": 76.0,
+      "partNo": "KO 230011",
+      "desc": "RETAINER - valve spring"
+    },
+    {
+      "ref": 21,
+      "x": 7.6,
+      "y": 81.3,
+      "partNo": "C 24884",
+      "desc": "KIT - valve retainer lock (includes both halves)"
+    },
+    {
+      "ref": 22,
+      "x": 92.3,
+      "y": 78.4,
+      "partNo": "KOD 235327",
+      "desc": "LIFTER ASSEMBLY"
+    },
+    {
+      "ref": 23,
+      "x": 83.5,
+      "y": 74.9,
+      "partNo": "NSS",
+      "desc": "SCREW - tappet adjusting"
+    },
+    {
+      "ref": 24,
+      "x": 83.8,
+      "y": 81.8,
+      "partNo": "NSS",
+      "desc": "LIFTER - valve"
+    },
+    {
+      "ref": 25,
+      "x": 42.3,
+      "y": 72.5,
+      "partNo": "C 25043",
+      "desc": "CAMSHAFT ASSEMBLY"
+    },
+    {
+      "ref": 26,
+      "x": 55.6,
+      "y": 91.8,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2",
+          "partNo": "KO 275066",
+          "desc": "SPACER - camshaft, .005\""
+        },
+        {
+          "serialNote": "Option 2 of 2",
+          "partNo": "KO 275067",
+          "desc": "SPACER - camshaft, .010\""
+        }
+      ]
+    },
+    {
+      "ref": 27,
+      "x": 61.5,
+      "y": 93.9,
+      "partNo": "KO 235053",
+      "desc": "PIN - camshaft"
+    },
+    {
+      "ref": 28,
+      "x": 44.6,
+      "y": 92.3,
+      "partNo": "V 34346",
+      "desc": "SPRING - actuating"
+    }
+  ],
+  "footnotes": "Shares one combined diagram with \"Crankcase Breather\" above (refs 1-11 belong to that section, on the same image)."
+}

@@ -1,0 +1,129 @@
+{
+  "sectionTitle": "Decals",
+  "breadcrumb": "Decals",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/decals.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 66.5,
+      "y": 40.4,
+      "partNo": "NSS",
+      "desc": "DECAL - instrument panel (use C26878 and 321-6659)"
+    },
+    {
+      "ref": 2,
+      "x": 6.9,
+      "y": 76.2,
+      "partNo": "C 26699",
+      "desc": "DECAL - fuel gauge (used S/N 14018227 and after)"
+    },
+    {
+      "ref": 3,
+      "x": 47.6,
+      "y": 78.2,
+      "partNo": "321- 18",
+      "desc": "DECAL - gasoline"
+    },
+    {
+      "ref": 4,
+      "x": 67.0,
+      "y": 76.6,
+      "partNo": "C 27480",
+      "desc": "DECAL - clutch, brake"
+    },
+    {
+      "ref": 5,
+      "x": 26.2,
+      "y": 85.4,
+      "partNo": "321- 4161",
+      "desc": "DECAL - hood top (used prior to S/N 9748015)"
+    },
+    {
+      "ref": 6,
+      "x": 48.7,
+      "y": 19.6,
+      "partNo": "321- 4157",
+      "desc": "DECAL - hood, R.H. (shown) (used prior to S/N 9748015)"
+    },
+    {
+      "ref": 7,
+      "x": 52.2,
+      "y": 19.8,
+      "partNo": "321- 4158",
+      "desc": "DECAL - hood, L.H. (used prior to S/N 9748015)"
+    },
+    {
+      "ref": 8,
+      "x": 89.7,
+      "y": 91.6,
+      "partNo": "321- 4149",
+      "desc": "DECAL - fender, \"210\" (used prior to S/N 9748015)"
+    },
+    {
+      "ref": 9,
+      "x": 63.4,
+      "y": 90.2,
+      "partNo": "321- 2677",
+      "desc": "DECAL - fender, \"CASE\" (used prior to S/N 9748015)"
+    },
+    {
+      "ref": 10,
+      "x": 50.4,
+      "y": 5.7,
+      "partNo": "321- 5100",
+      "desc": "DECAL - hood, R.H. (shown) (used S/N 9748015 to 14033980)"
+    },
+    {
+      "ref": 11,
+      "x": 55.4,
+      "y": 6.9,
+      "partNo": "321- 5101",
+      "desc": "DECAL - hood, L.H. (used S/N 9748015 to 14033980)"
+    },
+    {
+      "ref": 12,
+      "x": 89.1,
+      "y": 81.8,
+      "partNo": "321- 5102",
+      "desc": "DECAL - \"210\" hood top (used S/N 9748015 to 14033980)"
+    },
+    {
+      "ref": 13,
+      "x": 22.1,
+      "y": 78.0,
+      "partNo": "321- 5040",
+      "desc": "MEDALLION - \"CASE\" (used S/N 9748015 and after)"
+    },
+    {
+      "ref": 14,
+      "x": 59.7,
+      "y": 82.9,
+      "partNo": "321- 5097",
+      "desc": "DECAL - \"CASE\" seat back (used S/N 9748015 and after)"
+    },
+    {
+      "ref": 15,
+      "x": 47.1,
+      "y": 32.9,
+      "partNo": "C 27180",
+      "desc": "DECAL - hood L.H. (use S/N 14033980 and after)"
+    },
+    {
+      "ref": 16,
+      "x": 51.9,
+      "y": 33.0,
+      "partNo": "C 27188",
+      "desc": "DECAL - hood R.H. (use S/N 14033980 and after)"
+    },
+    {
+      "ref": 17,
+      "x": 14.4,
+      "y": 45.3,
+      "partNo": "321- 6659",
+      "desc": "DECAL - \"Caution\""
+    }
+  ],
+  "footnotes": "Printed page also has a separate \"Decals (French and English)\" table (refs 1-4: instrument panel, parking brake, gasoline, clutch/brake) sharing this diagram - not yet assigned its own hotspots; confirm during placement whether these need separate dots or fold into this section's footnotes as alternate-language part numbers. Also listed, not shown on diagram: NSS DECAL - \"CASE\" seat back (used S/N 9748015 to 14033980). Decals (French and English) -- separate table, same diagram, no individual diagram callouts of their own: 321- 4752 DECAL - instrument panel; NSS DECAL - parking brake (use 321-6324); 321- 4728 DECAL - gasoline; NSS DECAL - clutch, brake (use 321-6324)."
+}

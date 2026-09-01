@@ -1,0 +1,87 @@
+{
+  "sectionTitle": "Model K18 Front End Weight Brackets",
+  "breadcrumb": "Model K18 Front End Weight Brackets",
+  "catalogLabel": "Catalog A1374",
+  "modelNumbers": "Catalog A1374 — Model 210 Compact Tractor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1374/k18_front_end_weight_brackets.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 61.0,
+      "y": 35.4,
+      "partNo": "C 16581",
+      "desc": "BRACKET - mounting"
+    },
+    {
+      "ref": 2,
+      "x": 11.5,
+      "y": 31.4,
+      "partNo": "C 17161",
+      "desc": "BRACE - rear"
+    },
+    {
+      "ref": 3,
+      "x": 83.9,
+      "y": 68.0,
+      "partNo": "C 17162",
+      "desc": "BRACKET - weight mounting"
+    },
+    {
+      "ref": 4,
+      "x": 93.9,
+      "y": 85.4,
+      "partNo": "113- 417",
+      "desc": "BOLT - 1/2\" x 1-1/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 4,
+      "x": 6.1,
+      "y": 53.6,
+      "partNo": "113- 417",
+      "desc": "BOLT - 1/2\" x 1-1/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 6,
+      "x": 22.6,
+      "y": 7.5,
+      "partNo": "129- 105",
+      "desc": "NUT - 1/2\" NC hex, zinc plated"
+    },
+    {
+      "ref": 6,
+      "x": 46.2,
+      "y": 23.0,
+      "partNo": "129- 105",
+      "desc": "NUT - 1/2\" NC hex, zinc plated"
+    },
+    {
+      "ref": 7,
+      "x": 19.3,
+      "y": 13.5,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\""
+    },
+    {
+      "ref": 7,
+      "x": 49.6,
+      "y": 27.2,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\""
+    },
+    {
+      "ref": 8,
+      "x": 16.4,
+      "y": 19.5,
+      "partNo": "195- 533",
+      "desc": "WASHER - 1/2\" zinc plated"
+    },
+    {
+      "ref": 8,
+      "x": 53.0,
+      "y": 30.9,
+      "partNo": "195- 533",
+      "desc": "WASHER - 1/2\" zinc plated"
+    }
+  ],
+  "footnotes": "Ref 5 (113- 443 - BOLT - 1/2\" x 6-1/2\" NC hex) is listed in the parts table but has no printed callout circle on the diagram (confirmed by visual sweep) -- parts-list only, not shown on diagram."
+}
