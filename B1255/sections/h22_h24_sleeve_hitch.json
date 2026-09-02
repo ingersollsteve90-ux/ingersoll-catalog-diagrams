@@ -1,0 +1,152 @@
+{
+  "sectionTitle": "Model H22 and H24 Sleeve Hitch",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/h22_h24_sleeve_hitch.jpg",
+  "hotspots": [
+    {
+      "ref": 14,
+      "x": 24.19,
+      "y": 25.81,
+      "partNo": "C14568",
+      "desc": "PIN - drawbar"
+    },
+    {
+      "ref": 15,
+      "x": 87.11,
+      "y": 19.71,
+      "partNo": "C14866",
+      "desc": "HITCH FRAME ASSEMBLY (220, 222 & 224)"
+    },
+    {
+      "ref": 5,
+      "x": 93.56,
+      "y": 53.31,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C14459",
+          "desc": "BRACKET - hitch mounting R.H."
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C14460",
+          "desc": "BRACKET - hitch mounting, L.H."
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 5.78,
+      "y": 65.62,
+      "partNo": "C10898",
+      "desc": "PIN - safety"
+    },
+    {
+      "ref": 4,
+      "x": 83.78,
+      "y": 71.61,
+      "partNo": "C10898",
+      "desc": "PIN - safety"
+    },
+    {
+      "ref": 13,
+      "x": 40.52,
+      "y": 47.1,
+      "partNo": "113-421",
+      "desc": "BOLT - 1/2 x 2\" NC hex, zinc plated"
+    },
+    {
+      "ref": 6,
+      "x": 67.79,
+      "y": 57.86,
+      "partNo": "113-417",
+      "desc": "BOLT - 1/2 x 1-1/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 3,
+      "x": 11.88,
+      "y": 61.63,
+      "partNo": "195-541",
+      "desc": "WASHER - plain 21/32\""
+    },
+    {
+      "ref": 3,
+      "x": 79.29,
+      "y": 74.49,
+      "partNo": "195-541",
+      "desc": "WASHER - plain 21/32\""
+    },
+    {
+      "ref": 9,
+      "x": 97.7,
+      "y": 86.25,
+      "partNo": "113-417",
+      "desc": "BOLT - 1/2 x 1-1/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 11,
+      "x": 60.08,
+      "y": 69.95,
+      "partNo": "195-545",
+      "desc": "WASHER - plain 3/4\" zinc plated"
+    },
+    {
+      "ref": 1,
+      "x": 68.02,
+      "y": 38.57,
+      "partNo": "C14867",
+      "desc": "HITCH FRAME ASSEMBLY (444)"
+    },
+    {
+      "ref": 12,
+      "x": 51.11,
+      "y": 71.72,
+      "partNo": "132-306",
+      "desc": "PIN - cotter 3/16 x 1-3/4\""
+    },
+    {
+      "ref": 10,
+      "x": 82.17,
+      "y": 93.46,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC hex, zinc plated"
+    },
+    {
+      "ref": 10,
+      "x": 35.92,
+      "y": 44.89,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC hex, zinc plated"
+    },
+    {
+      "ref": 8,
+      "x": 70.78,
+      "y": 76.05,
+      "partNo": "NSS",
+      "desc": "PLATE - lift lever (use C25382)"
+    },
+    {
+      "ref": 7,
+      "x": 79.87,
+      "y": 62.52,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated"
+    },
+    {
+      "ref": 7,
+      "x": 85.96,
+      "y": 91.9,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated"
+    },
+    {
+      "ref": 2,
+      "x": 58.12,
+      "y": 75.94,
+      "partNo": "C14457",
+      "desc": "ARM - lift"
+    }
+  ],
+  "footnotes": ""
+}

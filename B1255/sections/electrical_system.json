@@ -1,0 +1,187 @@
+{
+  "sectionTitle": "Electrical System",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": 15,
+      "x": 57.71,
+      "y": 24.49,
+      "partNo": "C17275",
+      "desc": "WIRE - regulator ground to solenoid (white 7\")"
+    },
+    {
+      "ref": 17,
+      "x": 71.29,
+      "y": 13.31,
+      "partNo": "A27251",
+      "desc": "GASKET - spark plug"
+    },
+    {
+      "ref": 13,
+      "x": 97.52,
+      "y": 36.13,
+      "partNo": "KO231281",
+      "desc": "COIL - ignition 12 volt"
+    },
+    {
+      "ref": 6,
+      "x": 61.96,
+      "y": 5.82,
+      "partNo": "C14553",
+      "desc": "SOLENOID - start"
+    },
+    {
+      "ref": 3,
+      "x": 29.95,
+      "y": 58.15,
+      "partNo": "C14565",
+      "desc": "CABLE - battery to solenoid (red 10-1/2\")"
+    },
+    {
+      "ref": 11,
+      "x": 89.84,
+      "y": 87.78,
+      "partNo": "C22571",
+      "desc": "HEADLAMP ASSEMBLY - 12 volt (Repairs page 63)"
+    },
+    {
+      "ref": 21,
+      "x": 26.88,
+      "y": 6.39,
+      "partNo": "C19055",
+      "desc": "WIRE - solenoid to PTO safety switch (black 17\")"
+    },
+    {
+      "ref": 16,
+      "x": 71.41,
+      "y": 7.43,
+      "partNo": "C24301",
+      "desc": "SPARK PLUG - (includes gasket)"
+    },
+    {
+      "ref": 18,
+      "x": 92.2,
+      "y": 7.08,
+      "partNo": "V34433",
+      "desc": "CABLE - high tension"
+    },
+    {
+      "ref": 24,
+      "x": 5.97,
+      "y": 43.63,
+      "partNo": "C17763",
+      "desc": "KEY - ignition (for C17796 switch)"
+    },
+    {
+      "ref": 12,
+      "x": 18.49,
+      "y": 81.32,
+      "partNo": "C18197",
+      "desc": "BATTERY - 12 volt"
+    },
+    {
+      "ref": 10,
+      "x": 22.74,
+      "y": 18.5,
+      "partNo": "C17186",
+      "desc": "LAMP ASSEMBLY - warning, generator indicator"
+    },
+    {
+      "ref": 7,
+      "x": 47.08,
+      "y": 28.3,
+      "partNo": "C24221",
+      "desc": "REGULATOR - voltage, 12 volt"
+    },
+    {
+      "ref": 23,
+      "x": 9.99,
+      "y": 47.89,
+      "partNo": "NSS",
+      "desc": "SWITCH - ignition (includes key) (use C23839)"
+    },
+    {
+      "ref": 2,
+      "x": 43.77,
+      "y": 14.92,
+      "partNo": "C17187",
+      "desc": "WIRE - ignition switch to solenoid (yellow 8\")"
+    },
+    {
+      "ref": 14,
+      "x": 64.09,
+      "y": 12.62,
+      "partNo": "KO232535",
+      "desc": "COVER - breaker contacts"
+    },
+    {
+      "ref": 5,
+      "x": 13.17,
+      "y": 38.56,
+      "partNo": "C21993",
+      "desc": "SWITCH - neutral safety"
+    },
+    {
+      "ref": 4,
+      "x": 59.72,
+      "y": 76.02,
+      "partNo": "C14566",
+      "desc": "CABLE - battery to ground (black 12\")"
+    },
+    {
+      "ref": 19,
+      "x": 93.27,
+      "y": 17.0,
+      "partNo": "KO230722",
+      "desc": "CONDENSER"
+    },
+    {
+      "ref": 20,
+      "x": 6.91,
+      "y": 21.95,
+      "partNo": "C18115",
+      "desc": "SWITCH - PTO safety"
+    },
+    {
+      "ref": 9,
+      "x": 91.26,
+      "y": 60.11,
+      "partNo": "C14537",
+      "desc": "CONNECTOR - headlamp"
+    },
+    {
+      "ref": 1,
+      "x": 38.93,
+      "y": 64.26,
+      "partNo": "C19120",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 22,
+      "x": 46.61,
+      "y": 49.74,
+      "partNo": "223-20",
+      "desc": "FUSE - 20 amp. (used in C19120 harness)"
+    },
+    {
+      "ref": 8,
+      "x": 92.32,
+      "y": 39.48,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "STARTER - generator 12 V. (Repairs page 57) Delco No. 1101875"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "A70202",
+          "desc": "STARTER - generator 12 V. (Repairs page 59) Delco No. 1101970"
+        }
+      ]
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: B50213 - BULB - generator indicator (red) (qty 1)"
+}

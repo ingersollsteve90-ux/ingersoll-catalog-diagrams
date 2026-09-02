@@ -1,0 +1,208 @@
+{
+  "sectionTitle": "224 and 444 Crankcase Breather, Camshaft and Valves",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/crankcase_breather_camshaft_valves_224_444.jpg",
+  "hotspots": [
+    {
+      "ref": 25,
+      "x": 44.08,
+      "y": 74.04,
+      "partNo": "C 25043",
+      "desc": "CAMSHAFT ASSEMBLY (Includes actuating spring)"
+    },
+    {
+      "ref": 15,
+      "x": 87.94,
+      "y": 16.22,
+      "partNo": "KO 235582",
+      "desc": "VALVE - intake"
+    },
+    {
+      "ref": 17,
+      "x": 87.21,
+      "y": 30.56,
+      "partNo": "KO 235007-S",
+      "desc": "GUIDE - valve"
+    },
+    {
+      "ref": 6,
+      "x": 37.01,
+      "y": 5.85,
+      "partNo": "KO 235048",
+      "desc": "GASKET - breather plate"
+    },
+    {
+      "ref": 3,
+      "x": 16.54,
+      "y": 57.72,
+      "partNo": "KO 275220",
+      "desc": "STUD - valve cover"
+    },
+    {
+      "ref": 27,
+      "x": 59.18,
+      "y": 91.64,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "KO 275066",
+          "desc": "SPACER - camshaft, .005\""
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "KO 275067",
+          "desc": "SPACER - camshaft, .010\""
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 46.15,
+      "y": 44.9,
+      "partNo": "KO 275144",
+      "desc": "GASKET - valve cover"
+    },
+    {
+      "ref": 21,
+      "x": 6.79,
+      "y": 83.02,
+      "partNo": "C 24884",
+      "desc": "KIT - valve retainer (includes both valves)"
+    },
+    {
+      "ref": 16,
+      "x": 65.03,
+      "y": 20.88,
+      "partNo": "KO 230170",
+      "desc": "INSERT - exhaust valve seat"
+    },
+    {
+      "ref": 18,
+      "x": 6.43,
+      "y": 70.08,
+      "partNo": "KO 235011",
+      "desc": "SEAT - valve spring"
+    },
+    {
+      "ref": 24,
+      "x": 87.94,
+      "y": 83.48,
+      "partNo": "NSS",
+      "desc": "LIFTER - valve"
+    },
+    {
+      "ref": 28,
+      "x": 64.67,
+      "y": 94.21,
+      "partNo": "KO 235053",
+      "desc": "PIN - camshaft"
+    },
+    {
+      "ref": 10,
+      "x": 31.28,
+      "y": 8.53,
+      "partNo": "KO 235631",
+      "desc": "PLATE - breather"
+    },
+    {
+      "ref": 7,
+      "x": 6.92,
+      "y": 17.97,
+      "partNo": "KO 235118",
+      "desc": "FILTER - breather"
+    },
+    {
+      "ref": 23,
+      "x": 88.55,
+      "y": 76.49,
+      "partNo": "NSS",
+      "desc": "SCREW - tappet adjusting"
+    },
+    {
+      "ref": 2,
+      "x": 10.94,
+      "y": 59.47,
+      "partNo": "92-4",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 26,
+      "x": 46.39,
+      "y": 93.28,
+      "partNo": "V 34346",
+      "desc": "SPRING - actuating"
+    },
+    {
+      "ref": 14,
+      "x": 87.33,
+      "y": 11.44,
+      "partNo": "KO 237672",
+      "desc": "VALVE - exhaust"
+    },
+    {
+      "ref": 5,
+      "x": 33.48,
+      "y": 50.61,
+      "partNo": "KO 231032",
+      "desc": "SEAL - breather"
+    },
+    {
+      "ref": 4,
+      "x": 21.9,
+      "y": 55.39,
+      "partNo": "KO 275143",
+      "desc": "COVER - valve"
+    },
+    {
+      "ref": 19,
+      "x": 7.04,
+      "y": 74.62,
+      "partNo": "KO 235168",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": 20,
+      "x": 6.67,
+      "y": 77.54,
+      "partNo": "KO 230020",
+      "desc": "ROTATOR - valve (Furnished in pairs only)"
+    },
+    {
+      "ref": 9,
+      "x": 23.24,
+      "y": 11.79,
+      "partNo": "KO 235047",
+      "desc": "REED - breather"
+    },
+    {
+      "ref": 1,
+      "x": 6.19,
+      "y": 61.57,
+      "partNo": "25-104",
+      "desc": "NUT - 1/4\" NC hex"
+    },
+    {
+      "ref": 29,
+      "x": 87.09,
+      "y": 25.31,
+      "partNo": "KO 230265",
+      "desc": "INSERT - intake valve seat"
+    },
+    {
+      "ref": 22,
+      "x": 98.29,
+      "y": 79.64,
+      "partNo": "KOD 235327",
+      "desc": "LIFTER ASSEMBLY"
+    },
+    {
+      "ref": 8,
+      "x": 15.08,
+      "y": 15.06,
+      "partNo": "KO 235117",
+      "desc": "BAFFLE - breather"
+    }
+  ],
+  "footnotes": ""
+}

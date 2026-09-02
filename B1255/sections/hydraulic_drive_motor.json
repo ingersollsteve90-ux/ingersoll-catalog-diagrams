@@ -1,0 +1,175 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/hydraulic_drive_motor.jpg",
+  "hotspots": [
+    {
+      "ref": 14,
+      "x": 35.98,
+      "y": 79.42,
+      "partNo": "NSS",
+      "desc": "RING - sealing (See kit below)"
+    },
+    {
+      "ref": 15,
+      "x": 45.23,
+      "y": 71.57,
+      "variants": [
+        {
+          "serialNote": "220, 222 & 224 only",
+          "partNo": "C18092",
+          "desc": "SLEEVE - 220, 222 & 224"
+        },
+        {
+          "serialNote": "444 only",
+          "partNo": "C14836",
+          "desc": "SLEEVE - 444"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 75.13,
+      "y": 57.56,
+      "partNo": "C14837",
+      "desc": "END CAP"
+    },
+    {
+      "ref": 4,
+      "x": 41.33,
+      "y": 16.99,
+      "partNo": "C14827",
+      "desc": "HOUSING ASSEMBLY"
+    },
+    {
+      "ref": 17,
+      "x": 18.35,
+      "y": 30.4,
+      "partNo": "NSS",
+      "desc": "WASHER - back up, .010\""
+    },
+    {
+      "ref": 13,
+      "x": 30.51,
+      "y": 81.59,
+      "partNo": "C14834",
+      "desc": "COMMUTATOR AND RING SET"
+    },
+    {
+      "ref": 6,
+      "x": 58.51,
+      "y": 65.53,
+      "partNo": "NSS",
+      "desc": "SEAL - (See kit below)"
+    },
+    {
+      "ref": 6,
+      "x": 58.84,
+      "y": 9.63,
+      "partNo": "NSS",
+      "desc": "SEAL - (See kit below)"
+    },
+    {
+      "ref": 3,
+      "x": 22.7,
+      "y": 28.34,
+      "partNo": "NSS",
+      "desc": "SEAL - oil (See kit below)"
+    },
+    {
+      "ref": 9,
+      "x": 51.82,
+      "y": 41.5,
+      "partNo": "C14830",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": 11,
+      "x": 79.48,
+      "y": 27.86,
+      "partNo": "C24731",
+      "desc": "PLATE - manifold"
+    },
+    {
+      "ref": 16,
+      "x": 88.07,
+      "y": 54.06,
+      "variants": [
+        {
+          "serialNote": "220, 222 & 224 only",
+          "partNo": "28-662",
+          "desc": "BOLT - 3/8\" x 3-7/8\" NF hex, 220, 222 & 224"
+        },
+        {
+          "serialNote": "444 only",
+          "partNo": "C14838",
+          "desc": "BOLT - 3/8\" x 4-3/8\" NF hex, 444"
+        }
+      ]
+    },
+    {
+      "ref": 1,
+      "x": 6.75,
+      "y": 35.1,
+      "partNo": "C16516",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 12,
+      "x": 14.78,
+      "y": 85.7,
+      "partNo": "NSS",
+      "desc": "MANIFOLD - (use D59700 and C24731)"
+    },
+    {
+      "ref": 10,
+      "x": 69.66,
+      "y": 32.93,
+      "variants": [
+        {
+          "serialNote": "220, 222 & 224 only",
+          "partNo": "C18110",
+          "desc": "ROTOR ASSEMBLY - 220, 222 & 224"
+        },
+        {
+          "serialNote": "444 only",
+          "partNo": "C14831",
+          "desc": "ROTOR ASSEMBLY - 444"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 36.98,
+      "y": 50.32,
+      "variants": [
+        {
+          "serialNote": "220, 222 & 224 only",
+          "partNo": "NSS",
+          "desc": "DRIVE LINK - 220, 222 & 224 (use D59699 and D72853)"
+        },
+        {
+          "serialNote": "444 only",
+          "partNo": "C14829",
+          "desc": "DRIVE LINK - 444"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 26.83,
+      "y": 54.18,
+      "partNo": "C14828",
+      "desc": "SHAFT - coupling"
+    },
+    {
+      "ref": 2,
+      "x": 11.77,
+      "y": 33.17,
+      "partNo": "NSS",
+      "desc": "SPACER - (See kit below)"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C16697 - MOTOR - hydraulic, 220, 222 & 224 (qty 1); C14655 - MOTOR - hydraulic, 444 (qty 1); C19037 - KIT - \"O\" ring and seal (qty 1); NSS - RING - sealing (qty 1); NSS - SEAL - dirt (not used - throw away item) (qty 1); NSS - SEAL (qty 2); NSS - SEAL (qty 1); NSS - RING - retaining (qty 1); NSS - SPACER - seal (qty 1); NSS - WASHER - back up, .010\" (qty 1)"
+}

@@ -1,0 +1,351 @@
+{
+  "sectionTitle": "Hydraulic System",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/hydraulic_system.jpg",
+  "hotspots": [
+    {
+      "ref": 25,
+      "x": 37.5,
+      "y": 36.74,
+      "partNo": "C17898",
+      "desc": "TUBE - valve to upper motor port (444)"
+    },
+    {
+      "ref": 17,
+      "x": 72.21,
+      "y": 39.16,
+      "partNo": "C11545",
+      "desc": "INSERT - reservoir cap"
+    },
+    {
+      "ref": 13,
+      "x": 47.72,
+      "y": 69.06,
+      "partNo": "214-8",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 13,
+      "x": 80.12,
+      "y": 62.77,
+      "partNo": "214-8",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 13,
+      "x": 89.24,
+      "y": 57.48,
+      "partNo": "214-8",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 6,
+      "x": 60.24,
+      "y": 47.44,
+      "variants": [
+        {
+          "serialNote": "220 & 222",
+          "partNo": "C15726",
+          "desc": "COUPLING - pump (220 & 222)"
+        },
+        {
+          "serialNote": "224 & 444",
+          "partNo": "C17298",
+          "desc": "COUPLING - pump (224 & 444) (Repairs page 51)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 43.76,
+      "y": 35.52,
+      "partNo": "114-200",
+      "desc": "BOLT - 3/8 x 1\" NF hex, pump mounting"
+    },
+    {
+      "ref": 27,
+      "x": 39.92,
+      "y": 16.33,
+      "partNo": "218-5007",
+      "desc": "O RING - 5/8\" for 218-5107 fitting"
+    },
+    {
+      "ref": 18,
+      "x": 84.73,
+      "y": 32.21,
+      "partNo": "A70100",
+      "desc": "STRAP - reservoir mounting"
+    },
+    {
+      "ref": 24,
+      "x": 20.37,
+      "y": 35.19,
+      "partNo": "C16687",
+      "desc": "TUBE - valve to lower motor port (444)"
+    },
+    {
+      "ref": 39,
+      "x": 81.88,
+      "y": 60.34,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 39,
+      "x": 28.5,
+      "y": 56.37,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 12,
+      "x": 73.42,
+      "y": 75.24,
+      "partNo": "C14195",
+      "desc": "EXCHANGER - heat"
+    },
+    {
+      "ref": 28,
+      "x": 14.88,
+      "y": 33.21,
+      "partNo": "NSS",
+      "desc": "VALVE - hydraulic control, single spool (220, 222 & 442) (Repairs page 53) (Order C21495 valve)"
+    },
+    {
+      "ref": 30,
+      "x": 11.58,
+      "y": 80.53,
+      "partNo": "171-247",
+      "desc": "SCREW - 5/16 x 1-1/4\" NC flat head machine"
+    },
+    {
+      "ref": 2,
+      "x": 50.46,
+      "y": 58.91,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8 x 1\" NC hex, support mounting"
+    },
+    {
+      "ref": 33,
+      "x": 17.18,
+      "y": 50.42,
+      "partNo": "218-5007",
+      "desc": "O RING - 5/8\" for 218-5062"
+    },
+    {
+      "ref": 33,
+      "x": 24.98,
+      "y": 37.51,
+      "partNo": "218-5007",
+      "desc": "O RING - 5/8\" for 218-5062"
+    },
+    {
+      "ref": 14,
+      "x": 95.17,
+      "y": 47.88,
+      "partNo": "C14245",
+      "desc": "HOSE - rubber 3\""
+    },
+    {
+      "ref": 5,
+      "x": 50.35,
+      "y": 54.94,
+      "partNo": "W5063-S",
+      "desc": "KEY - square 1/4 x 3/4\" (engine shaft)"
+    },
+    {
+      "ref": 4,
+      "x": 48.38,
+      "y": 39.27,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" zinc plated"
+    },
+    {
+      "ref": 4,
+      "x": 56.4,
+      "y": 62.11,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" zinc plated"
+    },
+    {
+      "ref": 37,
+      "x": 50.46,
+      "y": 72.59,
+      "partNo": "C14619",
+      "desc": "HOSE - rubber 4\""
+    },
+    {
+      "ref": 9,
+      "x": 24.54,
+      "y": 46.0,
+      "partNo": "218-5007",
+      "desc": "O RING - 5/8\" for C17263 fitting"
+    },
+    {
+      "ref": 35,
+      "x": 14.44,
+      "y": 10.26,
+      "variants": [
+        {
+          "serialNote": "220, 222 & 224",
+          "partNo": "C16697",
+          "desc": "MOTOR - hydraulic, 220, 222 & 224 (Repairs page 55)"
+        },
+        {
+          "serialNote": "444",
+          "partNo": "C14655",
+          "desc": "MOTOR - hydraulic, 444 (Repairs page 55)"
+        }
+      ]
+    },
+    {
+      "ref": 1,
+      "x": 65.95,
+      "y": 46.55,
+      "partNo": "C15335",
+      "desc": "SUPPORT - pump mounting"
+    },
+    {
+      "ref": 22,
+      "x": 57.71,
+      "y": 44.02,
+      "partNo": "218-5006",
+      "desc": "O RING - 1/2\" for 218-5066 fitting"
+    },
+    {
+      "ref": 15,
+      "x": 70.56,
+      "y": 43.8,
+      "partNo": "C18580",
+      "desc": "RESERVOIR - hydraulic oil"
+    },
+    {
+      "ref": 11,
+      "x": 34.21,
+      "y": 36.74,
+      "partNo": "C16793",
+      "desc": "TUBE - valve to upper motor port, 220, 222 & 224"
+    },
+    {
+      "ref": 21,
+      "x": 65.07,
+      "y": 31.66,
+      "partNo": "C18797",
+      "desc": "HOSE - hydraulic, pump to valve"
+    },
+    {
+      "ref": 34,
+      "x": 8.62,
+      "y": 15.34,
+      "partNo": "A30095",
+      "desc": "SEAL - motor to transmission case"
+    },
+    {
+      "ref": 16,
+      "x": 72.65,
+      "y": 35.97,
+      "partNo": "C11529",
+      "desc": "CAP - reservoir with insert"
+    },
+    {
+      "ref": 32,
+      "x": 10.48,
+      "y": 56.7,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic valve 5/8T x 7/8\" O RING"
+    },
+    {
+      "ref": 32,
+      "x": 6.64,
+      "y": 54.83,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic valve 5/8T x 7/8\" O RING"
+    },
+    {
+      "ref": 32,
+      "x": 29.05,
+      "y": 39.38,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic valve 5/8T x 7/8\" O RING"
+    },
+    {
+      "ref": 10,
+      "x": 20.26,
+      "y": 32.88,
+      "partNo": "C16794",
+      "desc": "TUBE - valve to lower motor port, 220, 222 & 224"
+    },
+    {
+      "ref": 36,
+      "x": 19.38,
+      "y": 5.52,
+      "partNo": "166-86",
+      "desc": "SCREW - 1/2\" x 1-1/4\" NC flanged 12 pt."
+    },
+    {
+      "ref": 7,
+      "x": 43.87,
+      "y": 56.37,
+      "partNo": "C19045",
+      "desc": "PUMP - hydraulic (Repairs page 51)"
+    },
+    {
+      "ref": 23,
+      "x": 21.14,
+      "y": 64.09,
+      "partNo": "C19002",
+      "desc": "TUBE - valve to heat exchanger"
+    },
+    {
+      "ref": 38,
+      "x": 58.15,
+      "y": 71.82,
+      "partNo": "C19253",
+      "desc": "HOSE - rubber"
+    },
+    {
+      "ref": 26,
+      "x": 41.57,
+      "y": 18.76,
+      "partNo": "218-5107",
+      "desc": "FITTING - motor port, 90 elbow O ring"
+    },
+    {
+      "ref": 19,
+      "x": 96.6,
+      "y": 33.32,
+      "partNo": "173-215",
+      "desc": "SCREW - 1/4 x 1-1/4\" round head machine"
+    },
+    {
+      "ref": 20,
+      "x": 84.18,
+      "y": 36.52,
+      "partNo": "129-504",
+      "desc": "NUT - square 1/4\" NC zinc plated"
+    },
+    {
+      "ref": 29,
+      "x": 19.16,
+      "y": 94.54,
+      "partNo": "NSS",
+      "desc": "VALVE - hydraulic control, two spool (all models with hydraulic lift) (Repairs page 53) (Order C21496 valve)"
+    },
+    {
+      "ref": 8,
+      "x": 27.51,
+      "y": 47.44,
+      "partNo": "C17236",
+      "desc": "FITTING - hydraulic 3/4T x 7/8\" O RING, pump and valve"
+    },
+    {
+      "ref": 31,
+      "x": 11.69,
+      "y": 89.91,
+      "partNo": "131-351",
+      "desc": "NUT - lock 5/16\" NC hex"
+    }
+  ],
+  "footnotes": ""
+}

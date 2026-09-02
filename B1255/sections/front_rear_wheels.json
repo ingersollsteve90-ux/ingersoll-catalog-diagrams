@@ -1,0 +1,86 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 5,
+      "x": 92.73,
+      "y": 55.22,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel, inner"
+    },
+    {
+      "ref": 4,
+      "x": 87.56,
+      "y": 61.36,
+      "partNo": "219-403",
+      "desc": "FITTING - lube"
+    },
+    {
+      "ref": 6,
+      "x": 76.34,
+      "y": 73.49,
+      "partNo": "TBD",
+      "desc": "(no matching parts-table row on this page -- genuine printed-catalog gap, not a transcription error; part not identified)"
+    },
+    {
+      "ref": 3,
+      "x": 81.21,
+      "y": 67.76,
+      "partNo": "C 24433",
+      "desc": "WHEEL - front"
+    },
+    {
+      "ref": 9,
+      "x": 66.89,
+      "y": 30.54,
+      "partNo": "C 24438",
+      "desc": "WHEEL - rear, 6 bolt"
+    },
+    {
+      "ref": 11,
+      "x": 58.18,
+      "y": 93.4,
+      "partNo": "A 70062",
+      "desc": "CAP - hub front wheel (optional)"
+    },
+    {
+      "ref": 1,
+      "x": 21.42,
+      "y": 49.76,
+      "partNo": "C 24435",
+      "desc": "WHEEL - rear, 5 bolt"
+    },
+    {
+      "ref": 10,
+      "x": 35.74,
+      "y": 70.36,
+      "partNo": "A 30064",
+      "desc": "BOLT - rear wheel"
+    },
+    {
+      "ref": 8,
+      "x": 32.35,
+      "y": 67.08,
+      "partNo": "A 70185",
+      "desc": "CAP - hub, rear (optional)"
+    },
+    {
+      "ref": 7,
+      "x": 65.86,
+      "y": 83.99,
+      "partNo": "C 12370",
+      "desc": "CAP - plastic, front"
+    },
+    {
+      "ref": 2,
+      "x": 7.4,
+      "y": 63.81,
+      "partNo": "C 10314",
+      "desc": "BOLT - rear wheel"
+    }
+  ],
+  "footnotes": "Req'd quantity printed in two columns headed 220/222/224 and 444 - the column with a value indicates which tractor model(s) the row applies to. Ref 6 is not printed in this table (numbering skips 5 to 7)."
+}

@@ -1,0 +1,394 @@
+{
+  "sectionTitle": "Electrical System Hardware",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/electrical_system_hardware.jpg",
+  "hotspots": [
+    {
+      "ref": 25,
+      "x": 36.9,
+      "y": 89.02,
+      "partNo": "22-58",
+      "desc": "BOLT - 5/16 x 1/2\" NC hex, self tap"
+    },
+    {
+      "ref": 17,
+      "x": 44.31,
+      "y": 58.33,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" NC hex"
+    },
+    {
+      "ref": 13,
+      "x": 90.26,
+      "y": 9.88,
+      "partNo": "195-520",
+      "desc": "WASHER - 5/16\" plain, zinc plated"
+    },
+    {
+      "ref": 6,
+      "x": 59.48,
+      "y": 89.77,
+      "partNo": "187-1047",
+      "desc": "SCREW - #8 x 1/2\" Self-Tapping round head, Phillips"
+    },
+    {
+      "ref": 3,
+      "x": 58.15,
+      "y": 19.46,
+      "partNo": "C10836",
+      "desc": "NUT - speed type U"
+    },
+    {
+      "ref": 3,
+      "x": 55.05,
+      "y": 36.8,
+      "partNo": "C10836",
+      "desc": "NUT - speed type U"
+    },
+    {
+      "ref": 27,
+      "x": 60.59,
+      "y": 55.1,
+      "partNo": "C18788",
+      "desc": "SUPPORT - starter generator"
+    },
+    {
+      "ref": 18,
+      "x": 84.06,
+      "y": 6.54,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16 x 3/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 24,
+      "x": 42.32,
+      "y": 32.06,
+      "partNo": "169-131",
+      "desc": "SCREW - #8 x 5/16\" NC fillister head"
+    },
+    {
+      "ref": 39,
+      "x": 17.3,
+      "y": 40.78,
+      "partNo": "C19246",
+      "desc": "HOLDER - strip switch"
+    },
+    {
+      "ref": 39,
+      "x": 12.87,
+      "y": 18.17,
+      "partNo": "C19246",
+      "desc": "HOLDER - strip switch"
+    },
+    {
+      "ref": 12,
+      "x": 84.72,
+      "y": 56.93,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" zinc plated"
+    },
+    {
+      "ref": 12,
+      "x": 69.22,
+      "y": 31.09,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" zinc plated"
+    },
+    {
+      "ref": 12,
+      "x": 45.86,
+      "y": 28.72,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" zinc plated"
+    },
+    {
+      "ref": 12,
+      "x": 87.05,
+      "y": 8.16,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" zinc plated"
+    },
+    {
+      "ref": 28,
+      "x": 72.32,
+      "y": 34.86,
+      "partNo": "13-612",
+      "desc": "BOLT - 3/8 x 3/4\" NC hex"
+    },
+    {
+      "ref": 30,
+      "x": 77.86,
+      "y": 10.31,
+      "partNo": "C18999",
+      "desc": "SUPPORT - starter generator adjust"
+    },
+    {
+      "ref": 2,
+      "x": 7.67,
+      "y": 58.65,
+      "partNo": "C17921",
+      "desc": "NUT - escutcheon 3/4\""
+    },
+    {
+      "ref": 33,
+      "x": 25.27,
+      "y": 51.76,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" NC hex"
+    },
+    {
+      "ref": 14,
+      "x": 27.49,
+      "y": 57.47,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex, zinc plated"
+    },
+    {
+      "ref": 14,
+      "x": 61.36,
+      "y": 27.32,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex, zinc plated"
+    },
+    {
+      "ref": 5,
+      "x": 50.29,
+      "y": 68.67,
+      "partNo": "131-629",
+      "desc": "NUT - speed type U"
+    },
+    {
+      "ref": 4,
+      "x": 62.58,
+      "y": 13.22,
+      "partNo": "187-485",
+      "desc": "SCREW - #10 x 5/8\" Self-Tapping Hex, Zinc Plated"
+    },
+    {
+      "ref": 4,
+      "x": 63.91,
+      "y": 33.46,
+      "partNo": "187-485",
+      "desc": "SCREW - #10 x 5/8\" Self-Tapping Hex, Zinc Plated"
+    },
+    {
+      "ref": 37,
+      "x": 6.67,
+      "y": 24.42,
+      "partNo": "129-77",
+      "desc": "NUT - #10-32 square"
+    },
+    {
+      "ref": 37,
+      "x": 27.71,
+      "y": 33.68,
+      "partNo": "129-77",
+      "desc": "NUT - #10-32 square"
+    },
+    {
+      "ref": 9,
+      "x": 93.8,
+      "y": 74.37,
+      "partNo": "C14304",
+      "desc": "GASKET - headlamp"
+    },
+    {
+      "ref": 9,
+      "x": 81.84,
+      "y": 66.41,
+      "partNo": "C14304",
+      "desc": "GASKET - headlamp"
+    },
+    {
+      "ref": 35,
+      "x": 33.24,
+      "y": 24.42,
+      "partNo": "182-523",
+      "desc": "SCREW - #10 x 7/8\" binder head"
+    },
+    {
+      "ref": 35,
+      "x": 9.44,
+      "y": 44.44,
+      "partNo": "182-523",
+      "desc": "SCREW - #10 x 7/8\" binder head"
+    },
+    {
+      "ref": 1,
+      "x": 11.66,
+      "y": 61.99,
+      "partNo": "C14060",
+      "desc": "NUT - back up 3/4\""
+    },
+    {
+      "ref": 22,
+      "x": 36.68,
+      "y": 15.8,
+      "partNo": "129-27",
+      "desc": "NUT - #10 NF hex"
+    },
+    {
+      "ref": 22,
+      "x": 11.43,
+      "y": 79.76,
+      "partNo": "129-27",
+      "desc": "NUT - #10 NF hex"
+    },
+    {
+      "ref": 15,
+      "x": 16.86,
+      "y": 69.64,
+      "partNo": "111-202",
+      "desc": "BOLT - 5/16 x 3/4\" NC, round head, square neck"
+    },
+    {
+      "ref": 11,
+      "x": 90.37,
+      "y": 60.81,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16 x 1\" NC hex, zinc plated"
+    },
+    {
+      "ref": 11,
+      "x": 81.18,
+      "y": 32.92,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16 x 1\" NC hex, zinc plated"
+    },
+    {
+      "ref": 21,
+      "x": 93.25,
+      "y": 18.93,
+      "partNo": "C14599",
+      "desc": "BRACKET - starter generator adjust"
+    },
+    {
+      "ref": 34,
+      "x": 79.52,
+      "y": 29.58,
+      "partNo": "C17546",
+      "desc": "GROMMET - wire"
+    },
+    {
+      "ref": 16,
+      "x": 39.33,
+      "y": 53.49,
+      "partNo": "111-108",
+      "desc": "BOLT - 1/4 x 3/4\" NC, round head, square neck"
+    },
+    {
+      "ref": 32,
+      "x": 25.49,
+      "y": 46.27,
+      "partNo": "193-57",
+      "desc": "LOCKWASHER - 1/4\" external tooth"
+    },
+    {
+      "ref": 10,
+      "x": 87.82,
+      "y": 69.74,
+      "partNo": "C22573",
+      "desc": "LENS - headlamp"
+    },
+    {
+      "ref": 36,
+      "x": 29.81,
+      "y": 27.54,
+      "partNo": "C19254",
+      "desc": "WASHER - nylon 13/64\""
+    },
+    {
+      "ref": 36,
+      "x": 14.31,
+      "y": 42.29,
+      "partNo": "C19254",
+      "desc": "WASHER - nylon 13/64\""
+    },
+    {
+      "ref": 7,
+      "x": 70.99,
+      "y": 57.69,
+      "partNo": "NSS",
+      "desc": "RECEPTACLE - headlamp (Order C22571)"
+    },
+    {
+      "ref": 23,
+      "x": 40.44,
+      "y": 13.97,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - #10"
+    },
+    {
+      "ref": 23,
+      "x": 15.64,
+      "y": 81.05,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - #10"
+    },
+    {
+      "ref": 38,
+      "x": 23.61,
+      "y": 36.15,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 38,
+      "x": 9.77,
+      "y": 22.16,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 26,
+      "x": 12.76,
+      "y": 92.14,
+      "partNo": "187-1844",
+      "desc": "SCREW - #10 UNFX 1-1/2\" self tap"
+    },
+    {
+      "ref": 19,
+      "x": 60.59,
+      "y": 16.02,
+      "partNo": "193-70",
+      "desc": "LOCKWASHER - #10 external tooth"
+    },
+    {
+      "ref": 19,
+      "x": 59.81,
+      "y": 35.72,
+      "partNo": "193-70",
+      "desc": "LOCKWASHER - #10 external tooth"
+    },
+    {
+      "ref": 20,
+      "x": 48.08,
+      "y": 33.35,
+      "partNo": "129-122",
+      "desc": "NUT - 5/16\" NF hex"
+    },
+    {
+      "ref": 29,
+      "x": 68.12,
+      "y": 35.83,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 8,
+      "x": 79.96,
+      "y": 60.05,
+      "partNo": "C41264",
+      "desc": "BULB - headlamp"
+    },
+    {
+      "ref": 31,
+      "x": 38.0,
+      "y": 33.78,
+      "partNo": "111-131",
+      "desc": "BOLT - 1/4 x 1-1/8\" NC round head, square neck"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C22571 - HEADLAMP ASSEMBLY (qty 2)"
+}

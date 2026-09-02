@@ -1,0 +1,54 @@
+{
+  "sectionTitle": "Hydraulic Reservoir Mounting",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/hydraulic_reservoir_mounting.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 59.91,
+      "y": 35.89,
+      "variants": [
+        {
+          "serialNote": "R.H.",
+          "partNo": "C14240",
+          "desc": "SUPPORT - reservoir mounting R.H."
+        },
+        {
+          "serialNote": "L.H.",
+          "partNo": "C14241",
+          "desc": "SUPPORT - reservoir mounting L.H."
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 35.01,
+      "y": 62.16,
+      "partNo": "113-118",
+      "desc": "BOLT - 5/16 x 5/8\" NC hex"
+    },
+    {
+      "ref": 4,
+      "x": 56.83,
+      "y": 8.45,
+      "partNo": "C14690",
+      "desc": "CUSHION - reservoir"
+    },
+    {
+      "ref": 3,
+      "x": 86.65,
+      "y": 46.76,
+      "partNo": "C14246",
+      "desc": "BRACKET - heat exchanger mounting"
+    },
+    {
+      "ref": 2,
+      "x": 92.33,
+      "y": 62.16,
+      "partNo": "187-1251",
+      "desc": "SCREW - 1/4 x 1-1/4\" NC flat head Phillips"
+    }
+  ],
+  "footnotes": ""
+}

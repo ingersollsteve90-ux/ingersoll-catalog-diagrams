@@ -1,0 +1,30 @@
+{
+  "sectionTitle": "Drawbar and Tow Hitch",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/drawbar_tow_hitch.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 79.52,
+      "y": 45.02,
+      "partNo": "C13360",
+      "desc": "DRAWBAR"
+    },
+    {
+      "ref": 3,
+      "x": 29.03,
+      "y": 12.6,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2 x 1\" NC hex zinc plated"
+    },
+    {
+      "ref": 2,
+      "x": 50.14,
+      "y": 25.32,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated"
+    }
+  ],
+  "footnotes": ""
+}

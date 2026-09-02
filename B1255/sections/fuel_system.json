@@ -1,0 +1,215 @@
+{
+  "sectionTitle": "Fuel System (Engine)",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/fuel_system.jpg",
+  "hotspots": [
+    {
+      "ref": 15,
+      "x": 48.58,
+      "y": 80.88,
+      "partNo": "A62079",
+      "desc": "CLIP - fuel line"
+    },
+    {
+      "ref": 17,
+      "x": 15.06,
+      "y": 26.31,
+      "partNo": "C16363",
+      "desc": "TANK - fuel"
+    },
+    {
+      "ref": 13,
+      "x": 91.9,
+      "y": 71.75,
+      "partNo": "C22738",
+      "desc": "GASKET - fuel pump mounting, all models"
+    },
+    {
+      "ref": 6,
+      "x": 97.49,
+      "y": 63.27,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER 5/16\""
+    },
+    {
+      "ref": 3,
+      "x": 90.31,
+      "y": 76.86,
+      "partNo": "C10678",
+      "desc": "ELBOW - fuel pump and carburetor"
+    },
+    {
+      "ref": 3,
+      "x": 58.38,
+      "y": 63.71,
+      "partNo": "C10678",
+      "desc": "ELBOW - fuel pump and carburetor"
+    },
+    {
+      "ref": 3,
+      "x": 58.84,
+      "y": 28.27,
+      "partNo": "C10678",
+      "desc": "ELBOW - fuel pump and carburetor"
+    },
+    {
+      "ref": 11,
+      "x": 77.54,
+      "y": 64.47,
+      "partNo": "KO275341",
+      "desc": "GASKET - air horn"
+    },
+    {
+      "ref": 21,
+      "x": 5.71,
+      "y": 61.42,
+      "partNo": "173-215",
+      "desc": "SCREW - 1/4 x 1/2\" NC round head, machine, zinc plated"
+    },
+    {
+      "ref": 16,
+      "x": 54.05,
+      "y": 87.52,
+      "partNo": "C17574",
+      "desc": "HOSE - fuel line 43\""
+    },
+    {
+      "ref": 18,
+      "x": 21.67,
+      "y": 7.61,
+      "partNo": "C11529",
+      "desc": "CAP - fuel tank (Includes insert)"
+    },
+    {
+      "ref": 12,
+      "x": 96.01,
+      "y": 77.84,
+      "partNo": "NSS",
+      "desc": "PUMP - fuel, 12 and 14 h.p. models (Repairs page 27)(use C24851)"
+    },
+    {
+      "ref": 10,
+      "x": 61.8,
+      "y": 76.1,
+      "partNo": "193-60",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 7,
+      "x": 96.81,
+      "y": 69.03,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" x 1\" NC hex"
+    },
+    {
+      "ref": 23,
+      "x": 14.26,
+      "y": 76.86,
+      "partNo": "C14690",
+      "desc": "CUSHION - fuel tank"
+    },
+    {
+      "ref": 2,
+      "x": 93.39,
+      "y": 21.31,
+      "partNo": "C23860",
+      "desc": "GASKET - carburetor flange"
+    },
+    {
+      "ref": 14,
+      "x": 39.0,
+      "y": 73.82,
+      "partNo": "C10657",
+      "desc": "ELBOW ASSEMBLY - fuel tank"
+    },
+    {
+      "ref": 5,
+      "x": 58.27,
+      "y": 45.33,
+      "partNo": "C15007",
+      "desc": "HOSE - carburetor 5-1/4\""
+    },
+    {
+      "ref": 4,
+      "x": 74.8,
+      "y": 88.28,
+      "partNo": "214-251",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 4,
+      "x": 58.5,
+      "y": 35.33,
+      "partNo": "214-251",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 4,
+      "x": 30.45,
+      "y": 94.36,
+      "partNo": "214-251",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 4,
+      "x": 58.61,
+      "y": 56.1,
+      "partNo": "214-251",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 19,
+      "x": 22.24,
+      "y": 16.42,
+      "partNo": "C11545",
+      "desc": "INSERT - fuel cap"
+    },
+    {
+      "ref": 20,
+      "x": 6.51,
+      "y": 53.81,
+      "partNo": "C16796",
+      "desc": "STRAP - fuel tank mounting"
+    },
+    {
+      "ref": 9,
+      "x": 57.47,
+      "y": 79.47,
+      "partNo": "71-410",
+      "desc": "SCREW - 1/4\" x 5/8\" NC fillister head"
+    },
+    {
+      "ref": 1,
+      "x": 85.75,
+      "y": 23.48,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C24408",
+          "desc": "CARBURETOR ASSEMBLY - 444 & 224 (Repairs page 27)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "A72073",
+          "desc": "CARBURETOR ASSEMBLY - 220 & 222 (Repairs page 27)"
+        }
+      ]
+    },
+    {
+      "ref": 22,
+      "x": 6.39,
+      "y": 94.58,
+      "partNo": "129-504",
+      "desc": "NUT - square 1/4\" NC"
+    },
+    {
+      "ref": 8,
+      "x": 62.37,
+      "y": 69.58,
+      "partNo": "NSS",
+      "desc": "PUMP - fuel, 10 h.p. models (Repairs page 27)(order C24851)"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,169 @@
+{
+  "sectionTitle": "Carburetor",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/carburetor.jpg",
+  "hotspots": [
+    {
+      "ref": 14,
+      "x": 82.17,
+      "y": 73.28,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl baffle"
+    },
+    {
+      "ref": 14,
+      "x": 66.47,
+      "y": 19.85,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl baffle"
+    },
+    {
+      "ref": 15,
+      "x": 66.35,
+      "y": 28.53,
+      "partNo": "A72083",
+      "desc": "GASKET - bowl screw"
+    },
+    {
+      "ref": 15,
+      "x": 64.18,
+      "y": 90.86,
+      "partNo": "A72083",
+      "desc": "GASKET - bowl screw"
+    },
+    {
+      "ref": 5,
+      "x": 31.82,
+      "y": 35.0,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "A72099",
+          "desc": "NEEDLE - idle adjust (220, 222)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "KO275231",
+          "desc": "NEEDLE - idle adjust (224 & 444)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 17.09,
+      "y": 40.67,
+      "partNo": "KO200383",
+      "desc": "SPRING - main fuel adjust"
+    },
+    {
+      "ref": 13,
+      "x": 66.35,
+      "y": 15.11,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl ring"
+    },
+    {
+      "ref": 13,
+      "x": 82.89,
+      "y": 64.96,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl ring"
+    },
+    {
+      "ref": 6,
+      "x": 27.96,
+      "y": 39.28,
+      "partNo": "KO200380",
+      "desc": "SPRING - idle fuel adjust"
+    },
+    {
+      "ref": 3,
+      "x": 17.93,
+      "y": 28.99,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "A72077",
+          "desc": "NEEDLE - main fuel adjust, 220, 222"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "KO237489",
+          "desc": "NEEDLE - main fuel adjust, 224 & 444"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 81.68,
+      "y": 80.45,
+      "partNo": "A72080",
+      "desc": "BOWL - carburetor"
+    },
+    {
+      "ref": 11,
+      "x": 79.75,
+      "y": 34.08,
+      "partNo": "A72103",
+      "desc": "KIT - carburetor repair"
+    },
+    {
+      "ref": 1,
+      "x": 38.46,
+      "y": 45.87,
+      "partNo": "KO200380",
+      "desc": "SPRING - tension, idle adjust"
+    },
+    {
+      "ref": 12,
+      "x": 87.0,
+      "y": 6.67,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY"
+    },
+    {
+      "ref": 12,
+      "x": 13.1,
+      "y": 69.0,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY"
+    },
+    {
+      "ref": 10,
+      "x": 78.91,
+      "y": 93.29,
+      "partNo": "A72084",
+      "desc": "SCREW AND GASKET ASSEMBLY - carburetor bowl"
+    },
+    {
+      "ref": 8,
+      "x": 80.35,
+      "y": 57.9,
+      "partNo": "A72078",
+      "desc": "FLOAT - carburetor"
+    },
+    {
+      "ref": 7,
+      "x": 61.52,
+      "y": 54.09,
+      "partNo": "A72079",
+      "desc": "PIN - float"
+    },
+    {
+      "ref": 7,
+      "x": 66.71,
+      "y": 5.86,
+      "partNo": "A72079",
+      "desc": "PIN - float"
+    },
+    {
+      "ref": 2,
+      "x": 43.53,
+      "y": 50.04,
+      "partNo": "A72092",
+      "desc": "SCREW - idle adjust"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: A72073 - CARBURETOR ASSEMBLY - 220, 222 (qty 1); C24408 - CARBURETOR ASSEMBLY - 224 & 444 (qty 1)"
+}

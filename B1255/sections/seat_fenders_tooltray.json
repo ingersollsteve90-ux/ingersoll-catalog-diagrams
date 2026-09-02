@@ -1,0 +1,217 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Tray",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/seat_fenders_tooltray.jpg",
+  "hotspots": [
+    {
+      "ref": 15,
+      "x": 51.87,
+      "y": 5.79,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C16444",
+          "desc": "FENDER - L.H. (444)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C16445",
+          "desc": "FENDER - R.H. (444)"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 67.95,
+      "y": 82.26,
+      "partNo": "C16393",
+      "desc": "LEVER - shift"
+    },
+    {
+      "ref": 13,
+      "x": 50.23,
+      "y": 44.08,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock"
+    },
+    {
+      "ref": 13,
+      "x": 57.77,
+      "y": 72.75,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock"
+    },
+    {
+      "ref": 6,
+      "x": 22.08,
+      "y": 65.75,
+      "partNo": "C19417",
+      "desc": "TRAY - tool"
+    },
+    {
+      "ref": 3,
+      "x": 25.48,
+      "y": 68.73,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "113-441",
+          "desc": "BOLT - 1/2 x 2-1/4\" NC hex (444)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "113-427",
+          "desc": "BOLT - 1/2 x 3-1/4\" NC hex (220, 222 and 224)"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 18.44,
+      "y": 60.36,
+      "partNo": "113-122",
+      "desc": "BOLT - 5/16 x 1-1/2\""
+    },
+    {
+      "ref": 21,
+      "x": 84.17,
+      "y": 89.03,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\" NC hex"
+    },
+    {
+      "ref": 16,
+      "x": 74.99,
+      "y": 52.45,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C16446",
+          "desc": "FENDER - L.H. (220, 222 and 224)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C16447",
+          "desc": "FENDER - R.H. (220, 222 and 224)"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 61.54,
+      "y": 79.86,
+      "partNo": "195-524",
+      "desc": "WASHER - 7/16 x 1-1/4\" OD"
+    },
+    {
+      "ref": 12,
+      "x": 8.14,
+      "y": 46.72,
+      "partNo": "C14534",
+      "desc": "BUMPER - seat"
+    },
+    {
+      "ref": 10,
+      "x": 16.56,
+      "y": 56.12,
+      "partNo": "195-2021",
+      "desc": "WASHER - 5/16 x 1-1/4\" OD, zinc plated"
+    },
+    {
+      "ref": 7,
+      "x": 63.56,
+      "y": 39.73,
+      "partNo": "C16429",
+      "desc": "PIN - seat hinge"
+    },
+    {
+      "ref": 2,
+      "x": 6.38,
+      "y": 80.89,
+      "partNo": "C16404",
+      "desc": "SUPPORT - seat, rear"
+    },
+    {
+      "ref": 14,
+      "x": 42.07,
+      "y": 35.37,
+      "partNo": "C17152",
+      "desc": "HINGE ASSEMBLY - seat"
+    },
+    {
+      "ref": 5,
+      "x": 37.92,
+      "y": 61.86,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\""
+    },
+    {
+      "ref": 4,
+      "x": 47.22,
+      "y": 57.04,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2 x 1\" NC hex (444)"
+    },
+    {
+      "ref": 19,
+      "x": 75.49,
+      "y": 84.9,
+      "partNo": "C17216",
+      "desc": "SPRING - shift lever"
+    },
+    {
+      "ref": 20,
+      "x": 80.52,
+      "y": 86.74,
+      "partNo": "C17066",
+      "desc": "WASHER - cupped"
+    },
+    {
+      "ref": 9,
+      "x": 12.28,
+      "y": 35.48,
+      "partNo": "C15410",
+      "desc": "CUSHION - rubber"
+    },
+    {
+      "ref": 9,
+      "x": 13.92,
+      "y": 53.49,
+      "partNo": "C15410",
+      "desc": "CUSHION - rubber"
+    },
+    {
+      "ref": 1,
+      "x": 19.32,
+      "y": 87.42,
+      "partNo": "C16408",
+      "desc": "SUPPORT - seat, front"
+    },
+    {
+      "ref": 22,
+      "x": 34.15,
+      "y": 94.3,
+      "partNo": "C14728",
+      "desc": "GRIP - shift lever"
+    },
+    {
+      "ref": 8,
+      "x": 38.92,
+      "y": 7.74,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C24319",
+          "desc": "SEAT - (220, 222 and 224)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C24318",
+          "desc": "SEAT - (444)"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

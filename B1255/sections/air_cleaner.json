@@ -1,0 +1,72 @@
+{
+  "sectionTitle": "Air Cleaner",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/air_cleaner.jpg",
+  "hotspots": [
+    {
+      "ref": 7,
+      "x": 56.58,
+      "y": 29.17,
+      "partNo": "177-94",
+      "desc": "SCREW - fillister head 10-32 x 5/16\""
+    },
+    {
+      "ref": 1,
+      "x": 39.19,
+      "y": 21.04,
+      "partNo": "KOA235100",
+      "desc": "AIR CLEANER ASSEMBLY"
+    },
+    {
+      "ref": 5,
+      "x": 48.91,
+      "y": 28.15,
+      "partNo": "A70090",
+      "desc": "ELEMENT - air cleaner"
+    },
+    {
+      "ref": 4,
+      "x": 16.88,
+      "y": 54.14,
+      "partNo": "NSS",
+      "desc": "COVER - air cleaner (Order KOA235100)"
+    },
+    {
+      "ref": 6,
+      "x": 64.11,
+      "y": 16.24,
+      "partNo": "NSS",
+      "desc": "BASE - air cleaner (Order KOA235100)"
+    },
+    {
+      "ref": 9,
+      "x": 34.67,
+      "y": 41.22,
+      "partNo": "KO237421",
+      "desc": "PRE-CLEANER - (optional)"
+    },
+    {
+      "ref": 8,
+      "x": 61.1,
+      "y": 24.67,
+      "partNo": "195-512",
+      "desc": "WASHER - plain 3/16\""
+    },
+    {
+      "ref": 3,
+      "x": 76.29,
+      "y": 14.94,
+      "partNo": "KO275341",
+      "desc": "GASKET - air horn"
+    },
+    {
+      "ref": 2,
+      "x": 6.88,
+      "y": 68.51,
+      "partNo": "129-409",
+      "desc": "NUT - wing NC 1/4\""
+    }
+  ],
+  "footnotes": ""
+}

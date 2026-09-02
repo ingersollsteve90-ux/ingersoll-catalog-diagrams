@@ -1,0 +1,131 @@
+{
+  "sectionTitle": "220 Camshaft and Valves",
+  "catalogLabel": "Catalog B1255",
+  "modelNumbers": "Catalog B1255 — Case 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1255/camshaft_valves_220.jpg",
+  "hotspots": [
+    {
+      "ref": 26,
+      "x": 57.55,
+      "y": 91.74,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "KO 275066",
+          "desc": "SPACER - camshaft, .005\""
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "KO 275067",
+          "desc": "SPACER - camshaft, .010\""
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 85.8,
+      "y": 7.08,
+      "partNo": "KO 235826",
+      "desc": "VALVE - exhaust"
+    },
+    {
+      "ref": 25,
+      "x": 43.94,
+      "y": 72.73,
+      "partNo": "C 25043",
+      "desc": "CAMSHAFT ASSEMBLY"
+    },
+    {
+      "ref": 15,
+      "x": 85.68,
+      "y": 12.16,
+      "partNo": "KO 235008",
+      "desc": "VALVE - intake"
+    },
+    {
+      "ref": 17,
+      "x": 85.22,
+      "y": 26.92,
+      "partNo": "KO 235007-S",
+      "desc": "GUIDE - valve"
+    },
+    {
+      "ref": 19,
+      "x": 6.21,
+      "y": 72.49,
+      "partNo": "KO 235010",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": 20,
+      "x": 5.75,
+      "y": 75.56,
+      "partNo": "KO 230011",
+      "desc": "RETAINER - valve spring"
+    },
+    {
+      "ref": 27,
+      "x": 62.81,
+      "y": 94.1,
+      "partNo": "KO 235053",
+      "desc": "PIN - camshaft"
+    },
+    {
+      "ref": 21,
+      "x": 5.98,
+      "y": 81.23,
+      "partNo": "C 24884",
+      "desc": "KIT - valve retainer (includes both valves)"
+    },
+    {
+      "ref": 18,
+      "x": 6.09,
+      "y": 68.01,
+      "partNo": "KO 235011",
+      "desc": "SEAT - valve spring"
+    },
+    {
+      "ref": 16,
+      "x": 61.32,
+      "y": 16.65,
+      "partNo": "KO 230170",
+      "desc": "INSERT - exhaust valve seat"
+    },
+    {
+      "ref": 24,
+      "x": 84.65,
+      "y": 82.41,
+      "partNo": "NSS",
+      "desc": "LIFTER - valve"
+    },
+    {
+      "ref": 28,
+      "x": 45.89,
+      "y": 92.45,
+      "partNo": "KO 4708901",
+      "desc": "SPRING - actuating"
+    },
+    {
+      "ref": 29,
+      "x": 84.54,
+      "y": 21.37,
+      "partNo": "KO 230265",
+      "desc": "INSERT - intake valve seat"
+    },
+    {
+      "ref": 22,
+      "x": 94.37,
+      "y": 78.87,
+      "partNo": "KOD 235327",
+      "desc": "LIFTER ASSEMBLY"
+    },
+    {
+      "ref": 23,
+      "x": 85.11,
+      "y": 75.68,
+      "partNo": "NSS",
+      "desc": "SCREW - tappet adjusting"
+    }
+  ],
+  "footnotes": ""
+}
