@@ -1,0 +1,248 @@
+{
+  "sectionTitle": "224 and 444 Crankshaft, Piston - Connecting Rod",
+  "breadcrumb": "224 and 444 Crankshaft, Piston - Connecting Rod",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/crankshaft_piston_rod_224_444.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 84.72,
+      "y": 7.29,
+      "partNo": "NSS",
+      "desc": "PISTON AND ROD ASSEMBLY (Std. size)"
+    },
+    {
+      "ref": 2,
+      "x": 67.78,
+      "y": 16.81,
+      "partNo": "KO 236763",
+      "desc": "RING SET - piston (For oversize, see item 16)"
+    },
+    {
+      "ref": 3,
+      "x": 62.81,
+      "y": 6.69,
+      "partNo": "NSS",
+      "desc": "RING - top compression"
+    },
+    {
+      "ref": 4,
+      "x": 63.19,
+      "y": 15.84,
+      "partNo": "NSS",
+      "desc": "RING - 2nd compression (Includes expander)"
+    },
+    {
+      "ref": 5,
+      "x": 62.43,
+      "y": 28.85,
+      "partNo": "NSS",
+      "desc": "RING - oil (Includes expander)"
+    },
+    {
+      "ref": 6,
+      "x": 32.12,
+      "y": 46.07,
+      "partNo": "C 26282",
+      "desc": "PISTON ASSEMBLY (For oversize, see item 15)"
+    },
+    {
+      "ref": 7,
+      "x": 37.21,
+      "y": 41.49,
+      "partNo": "KO 235004",
+      "desc": "RETAINER - piston pin (qty 2)"
+    },
+    {
+      "ref": 7,
+      "x": 68.93,
+      "y": 44.86,
+      "partNo": "KO 235004",
+      "desc": "RETAINER - piston pin (qty 2)"
+    },
+    {
+      "ref": 8,
+      "x": 37.21,
+      "y": 49.8,
+      "partNo": "NSS",
+      "desc": "PIN - piston"
+    },
+    {
+      "ref": 9,
+      "x": 36.96,
+      "y": 44.02,
+      "partNo": "NSS",
+      "desc": "PISTON"
+    },
+    {
+      "ref": 10,
+      "x": 30.72,
+      "y": 87.97,
+      "partNo": "KOA 237344",
+      "desc": "CONNECTING ROD ASSEMBLY (For undersize, see item 18)"
+    },
+    {
+      "ref": 11,
+      "x": 35.56,
+      "y": 82.8,
+      "partNo": "KO 235003",
+      "desc": "WASHER - special (qty 2)"
+    },
+    {
+      "ref": 12,
+      "x": 36.07,
+      "y": 85.45,
+      "partNo": "92-6",
+      "desc": "LOCKWASHER - 3/8\" (qty 2)"
+    },
+    {
+      "ref": 13,
+      "x": 35.69,
+      "y": 89.66,
+      "partNo": "KO 236611",
+      "desc": "SCREW - cap, connecting rod (qty 2)"
+    },
+    {
+      "ref": 14,
+      "x": 36.07,
+      "y": 93.39,
+      "partNo": "NSS",
+      "desc": "ROD - connecting"
+    },
+    {
+      "ref": 14,
+      "x": 47.91,
+      "y": 61.24,
+      "partNo": "NSS",
+      "desc": "ROD - connecting"
+    },
+    {
+      "ref": 15,
+      "x": 31.61,
+      "y": 43.66,
+      "variants": [
+        {
+          "serialNote": ".010\" oversize",
+          "partNo": "C 26284",
+          "desc": "PISTON ASSEMBLY - .010\" oversize"
+        },
+        {
+          "serialNote": ".020\" oversize",
+          "partNo": "C 26190",
+          "desc": "PISTON ASSEMBLY - .020\" oversize"
+        },
+        {
+          "serialNote": ".030\" oversize",
+          "partNo": "C 26285",
+          "desc": "PISTON ASSEMBLY - .030\" oversize"
+        },
+        {
+          "serialNote": ".003\" oversize",
+          "partNo": "C 26283",
+          "desc": "PISTON ASSEMBLY - .003\" oversize (order KO236763 standard ring set)"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 31.61,
+      "y": 19.94,
+      "variants": [
+        {
+          "serialNote": ".010\" oversize",
+          "partNo": "KO 236764",
+          "desc": "RING SET - piston .010\" oversize"
+        },
+        {
+          "serialNote": ".020\" oversize",
+          "partNo": "KO 236765",
+          "desc": "RING SET - piston .020\" oversize"
+        },
+        {
+          "serialNote": ".030\" oversize",
+          "partNo": "KO 236766",
+          "desc": "RING SET - piston .030\" oversize"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 37.47,
+      "y": 51.97,
+      "partNo": "KO 235868",
+      "desc": "PIN - piston .005\" oversize"
+    },
+    {
+      "ref": 18,
+      "x": 25.63,
+      "y": 79.91,
+      "partNo": "C 23135",
+      "desc": "CONNECTING ROD ASSEMBLY - .010 undersize"
+    },
+    {
+      "ref": 19,
+      "x": 33.52,
+      "y": 54.74,
+      "partNo": "R 16287",
+      "desc": "OIL SEAL - crankshaft rear"
+    },
+    {
+      "ref": 20,
+      "x": 38.49,
+      "y": 57.03,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft ball (qty 2)"
+    },
+    {
+      "ref": 20,
+      "x": 80.26,
+      "y": 74.49,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft ball (qty 2)"
+    },
+    {
+      "ref": 21,
+      "x": 43.2,
+      "y": 58.83,
+      "partNo": "H 26492",
+      "desc": "KEY - 1/4\" Sq. x 3/4\" (Pump Coupling)"
+    },
+    {
+      "ref": 22,
+      "x": 58.87,
+      "y": 65.46,
+      "partNo": "C 25054",
+      "desc": "CRANKSHAFT"
+    },
+    {
+      "ref": 23,
+      "x": 67.65,
+      "y": 69.43,
+      "partNo": "H 233346",
+      "desc": "KEY - flat 3/16\" x 3/16\" x 3/4\" (Flywheel)"
+    },
+    {
+      "ref": 24,
+      "x": 88.03,
+      "y": 77.86,
+      "partNo": "C 18097",
+      "desc": "OIL SEAL - crankshaft front"
+    },
+    {
+      "ref": 25,
+      "x": 91.59,
+      "y": 79.18,
+      "partNo": "C 26421",
+      "desc": "WASHER - 5/8\""
+    },
+    {
+      "ref": 26,
+      "x": 95.16,
+      "y": 80.87,
+      "partNo": "131-580",
+      "desc": "NUT - special Marsden 5/8\" NF"
+    }
+  ],
+  "footnotes": ""
+}

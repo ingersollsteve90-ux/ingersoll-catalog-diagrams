@@ -1,0 +1,211 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Tray",
+  "breadcrumb": "Seat, Fenders and Tool Tray",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/seat_fenders_tooltray.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 19.3,
+      "y": 85.41,
+      "partNo": "C16408",
+      "desc": "SUPPORT - seat, front"
+    },
+    {
+      "ref": 2,
+      "x": 7.03,
+      "y": 78.28,
+      "partNo": "C16404",
+      "desc": "SUPPORT - seat, rear"
+    },
+    {
+      "ref": 3,
+      "x": 24.09,
+      "y": 65.48,
+      "variants": [
+        {
+          "serialNote": "444",
+          "partNo": "113-441",
+          "desc": "BOLT - 1/2 x 2-1/4\" NC hex (qty 2)"
+        },
+        {
+          "serialNote": "220, 222 and 224",
+          "partNo": "113-427",
+          "desc": "BOLT - 1/2 x 3-1/4\" NC hex (qty 2)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 49.75,
+      "y": 56.2,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2 x 1\" NC hex (444) (qty 2)"
+    },
+    {
+      "ref": 5,
+      "x": 37.49,
+      "y": 60.61,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" (qty 4)"
+    },
+    {
+      "ref": 6,
+      "x": 21.55,
+      "y": 62.65,
+      "partNo": "C19417",
+      "desc": "TRAY - tool"
+    },
+    {
+      "ref": 7,
+      "x": 66.54,
+      "y": 38.76,
+      "partNo": "C16429",
+      "desc": "PIN - seat hinge"
+    },
+    {
+      "ref": 8,
+      "x": 42.84,
+      "y": 6.6,
+      "variants": [
+        {
+          "serialNote": "220, 222 and 224",
+          "partNo": "C26215",
+          "desc": "SEAT"
+        },
+        {
+          "serialNote": "444",
+          "partNo": "C26214",
+          "desc": "SEAT"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 15.63,
+      "y": 33.89,
+      "partNo": "D59705",
+      "desc": "CUSHION - rubber (qty 8)"
+    },
+    {
+      "ref": 9,
+      "x": 16.33,
+      "y": 50.54,
+      "partNo": "D59705",
+      "desc": "CUSHION - rubber (qty 8)"
+    },
+    {
+      "ref": 10,
+      "x": 18.87,
+      "y": 53.25,
+      "partNo": "195-2175",
+      "desc": "WASHER - 5/16 x 1-1/4\" OD, zinc plated (qty 4)"
+    },
+    {
+      "ref": 11,
+      "x": 20.0,
+      "y": 57.22,
+      "partNo": "113-122",
+      "desc": "BOLT - 5/16 x 1-1/2\" (qty 4)"
+    },
+    {
+      "ref": 12,
+      "x": 10.98,
+      "y": 44.42,
+      "partNo": "C14534",
+      "desc": "BUMPER - seat (qty 2)"
+    },
+    {
+      "ref": 13,
+      "x": 60.33,
+      "y": 74.65,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock (qty 10)"
+    },
+    {
+      "ref": 14,
+      "x": 46.93,
+      "y": 34.34,
+      "partNo": "C17152",
+      "desc": "HINGE ASSEMBLY - seat"
+    },
+    {
+      "ref": 15,
+      "x": 63.57,
+      "y": 7.17,
+      "variants": [
+        {
+          "serialNote": "444",
+          "partNo": "C16444",
+          "desc": "FENDER - L.H."
+        },
+        {
+          "serialNote": "444",
+          "partNo": "C16445",
+          "desc": "FENDER - R.H."
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 83.46,
+      "y": 49.29,
+      "variants": [
+        {
+          "serialNote": "220, 222 and 224",
+          "partNo": "C16446",
+          "desc": "FENDER - L.H."
+        },
+        {
+          "serialNote": "220, 222 and 224",
+          "partNo": "C16447",
+          "desc": "FENDER - R.H."
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 72.74,
+      "y": 81.56,
+      "partNo": "C16393",
+      "desc": "LEVER - shift"
+    },
+    {
+      "ref": 18,
+      "x": 65.55,
+      "y": 79.07,
+      "partNo": "195-524",
+      "desc": "WASHER - 7/16 x 1-1/4\" OD"
+    },
+    {
+      "ref": 19,
+      "x": 79.23,
+      "y": 84.17,
+      "partNo": "C17216",
+      "desc": "SPRING - shift lever"
+    },
+    {
+      "ref": 20,
+      "x": 84.16,
+      "y": 85.98,
+      "partNo": "C17066",
+      "desc": "WASHER - cupped"
+    },
+    {
+      "ref": 21,
+      "x": 87.97,
+      "y": 88.13,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\" NC hex"
+    },
+    {
+      "ref": 22,
+      "x": 37.2,
+      "y": 93.45,
+      "partNo": "C14728",
+      "desc": "GRIP - shift lever"
+    }
+  ],
+  "footnotes": ""
+}

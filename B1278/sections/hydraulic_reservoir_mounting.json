@@ -1,0 +1,55 @@
+{
+  "sectionTitle": "Hydraulic Reservoir Mounting",
+  "breadcrumb": "Hydraulic Reservoir Mounting",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/hydraulic_reservoir_mounting.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 45.86,
+      "y": 35.84,
+      "variants": [
+        {
+          "serialNote": "R.H.",
+          "partNo": "C 14240",
+          "desc": "SUPPORT - reservoir mtg. R.H."
+        },
+        {
+          "serialNote": "L.H.",
+          "partNo": "C 14241",
+          "desc": "SUPPORT - reservoir mtg. L.H."
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 91.49,
+      "y": 62.82,
+      "partNo": "187-1251",
+      "desc": "SCREW - 1/4 x 1-1/4\" n.c. flat hd. phillips (qty 4)"
+    },
+    {
+      "ref": 3,
+      "x": 83.51,
+      "y": 47.82,
+      "partNo": "C 14246",
+      "desc": "BRACKET - heat exchanger mtg. (qty 2)"
+    },
+    {
+      "ref": 4,
+      "x": 42.12,
+      "y": 8.14,
+      "partNo": "C 14690",
+      "desc": "CUSHION - reservoir mtg. (qty 2)"
+    },
+    {
+      "ref": 5,
+      "x": 11.95,
+      "y": 63.54,
+      "partNo": "113-118",
+      "desc": "BOLT - 5/16 x 5/8\" n.c. hex (qty 4)"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,339 @@
+{
+  "sectionTitle": "A70202 Starter-Generator",
+  "breadcrumb": "A70202 Starter-Generator",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/a70202_starter_generator.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 51.92,
+      "y": 6.55,
+      "partNo": "R15106",
+      "desc": "BOLT - through (Includes washer) (qty 2)"
+    },
+    {
+      "ref": 2,
+      "x": 27.03,
+      "y": 6.55,
+      "partNo": "A72104",
+      "desc": "FRAME ASSEMBLY - commutator end"
+    },
+    {
+      "ref": 3,
+      "x": 34.85,
+      "y": 9.99,
+      "partNo": "R15087",
+      "desc": "RING - bearing retainer"
+    },
+    {
+      "ref": 4,
+      "x": 42.54,
+      "y": 12.35,
+      "partNo": "A45230",
+      "desc": "BEARING - commutator end ball"
+    },
+    {
+      "ref": 5,
+      "x": 45.01,
+      "y": 25.69,
+      "partNo": "A72039",
+      "desc": "HOLDER KIT - ground brush"
+    },
+    {
+      "ref": 6,
+      "x": 26.25,
+      "y": 44.62,
+      "partNo": "A72040",
+      "desc": "HOLDER KIT - insulated brush"
+    },
+    {
+      "ref": 7,
+      "x": 8.14,
+      "y": 29.02,
+      "partNo": "A72038",
+      "desc": "BRUSH ASSEMBLY (qty 2)"
+    },
+    {
+      "ref": 7,
+      "x": 27.42,
+      "y": 24.18,
+      "partNo": "A72038",
+      "desc": "BRUSH ASSEMBLY (qty 2)"
+    },
+    {
+      "ref": 8,
+      "x": 7.09,
+      "y": 38.27,
+      "partNo": "R15090",
+      "desc": "ARM - brush pressure (qty 2)"
+    },
+    {
+      "ref": 8,
+      "x": 41.76,
+      "y": 24.18,
+      "partNo": "R15090",
+      "desc": "ARM - brush pressure (qty 2)"
+    },
+    {
+      "ref": 9,
+      "x": 20.26,
+      "y": 34.29,
+      "partNo": "R16161",
+      "desc": "SPRING - brush arm (qty 2)"
+    },
+    {
+      "ref": 9,
+      "x": 24.03,
+      "y": 30.64,
+      "partNo": "R16161",
+      "desc": "SPRING - brush arm (qty 2)"
+    },
+    {
+      "ref": 10,
+      "x": 16.09,
+      "y": 64.51,
+      "partNo": "A72042",
+      "desc": "COIL ASSEMBLY - field R.H."
+    },
+    {
+      "ref": 11,
+      "x": 10.87,
+      "y": 43.43,
+      "partNo": "A72048",
+      "desc": "STUD - armature terminal"
+    },
+    {
+      "ref": 12,
+      "x": 8.92,
+      "y": 41.17,
+      "partNo": "R16147",
+      "desc": "BUSHING - insulated, armature stud"
+    },
+    {
+      "ref": 13,
+      "x": 55.31,
+      "y": 58.49,
+      "partNo": "A41927",
+      "desc": "WASHER - armature stud (qty 2)"
+    },
+    {
+      "ref": 13,
+      "x": 86.71,
+      "y": 46.01,
+      "partNo": "A41927",
+      "desc": "WASHER - armature stud (qty 2)"
+    },
+    {
+      "ref": 14,
+      "x": 70.68,
+      "y": 43.65,
+      "partNo": "129-18",
+      "desc": "NUT - terminal stud 12-24 hex (qty 4)"
+    },
+    {
+      "ref": 14,
+      "x": 52.44,
+      "y": 53.22,
+      "partNo": "129-18",
+      "desc": "NUT - terminal stud 12-24 hex (qty 4)"
+    },
+    {
+      "ref": 15,
+      "x": 54.0,
+      "y": 56.01,
+      "partNo": "192-17",
+      "desc": "LOCKWASHER - terminal stud #12 (qty 4)"
+    },
+    {
+      "ref": 15,
+      "x": 88.01,
+      "y": 43.54,
+      "partNo": "192-17",
+      "desc": "LOCKWASHER - terminal stud #12 (qty 4)"
+    },
+    {
+      "ref": 16,
+      "x": 85.15,
+      "y": 48.27,
+      "partNo": "R16148",
+      "desc": "WASHER - insulated, field stud"
+    },
+    {
+      "ref": 17,
+      "x": 92.97,
+      "y": 33.65,
+      "partNo": "A72043",
+      "desc": "COIL ASSEMBLY - field L.H."
+    },
+    {
+      "ref": 18,
+      "x": 76.81,
+      "y": 24.4,
+      "partNo": "NSS",
+      "desc": "STUD - field terminal (See Ref. 40)"
+    },
+    {
+      "ref": 19,
+      "x": 78.63,
+      "y": 20.96,
+      "partNo": "R15077",
+      "desc": "BUSHING - insulated, field stud (Order A40702)"
+    },
+    {
+      "ref": 20,
+      "x": 60.13,
+      "y": 26.44,
+      "partNo": "A25447",
+      "desc": "INSULATOR - field coil (qty 2)"
+    },
+    {
+      "ref": 20,
+      "x": 22.99,
+      "y": 61.61,
+      "partNo": "A25447",
+      "desc": "INSULATOR - field coil (qty 2)"
+    },
+    {
+      "ref": 21,
+      "x": 51.92,
+      "y": 29.24,
+      "partNo": "A40736",
+      "desc": "SHOE - pole, plain"
+    },
+    {
+      "ref": 22,
+      "x": 38.89,
+      "y": 55.48,
+      "partNo": "A40736",
+      "desc": "SHOE - pole, noticed"
+    },
+    {
+      "ref": 23,
+      "x": 46.19,
+      "y": 52.79,
+      "partNo": "A72041",
+      "desc": "ARMATURE"
+    },
+    {
+      "ref": 24,
+      "x": 65.86,
+      "y": 45.37,
+      "partNo": "126-111",
+      "desc": "KEY - Woodruff, armature"
+    },
+    {
+      "ref": 25,
+      "x": 76.29,
+      "y": 64.94,
+      "partNo": "74-610",
+      "desc": "SCREW - pole (qty 2)"
+    },
+    {
+      "ref": 26,
+      "x": 88.67,
+      "y": 69.67,
+      "partNo": "NSS",
+      "desc": "BODY - starter, generator (Order A70202)"
+    },
+    {
+      "ref": 27,
+      "x": 30.42,
+      "y": 58.17,
+      "partNo": "173-237",
+      "desc": "SCREW - 10-32 x 1/2\" rd. hd. (qty 3)"
+    },
+    {
+      "ref": 28,
+      "x": 35.11,
+      "y": 60.32,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - 3/16\" plated (qty 3)"
+    },
+    {
+      "ref": 29,
+      "x": 24.56,
+      "y": 74.83,
+      "partNo": "A44433",
+      "desc": "RETAINER ASSEMBLY - bearing"
+    },
+    {
+      "ref": 30,
+      "x": 29.77,
+      "y": 77.2,
+      "partNo": "NSS",
+      "desc": "GASKET - bearing retainer (order A44433)"
+    },
+    {
+      "ref": 31,
+      "x": 33.94,
+      "y": 78.92,
+      "partNo": "A43356",
+      "desc": "BEARING - ball, drive end"
+    },
+    {
+      "ref": 32,
+      "x": 48.27,
+      "y": 84.62,
+      "partNo": "A72046",
+      "desc": "FRAME ASSEMBLY - drive end"
+    },
+    {
+      "ref": 33,
+      "x": 60.78,
+      "y": 89.57,
+      "partNo": "A72047",
+      "desc": "SPACER - pulley"
+    },
+    {
+      "ref": 34,
+      "x": 64.69,
+      "y": 90.96,
+      "partNo": "C14344",
+      "desc": "PULLEY - starter, generator drive"
+    },
+    {
+      "ref": 35,
+      "x": 67.95,
+      "y": 92.47,
+      "partNo": "192-26",
+      "desc": "LOCKWASHER - 11/16\" plated"
+    },
+    {
+      "ref": 36,
+      "x": 70.81,
+      "y": 93.55,
+      "partNo": "A25546",
+      "desc": "NUT - armature shaft, drive end"
+    },
+    {
+      "ref": 37,
+      "x": 39.15,
+      "y": 80.86,
+      "partNo": "A43499",
+      "desc": "RETAINER - grease"
+    },
+    {
+      "ref": 38,
+      "x": 43.45,
+      "y": 82.68,
+      "partNo": "NSS",
+      "desc": "SEAL - felt (Order A44433)"
+    },
+    {
+      "ref": 39,
+      "x": 53.87,
+      "y": 49.89,
+      "partNo": "NSS",
+      "desc": "SPACER - armature shaft, inner"
+    },
+    {
+      "ref": 40,
+      "x": 86.32,
+      "y": 7.19,
+      "partNo": "A40702",
+      "desc": "KIT - stud (Includes items 16, 18 and 19)"
+    }
+  ],
+  "footnotes": "* Bearing retainer gasket and felt seal not required. New retainer assembly services all starters.\n** Also available, C25256 remanufactured Starter-Generator. To return old starter-generator for credit, use C25255 as return number."
+}

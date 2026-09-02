@@ -1,0 +1,283 @@
+{
+  "sectionTitle": "Model J30 Hydraulic Lift",
+  "breadcrumb": "Model J30 Hydraulic Lift",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/model_j30_hydraulic_lift.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 78.6,
+      "y": 43.22,
+      "partNo": "C 18808",
+      "desc": "CROSS SHAFT ASSEMBLY"
+    },
+    {
+      "ref": 2,
+      "x": 61.4,
+      "y": 56.62,
+      "partNo": "219-404",
+      "desc": "FITTING - lube"
+    },
+    {
+      "ref": 3,
+      "x": 76.68,
+      "y": 39.93,
+      "partNo": "C 18251",
+      "desc": "PIN - cylinder to lever"
+    },
+    {
+      "ref": 4,
+      "x": 75.11,
+      "y": 36.64,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\" (qty 3)"
+    },
+    {
+      "ref": 4,
+      "x": 62.72,
+      "y": 26.77,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\" (qty 3)"
+    },
+    {
+      "ref": 5,
+      "x": 73.31,
+      "y": 64.38,
+      "partNo": "132-361",
+      "desc": "PIN - cotter 1/8\" x 2-1/2\""
+    },
+    {
+      "ref": 6,
+      "x": 40.59,
+      "y": 41.46,
+      "partNo": "C 17249",
+      "desc": "BRACKET - mounting, top (qty 2)"
+    },
+    {
+      "ref": 7,
+      "x": 60.08,
+      "y": 59.91,
+      "partNo": "C 17250",
+      "desc": "BRACKET - mounting, bottom (qty 2)"
+    },
+    {
+      "ref": 8,
+      "x": 58.88,
+      "y": 63.08,
+      "partNo": "113-221",
+      "desc": "BOLT - 3/8\" x 7/8\" NC hex (qty 4)"
+    },
+    {
+      "ref": 9,
+      "x": 44.32,
+      "y": 39.11,
+      "partNo": "131-178",
+      "desc": "NUT - 3/8\" NC hex (qty 4)"
+    },
+    {
+      "ref": 10,
+      "x": 62.0,
+      "y": 12.19,
+      "partNo": "C 16163",
+      "desc": "LEVER - lift control"
+    },
+    {
+      "ref": 11,
+      "x": 31.33,
+      "y": 6.67,
+      "partNo": "A 37247",
+      "desc": "KNOB - control lever"
+    },
+    {
+      "ref": 12,
+      "x": 62.48,
+      "y": 6.9,
+      "partNo": "C 12093",
+      "desc": "BUSHING - lift lever"
+    },
+    {
+      "ref": 13,
+      "x": 45.89,
+      "y": 28.06,
+      "partNo": "132-320",
+      "desc": "PIN - cotter 3/32\" x 3/4\""
+    },
+    {
+      "ref": 14,
+      "x": 46.61,
+      "y": 36.76,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\""
+    },
+    {
+      "ref": 15,
+      "x": 46.97,
+      "y": 33.46,
+      "partNo": "C 21518",
+      "desc": "WASHER - nylon"
+    },
+    {
+      "ref": 16,
+      "x": 47.81,
+      "y": 30.64,
+      "partNo": "C 27822",
+      "desc": "SPRING - control lever"
+    },
+    {
+      "ref": 17,
+      "x": 47.45,
+      "y": 14.66,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\""
+    },
+    {
+      "ref": 18,
+      "x": 44.2,
+      "y": 15.83,
+      "partNo": "C 18742",
+      "desc": "ROD - control"
+    },
+    {
+      "ref": 19,
+      "x": 42.52,
+      "y": 14.19,
+      "partNo": "129-122",
+      "desc": "NUT - 5/16 NF hex"
+    },
+    {
+      "ref": 20,
+      "x": 35.54,
+      "y": 31.11,
+      "partNo": "C 19025",
+      "desc": "BALL JOINT"
+    },
+    {
+      "ref": 21,
+      "x": 91.11,
+      "y": 70.25,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 1\" NC hex (qty 2)"
+    },
+    {
+      "ref": 22,
+      "x": 93.03,
+      "y": 53.92,
+      "partNo": "131-178",
+      "desc": "LOCKNUT - 3/8\" NC hex (qty 2)"
+    },
+    {
+      "ref": 23,
+      "x": 90.87,
+      "y": 56.5,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" x 1-1/8\" OD (qty 2)"
+    },
+    {
+      "ref": 24,
+      "x": 75.47,
+      "y": 70.25,
+      "partNo": "NSS",
+      "desc": "BRACKET - cylinder (use C26185 and C26188)"
+    },
+    {
+      "ref": 25,
+      "x": 70.9,
+      "y": 66.73,
+      "partNo": "C 26188",
+      "desc": "PIN - cylinder foot"
+    },
+    {
+      "ref": 26,
+      "x": 13.77,
+      "y": 8.78,
+      "partNo": "NSS",
+      "desc": "VALVE - hydraulic, 2 spool (use C25967)"
+    },
+    {
+      "ref": 27,
+      "x": 7.04,
+      "y": 28.65,
+      "partNo": "218-5056",
+      "desc": "FITTING - valve (includes 218-5004 \"O\" ring) (qty 2)"
+    },
+    {
+      "ref": 27,
+      "x": 21.83,
+      "y": 31.11,
+      "partNo": "218-5056",
+      "desc": "FITTING - valve (includes 218-5004 \"O\" ring) (qty 2)"
+    },
+    {
+      "ref": 28,
+      "x": 32.78,
+      "y": 37.7,
+      "partNo": "C 17224",
+      "desc": "HOSE - short"
+    },
+    {
+      "ref": 29,
+      "x": 28.69,
+      "y": 51.57,
+      "partNo": "C 17734",
+      "desc": "HOSE - long"
+    },
+    {
+      "ref": 30,
+      "x": 47.33,
+      "y": 76.72,
+      "partNo": "NSS",
+      "desc": "CYLINDER - lift (use C19475 and D63720)"
+    },
+    {
+      "ref": 30,
+      "x": 80.77,
+      "y": 51.09,
+      "partNo": "NSS",
+      "desc": "CYLINDER - lift (use C19475 and D63720)"
+    },
+    {
+      "ref": 31,
+      "x": 19.67,
+      "y": 87.88,
+      "partNo": "C 16133",
+      "desc": "BODY - cylinder"
+    },
+    {
+      "ref": 32,
+      "x": 24.96,
+      "y": 89.65,
+      "partNo": "C 19104",
+      "desc": "ROD AND PISTON ASSEMBLY"
+    },
+    {
+      "ref": 33,
+      "x": 48.41,
+      "y": 86.59,
+      "partNo": "C 17732",
+      "desc": "FOOT - cylinder"
+    },
+    {
+      "ref": 34,
+      "x": 11.25,
+      "y": 83.06,
+      "partNo": "C 14970",
+      "desc": "SEAL"
+    },
+    {
+      "ref": 35,
+      "x": 14.85,
+      "y": 84.71,
+      "partNo": "A 7623",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": 36,
+      "x": 33.62,
+      "y": 93.41,
+      "partNo": "A 30971",
+      "desc": "\"O\" RING (qty 2)"
+    }
+  ],
+  "footnotes": "(also listed, not on diagram) C 13106 \u2014 COVER - lube fitting (qty 1)"
+}

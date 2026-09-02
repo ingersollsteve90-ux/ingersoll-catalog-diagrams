@@ -1,0 +1,198 @@
+{
+  "sectionTitle": "Baffles and Shrouds",
+  "breadcrumb": "Baffles and Shrouds",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/baffles_shrouds.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 33.98,
+      "y": 8.05,
+      "partNo": "C18989",
+      "desc": "DEFLECTOR - engine air"
+    },
+    {
+      "ref": 2,
+      "x": 64.19,
+      "y": 16.5,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated (qty 2)"
+    },
+    {
+      "ref": 3,
+      "x": 67.68,
+      "y": 12.84,
+      "partNo": "113-6",
+      "desc": "BOLT - 1/4\" x 1/2\" NC hex, zinc plated (qty 2)"
+    },
+    {
+      "ref": 4,
+      "x": 67.8,
+      "y": 42.23,
+      "variants": [
+        {
+          "serialNote": "10 hp engine",
+          "partNo": "KO237520",
+          "desc": "BAFFLE - cylinder head (10 hp engine)"
+        },
+        {
+          "serialNote": "12 - 14 hp engine",
+          "partNo": "KO237677",
+          "desc": "BAFFLE - cylinder head (12 - 14 hp engine)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 41.57,
+      "y": 26.21,
+      "variants": [
+        {
+          "serialNote": "10 hp engine",
+          "partNo": "KO237520",
+          "desc": "BAFFLE - cylinder head (10 hp engine)"
+        },
+        {
+          "serialNote": "12 - 14 hp engine",
+          "partNo": "KO237677",
+          "desc": "BAFFLE - cylinder head (12 - 14 hp engine)"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 44.3,
+      "y": 59.51,
+      "partNo": "KO235652",
+      "desc": "BAFFLE - carburetor side air"
+    },
+    {
+      "ref": 6,
+      "x": 69.29,
+      "y": 93.32,
+      "partNo": "KO235207",
+      "desc": "PULLEY - starter"
+    },
+    {
+      "ref": 7,
+      "x": 91.92,
+      "y": 31.13,
+      "partNo": "C14345",
+      "desc": "BELT - drive, starter - generator"
+    },
+    {
+      "ref": 8,
+      "x": 76.5,
+      "y": 63.17,
+      "partNo": "195-515",
+      "desc": "WASHER - 1/4\" zinc plated (qty 4)"
+    },
+    {
+      "ref": 9,
+      "x": 79.49,
+      "y": 65.19,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated (qty 4)"
+    },
+    {
+      "ref": 10,
+      "x": 82.84,
+      "y": 67.46,
+      "partNo": "175-436",
+      "desc": "SCREW - 1/4\" x 5/8\" NC truss head Phillips, zinc plated (qty 4)"
+    },
+    {
+      "ref": 11,
+      "x": 45.42,
+      "y": 79.44,
+      "partNo": "KO235901",
+      "desc": "HOUSING - blower"
+    },
+    {
+      "ref": 12,
+      "x": 36.97,
+      "y": 81.59,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated (qty 4)"
+    },
+    {
+      "ref": 12,
+      "x": 64.32,
+      "y": 85.12,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated (qty 4)"
+    },
+    {
+      "ref": 12,
+      "x": 75.38,
+      "y": 20.16,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated (qty 4)"
+    },
+    {
+      "ref": 13,
+      "x": 70.78,
+      "y": 22.43,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated (qty 4)"
+    },
+    {
+      "ref": 13,
+      "x": 61.46,
+      "y": 82.22,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated (qty 4)"
+    },
+    {
+      "ref": 13,
+      "x": 41.07,
+      "y": 76.16,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated (qty 4)"
+    },
+    {
+      "ref": 14,
+      "x": 59.47,
+      "y": 12.34,
+      "partNo": "KO235054",
+      "desc": "BAFFLE - cylinder"
+    },
+    {
+      "ref": 15,
+      "x": 24.91,
+      "y": 24.45,
+      "partNo": "C19021",
+      "desc": "SUPPORT - engine air deflector"
+    },
+    {
+      "ref": 16,
+      "x": 30.13,
+      "y": 25.71,
+      "partNo": "113-118",
+      "desc": "BOLT - 5/16\" x 5/8\" NC hex"
+    },
+    {
+      "ref": 17,
+      "x": 20.93,
+      "y": 21.17,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 18,
+      "x": 12.1,
+      "y": 39.84,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\" plain"
+    },
+    {
+      "ref": 19,
+      "x": 7.01,
+      "y": 34.92,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex"
+    }
+  ],
+  "footnotes": ""
+}

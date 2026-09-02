@@ -1,0 +1,176 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor",
+  "breadcrumb": "Hydraulic Drive Motor",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/hydraulic_drive_motor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 7.05,
+      "y": 68.18,
+      "partNo": "C 16516",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 2,
+      "x": 10.03,
+      "y": 64.23,
+      "partNo": "C 19040",
+      "desc": "SPACER"
+    },
+    {
+      "ref": 3,
+      "x": 15.52,
+      "y": 58.97,
+      "partNo": "C 25048",
+      "desc": "SEAL - oil"
+    },
+    {
+      "ref": 4,
+      "x": 27.46,
+      "y": 46.53,
+      "partNo": "C 14827",
+      "desc": "HOUSING ASSEMBLY - 220, 222, 224 and 444"
+    },
+    {
+      "ref": 5,
+      "x": 89.62,
+      "y": 55.86,
+      "partNo": "C 14837",
+      "desc": "END CAP"
+    },
+    {
+      "ref": 6,
+      "x": 84.49,
+      "y": 60.88,
+      "partNo": "C 18382",
+      "desc": "SEAL (qty 2)"
+    },
+    {
+      "ref": 6,
+      "x": 37.72,
+      "y": 36.37,
+      "partNo": "C 18382",
+      "desc": "SEAL (qty 2)"
+    },
+    {
+      "ref": 7,
+      "x": 45.35,
+      "y": 31.94,
+      "partNo": "C 14828",
+      "desc": "SHAFT - coupling"
+    },
+    {
+      "ref": 8,
+      "x": 54.3,
+      "y": 23.57,
+      "variants": [
+        {
+          "serialNote": "220, 222 and 224",
+          "partNo": "D 72853",
+          "desc": "DRIVE LINK - 220, 222 and 224"
+        },
+        {
+          "serialNote": "444",
+          "partNo": "C 14829",
+          "desc": "DRIVE LINK - 444"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 60.39,
+      "y": 15.56,
+      "partNo": "C 14830",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": 10,
+      "x": 72.92,
+      "y": 8.02,
+      "variants": [
+        {
+          "serialNote": "220, 222 and 224",
+          "partNo": "C 18110",
+          "desc": "ROTOR ASSEMBLY - 220, 222 and 224"
+        },
+        {
+          "serialNote": "444",
+          "partNo": "C 14831",
+          "desc": "ROTOR ASSEMBLY - 444"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 53.35,
+      "y": 92.1,
+      "partNo": "D 71234",
+      "desc": "PLATE - manifold"
+    },
+    {
+      "ref": 12,
+      "x": 57.28,
+      "y": 83.97,
+      "partNo": "NSS",
+      "desc": "MANIFOLD - (use D59700 and D71234)"
+    },
+    {
+      "ref": 13,
+      "x": 63.97,
+      "y": 77.03,
+      "partNo": "C 14834",
+      "desc": "COMMUTATOR AND RING SET"
+    },
+    {
+      "ref": 14,
+      "x": 69.81,
+      "y": 72.6,
+      "partNo": "C 19041",
+      "desc": "RING - sealing"
+    },
+    {
+      "ref": 15,
+      "x": 76.61,
+      "y": 67.94,
+      "variants": [
+        {
+          "serialNote": "220, 222 and 224",
+          "partNo": "C 18092",
+          "desc": "SLEEVE - 220, 222 and 224"
+        },
+        {
+          "serialNote": "444",
+          "partNo": "C 14836",
+          "desc": "SLEEVE - 444"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 93.8,
+      "y": 42.82,
+      "variants": [
+        {
+          "serialNote": "220, 222 and 224",
+          "partNo": "28-662",
+          "desc": "BOLT - 3/8\" x 3-7/8\" NF hex, 220, 222 and 224 (qty 7)"
+        },
+        {
+          "serialNote": "444",
+          "partNo": "C 14838",
+          "desc": "BOLT - 3/8\" x 4-3/8\" NF hex, 444 (qty 7)"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 12.54,
+      "y": 60.88,
+      "partNo": "C 19212",
+      "desc": "WASHER - back up, .010\""
+    }
+  ],
+  "footnotes": "(also listed, not on diagram) C 16697 \u2014 MOTOR - hydraulic, 220, 222 and 224 (qty 1)\n(also listed, not on diagram) C 14655 \u2014 MOTOR - hydraulic, 444 (qty 1)"
+}

@@ -1,0 +1,244 @@
+{
+  "sectionTitle": "Clutch Assembly (PTO)",
+  "breadcrumb": "Clutch Assembly (PTO)",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/clutch_assembly_pto.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 49.49,
+      "y": 39.14,
+      "partNo": "C 26353",
+      "desc": "PULLEY AND DISC ASSEMBLY - clutch"
+    },
+    {
+      "ref": 2,
+      "x": 8.35,
+      "y": 66.92,
+      "partNo": "NSS*",
+      "desc": "HUB - clutch"
+    },
+    {
+      "ref": 3,
+      "x": 51.96,
+      "y": 63.82,
+      "partNo": "C 15718",
+      "desc": "PLATE - clutch"
+    },
+    {
+      "ref": 4,
+      "x": 44.28,
+      "y": 85.18,
+      "partNo": "164-40",
+      "desc": "BOLT - 5/16\" x 3/4\" NC flat head socket (qty 2)"
+    },
+    {
+      "ref": 5,
+      "x": 39.85,
+      "y": 83.86,
+      "partNo": "193-76",
+      "desc": "LOCKWASHER - 5/16\" countersunk external tooth (qty 2)"
+    },
+    {
+      "ref": 6,
+      "x": 7.44,
+      "y": 93.48,
+      "partNo": "C 23740",
+      "desc": "Kit - friction disc"
+    },
+    {
+      "ref": 7,
+      "x": 28.4,
+      "y": 35.16,
+      "partNo": "C 15515",
+      "desc": "WASHER - spring (qty 6)"
+    },
+    {
+      "ref": 7,
+      "x": 34.78,
+      "y": 36.71,
+      "partNo": "C 15515",
+      "desc": "WASHER - spring (qty 6)"
+    },
+    {
+      "ref": 7,
+      "x": 61.73,
+      "y": 71.57,
+      "partNo": "C 15515",
+      "desc": "WASHER - spring (qty 6)"
+    },
+    {
+      "ref": 7,
+      "x": 76.57,
+      "y": 76.66,
+      "partNo": "C 15515",
+      "desc": "WASHER - spring (qty 6)"
+    },
+    {
+      "ref": 8,
+      "x": 70.84,
+      "y": 74.89,
+      "partNo": "C 15557",
+      "desc": "WASHER - spacer .050\" (qty UAR)"
+    },
+    {
+      "ref": 8,
+      "x": 83.08,
+      "y": 78.76,
+      "partNo": "C 15557",
+      "desc": "WASHER - spacer .050\" (qty UAR)"
+    },
+    {
+      "ref": 8,
+      "x": 71.75,
+      "y": 50.21,
+      "partNo": "C 15557",
+      "desc": "WASHER - spacer .050\" (qty UAR)"
+    },
+    {
+      "ref": 8,
+      "x": 40.64,
+      "y": 39.03,
+      "partNo": "C 15557",
+      "desc": "WASHER - spacer .050\" (qty UAR)"
+    },
+    {
+      "ref": 8,
+      "x": 62.12,
+      "y": 18.11,
+      "partNo": "C 15557",
+      "desc": "WASHER - spacer .050\" (qty UAR)"
+    },
+    {
+      "ref": 9,
+      "x": 10.69,
+      "y": 93.37,
+      "partNo": "NSS",
+      "desc": "PULLEY - clutch (order item 1)"
+    },
+    {
+      "ref": 10,
+      "x": 63.81,
+      "y": 46.56,
+      "partNo": "C 23245",
+      "desc": "BEARING - cam and pulley (qty 3)"
+    },
+    {
+      "ref": 10,
+      "x": 83.86,
+      "y": 53.64,
+      "partNo": "C 23245",
+      "desc": "BEARING - cam and pulley (qty 3)"
+    },
+    {
+      "ref": 10,
+      "x": 44.67,
+      "y": 25.2,
+      "partNo": "C 23245",
+      "desc": "BEARING - cam and pulley (qty 3)"
+    },
+    {
+      "ref": 11,
+      "x": 76.83,
+      "y": 52.2,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "C 21596",
+          "desc": "WASHER - spacer .005\" (qty UAR)"
+        },
+        {
+          "serialNote": null,
+          "partNo": "C 15556",
+          "desc": "WASHER - spacer .010\" (qty UAR)"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 91.41,
+      "y": 56.19,
+      "partNo": "NSS",
+      "desc": "CAM - clutch (service with (2) C23033 cams and (1) C23391 arm) (qty 2)"
+    },
+    {
+      "ref": 12,
+      "x": 49.49,
+      "y": 9.81,
+      "partNo": "NSS",
+      "desc": "CAM - clutch (service with (2) C23033 cams and (1) C23391 arm) (qty 2)"
+    },
+    {
+      "ref": 13,
+      "x": 63.94,
+      "y": 31.73,
+      "partNo": "C 16786",
+      "desc": "SPRING - clutch load (qty 2)"
+    },
+    {
+      "ref": 14,
+      "x": 40.64,
+      "y": 9.04,
+      "partNo": "F 59014",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 15,
+      "x": 76.57,
+      "y": 34.6,
+      "partNo": "C 18908",
+      "desc": "SPACER - hub"
+    },
+    {
+      "ref": 16,
+      "x": 92.71,
+      "y": 10.7,
+      "partNo": "O 2815N",
+      "desc": "WASHER - fan 17/32\""
+    },
+    {
+      "ref": 17,
+      "x": 96.49,
+      "y": 13.02,
+      "partNo": "C 18940",
+      "desc": "BOLT - 1/2\" x 1-3/4\" NC hex L.H. threads"
+    },
+    {
+      "ref": 18,
+      "x": 36.21,
+      "y": 7.6,
+      "partNo": "C 23391",
+      "desc": "ARM - engaging"
+    },
+    {
+      "ref": 19,
+      "x": 91.8,
+      "y": 6.6,
+      "partNo": "C 16616",
+      "desc": "FAN - cooling"
+    },
+    {
+      "ref": 20,
+      "x": 28.4,
+      "y": 57.85,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 1\" NC hex ZP (qty 4)"
+    },
+    {
+      "ref": 21,
+      "x": 25.01,
+      "y": 55.97,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" (qty 4)"
+    },
+    {
+      "ref": 22,
+      "x": 22.41,
+      "y": 76.0,
+      "partNo": "C 15721",
+      "desc": "SCREEN - grass"
+    }
+  ],
+  "footnotes": "Unnumbered header row above ref 1: NSS - CLUTCH AND FAN ASSEMBLY - less screen (use C27150) ... 1. * use C23624, C23625, C23627, C23630, C23677, C24743, (2) C26346, O 2815N, 129-125"
+}

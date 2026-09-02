@@ -1,0 +1,80 @@
+{
+  "sectionTitle": "Exhaust System",
+  "breadcrumb": "Exhaust System",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/exhaust_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 42.75,
+      "y": 37.97,
+      "partNo": "C 19053",
+      "desc": "MUFFLER - exhaust, (includes C19449 clamp)"
+    },
+    {
+      "ref": 2,
+      "x": 77.62,
+      "y": 37.41,
+      "partNo": "C 19213",
+      "desc": "PIPE - engine exhaust"
+    },
+    {
+      "ref": 3,
+      "x": 11.4,
+      "y": 77.83,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 1\" hex NC"
+    },
+    {
+      "ref": 4,
+      "x": 20.49,
+      "y": 85.87,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\" plain"
+    },
+    {
+      "ref": 5,
+      "x": 35.72,
+      "y": 92.23,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 6,
+      "x": 80.55,
+      "y": 92.12,
+      "partNo": "129-103",
+      "desc": "NUT 3/8\" hex. NC"
+    },
+    {
+      "ref": 7,
+      "x": 69.12,
+      "y": 12.73,
+      "partNo": "111-256",
+      "desc": "BOLT - 5/16\" x 1-1/4\" round head NC"
+    },
+    {
+      "ref": 8,
+      "x": 56.23,
+      "y": 8.82,
+      "partNo": "C 19449",
+      "desc": "CLAMP - muffler"
+    },
+    {
+      "ref": 9,
+      "x": 45.39,
+      "y": 8.26,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER 5/16\""
+    },
+    {
+      "ref": 10,
+      "x": 35.72,
+      "y": 7.03,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex"
+    }
+  ],
+  "footnotes": ""
+}

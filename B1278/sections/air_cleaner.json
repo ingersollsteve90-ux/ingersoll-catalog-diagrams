@@ -1,0 +1,80 @@
+{
+  "sectionTitle": "Air Cleaner",
+  "breadcrumb": "Air Cleaner",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/air_cleaner.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 39.43,
+      "y": 20.18,
+      "partNo": "KO 237895",
+      "desc": "AIR CLEANER ASSEMBLY (includes items 4, 6 & 10)"
+    },
+    {
+      "ref": 2,
+      "x": 6.99,
+      "y": 71.9,
+      "partNo": "C 26703",
+      "desc": "NUT - wing NC 1/4\""
+    },
+    {
+      "ref": 3,
+      "x": 77.64,
+      "y": 13.41,
+      "partNo": "KO 275341",
+      "desc": "GASKET - air horn"
+    },
+    {
+      "ref": 4,
+      "x": 17.38,
+      "y": 56.12,
+      "partNo": "NSS",
+      "desc": "COVER - air cleaner (Order KO237895)"
+    },
+    {
+      "ref": 5,
+      "x": 49.69,
+      "y": 29.5,
+      "partNo": "A 70090",
+      "desc": "ELEMENT - air cleaner"
+    },
+    {
+      "ref": 6,
+      "x": 64.86,
+      "y": 14.92,
+      "partNo": "NSS",
+      "desc": "BASE - air cleaner (Order KO237895)"
+    },
+    {
+      "ref": 7,
+      "x": 56.71,
+      "y": 27.85,
+      "partNo": "177-94",
+      "desc": "SCREW - fillister head 10-32 x 5/16\" (qty 3)"
+    },
+    {
+      "ref": 8,
+      "x": 60.5,
+      "y": 23.49,
+      "partNo": "195-512",
+      "desc": "WASHER - plain 3/16\" (qty 3)"
+    },
+    {
+      "ref": 9,
+      "x": 35.22,
+      "y": 42.13,
+      "partNo": "KO 237421",
+      "desc": "PRE-CLEANER"
+    },
+    {
+      "ref": 10,
+      "x": 87.19,
+      "y": 84.68,
+      "partNo": "KO 237423",
+      "desc": "GASKET - cover, air cleaner"
+    }
+  ],
+  "footnotes": ""
+}

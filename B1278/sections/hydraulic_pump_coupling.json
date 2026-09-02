@@ -1,0 +1,324 @@
+{
+  "sectionTitle": "Hydraulic Pump and Coupling",
+  "breadcrumb": "Hydraulic Pump and Coupling",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/hydraulic_pump_coupling.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 15.5,
+      "y": 66.9,
+      "variants": [
+        {
+          "serialNote": "220, used S/N 9674324 to 9674589",
+          "partNo": "NSS",
+          "desc": "PUMP - hyd. 1/2\" shaft, 220 (used S/N 9674324 to 9674589) Order C25053 pump & C25207 coupling"
+        },
+        {
+          "serialNote": "222, used S/N 9681180 to 9681266",
+          "partNo": "NSS",
+          "desc": "PUMP - hyd. 1/2\" shaft, 222 (used S/N 9681180 to 9681266) Order C25053 pump & C25207 coupling"
+        },
+        {
+          "serialNote": "224, used S/N 9676393 to 9676545",
+          "partNo": "NSS",
+          "desc": "PUMP - hyd. 1/2\" shaft, 224 (used S/N 9676393 to 9676545) Order C25053 pump & C25208 coupling"
+        },
+        {
+          "serialNote": "444, used S/N 9677489 to 9677752",
+          "partNo": "NSS",
+          "desc": "PUMP - hyd. 1/2\" shaft, 444 (used S/N 9677489 to 9677752) Order C25053 pump & C25208 coupling"
+        },
+        {
+          "serialNote": "220, used S/N 9674589 and after",
+          "partNo": "C 25053",
+          "desc": "PUMP - hyd. 9/16\" shaft, 220 (used S/N 9674589 and after)"
+        },
+        {
+          "serialNote": "222, used S/N 9681266 and after",
+          "partNo": "C 25053",
+          "desc": "PUMP - hyd. 9/16\" shaft, 222 (used S/N 9681266 and after)"
+        },
+        {
+          "serialNote": "224, used S/N 9676545 and after",
+          "partNo": "C 25053",
+          "desc": "PUMP - hyd. 9/16\" shaft, 224 (used S/N 9676545 and after)"
+        },
+        {
+          "serialNote": "444, used S/N 9677752 and after",
+          "partNo": "C 25053",
+          "desc": "PUMP - hyd. 9/16\" shaft, 444 (used S/N 9677752 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 65.31,
+      "y": 55.27,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft pump",
+          "partNo": "C 20761",
+          "desc": "BODY - pump 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft pump",
+          "partNo": "C 20456",
+          "desc": "BODY - pump 9/16\" shaft"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 23.12,
+      "y": 19.36,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft pump",
+          "partNo": "NSS*",
+          "desc": "COVER ASSEMBLY - pump 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft pump",
+          "partNo": "C 20457",
+          "desc": "COVER ASSEMBLY - pump 9/16\" shaft"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 37.32,
+      "y": 32.76,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft pump",
+          "partNo": "C 20764",
+          "desc": "GEAR - pump, drive 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft pump",
+          "partNo": "C 20460",
+          "desc": "GEAR - pump, drive 9/16\" shaft"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 26.28,
+      "y": 65.38,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft pump",
+          "partNo": "C 20765",
+          "desc": "GEAR - pump, driven 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft pump",
+          "partNo": "C 20461",
+          "desc": "GEAR - pump, driven 9/16\" shaft"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 48.62,
+      "y": 43.63,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft",
+          "partNo": "D 58185",
+          "desc": "PLATE - wear, 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft",
+          "partNo": "C 20462",
+          "desc": "PLATE - wear, 9/16\" shaft"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 52.95,
+      "y": 50.21,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft",
+          "partNo": "D 58186",
+          "desc": "SEAL - wear plate 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft",
+          "partNo": "NSS",
+          "desc": "SEAL AND RETAINER - 9/16\" shaft (use C24070 and C24071)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 53.35,
+      "y": 45.66,
+      "partNo": "D 58187",
+      "desc": "SEAL - pressure loading (1/2\" shaft pump only)"
+    },
+    {
+      "ref": 9,
+      "x": 31.53,
+      "y": 26.44,
+      "partNo": "D 58196",
+      "desc": "SEAL - \"O\" ring"
+    },
+    {
+      "ref": 10,
+      "x": 16.68,
+      "y": 54.25,
+      "partNo": "221- 849",
+      "desc": "PLUG - pipe"
+    },
+    {
+      "ref": 11,
+      "x": 21.41,
+      "y": 52.99,
+      "partNo": "D 58188",
+      "desc": "PIN - dowel (qty 2)"
+    },
+    {
+      "ref": 12,
+      "x": 73.33,
+      "y": 63.61,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft",
+          "partNo": "D 59650",
+          "desc": "SEAL - shaft, 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft",
+          "partNo": "C 20464",
+          "desc": "SEAL - shaft, 9/16\" shaft"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 14.45,
+      "y": 10.25,
+      "partNo": "113- 5",
+      "desc": "BOLT - 1/4 x 1-1/2\" nc hex, grade 5 (qty 4)"
+    },
+    {
+      "ref": 14,
+      "x": 18.39,
+      "y": 14.05,
+      "partNo": "D 58189",
+      "desc": "WASHER - 1/4\" (qty 4)"
+    },
+    {
+      "ref": 15,
+      "x": 43.49,
+      "y": 38.32,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft",
+          "partNo": "C 19207",
+          "desc": "KEY - square 1/8 x 3/4\", 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft",
+          "partNo": "C 20455",
+          "desc": "KEY1 square 3/16\" x 13/16\", 9/16\" shaft"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 76.22,
+      "y": 67.91,
+      "variants": [
+        {
+          "serialNote": "1/2\" shaft",
+          "partNo": "O 10323AB",
+          "desc": "RING - retaining, 1/2\" shaft"
+        },
+        {
+          "serialNote": "9/16\" shaft",
+          "partNo": "A 35690",
+          "desc": "RING - retaining, 9/16\" shaft"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 62.55,
+      "y": 41.86,
+      "variants": [
+        {
+          "serialNote": "220, 222, use with pump 1/2\" shaft",
+          "partNo": "C 15726",
+          "desc": "COUPLING - 220, 222 (use with pump 1/2\" shaft)"
+        },
+        {
+          "serialNote": "224, 444, use with pump 1/2\" shaft",
+          "partNo": "C 17298",
+          "desc": "COUPLING - 224, 444 (use with pump 1/2\" shaft)"
+        },
+        {
+          "serialNote": "220, 222, use with pump 9/16\" shaft",
+          "partNo": "C 25207",
+          "desc": "COUPLING - 220, 222 (use with pump 9/16\" shaft)"
+        },
+        {
+          "serialNote": "224, 444, use with pump 9/16\" shaft",
+          "partNo": "C 25208",
+          "desc": "COUPLING - 224, 444 (use with pump 9/16\" shaft)"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 63.73,
+      "y": 22.64,
+      "partNo": "NSS",
+      "desc": "HUB - coupling (order item 17)"
+    },
+    {
+      "ref": 19,
+      "x": 79.24,
+      "y": 39.59,
+      "partNo": "NSS",
+      "desc": "HUB - coupling (order item 17)"
+    },
+    {
+      "ref": 20,
+      "x": 88.04,
+      "y": 9.24,
+      "variants": [
+        {
+          "serialNote": "for C15726 and C25207 couplings",
+          "partNo": "A 70112",
+          "desc": "SPIDER - (for C15726 and C25207 couplings)"
+        },
+        {
+          "serialNote": "for C17298 and C25208 couplings",
+          "partNo": "C 15036",
+          "desc": "SPIDER - (for C17298 and C25208 couplings)"
+        }
+      ]
+    },
+    {
+      "ref": 21,
+      "x": 83.58,
+      "y": 6.71,
+      "partNo": "83- 55",
+      "desc": "SETSCREW - 5/16 x 5/16\" N.C. soc. hd. (qty 2)"
+    },
+    {
+      "ref": 21,
+      "x": 93.3,
+      "y": 11.26,
+      "partNo": "83- 55",
+      "desc": "SETSCREW - 5/16 x 5/16\" N.C. soc. hd. (qty 2)"
+    }
+  ],
+  "footnotes": "* For Models 220 and 222 use: C25053 pump and C25207 coupling\nFor Models 224 and 444 use: C25053 pump and C25208 coupling\n\n(also listed, not on diagram) C 20767 \u2014 KIT - seal, for 1/2\" shaft pump (includes items: 7, 8, 9, 12, 15 and 16) (qty 1)"
+}

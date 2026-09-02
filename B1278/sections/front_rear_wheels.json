@@ -1,0 +1,112 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 22.51,
+      "y": 49.26,
+      "variants": [
+        {
+          "serialNote": "220, 222, 224 (not used on 444)",
+          "partNo": "C 24435",
+          "desc": "WHEEL - rear, 5 bolt (qty 2)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 7.56,
+      "y": 65.11,
+      "variants": [
+        {
+          "serialNote": "220, 222, 224 (not used on 444)",
+          "partNo": "C 10314",
+          "desc": "BOLT - rear wheel (qty 10)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 81.56,
+      "y": 68.25,
+      "partNo": "C 24433",
+      "desc": "WHEEL - front (qty 2)"
+    },
+    {
+      "ref": 4,
+      "x": 88.13,
+      "y": 60.97,
+      "partNo": "219-403",
+      "desc": "FITTING - lube (qty 2)"
+    },
+    {
+      "ref": 5,
+      "x": 92.55,
+      "y": 53.68,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel (qty 2)"
+    },
+    {
+      "ref": 5,
+      "x": 77.29,
+      "y": 74.11,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel (qty 2)"
+    },
+    {
+      "ref": 7,
+      "x": 66.15,
+      "y": 83.96,
+      "partNo": "C 26021",
+      "desc": "CAP - plastic, front (qty 2)"
+    },
+    {
+      "ref": 8,
+      "x": 32.28,
+      "y": 66.11,
+      "variants": [
+        {
+          "serialNote": "220, 222, 224 (not used on 444)",
+          "partNo": "A 70185",
+          "desc": "CAP - hub, rear (optional) (qty 2)"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 67.68,
+      "y": 29.55,
+      "variants": [
+        {
+          "serialNote": "444 (not used on 220, 222, 224)",
+          "partNo": "C 24438",
+          "desc": "WHEEL - rear, 6 bolt (qty 2)"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 37.31,
+      "y": 71.25,
+      "variants": [
+        {
+          "serialNote": "444 (not used on 220, 222, 224)",
+          "partNo": "A 30064",
+          "desc": "BOLT - rear wheel (qty 12)"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 58.07,
+      "y": 91.53,
+      "partNo": "A 70062",
+      "desc": "CAP - hub front wheel (optional) (qty 2)"
+    }
+  ],
+  "footnotes": "Table has two REQ'D columns headed \"220 / 222 / 224\" and \"444\" (separate quantity per model group; blank = part not used on that model group). Last row (C 13106, COVER - lube fitting) is printed with no ref number/callout in the REF. column, though it has a qty of 2 in both model columns.\n\n(also listed, not on diagram) C 13106 \u2014 COVER - lube fitting (qty 2)"
+}

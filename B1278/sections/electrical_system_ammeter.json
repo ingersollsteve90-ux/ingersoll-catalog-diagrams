@@ -1,0 +1,209 @@
+{
+  "sectionTitle": "Electrical System (Ammeter)",
+  "breadcrumb": "Electrical System (Ammeter)",
+  "catalogLabel": "Catalog B1278",
+  "modelNumbers": "Catalog B1278 \u2014 Models 220, 222, 224 and 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1278/electrical_system_ammeter.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 39.94,
+      "y": 66.4,
+      "partNo": "C 21948",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 2,
+      "x": 44.05,
+      "y": 16.17,
+      "partNo": "C 17187",
+      "desc": "WIRE - ignition switch to solenoid (yellow 8\")"
+    },
+    {
+      "ref": 3,
+      "x": 30.96,
+      "y": 60.41,
+      "partNo": "C 14565",
+      "desc": "CABLE - battery \"+\" to solenoid (red 10-1/2\")"
+    },
+    {
+      "ref": 4,
+      "x": 60.85,
+      "y": 78.57,
+      "partNo": "C 14566",
+      "desc": "CABLE - battery to ground (black 12\")"
+    },
+    {
+      "ref": 5,
+      "x": 13.9,
+      "y": 40.71,
+      "partNo": "NSS*",
+      "desc": "SWITCH - neutral start"
+    },
+    {
+      "ref": 6,
+      "x": 61.88,
+      "y": 7.29,
+      "partNo": "C 14553",
+      "desc": "SOLENOID - start, 12 volt"
+    },
+    {
+      "ref": 7,
+      "x": 47.64,
+      "y": 29.5,
+      "partNo": "C 26929",
+      "desc": "REGULATOR - voltage, 12 volt"
+    },
+    {
+      "ref": 8,
+      "x": 92.79,
+      "y": 41.48,
+      "variants": [
+        {
+          "serialNote": "repairs page 57",
+          "partNo": "NSS",
+          "desc": "STARTER - generator, 12 V. (repairs page 57) Delco No. 1101875"
+        },
+        {
+          "serialNote": "repairs page 59 (remanufactured)",
+          "partNo": "A 70202**",
+          "desc": "STARTER - generator, 12 V. (repairs page 59) Delco No. 1101920"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 92.41,
+      "y": 61.18,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - head lamp"
+    },
+    {
+      "ref": 10,
+      "x": 21.98,
+      "y": 18.88,
+      "partNo": "C 18389",
+      "desc": "AMMETER"
+    },
+    {
+      "ref": 11,
+      "x": 89.46,
+      "y": 89.38,
+      "partNo": "C 22571",
+      "desc": "HEADLAMP ASSEMBLY - 12 Volt (repairs page 63) (qty 2)"
+    },
+    {
+      "ref": 12,
+      "x": 19.67,
+      "y": 83.4,
+      "partNo": "C 18197",
+      "desc": "BATTERY - 12 Volt"
+    },
+    {
+      "ref": 13,
+      "x": 80.09,
+      "y": 36.26,
+      "partNo": "KO 231281",
+      "desc": "COIL - ignition, 12 Volt"
+    },
+    {
+      "ref": 14,
+      "x": 64.83,
+      "y": 13.47,
+      "partNo": "KO 232535",
+      "desc": "COVER - breaker contacts"
+    },
+    {
+      "ref": 15,
+      "x": 58.8,
+      "y": 26.22,
+      "partNo": "C 17275",
+      "desc": "WIRE - regulator \"G\" terminal to solenoid (white 7\")"
+    },
+    {
+      "ref": 16,
+      "x": 71.11,
+      "y": 8.45,
+      "partNo": "C 24301",
+      "desc": "SPARK PLUG - (includes gasket)"
+    },
+    {
+      "ref": 17,
+      "x": 71.5,
+      "y": 15.01,
+      "partNo": "A 27251",
+      "desc": "GASKET - spark plug"
+    },
+    {
+      "ref": 18,
+      "x": 91.38,
+      "y": 9.22,
+      "partNo": "V 34433",
+      "desc": "CABLE - high tension"
+    },
+    {
+      "ref": 19,
+      "x": 92.92,
+      "y": 18.49,
+      "partNo": "KO 230722",
+      "desc": "CONDENSER"
+    },
+    {
+      "ref": 20,
+      "x": 7.36,
+      "y": 24.67,
+      "partNo": "C 18115",
+      "desc": "SWITCH - PTO safety (qty 2)"
+    },
+    {
+      "ref": 21,
+      "x": 26.99,
+      "y": 7.48,
+      "partNo": "C 19055",
+      "desc": "WIRE - solenoid to PTO safety switch (black 17\")"
+    },
+    {
+      "ref": 22,
+      "x": 46.36,
+      "y": 51.14,
+      "partNo": "223-20",
+      "desc": "FUSE - 20 amp"
+    },
+    {
+      "ref": 23,
+      "x": 11.08,
+      "y": 50.94,
+      "partNo": "C 23839",
+      "desc": "KIT - switch, ignition"
+    },
+    {
+      "ref": 24,
+      "x": 7.1,
+      "y": 46.31,
+      "partNo": "C 17763",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": 25,
+      "x": 33.53,
+      "y": 41.67,
+      "partNo": "C 21989",
+      "desc": "INSULATOR - safety start switch"
+    },
+    {
+      "ref": 26,
+      "x": 44.43,
+      "y": 38.19,
+      "partNo": "C 21950",
+      "desc": "WIRE - solenoid to ammeter \"+\""
+    },
+    {
+      "ref": 27,
+      "x": 13.9,
+      "y": 43.99,
+      "partNo": "C 21988",
+      "desc": "SWITCH - neutral start (used 444 S/N 9710421, 224 S/N 9708220, 222 S/N 9706113, 220 S/N 9702608 and after)"
+    }
+  ],
+  "footnotes": "* Use C21988 and C21989 before S/N\n220 - 9702608\n222 - 9706113\n224 - 9708220\n444 - 9710421\n\n** See page 59 for remanufactured Starter-Generator."
+}
