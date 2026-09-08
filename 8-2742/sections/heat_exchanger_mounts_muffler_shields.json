@@ -1,0 +1,69 @@
+{
+ "sectionTitle": "Heat Exchanger Mounts and Muffler Shields",
+ "breadcrumb": "Heat Exchanger Mounts and Muffler Shields",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/heat_exchanger_mounts_muffler_shields.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 56.13,
+   "y": 42.55,
+   "partNo": "C 27602",
+   "desc": "SUPPORT - heat exchanger"
+  },
+  {
+   "ref": 2,
+   "x": 34.58,
+   "y": 74.95,
+   "partNo": "113- 118",
+   "desc": "BOLT - 5/16\" x 5/8\""
+  },
+  {
+   "ref": 3,
+   "x": 85.3,
+   "y": 42.04,
+   "partNo": "C 26098",
+   "desc": "SHIELD - heat, muffler"
+  },
+  {
+   "ref": 4,
+   "x": 85.3,
+   "y": 73.76,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "113- 1",
+     "desc": "BOLT - 1/4\" x 1/2\" hex z.p."
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "187- 1036",
+     "desc": "BOLT - 1/4\"-20 x 1/2\" self - tap"
+    }
+   ]
+  },
+  {
+   "ref": 5,
+   "x": 14.94,
+   "y": 28.37,
+   "partNo": "C 22903",
+   "desc": "PAD - insulation"
+  },
+  {
+   "ref": 6,
+   "x": 14.64,
+   "y": 16.9,
+   "partNo": "C 22874",
+   "desc": "RETAINER - insulation"
+  },
+  {
+   "ref": 7,
+   "x": 66.98,
+   "y": 83.21,
+   "partNo": "192- 19",
+   "desc": "LOCK WASHER - 1/4\""
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,307 @@
+{
+ "sectionTitle": "Clutch Assembly (PTO)",
+ "breadcrumb": "Clutch Assembly (PTO)",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/clutch_assembly_pto.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 84.8,
+   "y": 7.53,
+   "partNo": "C 16616",
+   "desc": "FAN - cooling"
+  },
+  {
+   "ref": 2,
+   "x": 30.23,
+   "y": 58.18,
+   "partNo": "C 23677",
+   "desc": "HUB - clutch"
+  },
+  {
+   "ref": 3,
+   "x": 61.93,
+   "y": 66.08,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 29766",
+     "desc": "PLATE - clutch"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 15718",
+     "desc": "PLATE - clutch"
+    }
+   ]
+  },
+  {
+   "ref": 4,
+   "x": 51.09,
+   "y": 83.57,
+   "partNo": "164-40",
+   "desc": "SCREW - 5/16\" - 18 x 3/4\""
+  },
+  {
+   "ref": 5,
+   "x": 44.96,
+   "y": 82.35,
+   "partNo": "193-76",
+   "desc": "LOCK WASHER - 5/16\" countersunk external tooth"
+  },
+  {
+   "ref": 6,
+   "x": 64.53,
+   "y": 70.21,
+   "partNo": "C 15515",
+   "desc": "WASHER - spring"
+  },
+  {
+   "ref": 6,
+   "x": 79.02,
+   "y": 74.7,
+   "partNo": "C 15515",
+   "desc": "WASHER - spring"
+  },
+  {
+   "ref": 6,
+   "x": 21.28,
+   "y": 36.68,
+   "partNo": "C 15515",
+   "desc": "WASHER - spring"
+  },
+  {
+   "ref": 7,
+   "x": 58.4,
+   "y": 44.94,
+   "partNo": "C 31045",
+   "desc": "KIT - pulley and disc assembly (includes item 21)"
+  },
+  {
+   "ref": 8,
+   "x": 42.14,
+   "y": 41.54,
+   "partNo": "C 23740",
+   "desc": "KIT - friction disc"
+  },
+  {
+   "ref": 9,
+   "x": 63.23,
+   "y": 36.44,
+   "partNo": "C 29795",
+   "desc": "BEARING - ball"
+  },
+  {
+   "ref": 9,
+   "x": 63.94,
+   "y": 48.1,
+   "partNo": "C 29795",
+   "desc": "BEARING - ball"
+  },
+  {
+   "ref": 9,
+   "x": 82.68,
+   "y": 53.32,
+   "partNo": "C 29795",
+   "desc": "BEARING - ball"
+  },
+  {
+   "ref": 10,
+   "x": 28.23,
+   "y": 38.38,
+   "partNo": "C 15557",
+   "desc": "WASHER - spacer .050"
+  },
+  {
+   "ref": 10,
+   "x": 72.66,
+   "y": 72.15,
+   "partNo": "C 15557",
+   "desc": "WASHER - spacer .050"
+  },
+  {
+   "ref": 10,
+   "x": 86.09,
+   "y": 76.64,
+   "partNo": "C 15557",
+   "desc": "WASHER - spacer .050"
+  },
+  {
+   "ref": 11,
+   "x": 89.39,
+   "y": 55.27,
+   "partNo": "C 32169",
+   "desc": "CAM - clutch"
+  },
+  {
+   "ref": 12,
+   "x": 52.39,
+   "y": 13.36,
+   "partNo": "C 16786",
+   "desc": "SPRING - clutch load"
+  },
+  {
+   "ref": 13,
+   "x": 74.78,
+   "y": 8.62,
+   "partNo": "C 23630",
+   "desc": "SPACER - hub"
+  },
+  {
+   "ref": 14,
+   "x": 86.92,
+   "y": 31.09,
+   "partNo": "C 23625",
+   "desc": "NUT - adjust"
+  },
+  {
+   "ref": 15,
+   "x": 91.99,
+   "y": 13.85,
+   "partNo": "C 28677",
+   "desc": "WASHER - fan 17/32\""
+  },
+  {
+   "ref": 16,
+   "x": 13.14,
+   "y": 54.9,
+   "partNo": "C 24743",
+   "desc": "BOLT - 1/2\" - 20 x 5-1/2\" N.F."
+  },
+  {
+   "ref": 17,
+   "x": 89.98,
+   "y": 24.17,
+   "partNo": "129-125",
+   "desc": "NUT - 1/2\" - 20 N.F. lock"
+  },
+  {
+   "ref": 18,
+   "x": 84.33,
+   "y": 41.9,
+   "partNo": "C 23627",
+   "desc": "GUIDE - adjusting nut"
+  },
+  {
+   "ref": 19,
+   "x": 83.15,
+   "y": 29.27,
+   "partNo": "C 23624",
+   "desc": "WASHER - spacer"
+  },
+  {
+   "ref": 20,
+   "x": 34.83,
+   "y": 14.58,
+   "partNo": "C 26166",
+   "desc": "ARM - engaging"
+  },
+  {
+   "ref": 21,
+   "x": 34.83,
+   "y": 40.93,
+   "partNo": "C 29811",
+   "desc": "SPACER - washer .100\""
+  },
+  {
+   "ref": 21,
+   "x": 72.54,
+   "y": 51.38,
+   "partNo": "C 29811",
+   "desc": "SPACER - washer .100\""
+  },
+  {
+   "ref": 22,
+   "x": 52.15,
+   "y": 20.41,
+   "partNo": "C 31018",
+   "desc": "CLEVIS - PTO brake"
+  },
+  {
+   "ref": 23,
+   "x": 42.49,
+   "y": 19.68,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\""
+  },
+  {
+   "ref": 24,
+   "x": 45.08,
+   "y": 20.77,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock"
+  },
+  {
+   "ref": 25,
+   "x": 67.83,
+   "y": 23.93,
+   "partNo": "C 32168",
+   "desc": "CAM - clutch"
+  },
+  {
+   "ref": 26,
+   "x": 25.87,
+   "y": 86.48,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\""
+  },
+  {
+   "ref": 27,
+   "x": 21.75,
+   "y": 85.39,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\""
+  },
+  {
+   "ref": 28,
+   "x": 15.62,
+   "y": 2.43,
+   "partNo": "C 29772",
+   "desc": "WRENCH - clutch adjust"
+  },
+  {
+   "ref": 29,
+   "x": 62.17,
+   "y": 81.99,
+   "partNo": "164-541",
+   "desc": "SCREW - socket hd. 5/16\" - 18 x 3/4\""
+  },
+  {
+   "ref": 30,
+   "x": 49.44,
+   "y": 77.25,
+   "partNo": "193-95",
+   "desc": "LOCK WASHER - external tooth"
+  },
+  {
+   "ref": 31,
+   "x": 44.96,
+   "y": 62.8,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\" N.C."
+  },
+  {
+   "ref": 32,
+   "x": 40.13,
+   "y": 60.25,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\""
+  },
+  {
+   "ref": 33,
+   "x": 18.92,
+   "y": 68.02,
+   "partNo": "C 26758",
+   "desc": "SCREEN - grass"
+  },
+  {
+   "ref": 34,
+   "x": 31.53,
+   "y": 87.82,
+   "partNo": "113-2",
+   "desc": "BOLT - 1/4\" - 5/8\""
+  }
+ ],
+ "footnotes": "*Use before S/N: **Use S/N and after: 220 - 14091116 222 - 14092063 224 - 14093038 444 - 14094812"
+}

@@ -1,0 +1,281 @@
+{
+ "sectionTitle": "Hood, Frame and Grille (Use S/N and after)",
+ "breadcrumb": "Hood, Frame and Grille (Use S/N and after)",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/hood_frame_grille_after_sn.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 62.4,
+   "y": 66.14,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 30524",
+     "desc": "FRAME - main (220, 222, and 224) shown"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 30525",
+     "desc": "FRAME - main (444)"
+    }
+   ]
+  },
+  {
+   "ref": 2,
+   "x": 73.57,
+   "y": 19.48,
+   "partNo": "C 30115",
+   "desc": "HOOD AND GRILLE ASSEMBLY (includes item 26)"
+  },
+  {
+   "ref": 3,
+   "x": 41.45,
+   "y": 12.05,
+   "partNo": "C 23527",
+   "desc": "LINER - hood"
+  },
+  {
+   "ref": 4,
+   "x": 75.66,
+   "y": 70.36,
+   "partNo": "C 22023",
+   "desc": "HINGE - frame"
+  },
+  {
+   "ref": 5,
+   "x": 52.16,
+   "y": 77.29,
+   "partNo": "C 27508",
+   "desc": "PIN - attachment"
+  },
+  {
+   "ref": 6,
+   "x": 48.55,
+   "y": 79.46,
+   "partNo": "131-1318",
+   "desc": "NUT - lock 1/2\" N.F."
+  },
+  {
+   "ref": 7,
+   "x": 43.43,
+   "y": 31.27,
+   "partNo": "C 30134",
+   "desc": "CAP - instrument panel"
+  },
+  {
+   "ref": 8,
+   "x": 46.92,
+   "y": 42.3,
+   "partNo": "C18153",
+   "desc": "CHANNEL - instrument panel liner"
+  },
+  {
+   "ref": 9,
+   "x": 86.02,
+   "y": 66.78,
+   "partNo": "C 16362",
+   "desc": "ROD - hood hinge"
+  },
+  {
+   "ref": 10,
+   "x": 83.35,
+   "y": 79.21,
+   "partNo": "132-334",
+   "desc": "PIN - cotter 1/8\" x 3/4\""
+  },
+  {
+   "ref": 11,
+   "x": 46.8,
+   "y": 84.98,
+   "partNo": "C 16373",
+   "desc": "PIN - latch"
+  },
+  {
+   "ref": 12,
+   "x": 50.64,
+   "y": 83.95,
+   "partNo": "C 24137",
+   "desc": "SPRING - latch"
+  },
+  {
+   "ref": 13,
+   "x": 62.4,
+   "y": 87.15,
+   "partNo": "138-2073",
+   "desc": "PIN - roll 3/16\" x 1-1/4\""
+  },
+  {
+   "ref": 14,
+   "x": 31.91,
+   "y": 82.67,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 4 (see Notes below)",
+     "partNo": "C 30458",
+     "desc": "PAD - foot rest, L.H. (220, 222, 224)"
+    },
+    {
+     "serialNote": "Option 2 of 4 (see Notes below)",
+     "partNo": "C 30460",
+     "desc": "PAD - foot rest, R.H. (220, 222, 224) shown"
+    },
+    {
+     "serialNote": "Option 3 of 4 (see Notes below)",
+     "partNo": "C 30462",
+     "desc": "PAD - foot rest, L.H. (444)"
+    },
+    {
+     "serialNote": "Option 4 of 4 (see Notes below)",
+     "partNo": "C 30464",
+     "desc": "PAD - foot rest, R.H. (444)"
+    }
+   ]
+  },
+  {
+   "ref": 15,
+   "x": 13.75,
+   "y": 74.98,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" N.C. hex"
+  },
+  {
+   "ref": 16,
+   "x": 26.9,
+   "y": 22.94,
+   "partNo": "C 33467",
+   "desc": "LATCH - hood"
+  },
+  {
+   "ref": 17,
+   "x": 15.85,
+   "y": 61.01,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 14729",
+     "desc": "SPACER - frame, rear (444)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 14730",
+     "desc": "SPACER - frame, rear (220, 222 and 224)"
+    }
+   ]
+  },
+  {
+   "ref": 18,
+   "x": 18.53,
+   "y": 50.5,
+   "partNo": "192-23",
+   "desc": "LOCK WASHER - 1/2\""
+  },
+  {
+   "ref": 19,
+   "x": 19.34,
+   "y": 46.27,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" N.C. hex"
+  },
+  {
+   "ref": 20,
+   "x": 72.41,
+   "y": 49.47,
+   "partNo": "C 30143",
+   "desc": "SHIELD - heat"
+  },
+  {
+   "ref": 21,
+   "x": 65.77,
+   "y": 47.29,
+   "partNo": "C 30142",
+   "desc": "CLIP - battery hold down"
+  },
+  {
+   "ref": 22,
+   "x": 22.37,
+   "y": 41.01,
+   "partNo": "182-547",
+   "desc": "SCREW - 1/4\" 20 x 1/2\" pan hd."
+  },
+  {
+   "ref": 22,
+   "x": 45.06,
+   "y": 76.52,
+   "partNo": "182-547",
+   "desc": "SCREW - 1/4\" 20 x 1/2\" pan hd."
+  },
+  {
+   "ref": 22,
+   "x": 60.3,
+   "y": 46.27,
+   "partNo": "182-547",
+   "desc": "SCREW - 1/4\" 20 x 1/2\" pan hd."
+  },
+  {
+   "ref": 23,
+   "x": 60.65,
+   "y": 60.88,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\""
+  },
+  {
+   "ref": 23,
+   "x": 85.91,
+   "y": 58.32,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\""
+  },
+  {
+   "ref": 24,
+   "x": 60.65,
+   "y": 54.86,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20"
+  },
+  {
+   "ref": 24,
+   "x": 77.88,
+   "y": 63.06,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20"
+  },
+  {
+   "ref": 25,
+   "x": 31.91,
+   "y": 39.35,
+   "partNo": "C 26506",
+   "desc": "COVER - access"
+  },
+  {
+   "ref": 26,
+   "x": 88.35,
+   "y": 49.47,
+   "partNo": "C 16361",
+   "desc": "HINGE - hood"
+  },
+  {
+   "ref": 28,
+   "x": 17.71,
+   "y": 22.17,
+   "partNo": "C 29314",
+   "desc": "BUTTON - push, hood release"
+  },
+  {
+   "ref": 29,
+   "x": 15.03,
+   "y": 27.17,
+   "partNo": "C 30126",
+   "desc": "ROD - push, hood release"
+  },
+  {
+   "ref": 30,
+   "x": 11.66,
+   "y": 26.15,
+   "partNo": "C 30004",
+   "desc": "SPRING - release"
+  }
+ ],
+ "footnotes": "*Also requires C30530 before S/N: 220-14106917 222-14108020 224-14109118 444-14111235\n\nAlso listed in parts table, not shown on diagram: Ref 27 — 187-1036 — SCREW - 1/4\" - 20 x 1/2\" (qty 2)"
+}

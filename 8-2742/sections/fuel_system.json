@@ -1,0 +1,229 @@
+{
+ "sectionTitle": "Fuel System",
+ "breadcrumb": "Fuel System",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/fuel_system.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 78.51,
+   "y": 18.65,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "CARBURETOR - 224 & 444 (use C33214)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "CARBURETOR - 220 & 222 (use C33213)"
+    }
+   ]
+  },
+  {
+   "ref": 2,
+   "x": 85.93,
+   "y": 16.67,
+   "partNo": "C 23860",
+   "desc": "GASKET - carburetor flange"
+  },
+  {
+   "ref": 3,
+   "x": 53.64,
+   "y": 23.95,
+   "partNo": "C 10678",
+   "desc": "ELBOW - fuel pump and carburetor"
+  },
+  {
+   "ref": 3,
+   "x": 53.21,
+   "y": 54.42,
+   "partNo": "C 10678",
+   "desc": "ELBOW - fuel pump and carburetor"
+  },
+  {
+   "ref": 4,
+   "x": 53.42,
+   "y": 29.86,
+   "partNo": "214-103",
+   "desc": "CLAMP - hose 1/2\""
+  },
+  {
+   "ref": 4,
+   "x": 32.04,
+   "y": 64.88,
+   "partNo": "214-103",
+   "desc": "CLAMP - hose 1/2\""
+  },
+  {
+   "ref": 4,
+   "x": 53.31,
+   "y": 48.96,
+   "partNo": "214-103",
+   "desc": "CLAMP - hose 1/2\""
+  },
+  {
+   "ref": 4,
+   "x": 51.13,
+   "y": 80.49,
+   "partNo": "214-103",
+   "desc": "CLAMP - hose 1/2\""
+  },
+  {
+   "ref": 4,
+   "x": 67.93,
+   "y": 76.4,
+   "partNo": "214-103",
+   "desc": "CLAMP - hose 1/2\""
+  },
+  {
+   "ref": 5,
+   "x": 53.31,
+   "y": 38.05,
+   "partNo": "NSS",
+   "desc": "HOSE - carburetor 5-1/4\" (use C28937 cut to length)"
+  },
+  {
+   "ref": 6,
+   "x": 89.86,
+   "y": 53.96,
+   "partNo": "192-20",
+   "desc": "LOCK WASHER 5/16\""
+  },
+  {
+   "ref": 7,
+   "x": 88.66,
+   "y": 58.66,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex"
+  },
+  {
+   "ref": 8,
+   "x": 56.59,
+   "y": 58.66,
+   "partNo": "C 24851",
+   "desc": "PUMP - fuel, all models (includes gasket & washers)"
+  },
+  {
+   "ref": 9,
+   "x": 57.57,
+   "y": 69.58,
+   "partNo": "71-412",
+   "desc": "SCREW - 1/4\" x 3/4\" N.C. fillister head"
+  },
+  {
+   "ref": 10,
+   "x": 60.62,
+   "y": 67.15,
+   "partNo": "NSS",
+   "desc": "LOCKWASHER - 1/4\" (obtain locally)"
+  },
+  {
+   "ref": 11,
+   "x": 70.77,
+   "y": 53.05,
+   "partNo": "KO 275341",
+   "desc": "GASKET - air horn"
+  },
+  {
+   "ref": 12,
+   "x": 63.02,
+   "y": 11.82,
+   "partNo": "C 23527",
+   "desc": "LINER - fuel tank"
+  },
+  {
+   "ref": 13,
+   "x": 83.86,
+   "y": 60.79,
+   "partNo": "C 24887",
+   "desc": "GASKET - fuel pump mounting, all models"
+  },
+  {
+   "ref": 14,
+   "x": 28.34,
+   "y": 60.18,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 10657",
+     "desc": "ELBOW ASSEMBLY - fuel tank, filter"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 10678",
+     "desc": "ELBOW - hose 90° (shown)"
+    }
+   ]
+  },
+  {
+   "ref": 15,
+   "x": 41.53,
+   "y": 51.08,
+   "partNo": "C 28962",
+   "desc": "CLIP - fuel line"
+  },
+  {
+   "ref": 16,
+   "x": 41.97,
+   "y": 72.31,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel line 31-1/2\" (use C28937 cut to length)"
+  },
+  {
+   "ref": 17,
+   "x": 37.72,
+   "y": 8.19,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "TANK - fuel (use C28940, C31978 and (2) 214-103)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 28940",
+     "desc": "TANK - fuel"
+    }
+   ]
+  },
+  {
+   "ref": 18,
+   "x": 11.86,
+   "y": 5.31,
+   "partNo": "C 11529",
+   "desc": "CAP - fuel tank (includes insert)"
+  },
+  {
+   "ref": 19,
+   "x": 55.17,
+   "y": 84.74,
+   "partNo": "C 29296",
+   "desc": "FILTER - fuel"
+  },
+  {
+   "ref": 20,
+   "x": 10.88,
+   "y": 77.46,
+   "partNo": "C 14690",
+   "desc": "CUSHION - fuel tank"
+  },
+  {
+   "ref": 21,
+   "x": 78.73,
+   "y": 65.94,
+   "partNo": "217-292",
+   "desc": "ELBOW - hose 90°"
+  },
+  {
+   "ref": 22,
+   "x": 78.18,
+   "y": 80.04,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel line 7\" (use C28937 cut to length)"
+  }
+ ],
+ "footnotes": "*Use before S/N\n**Use S/N and after\n220 - 14068705\n222 - 14069642\n224 - 14070741\n444 - 14072850"
+}

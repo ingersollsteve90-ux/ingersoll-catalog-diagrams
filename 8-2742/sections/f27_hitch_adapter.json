@@ -1,0 +1,31 @@
+{
+ "sectionTitle": "Model F-27 Hitch Adapter",
+ "breadcrumb": "Model F-27 Hitch Adapter",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/f27_hitch_adapter.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 48.27,
+   "y": 42.16,
+   "partNo": "NSS",
+   "desc": "BRACKET - hitch adapter (order as machinery item)"
+  },
+  {
+   "ref": 2,
+   "x": 45.33,
+   "y": 26.99,
+   "partNo": "C 14568",
+   "desc": "PIN - drawbar"
+  },
+  {
+   "ref": 3,
+   "x": 39.31,
+   "y": 43.51,
+   "partNo": "113-476",
+   "desc": "BOLT - 1/2\" x 2-3/4\" N.C. hex, zinc plated"
+  }
+ ],
+ "footnotes": "Also listed in parts table, not shown on diagram: Ref 4 — 129-105 — NUT - 1/2\" - 13 (qty 2)"
+}

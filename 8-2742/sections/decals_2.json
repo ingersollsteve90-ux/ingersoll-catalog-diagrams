@@ -1,0 +1,196 @@
+{
+ "sectionTitle": "Decals (Use S/N range 2)",
+ "breadcrumb": "Decals (Use S/N range 2)",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/decals_2.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 30.08,
+   "y": 6.72,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 29740",
+     "desc": "DECAL - instrument"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27944",
+     "desc": "DECAL - instrument panel"
+    }
+   ]
+  },
+  {
+   "ref": 2,
+   "x": 15.7,
+   "y": 76.18,
+   "partNo": "C 26699",
+   "desc": "DECAL - fuel tank gauge"
+  },
+  {
+   "ref": 3,
+   "x": 86.4,
+   "y": 66.24,
+   "partNo": "321-4767",
+   "desc": "DECAL - hydraulic reservoir"
+  },
+  {
+   "ref": 4,
+   "x": 84.84,
+   "y": 86.52,
+   "partNo": "321-1788",
+   "desc": "DECAL - shift range"
+  },
+  {
+   "ref": 5,
+   "x": 24.08,
+   "y": 44.87,
+   "partNo": "C 27871",
+   "desc": "DECAL - brake"
+  },
+  {
+   "ref": 6,
+   "x": 11.98,
+   "y": 42.46,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27914",
+     "desc": "DECAL - hood \"220 hydriv\" L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27925",
+     "desc": "DECAL - hood \"220 hydriv\" R.H."
+    }
+   ]
+  },
+  {
+   "ref": 7,
+   "x": 36.31,
+   "y": 42.59,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27915",
+     "desc": "DECAL - hood \"222 hydriv\" L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27926",
+     "desc": "DECAL - hood \"222 hydriv\" R.H."
+    }
+   ]
+  },
+  {
+   "ref": 8,
+   "x": 61.83,
+   "y": 42.59,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27916",
+     "desc": "DECAL - hood \"224 hydriv\" L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27927",
+     "desc": "DECAL - hood \"224 hydriv\" R.H."
+    }
+   ]
+  },
+  {
+   "ref": 9,
+   "x": 85.08,
+   "y": 42.86,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27918",
+     "desc": "DECAL - hood \"444 hydriv\" L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27928",
+     "desc": "DECAL - hood \"444 hydriv\" R.H."
+    }
+   ]
+  },
+  {
+   "ref": 10,
+   "x": 18.93,
+   "y": 68.79,
+   "partNo": "NSS",
+   "desc": "MEDALLION - \"CASE\" (no longer available)"
+  },
+  {
+   "ref": 11,
+   "x": 48.41,
+   "y": 76.05,
+   "partNo": "321-6659",
+   "desc": "DECAL - \"Caution\""
+  },
+  {
+   "ref": 12,
+   "x": 55.12,
+   "y": 48.5,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27962",
+     "desc": "DECAL - \"Ingersoll\" stripe L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27964",
+     "desc": "DECAL - \"Ingersoll\" stripe R.H."
+    }
+   ]
+  },
+  {
+   "ref": 13,
+   "x": 87.95,
+   "y": 10.35,
+   "partNo": "C 27953",
+   "desc": "DECAL - seat back \"220 hydriv\""
+  },
+  {
+   "ref": 14,
+   "x": 88.07,
+   "y": 18.27,
+   "partNo": "C 27954",
+   "desc": "DECAL - seat back \"222 hydriv\""
+  },
+  {
+   "ref": 15,
+   "x": 87.83,
+   "y": 25.53,
+   "partNo": "C 27955",
+   "desc": "DECAL - seat back \"224 hydriv\""
+  },
+  {
+   "ref": 16,
+   "x": 86.88,
+   "y": 33.19,
+   "partNo": "C 27957",
+   "desc": "DECAL - seat back \"444 hydriv\""
+  },
+  {
+   "ref": 17,
+   "x": 49.01,
+   "y": 61.13,
+   "partNo": "C 29202",
+   "desc": "DECAL - \"INGERSOLL\" seat back"
+  },
+  {
+   "ref": 18,
+   "x": 80.64,
+   "y": 72.01,
+   "partNo": "TBD",
+   "desc": "PART NOT IN PRINTED TABLE — ref is numbered on the diagram but this catalog's printed parts table has no matching row (confirmed genuine gap, not a transcription miss)"
+  }
+ ],
+ "footnotes": "*Use before S/N: **Use S/N and after: 220 - 14068672 222 - 14069604 224 - 14070707 444 - 14072835"
+}

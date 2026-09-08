@@ -1,0 +1,97 @@
+{
+ "sectionTitle": "Front and Rear Wheels",
+ "breadcrumb": "Front and Rear Wheels",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/front_rear_wheels.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 24.15,
+   "y": 41.68,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 30913",
+     "desc": "WHEEL - rear, 5 bolt (220, 222, 224) for 23 x 8.50 - 12 tire"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 30922",
+     "desc": "WHEEL - rear, 5 bolt (220, 222, 224) for 23 x 10.50 - 12 tire"
+    }
+   ]
+  },
+  {
+   "ref": 2,
+   "x": 12.43,
+   "y": 54.68,
+   "partNo": "C 10314",
+   "desc": "BOLT - rear wheel (220, 222, 224)"
+  },
+  {
+   "ref": 3,
+   "x": 78.5,
+   "y": 56.63,
+   "partNo": "C 30912",
+   "desc": "WHEEL - front (white) (includes items 5)"
+  },
+  {
+   "ref": 4,
+   "x": 83.37,
+   "y": 50.78,
+   "partNo": "219-403",
+   "desc": "FITTING - lube"
+  },
+  {
+   "ref": 5,
+   "x": 74.27,
+   "y": 60.74,
+   "partNo": "C 12110",
+   "desc": "BEARING - wheel"
+  },
+  {
+   "ref": 5,
+   "x": 87.6,
+   "y": 46.66,
+   "partNo": "C 12110",
+   "desc": "BEARING - wheel"
+  },
+  {
+   "ref": 7,
+   "x": 64.79,
+   "y": 70.71,
+   "partNo": "C 26021",
+   "desc": "CAP - plastic, front"
+  },
+  {
+   "ref": 8,
+   "x": 34.62,
+   "y": 56.2,
+   "partNo": "C 28970",
+   "desc": "CAP - hub, rear (optional) (220, 222, 224)"
+  },
+  {
+   "ref": 9,
+   "x": 65.41,
+   "y": 24.14,
+   "partNo": "C 30917",
+   "desc": "WHEEL - rear, 6 bolt (444)"
+  },
+  {
+   "ref": 10,
+   "x": 39.48,
+   "y": 59.88,
+   "partNo": "C 27763",
+   "desc": "BOLT - rear wheel (444)"
+  },
+  {
+   "ref": 11,
+   "x": 57.81,
+   "y": 78.29,
+   "partNo": "C 28965",
+   "desc": "CAP - hub front wheel (optional)"
+  }
+ ],
+ "footnotes": "Also listed in parts table, not shown on diagram: C 13106 — COVER - lube fitting (qty 2)\nAlso listed in parts table, not shown on diagram: C 28236 — STEM - valve (qty 4)"
+}

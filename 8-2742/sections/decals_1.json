@@ -1,0 +1,127 @@
+{
+ "sectionTitle": "Decals (Use before S/N)",
+ "breadcrumb": "Decals (Use before S/N)",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/decals_1.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 52.04,
+   "y": 2.81,
+   "partNo": "C 26877",
+   "desc": "DECAL - instrument panel"
+  },
+  {
+   "ref": 2,
+   "x": 14.92,
+   "y": 47.08,
+   "partNo": "C 26699",
+   "desc": "DECAL - fuel tank gauge"
+  },
+  {
+   "ref": 3,
+   "x": 89.16,
+   "y": 37.48,
+   "partNo": "321- 4767",
+   "desc": "DECAL - hydraulic reservoir"
+  },
+  {
+   "ref": 4,
+   "x": 49.52,
+   "y": 46.69,
+   "partNo": "321- 6659",
+   "desc": "DECAL - \"caution\""
+  },
+  {
+   "ref": 5,
+   "x": 87.63,
+   "y": 56.93,
+   "partNo": "321- 1788",
+   "desc": "DECAL - shift range"
+  },
+  {
+   "ref": 6,
+   "x": 51.82,
+   "y": 34.03,
+   "partNo": "C 27481",
+   "desc": "DECAL - brake"
+  },
+  {
+   "ref": 7,
+   "x": 37.36,
+   "y": 67.67,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27173",
+     "desc": "DECAL - hood, L.H. (220)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27184",
+     "desc": "DECAL - hood, R.H. (220) shown"
+    }
+   ]
+  },
+  {
+   "ref": 8,
+   "x": 36.6,
+   "y": 74.33,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27174",
+     "desc": "DECAL - hood, L.H. (222)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27185",
+     "desc": "DECAL - hood, R.H. (222) shown"
+    }
+   ]
+  },
+  {
+   "ref": 9,
+   "x": 36.49,
+   "y": 80.47,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27175",
+     "desc": "DECAL - hood, L.H. (224)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27186",
+     "desc": "DECAL - hood, R.H. (224) shown"
+    }
+   ]
+  },
+  {
+   "ref": 10,
+   "x": 37.25,
+   "y": 87.25,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27177",
+     "desc": "DECAL - hood, L.H. (444)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27187",
+     "desc": "DECAL - hood, R.H. (444) shown"
+    }
+   ]
+  },
+  {
+   "ref": 11,
+   "x": 68.57,
+   "y": 42.22,
+   "partNo": "NSS",
+   "desc": "MEDALLION - \"CASE\" (no longer available)"
+  }
+ ],
+ "footnotes": ""
+}

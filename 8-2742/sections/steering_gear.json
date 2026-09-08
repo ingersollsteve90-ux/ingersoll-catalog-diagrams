@@ -1,0 +1,211 @@
+{
+ "sectionTitle": "Steering Gear",
+ "breadcrumb": "Steering Gear",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/steering_gear.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 11.4,
+   "y": 47.64,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C. hex"
+  },
+  {
+   "ref": 2,
+   "x": 78.28,
+   "y": 5.72,
+   "partNo": "C26325",
+   "desc": "WHEEL - steering"
+  },
+  {
+   "ref": 3,
+   "x": 26.55,
+   "y": 54.23,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "PIN - pivot (use C29044)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C29044",
+     "desc": "PIN - pivot"
+    }
+   ]
+  },
+  {
+   "ref": 4,
+   "x": 43.08,
+   "y": 33.71,
+   "partNo": "C26326",
+   "desc": "SHAFT - steering"
+  },
+  {
+   "ref": 4,
+   "x": 60.28,
+   "y": 72.14,
+   "partNo": "C26326",
+   "desc": "SHAFT - steering"
+  },
+  {
+   "ref": 5,
+   "x": 14.82,
+   "y": 30.35,
+   "partNo": "C29812",
+   "desc": "WASHER - 3/8\" x 1.4\""
+  },
+  {
+   "ref": 5,
+   "x": 26.9,
+   "y": 81.72,
+   "partNo": "C29812",
+   "desc": "WASHER - 3/8\" x 1.4\""
+  },
+  {
+   "ref": 6,
+   "x": 16.41,
+   "y": 25.5,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "113-241",
+     "desc": "BOLT - 3/8\" - 16 x 3\" hex"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "113-248",
+     "desc": "BOLT - 3/8\" - 16 x 2-3/4\""
+    }
+   ]
+  },
+  {
+   "ref": 7,
+   "x": 25.3,
+   "y": 59.58,
+   "partNo": "C14201",
+   "desc": "WASHER - shim"
+  },
+  {
+   "ref": 7,
+   "x": 44.44,
+   "y": 78.11,
+   "partNo": "C14201",
+   "desc": "WASHER - shim"
+  },
+  {
+   "ref": 8,
+   "x": 28.26,
+   "y": 87.56,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16 hex"
+  },
+  {
+   "ref": 9,
+   "x": 50.25,
+   "y": 51.74,
+   "partNo": "C27501",
+   "desc": "BUSHING"
+  },
+  {
+   "ref": 10,
+   "x": 36.92,
+   "y": 20.9,
+   "partNo": "138-143",
+   "desc": "PIN - roll 1/4\" x 2-1/4\""
+  },
+  {
+   "ref": 11,
+   "x": 36.01,
+   "y": 17.16,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\""
+  },
+  {
+   "ref": 12,
+   "x": 24.05,
+   "y": 70.02,
+   "partNo": "C33309",
+   "desc": "GEAR - steering"
+  },
+  {
+   "ref": 13,
+   "x": 27.92,
+   "y": 66.29,
+   "partNo": "C33308",
+   "desc": "BUSHING - sleeve"
+  },
+  {
+   "ref": 13,
+   "x": 27.92,
+   "y": 76.87,
+   "partNo": "C33308",
+   "desc": "BUSHING - sleeve"
+  },
+  {
+   "ref": 14,
+   "x": 27.69,
+   "y": 84.7,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\""
+  },
+  {
+   "ref": 14,
+   "x": 16.41,
+   "y": 45.77,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\""
+  },
+  {
+   "ref": 15,
+   "x": 54.24,
+   "y": 56.72,
+   "partNo": "195-2069",
+   "desc": "WASHER - 5/8\" zinc plated"
+  },
+  {
+   "ref": 16,
+   "x": 21.09,
+   "y": 19.4,
+   "partNo": "C15096",
+   "desc": "BUSHING - flanged nylon"
+  },
+  {
+   "ref": 17,
+   "x": 53.67,
+   "y": 38.93,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C30019",
+     "desc": "SUPPORT - steering gear (includes bushing)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "SUPPORT - steering (use C29812, C30019 and C29044)"
+    }
+   ]
+  },
+  {
+   "ref": 18,
+   "x": 88.65,
+   "y": 30.97,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C24098",
+     "desc": "TUBE - steering"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C30127",
+     "desc": "TUBE - steering"
+    }
+   ]
+  }
+ ],
+ "footnotes": "*Use before S/N: **Use S/N and after: 220 - 14068708, 222 - 14069648, 224 - 14070747, 444 - 14072850 | †Use before S/N: ††Use S/N and after: 220 - 14091130, 222 - 14092090, 224 - 14093065, 444 - 14094825"
+}

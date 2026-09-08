@@ -1,0 +1,180 @@
+{
+ "sectionTitle": "Speed Control",
+ "breadcrumb": "Speed Control",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/speed_control.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 61.21,
+   "y": 28.9,
+   "partNo": "C29047",
+   "desc": "KNOB - speed control"
+  },
+  {
+   "ref": 2,
+   "x": 52.36,
+   "y": 33.26,
+   "partNo": "NSS",
+   "desc": "BUSHING - lever (use C27593)"
+  },
+  {
+   "ref": 3,
+   "x": 51.67,
+   "y": 55.28,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C29407",
+     "desc": "LEVER - speed control (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C30128",
+     "desc": "LEVER - speed control"
+    }
+   ]
+  },
+  {
+   "ref": 4,
+   "x": 48.8,
+   "y": 71.56,
+   "partNo": "C29645",
+   "desc": "SPRING - compression"
+  },
+  {
+   "ref": 5,
+   "x": 48.91,
+   "y": 77.07,
+   "partNo": "C21518",
+   "desc": "WASHER - nylon"
+  },
+  {
+   "ref": 6,
+   "x": 32.82,
+   "y": 65.6,
+   "partNo": "C18742",
+   "desc": "ROD - control"
+  },
+  {
+   "ref": 7,
+   "x": 29.03,
+   "y": 63.08,
+   "partNo": "129-122",
+   "desc": "NUT - 5/16\" N.F. hex, zinc plated"
+  },
+  {
+   "ref": 8,
+   "x": 25.24,
+   "y": 60.78,
+   "partNo": "C19025",
+   "desc": "JOINT - ball"
+  },
+  {
+   "ref": 9,
+   "x": 33.86,
+   "y": 50.46,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\""
+  },
+  {
+   "ref": 10,
+   "x": 35.69,
+   "y": 45.42,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\""
+  },
+  {
+   "ref": 11,
+   "x": 34.89,
+   "y": 28.44,
+   "partNo": "138-2072",
+   "desc": "PIN - roll 1/8\" x 1-3/4\""
+  },
+  {
+   "ref": 12,
+   "x": 49.6,
+   "y": 66.98,
+   "partNo": "195-533",
+   "desc": "WASHER"
+  },
+  {
+   "ref": 13,
+   "x": 79.71,
+   "y": 22.71,
+   "partNo": "C29647",
+   "desc": "SCREW - 1/4\" - 20 black"
+  },
+  {
+   "ref": 14,
+   "x": 79.94,
+   "y": 32.11,
+   "partNo": "C29648",
+   "desc": "WASHER - nylon"
+  },
+  {
+   "ref": 15,
+   "x": 77.99,
+   "y": 72.94,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C29649",
+     "desc": "CARRIER - locator"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C30133",
+     "desc": "CARRIER - locator"
+    }
+   ]
+  },
+  {
+   "ref": 16,
+   "x": 87.87,
+   "y": 43.58,
+   "partNo": "C29650",
+   "desc": "SWITCH - neutral start"
+  },
+  {
+   "ref": 17,
+   "x": 87.07,
+   "y": 36.47,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C29651",
+     "desc": "LOCATOR - half"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C30450",
+     "desc": "LOCATOR - light switch"
+    }
+   ]
+  },
+  {
+   "ref": 18,
+   "x": 88.56,
+   "y": 50.23,
+   "partNo": "C29652",
+   "desc": "SUPPORT - locator"
+  },
+  {
+   "ref": 19,
+   "x": 80.63,
+   "y": 36.7,
+   "partNo": "C29653",
+   "desc": "SPACER - tube"
+  },
+  {
+   "ref": 20,
+   "x": 70.75,
+   "y": 63.99,
+   "partNo": "C30827",
+   "desc": "SPRING - locator"
+  }
+ ],
+ "footnotes": "*Use before S/N: **Use S/N and after: 220 - 14091130  224 - 14093065  222 - 14092090  444 - 14094825\n\nAlso listed in parts table, not shown on diagram: C29646 — LOCATOR ASSEMBLY - neutral start (qty 1)\nAlso listed in parts table, not shown on diagram: C30130 — LOCATOR ASSEMBLY - neutral start (qty 1)"
+}

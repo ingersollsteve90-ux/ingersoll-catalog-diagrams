@@ -1,0 +1,115 @@
+{
+ "sectionTitle": "Hydraulic Pump (Cessna)",
+ "breadcrumb": "Hydraulic Pump (Cessna)",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/hydraulic_pump_cessna.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 76.75,
+   "y": 48.3,
+   "partNo": "C 28709",
+   "desc": "SPRING"
+  },
+  {
+   "ref": 2,
+   "x": 54.77,
+   "y": 44.58,
+   "partNo": "C 28718",
+   "desc": "DIAPHRAGM - wear plate"
+  },
+  {
+   "ref": 3,
+   "x": 84.85,
+   "y": 68.99,
+   "partNo": "NSS",
+   "desc": "COVER - front (use C26278)"
+  },
+  {
+   "ref": 4,
+   "x": 26.02,
+   "y": 14.86,
+   "partNo": "NSS",
+   "desc": "COVER - rear (use C26278)"
+  },
+  {
+   "ref": 5,
+   "x": 87.99,
+   "y": 79.08,
+   "partNo": "C 28711",
+   "desc": "SEAL - shaft"
+  },
+  {
+   "ref": 6,
+   "x": 47.52,
+   "y": 35.56,
+   "partNo": "NSS",
+   "desc": "BODY - pump (use C26278)"
+  },
+  {
+   "ref": 7,
+   "x": 71.44,
+   "y": 60.32,
+   "partNo": "C 28712",
+   "desc": "SEAL - diaphragm"
+  },
+  {
+   "ref": 8,
+   "x": 60.93,
+   "y": 50.24,
+   "partNo": "C 28714",
+   "desc": "GASKET - back up"
+  },
+  {
+   "ref": 9,
+   "x": 38.34,
+   "y": 27.07,
+   "partNo": "C 19207",
+   "desc": "KEY - 1/8\" square x 3/4\" long"
+  },
+  {
+   "ref": 10,
+   "x": 64.67,
+   "y": 55.02,
+   "partNo": "C 28713",
+   "desc": "GASKET - protector"
+  },
+  {
+   "ref": 11,
+   "x": 32.42,
+   "y": 23.88,
+   "partNo": "NSS",
+   "desc": "GEAR ASSEMBLY - drive (use C26278)"
+  },
+  {
+   "ref": 12,
+   "x": 25.06,
+   "y": 56.43,
+   "partNo": "NSS",
+   "desc": "GEAR ASSEMBLY - driven (use C26278)"
+  },
+  {
+   "ref": 13,
+   "x": 82.67,
+   "y": 52.54,
+   "partNo": "211-306",
+   "desc": "BALL - steel 7/32\""
+  },
+  {
+   "ref": 14,
+   "x": 46.8,
+   "y": 82.26,
+   "partNo": "C 28715",
+   "desc": "PIN - dowel 1/4\" x 1-1/4\""
+  },
+  {
+   "ref": 15,
+   "x": 12.13,
+   "y": 11.14,
+   "partNo": "NSS",
+   "desc": "BOLT - 5/16\" - 18 x 2-1/2\" 12 point flange (obtain locally)"
+  }
+ ],
+ "footnotes": "Also listed in parts table, not shown on diagram: NSS — PUMP - hyd. 1/2\" shaft (use C26278) (qty 1)"
+}

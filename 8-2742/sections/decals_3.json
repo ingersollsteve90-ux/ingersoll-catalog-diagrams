@@ -1,0 +1,165 @@
+{
+ "sectionTitle": "Decals (Use S/N range 3)",
+ "breadcrumb": "Decals (Use S/N range 3)",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/decals_3.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 60.78,
+   "y": 52.3,
+   "partNo": "NSS",
+   "desc": "DECAL - \"Ingersoll\" (use C31050)"
+  },
+  {
+   "ref": 2,
+   "x": 14.7,
+   "y": 56.6,
+   "partNo": "C 26699",
+   "desc": "DECAL - fuel tank gauge"
+  },
+  {
+   "ref": 3,
+   "x": 90.22,
+   "y": 45.14,
+   "partNo": "321-4767",
+   "desc": "DECAL - hydraulic reservoir"
+  },
+  {
+   "ref": 4,
+   "x": 88.09,
+   "y": 69.8,
+   "partNo": "321-1788",
+   "desc": "DECAL - shift range"
+  },
+  {
+   "ref": 5,
+   "x": 24.03,
+   "y": 19.21,
+   "partNo": "C 27871",
+   "desc": "DECAL - brake"
+  },
+  {
+   "ref": 6,
+   "x": 11.21,
+   "y": 15.87,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27914",
+     "desc": "DECAL - hood \"220 hydriv\" L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27925",
+     "desc": "DECAL - hood \"220 hydriv\" R.H."
+    }
+   ]
+  },
+  {
+   "ref": 7,
+   "x": 37.29,
+   "y": 16.03,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27915",
+     "desc": "DECAL - hood \"222 hydriv\" L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27926",
+     "desc": "DECAL - hood \"222 hydriv\" R.H."
+    }
+   ]
+  },
+  {
+   "ref": 8,
+   "x": 64.37,
+   "y": 16.83,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27916",
+     "desc": "DECAL - hood \"224 hydriv\" L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27927",
+     "desc": "DECAL - hood \"224 hydriv\" R.H."
+    }
+   ]
+  },
+  {
+   "ref": 9,
+   "x": 88.87,
+   "y": 16.99,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27918",
+     "desc": "DECAL - hood \"444 hydriv\" L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27928",
+     "desc": "DECAL - hood \"444 hydriv\" R.H."
+    }
+   ]
+  },
+  {
+   "ref": 10,
+   "x": 18.07,
+   "y": 48.64,
+   "partNo": "NSS",
+   "desc": "MEDALLION - \"CASE\" (no longer available)"
+  },
+  {
+   "ref": 11,
+   "x": 49.65,
+   "y": 57.07,
+   "partNo": "321-6659",
+   "desc": "DECAL - \"Caution\""
+  },
+  {
+   "ref": 12,
+   "x": 56.96,
+   "y": 24.14,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 27962",
+     "desc": "DECAL - \"Ingersoll\" stripe L.H. (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 27964",
+     "desc": "DECAL - \"Ingersoll\" stripe R.H."
+    }
+   ]
+  },
+  {
+   "ref": 13,
+   "x": 59.88,
+   "y": 41.48,
+   "partNo": "C 32093",
+   "desc": "DECAL - \"INGERSOLL\" seat back"
+  },
+  {
+   "ref": 14,
+   "x": 62.46,
+   "y": 84.12,
+   "partNo": "C 30274",
+   "desc": "LENS - display"
+  },
+  {
+   "ref": 18,
+   "x": 83.59,
+   "y": 52.3,
+   "partNo": "TBD",
+   "desc": "PART NOT IN PRINTED TABLE — ref is numbered on the diagram but this catalog's printed parts table has no matching row (confirmed genuine gap, not a transcription miss)"
+  }
+ ],
+ "footnotes": ""
+}

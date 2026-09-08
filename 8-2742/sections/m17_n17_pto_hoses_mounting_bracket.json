@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "M17 Hydraulic PTO (220,222,224) / N17 Hydraulic PTO (444) - PTO Hoses and Mounting Bracket",
+ "breadcrumb": "M17 Hydraulic PTO (220,222,224) / N17 Hydraulic PTO (444) - PTO Hoses and Mounting Bracket",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/m17_n17_pto_hoses_mounting_bracket.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 31.4,
+   "y": 40.6,
+   "partNo": "C 32200",
+   "desc": "BRACKET - valve mounting"
+  },
+  {
+   "ref": 2,
+   "x": 18.9,
+   "y": 64.6,
+   "partNo": "218-5201",
+   "desc": "FITTING - workport, 90° elbow 7/8'' - 14 x 1/2'' NPSM swivel"
+  },
+  {
+   "ref": 3,
+   "x": 64.6,
+   "y": 56.1,
+   "partNo": "218-5107",
+   "desc": "FITTING - inlet port, 7/8'' - 14 x 7/8'' - 14 flare, 90° adjustable elbow"
+  },
+  {
+   "ref": 4,
+   "x": 39.7,
+   "y": 70.4,
+   "partNo": "218-5062",
+   "desc": "FITTING - outlet port, 7/8'' - 14 x 7/8'' - 14 flare, straight"
+  },
+  {
+   "ref": 5,
+   "x": 7.5,
+   "y": 29.2,
+   "partNo": "C 32403",
+   "desc": "HANDLE - valve"
+  },
+  {
+   "ref": 6,
+   "x": 15.4,
+   "y": 14.5,
+   "partNo": "C 26020",
+   "desc": "GRIP - handle"
+  },
+  {
+   "ref": 7,
+   "x": 90.2,
+   "y": 90.9,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 32423",
+     "desc": "HOSE - pump to PTO 56'' (M17) 220, 222, 224"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 32424",
+     "desc": "HOSE - pump to PTO 54'' (N17) 444"
+    }
+   ]
+  },
+  {
+   "ref": 8,
+   "x": 49.5,
+   "y": 87.3,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C 32209",
+     "desc": "HOSE - PTO to travel valve 32'' (M17) 220, 222, 224"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 32210",
+     "desc": "HOSE - PTO to travel valve 34'' (N17) 444"
+    }
+   ]
+  },
+  {
+   "ref": 9,
+   "x": 28.4,
+   "y": 9.9,
+   "partNo": "C 32211",
+   "desc": "BRACKET - handle guide"
+  },
+  {
+   "ref": 10,
+   "x": 44.0,
+   "y": 19.0,
+   "partNo": "111-101",
+   "desc": "BOLT - 1/4'' - 20 x 5/8'' carriage"
+  },
+  {
+   "ref": 11,
+   "x": 47.2,
+   "y": 4.5,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4'' - 20 flange lock"
+  },
+  {
+   "ref": 11,
+   "x": 24.9,
+   "y": 19.6,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4'' - 20 flange lock"
+  },
+  {
+   "ref": 12,
+   "x": 71.7,
+   "y": 60.9,
+   "partNo": "C 32332",
+   "desc": "CLAMP - tube (M17) 220, 222, 224"
+  },
+  {
+   "ref": 13,
+   "x": 52.9,
+   "y": 29.4,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16'' - 18 x 1''"
+  },
+  {
+   "ref": 13,
+   "x": 71.8,
+   "y": 75.2,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16'' - 18 x 1''"
+  },
+  {
+   "ref": 14,
+   "x": 67.5,
+   "y": 65.0,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16''"
+  },
+  {
+   "ref": 14,
+   "x": 53.1,
+   "y": 40.2,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16''"
+  },
+  {
+   "ref": 15,
+   "x": 52.9,
+   "y": 35.6,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16''"
+  },
+  {
+   "ref": 16,
+   "x": 76.2,
+   "y": 59.2,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16'' - 18 flange lock"
+  },
+  {
+   "ref": 17,
+   "x": 7.5,
+   "y": 51.0,
+   "partNo": "C 32214",
+   "desc": "PIN - clevis 3/8'' x 1-1/2''"
+  },
+  {
+   "ref": 18,
+   "x": 42.1,
+   "y": 23.1,
+   "partNo": "C 28105",
+   "desc": "RING - retaining"
+  },
+  {
+   "ref": 19,
+   "x": 12.6,
+   "y": 50.1,
+   "partNo": "C 28964",
+   "desc": "PIN - clevis 3/16'' x 1''"
+  },
+  {
+   "ref": 20,
+   "x": 21.1,
+   "y": 46.6,
+   "partNo": "C 10883",
+   "desc": "PIN - safety"
+  },
+  {
+   "ref": 21,
+   "x": 77.3,
+   "y": 90.5,
+   "partNo": "218-5232",
+   "desc": "FITTING - hydraulic 90° swivel (travel valve inlet)"
+  },
+  {
+   "ref": 22,
+   "x": 81.7,
+   "y": 62.0,
+   "partNo": "C 32213",
+   "desc": "CLAMP - tube"
+  },
+  {
+   "ref": 23,
+   "x": 46.9,
+   "y": 14.9,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4'' - 20 x 3/4''"
+  },
+  {
+   "ref": 24,
+   "x": 47.9,
+   "y": 9.9,
+   "partNo": "C 32327",
+   "desc": "BRACKET - handle stop"
+  }
+ ],
+ "footnotes": "Also listed in parts table, not shown on diagram: C 22947 — TIE - nylon (qty 1)"
+}

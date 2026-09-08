@@ -1,0 +1,242 @@
+{
+ "sectionTitle": "Walbro Carburetor",
+ "breadcrumb": "Walbro Carburetor",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/walbro_carburetor.jpg",
+ "hotspots": [
+  {
+   "ref": 19,
+   "x": 15.32,
+   "y": 37.67,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "CARBURETOR ASSEMBLY - 220, 222 (Use C33213)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "CARBURETOR ASSEMBLY - 224, 444 (Use C33214)"
+    }
+   ]
+  },
+  {
+   "ref": 20,
+   "x": 31.92,
+   "y": 30.18,
+   "partNo": "C23860",
+   "desc": "GASKET - carburetor mounting"
+  },
+  {
+   "ref": 21,
+   "x": 80.96,
+   "y": 47.36,
+   "partNo": "C33310",
+   "desc": "NEEDLE - main fuel adjust"
+  },
+  {
+   "ref": 22,
+   "x": 87.66,
+   "y": 11.45,
+   "partNo": "C33130",
+   "desc": "LINKAGE - carburetor"
+  },
+  {
+   "ref": 23,
+   "x": 68.17,
+   "y": 13.66,
+   "partNo": "C32860",
+   "desc": "BUSHING - retaining (natural)"
+  },
+  {
+   "ref": 24,
+   "x": 93.15,
+   "y": 21.81,
+   "partNo": "C32861",
+   "desc": "BUSHING - retaining (yellow)"
+  },
+  {
+   "ref": 25,
+   "x": 88.27,
+   "y": 32.38,
+   "partNo": "C32862",
+   "desc": "SCREW - throttle and choke plate"
+  },
+  {
+   "ref": 25,
+   "x": 39.08,
+   "y": 54.41,
+   "partNo": "C32862",
+   "desc": "SCREW - throttle and choke plate"
+  },
+  {
+   "ref": 26,
+   "x": 41.52,
+   "y": 44.72,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C32863",
+     "desc": "PLATE - choke ( 220, 222 )"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C32864",
+     "desc": "PLATE - choke ( 224, 444 )"
+    }
+   ]
+  },
+  {
+   "ref": 27,
+   "x": 46.54,
+   "y": 43.18,
+   "partNo": "C32865",
+   "desc": "BALL - choke friction"
+  },
+  {
+   "ref": 28,
+   "x": 51.27,
+   "y": 41.63,
+   "partNo": "C32866",
+   "desc": "SPRING - choke friction"
+  },
+  {
+   "ref": 29,
+   "x": 56.75,
+   "y": 28.2,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C32867",
+     "desc": "SHAFT - throttle (includes lever and seal) 220, 222"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C32868",
+     "desc": "SHAFT - throttle (includes lever and seal) 224, 444"
+    }
+   ]
+  },
+  {
+   "ref": 30,
+   "x": 76.55,
+   "y": 30.18,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C32869",
+     "desc": "PLATE - 220, 222"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C32870",
+     "desc": "PLATE - throttle 224, 444"
+    }
+   ]
+  },
+  {
+   "ref": 31,
+   "x": 89.64,
+   "y": 43.62,
+   "partNo": "C32871",
+   "desc": "SPRING - idle fuel"
+  },
+  {
+   "ref": 31,
+   "x": 76.55,
+   "y": 48.68,
+   "partNo": "C32871",
+   "desc": "SPRING - idle fuel"
+  },
+  {
+   "ref": 32,
+   "x": 94.06,
+   "y": 39.43,
+   "partNo": "C32872",
+   "desc": "NEEDLE - idle fuel adjust"
+  },
+  {
+   "ref": 33,
+   "x": 85.38,
+   "y": 49.78,
+   "partNo": "C32873",
+   "desc": "SPRING - idle speed"
+  },
+  {
+   "ref": 34,
+   "x": 91.93,
+   "y": 52.65,
+   "partNo": "C32874",
+   "desc": "SCREW - idle speed adjust"
+  },
+  {
+   "ref": 35,
+   "x": 85.68,
+   "y": 59.04,
+   "partNo": "C32875",
+   "desc": "LEVER - choke"
+  },
+  {
+   "ref": 36,
+   "x": 76.7,
+   "y": 54.19,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C32876",
+     "desc": "JET - main fuel, fixed 220, 222"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C32877",
+     "desc": "JET - main fuel, fixed 224, 444"
+    }
+   ]
+  },
+  {
+   "ref": 37,
+   "x": 53.7,
+   "y": 57.05,
+   "partNo": "C32878",
+   "desc": "GASKET - bowl"
+  },
+  {
+   "ref": 38,
+   "x": 80.05,
+   "y": 60.36,
+   "partNo": "C32879",
+   "desc": "KIT - float"
+  },
+  {
+   "ref": 39,
+   "x": 80.05,
+   "y": 70.05,
+   "partNo": "C32880",
+   "desc": "BOWL - fuel"
+  },
+  {
+   "ref": 40,
+   "x": 75.02,
+   "y": 74.9,
+   "partNo": "C32881",
+   "desc": "GASKET - bowl retaining screw"
+  },
+  {
+   "ref": 41,
+   "x": 75.33,
+   "y": 77.98,
+   "partNo": "C32882",
+   "desc": "SCREW - bowl retaining"
+  },
+  {
+   "ref": 42,
+   "x": 20.5,
+   "y": 58.37,
+   "partNo": "C32799",
+   "desc": "GASKET - air cleaner"
+  }
+ ],
+ "footnotes": "Also listed in parts table, not shown on diagram: C34416 — KIT - carburetor repair (qty 1)"
+}

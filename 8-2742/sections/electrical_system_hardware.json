@@ -1,0 +1,328 @@
+{
+ "sectionTitle": "Electrical System Hardware",
+ "breadcrumb": "Electrical System Hardware",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/electrical_system_hardware.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 7.67,
+   "y": 75.8,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "NUT - switch mounting 5/8'' (use C32396, C32397)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C 23330",
+     "desc": "NUT - switch mounting 9/16''"
+    }
+   ]
+  },
+  {
+   "ref": 2,
+   "x": 12.99,
+   "y": 77.9,
+   "partNo": "C 23012",
+   "desc": "LOCK WASHER - internal tooth"
+  },
+  {
+   "ref": 3,
+   "x": 46.33,
+   "y": 22.5,
+   "partNo": "113- 3",
+   "desc": "BOLT - 1/4'' - 20 x 3/4'' hex"
+  },
+  {
+   "ref": 4,
+   "x": 7.03,
+   "y": 49.1,
+   "partNo": "193- 57",
+   "desc": "LOCK WASHER - 1/4'' external tooth"
+  },
+  {
+   "ref": 4,
+   "x": 89.15,
+   "y": 32.7,
+   "partNo": "193- 57",
+   "desc": "LOCK WASHER - 1/4'' external tooth"
+  },
+  {
+   "ref": 5,
+   "x": 7.56,
+   "y": 53.1,
+   "partNo": "129- 101",
+   "desc": "NUT - 1/4'' - 20 hex"
+  },
+  {
+   "ref": 5,
+   "x": 33.76,
+   "y": 12.8,
+   "partNo": "129- 101",
+   "desc": "NUT - 1/4'' - 20 hex"
+  },
+  {
+   "ref": 5,
+   "x": 47.5,
+   "y": 13.8,
+   "partNo": "129- 101",
+   "desc": "NUT - 1/4'' - 20 hex"
+  },
+  {
+   "ref": 5,
+   "x": 64.01,
+   "y": 34.5,
+   "partNo": "129- 101",
+   "desc": "NUT - 1/4'' - 20 hex"
+  },
+  {
+   "ref": 5,
+   "x": 89.36,
+   "y": 43.3,
+   "partNo": "129- 101",
+   "desc": "NUT - 1/4'' - 20 hex"
+  },
+  {
+   "ref": 6,
+   "x": 18.85,
+   "y": 36.0,
+   "partNo": "111- 139",
+   "desc": "BOLT - 1/4'' - 20 x 1'' rd. head sq. neck"
+  },
+  {
+   "ref": 7,
+   "x": 5.33,
+   "y": 27.5,
+   "partNo": "192- 19",
+   "desc": "LOCK WASHER - 1/4''"
+  },
+  {
+   "ref": 7,
+   "x": 58.58,
+   "y": 32.2,
+   "partNo": "192- 19",
+   "desc": "LOCK WASHER - 1/4''"
+  },
+  {
+   "ref": 7,
+   "x": 58.26,
+   "y": 14.3,
+   "partNo": "192- 19",
+   "desc": "LOCK WASHER - 1/4''"
+  },
+  {
+   "ref": 8,
+   "x": 52.83,
+   "y": 72.6,
+   "partNo": "129- 27",
+   "desc": "NUT - #10 N.F. hex"
+  },
+  {
+   "ref": 8,
+   "x": 85.74,
+   "y": 70.5,
+   "partNo": "129- 27",
+   "desc": "NUT - #10 N.F. hex"
+  },
+  {
+   "ref": 8,
+   "x": 84.57,
+   "y": 84.4,
+   "partNo": "129- 27",
+   "desc": "NUT - #10 N.F. hex"
+  },
+  {
+   "ref": 9,
+   "x": 43.67,
+   "y": 27.5,
+   "partNo": "192- 18",
+   "desc": "LOCK WASHER - #10"
+  },
+  {
+   "ref": 9,
+   "x": 85.21,
+   "y": 80.6,
+   "partNo": "192- 18",
+   "desc": "LOCK WASHER - #10"
+  },
+  {
+   "ref": 9,
+   "x": 52.51,
+   "y": 78.3,
+   "partNo": "192- 18",
+   "desc": "LOCK WASHER - #10"
+  },
+  {
+   "ref": 10,
+   "x": 7.56,
+   "y": 21.4,
+   "partNo": "111- 202",
+   "desc": "BOLT - 5/16'' x 3/4'' N.C. rd. head sq. neck"
+  },
+  {
+   "ref": 11,
+   "x": 82.01,
+   "y": 27.5,
+   "partNo": "111- 108",
+   "desc": "BOLT - 1/4'' x 3/4'' N.C. rd. head sq. neck"
+  },
+  {
+   "ref": 11,
+   "x": 28.01,
+   "y": 9.9,
+   "partNo": "111- 108",
+   "desc": "BOLT - 1/4'' x 3/4'' N.C. rd. head sq. neck"
+  },
+  {
+   "ref": 12,
+   "x": 17.68,
+   "y": 10.7,
+   "partNo": "129- 102",
+   "desc": "NUT - 5/16'' N.C. hex"
+  },
+  {
+   "ref": 13,
+   "x": 35.68,
+   "y": 63.9,
+   "partNo": "182- 10",
+   "desc": "SCREW - #4 - 40 x 7/8'' N.C. pan head"
+  },
+  {
+   "ref": 14,
+   "x": 53.79,
+   "y": 53.5,
+   "partNo": "129- 13",
+   "desc": "NUT - #4-40 hex"
+  },
+  {
+   "ref": 15,
+   "x": 53.15,
+   "y": 66.1,
+   "partNo": "192- 13",
+   "desc": "LOCK WASHER - #4"
+  },
+  {
+   "ref": 16,
+   "x": 11.82,
+   "y": 7.6,
+   "partNo": "C 24069",
+   "desc": "COVER - terminal"
+  },
+  {
+   "ref": 17,
+   "x": 39.52,
+   "y": 75.4,
+   "partNo": "NSS",
+   "desc": "SCREW - #10 x 1-1/2'' N.F. self tap (obtain locally)"
+  },
+  {
+   "ref": 18,
+   "x": 34.94,
+   "y": 89.0,
+   "partNo": "NSS",
+   "desc": "BOLT - 5/16'' x 1/2'' N.C. hex, self tap (obtain locally)"
+  },
+  {
+   "ref": 19,
+   "x": 72.75,
+   "y": 35.4,
+   "partNo": "113- 17",
+   "desc": "BOLT - 1/4'' - 20 x 1-1/4'' hex"
+  },
+  {
+   "ref": 20,
+   "x": 67.74,
+   "y": 44.1,
+   "partNo": "182- 571",
+   "desc": "SCREW - #6 - 32 x 1/2'' pan head, black"
+  },
+  {
+   "ref": 21,
+   "x": 61.14,
+   "y": 62.0,
+   "partNo": "192- 15",
+   "desc": "LOCKWASHER - #6"
+  },
+  {
+   "ref": 22,
+   "x": 65.51,
+   "y": 69.6,
+   "partNo": "129- 15",
+   "desc": "NUT - #6 - 32 hex"
+  },
+  {
+   "ref": 23,
+   "x": 36.64,
+   "y": 25.8,
+   "partNo": "182- 147",
+   "desc": "BOLT - #10 - 32 x 3/4''"
+  },
+  {
+   "ref": 24,
+   "x": 41.11,
+   "y": 24.4,
+   "partNo": "129- 37",
+   "desc": "NUT - #10 - 32 hex"
+  },
+  {
+   "ref": 24,
+   "x": 33.02,
+   "y": 47.1,
+   "partNo": "129- 37",
+   "desc": "NUT - #10 - 32 hex"
+  },
+  {
+   "ref": 25,
+   "x": 43.56,
+   "y": 43.9,
+   "partNo": "192- 18",
+   "desc": "LOCKWASHER - #10"
+  },
+  {
+   "ref": 25,
+   "x": 46.33,
+   "y": 32.2,
+   "partNo": "192- 18",
+   "desc": "LOCKWASHER - #10"
+  },
+  {
+   "ref": 26,
+   "x": 28.23,
+   "y": 5.1,
+   "partNo": "113- 3",
+   "desc": "BOLT - 1/4'' - 20 x 3/4'' hex head"
+  },
+  {
+   "ref": 27,
+   "x": 43.03,
+   "y": 8.4,
+   "partNo": "NSS",
+   "desc": "COVER - battery vent (no longer available)"
+  },
+  {
+   "ref": 28,
+   "x": 67.21,
+   "y": 93.2,
+   "partNo": "129- 36",
+   "desc": "NUT - #8-36"
+  },
+  {
+   "ref": 29,
+   "x": 27.16,
+   "y": 78.7,
+   "partNo": "C 19521",
+   "desc": "CLIP - headlight wire"
+  },
+  {
+   "ref": 30,
+   "x": 48.36,
+   "y": 49.3,
+   "partNo": "C 30276*",
+   "desc": "PLATE - switch mounting"
+  }
+ ],
+ "footnotes": "*Use S/N: 220 - 14091130 to 14091218; 222 - 14092090 to 14092185; 224 - 14093065 to 14093127; 444 - 14094825 to 14097742"
+}

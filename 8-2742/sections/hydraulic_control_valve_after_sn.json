@@ -1,0 +1,304 @@
+{
+ "sectionTitle": "Hydraulic Control Valve (Use S/N and after)",
+ "breadcrumb": "Hydraulic Control Valve (Use S/N and after)",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/hydraulic_control_valve_after_sn.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 69.42,
+   "y": 52.41,
+   "partNo": "NSS",
+   "desc": "VALVE - control, two spool (use C33473 and 218-5154)"
+  },
+  {
+   "ref": 2,
+   "x": 84.66,
+   "y": 84.26,
+   "partNo": "C 29956",
+   "desc": "CAP - end"
+  },
+  {
+   "ref": 3,
+   "x": 79.91,
+   "y": 82.35,
+   "partNo": "C 28217",
+   "desc": "\"O\" RING - end cap"
+  },
+  {
+   "ref": 4,
+   "x": 80.66,
+   "y": 72.01,
+   "partNo": "C 28856",
+   "desc": "SEAL - spool"
+  },
+  {
+   "ref": 5,
+   "x": 75.15,
+   "y": 80.99,
+   "partNo": "C 29951",
+   "desc": "SPRING - centering"
+  },
+  {
+   "ref": 6,
+   "x": 89.2,
+   "y": 29.95,
+   "partNo": "211-208",
+   "desc": "BALL - steel 5/16\" (7.94 mm)"
+  },
+  {
+   "ref": 7,
+   "x": 84.45,
+   "y": 27.63,
+   "partNo": "C 21507",
+   "desc": "SPRING - relief"
+  },
+  {
+   "ref": 8,
+   "x": 29.33,
+   "y": 72.55,
+   "partNo": "C 17433",
+   "desc": "SCREW - relief adjust"
+  },
+  {
+   "ref": 9,
+   "x": 24.57,
+   "y": 70.92,
+   "partNo": "C 17435",
+   "desc": "GASKET - relief adjust cap"
+  },
+  {
+   "ref": 10,
+   "x": 29.97,
+   "y": 64.93,
+   "partNo": "129-531",
+   "desc": "CAP - adjust screw"
+  },
+  {
+   "ref": 11,
+   "x": 29.54,
+   "y": 43.97,
+   "partNo": "C 26668",
+   "desc": "DETENT - spool"
+  },
+  {
+   "ref": 12,
+   "x": 34.3,
+   "y": 45.46,
+   "partNo": "C 28707",
+   "desc": "SPACER - detent"
+  },
+  {
+   "ref": 13,
+   "x": 39.05,
+   "y": 47.91,
+   "partNo": "C 28706",
+   "desc": "SPRING - detent return"
+  },
+  {
+   "ref": 14,
+   "x": 43.59,
+   "y": 49.96,
+   "partNo": "C 28705",
+   "desc": "WASHER - return"
+  },
+  {
+   "ref": 14,
+   "x": 54.08,
+   "y": 18.38,
+   "partNo": "C 28705",
+   "desc": "WASHER - return"
+  },
+  {
+   "ref": 15,
+   "x": 39.49,
+   "y": 69.29,
+   "partNo": "NSS",
+   "desc": "SPRING - relief (use C21511 relief kit)"
+  },
+  {
+   "ref": 16,
+   "x": 17.22,
+   "y": 36.62,
+   "partNo": "211-5",
+   "desc": "BALL - steel 3/16\" (4.76 mm)"
+  },
+  {
+   "ref": 16,
+   "x": 11.06,
+   "y": 43.69,
+   "partNo": "211-5",
+   "desc": "BALL - steel 3/16\" (4.76 mm)"
+  },
+  {
+   "ref": 17,
+   "x": 25.98,
+   "y": 42.2,
+   "partNo": "C 17438",
+   "desc": "COVER - detent"
+  },
+  {
+   "ref": 17,
+   "x": 45.65,
+   "y": 14.84,
+   "partNo": "C 17438",
+   "desc": "COVER - detent"
+  },
+  {
+   "ref": 18,
+   "x": 25.65,
+   "y": 35.12,
+   "partNo": "C 28708",
+   "desc": "SCREW - detent"
+  },
+  {
+   "ref": 18,
+   "x": 10.84,
+   "y": 52.27,
+   "partNo": "C 28708",
+   "desc": "SCREW - detent"
+  },
+  {
+   "ref": 19,
+   "x": 25.11,
+   "y": 38.52,
+   "partNo": "C 17444",
+   "desc": "SPRING - detent"
+  },
+  {
+   "ref": 19,
+   "x": 17.55,
+   "y": 48.46,
+   "partNo": "C 17444",
+   "desc": "SPRING - detent"
+  },
+  {
+   "ref": 19,
+   "x": 39.49,
+   "y": 10.21,
+   "partNo": "C 17444",
+   "desc": "SPRING - detent"
+  },
+  {
+   "ref": 19,
+   "x": 32.35,
+   "y": 18.92,
+   "partNo": "C 17444",
+   "desc": "SPRING - detent"
+  },
+  {
+   "ref": 20,
+   "x": 11.06,
+   "y": 36.48,
+   "partNo": "169-114",
+   "desc": "SCREW - cover"
+  },
+  {
+   "ref": 20,
+   "x": 31.27,
+   "y": 11.84,
+   "partNo": "169-114",
+   "desc": "SCREW - cover"
+  },
+  {
+   "ref": 21,
+   "x": 63.91,
+   "y": 71.33,
+   "partNo": "221-841",
+   "desc": "PLUG - pipe"
+  },
+  {
+   "ref": 22,
+   "x": 82.5,
+   "y": 34.98,
+   "partNo": "C 21506",
+   "desc": "RETAINER - ball seat"
+  },
+  {
+   "ref": 23,
+   "x": 80.88,
+   "y": 25.73,
+   "partNo": "C 26665",
+   "desc": "SCREW - adjust, relief"
+  },
+  {
+   "ref": 24,
+   "x": 75.26,
+   "y": 23.55,
+   "partNo": "C 26664",
+   "desc": "GASKET - adjust cap"
+  },
+  {
+   "ref": 25,
+   "x": 66.29,
+   "y": 27.36,
+   "partNo": "C 26666",
+   "desc": "CAP - adjust screw"
+  },
+  {
+   "ref": 26,
+   "x": 87.47,
+   "y": 37.57,
+   "partNo": "C 26663",
+   "desc": "SEAT - relief ball"
+  },
+  {
+   "ref": 27,
+   "x": 69.75,
+   "y": 29.13,
+   "partNo": "C 34555",
+   "desc": "NUT - lock"
+  },
+  {
+   "ref": 28,
+   "x": 67.91,
+   "y": 86.44,
+   "partNo": "C 29950",
+   "desc": "WASHER - spring retaining"
+  },
+  {
+   "ref": 29,
+   "x": 49.54,
+   "y": 17.29,
+   "partNo": "C 29958",
+   "desc": "DETENT - spool"
+  },
+  {
+   "ref": 30,
+   "x": 37.11,
+   "y": 12.52,
+   "partNo": "211-7",
+   "desc": "BALL - steel 1/4\" (6.35 mm)"
+  },
+  {
+   "ref": 30,
+   "x": 40.46,
+   "y": 21.37,
+   "partNo": "211-7",
+   "desc": "BALL - steel 1/4\" (6.35 mm)"
+  },
+  {
+   "ref": 30,
+   "x": 37.43,
+   "y": 75.82,
+   "partNo": "211-7",
+   "desc": "BALL - steel 1/4\" (6.35 mm)"
+  },
+  {
+   "ref": 31,
+   "x": 30.41,
+   "y": 24.91,
+   "partNo": "C 17443",
+   "desc": "SCREW - detent"
+  },
+  {
+   "ref": 31,
+   "x": 48.56,
+   "y": 10.07,
+   "partNo": "C 17443",
+   "desc": "SCREW - detent"
+  }
+ ],
+ "footnotes": "Use S/N and after: 220 - 14090930, 222 - 14069687, 224 - 14070796, 444 - 14094620. Single spool valve repair Page 55.\n\nAlso listed in parts table, not shown on diagram: C 30002 — KIT - seal (qty 1)\nAlso listed in parts table, not shown on diagram: C 30481 — PLUG - holding spool (use to replace rear plug only) (qty 1)"
+}

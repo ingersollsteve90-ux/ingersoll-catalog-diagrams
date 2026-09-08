@@ -1,0 +1,167 @@
+{
+ "sectionTitle": "L29 PTO Mounting Frame, Shield, Idlers and Gear Cover",
+ "breadcrumb": "L29 PTO Mounting Frame, Shield, Idlers and Gear Cover",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/l29_pto_mounting_frame_shield_idlers_gear_cover.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 24.54,
+   "y": 33.3,
+   "partNo": "C 25800",
+   "desc": "FRAME - mounting"
+  },
+  {
+   "ref": 2,
+   "x": 15.66,
+   "y": 49.3,
+   "partNo": "C 25815",
+   "desc": "COVER - gear"
+  },
+  {
+   "ref": 3,
+   "x": 11.38,
+   "y": 77.5,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "221- 4",
+     "desc": "PLUG - oil 1/2\""
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "221- 3",
+     "desc": "PLUG - oil 3/8\""
+    }
+   ]
+  },
+  {
+   "ref": 4,
+   "x": 8.88,
+   "y": 85.0,
+   "partNo": "113- 3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex"
+  },
+  {
+   "ref": 5,
+   "x": 22.35,
+   "y": 93.4,
+   "partNo": "195- 521",
+   "desc": "WASHER - 5/16\""
+  },
+  {
+   "ref": 6,
+   "x": 57.96,
+   "y": 64.6,
+   "partNo": "131- 1180",
+   "desc": "NUT - 1/4\" - 20 hex"
+  },
+  {
+   "ref": 7,
+   "x": 79.26,
+   "y": 15.3,
+   "partNo": "C 25817",
+   "desc": "SHIELD - PTO"
+  },
+  {
+   "ref": 8,
+   "x": 63.7,
+   "y": 53.5,
+   "partNo": "121- 106",
+   "desc": "BOLT - 5/16\" - 18 x 1/2\", special"
+  },
+  {
+   "ref": 9,
+   "x": 35.19,
+   "y": 11.7,
+   "partNo": "C 25370",
+   "desc": "PULLEY - \"V\" groove"
+  },
+  {
+   "ref": 10,
+   "x": 60.47,
+   "y": 8.9,
+   "partNo": "113- 206",
+   "desc": "BOLT - 3/8\" - 16 x 3/4\""
+  },
+  {
+   "ref": 11,
+   "x": 56.5,
+   "y": 14.6,
+   "partNo": "193- 68",
+   "desc": "LOCK WASHER - special"
+  },
+  {
+   "ref": 12,
+   "x": 51.28,
+   "y": 23.2,
+   "partNo": "195- 103",
+   "desc": "WASHER - 3/8\""
+  },
+  {
+   "ref": 13,
+   "x": 85.11,
+   "y": 86.6,
+   "partNo": "C 25822",
+   "desc": "ARM - idler"
+  },
+  {
+   "ref": 14,
+   "x": 79.99,
+   "y": 82.2,
+   "partNo": "C 28308",
+   "desc": "BUSHING - sleeve"
+  },
+  {
+   "ref": 14,
+   "x": 89.6,
+   "y": 66.0,
+   "partNo": "C 28308",
+   "desc": "BUSHING - sleeve"
+  },
+  {
+   "ref": 15,
+   "x": 55.56,
+   "y": 72.5,
+   "partNo": "C 26090",
+   "desc": "PULLEY - flat idler"
+  },
+  {
+   "ref": 16,
+   "x": 51.59,
+   "y": 81.7,
+   "partNo": "113- 412",
+   "desc": "BOLT - 1/2\" - 13 x 1-3/4\" hex"
+  },
+  {
+   "ref": 17,
+   "x": 76.55,
+   "y": 56.1,
+   "partNo": "131- 165",
+   "desc": "NUT - 1/2\" lock, hex"
+  },
+  {
+   "ref": 18,
+   "x": 74.04,
+   "y": 87.8,
+   "partNo": "195- 541",
+   "desc": "WASHER - 5/8\""
+  },
+  {
+   "ref": 19,
+   "x": 67.36,
+   "y": 89.2,
+   "partNo": "132- 318",
+   "desc": "PIN - cotter 5/32\" x 1\""
+  },
+  {
+   "ref": 20,
+   "x": 86.78,
+   "y": 39.7,
+   "partNo": "C 16870",
+   "desc": "SPRING - tension"
+  }
+ ],
+ "footnotes": ""
+}

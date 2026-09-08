@@ -1,0 +1,365 @@
+{
+ "sectionTitle": "Seat, Fenders and Tool Tray",
+ "breadcrumb": "Seat, Fenders and Tool Tray",
+ "catalogLabel": "Catalog 8-2742",
+ "modelNumbers": "Catalog 8-2742 — Models 220, 222, 224 and 444 (Later PINs)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2742/seat_fenders_tooltray.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 32.25,
+   "y": 80.71,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C31021",
+     "desc": "SUPPORT - seat, front (444)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C31020",
+     "desc": "SUPPORT - seat, front (220, 222, 224)"
+    }
+   ]
+  },
+  {
+   "ref": 2,
+   "x": 17.5,
+   "y": 72.51,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C27224",
+     "desc": "SUPPORT - seat, rear (444)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C26827",
+     "desc": "SUPPORT - seat, rear (220, 222, 224)"
+    }
+   ]
+  },
+  {
+   "ref": 3,
+   "x": 32.03,
+   "y": 59.94,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "113-441",
+     "desc": "BOLT - 1/2\" x 2-1/4\" N.C. hex (444)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "113-427",
+     "desc": "BOLT - 1/2\" x 3-1/4\" N.C. hex (220, 222 and 224)"
+    }
+   ]
+  },
+  {
+   "ref": 4,
+   "x": 53.83,
+   "y": 50.54,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "113-424",
+     "desc": "BOLT - 1/2\" x 1\" N.C. hex"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "113-118",
+     "desc": "BOLT - 5/16\" x 5/8\""
+    }
+   ]
+  },
+  {
+   "ref": 5,
+   "x": 43.47,
+   "y": 54.51,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "192-20",
+     "desc": "LOCK WASHER - 5/16\""
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "192-23",
+     "desc": "LOCK WASHER - 1/2\""
+    }
+   ]
+  },
+  {
+   "ref": 6,
+   "x": 34.38,
+   "y": 55.84,
+   "partNo": "C31004",
+   "desc": "TRAY - tool"
+  },
+  {
+   "ref": 7,
+   "x": 67.73,
+   "y": 33.08,
+   "partNo": "C16429",
+   "desc": "PIN - seat hinge"
+  },
+  {
+   "ref": 8,
+   "x": 45.71,
+   "y": 10.19,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C30071",
+     "desc": "SEAT - (220, 222 and 224) shown (black)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C30066",
+     "desc": "SEAT - (444) (black)"
+    }
+   ]
+  },
+  {
+   "ref": 9,
+   "x": 25.3,
+   "y": 30.17,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber"
+  },
+  {
+   "ref": 9,
+   "x": 37.27,
+   "y": 44.32,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber"
+  },
+  {
+   "ref": 10,
+   "x": 35.24,
+   "y": 46.57,
+   "partNo": "195-2175",
+   "desc": "WASHER - 5/16\" x 1-1/4\" OD, zinc plated"
+  },
+  {
+   "ref": 11,
+   "x": 31.61,
+   "y": 48.82,
+   "partNo": "113-122",
+   "desc": "BOLT - 5/16\" x 1-1/2\""
+  },
+  {
+   "ref": 12,
+   "x": 10.66,
+   "y": 45.12,
+   "partNo": "C14534",
+   "desc": "BUMPER - seat"
+  },
+  {
+   "ref": 13,
+   "x": 54.47,
+   "y": 39.3,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" flange whizlock"
+  },
+  {
+   "ref": 13,
+   "x": 63.34,
+   "y": 68.14,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" flange whizlock"
+  },
+  {
+   "ref": 14,
+   "x": 50.31,
+   "y": 29.37,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "NSS",
+     "desc": "HINGE ASSEMBLY - seat (use C31005 and 2 each of C29305, C29306, 113-102, 131-911)"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C31005",
+     "desc": "HINGE ASSEMBLY - seat hinge (shown)"
+    }
+   ]
+  },
+  {
+   "ref": 15,
+   "x": 77.77,
+   "y": 36.92,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 4 (see Notes below)",
+     "partNo": "C26835",
+     "desc": "FENDER - L.H. (444)"
+    },
+    {
+     "serialNote": "Option 2 of 4 (see Notes below)",
+     "partNo": "C26833",
+     "desc": "FENDER - R.H. (444)"
+    },
+    {
+     "serialNote": "Option 3 of 4 (see Notes below)",
+     "partNo": "C26831",
+     "desc": "FENDER - L.H. (220, 222, 224) shown"
+    },
+    {
+     "serialNote": "Option 4 of 4 (see Notes below)",
+     "partNo": "C26829",
+     "desc": "FENDER - R.H. (220, 222, 224)"
+    }
+   ]
+  },
+  {
+   "ref": 16,
+   "x": 44.11,
+   "y": 86.8,
+   "partNo": "C14728",
+   "desc": "GRIP - shift lever"
+  },
+  {
+   "ref": 17,
+   "x": 74.14,
+   "y": 74.36,
+   "partNo": "C27594",
+   "desc": "LEVER - shift"
+  },
+  {
+   "ref": 18,
+   "x": 68.58,
+   "y": 71.98,
+   "partNo": "195-525",
+   "desc": "WASHER - 7/16\" x 1-1/4\" OD"
+  },
+  {
+   "ref": 19,
+   "x": 80.34,
+   "y": 76.48,
+   "partNo": "C17216",
+   "desc": "SPRING - shift lever"
+  },
+  {
+   "ref": 20,
+   "x": 84.72,
+   "y": 78.06,
+   "partNo": "C30489",
+   "desc": "WASHER - cupped"
+  },
+  {
+   "ref": 21,
+   "x": 88.67,
+   "y": 80.45,
+   "partNo": "131-1181",
+   "desc": "NUT - lock 3/8\" N.C. hex"
+  },
+  {
+   "ref": 22,
+   "x": 21.99,
+   "y": 49.75,
+   "partNo": "C29305",
+   "desc": "CAP - spring"
+  },
+  {
+   "ref": 23,
+   "x": 21.13,
+   "y": 41.02,
+   "partNo": "C29306",
+   "desc": "SPRING - seat"
+  },
+  {
+   "ref": 24,
+   "x": 22.63,
+   "y": 46.97,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\"-18 x 3/4\""
+  },
+  {
+   "ref": 24,
+   "x": 14.08,
+   "y": 35.59,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\"-18 x 3/4\""
+  },
+  {
+   "ref": 25,
+   "x": 22.31,
+   "y": 32.55,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\"-18 flange lock"
+  },
+  {
+   "ref": 25,
+   "x": 12.48,
+   "y": 25.54,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\"-18 flange lock"
+  },
+  {
+   "ref": 26,
+   "x": 86.43,
+   "y": 13.36,
+   "partNo": "NSS",
+   "desc": "REFLECTOR - red. rear fender (use C30942)"
+  },
+  {
+   "ref": 27,
+   "x": 89.95,
+   "y": 17.2,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 4 (see Notes below)",
+     "partNo": "C30467",
+     "desc": "FENDER R.H. (220, 222, 224)"
+    },
+    {
+     "serialNote": "Option 2 of 4 (see Notes below)",
+     "partNo": "C30466",
+     "desc": "FENDER - L.H. (220, 222, 224) shown"
+    },
+    {
+     "serialNote": "Option 3 of 4 (see Notes below)",
+     "partNo": "C30471",
+     "desc": "FENDER - R.H. (444)"
+    },
+    {
+     "serialNote": "Option 4 of 4 (see Notes below)",
+     "partNo": "C30470",
+     "desc": "FENDER - L.H. (444)"
+    }
+   ]
+  },
+  {
+   "ref": 28,
+   "x": 97.76,
+   "y": 39.69,
+   "partNo": "182-547",
+   "desc": "SCREW - 1/4\" - 20 x 1/2\""
+  },
+  {
+   "ref": 29,
+   "x": 86.96,
+   "y": 38.24,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\""
+  },
+  {
+   "ref": 30,
+   "x": 12.16,
+   "y": 30.3,
+   "partNo": "C31006",
+   "desc": "SPRING - seat switch"
+  },
+  {
+   "ref": 31,
+   "x": 14.83,
+   "y": 42.08,
+   "partNo": "C26526",
+   "desc": "CAP - spring"
+  }
+ ],
+ "footnotes": "*Use before S/N: 220-14068672, 222-14069604, 224-14070707, 444-14072835. **Use S/N and after: 220-14068672, 222-14069604, 224-14070707, 444-14072835. †Use before S/N: 220-14091130, 222-14092090, 224-14093065, 444-14094825. ††Use S/N and after: 220-14091130, 222-14092090, 224-14093065, 444-14094825."
+}
