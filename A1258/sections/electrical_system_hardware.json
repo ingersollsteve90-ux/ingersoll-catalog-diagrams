@@ -1,0 +1,514 @@
+{
+  "sectionTitle": "Electrical System Hardware",
+  "breadcrumb": "Electrical System Hardware",
+  "catalogLabel": "Catalog A1258",
+  "modelNumbers": "Catalog A1258 \u2014 Case Model 210 Compact Tractor (prior to S/N 9686282)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1258/electrical_system_hardware.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 22.4,
+      "y": 83.4,
+      "partNo": "C 14060",
+      "desc": "NUT - backup 3/4\""
+    },
+    {
+      "ref": 2,
+      "x": 18.9,
+      "y": 81.4,
+      "partNo": "C 17921",
+      "desc": "NUT - escutcheon 3/4\""
+    },
+    {
+      "ref": 3,
+      "x": 60.9,
+      "y": 60.5,
+      "partNo": "C 10836",
+      "desc": "NUT - speed type \"U\""
+    },
+    {
+      "ref": 3,
+      "x": 63.3,
+      "y": 50.3,
+      "partNo": "C 10836",
+      "desc": "NUT - speed type \"U\""
+    },
+    {
+      "ref": 4,
+      "x": 68.8,
+      "y": 58.4,
+      "partNo": "187-485",
+      "desc": "SCREW #10 x 5/8\" self-tapping hex, zinc plated"
+    },
+    {
+      "ref": 4,
+      "x": 67.4,
+      "y": 46.2,
+      "partNo": "187-485",
+      "desc": "SCREW #10 x 5/8\" self-tapping hex, zinc plated"
+    },
+    {
+      "ref": 5,
+      "x": 57.4,
+      "y": 79.8,
+      "partNo": "131-629",
+      "desc": "NUT - speed type \"U\""
+    },
+    {
+      "ref": 6,
+      "x": 65.1,
+      "y": 92.1,
+      "partNo": "187-1047",
+      "desc": "SCREW - #8 x 1/2\" self-tapping round head, phillips"
+    },
+    {
+      "ref": 7,
+      "x": 74.7,
+      "y": 73.1,
+      "partNo": "NSS",
+      "desc": "RECEPTACLE - headlamp (order C22571)"
+    },
+    {
+      "ref": 8,
+      "x": 83.2,
+      "y": 74.2,
+      "partNo": "C 14305",
+      "desc": "BULB - headlamp"
+    },
+    {
+      "ref": 9,
+      "x": 84.2,
+      "y": 78.3,
+      "partNo": "C 14304",
+      "desc": "GASKET - headlamp"
+    },
+    {
+      "ref": 9,
+      "x": 94.1,
+      "y": 82.4,
+      "partNo": "C 14304",
+      "desc": "GASKET - headlamp"
+    },
+    {
+      "ref": 10,
+      "x": 89.6,
+      "y": 80.4,
+      "partNo": "C 22573",
+      "desc": "LENS - headlamp"
+    },
+    {
+      "ref": 11,
+      "x": 91.5,
+      "y": 74.9,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" x 1\" NC hex, zinc plated"
+    },
+    {
+      "ref": 11,
+      "x": 83.6,
+      "y": 58.3,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" x 1\" NC hex, zinc plated"
+    },
+    {
+      "ref": 11,
+      "x": 23.7,
+      "y": 86.1,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" x 1\" NC hex, zinc plated"
+    },
+    {
+      "ref": 12,
+      "x": 87.1,
+      "y": 72.7,
+      "partNo": "193-29",
+      "desc": "LOCKWASHER - 5/16\" internal tooth"
+    },
+    {
+      "ref": 12,
+      "x": 73.1,
+      "y": 56.7,
+      "partNo": "193-29",
+      "desc": "LOCKWASHER - 5/16\" internal tooth"
+    },
+    {
+      "ref": 12,
+      "x": 52.8,
+      "y": 56.0,
+      "partNo": "193-29",
+      "desc": "LOCKWASHER - 5/16\" internal tooth"
+    },
+    {
+      "ref": 12,
+      "x": 88.3,
+      "y": 43.4,
+      "partNo": "193-29",
+      "desc": "LOCKWASHER - 5/16\" internal tooth"
+    },
+    {
+      "ref": 13,
+      "x": 91.0,
+      "y": 44.3,
+      "partNo": "195-520",
+      "desc": "WASHER - 5/16\" plain, zinc plated"
+    },
+    {
+      "ref": 14,
+      "x": 66.4,
+      "y": 54.4,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex, zinc plated"
+    },
+    {
+      "ref": 14,
+      "x": 40.3,
+      "y": 76.2,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex, zinc plated"
+    },
+    {
+      "ref": 15,
+      "x": 30.9,
+      "y": 83.2,
+      "partNo": "111-202",
+      "desc": "BOLT - 5/16\" x 3/4\" NC, rd. hd., square neck (batt. positive)"
+    },
+    {
+      "ref": 16,
+      "x": 50.0,
+      "y": 73.7,
+      "partNo": "111-108",
+      "desc": "BOLT - 1/4\" x 3/4\" NC, rd. hd., square neck (batt. negative)"
+    },
+    {
+      "ref": 17,
+      "x": 55.1,
+      "y": 77.2,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" NC hex"
+    },
+    {
+      "ref": 18,
+      "x": 85.6,
+      "y": 42.4,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" x 3/4\" NC hex, zinc plated"
+    },
+    {
+      "ref": 19,
+      "x": 65.2,
+      "y": 47.7,
+      "partNo": "193-70",
+      "desc": "LOCKWASHER - #10 external tooth"
+    },
+    {
+      "ref": 19,
+      "x": 64.6,
+      "y": 59.9,
+      "partNo": "193-70",
+      "desc": "LOCKWASHER - #10 external tooth"
+    },
+    {
+      "ref": 20,
+      "x": 54.5,
+      "y": 58.3,
+      "partNo": "129-122",
+      "desc": "NUT - 5/16\" NF hex"
+    },
+    {
+      "ref": 21,
+      "x": 94.2,
+      "y": 49.2,
+      "partNo": "C 14599",
+      "desc": "BRACKET - starter generator adjust"
+    },
+    {
+      "ref": 22,
+      "x": 44.1,
+      "y": 48.3,
+      "partNo": "129-27",
+      "desc": "NUT - #10 NF hex"
+    },
+    {
+      "ref": 23,
+      "x": 48.0,
+      "y": 46.9,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - #10"
+    },
+    {
+      "ref": 23,
+      "x": 27.2,
+      "y": 87.0,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - #10"
+    },
+    {
+      "ref": 24,
+      "x": 50.0,
+      "y": 57.6,
+      "partNo": "169-131",
+      "desc": "SCREW - #8 x 5/16\" NC fillister head"
+    },
+    {
+      "ref": 25,
+      "x": 45.3,
+      "y": 91.4,
+      "partNo": "22-58",
+      "desc": "BOLT - 5/16\" x 1/2\" NC hex, self-tapping"
+    },
+    {
+      "ref": 26,
+      "x": 24.3,
+      "y": 93.2,
+      "partNo": "187-1844",
+      "desc": "SCREW - #10 x 1-1/2\" UNF self-tapping"
+    },
+    {
+      "ref": 27,
+      "x": 65.6,
+      "y": 71.4,
+      "partNo": "C 18788",
+      "desc": "SUPPORT - starter generator"
+    },
+    {
+      "ref": 28,
+      "x": 76.6,
+      "y": 59.0,
+      "partNo": "13-612",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex"
+    },
+    {
+      "ref": 29,
+      "x": 72.2,
+      "y": 60.2,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 30,
+      "x": 80.6,
+      "y": 44.3,
+      "partNo": "C 18999",
+      "desc": "SUPPORT - starter generator adjust"
+    },
+    {
+      "ref": 31,
+      "x": 82.6,
+      "y": 56.2,
+      "partNo": "C 17546",
+      "desc": "GROMMET - wire"
+    },
+    {
+      "ref": 32,
+      "x": 44.3,
+      "y": 65.2,
+      "partNo": "182-523",
+      "desc": "SCREW - #10 x 7/8\" binder head"
+    },
+    {
+      "ref": 32,
+      "x": 27.0,
+      "y": 66.8,
+      "partNo": "182-523",
+      "desc": "SCREW - #10 x 7/8\" binder head"
+    },
+    {
+      "ref": 32,
+      "x": 44.9,
+      "y": 22.9,
+      "partNo": "182-523",
+      "desc": "SCREW - #10 x 7/8\" binder head"
+    },
+    {
+      "ref": 32,
+      "x": 82.9,
+      "y": 16.4,
+      "partNo": "182-523",
+      "desc": "SCREW - #10 x 7/8\" binder head"
+    },
+    {
+      "ref": 32,
+      "x": 67.7,
+      "y": 34.6,
+      "partNo": "182-523",
+      "desc": "SCREW - #10 x 7/8\" binder head"
+    },
+    {
+      "ref": 32,
+      "x": 25.6,
+      "y": 34.9,
+      "partNo": "182-523",
+      "desc": "SCREW - #10 x 7/8\" binder head"
+    },
+    {
+      "ref": 33,
+      "x": 30.1,
+      "y": 34.4,
+      "partNo": "C 19254",
+      "desc": "WASHER - nylon 13/64\""
+    },
+    {
+      "ref": 33,
+      "x": 77.9,
+      "y": 19.9,
+      "partNo": "C 19254",
+      "desc": "WASHER - nylon 13/64\""
+    },
+    {
+      "ref": 33,
+      "x": 41.5,
+      "y": 66.0,
+      "partNo": "C 19254",
+      "desc": "WASHER - nylon 13/64\""
+    },
+    {
+      "ref": 33,
+      "x": 20.6,
+      "y": 71.6,
+      "partNo": "C 19254",
+      "desc": "WASHER - nylon 13/64\""
+    },
+    {
+      "ref": 34,
+      "x": 32.8,
+      "y": 77.6,
+      "partNo": "129-77",
+      "desc": "NUT - #10-32 square"
+    },
+    {
+      "ref": 34,
+      "x": 79.7,
+      "y": 29.8,
+      "partNo": "129-77",
+      "desc": "NUT - #10-32 square"
+    },
+    {
+      "ref": 34,
+      "x": 61.4,
+      "y": 26.4,
+      "partNo": "129-77",
+      "desc": "NUT - #10-32 square"
+    },
+    {
+      "ref": 34,
+      "x": 41.6,
+      "y": 28.7,
+      "partNo": "129-77",
+      "desc": "NUT - #10-32 square"
+    },
+    {
+      "ref": 34,
+      "x": 22.6,
+      "y": 23.6,
+      "partNo": "129-77",
+      "desc": "NUT - #10-32 square"
+    },
+    {
+      "ref": 35,
+      "x": 25.7,
+      "y": 22.3,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 35,
+      "x": 37.5,
+      "y": 30.5,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 35,
+      "x": 81.5,
+      "y": 19.0,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 35,
+      "x": 84.2,
+      "y": 27.2,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 35,
+      "x": 42.2,
+      "y": 73.6,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 35,
+      "x": 26.5,
+      "y": 74.4,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 35,
+      "x": 43.3,
+      "y": 24.4,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 35,
+      "x": 70.5,
+      "y": 33.7,
+      "partNo": "195-513",
+      "desc": "WASHER - #10"
+    },
+    {
+      "ref": 36,
+      "x": 23.4,
+      "y": 73.8,
+      "partNo": "C 19246",
+      "desc": "HOLDER - strip switch"
+    },
+    {
+      "ref": 36,
+      "x": 38.6,
+      "y": 67.5,
+      "partNo": "C 19246",
+      "desc": "HOLDER - strip switch"
+    },
+    {
+      "ref": 36,
+      "x": 76.8,
+      "y": 30.8,
+      "partNo": "C 19246",
+      "desc": "HOLDER - strip switch"
+    },
+    {
+      "ref": 36,
+      "x": 70.0,
+      "y": 22.8,
+      "partNo": "C 19246",
+      "desc": "HOLDER - strip switch"
+    },
+    {
+      "ref": 36,
+      "x": 28.5,
+      "y": 19.7,
+      "partNo": "C 19246",
+      "desc": "HOLDER - strip switch"
+    },
+    {
+      "ref": 36,
+      "x": 32.2,
+      "y": 33.0,
+      "partNo": "C 19246",
+      "desc": "HOLDER - strip switch"
+    },
+    {
+      "ref": 37,
+      "x": 86.7,
+      "y": 25.0,
+      "partNo": "129-37",
+      "desc": "NUT - #10-32 hex"
+    }
+  ],
+  "footnotes": "Diagram shows two inset boxes at top ('used prior to S/N 9685953' and 'used S/N 9685953 and after') sharing the same ref numbers (32-37) as variants, plus the main hardware exploded view below."
+}

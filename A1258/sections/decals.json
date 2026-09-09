@@ -1,0 +1,81 @@
+{
+  "sectionTitle": "Decals",
+  "breadcrumb": "Decals",
+  "catalogLabel": "Catalog A1258",
+  "modelNumbers": "Catalog A1258 \u2014 Case Model 210 Compact Tractor (prior to S/N 9686282)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1258/decals.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 45.26,
+      "y": 14.64,
+      "partNo": "321-2499",
+      "desc": "DECAL - hood L.H."
+    },
+    {
+      "ref": 2,
+      "x": 50.77,
+      "y": 14.11,
+      "partNo": "321-2498",
+      "desc": "DECAL - hood R.H."
+    },
+    {
+      "ref": 3,
+      "x": 49.1,
+      "y": 17.79,
+      "variants": [
+        {
+          "partNo": "321-2502",
+          "desc": "DECAL - instrument panel (used prior to S/N 9685953)"
+        },
+        {
+          "partNo": "321-2623",
+          "desc": "DECAL - instrument panel (used S/N 9685953 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 18.87,
+      "y": 77.65,
+      "partNo": "321-1423",
+      "desc": "DECAL - \"CASE\" on seat back"
+    },
+    {
+      "ref": 5,
+      "x": 10.35,
+      "y": 94.67,
+      "partNo": "321-1786",
+      "desc": "DECAL - ignition switch"
+    },
+    {
+      "ref": 6,
+      "x": 40.41,
+      "y": 93.72,
+      "partNo": "C 14066",
+      "desc": "DECAL - gasoline"
+    },
+    {
+      "ref": 7,
+      "x": 59.95,
+      "y": 84.48,
+      "partNo": "321-2487",
+      "desc": "DECAL - caution (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 8,
+      "x": 67.3,
+      "y": 94.67,
+      "partNo": "321-2110",
+      "desc": "DECAL - parking brake"
+    },
+    {
+      "ref": 9,
+      "x": 89.68,
+      "y": 94.77,
+      "partNo": "321-2111",
+      "desc": "DECAL - attachment drive (used prior to 9685953)"
+    }
+  ],
+  "footnotes": "Ref 3 (instrument panel decal) has a before/after S/N 9685953 variant."
+}

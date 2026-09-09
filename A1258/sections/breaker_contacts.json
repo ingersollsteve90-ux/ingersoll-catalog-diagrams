@@ -1,0 +1,94 @@
+{
+  "sectionTitle": "Breaker Contacts",
+  "breadcrumb": "Breaker Contacts",
+  "catalogLabel": "Catalog A1258",
+  "modelNumbers": "Catalog A1258 \u2014 Case Model 210 Compact Tractor (prior to S/N 9686282)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1258/breaker_contacts.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 26.62,
+      "y": 38.03,
+      "partNo": "NSS",
+      "desc": "LEAD - breaker contact (Order from local supplier)"
+    },
+    {
+      "ref": 2,
+      "x": 39.61,
+      "y": 19.96,
+      "partNo": "KO 275182",
+      "desc": "CLIP - wire"
+    },
+    {
+      "ref": 3,
+      "x": 63.14,
+      "y": 85.21,
+      "partNo": "V 34433",
+      "desc": "SCREW - #10 x 3/8\" round head, zinc plated"
+    },
+    {
+      "ref": 3,
+      "x": 10.19,
+      "y": 69.84,
+      "partNo": "V 34433",
+      "desc": "SCREW - #10 x 3/8\" round head, zinc plated"
+    },
+    {
+      "ref": 4,
+      "x": 89.93,
+      "y": 39.51,
+      "partNo": "V 34831",
+      "desc": "ROD - breaker contact push"
+    },
+    {
+      "ref": 5,
+      "x": 32.91,
+      "y": 49.62,
+      "partNo": "V 34426",
+      "desc": "COVER - breaker contact"
+    },
+    {
+      "ref": 6,
+      "x": 53.81,
+      "y": 93.43,
+      "partNo": "V 34423",
+      "desc": "GASKET - cover"
+    },
+    {
+      "ref": 7,
+      "x": 73.9,
+      "y": 75.1,
+      "partNo": "187-408",
+      "desc": "SCREW - #6 x 3/8\" self-tapping"
+    },
+    {
+      "ref": 8,
+      "x": 66.8,
+      "y": 19.7,
+      "partNo": "173-224",
+      "desc": "SCREW - #8 x 1/4\" NC round head"
+    },
+    {
+      "ref": 9,
+      "x": 72.48,
+      "y": 24.01,
+      "partNo": "193-5",
+      "desc": "LOCKWASHER - #8 internal tooth"
+    },
+    {
+      "ref": 10,
+      "x": 77.75,
+      "y": 28.05,
+      "partNo": "KOA 220474",
+      "desc": "POINT SET - breaker contact"
+    },
+    {
+      "ref": 11,
+      "x": 83.43,
+      "y": 33.85,
+      "partNo": "NSS",
+      "desc": "BRACKET - breaker contact"
+    }
+  ],
+  "footnotes": ""
+}

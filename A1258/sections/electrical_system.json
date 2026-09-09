@@ -1,0 +1,207 @@
+{
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "Electrical System",
+  "catalogLabel": "Catalog A1258",
+  "modelNumbers": "Catalog A1258 \u2014 Case Model 210 Compact Tractor (prior to S/N 9686282)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1258/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 42.7,
+      "y": 64.85,
+      "partNo": "C 19120",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 2,
+      "x": 46.56,
+      "y": 16.02,
+      "partNo": "C 17187",
+      "desc": "WIRE - ignition switch to solenoid (yellow 8\")"
+    },
+    {
+      "ref": 3,
+      "x": 33.58,
+      "y": 58.97,
+      "partNo": "C 14565",
+      "desc": "CABLE - battery to solenoid (red 10-1/2\")"
+    },
+    {
+      "ref": 4,
+      "x": 62.82,
+      "y": 78.17,
+      "partNo": "C 14566",
+      "desc": "CABLE - battery to ground (black 12\")"
+    },
+    {
+      "ref": 5,
+      "x": 22.47,
+      "y": 32.7,
+      "partNo": "C 18998",
+      "desc": "SWITCH - strip"
+    },
+    {
+      "ref": 6,
+      "x": 64.57,
+      "y": 6.07,
+      "partNo": "C 14553",
+      "desc": "SOLENOID - start"
+    },
+    {
+      "ref": 7,
+      "x": 50.3,
+      "y": 28.86,
+      "partNo": "A 70221",
+      "desc": "REGULATOR - voltage, 12 volt"
+    },
+    {
+      "ref": 8,
+      "x": 94.15,
+      "y": 40.14,
+      "variants": [
+        {
+          "partNo": "C 16852",
+          "desc": "STARTER - generator 12 V. (Repairs page 45) Delco No. 1101875"
+        },
+        {
+          "partNo": "A 70202",
+          "desc": "STARTER - generator 12 V. (Repairs page 47) Delco No. 1101970"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 93.1,
+      "y": 60.41,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - headlamp"
+    },
+    {
+      "ref": 10,
+      "x": 26.92,
+      "y": 18.78,
+      "partNo": "C 17186",
+      "desc": "LAMP ASSEMBLY - warning, generator indicator"
+    },
+    {
+      "ref": 11,
+      "x": 91.0,
+      "y": 88.24,
+      "partNo": "C 22571",
+      "desc": "HEADLAMP ASSEMBLY - 12 Volt (Repairs page 51)"
+    },
+    {
+      "ref": 12,
+      "x": 23.18,
+      "y": 82.6,
+      "partNo": "C 18197",
+      "desc": "BATTERY - 12 volt"
+    },
+    {
+      "ref": 14,
+      "x": 66.79,
+      "y": 12.9,
+      "partNo": "V 34426",
+      "desc": "COVER - breaker contacts"
+    },
+    {
+      "ref": 15,
+      "x": 62.46,
+      "y": 19.62,
+      "partNo": "C 17275",
+      "desc": "WIRE - regulator ground to solenoid (white 7\")"
+    },
+    {
+      "ref": 16,
+      "x": 73.69,
+      "y": 7.39,
+      "partNo": "M 20007",
+      "desc": "SPARK PLUG - (Includes gasket)"
+    },
+    {
+      "ref": 17,
+      "x": 73.11,
+      "y": 13.86,
+      "partNo": "A 27251",
+      "desc": "GASKET - spark plug"
+    },
+    {
+      "ref": 18,
+      "x": 92.87,
+      "y": 7.75,
+      "partNo": "V 34433",
+      "desc": "CABLE - high tension"
+    },
+    {
+      "ref": 19,
+      "x": 94.39,
+      "y": 17.94,
+      "partNo": "KO 230722",
+      "desc": "CONDENSER"
+    },
+    {
+      "ref": 20,
+      "x": 11.25,
+      "y": 23.34,
+      "partNo": "C 18115",
+      "desc": "SWITCH - strip"
+    },
+    {
+      "ref": 20,
+      "x": 27.5,
+      "y": 32.22,
+      "partNo": "C 18115",
+      "desc": "SWITCH - strip"
+    },
+    {
+      "ref": 21,
+      "x": 29.96,
+      "y": 6.79,
+      "partNo": "C 19055",
+      "desc": "WIRE - solenoid to safety switch (black 17\")"
+    },
+    {
+      "ref": 22,
+      "x": 49.49,
+      "y": 50.09,
+      "partNo": "223-20",
+      "desc": "FUSE - 20 amp, (used in C19120 harness)"
+    },
+    {
+      "ref": 23,
+      "x": 14.41,
+      "y": 49.37,
+      "partNo": "C 21595",
+      "desc": "SWITCH - ignition"
+    },
+    {
+      "ref": 24,
+      "x": 11.25,
+      "y": 45.3,
+      "partNo": "C 17763",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": 25,
+      "x": 81.76,
+      "y": 57.29,
+      "partNo": "C 19286",
+      "desc": "CONNECTOR - headlight extension"
+    },
+    {
+      "ref": 26,
+      "x": 86.32,
+      "y": 56.69,
+      "partNo": "C 19287",
+      "desc": "WIRE - headlight extension"
+    },
+    {
+      "ref": 27,
+      "x": 8.68,
+      "y": 28.26,
+      "partNo": "C 18203",
+      "desc": "WIRE - PTO switch to clutch switch (black 14\")"
+    }
+  ],
+  "footnotes": "Ref 8 (starter-generator) has 2 options: C16852 (repairs p.45) or A70202 (repairs p.47)."
+}

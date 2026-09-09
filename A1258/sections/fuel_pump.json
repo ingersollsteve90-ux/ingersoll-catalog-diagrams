@@ -1,0 +1,24 @@
+{
+  "sectionTitle": "Fuel Pump",
+  "breadcrumb": "Fuel Pump",
+  "catalogLabel": "Catalog A1258",
+  "modelNumbers": "Catalog A1258 \u2014 Case Model 210 Compact Tractor (prior to S/N 9686282)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1258/fuel_pump.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 13.14,
+      "y": 57.15,
+      "partNo": "KO 230675",
+      "desc": "KIT - fuel pump for KOA235845 pump"
+    },
+    {
+      "ref": 2,
+      "x": 83.86,
+      "y": 68.22,
+      "partNo": "C 22738",
+      "desc": "GASKET - fuel pump mounting"
+    }
+  ],
+  "footnotes": "Ref 1 is a kit bracket covering several unlabeled internal parts (spring/valve/gasket/diaphragm) -- only 2 numbered refs on this diagram."
+}

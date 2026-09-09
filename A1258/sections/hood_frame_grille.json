@@ -1,0 +1,300 @@
+{
+  "sectionTitle": "Hood, Frame and Grille",
+  "breadcrumb": "Hood, Frame and Grille",
+  "catalogLabel": "Catalog A1258",
+  "modelNumbers": "Catalog A1258 \u2014 Case Model 210 Compact Tractor (prior to S/N 9686282)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1258/hood_frame_grille.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 80.8,
+      "y": 74.3,
+      "variants": [
+        {
+          "partNo": "C 18942",
+          "desc": "FRAME - main (used prior to S/N 9685953)"
+        },
+        {
+          "partNo": "C 19811",
+          "desc": "FRAME - main (Used S/N 9685953 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 88.0,
+      "y": 62.0,
+      "partNo": "C 16170",
+      "desc": "TRAY - battery"
+    },
+    {
+      "ref": 3,
+      "x": 67.8,
+      "y": 58.3,
+      "partNo": "121-106",
+      "desc": "SCREW - 5/16\" x 1/2\" whizlock (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 4,
+      "x": 79.2,
+      "y": 18.4,
+      "variants": [
+        {
+          "partNo": "C 16364",
+          "desc": "HOOD AND GRILLE ASSEMBLY (used prior to S/N 9685953)"
+        },
+        {
+          "partNo": "C 20056",
+          "desc": "HOOD AND GRILLE ASSEMBLY (used S/N 9685953 and after)"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 49.0,
+      "y": 13.3,
+      "partNo": "C 15183",
+      "desc": "SPRING - hood latch (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 6,
+      "x": 43.0,
+      "y": 12.5,
+      "partNo": "C 15184",
+      "desc": "LATCH - hood (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 7,
+      "x": 38.8,
+      "y": 12.7,
+      "partNo": "111-1",
+      "desc": "BOLT - #10 x 1/2\" NC round head, square neck (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 8,
+      "x": 41.3,
+      "y": 21.5,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - #10 (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 9,
+      "x": 44.0,
+      "y": 22.0,
+      "partNo": "129-17",
+      "desc": "NUT - #10 NC hex (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 10,
+      "x": 39.0,
+      "y": 19.6,
+      "partNo": "195-512",
+      "desc": "WASHER - 7/32\" zinc plated"
+    },
+    {
+      "ref": 11,
+      "x": 59.6,
+      "y": 47.5,
+      "partNo": "C 18153",
+      "desc": "CHANNEL - instrument panel liner"
+    },
+    {
+      "ref": 12,
+      "x": 85.7,
+      "y": 73.4,
+      "partNo": "C 16362",
+      "desc": "ROD - hood hinge"
+    },
+    {
+      "ref": 13,
+      "x": 87.5,
+      "y": 83.4,
+      "partNo": "132-46",
+      "desc": "PIN - cotter 1/8\" x 3/4\" (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 14,
+      "x": 65.2,
+      "y": 33.2,
+      "partNo": "C 14500",
+      "desc": "SPACER - hood (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 15,
+      "x": 55.2,
+      "y": 14.1,
+      "partNo": "111-109",
+      "desc": "BOLT - 1/4\" x 1-1/4\" NC round head, square neck (used prior to S/N 9685953)"
+    },
+    {
+      "ref": 16,
+      "x": 62.4,
+      "y": 35.4,
+      "partNo": "131-71",
+      "desc": "LOCKNUT - 1/4\" NC hex"
+    },
+    {
+      "ref": 17,
+      "x": 36.4,
+      "y": 79.3,
+      "variants": [
+        {
+          "partNo": "C 18890",
+          "desc": "PAD - foot L.H."
+        },
+        {
+          "partNo": "C 18150",
+          "desc": "PAD - foot R.H."
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 31.0,
+      "y": 74.2,
+      "partNo": "13-514",
+      "desc": "BOLT - 5/16\" x 7/8\" NC hex"
+    },
+    {
+      "ref": 19,
+      "x": 34.3,
+      "y": 72.4,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\""
+    },
+    {
+      "ref": 20,
+      "x": 24.9,
+      "y": 58.8,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat"
+    },
+    {
+      "ref": 20,
+      "x": 27.1,
+      "y": 68.9,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat"
+    },
+    {
+      "ref": 21,
+      "x": 24.7,
+      "y": 55.7,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 21,
+      "x": 25.6,
+      "y": 70.8,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": 22,
+      "x": 25.2,
+      "y": 52.8,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex"
+    },
+    {
+      "ref": 23,
+      "x": 85.3,
+      "y": 53.5,
+      "partNo": "C 16239",
+      "desc": "STRAP - battery hold down"
+    },
+    {
+      "ref": 24,
+      "x": 55.4,
+      "y": 87.6,
+      "partNo": "C 16373",
+      "desc": "PIN - latch"
+    },
+    {
+      "ref": 25,
+      "x": 58.8,
+      "y": 86.9,
+      "partNo": "C 16374",
+      "desc": "SPRING - latch"
+    },
+    {
+      "ref": 26,
+      "x": 69.6,
+      "y": 90.3,
+      "partNo": "138-319",
+      "desc": "PIN - roll 3/16\" x 1-1/4\""
+    },
+    {
+      "ref": 27,
+      "x": 67.3,
+      "y": 65.9,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex"
+    },
+    {
+      "ref": 28,
+      "x": 83.7,
+      "y": 75.6,
+      "partNo": "C 16351",
+      "desc": "HINGE - frame"
+    },
+    {
+      "ref": 29,
+      "x": 23.6,
+      "y": 74.2,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 1\" NC hex"
+    },
+    {
+      "ref": 30,
+      "x": 58.4,
+      "y": 81.0,
+      "partNo": "C 18733",
+      "desc": "PIN - attachment"
+    },
+    {
+      "ref": 31,
+      "x": 55.3,
+      "y": 83.3,
+      "partNo": "131-1318",
+      "desc": "LOCKNUT - 1/2\" - 20 NF jam"
+    },
+    {
+      "ref": 32,
+      "x": 53.9,
+      "y": 41.2,
+      "partNo": "C 19283",
+      "desc": "LANYARD - hood"
+    },
+    {
+      "ref": 33,
+      "x": 57.7,
+      "y": 44.0,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex"
+    },
+    {
+      "ref": 34,
+      "x": 68.6,
+      "y": 44.7,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 35,
+      "x": 57.9,
+      "y": 35.3,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 36,
+      "x": 40.4,
+      "y": 40.4,
+      "partNo": "C 20082",
+      "desc": "LINER - hood"
+    }
+  ],
+  "footnotes": "Many refs (1,4,5,6,7,8,9,13,14,15) have before/after S/N 9685953 variants -- some prior-only parts (5,6,7,8,9,13,14,15) are built into the newer hood/frame assembly (ref 4 after-variant) and may not have a separate after-S/N part. Ref 17 has L.H./R.H. variant."
+}

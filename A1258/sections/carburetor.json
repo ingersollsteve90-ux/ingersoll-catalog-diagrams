@@ -1,0 +1,150 @@
+{
+  "sectionTitle": "C23049 Carburetor",
+  "breadcrumb": "C23049 Carburetor",
+  "catalogLabel": "Catalog A1258",
+  "modelNumbers": "Catalog A1258 \u2014 Case Model 210 Compact Tractor (prior to S/N 9686282)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1258/carburetor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 35.71,
+      "y": 46.04,
+      "partNo": "KO 200380",
+      "desc": "SPRING - tension, idle adjust"
+    },
+    {
+      "ref": 2,
+      "x": 39.93,
+      "y": 50.93,
+      "partNo": "A 72092",
+      "desc": "SCREW - idle adjust"
+    },
+    {
+      "ref": 3,
+      "x": 12.21,
+      "y": 29.49,
+      "partNo": "A 72077",
+      "desc": "NEEDLE - main fuel adjust"
+    },
+    {
+      "ref": 4,
+      "x": 10.89,
+      "y": 41.49,
+      "partNo": "KO 200383",
+      "desc": "SPRING - main fuel adjust"
+    },
+    {
+      "ref": 5,
+      "x": 27.66,
+      "y": 35.32,
+      "partNo": "A 72099",
+      "desc": "NEEDLE - idle adjust"
+    },
+    {
+      "ref": 6,
+      "x": 23.83,
+      "y": 38.81,
+      "partNo": "KO 200380",
+      "desc": "SPRING - idle fuel adjust"
+    },
+    {
+      "ref": 7,
+      "x": 65.42,
+      "y": 5.95,
+      "partNo": "F 19892",
+      "desc": "PIN - float"
+    },
+    {
+      "ref": 7,
+      "x": 60.93,
+      "y": 53.96,
+      "partNo": "F 19892",
+      "desc": "PIN - float"
+    },
+    {
+      "ref": 8,
+      "x": 83.11,
+      "y": 58.28,
+      "partNo": "A 72078",
+      "desc": "FLOAT - carburetor"
+    },
+    {
+      "ref": 9,
+      "x": 83.37,
+      "y": 81.47,
+      "partNo": "KO 235448",
+      "desc": "BOWL - carburetor"
+    },
+    {
+      "ref": 10,
+      "x": 79.94,
+      "y": 93.24,
+      "partNo": "KO 235447",
+      "desc": "SCREW AND GASKET ASSEMBLY - carburetor bowl"
+    },
+    {
+      "ref": 11,
+      "x": 80.47,
+      "y": 33.57,
+      "partNo": "A 72103",
+      "desc": "KIT - carburetor repair"
+    },
+    {
+      "ref": 12,
+      "x": 6.66,
+      "y": 70.4,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY (part of ref 11 repair kit)"
+    },
+    {
+      "ref": 12,
+      "x": 88.65,
+      "y": 5.83,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY (part of ref 11 repair kit)"
+    },
+    {
+      "ref": 13,
+      "x": 84.03,
+      "y": 64.92,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl ring (part of ref 11 repair kit)"
+    },
+    {
+      "ref": 13,
+      "x": 65.28,
+      "y": 14.45,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl ring (part of ref 11 repair kit)"
+    },
+    {
+      "ref": 14,
+      "x": 84.3,
+      "y": 72.38,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl baffle (part of ref 11 repair kit)"
+    },
+    {
+      "ref": 14,
+      "x": 65.28,
+      "y": 18.88,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl baffle (part of ref 11 repair kit)"
+    },
+    {
+      "ref": 15,
+      "x": 63.44,
+      "y": 91.49,
+      "partNo": "A 72083",
+      "desc": "GASKET - bowl screw"
+    },
+    {
+      "ref": 15,
+      "x": 65.42,
+      "y": 27.51,
+      "partNo": "A 72083",
+      "desc": "GASKET - bowl screw"
+    }
+  ],
+  "footnotes": "Refs 12,13,14 are unlabeled sub-items of the ref-11 repair kit -- likely no separate callout circle, verify during placement. Table jumps from 11 to 15."
+}

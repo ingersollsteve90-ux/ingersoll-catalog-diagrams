@@ -1,0 +1,130 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Tray",
+  "breadcrumb": "Seat, Fenders and Tool Tray",
+  "catalogLabel": "Catalog A1258",
+  "modelNumbers": "Catalog A1258 \u2014 Case Model 210 Compact Tractor (prior to S/N 9686282)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1258/seat_fenders_tooltray.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 31.7,
+      "y": 91.46,
+      "partNo": "C 18996",
+      "desc": "SUPPORT - seat, front"
+    },
+    {
+      "ref": 2,
+      "x": 18.56,
+      "y": 84.03,
+      "partNo": "C 16404",
+      "desc": "SUPPORT - seat, rear"
+    },
+    {
+      "ref": 3,
+      "x": 60.1,
+      "y": 62.11,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2 x 1\" NC hex"
+    },
+    {
+      "ref": 4,
+      "x": 55.29,
+      "y": 39.83,
+      "partNo": "C 17152",
+      "desc": "HINGE ASSEMBLY - seat"
+    },
+    {
+      "ref": 5,
+      "x": 50.48,
+      "y": 66.51,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\""
+    },
+    {
+      "ref": 6,
+      "x": 34.75,
+      "y": 69.99,
+      "partNo": "C 19417",
+      "desc": "TRAY - tool"
+    },
+    {
+      "ref": 7,
+      "x": 76.88,
+      "y": 44.94,
+      "partNo": "C 16429",
+      "desc": "PIN - seat hinge"
+    },
+    {
+      "ref": 8,
+      "x": 53.41,
+      "y": 12.8,
+      "partNo": "C 16129",
+      "desc": "SEAT - operators"
+    },
+    {
+      "ref": 9,
+      "x": 26.66,
+      "y": 39.49,
+      "partNo": "C 15410",
+      "desc": "CUSHION - rubber"
+    },
+    {
+      "ref": 9,
+      "x": 27.24,
+      "y": 57.58,
+      "partNo": "C 15410",
+      "desc": "CUSHION - rubber"
+    },
+    {
+      "ref": 10,
+      "x": 29.94,
+      "y": 60.37,
+      "partNo": "195-2021",
+      "desc": "WASHER - 5/16 x 1-1/4\" OD, zinc plated"
+    },
+    {
+      "ref": 11,
+      "x": 31.94,
+      "y": 64.77,
+      "partNo": "113-122",
+      "desc": "BOLT - 5/16 x 1-1/2\""
+    },
+    {
+      "ref": 12,
+      "x": 21.73,
+      "y": 50.62,
+      "partNo": "C 14534",
+      "desc": "BUMPER - seat"
+    },
+    {
+      "ref": 13,
+      "x": 63.27,
+      "y": 48.88,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock"
+    },
+    {
+      "ref": 13,
+      "x": 69.72,
+      "y": 77.3,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock"
+    },
+    {
+      "ref": 14,
+      "x": 87.68,
+      "y": 57.93,
+      "variants": [
+        {
+          "partNo": "C 16446",
+          "desc": "FENDER - L.H."
+        },
+        {
+          "partNo": "C 16447",
+          "desc": "FENDER - R.H."
+        }
+      ]
+    }
+  ],
+  "footnotes": "Ref 14 (fender) has L.H./R.H. variant."
+}
