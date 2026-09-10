@@ -1,0 +1,176 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor",
+  "breadcrumb": "",
+  "catalogLabel": "Catalog B1322",
+  "modelNumbers": "Catalog B1322 — Models 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1322/hydraulic_drive_motor.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 3.1,
+      "y": 68.34,
+      "partNo": "C16516",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": "2",
+      "x": 6.91,
+      "y": 63.58,
+      "partNo": "NSS",
+      "desc": "SPACER - (See kit below)"
+    },
+    {
+      "ref": "3",
+      "x": 11.71,
+      "y": 59.53,
+      "partNo": "NSS",
+      "desc": "SEAL - oil (See kit below)"
+    },
+    {
+      "ref": "4",
+      "x": 24.02,
+      "y": 46.87,
+      "partNo": "C14827",
+      "desc": "HOUSING ASSEMBLY"
+    },
+    {
+      "ref": "5",
+      "x": 86.68,
+      "y": 55.78,
+      "partNo": "C14837",
+      "desc": "END CAP"
+    },
+    {
+      "ref": "6",
+      "x": 82.38,
+      "y": 59.83,
+      "partNo": "NSS",
+      "desc": "SEAL - (See kit below)"
+    },
+    {
+      "ref": "6",
+      "x": 34.23,
+      "y": 36.55,
+      "partNo": "NSS",
+      "desc": "SEAL - (See kit below)"
+    },
+    {
+      "ref": "7",
+      "x": 41.34,
+      "y": 32.7,
+      "partNo": "NLA",
+      "desc": "SHAFT - coupling"
+    },
+    {
+      "ref": "8",
+      "x": 50.75,
+      "y": 25.21,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "NLA",
+          "desc": "DRIVE LINK - 220, 222 and 224"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "NLA",
+          "desc": "DRIVE LINK - 444"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 57.05,
+      "y": 17.72,
+      "partNo": "C14830",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": "10",
+      "x": 69.57,
+      "y": 11.04,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C18110",
+          "desc": "ROTOR ASSEMBLY - 220, 222 and 224"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C14831",
+          "desc": "ROTOR ASSEMBLY - 444"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 50.55,
+      "y": 90.1,
+      "partNo": "C28703",
+      "desc": "PLATE - manifold (used prior to motor code 127-7)"
+    },
+    {
+      "ref": "12",
+      "x": 54.95,
+      "y": 82.11,
+      "partNo": "NLA",
+      "desc": "MANIFOLD"
+    },
+    {
+      "ref": "13",
+      "x": 61.06,
+      "y": 74.92,
+      "partNo": "NLA",
+      "desc": "COMMUTATOR AND RING SET"
+    },
+    {
+      "ref": "14",
+      "x": 67.06,
+      "y": 71.58,
+      "partNo": "NSS",
+      "desc": "RING - sealing (See kit below)"
+    },
+    {
+      "ref": "15",
+      "x": 74.27,
+      "y": 65.7,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C18092",
+          "desc": "SLEEVE - 220, 222 and 225"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C14836",
+          "desc": "SLEEVE - 444"
+        }
+      ]
+    },
+    {
+      "ref": "16",
+      "x": 91.19,
+      "y": 43.03,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "O/L",
+          "desc": "BOLT - 3/8\" x 3-7/8\" NF hex, 220, 222 and 224"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C14838",
+          "desc": "BOLT - 3/8\" x 4-3/8\" NF hex, 444"
+        }
+      ]
+    },
+    {
+      "ref": "17",
+      "x": 9.41,
+      "y": 61.45,
+      "partNo": "NSS",
+      "desc": "WASHER - back up, .010\" (See kit below)"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C16697 — MOTOR - hydraulic, 220, 222 and 224; C14655 — MOTOR - hydraulic, 444; C29732 — KIT - \"O\" ring and seal; NSS — RING - sealing; NSS — SEAL - dirt (not used - throw away item); NSS — SEAL; NSS — SEAL; NSS — RING - retaining; NSS — SPACER - seal; NSS — WASHER - back up, .010\"."
+}

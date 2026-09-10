@@ -1,0 +1,202 @@
+{
+  "sectionTitle": "224 and 444 Crankcase Breather, Camshaft and Valves",
+  "breadcrumb": "",
+  "catalogLabel": "Catalog B1322",
+  "modelNumbers": "Catalog B1322 — Models 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1322/crankcase_breather_camshaft_valves_224_444.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 8.33,
+      "y": 64.26,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4'' NC hex"
+    },
+    {
+      "ref": "2",
+      "x": 12.49,
+      "y": 62.52,
+      "partNo": "92- 4",
+      "desc": "LOCKWASHER - 1/4''"
+    },
+    {
+      "ref": "3",
+      "x": 17.97,
+      "y": 60.37,
+      "partNo": "KO 275220",
+      "desc": "STUD - valve cover"
+    },
+    {
+      "ref": "4",
+      "x": 21.93,
+      "y": 58.22,
+      "partNo": "KO 275143",
+      "desc": "COVER - valve"
+    },
+    {
+      "ref": "5",
+      "x": 33.2,
+      "y": 53.3,
+      "partNo": "KO 231032",
+      "desc": "SEAL - breather"
+    },
+    {
+      "ref": "6",
+      "x": 35.94,
+      "y": 8.85,
+      "partNo": "KO 235048",
+      "desc": "GASKET - breather plate"
+    },
+    {
+      "ref": "7",
+      "x": 8.84,
+      "y": 21.04,
+      "partNo": "KO 235118",
+      "desc": "FILTER - breather"
+    },
+    {
+      "ref": "8",
+      "x": 16.04,
+      "y": 17.76,
+      "partNo": "KO 235117",
+      "desc": "BAFFLE - breather"
+    },
+    {
+      "ref": "9",
+      "x": 23.66,
+      "y": 14.18,
+      "partNo": "KO 235047",
+      "desc": "REED - breather"
+    },
+    {
+      "ref": "10",
+      "x": 30.56,
+      "y": 11.11,
+      "partNo": "KO 235631",
+      "desc": "PLATE - breather"
+    },
+    {
+      "ref": "11",
+      "x": 44.27,
+      "y": 47.87,
+      "partNo": "KO 275144",
+      "desc": "GASKET - valve cover"
+    },
+    {
+      "ref": "14",
+      "x": 81.73,
+      "y": 14.18,
+      "partNo": "KO 237672",
+      "desc": "VALVE - exhaust"
+    },
+    {
+      "ref": "15",
+      "x": 82.23,
+      "y": 18.89,
+      "partNo": "KO 235582",
+      "desc": "VALVE - intake"
+    },
+    {
+      "ref": "16",
+      "x": 61.73,
+      "y": 24.21,
+      "partNo": "KO 230170",
+      "desc": "INSERT - exhaust valve seat"
+    },
+    {
+      "ref": "17",
+      "x": 82.54,
+      "y": 33.74,
+      "partNo": "KO 235007-S",
+      "desc": "GUIDE - valve"
+    },
+    {
+      "ref": "18",
+      "x": 8.73,
+      "y": 73.27,
+      "partNo": "KO 235011",
+      "desc": "SEAT - valve spring"
+    },
+    {
+      "ref": "19",
+      "x": 8.63,
+      "y": 77.06,
+      "partNo": "KO 235168",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": "20",
+      "x": 8.94,
+      "y": 80.54,
+      "partNo": "KO 230020",
+      "desc": "ROTATOR - valve (Furnished in pairs only)"
+    },
+    {
+      "ref": "21",
+      "x": 8.84,
+      "y": 85.66,
+      "partNo": "C 24884",
+      "desc": "KIT - lock, valve retainer (1 pair)"
+    },
+    {
+      "ref": "22",
+      "x": 91.78,
+      "y": 82.59,
+      "partNo": "KOD 235327",
+      "desc": "LIFTER ASSEMBLY"
+    },
+    {
+      "ref": "23",
+      "x": 83.25,
+      "y": 79.21,
+      "partNo": "NSS",
+      "desc": "SCREW - tappet adjusting"
+    },
+    {
+      "ref": "24",
+      "x": 83.05,
+      "y": 85.87,
+      "partNo": "NSS",
+      "desc": "LIFTER - valve"
+    },
+    {
+      "ref": "25",
+      "x": 42.54,
+      "y": 77.16,
+      "partNo": "C 25043",
+      "desc": "CAMSHAFT ASSEMBLY"
+    },
+    {
+      "ref": "26",
+      "x": 45.08,
+      "y": 96.42,
+      "partNo": "C 28680",
+      "desc": "SPRING - actuating"
+    },
+    {
+      "ref": "27",
+      "x": 56.85,
+      "y": 95.19,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "KO 275066",
+          "desc": "SPACER - camshaft, .005''"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "KO 275067",
+          "desc": "SPACER - camshaft, .010''"
+        }
+      ]
+    },
+    {
+      "ref": "28",
+      "x": 61.42,
+      "y": 97.23,
+      "partNo": "KO 235053",
+      "desc": "PIN - camshaft"
+    }
+  ],
+  "footnotes": ""
+}

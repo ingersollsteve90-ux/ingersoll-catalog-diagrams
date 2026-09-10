@@ -1,0 +1,317 @@
+{
+  "sectionTitle": "C19803 Clutch Assembly (PTO)",
+  "breadcrumb": "",
+  "catalogLabel": "Catalog B1322",
+  "modelNumbers": "Catalog B1322 — Models 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1322/c19803_clutch_assembly_pto.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 51.55,
+      "y": 45.87,
+      "partNo": "C 31045",
+      "desc": "PULLEY ASSEMBLY - clutch and disc"
+    },
+    {
+      "ref": "2",
+      "x": 7.98,
+      "y": 74.67,
+      "partNo": "C 18907",
+      "desc": "HUB - clutch"
+    },
+    {
+      "ref": "3",
+      "x": 48.42,
+      "y": 70.8,
+      "partNo": "C 15718",
+      "desc": "PLATE - clutch"
+    },
+    {
+      "ref": "4",
+      "x": 41.93,
+      "y": 94.2,
+      "partNo": "164-40",
+      "desc": "BOLT - 5/16'' x 3/4'' NC flat head socket"
+    },
+    {
+      "ref": "5",
+      "x": 37.39,
+      "y": 92.67,
+      "partNo": "193-76",
+      "desc": "LOCKWASHER - 5/16'' countersunk external tooth"
+    },
+    {
+      "ref": "6",
+      "x": 22.47,
+      "y": 63.27,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8''"
+    },
+    {
+      "ref": "7",
+      "x": 57.61,
+      "y": 79.35,
+      "partNo": "C 15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": "7",
+      "x": 71.88,
+      "y": 84.43,
+      "partNo": "C 15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": "7",
+      "x": 25.6,
+      "y": 39.67,
+      "partNo": "C 15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": "7",
+      "x": 32.2,
+      "y": 42.01,
+      "partNo": "C 15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": "8",
+      "x": 66.37,
+      "y": 82.7,
+      "partNo": "C 15557",
+      "desc": "WASHER - sapcer .050''"
+    },
+    {
+      "ref": "8",
+      "x": 77.83,
+      "y": 86.98,
+      "partNo": "C 15557",
+      "desc": "WASHER - sapcer .050''"
+    },
+    {
+      "ref": "8",
+      "x": 37.5,
+      "y": 44.04,
+      "partNo": "C 15557",
+      "desc": "WASHER - sapcer .050''"
+    },
+    {
+      "ref": "8",
+      "x": 66.59,
+      "y": 56.35,
+      "partNo": "C 15557",
+      "desc": "WASHER - sapcer .050''"
+    },
+    {
+      "ref": "8",
+      "x": 57.29,
+      "y": 20.84,
+      "partNo": "C 15557",
+      "desc": "WASHER - sapcer .050''"
+    },
+    {
+      "ref": "9",
+      "x": 26.79,
+      "y": 65.0,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8'' x 1'' NC hex ZP"
+    },
+    {
+      "ref": "10",
+      "x": 40.63,
+      "y": 29.39,
+      "partNo": "C 29735",
+      "desc": "BEARING - cam and pulley"
+    },
+    {
+      "ref": "10",
+      "x": 58.91,
+      "y": 51.98,
+      "partNo": "C 29735",
+      "desc": "BEARING - cam and pulley"
+    },
+    {
+      "ref": "10",
+      "x": 77.72,
+      "y": 59.3,
+      "partNo": "C 29735",
+      "desc": "BEARING - cam and pulley"
+    },
+    {
+      "ref": "11",
+      "x": 71.24,
+      "y": 58.08,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C 21596",
+          "desc": "WASHER - spacer .005''"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C 15556",
+          "desc": "WASHER - spacer .010''"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 84.75,
+      "y": 62.05,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 8 (see Notes below)",
+          "partNo": "C 32169",
+          "desc": "CAM - clutch (used S/N 9703017 and after) 220"
+        },
+        {
+          "serialNote": "Option 2 of 8 (see Notes below)",
+          "partNo": "C 32169",
+          "desc": "CAM - clutch (used S/N 9706746 and after) 222"
+        },
+        {
+          "serialNote": "Option 3 of 8 (see Notes below)",
+          "partNo": "C 32169",
+          "desc": "CAM - clutch (used S/N 9708741 and after) 224"
+        },
+        {
+          "serialNote": "Option 4 of 8 (see Notes below)",
+          "partNo": "C 32169",
+          "desc": "CAM - clutch (used S/N 9711160 and after) 444"
+        },
+        {
+          "serialNote": "Option 5 of 8 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "CAM - clutch (used prior to S/N 9703017) 220 (must service with (2) C32169 cams and (1) C26702 arm)"
+        },
+        {
+          "serialNote": "Option 6 of 8 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "CAM - clutch (used prior to S/N 9706746) 222 (must service with (2) C32169 cams and (1) C26702 arm)"
+        },
+        {
+          "serialNote": "Option 7 of 8 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "CAM - clutch (used prior to S/N 9708741) 224 (must service with (2) C32169 cams and (1) C26702 arm)"
+        },
+        {
+          "serialNote": "Option 8 of 8 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "CAM - clutch (used prior to S/N 9711160) 444 (must service with (2) C32169 cams and (1) C26702 arm)"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 44.63,
+      "y": 12.3,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 8 (see Notes below)",
+          "partNo": "C 32169",
+          "desc": "CAM - clutch (used S/N 9703017 and after) 220"
+        },
+        {
+          "serialNote": "Option 2 of 8 (see Notes below)",
+          "partNo": "C 32169",
+          "desc": "CAM - clutch (used S/N 9706746 and after) 222"
+        },
+        {
+          "serialNote": "Option 3 of 8 (see Notes below)",
+          "partNo": "C 32169",
+          "desc": "CAM - clutch (used S/N 9708741 and after) 224"
+        },
+        {
+          "serialNote": "Option 4 of 8 (see Notes below)",
+          "partNo": "C 32169",
+          "desc": "CAM - clutch (used S/N 9711160 and after) 444"
+        },
+        {
+          "serialNote": "Option 5 of 8 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "CAM - clutch (used prior to S/N 9703017) 220 (must service with (2) C32169 cams and (1) C26702 arm)"
+        },
+        {
+          "serialNote": "Option 6 of 8 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "CAM - clutch (used prior to S/N 9706746) 222 (must service with (2) C32169 cams and (1) C26702 arm)"
+        },
+        {
+          "serialNote": "Option 7 of 8 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "CAM - clutch (used prior to S/N 9708741) 224 (must service with (2) C32169 cams and (1) C26702 arm)"
+        },
+        {
+          "serialNote": "Option 8 of 8 (see Notes below)",
+          "partNo": "NSS",
+          "desc": "CAM - clutch (used prior to S/N 9711160) 444 (must service with (2) C32169 cams and (1) C26702 arm)"
+        }
+      ]
+    },
+    {
+      "ref": "13",
+      "x": 58.91,
+      "y": 36.0,
+      "partNo": "C 16786",
+      "desc": "SPRING - clutch load"
+    },
+    {
+      "ref": "14",
+      "x": 36.42,
+      "y": 11.08,
+      "partNo": "C 18941",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": "15",
+      "x": 70.91,
+      "y": 39.16,
+      "partNo": "C 18908",
+      "desc": "SPACER - hub"
+    },
+    {
+      "ref": "16",
+      "x": 85.08,
+      "y": 12.6,
+      "partNo": "C 28677",
+      "desc": "WASHER - fan 17/32''"
+    },
+    {
+      "ref": "17",
+      "x": 88.1,
+      "y": 15.04,
+      "partNo": "C 18940",
+      "desc": "BOLT - 1/2'' x 1-3/4'' NC hex L.H. threads"
+    },
+    {
+      "ref": "18",
+      "x": 32.2,
+      "y": 9.45,
+      "partNo": "C 26702",
+      "desc": "ARM - engaging"
+    },
+    {
+      "ref": "19",
+      "x": 84.0,
+      "y": 8.53,
+      "partNo": "C 16616",
+      "desc": "FAN - cooling"
+    },
+    {
+      "ref": "20",
+      "x": 45.28,
+      "y": 44.55,
+      "partNo": "C 23740",
+      "desc": "KIT - friction disc"
+    },
+    {
+      "ref": "21",
+      "x": 20.63,
+      "y": 83.92,
+      "partNo": "C 15721",
+      "desc": "SCREEN - grass"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: NSS — CLUTCH AND FAN ASSEMBLY - less screen (use C27150)."
+}

@@ -1,0 +1,213 @@
+{
+  "sectionTitle": "J-17 Hydraulic PTO Valve",
+  "breadcrumb": "",
+  "catalogLabel": "Catalog B1322",
+  "modelNumbers": "Catalog B1322 — Models 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1322/j17_hydraulic_pto_valve.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 12.9,
+      "y": 68.39,
+      "partNo": "C30044",
+      "desc": "VALVE - control"
+    },
+    {
+      "ref": "2",
+      "x": 46.3,
+      "y": 58.45,
+      "partNo": "C11891",
+      "desc": "SEAL - U-cup"
+    },
+    {
+      "ref": "2",
+      "x": 64.5,
+      "y": 78.52,
+      "partNo": "C11891",
+      "desc": "SEAL - U-cup"
+    },
+    {
+      "ref": "3",
+      "x": 71.8,
+      "y": 58.26,
+      "partNo": "O/L",
+      "desc": "PIN - cotter 1/16\" x 1/2\""
+    },
+    {
+      "ref": "4",
+      "x": 58.3,
+      "y": 72.08,
+      "partNo": "C28875",
+      "desc": "PIN - handle"
+    },
+    {
+      "ref": "5",
+      "x": 71.2,
+      "y": 88.29,
+      "partNo": "C19422",
+      "desc": "BRACKET - handle"
+    },
+    {
+      "ref": "6",
+      "x": 90.1,
+      "y": 73.18,
+      "partNo": "71-410",
+      "desc": "SCREW - 1/4\" x 5/8\" NC fillister head"
+    },
+    {
+      "ref": "7",
+      "x": 87.2,
+      "y": 71.16,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": "7",
+      "x": 29.6,
+      "y": 19.22,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": "8",
+      "x": 43.8,
+      "y": 66.18,
+      "partNo": "NSS",
+      "desc": "BODY AND SPOOL ASSEMBLY (Order C18281)"
+    },
+    {
+      "ref": "9",
+      "x": 36.5,
+      "y": 23.82,
+      "partNo": "C11895",
+      "desc": "ADAPTER - spool"
+    },
+    {
+      "ref": "10",
+      "x": 32.9,
+      "y": 22.9,
+      "partNo": "95-4",
+      "desc": "WASHER - plain 1/4\""
+    },
+    {
+      "ref": "11",
+      "x": 25.9,
+      "y": 15.35,
+      "partNo": "75-48",
+      "desc": "SCREW - 1/4\" x 1/2\" rd. hd. machine"
+    },
+    {
+      "ref": "12",
+      "x": 23.0,
+      "y": 11.85,
+      "partNo": "C11893",
+      "desc": "BONNET - detent"
+    },
+    {
+      "ref": "13",
+      "x": 9.0,
+      "y": 24.93,
+      "partNo": "C11901",
+      "desc": "PIN - detent"
+    },
+    {
+      "ref": "14",
+      "x": 8.6,
+      "y": 30.82,
+      "partNo": "C11892",
+      "desc": "SPRING - detent"
+    },
+    {
+      "ref": "15",
+      "x": 7.8,
+      "y": 34.69,
+      "partNo": "C11886",
+      "desc": "WASHER - detent spring"
+    },
+    {
+      "ref": "16",
+      "x": 7.8,
+      "y": 40.77,
+      "partNo": "NLA",
+      "desc": "CAP - detent"
+    },
+    {
+      "ref": "17",
+      "x": 16.4,
+      "y": 7.98,
+      "partNo": "169-88",
+      "desc": "SCREW - bonnet #8-32 x 2\" fillister head"
+    },
+    {
+      "ref": "18",
+      "x": 76.7,
+      "y": 28.98,
+      "partNo": "C19423",
+      "desc": "LEVER - valve"
+    },
+    {
+      "ref": "19",
+      "x": 79.8,
+      "y": 41.5,
+      "partNo": "221-842",
+      "desc": "PLUG - relief 3/8\" NPT"
+    },
+    {
+      "ref": "20",
+      "x": 75.0,
+      "y": 43.71,
+      "partNo": "C28700",
+      "desc": "SHIM - .010\" thick"
+    },
+    {
+      "ref": "21",
+      "x": 73.7,
+      "y": 38.56,
+      "partNo": "C28716",
+      "desc": "SPRING - relief"
+    },
+    {
+      "ref": "22",
+      "x": 77.7,
+      "y": 41.69,
+      "partNo": "C28698",
+      "desc": "SHIM - .020\" thick"
+    },
+    {
+      "ref": "23",
+      "x": 67.6,
+      "y": 35.24,
+      "partNo": "211-11",
+      "desc": "BALL - relief 3/8\""
+    },
+    {
+      "ref": "24",
+      "x": 64.2,
+      "y": 32.66,
+      "partNo": "NLA",
+      "desc": "SEAT - relief"
+    },
+    {
+      "ref": "25",
+      "x": 61.6,
+      "y": 32.66,
+      "partNo": "C28696",
+      "desc": "\"O\" RING - relief seat"
+    },
+    {
+      "ref": "26",
+      "x": 75.8,
+      "y": 13.32,
+      "partNo": "C28237",
+      "desc": "KNOB - hand throttle"
+    },
+    {
+      "ref": "27",
+      "x": 86.9,
+      "y": 61.4,
+      "partNo": "C26266",
+      "desc": "BUSHING - nylon"
+    }
+  ],
+  "footnotes": ""
+}

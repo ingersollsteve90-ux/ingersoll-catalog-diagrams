@@ -1,0 +1,125 @@
+{
+  "sectionTitle": "220 Camshaft and Valves",
+  "breadcrumb": "",
+  "catalogLabel": "Catalog B1322",
+  "modelNumbers": "Catalog B1322 — Models 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1322/crankcase_breather_220_222.jpg",
+  "hotspots": [
+    {
+      "ref": "14",
+      "x": 83.2,
+      "y": 13.76,
+      "partNo": "KO 235826",
+      "desc": "VALVE - exhaust"
+    },
+    {
+      "ref": "15",
+      "x": 83.3,
+      "y": 17.86,
+      "partNo": "KO 235008",
+      "desc": "VALVE - intake"
+    },
+    {
+      "ref": "16",
+      "x": 59.86,
+      "y": 22.77,
+      "partNo": "KO 230170",
+      "desc": "INSERT - exhaust valve seat"
+    },
+    {
+      "ref": "17",
+      "x": 83.4,
+      "y": 31.58,
+      "partNo": "KO 235007-S",
+      "desc": "GUIDE - valve"
+    },
+    {
+      "ref": "18",
+      "x": 8.44,
+      "y": 69.52,
+      "partNo": "KO 235011",
+      "desc": "SEAT - valve spring"
+    },
+    {
+      "ref": "19",
+      "x": 8.54,
+      "y": 73.13,
+      "partNo": "KO 235168",
+      "desc": "SPRING - valve"
+    },
+    {
+      "ref": "20",
+      "x": 8.74,
+      "y": 76.33,
+      "partNo": "KO 230011",
+      "desc": "RETAINER - valve spring"
+    },
+    {
+      "ref": "21",
+      "x": 10.15,
+      "y": 80.84,
+      "partNo": "C 24884",
+      "desc": "KIT - lock, valve retainer (1 pair)"
+    },
+    {
+      "ref": "22",
+      "x": 90.34,
+      "y": 77.63,
+      "partNo": "KOD 235327",
+      "desc": "LIFTER ASSEMBLY"
+    },
+    {
+      "ref": "23",
+      "x": 81.49,
+      "y": 75.03,
+      "partNo": "NSS",
+      "desc": "SCREW - tappet adjusting"
+    },
+    {
+      "ref": "24",
+      "x": 81.99,
+      "y": 80.44,
+      "partNo": "NSS",
+      "desc": "LIFTER - valve"
+    },
+    {
+      "ref": "25",
+      "x": 44.97,
+      "y": 72.93,
+      "partNo": "C 25043",
+      "desc": "CAMSHAFT ASSEMBLY"
+    },
+    {
+      "ref": "26",
+      "x": 59.15,
+      "y": 88.55,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "KO 275066",
+          "desc": "SPACER - camshaft, .005''"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "KO 275067",
+          "desc": "SPACER - camshaft, .010''"
+        }
+      ]
+    },
+    {
+      "ref": "27",
+      "x": 64.18,
+      "y": 90.55,
+      "partNo": "C 30487",
+      "desc": "PIN - camshaft"
+    },
+    {
+      "ref": "28",
+      "x": 47.48,
+      "y": 90.45,
+      "partNo": "C 28680",
+      "desc": "SPRING - actuating"
+    }
+  ],
+  "footnotes": ""
+}

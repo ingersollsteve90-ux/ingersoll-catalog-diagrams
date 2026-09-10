@@ -1,0 +1,188 @@
+{
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "",
+  "catalogLabel": "Catalog B1322",
+  "modelNumbers": "Catalog B1322 — Models 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1322/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 67.39,
+      "y": 46.85,
+      "partNo": "C23023",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": "2",
+      "x": 89.8,
+      "y": 41.53,
+      "partNo": "C23024",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": "3",
+      "x": 24.97,
+      "y": 89.22,
+      "partNo": "C23025",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": "4",
+      "x": 26.37,
+      "y": 9.37,
+      "partNo": "C14565",
+      "desc": "CABLE - battery, positive to solenoid (red, 10-1/2\")"
+    },
+    {
+      "ref": "5",
+      "x": 72.29,
+      "y": 16.64,
+      "partNo": "C23030",
+      "desc": "WIRE - regulator \"A\" terminal to solenoid (white, 10\")"
+    },
+    {
+      "ref": "6",
+      "x": 49.88,
+      "y": 24.05,
+      "partNo": "C24814",
+      "desc": "CABLE - battery, negative (black, 18\")"
+    },
+    {
+      "ref": "7",
+      "x": 82.39,
+      "y": 19.16,
+      "partNo": "C14553",
+      "desc": "SOLENOID - start, 12 v."
+    },
+    {
+      "ref": "8",
+      "x": 53.18,
+      "y": 29.09,
+      "partNo": "C28386",
+      "desc": "REGULATOR - voltage, 12 v."
+    },
+    {
+      "ref": "9",
+      "x": 71.59,
+      "y": 56.36,
+      "partNo": "C14537",
+      "desc": "CONNECTOR - headlamp"
+    },
+    {
+      "ref": "10",
+      "x": 13.57,
+      "y": 22.1,
+      "partNo": "C29413",
+      "desc": "AMMETER - 30 amp"
+    },
+    {
+      "ref": "11",
+      "x": 78.19,
+      "y": 68.8,
+      "partNo": "C32178",
+      "desc": "HEADLAMP ASSEMBLY - 12 v. (repairs page 65)"
+    },
+    {
+      "ref": "12",
+      "x": 74.39,
+      "y": 50.62,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "NSS*",
+          "desc": "STARTER-GENERATOR - 12 v. (repairs page 59) Delco No. 1101875"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "NSS*",
+          "desc": "STARTER-GENERATOR - 12 v. (repairs page 61) Delco No. 1101970"
+        }
+      ]
+    },
+    {
+      "ref": "13",
+      "x": 11.57,
+      "y": 48.81,
+      "partNo": "C23002",
+      "desc": "SWITCH - neutral start"
+    },
+    {
+      "ref": "14",
+      "x": 11.47,
+      "y": 44.61,
+      "partNo": "C21989",
+      "desc": "INSULATOR - switch, neutral start"
+    },
+    {
+      "ref": "15",
+      "x": 22.27,
+      "y": 26.43,
+      "partNo": "C41010",
+      "desc": "BATTERY - 12 v."
+    },
+    {
+      "ref": "16",
+      "x": 11.67,
+      "y": 65.31,
+      "partNo": "C30268",
+      "desc": "SWITCH ASSEMBLY - ignition (includes key)"
+    },
+    {
+      "ref": "17",
+      "x": 8.17,
+      "y": 65.03,
+      "partNo": "C32407",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": "18",
+      "x": 43.78,
+      "y": 52.86,
+      "partNo": "C22765",
+      "desc": "SWITCH - P.T.O."
+    },
+    {
+      "ref": "19",
+      "x": 42.18,
+      "y": 81.81,
+      "partNo": "KO231281",
+      "desc": "COIL - ignition, 12 v."
+    },
+    {
+      "ref": "20",
+      "x": 33.68,
+      "y": 68.1,
+      "partNo": "C29738",
+      "desc": "SPARK PLUG - (includes gasket)"
+    },
+    {
+      "ref": "21",
+      "x": 33.58,
+      "y": 72.58,
+      "partNo": "NSS",
+      "desc": "GASKET - spark plug"
+    },
+    {
+      "ref": "22",
+      "x": 33.88,
+      "y": 59.85,
+      "partNo": "C28693",
+      "desc": "CABLE - high tension"
+    },
+    {
+      "ref": "23",
+      "x": 56.58,
+      "y": 72.58,
+      "partNo": "KO230722",
+      "desc": "CONDENSER"
+    },
+    {
+      "ref": "24",
+      "x": 71.59,
+      "y": 40.97,
+      "partNo": "O/L",
+      "desc": "FUSE - 20 amp. (included in C23023 harness)"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C28694 — BRACKET - coil mounting."
+}

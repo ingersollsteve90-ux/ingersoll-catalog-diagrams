@@ -1,0 +1,498 @@
+{
+  "sectionTitle": "Transmission and Final Drive",
+  "breadcrumb": "",
+  "catalogLabel": "Catalog B1322",
+  "modelNumbers": "Catalog B1322 — Models 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1322/transmission_final_drive.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 45.8,
+      "y": 60.8,
+      "partNo": "NSS",
+      "desc": "CASE - transmission (see pge 51)"
+    },
+    {
+      "ref": "2",
+      "x": 71.8,
+      "y": 21.7,
+      "partNo": "C 12713",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": "2",
+      "x": 18.0,
+      "y": 46.3,
+      "partNo": "C 12713",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": "3",
+      "x": 26.6,
+      "y": 77.1,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "C 16744",
+          "desc": "BEARING - flanged"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "C 24804",
+          "desc": "BEARING - flange"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 66.6,
+      "y": 58.6,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "C 16744",
+          "desc": "BEARING - flanged"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "C 24804",
+          "desc": "BEARING - flange"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "x": 25.7,
+      "y": 88.9,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "C 14531",
+          "desc": "SEAL - axle"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "C 24803",
+          "desc": "SEAL - shaft"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "x": 70.3,
+      "y": 56.6,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "C 14531",
+          "desc": "SEAL - axle"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "C 24803",
+          "desc": "SEAL - shaft"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "x": 37.8,
+      "y": 28.0,
+      "partNo": "C 13241",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": "6",
+      "x": 40.6,
+      "y": 93.6,
+      "partNo": "C 13385",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": "7",
+      "x": 39.1,
+      "y": 62.3,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "221-4",
+          "desc": "PLUG - filler and drain 1/2''"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "C 13266",
+          "desc": "SEAL - shift rod"
+        }
+      ]
+    },
+    {
+      "ref": "7",
+      "x": 49.9,
+      "y": 88.7,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "221-4",
+          "desc": "PLUG - filler and drain 1/2''"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "C 13266",
+          "desc": "SEAL - shift rod"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 80.1,
+      "y": 87.9,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "C 13266",
+          "desc": "SEAL - shift rod"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "C 28281",
+          "desc": "BEARING - roller"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 45.6,
+      "y": 89.3,
+      "partNo": "C 13211",
+      "desc": "BEARING - roller, input shaft"
+    },
+    {
+      "ref": "10",
+      "x": 61.2,
+      "y": 90.9,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "C 12723",
+          "desc": "CAP - shift rod"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "221-4",
+          "desc": "PLUG - 1/2'' filler and drain"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 11.4,
+      "y": 84.3,
+      "partNo": "C 16699",
+      "desc": "SHAFT - axle, short R.H. (220, 222 and 224)"
+    },
+    {
+      "ref": "12",
+      "x": 11.5,
+      "y": 82.1,
+      "partNo": "C 22638",
+      "desc": "SHAFT - axle, short R.H. (444)"
+    },
+    {
+      "ref": "13",
+      "x": 81.5,
+      "y": 51.7,
+      "partNo": "C 16700",
+      "desc": "SHAFT - axle, long L.H. (220, 222 and 224)"
+    },
+    {
+      "ref": "14",
+      "x": 81.5,
+      "y": 49.5,
+      "partNo": "C 22637",
+      "desc": "SHAFT - axle, long L.H. (444)"
+    },
+    {
+      "ref": "15",
+      "x": 42.7,
+      "y": 28.4,
+      "partNo": "C 26342",
+      "desc": "RING - retainer, axle"
+    },
+    {
+      "ref": "16",
+      "x": 62.6,
+      "y": 19.3,
+      "partNo": "C 13196",
+      "desc": "GASKET - transmission cover"
+    },
+    {
+      "ref": "17",
+      "x": 72.8,
+      "y": 11.2,
+      "partNo": "C 36935",
+      "desc": "COVER - transmission"
+    },
+    {
+      "ref": "18",
+      "x": 47.0,
+      "y": 3.2,
+      "partNo": "C 28241",
+      "desc": "BREATHER - transmission"
+    },
+    {
+      "ref": "19",
+      "x": 65.9,
+      "y": 7.7,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4''"
+    },
+    {
+      "ref": "20",
+      "x": 65.8,
+      "y": 5.3,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4'' x 1/2'' NC hex"
+    },
+    {
+      "ref": "21",
+      "x": 58.6,
+      "y": 47.3,
+      "partNo": "C 12725",
+      "desc": "FORK - shift"
+    },
+    {
+      "ref": "22",
+      "x": 86.6,
+      "y": 85.8,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "C 16339",
+          "desc": "ROD - gear shift"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "C 37222",
+          "desc": "ROD - gear shift"
+        }
+      ]
+    },
+    {
+      "ref": "23",
+      "x": 51.4,
+      "y": 58.0,
+      "partNo": "C 14168",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": "23",
+      "x": 62.8,
+      "y": 45.7,
+      "partNo": "C 14168",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": "24",
+      "x": 47.2,
+      "y": 56.0,
+      "partNo": "C 14644",
+      "desc": "GEAR - cluster input"
+    },
+    {
+      "ref": "25",
+      "x": 50.2,
+      "y": 29.5,
+      "partNo": "C 12551",
+      "desc": "GEAR - high 41 tooth"
+    },
+    {
+      "ref": "26",
+      "x": 29.3,
+      "y": 42.2,
+      "partNo": "C 12552",
+      "desc": "GEAR - low 55 tooth"
+    },
+    {
+      "ref": "27",
+      "x": 21.6,
+      "y": 4.7,
+      "partNo": "NSS",
+      "desc": "KIT - diff. case (includes Ref. 34 and 35)"
+    },
+    {
+      "ref": "27",
+      "x": 18.5,
+      "y": 23.6,
+      "partNo": "NSS",
+      "desc": "KIT - diff. case (includes Ref. 34 and 35)"
+    },
+    {
+      "ref": "29",
+      "x": 12.6,
+      "y": 5.1,
+      "partNo": "NSS",
+      "desc": "GEAR - differential pinion (order two of each items 29 and 30)"
+    },
+    {
+      "ref": "29",
+      "x": 23.6,
+      "y": 21.4,
+      "partNo": "NSS",
+      "desc": "GEAR - differential pinion (order two of each items 29 and 30)"
+    },
+    {
+      "ref": "30",
+      "x": 19.5,
+      "y": 7.4,
+      "partNo": "NSS",
+      "desc": "GEAR - differential (order two of each, items 29 and 30)"
+    },
+    {
+      "ref": "30",
+      "x": 19.9,
+      "y": 20.9,
+      "partNo": "NSS",
+      "desc": "GEAR - differential (order two of each, items 29 and 30)"
+    },
+    {
+      "ref": "31",
+      "x": 27.5,
+      "y": 22.9,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "NSS",
+          "desc": "WASHER - pinion thrust"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "NsS",
+          "desc": "WASHER - pinion thrust"
+        }
+      ]
+    },
+    {
+      "ref": "31",
+      "x": 6.6,
+      "y": 5.3,
+      "variants": [
+        {
+          "serialNote": "Standard production",
+          "partNo": "NSS",
+          "desc": "WASHER - pinion thrust"
+        },
+        {
+          "serialNote": "Service Transmission (Kit C24843)",
+          "partNo": "NsS",
+          "desc": "WASHER - pinion thrust"
+        }
+      ]
+    },
+    {
+      "ref": "32",
+      "x": 16.3,
+      "y": 7.1,
+      "partNo": "NSS",
+      "desc": "PIN - differential cross"
+    },
+    {
+      "ref": "33",
+      "x": 7.4,
+      "y": 12.6,
+      "partNo": "NSS",
+      "desc": "PIN - differential cross lock"
+    },
+    {
+      "ref": "34",
+      "x": 78.0,
+      "y": 29.8,
+      "partNo": "28-680",
+      "desc": "SCREW - 3/8'' x 5'' NF hex"
+    },
+    {
+      "ref": "35",
+      "x": 33.5,
+      "y": 52.6,
+      "partNo": "131-1133",
+      "desc": "NUT - lock 3/8'' NF hex"
+    },
+    {
+      "ref": "36",
+      "x": 30.3,
+      "y": 52.3,
+      "partNo": "C 12718",
+      "desc": "WASHER - differential"
+    },
+    {
+      "ref": "36",
+      "x": 66.2,
+      "y": 24.5,
+      "partNo": "C 12718",
+      "desc": "WASHER - differential"
+    },
+    {
+      "ref": "37",
+      "x": 26.1,
+      "y": 54.0,
+      "partNo": "C 14223",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": "38",
+      "x": 28.6,
+      "y": 31.2,
+      "partNo": "C 33417",
+      "desc": "GEAR - brake idler (also use C25258)"
+    },
+    {
+      "ref": "39",
+      "x": 33.0,
+      "y": 30.6,
+      "partNo": "C 14222",
+      "desc": "RING - retainer, brake idler"
+    },
+    {
+      "ref": "40",
+      "x": 32.8,
+      "y": 95.4,
+      "partNo": "C 25258",
+      "desc": "BRAKE DRUM - (also use C33417)"
+    },
+    {
+      "ref": "41",
+      "x": 24.1,
+      "y": 33.0,
+      "partNo": "126-128",
+      "desc": "KEY - Woodruff, brake idler"
+    },
+    {
+      "ref": "42",
+      "x": 91.6,
+      "y": 83.4,
+      "partNo": "138-319",
+      "desc": "PIN - roll 3/16'' x 1-1/2''"
+    },
+    {
+      "ref": "43",
+      "x": 41.4,
+      "y": 4.6,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2'' - 13 x 1'' hex"
+    },
+    {
+      "ref": "44",
+      "x": 40.6,
+      "y": 7.3,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2''"
+    },
+    {
+      "ref": "45",
+      "x": 18.8,
+      "y": 27.3,
+      "partNo": "C 42852",
+      "desc": "DIFFERENTIAL"
+    }
+  ],
+  "footnotes": "Service Transmission kit (C24843) also includes, as a bundle: C 24843 — CASE ASSEMBLY - transmission; NSS — KIT - differential pinion and side gear."
+}

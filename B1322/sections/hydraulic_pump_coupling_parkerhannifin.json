@@ -1,0 +1,191 @@
+{
+  "sectionTitle": "C24868 Hydraulic Pump and Coupling (Parker-Hannifin)",
+  "breadcrumb": "",
+  "catalogLabel": "Catalog B1322",
+  "modelNumbers": "Catalog B1322 — Models 220, 222, 224 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1322/hydraulic_pump_coupling_parkerhannifin.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 17.37,
+      "y": 66.18,
+      "partNo": "C24868",
+      "desc": "PUMP - hyd. 9/16\" shaft"
+    },
+    {
+      "ref": "2",
+      "x": 46.13,
+      "y": 91.69,
+      "partNo": "F53109",
+      "desc": "PIN - dowel"
+    },
+    {
+      "ref": "3",
+      "x": 24.64,
+      "y": 23.51,
+      "partNo": "C24867",
+      "desc": "COVER - rear"
+    },
+    {
+      "ref": "4",
+      "x": 28.06,
+      "y": 73.78,
+      "partNo": "C15731",
+      "desc": "GEAR ASSEMBLY - driven"
+    },
+    {
+      "ref": "5",
+      "x": 30.41,
+      "y": 28.28,
+      "partNo": "C15732",
+      "desc": "\"O\" RING - cover"
+    },
+    {
+      "ref": "5",
+      "x": 71.14,
+      "y": 66.83,
+      "partNo": "C15732",
+      "desc": "\"O\" RING - cover"
+    },
+    {
+      "ref": "6",
+      "x": 48.26,
+      "y": 44.46,
+      "partNo": "C15733",
+      "desc": "BODY - pump"
+    },
+    {
+      "ref": "7",
+      "x": 77.98,
+      "y": 69.22,
+      "partNo": "C15734",
+      "desc": "COVER - front"
+    },
+    {
+      "ref": "8",
+      "x": 81.72,
+      "y": 78.56,
+      "partNo": "C15735",
+      "desc": "SEAL - shaft"
+    },
+    {
+      "ref": "9",
+      "x": 35.54,
+      "y": 36.1,
+      "partNo": "NSS",
+      "desc": "GEAR ASESMBLY - drive"
+    },
+    {
+      "ref": "10",
+      "x": 53.82,
+      "y": 51.3,
+      "partNo": "C15737",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": "11",
+      "x": 58.63,
+      "y": 55.1,
+      "partNo": "C15738",
+      "desc": "SHIELD - heat"
+    },
+    {
+      "ref": "12",
+      "x": 62.8,
+      "y": 59.12,
+      "partNo": "C15739",
+      "desc": "GASKET"
+    },
+    {
+      "ref": "13",
+      "x": 67.72,
+      "y": 63.14,
+      "partNo": "C15740",
+      "desc": "SEAL"
+    },
+    {
+      "ref": "14",
+      "x": 15.55,
+      "y": 22.75,
+      "partNo": "O/L",
+      "desc": "BOLT"
+    },
+    {
+      "ref": "15",
+      "x": 40.67,
+      "y": 38.82,
+      "partNo": "C28215",
+      "desc": "KEY - 3/16\" square"
+    },
+    {
+      "ref": "16",
+      "x": 7.96,
+      "y": 41.42,
+      "partNo": "C19115",
+      "desc": "WASHER"
+    },
+    {
+      "ref": "17",
+      "x": 58.53,
+      "y": 43.38,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C25207",
+          "desc": "COUPLING - pump (220 and 222)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C25208",
+          "desc": "COUPLING - pump (224 and 444)"
+        }
+      ]
+    },
+    {
+      "ref": "18",
+      "x": 59.17,
+      "y": 25.46,
+      "partNo": "NSS",
+      "desc": "HUB - (order item 17)"
+    },
+    {
+      "ref": "19",
+      "x": 74.67,
+      "y": 40.88,
+      "partNo": "NSS",
+      "desc": "HUB - (order item 17)"
+    },
+    {
+      "ref": "20",
+      "x": 78.83,
+      "y": 8.31,
+      "partNo": "C32199",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head"
+    },
+    {
+      "ref": "20",
+      "x": 87.49,
+      "y": 13.08,
+      "partNo": "C32199",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head"
+    },
+    {
+      "ref": "21",
+      "x": 82.04,
+      "y": 12.65,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C28966",
+          "desc": "SPIDER - (for C25207 coupling)"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C15036",
+          "desc": "SPIDER - (for C25208 coupling)"
+        }
+      ]
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C24862 — SHAFT - drive; C24863 — GEAR - drive; C24864 — KEY - gear; C24865 — RING - retaining."
+}
