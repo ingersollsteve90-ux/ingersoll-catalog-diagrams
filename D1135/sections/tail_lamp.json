@@ -1,0 +1,202 @@
+{
+  "sectionTitle": "Tail Lamp",
+  "breadcrumb": "Tail Lamp",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/tail_lamp.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 23.23,
+      "y": 26.9,
+      "partNo": "A 20965",
+      "desc": "LAMP ASSY - flood and tail",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 48.38,
+      "y": 7.53,
+      "partNo": "B 50255",
+      "desc": "MOLDING - lamp retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 50.07,
+      "y": 15.78,
+      "partNo": "10934",
+      "desc": "SCREW - molding",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 55.03,
+      "y": 15.78,
+      "partNo": "A 40855",
+      "desc": "LAMP - sealed unit",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 48.14,
+      "y": 61.84,
+      "partNo": "B 50223",
+      "desc": "BULB - red 15 C.P. 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 47.78,
+      "y": 76.28,
+      "partNo": "B 50273",
+      "desc": "WIRE - switch",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 59.14,
+      "y": 57.83,
+      "partNo": "B 50273",
+      "desc": "WIRE - switch",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 63.86,
+      "y": 28.84,
+      "partNo": "173- 73",
+      "desc": "SCREW - wire",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 92.76,
+      "y": 71.69,
+      "partNo": "173- 73",
+      "desc": "SCREW - wire",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 67.61,
+      "y": 34.69,
+      "partNo": "193- 4",
+      "desc": "WASHER - 1/4\" lock",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 89.98,
+      "y": 66.31,
+      "partNo": "193- 4",
+      "desc": "WASHER - 1/4\" lock",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 60.96,
+      "y": 84.3,
+      "partNo": "NSS",
+      "desc": "SWITCH (Order A43182 kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 85.87,
+      "y": 32.28,
+      "partNo": "NSS",
+      "desc": "KNOB - switch (Order A43182 kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 80.67,
+      "y": 36.29,
+      "partNo": "B 50224",
+      "desc": "NUT - switch",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 70.39,
+      "y": 37.55,
+      "partNo": "10927",
+      "desc": "SPRING - terminal",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 75.35,
+      "y": 36.06,
+      "partNo": "NSS",
+      "desc": "BODY",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 86.96,
+      "y": 60.01,
+      "partNo": "B 50293",
+      "desc": "TERMINAL - wire",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 67.97,
+      "y": 87.96,
+      "partNo": "129- 105",
+      "desc": "NUT - 1/2\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 67.97,
+      "y": 82.35,
+      "partNo": "192- 23",
+      "desc": "WASHER - 1/2\" lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 67.01,
+      "y": 76.05,
+      "partNo": "10923",
+      "desc": "WASHER - bearing",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 7.75,
+      "y": 68.71,
+      "partNo": "113- 209",
+      "desc": "BOLT - 3/8\" x 1-1/2\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 8.59,
+      "y": 84.98,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\" ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 7.26,
+      "y": 92.55,
+      "partNo": "129- 103",
+      "desc": "NUT - 3/8\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 29.52,
+      "y": 79.48,
+      "partNo": "A 34046",
+      "desc": "BRACKET - mounting, tail lamp",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "KIT - switch, tail lamp (includes knob) (A 43182) — Req'd 1"
+}

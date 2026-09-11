@@ -1,0 +1,125 @@
+{
+  "sectionTitle": "Decals and Transfers (Used prior to S/N 9641001)",
+  "breadcrumb": "Decals and Transfers (Used prior to S/N 9641001)",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/decals_transfers_prior_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 32.91,
+      "y": 41.75,
+      "partNo": "C 14228",
+      "desc": "DECAL - instrument panel, large",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 59.24,
+      "y": 64.43,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C 14559",
+          "desc": "DECAL - hood stripe 444 R.H.",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C 14560",
+          "desc": "DECAL - hood stripe 444 L.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 7.04,
+      "y": 10.26,
+      "partNo": "C 14545",
+      "desc": "TRANSFER - PK 444",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 54.74,
+      "y": 6.63,
+      "partNo": "C 14540",
+      "desc": "TRANSFER - hydraulic drive",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 63.74,
+      "y": 13.45,
+      "partNo": "C 14067",
+      "desc": "DECAL - attachment drive",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 66.1,
+      "y": 17.42,
+      "partNo": "C 14066",
+      "desc": "DECAL - gasoline",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 69.81,
+      "y": 22.59,
+      "partNo": "C 14539",
+      "desc": "DECAL - hydraulic reservoir",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 68.24,
+      "y": 26.67,
+      "partNo": "C 14627",
+      "desc": "DECAL - power lift",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 69.25,
+      "y": 31.4,
+      "partNo": "C 14561",
+      "desc": "DECAL - shift range",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 90.74,
+      "y": 25.02,
+      "partNo": "C 12506",
+      "desc": "DECAL - level indicator",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 82.98,
+      "y": 37.35,
+      "partNo": "C 14563",
+      "desc": "DECAL - instrument panel, small",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 55.08,
+      "y": 77.43,
+      "partNo": "C 14546",
+      "desc": "DECAL - stripe, rear hood",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 49.45,
+      "y": 86.13,
+      "partNo": "C 15133",
+      "desc": "DECAL - battery \"alternator caution\"",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

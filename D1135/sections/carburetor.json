@@ -1,0 +1,170 @@
+{
+  "sectionTitle": "Carburetor",
+  "breadcrumb": "Carburetor",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/carburetor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 38.49,
+      "y": 12.46,
+      "partNo": "KO 200380",
+      "desc": "SPRING - idle screw tension",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 43.05,
+      "y": 17.11,
+      "partNo": "A 72092",
+      "desc": "SCREW - idle adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 18.39,
+      "y": 29.73,
+      "partNo": "KO 275373",
+      "desc": "JET ASSEMBLY - high speed and idle adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 17.69,
+      "y": 38.01,
+      "partNo": "A 72076",
+      "desc": "SPRING - idle jet",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 39.66,
+      "y": 39.93,
+      "partNo": "KO 275231",
+      "desc": "SCREW - adjusting (Lean-rich)",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 41.88,
+      "y": 56.18,
+      "partNo": "A 72098",
+      "desc": "SPRING - Lean-rich adjust screw",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 65.84,
+      "y": 57.8,
+      "partNo": "A 72079",
+      "desc": "PIN - carburetor float",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 70.16,
+      "y": 12.87,
+      "partNo": "A 72079",
+      "desc": "PIN - carburetor float",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 84.42,
+      "y": 61.53,
+      "partNo": "A 72078",
+      "desc": "FLOAT ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 85.59,
+      "y": 82.94,
+      "partNo": "A 72080",
+      "desc": "BOWL - carburetor",
+      "reqd": "1"
+    },
+    {
+      "ref": "9A",
+      "x": 67.36,
+      "y": 91.42,
+      "partNo": "A 72083",
+      "desc": "GASKET - bowl screw",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 82.9,
+      "y": 94.04,
+      "partNo": "A 72084",
+      "desc": "NUT AND GASKET ASSEMBLY - bowl",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 83.6,
+      "y": 39.22,
+      "partNo": "A 72103",
+      "desc": "KIT - carburetor repair",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 20.84,
+      "y": 72.13,
+      "partNo": "KO 200443",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 90.27,
+      "y": 13.78,
+      "partNo": "KO 200443",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 85.71,
+      "y": 67.89,
+      "partNo": "NSS",
+      "desc": "GASKET - carburetor bowl ring",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 70.4,
+      "y": 21.95,
+      "partNo": "NSS",
+      "desc": "GASKET - carburetor bowl ring",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 70.05,
+      "y": 26.09,
+      "partNo": "NSS",
+      "desc": "GASKET - carburetor bowl",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 86.06,
+      "y": 74.86,
+      "partNo": "NSS",
+      "desc": "GASKET - carburetor bowl",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 69.93,
+      "y": 34.17,
+      "partNo": "A 72083",
+      "desc": "GASKET - bowl screw",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "CARBURETOR ASSEMBLY (KOA236636) — Req'd 1"
+}

@@ -1,0 +1,194 @@
+{
+  "sectionTitle": "Fuel System",
+  "breadcrumb": "Fuel System",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/fuel_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 81.12,
+      "y": 13.0,
+      "partNo": "KOA236636",
+      "desc": "CARBURETOR ASSEMBLY (Repairs, page 17)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 88.63,
+      "y": 11.6,
+      "partNo": "A 72100",
+      "desc": "GASKET - carburetor flange",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 55.63,
+      "y": 19.1,
+      "partNo": "C 10678",
+      "desc": "ELBOW - fuel pump and carburetor",
+      "reqd": "3"
+    },
+    {
+      "ref": 3,
+      "x": 85.56,
+      "y": 73.0,
+      "partNo": "C 10678",
+      "desc": "ELBOW - fuel pump and carburetor",
+      "reqd": "3"
+    },
+    {
+      "ref": 3,
+      "x": 55.73,
+      "y": 58.4,
+      "partNo": "C 10678",
+      "desc": "ELBOW - fuel pump and carburetor",
+      "reqd": "3"
+    },
+    {
+      "ref": 4,
+      "x": 55.84,
+      "y": 26.3,
+      "partNo": "214- 251",
+      "desc": "CLAMP - hose",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 71.18,
+      "y": 85.8,
+      "partNo": "214- 251",
+      "desc": "CLAMP - hose",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 22.95,
+      "y": 88.8,
+      "partNo": "214- 251",
+      "desc": "CLAMP - hose",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 55.52,
+      "y": 51.1,
+      "partNo": "214- 251",
+      "desc": "CLAMP - hose",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 55.42,
+      "y": 37.5,
+      "partNo": "C 15007",
+      "desc": "HOSE - carburetor 5-1/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 92.86,
+      "y": 59.1,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 92.12,
+      "y": 65.6,
+      "partNo": "113- 103",
+      "desc": "BOLT - 5/16\" x 1\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 7.83,
+      "y": 30.0,
+      "partNo": "C 13411",
+      "desc": "TANK - fuel",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 54.68,
+      "y": 76.3,
+      "partNo": "71- 410",
+      "desc": "SCREW - 1/4\" x 5/8\" NC fillister head",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 58.59,
+      "y": 71.6,
+      "partNo": "193- 60",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 11,
+      "x": 73.61,
+      "y": 58.6,
+      "partNo": "KO 275341",
+      "desc": "GASKET - air horn",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 59.22,
+      "y": 64.9,
+      "partNo": "KOA236205",
+      "desc": "FUEL PUMP",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 87.15,
+      "y": 66.9,
+      "partNo": "A 72108",
+      "desc": "GASKET - fuel pump mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 37.02,
+      "y": 70.5,
+      "partNo": "C 10657",
+      "desc": "ELBOW ASSEMBLY - fuel tank",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 45.37,
+      "y": 77.6,
+      "partNo": "A 62079",
+      "desc": "CLIP - fuel line",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 51.5,
+      "y": 84.0,
+      "partNo": "C 17574",
+      "desc": "HOSE - fuel line",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 14.81,
+      "y": 10.9,
+      "partNo": "C 11529",
+      "desc": "CAP - fuel tank (Includes insert)",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 14.7,
+      "y": 20.7,
+      "partNo": "C 11545",
+      "desc": "INSERT - fuel cap",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

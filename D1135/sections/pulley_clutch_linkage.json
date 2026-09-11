@@ -1,0 +1,66 @@
+{
+  "sectionTitle": "Pulley Clutch & Linkage",
+  "breadcrumb": "Pulley Clutch & Linkage",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/pulley_clutch_linkage.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 7.23,
+      "y": 20.89,
+      "partNo": "C 10487",
+      "desc": "KNOB - lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 16.93,
+      "y": 37.44,
+      "partNo": "NSS",
+      "desc": "CLUTCH - PTO (Repairs, page 25) (Order C19005 clutch)",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 41.2,
+      "y": 23.99,
+      "partNo": "C 14224",
+      "desc": "ROD - clutch control",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 57.19,
+      "y": 47.26,
+      "partNo": "C 15961",
+      "desc": "RETAINER - clutch rod",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 92.81,
+      "y": 75.25,
+      "partNo": "132- 48",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 32.15,
+      "y": 60.99,
+      "partNo": "C 10312",
+      "desc": "SPACER - fan, short (also see page 25, item 13)",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 92.26,
+      "y": 36.37,
+      "partNo": "NSS",
+      "desc": "CLUTCH - PTO (Repairs, page 23) (Order C19005 clutch)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "BUSHING - fliplock (control rod isolation) (C 12092) — Req'd 1"
+}

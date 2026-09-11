@@ -1,0 +1,34 @@
+{
+  "sectionTitle": "Model F27 Hitch Adapter",
+  "breadcrumb": "Model F27 Hitch Adapter",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/f27_hitch_adapter.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 30.39,
+      "y": 45.02,
+      "partNo": "C 14872",
+      "desc": "BRACKET - hitch adapter",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 23.49,
+      "y": 25.3,
+      "partNo": "C 14568",
+      "desc": "PIN - drawbar",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 9.68,
+      "y": 44.53,
+      "partNo": "113- 425",
+      "desc": "BOLT - 1/2\" x 3\" NC hex ZP",
+      "reqd": "4"
+    }
+  ],
+  "footnotes": ""
+}

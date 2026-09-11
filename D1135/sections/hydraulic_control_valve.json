@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "Hydraulic Control Valve",
+  "breadcrumb": "Hydraulic Control Valve",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/hydraulic_control_valve.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 35.39,
+      "y": 5.85,
+      "partNo": "C 13512",
+      "desc": "PLUG - adjusting",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 40.4,
+      "y": 10.59,
+      "partNo": "16905",
+      "desc": "SEAL - \"O\" ring",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 44.62,
+      "y": 15.54,
+      "partNo": "C 13515",
+      "desc": "SPRING - relief",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 48.5,
+      "y": 19.98,
+      "partNo": "211- 10",
+      "desc": "BALL - steel 11/32\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 53.4,
+      "y": 22.3,
+      "partNo": "C 13510",
+      "desc": "SEAT - ball",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 57.17,
+      "y": 26.74,
+      "partNo": "A 27891",
+      "desc": "SEAL - \"O\" ring",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 63.21,
+      "y": 33.5,
+      "partNo": "NSS",
+      "desc": "SPOOL - (Order C14613 valve)",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 94.11,
+      "y": 65.18,
+      "partNo": "C 13514",
+      "desc": "SEAL - quad ring",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 94.91,
+      "y": 76.99,
+      "partNo": "C 13513",
+      "desc": "RING - retainer",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 76.67,
+      "y": 42.68,
+      "partNo": "NSS",
+      "desc": "BODY - valve (Order C14613 valve)",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 57.17,
+      "y": 92.43,
+      "partNo": "221- 12",
+      "desc": "PLUG - 1/4\" NPT",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "VALVE - hydraulic control (C 14613) — Req'd 1"
+}

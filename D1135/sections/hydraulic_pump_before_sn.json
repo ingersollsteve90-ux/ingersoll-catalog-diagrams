@@ -1,0 +1,138 @@
+{
+  "sectionTitle": "Hydraulic Pump (Used prior to S/N 9641001)",
+  "breadcrumb": "Hydraulic Pump (Used prior to S/N 9641001)",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/hydraulic_pump_before_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 19.67,
+      "y": 63.07,
+      "partNo": "C 14244",
+      "desc": "PUMP - hydraulic (Used prior to S/N 9641001)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 34.94,
+      "y": 10.47,
+      "partNo": "13- 650",
+      "desc": "BOLT - 3/8\" x 3-1/8\" NC hex (C14244 pump)",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 42.64,
+      "y": 13.82,
+      "partNo": "92- 6",
+      "desc": "WASHER - special",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 59.21,
+      "y": 7.45,
+      "partNo": "C 11644",
+      "desc": "COVER - rear, pump body",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 67.36,
+      "y": 12.63,
+      "partNo": "C 14923",
+      "desc": "SEAL - pump cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 62.27,
+      "y": 87.69,
+      "partNo": "C 14923",
+      "desc": "SEAL - pump cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 74.04,
+      "y": 15.33,
+      "partNo": "A 35956",
+      "desc": "BEARING - pump gear",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 45.4,
+      "y": 78.94,
+      "partNo": "A 35956",
+      "desc": "BEARING - pump gear",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 82.77,
+      "y": 19.44,
+      "partNo": "C 11642",
+      "desc": "GEAR - pump drive",
+      "reqd": "4"
+    },
+    {
+      "ref": 8,
+      "x": 81.02,
+      "y": 44.82,
+      "partNo": "C 11643",
+      "desc": "GEAR - pump driven",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 93.67,
+      "y": 25.16,
+      "partNo": "126- 12",
+      "desc": "KEY - Woodruff #6",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 31.3,
+      "y": 71.17,
+      "partNo": "NSS",
+      "desc": "BODY - pump (Order C14244)",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 50.35,
+      "y": 82.83,
+      "partNo": "A 72001",
+      "desc": "GASKET - brass, front cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 55.73,
+      "y": 84.56,
+      "partNo": "A 72002",
+      "desc": "SPACER - gasket, front cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 69.83,
+      "y": 91.47,
+      "partNo": "A 72007",
+      "desc": "COVER - front pump body",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 77.39,
+      "y": 95.9,
+      "partNo": "G 13827",
+      "desc": "SEAL - pump shaft",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

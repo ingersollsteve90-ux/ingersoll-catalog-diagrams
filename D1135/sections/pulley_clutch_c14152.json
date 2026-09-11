@@ -1,0 +1,154 @@
+{
+  "sectionTitle": "C14152 Pulley Clutch",
+  "breadcrumb": "C14152 Pulley Clutch",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/pulley_clutch_c14152.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 44.46,
+      "y": 6.7,
+      "partNo": "C 23506",
+      "desc": "YOKE ASSEMBLY - clutch",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 56.06,
+      "y": 11.5,
+      "partNo": "NSS",
+      "desc": "CAM (service with (2) C23033 cams and (1) C23506 arm)",
+      "reqd": "2"
+    },
+    {
+      "ref": 2,
+      "x": 88.6,
+      "y": 88.9,
+      "partNo": "NSS",
+      "desc": "CAM (service with (2) C23033 cams and (1) C23506 arm)",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 69.23,
+      "y": 18.1,
+      "partNo": "C 23245",
+      "desc": "BEARING - cam",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 88.6,
+      "y": 24.7,
+      "partNo": "C 16786",
+      "desc": "SPRING - load",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 88.83,
+      "y": 46.7,
+      "partNo": "C 14297",
+      "desc": "RING - retainer (also see item 13)",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 12.48,
+      "y": 36.7,
+      "partNo": "C 23740",
+      "desc": "KIT - disc, friction",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 32.75,
+      "y": 66.4,
+      "partNo": "C 14292",
+      "desc": "PULLEY",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 42.88,
+      "y": 69.2,
+      "partNo": "C 14294",
+      "desc": "BEARING - cam and pulley",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 75.99,
+      "y": 83.9,
+      "partNo": "C 14294",
+      "desc": "BEARING - cam and pulley",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 50.65,
+      "y": 71.5,
+      "partNo": "C 14288",
+      "desc": "SPACER - .010\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": 10,
+      "x": 34.21,
+      "y": 76.0,
+      "partNo": "C 14283",
+      "desc": "HUB AND PLATE ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 53.92,
+      "y": 82.6,
+      "partNo": "C 14290",
+      "desc": "SPACER - .050\"",
+      "reqd": "5"
+    },
+    {
+      "ref": 11,
+      "x": 60.79,
+      "y": 75.6,
+      "partNo": "C 14290",
+      "desc": "SPACER - .050\"",
+      "reqd": "5"
+    },
+    {
+      "ref": 11,
+      "x": 68.56,
+      "y": 89.3,
+      "partNo": "C 14290",
+      "desc": "SPACER - .050\"",
+      "reqd": "5"
+    },
+    {
+      "ref": 12,
+      "x": 61.13,
+      "y": 86.6,
+      "partNo": "C 13077",
+      "desc": "WASHER - spring",
+      "reqd": "4"
+    },
+    {
+      "ref": 12,
+      "x": 43.11,
+      "y": 79.2,
+      "partNo": "C 13077",
+      "desc": "WASHER - spring",
+      "reqd": "4"
+    },
+    {
+      "ref": 13,
+      "x": 73.4,
+      "y": 8.6,
+      "partNo": "C 16483",
+      "desc": "KIT - spacer (replaces C14297 retainer and C10312 spacer)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

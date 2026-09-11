@@ -1,0 +1,26 @@
+{
+  "sectionTitle": "Fuel Pump",
+  "breadcrumb": "Fuel Pump",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/fuel_pump.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 7.9,
+      "y": 49.16,
+      "partNo": "KO 236387",
+      "desc": "KIT - fuel pump for KOA236205 pump",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 92.1,
+      "y": 64.48,
+      "partNo": "A 72108",
+      "desc": "GASKET - fuel pump mounting",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "VALVE ASSEMBLY — Req'd 2; GASKET - valve — Req'd 2; DIAPHRAGM ASSEMBLY — Req'd 1; SPRING - diaphragm — Req'd 1; GASKET - valve — Req'd 1"
+}

@@ -1,0 +1,165 @@
+{
+  "sectionTitle": "F24 Sleeve Hitch",
+  "breadcrumb": "F24 Sleeve Hitch",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/f24_sleeve_hitch.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 60.98,
+      "y": 19.84,
+      "partNo": "C 14867",
+      "desc": "HITCH FRAME ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 53.53,
+      "y": 58.82,
+      "partNo": "C 14457",
+      "desc": "ARM - lift",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 13.01,
+      "y": 44.81,
+      "partNo": "195- 541",
+      "desc": "WASHER - plain 21/32\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 72.52,
+      "y": 57.07,
+      "partNo": "195- 541",
+      "desc": "WASHER - plain 21/32\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 4,
+      "x": 76.2,
+      "y": 54.11,
+      "partNo": "C 10898",
+      "desc": "PIN - safety",
+      "reqd": "2"
+    },
+    {
+      "ref": 4,
+      "x": 6.92,
+      "y": 48.97,
+      "partNo": "C 10898",
+      "desc": "PIN - safety",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 83.96,
+      "y": 34.73,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C 14459",
+          "desc": "BRACKET - hitch mounting R. H.",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C 14460",
+          "desc": "BRACKET - hitch mounting L. H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 61.92,
+      "y": 39.88,
+      "partNo": "113- 412",
+      "desc": "BOLT - 1/2\" x 1-3/4\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 72.52,
+      "y": 44.26,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\" ZP",
+      "reqd": "6"
+    },
+    {
+      "ref": 7,
+      "x": 77.98,
+      "y": 75.36,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\" ZP",
+      "reqd": "6"
+    },
+    {
+      "ref": 8,
+      "x": 64.86,
+      "y": 59.48,
+      "partNo": "C 14462",
+      "desc": "PLATE - lift lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 88.58,
+      "y": 69.66,
+      "partNo": "113- 417",
+      "desc": "BOLT - 1/2\" x 1-1/4\" NC hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 75.57,
+      "y": 76.56,
+      "partNo": "129- 105",
+      "desc": "NUT - 1/2\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": 10,
+      "x": 33.16,
+      "y": 27.06,
+      "partNo": "129- 105",
+      "desc": "NUT - 1/2\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": 11,
+      "x": 55.62,
+      "y": 52.8,
+      "partNo": "195- 545",
+      "desc": "WASHER - plain 3/4\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 48.17,
+      "y": 54.99,
+      "partNo": "132- 306",
+      "desc": "PIN - cotter 3/16\" x 1-3/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 36.94,
+      "y": 29.25,
+      "partNo": "113- 421",
+      "desc": "BOLT - 1/2\" x 2\" NC hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 47.96,
+      "y": 94.52,
+      "partNo": "C 14568",
+      "desc": "PIN - drawbar",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

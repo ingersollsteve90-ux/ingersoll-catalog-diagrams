@@ -1,0 +1,58 @@
+{
+  "sectionTitle": "Pump Drive Coupling (Used with C15481 pump)",
+  "breadcrumb": "Pump Drive Coupling (Used with C15481 pump)",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/pump_drive_coupling_after_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 22.35,
+      "y": 54.18,
+      "partNo": "C 17298",
+      "desc": "COUPLING ASSEMBLY - (Used with C15481 pump)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 61.59,
+      "y": 7.29,
+      "partNo": "NSS",
+      "desc": "HUB - half 1/2\" diameter bore",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 93.68,
+      "y": 42.76,
+      "partNo": "NSS",
+      "desc": "HUB - half 1\" diameter bore",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 76.26,
+      "y": 21.56,
+      "partNo": "C 15036",
+      "desc": "SPIDER",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 87.45,
+      "y": 22.99,
+      "partNo": "83- 55",
+      "desc": "SCREW - 5/16\" x 5/16\" NC socket head set",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 46.56,
+      "y": 84.14,
+      "partNo": "83- 55",
+      "desc": "SCREW - 5/16\" x 5/16\" NC socket head set",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

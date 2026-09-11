@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "Speed Control",
+  "breadcrumb": "Speed Control",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/speed_control.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 59.39,
+      "y": 24.69,
+      "partNo": "C 14278",
+      "desc": "LEVER - speed control (Used prior to S/N 9641001)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 48.72,
+      "y": 56.95,
+      "partNo": "C 16297",
+      "desc": "ROD - speed control",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 73.9,
+      "y": 14.34,
+      "partNo": "C 12093",
+      "desc": "BUSHING - flip lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 80.37,
+      "y": 7.36,
+      "partNo": "A 37247",
+      "desc": "KNOB - speed control",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 84.04,
+      "y": 92.57,
+      "partNo": "C 12127",
+      "desc": "BUSHING - nylon",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 56.94,
+      "y": 84.87,
+      "partNo": "C 12168",
+      "desc": "JOINT - ball",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 53.97,
+      "y": 60.32,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\" Z.P.",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 55.19,
+      "y": 50.81,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" NC hex Z.P.",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 82.47,
+      "y": 83.91,
+      "partNo": "C 11942",
+      "desc": "SPRING - compression",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 6.77,
+      "y": 18.56,
+      "partNo": "C 15633",
+      "desc": "LEVER - speed control (Used S/N 9641001 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 80.37,
+      "y": 75.72,
+      "partNo": "195- 533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

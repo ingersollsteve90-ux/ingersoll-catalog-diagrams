@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "C12676 Lift Cylinder",
+  "breadcrumb": "C12676 Lift Cylinder",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/lift_cylinder_c12676.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 49.4,
+      "y": 34.91,
+      "partNo": "C 12880",
+      "desc": "ROD - cylinder",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 74.88,
+      "y": 78.2,
+      "partNo": "C 12883",
+      "desc": "HEAD - cylinder",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 20.56,
+      "y": 10.76,
+      "partNo": "C 12884",
+      "desc": "HEAD - cylinder rod end",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 28.96,
+      "y": 46.03,
+      "partNo": "C 12885",
+      "desc": "TUBE - cylinder",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 9.43,
+      "y": 6.27,
+      "partNo": "C 12886",
+      "desc": "CLEVIS - rod end",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 84.97,
+      "y": 55.97,
+      "partNo": "A 27577",
+      "desc": "\"O\" RING - 1-1/2\" OD",
+      "reqd": "3"
+    },
+    {
+      "ref": 6,
+      "x": 60.78,
+      "y": 69.22,
+      "partNo": "A 27577",
+      "desc": "\"O\" RING - 1-1/2\" OD",
+      "reqd": "3"
+    },
+    {
+      "ref": 6,
+      "x": 28.32,
+      "y": 16.0,
+      "partNo": "A 27577",
+      "desc": "\"O\" RING - 1-1/2\" OD",
+      "reqd": "3"
+    },
+    {
+      "ref": 7,
+      "x": 33.23,
+      "y": 21.77,
+      "partNo": "A 27410",
+      "desc": "\"O\" RING - 3/4\" OD",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 90.53,
+      "y": 59.28,
+      "partNo": "C 12903",
+      "desc": "WASHER - back up",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 78.5,
+      "y": 51.27,
+      "partNo": "C 12903",
+      "desc": "WASHER - back up",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

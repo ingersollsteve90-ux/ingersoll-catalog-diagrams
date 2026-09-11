@@ -1,0 +1,335 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Box",
+  "breadcrumb": "Seat, Fenders and Tool Box",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/seat_fenders_tool_box.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 8.87,
+      "y": 65.27,
+      "variants": [
+        {
+          "serialNote": "Used S/N 9641001 and after",
+          "partNo": "C 15448",
+          "desc": "SUPPORT - seat (Used S/N 9641001 and after)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "used prior to S/N 9641001",
+          "partNo": "C 14513",
+          "desc": "SUPPORT - (used prior to S/N 9641001)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 1,
+      "x": 49.58,
+      "y": 22.53,
+      "variants": [
+        {
+          "serialNote": "Used S/N 9641001 and after",
+          "partNo": "C 15448",
+          "desc": "SUPPORT - seat (Used S/N 9641001 and after)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "used prior to S/N 9641001",
+          "partNo": "C 14513",
+          "desc": "SUPPORT - (used prior to S/N 9641001)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 45.76,
+      "y": 77.08,
+      "partNo": "129- 103",
+      "desc": "NUT - 3/8\" NC hex Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 45.43,
+      "y": 88.04,
+      "partNo": "C 11942",
+      "desc": "SPRING - shift lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 53.4,
+      "y": 90.83,
+      "partNo": "111- 349",
+      "desc": "BOLT - 3/8\" x 2-1/2\" NC rd. hd., square neck",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 31.57,
+      "y": 92.65,
+      "partNo": "C 14728",
+      "desc": "GRIP - shift lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 80.03,
+      "y": 83.52,
+      "partNo": "C 14645",
+      "desc": "SPACER - seat hinge",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 64.31,
+      "y": 62.8,
+      "partNo": "C 16443",
+      "desc": "CUSHION - seat",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 64.97,
+      "y": 44.65,
+      "partNo": "C 11635",
+      "desc": "CUSHION - back",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 65.95,
+      "y": 65.81,
+      "variants": [
+        {
+          "serialNote": "Used with C13345 assembly",
+          "partNo": "C 13373",
+          "desc": "PAN - seat (Used with C13345 assembly)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used with C15946 assembly",
+          "partNo": "C 15452",
+          "desc": "PAN - seat (Used with C15946 assembly)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 55.14,
+      "y": 10.29,
+      "variants": [
+        {
+          "serialNote": "Used with C13345 assembly",
+          "partNo": "C 13373",
+          "desc": "PAN - seat (Used with C13345 assembly)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used with C15946 assembly",
+          "partNo": "C 15452",
+          "desc": "PAN - seat (Used with C15946 assembly)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 70.75,
+      "y": 86.75,
+      "partNo": "C 14900",
+      "desc": "SCREW - #10 x 3/8\" Spin-Lok",
+      "reqd": "5"
+    },
+    {
+      "ref": 11,
+      "x": 89.3,
+      "y": 90.83,
+      "partNo": "195- 515",
+      "desc": "WASHER - 1/4\" plain",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 82.21,
+      "y": 87.28,
+      "partNo": "C 13297",
+      "desc": "BRACKET - hinge",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 82.65,
+      "y": 65.91,
+      "partNo": "111- 101",
+      "desc": "BOLT - 1/4\" x 5/8\" rd. hd., square neck",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 84.28,
+      "y": 93.08,
+      "partNo": "131- 350",
+      "desc": "NUT - lock 1/4\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 15,
+      "x": 78.06,
+      "y": 91.47,
+      "partNo": "C 14534",
+      "desc": "BUMPER - seat",
+      "reqd": "2"
+    },
+    {
+      "ref": 15,
+      "x": 65.08,
+      "y": 36.81,
+      "partNo": "C 14534",
+      "desc": "BUMPER - seat",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 16.73,
+      "y": 48.95,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "113- 441",
+          "desc": "BOLT - 1/2\" x 2-1/4\" NC hex",
+          "reqd": "2"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "113- 447",
+          "desc": "BOLT - 1/2\" x 3-1/2\" NC hex",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 36.26,
+      "y": 53.67,
+      "partNo": "113- 424",
+      "desc": "BOLT - 1/2\" x 1\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 18,
+      "x": 26.66,
+      "y": 51.09,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 19,
+      "x": 38.12,
+      "y": 90.93,
+      "variants": [
+        {
+          "serialNote": "used prior to S/N 9641001",
+          "partNo": "C 14258",
+          "desc": "LEVER - shift (used prior to S/N 9641001)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "used S/N 9641001 and after",
+          "partNo": "C 15455",
+          "desc": "LEVER - shift (used S/N 9641001 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 20,
+      "x": 31.35,
+      "y": 81.7,
+      "partNo": "353- 157",
+      "desc": "SLEEVE - lock pin",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 32.33,
+      "y": 84.6,
+      "partNo": "C 14517",
+      "desc": "SPACER - cushion",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 63.33,
+      "y": 28.22,
+      "partNo": "C 15410",
+      "desc": "CUSHION - rubber",
+      "reqd": "8"
+    },
+    {
+      "ref": 22,
+      "x": 63.33,
+      "y": 21.13,
+      "partNo": "C 15410",
+      "desc": "CUSHION - rubber",
+      "reqd": "8"
+    },
+    {
+      "ref": 23,
+      "x": 75.77,
+      "y": 37.45,
+      "partNo": "131- 176",
+      "desc": "NUT - lock 5/16\" NC hex Z.P.",
+      "reqd": "8"
+    },
+    {
+      "ref": 24,
+      "x": 79.48,
+      "y": 38.74,
+      "partNo": "195- 521",
+      "desc": "WASHER - 5/16\" Z.P.",
+      "reqd": "4"
+    },
+    {
+      "ref": 25,
+      "x": 86.25,
+      "y": 32.09,
+      "partNo": "111- 202",
+      "desc": "BOLT - 5/16\" x 3/4\" NC rd. hd., square neck",
+      "reqd": "4"
+    },
+    {
+      "ref": 26,
+      "x": 83.08,
+      "y": 26.61,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C 15396",
+          "desc": "HINGE - seat R.H.",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C 16255",
+          "desc": "HINGE - seat L.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 27,
+      "x": 62.89,
+      "y": 31.01,
+      "partNo": "195- 2021",
+      "desc": "WASHER - 5/16\"",
+      "reqd": "4"
+    }
+  ],
+  "footnotes": "SEAT ASSEMBLY - (Used prior to S/N 9641001) (C 13345) — Req'd 1; SEAT ASSEMBLY - (Used S/N 9641001 and after) (C 15946) — Req'd 1"
+}

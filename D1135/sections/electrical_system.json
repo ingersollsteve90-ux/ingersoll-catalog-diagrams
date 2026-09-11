@@ -1,0 +1,226 @@
+{
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "Electrical System",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 40.13,
+      "y": 50.74,
+      "partNo": "C 14556",
+      "desc": "HARNESS - wire",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 37.77,
+      "y": 40.69,
+      "partNo": "C 14564",
+      "desc": "WIRE - switch to solenoid (Red 8\")",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 42.59,
+      "y": 71.73,
+      "partNo": "C 14565",
+      "desc": "WIRE - battery to solenoid (Red 10-1/2\")",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 66.67,
+      "y": 64.9,
+      "partNo": "C 14566",
+      "desc": "WIRE - battery to ground (Black 12\")",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 34.59,
+      "y": 20.39,
+      "partNo": "C 19562",
+      "desc": "SWITCH - neutral safety",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 12.86,
+      "y": 70.83,
+      "partNo": "C 14553",
+      "desc": "SOLENOID - start",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 42.07,
+      "y": 21.2,
+      "partNo": "C 14547",
+      "desc": "REGULATOR - voltage rectifier, 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 83.79,
+      "y": 34.66,
+      "partNo": "KOA236396-S",
+      "desc": "STARTER - engine 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 82.15,
+      "y": 69.22,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - head lamp",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 10.71,
+      "y": 25.72,
+      "partNo": "C 14554",
+      "desc": "AMMETER ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 76.0,
+      "y": 82.08,
+      "partNo": "C 22571",
+      "desc": "HEAD LAMP ASSEMBLY - 12 volt",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 52.84,
+      "y": 46.31,
+      "partNo": "C 18197",
+      "desc": "BATTERY - 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 39.0,
+      "y": 27.23,
+      "partNo": "NSS",
+      "desc": "SWITCH - ignition (Includes key)(Order C 17809 kit)",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 35.21,
+      "y": 27.23,
+      "partNo": "C 12684",
+      "desc": "KEY - ignition",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 46.58,
+      "y": 45.61,
+      "partNo": "C 10549",
+      "desc": "CLAMP - battery hold down",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 70.98,
+      "y": 6.53,
+      "partNo": "M 20007",
+      "desc": "SPARK PLUG - (Includes gasket)",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 74.26,
+      "y": 19.59,
+      "partNo": "A 27251",
+      "desc": "GASKET - spark plug",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 86.96,
+      "y": 6.23,
+      "partNo": "KOA231960",
+      "desc": "CABLE - high tension",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 71.9,
+      "y": 15.97,
+      "partNo": "KO 237038",
+      "desc": "STATOR - alternator",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 80.71,
+      "y": 17.68,
+      "partNo": "KO 236826",
+      "desc": "COIL - ignition",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 83.07,
+      "y": 30.74,
+      "partNo": "KO 237339",
+      "desc": "TRIGGER MODULE ASSEMBLY (Replaces KO236818)",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 57.04,
+      "y": 34.66,
+      "partNo": "C 14538",
+      "desc": "CONNECTOR - body",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 68.72,
+      "y": 20.19,
+      "partNo": "KO 237105",
+      "desc": "LEAD - trigger module",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 56.73,
+      "y": 12.06,
+      "partNo": "KO 236442",
+      "desc": "CLIP - stator wires",
+      "reqd": "1"
+    },
+    {
+      "ref": 25,
+      "x": 39.31,
+      "y": 25.32,
+      "partNo": "NSS",
+      "desc": "SWITCH - ignition",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 34.9,
+      "y": 25.32,
+      "partNo": "C 17763",
+      "desc": "KEY",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 85.73,
+      "y": 39.08,
+      "partNo": "KO 237327",
+      "desc": "RESISTOR - coil to ignition switch (22 ohm 1/2 watt)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "KIT - ignition switch (includes C17746 switch) (C 17809) — Req'd 1; DECAL (C 17808) — Req'd 1; KIT - ignition (breakerless to breaker) (KO 237750) — Req'd 1; COIL - ignition, 12 volt (KO 231281) — Req'd 1; CONDENSER (KO 230722) — Req'd 1; LEAD - high tension (KOA235334) — Req'd 1; LEAD - breaker points (KOA231839) — Req'd 1; BREAKER ASSEMBLY - includes point set (KOA220981) — Req'd 1; COVER - breaker (KO 232535) — Req'd 1; GASKET - breaker cover (KO 220174) — Req'd 1; TUBING - shrink (KO 236829) — Req'd 1; ROD - push (C 18100) — Req'd 1"
+}

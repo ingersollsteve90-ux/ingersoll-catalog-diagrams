@@ -1,0 +1,58 @@
+{
+  "sectionTitle": "Model F26 Three Point Hitch - Cylinder and Drawbar Mounting",
+  "breadcrumb": "Model F26 Three Point Hitch - Cylinder and Drawbar Mounting",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/f26_cylinder_drawbar_mounting.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 15.14,
+      "y": 13.51,
+      "partNo": "C 14977",
+      "desc": "HITCH PLATE ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 7.43,
+      "y": 57.33,
+      "partNo": "C 14975",
+      "desc": "PIN - lower cylinder mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 11.09,
+      "y": 27.56,
+      "partNo": "C 14976",
+      "desc": "PIN - upper cylinder mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 8.01,
+      "y": 45.96,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 4,
+      "x": 53.85,
+      "y": 48.75,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 5,
+      "x": 92.57,
+      "y": 63.58,
+      "partNo": "113- 417",
+      "desc": "BOLT - 1/2\" x 1-1/4\" NC hex ZP",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

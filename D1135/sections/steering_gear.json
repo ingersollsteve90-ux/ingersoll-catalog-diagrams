@@ -1,0 +1,226 @@
+{
+  "sectionTitle": "Steering Gear",
+  "breadcrumb": "Steering Gear",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/steering_gear.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 51.66,
+      "y": 10.3,
+      "partNo": "L 15282",
+      "desc": "CAP - steering wheel",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 47.84,
+      "y": 18.8,
+      "partNo": "A 70058",
+      "desc": "WHEEL - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 53.83,
+      "y": 14.7,
+      "partNo": "25- 1510",
+      "desc": "NUT - jam 5/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 32.82,
+      "y": 32.5,
+      "partNo": "C 14194",
+      "desc": "SHAFT - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 45.78,
+      "y": 67.9,
+      "partNo": "C 14194",
+      "desc": "SHAFT - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 10.27,
+      "y": 53.5,
+      "partNo": "C 18011",
+      "desc": "SUPPORT - steering gear",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 21.27,
+      "y": 63.6,
+      "partNo": "C 14200",
+      "desc": "PIN - pivot",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 20.29,
+      "y": 70.8,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 39.35,
+      "y": 85.0,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 22.47,
+      "y": 44.6,
+      "partNo": "131- 1112",
+      "desc": "NUT - jam 3/4\" NC hex Gripco Z.P.",
+      "reqd": "4"
+    },
+    {
+      "ref": 9,
+      "x": 37.72,
+      "y": 88.0,
+      "partNo": "G 49048",
+      "desc": "WASHER.",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 36.74,
+      "y": 92.1,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\" Z.P.",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 36.08,
+      "y": 95.1,
+      "partNo": "113- 102",
+      "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 17.68,
+      "y": 78.4,
+      "partNo": "C 14990",
+      "desc": "GEAR - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 35.76,
+      "y": 38.9,
+      "partNo": "A 31220",
+      "desc": "RING - external retainer.",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 38.7,
+      "y": 43.0,
+      "partNo": "A 30881",
+      "desc": "WASHER",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 11.36,
+      "y": 57.6,
+      "partNo": "113- 104",
+      "desc": "BOLT - 5/16\" x 1-1/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 11.14,
+      "y": 49.5,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 17,
+      "x": 11.8,
+      "y": 46.5,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" NC hex.",
+      "reqd": "3"
+    },
+    {
+      "ref": 18,
+      "x": 42.62,
+      "y": 61.7,
+      "partNo": "C 14343",
+      "desc": "WASHER - wavy.",
+      "reqd": "3"
+    },
+    {
+      "ref": 19,
+      "x": 75.61,
+      "y": 28.1,
+      "partNo": "C 12126",
+      "desc": "BUSHING - flanged nylon.",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 44.03,
+      "y": 53.6,
+      "partNo": "219- 404",
+      "desc": "FITTING - lube",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 16.7,
+      "y": 73.2,
+      "partNo": "219- 404",
+      "desc": "FITTING - lube",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 84.98,
+      "y": 31.3,
+      "partNo": "111- 131",
+      "desc": "BOLT - 1/4\" x 1-1/8\" NC rd. hd., square neck",
+      "reqd": "2"
+    },
+    {
+      "ref": 22,
+      "x": 91.84,
+      "y": 53.0,
+      "partNo": "193- 57",
+      "desc": "LOCKWASHER - 1/4\" external tooth",
+      "reqd": "2"
+    },
+    {
+      "ref": 23,
+      "x": 93.04,
+      "y": 56.2,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" NC hex Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 24,
+      "x": 90.21,
+      "y": 47.7,
+      "partNo": "C 19562",
+      "desc": "LOCATOR AND NEUTRAL SAFETY SWITCH ASSEMBLY",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

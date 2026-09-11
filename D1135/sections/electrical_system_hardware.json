@@ -1,0 +1,234 @@
+{
+  "sectionTitle": "Electrical System Hardware",
+  "breadcrumb": "Electrical System Hardware",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/electrical_system_hardware.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 23.16,
+      "y": 19.84,
+      "partNo": "C 14060",
+      "desc": "NUT - back up 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 32.0,
+      "y": 25.15,
+      "partNo": "C 12683",
+      "desc": "NUT - escutcheon 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 76.62,
+      "y": 44.96,
+      "partNo": "187- 484",
+      "desc": "SCREW - #10 x 1/2\" self-tapping hex Z.P.",
+      "reqd": "4"
+    },
+    {
+      "ref": 3,
+      "x": 6.21,
+      "y": 74.98,
+      "partNo": "187- 484",
+      "desc": "SCREW - #10 x 1/2\" self-tapping hex Z.P.",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 9.68,
+      "y": 58.27,
+      "partNo": "C 10836",
+      "desc": "NUT - speed type \"U\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 47.89,
+      "y": 80.89,
+      "partNo": "131- 629",
+      "desc": "NUT - speed type",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 49.47,
+      "y": 93.6,
+      "partNo": "187- 1047",
+      "desc": "SCREW - #8 x 1/2\" self-tapping, rd. hd. Phillips",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 71.78,
+      "y": 73.18,
+      "partNo": "NSS",
+      "desc": "RECEPTACLE - head lamp (Order C22571)",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 81.05,
+      "y": 77.88,
+      "partNo": "C 14305",
+      "desc": "BULB - head lamp",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 83.78,
+      "y": 80.19,
+      "partNo": "C 14304",
+      "desc": "GASKET - head lamp",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 91.99,
+      "y": 83.59,
+      "partNo": "C 14304",
+      "desc": "GASKET - head lamp",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 87.57,
+      "y": 81.29,
+      "partNo": "C 22573",
+      "desc": "LENS - head lamp",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 19.68,
+      "y": 43.06,
+      "partNo": "NSS",
+      "desc": "CLAMP - ammeter mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 16.0,
+      "y": 47.96,
+      "partNo": "192- 18",
+      "desc": "LOCKWASHER - #10",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 14.53,
+      "y": 51.67,
+      "partNo": "129- 661",
+      "desc": "NUT - #10 hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 14,
+      "x": 72.41,
+      "y": 66.08,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 48.84,
+      "y": 53.17,
+      "partNo": "111- 202",
+      "desc": "BOLT - 5/16\" x 3/4\" NC rd. hd., square neck",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 52.73,
+      "y": 48.86,
+      "partNo": "111- 108",
+      "desc": "BOLT - 1/4\" x 3/4\" NC rd. hd., square neck",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 70.52,
+      "y": 56.47,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 26.63,
+      "y": 23.04,
+      "partNo": "193- 61",
+      "desc": "LOCKWASHER - 3/4\" internal tooth",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 9.79,
+      "y": 74.68,
+      "partNo": "193- 70",
+      "desc": "LOCKWASHER - #10 external tooth",
+      "reqd": "2"
+    },
+    {
+      "ref": 20,
+      "x": 20.0,
+      "y": 55.17,
+      "partNo": "129- 122",
+      "desc": "NUT - 5/16\" NF hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 92.73,
+      "y": 13.04,
+      "partNo": "193- 517",
+      "desc": "SCREW - special Sems 1/4\" x 1/2\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 22,
+      "x": 26.31,
+      "y": 63.87,
+      "partNo": "129- 27",
+      "desc": "NUT - #10 NF hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 23,
+      "x": 25.47,
+      "y": 68.58,
+      "partNo": "192- 18",
+      "desc": "LOCKWASHER - #10",
+      "reqd": "4"
+    },
+    {
+      "ref": 23,
+      "x": 39.58,
+      "y": 15.44,
+      "partNo": "192- 18",
+      "desc": "LOCKWASHER - #10",
+      "reqd": "4"
+    },
+    {
+      "ref": 24,
+      "x": 35.26,
+      "y": 19.04,
+      "partNo": "129- 17",
+      "desc": "NUT - #10 hex Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 25,
+      "x": 54.0,
+      "y": 10.04,
+      "partNo": "171- 244",
+      "desc": "SCREW - #10 x 1\" NC flat head",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "HEAD LAMP ASSEMBLY (C 22571) — Req'd 2; AMMETER ASSEMBLY (C 14554) — Req'd 1; WASHER - 3/16\" (spacer on lower rectifier bolt) (195- 101) — Req'd 2"
+}

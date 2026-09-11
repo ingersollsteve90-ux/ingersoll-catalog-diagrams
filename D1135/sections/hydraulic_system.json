@@ -1,0 +1,526 @@
+{
+  "sectionTitle": "Hydraulic System",
+  "breadcrumb": "Hydraulic System",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/hydraulic_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 61.8,
+      "y": 62.6,
+      "variants": [
+        {
+          "serialNote": "Use with C14244 pump",
+          "partNo": "A 70109",
+          "desc": "SUPPORT - pump mounting (Use with C14244 pump)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Use with C15481 pump",
+          "partNo": "C 15335",
+          "desc": "SUPPORT - pump mounting (Use with C15481 pump)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 46.9,
+      "y": 72.8,
+      "partNo": "113- 207",
+      "desc": "BOLT - 3/8\" x 1\" NC hex Z.P.",
+      "reqd": "4"
+    },
+    {
+      "ref": 3,
+      "x": 54.2,
+      "y": 78.1,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\" Z.P.",
+      "reqd": "4"
+    },
+    {
+      "ref": 3,
+      "x": 79.5,
+      "y": 13.8,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\" Z.P.",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 40.8,
+      "y": 53.6,
+      "partNo": "166- 561",
+      "desc": "BOLT - 7/16\" x 1\" NF ferry cap Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 43.4,
+      "y": 54.7,
+      "partNo": "193- 31",
+      "desc": "LOCKWASHER - 7/16\" internal tooth",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 57.2,
+      "y": 63.8,
+      "partNo": "W 5063-S",
+      "desc": "KEY - square 1/4\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 44.4,
+      "y": 70.1,
+      "variants": [
+        {
+          "serialNote": "Use with C14244 pumps",
+          "partNo": "C 14507",
+          "desc": "COUPLING - pump drive (Repairs, page 43) (Use with C14244 pumps)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Use with C15481 pumps",
+          "partNo": "C 17298",
+          "desc": "COUPLING - (Repairs, page 45) (Use with C15481 pumps)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 25.3,
+      "y": 12.4,
+      "partNo": "C 15483",
+      "desc": "SCREW - 12 pt. 1/2\" x 1-1/8\" NC",
+      "reqd": "4"
+    },
+    {
+      "ref": 9,
+      "x": 11.1,
+      "y": 21.4,
+      "partNo": "A 30095",
+      "desc": "SEAL - hydraulic motor to transmission case",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 3.5,
+      "y": 59.6,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "218- 5062",
+          "desc": "FITTING - hydraulic 5/8\" T x 7/8\" \"O\" ring",
+          "reqd": "4"
+        },
+        {
+          "serialNote": "Use with C15481 pumps",
+          "partNo": "218- 5066",
+          "desc": "FITTING - pump pressure (Use with C15481 pumps)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 9.3,
+      "y": 63.0,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "218- 5062",
+          "desc": "FITTING - hydraulic 5/8\" T x 7/8\" \"O\" ring",
+          "reqd": "4"
+        },
+        {
+          "serialNote": "Use with C15481 pumps",
+          "partNo": "218- 5066",
+          "desc": "FITTING - pump pressure (Use with C15481 pumps)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 32.4,
+      "y": 48.6,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "218- 5062",
+          "desc": "FITTING - hydraulic 5/8\" T x 7/8\" \"O\" ring",
+          "reqd": "4"
+        },
+        {
+          "serialNote": "Use with C15481 pumps",
+          "partNo": "218- 5066",
+          "desc": "FITTING - pump pressure (Use with C15481 pumps)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 57.9,
+      "y": 59.5,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "218- 5062",
+          "desc": "FITTING - hydraulic 5/8\" T x 7/8\" \"O\" ring",
+          "reqd": "4"
+        },
+        {
+          "serialNote": "Use with C15481 pumps",
+          "partNo": "218- 5066",
+          "desc": "FITTING - pump pressure (Use with C15481 pumps)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 29.6,
+      "y": 47.3,
+      "partNo": "218- 5077",
+      "desc": "\"O\" RING - 5/8\" (For 218-5062 fittings)",
+      "reqd": "4"
+    },
+    {
+      "ref": 11,
+      "x": 8.8,
+      "y": 59.8,
+      "partNo": "218- 5077",
+      "desc": "\"O\" RING - 5/8\" (For 218-5062 fittings)",
+      "reqd": "4"
+    },
+    {
+      "ref": 11,
+      "x": 3.4,
+      "y": 55.9,
+      "partNo": "218- 5077",
+      "desc": "\"O\" RING - 5/8\" (For 218-5062 fittings)",
+      "reqd": "4"
+    },
+    {
+      "ref": 11,
+      "x": 54.3,
+      "y": 60.8,
+      "partNo": "218- 5077",
+      "desc": "\"O\" RING - 5/8\" (For 218-5062 fittings)",
+      "reqd": "4"
+    },
+    {
+      "ref": 12,
+      "x": 34.3,
+      "y": 71.6,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "218- 5064",
+          "desc": "FITTING - pump suction 3/4\" T x 1-1/16\" \"O\" ring",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Use with C15481 pumps",
+          "partNo": "218- 5065",
+          "desc": "FITTING - pump suction (Use with C15481 pumps)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 37.9,
+      "y": 70.6,
+      "partNo": "218- 5008",
+      "desc": "\"O\" RING - 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 76.9,
+      "y": 97.8,
+      "partNo": "C 14195",
+      "desc": "EXCHANGER - heat",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 77.6,
+      "y": 53.9,
+      "partNo": "C 16101",
+      "desc": "RESERVOIR - hydraulic oil",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 68.4,
+      "y": 52.5,
+      "partNo": "C 11529",
+      "desc": "CAP - reservoir with insert",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 67.3,
+      "y": 55.7,
+      "partNo": "C 11545",
+      "desc": "INSERT - reservoir cap",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 86.5,
+      "y": 43.8,
+      "partNo": "A 70100",
+      "desc": "STRAP - reservoir mounting",
+      "reqd": "2"
+    },
+    {
+      "ref": 19,
+      "x": 77.3,
+      "y": 43.8,
+      "partNo": "173- 215",
+      "desc": "SCREW - 1/4\" x 1-1/4\" NC rd. hd., machine, Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 20,
+      "x": 78.6,
+      "y": 50.0,
+      "partNo": "129- 504",
+      "desc": "NUT - 1/4\" NC square Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 45.6,
+      "y": 31.3,
+      "partNo": "C 14653",
+      "desc": "TUBE - short, valve to upper motor port",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 38.9,
+      "y": 39.5,
+      "partNo": "C 14654",
+      "desc": "TUBE - long, valve to lower motor port",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 37.0,
+      "y": 75.0,
+      "variants": [
+        {
+          "serialNote": "Use with C14244 pump",
+          "partNo": "C 14247",
+          "desc": "TUBE - pump to reservoir (Use with C14244 pump)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used S/N 9641001 and after",
+          "partNo": "C 15478",
+          "desc": "TUBE - pump to reservoir (Used S/N 9641001 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 24,
+      "x": 30.8,
+      "y": 88.0,
+      "variants": [
+        {
+          "serialNote": "Used prior to S/N 9641001",
+          "partNo": "C 14533",
+          "desc": "TUBE - heat exchanger to hydraulic lift valve (Used prior to S/N 9641001)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used S/N 9641001 and after",
+          "partNo": "C 15451",
+          "desc": "TUBE - heat exchanger to hydraulic lift valve (Used S/N 9641001 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 25,
+      "x": 52.6,
+      "y": 48.5,
+      "variants": [
+        {
+          "serialNote": "Used with C14244 pump",
+          "partNo": "C 14249",
+          "desc": "TUBE - pump to valve (Used with C14244 pump)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used S/N 9641001 and after",
+          "partNo": "C 15479",
+          "desc": "TUBE - pump to valve (Used S/N 9641001 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 26,
+      "x": 82.6,
+      "y": 74.1,
+      "partNo": "214- 8",
+      "desc": "CLAMP - hose 1-1/4\"",
+      "reqd": "6"
+    },
+    {
+      "ref": 26,
+      "x": 75.8,
+      "y": 78.8,
+      "partNo": "214- 8",
+      "desc": "CLAMP - hose 1-1/4\"",
+      "reqd": "6"
+    },
+    {
+      "ref": 26,
+      "x": 46.8,
+      "y": 85.0,
+      "partNo": "214- 8",
+      "desc": "CLAMP - hose 1-1/4\"",
+      "reqd": "6"
+    },
+    {
+      "ref": 27,
+      "x": 21.3,
+      "y": 15.5,
+      "partNo": "C 14655",
+      "desc": "MOTOR - hydraulic (repairs on page 47)",
+      "reqd": "1"
+    },
+    {
+      "ref": 28,
+      "x": 85.2,
+      "y": 16.0,
+      "variants": [
+        {
+          "serialNote": "Used prior to S/N 9641001",
+          "partNo": "C 14244",
+          "desc": "PUMP - hydraulic (Repairs, page 43) (Used prior to S/N 9641001)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used S/N 9641001 and after",
+          "partNo": "C 15481",
+          "desc": "PUMP - hydraulic (Repairs, page 45) (Used S/N 9641001 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 28,
+      "x": 29.0,
+      "y": 63.8,
+      "variants": [
+        {
+          "serialNote": "Used prior to S/N 9641001",
+          "partNo": "C 14244",
+          "desc": "PUMP - hydraulic (Repairs, page 43) (Used prior to S/N 9641001)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used S/N 9641001 and after",
+          "partNo": "C 15481",
+          "desc": "PUMP - hydraulic (Repairs, page 45) (Used S/N 9641001 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 29,
+      "x": 28.6,
+      "y": 43.9,
+      "partNo": "C 14613",
+      "desc": "VALVE - control (Repairs, page 41)",
+      "reqd": "1"
+    },
+    {
+      "ref": 30,
+      "x": 89.4,
+      "y": 65.2,
+      "partNo": "C 14245",
+      "desc": "HOSE - 3\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 31,
+      "x": 60.9,
+      "y": 78.5,
+      "partNo": "C 14619",
+      "desc": "HOSE - 4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 31,
+      "x": 49.9,
+      "y": 89.5,
+      "partNo": "C 14619",
+      "desc": "HOSE - 4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 32,
+      "x": 13.8,
+      "y": 38.4,
+      "partNo": "73- 528",
+      "desc": "SCREW - 5/16\" x 1-3/4\" NC flat head",
+      "reqd": "3"
+    },
+    {
+      "ref": 33,
+      "x": 4.4,
+      "y": 47.5,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 34,
+      "x": 3.6,
+      "y": 50.9,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" NC hex",
+      "reqd": "3"
+    },
+    {
+      "ref": 35,
+      "x": 34.1,
+      "y": 25.2,
+      "partNo": "218- 5107",
+      "desc": "FITTING - elbow 90° (Includes \"O\" ring)",
+      "reqd": "2"
+    },
+    {
+      "ref": 36,
+      "x": 32.5,
+      "y": 23.0,
+      "partNo": "218- 5007",
+      "desc": "\"O\" RING - 5/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 37,
+      "x": 76.1,
+      "y": 13.2,
+      "partNo": "114- 200",
+      "desc": "BOLT - 3/8\" x 1\" NF hex Z.P.",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

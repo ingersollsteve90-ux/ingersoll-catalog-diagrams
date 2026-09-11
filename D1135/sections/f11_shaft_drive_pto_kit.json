@@ -1,0 +1,290 @@
+{
+  "sectionTitle": "Model F11 Shaft Drive PTO Kit",
+  "breadcrumb": "Model F11 Shaft Drive PTO Kit",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/f11_shaft_drive_pto_kit.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 36.69,
+      "y": 16.56,
+      "partNo": "C 14646",
+      "desc": "BRACKET - R.H. mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 50.33,
+      "y": 10.43,
+      "partNo": "C 14647",
+      "desc": "BRACKET - L.H. mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 41.27,
+      "y": 15.83,
+      "partNo": "111- 362",
+      "desc": "BOLT - 3/8\" x 1\" NC rd. hd. square neck",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 33.41,
+      "y": 20.3,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "10"
+    },
+    {
+      "ref": 4,
+      "x": 19.11,
+      "y": 32.25,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "10"
+    },
+    {
+      "ref": 5,
+      "x": 29.15,
+      "y": 24.04,
+      "partNo": "129- 103",
+      "desc": "NUT - 3/8\" NC hex ZP",
+      "reqd": "10"
+    },
+    {
+      "ref": 5,
+      "x": 13.55,
+      "y": 31.31,
+      "partNo": "129- 103",
+      "desc": "NUT - 3/8\" NC hex ZP",
+      "reqd": "10"
+    },
+    {
+      "ref": 6,
+      "x": 68.01,
+      "y": 11.36,
+      "partNo": "C 12692",
+      "desc": "PIN - clevis 5/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 62.34,
+      "y": 12.71,
+      "partNo": "C 10898",
+      "desc": "PIN - safety",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 83.29,
+      "y": 33.29,
+      "partNo": "C 14363",
+      "desc": "SPACER - mounting bracket",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 35.38,
+      "y": 40.04,
+      "partNo": "113- 424",
+      "desc": "BOLT - 1/2\" x 2\" NC hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 38.65,
+      "y": 38.07,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": 11,
+      "x": 89.62,
+      "y": 64.67,
+      "partNo": "C 14116",
+      "desc": "BELT - PTO drive",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 39.74,
+      "y": 79.11,
+      "partNo": "C 14113",
+      "desc": "PULLEY - PTO",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 25.88,
+      "y": 31.94,
+      "partNo": "NSS",
+      "desc": "PLATE - bearing mounting (order item 23)",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 67.47,
+      "y": 90.96,
+      "partNo": "NSS",
+      "desc": "PLATE - bearing mounting (order item 23)",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 15.07,
+      "y": 54.8,
+      "partNo": "C 14504",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": 14,
+      "x": 28.72,
+      "y": 66.12,
+      "partNo": "C 14504",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": 14,
+      "x": 53.39,
+      "y": 81.61,
+      "partNo": "C 14504",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": 14,
+      "x": 63.65,
+      "y": 87.01,
+      "partNo": "C 14504",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": 15,
+      "x": 23.15,
+      "y": 61.14,
+      "partNo": "C 14505",
+      "desc": "BEARING - pulley",
+      "reqd": "2"
+    },
+    {
+      "ref": 15,
+      "x": 59.06,
+      "y": 83.58,
+      "partNo": "C 14505",
+      "desc": "BEARING - pulley",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 50.11,
+      "y": 53.45,
+      "partNo": "111- 362",
+      "desc": "BOLT - 3/8\" x 1\" NC rd. hd. square neck ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": 17,
+      "x": 34.83,
+      "y": 69.76,
+      "partNo": "111- 340",
+      "desc": "BOLT - 3/8\" x 3/4\" NC rd. hd. square neck ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": 18,
+      "x": 8.2,
+      "y": 38.69,
+      "partNo": "113- 111",
+      "desc": "BOLT - 5/16\" x 2-1/2\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 72.38,
+      "y": 95.53,
+      "partNo": "131- 176",
+      "desc": "NUT - lock 5/16\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 80.45,
+      "y": 7.41,
+      "partNo": "NSS",
+      "desc": "NUT - belt tension (order item 23)",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 82.64,
+      "y": 19.99,
+      "partNo": "NSS",
+      "desc": "SCREW - belt tension adj. (order item 23)",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 81.22,
+      "y": 13.65,
+      "partNo": "C 14353",
+      "desc": "LOCK - belt tension",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 24.02,
+      "y": 68.51,
+      "partNo": "C 15558",
+      "desc": "KIT - belt tightener",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 7.32,
+      "y": 88.67,
+      "partNo": "C 15261",
+      "desc": "PLATE - bearing mounting",
+      "reqd": "2"
+    },
+    {
+      "ref": 25,
+      "x": 17.69,
+      "y": 82.23,
+      "partNo": "C 15264",
+      "desc": "SPACER - belt tension",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 30.68,
+      "y": 87.74,
+      "partNo": "C 15262",
+      "desc": "SCREW - belt tension",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 7.0,
+      "y": 71.22,
+      "partNo": "113- 102",
+      "desc": "BOLT - 5/16\" x 3/4\" NC hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": 28,
+      "x": 9.73,
+      "y": 75.06,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\" ZP",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

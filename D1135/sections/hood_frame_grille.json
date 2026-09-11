@@ -1,0 +1,264 @@
+{
+  "sectionTitle": "Hood, Frame and Grille",
+  "breadcrumb": "Hood, Frame and Grille",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/hood_frame_grille.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 82.44,
+      "y": 77.23,
+      "partNo": "C 16485",
+      "desc": "KIT - frame (Includes items 22, 23 and C15478 tube)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 31.08,
+      "y": 41.37,
+      "partNo": "C 14342",
+      "desc": "SUPPORT - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 60.19,
+      "y": 61.3,
+      "partNo": "C 14326",
+      "desc": "SCREW - 1/4\" x 1/2\" NC indented hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 77.66,
+      "y": 14.13,
+      "partNo": "C 14213",
+      "desc": "GRILLE AND HOOD ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 29.14,
+      "y": 22.21,
+      "partNo": "C 14210",
+      "desc": "PANEL - rear side L.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 89.43,
+      "y": 85.74,
+      "partNo": "195- 520",
+      "desc": "WASHER - 1/4\" plain Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 89.95,
+      "y": 89.19,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\" Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 89.3,
+      "y": 92.85,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 24.36,
+      "y": 24.36,
+      "partNo": "187- 1036",
+      "desc": "SCREW - 1/4\" x 1/2\" self-tapping hex head",
+      "reqd": "6"
+    },
+    {
+      "ref": 10,
+      "x": 60.32,
+      "y": 31.25,
+      "partNo": "C 14500",
+      "desc": "SPACER - hood",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 45.83,
+      "y": 9.5,
+      "partNo": "111- 109",
+      "desc": "BOLT - 1/4\" x 1-1/4\" rd. hd, square neck",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 56.44,
+      "y": 33.51,
+      "partNo": "131- 71",
+      "desc": "NUT - 1/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 15.82,
+      "y": 84.34,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "C 14589",
+          "desc": "PAD - foot L.H.",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "C 14590",
+          "desc": "PAD - foot R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 49.07,
+      "y": 82.29,
+      "variants": [
+        {
+          "serialNote": "Option 1 of 2 (see Notes below)",
+          "partNo": "13- 514",
+          "desc": "BOLT - 5/16\" x 7/8\" NC hex, L.H. foot pad",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Option 2 of 2 (see Notes below)",
+          "partNo": "113- 104",
+          "desc": "BOLT - 5/16\" x 1-1/4\" NC hex, R.H. foot pad",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 17.37,
+      "y": 74.65,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 12.07,
+      "y": 76.7,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 7.28,
+      "y": 66.46,
+      "partNo": "C 14729",
+      "desc": "SPACER - rear frame",
+      "reqd": "2"
+    },
+    {
+      "ref": 18,
+      "x": 52.43,
+      "y": 46.33,
+      "partNo": "C 18153",
+      "desc": "CHANNEL - instrument panel liner",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 11.55,
+      "y": 55.37,
+      "partNo": "92- 8",
+      "desc": "LOCKWASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 20,
+      "x": 13.1,
+      "y": 51.17,
+      "partNo": "15- 816",
+      "desc": "BOLT - 1/2\" x 1\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 21,
+      "x": 24.62,
+      "y": 74.97,
+      "partNo": "C 14598",
+      "desc": "SPACER - foot pad R.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 92.79,
+      "y": 57.85,
+      "partNo": "C 14944",
+      "desc": "SPRING - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 73.91,
+      "y": 68.08,
+      "partNo": "C 16305",
+      "desc": "LEVER - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 24.36,
+      "y": 15.74,
+      "partNo": "195- 512",
+      "desc": "WASHER - 7/32\" Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 25,
+      "x": 38.33,
+      "y": 7.34,
+      "partNo": "C 15183",
+      "desc": "SPRING - hood latch",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 29.53,
+      "y": 7.13,
+      "partNo": "C 15184",
+      "desc": "LATCH - hood",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 23.45,
+      "y": 7.88,
+      "partNo": "111- 1",
+      "desc": "BOLT - #10 x 1/2\" NC rd. hd. square neck",
+      "reqd": "2"
+    },
+    {
+      "ref": 28,
+      "x": 26.94,
+      "y": 18.22,
+      "partNo": "192- 18",
+      "desc": "LOCKWASHER - #10 Z.P.",
+      "reqd": "2"
+    },
+    {
+      "ref": 29,
+      "x": 31.08,
+      "y": 18.87,
+      "partNo": "129- 17",
+      "desc": "NUT - #10 NC hex Z.P.",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

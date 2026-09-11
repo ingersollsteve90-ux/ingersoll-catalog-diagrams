@@ -1,0 +1,248 @@
+{
+  "sectionTitle": "Brake Assembly",
+  "breadcrumb": "Brake Assembly",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/brake_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 92.5,
+      "y": 29.32,
+      "variants": [
+        {
+          "serialNote": "Used S/N 9635046 to 9641001",
+          "partNo": "C 14950",
+          "desc": "PEDAL - brake (Used S/N 9635046 to 9641001)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used prior to S/N 9635046",
+          "partNo": "C 14268",
+          "desc": "PEDAL - brake (Used prior to S/N 9635046)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 1,
+      "x": 40.35,
+      "y": 15.03,
+      "variants": [
+        {
+          "serialNote": "Used S/N 9635046 to 9641001",
+          "partNo": "C 14950",
+          "desc": "PEDAL - brake (Used S/N 9635046 to 9641001)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "Used prior to S/N 9635046",
+          "partNo": "C 14268",
+          "desc": "PEDAL - brake (Used prior to S/N 9635046)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 10.5,
+      "y": 22.74,
+      "partNo": "C 12604",
+      "desc": "LOCK - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 16.73,
+      "y": 36.03,
+      "partNo": "C 13357",
+      "desc": "SPRING - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 36.74,
+      "y": 12.92,
+      "partNo": "C 14916",
+      "desc": "ROD - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 23.84,
+      "y": 17.27,
+      "partNo": "A 11538",
+      "desc": "RETAINER - external",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 20.99,
+      "y": 16.53,
+      "partNo": "195- 533",
+      "desc": "WASHER - 1/2\" Z.P.",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 17.93,
+      "y": 18.39,
+      "partNo": "C 12115",
+      "desc": "WASHER - 1/2\" wavy",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 14.32,
+      "y": 13.05,
+      "partNo": "C 12612",
+      "desc": "SPRING - brake pedal",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 75.66,
+      "y": 69.21,
+      "partNo": "C 14945",
+      "desc": "ROD - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 47.34,
+      "y": 77.91,
+      "partNo": "C 14944",
+      "desc": "SPRING - brake pedal",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 67.03,
+      "y": 30.07,
+      "partNo": "C 14944",
+      "desc": "SPRING - brake pedal",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 48.55,
+      "y": 56.41,
+      "partNo": "132- 321",
+      "desc": "PIN - cotter 3/32\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 59.04,
+      "y": 74.8,
+      "partNo": "C 13863",
+      "desc": "ARM - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 43.08,
+      "y": 82.88,
+      "partNo": "C 13866",
+      "desc": "SHAFT - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 63.42,
+      "y": 62.75,
+      "partNo": "138- 96",
+      "desc": "PIN - spirol 3/16\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 25.8,
+      "y": 90.96,
+      "partNo": "C 14187",
+      "desc": "BAND - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 9.08,
+      "y": 84.99,
+      "partNo": "C 13526",
+      "desc": "PIN - clevis",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 38.05,
+      "y": 84.74,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 17,
+      "x": 70.74,
+      "y": 75.3,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 17,
+      "x": 76.65,
+      "y": 93.19,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 18,
+      "x": 63.85,
+      "y": 77.78,
+      "partNo": "C 16305",
+      "desc": "LEVER - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 92.94,
+      "y": 63.62,
+      "partNo": "C 15632",
+      "desc": "PEDAL - brake (Used S/N 9641001 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 80.47,
+      "y": 92.82,
+      "partNo": "195- 104",
+      "desc": "WASHER - 7/16\" Z.P.",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 68.34,
+      "y": 64.12,
+      "partNo": "213- 4",
+      "desc": "CLEVIS - 3/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 74.02,
+      "y": 54.05,
+      "partNo": "141- 4",
+      "desc": "PIN - clevis",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 76.65,
+      "y": 16.28,
+      "partNo": "C 14942",
+      "desc": "LEVER - brake lock (Used prior to S/N 9641001)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

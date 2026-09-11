@@ -1,0 +1,34 @@
+{
+  "sectionTitle": "Exhaust System",
+  "breadcrumb": "Exhaust System",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/exhaust_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 80.06,
+      "y": 40.55,
+      "partNo": "NSS",
+      "desc": "MUFFLER - exhaust (Order C18039)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 85.24,
+      "y": 3.86,
+      "partNo": "C 10372",
+      "desc": "GASKET - exhaust pad",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 7.04,
+      "y": 9.66,
+      "partNo": "61- 510",
+      "desc": "SCREW - 5/16\" x 5/8\" NC socket head",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,74 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 66.27,
+      "y": 28.88,
+      "partNo": "C 10317",
+      "desc": "WHEEL - rear",
+      "reqd": "2"
+    },
+    {
+      "ref": 2,
+      "x": 27.84,
+      "y": 58.83,
+      "partNo": "A 30064",
+      "desc": "BOLT - rear wheel",
+      "reqd": "12"
+    },
+    {
+      "ref": 3,
+      "x": 80.11,
+      "y": 81.84,
+      "partNo": "C 12081",
+      "desc": "WHEEL - front",
+      "reqd": "2"
+    },
+    {
+      "ref": 4,
+      "x": 87.88,
+      "y": 76.0,
+      "partNo": "219- 403",
+      "desc": "FITTING - lube",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 94.24,
+      "y": 71.38,
+      "partNo": "C 12110",
+      "desc": "BEARING - front wheel (inner)",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 73.33,
+      "y": 86.9,
+      "partNo": "C 12111",
+      "desc": "BEARING - front wheel (outer)",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 57.79,
+      "y": 92.4,
+      "partNo": "C 12370",
+      "desc": "CAP - plastic, front wheel",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 31.37,
+      "y": 72.92,
+      "partNo": "A 70062",
+      "desc": "CAP - hub, front wheel (optional)",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

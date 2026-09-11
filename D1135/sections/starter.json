@@ -1,0 +1,162 @@
+{
+  "sectionTitle": "Starter",
+  "breadcrumb": "Starter",
+  "catalogLabel": "Catalog D1135",
+  "modelNumbers": "Catalog D1135 — Case 444 Compact Tractor, Prior to S/N 9646801",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1135/starter.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 70.46,
+      "y": 17.07,
+      "partNo": "KOA236396-S",
+      "desc": "STARTER - engine 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 11.02,
+      "y": 21.79,
+      "partNo": "KO 236564",
+      "desc": "CAP - end",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 43.08,
+      "y": 27.21,
+      "partNo": "NSS",
+      "desc": "HOUSING - starter (Order KOA236396-S)",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 49.47,
+      "y": 43.07,
+      "partNo": "KO 236571",
+      "desc": "ARMATURE",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 24.82,
+      "y": 7.33,
+      "partNo": "KO 236575",
+      "desc": "NUT - terminal stud",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 38.86,
+      "y": 14.66,
+      "partNo": "KO 236594",
+      "desc": "LOCKWASHER - terminal stud",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 23.23,
+      "y": 14.66,
+      "partNo": "KO 236573",
+      "desc": "WASHER - terminal spacer",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 39.31,
+      "y": 21.18,
+      "partNo": "KO 236572",
+      "desc": "WASHER - terminal insulating",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 80.84,
+      "y": 42.87,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 83.81,
+      "y": 38.65,
+      "partNo": "KO 234380",
+      "desc": "BOLT - 3/8\" x 1-13/32\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 11,
+      "x": 65.1,
+      "y": 63.45,
+      "partNo": "KO 236570",
+      "desc": "WASHER - spacer .005\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 68.97,
+      "y": 65.66,
+      "partNo": "KO 236568",
+      "desc": "WASHER - spacer .010\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": 13,
+      "x": 75.14,
+      "y": 69.88,
+      "partNo": "KO 236562",
+      "desc": "BENDIX ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 18.43,
+      "y": 78.41,
+      "partNo": "KO 236577",
+      "desc": "BOLT - through",
+      "reqd": "2"
+    },
+    {
+      "ref": 15,
+      "x": 25.28,
+      "y": 86.14,
+      "partNo": "KO 236574",
+      "desc": "LOCKWASHER - through bolt",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 52.66,
+      "y": 82.73,
+      "partNo": "KO 237225",
+      "desc": "FRAME ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 27.9,
+      "y": 26.0,
+      "partNo": "KO 236576",
+      "desc": "BRUSH AND SPRING KIT",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 76.39,
+      "y": 49.4,
+      "partNo": "195- 521",
+      "desc": "WASHER - plain 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 19,
+      "x": 53.8,
+      "y": 20.98,
+      "partNo": "KO 237143",
+      "desc": "BRACKET - starter support",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}
