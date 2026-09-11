@@ -1,0 +1,221 @@
+{
+  "sectionTitle": "Hydraulic Pump and Coupling (Parker-Hannifin, use S/N and after)",
+  "breadcrumb": "Hydraulic Pump and Coupling (Parker-Hannifin, use S/N and after)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/hydraulic_pump_variant_c_top.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 20.94,
+      "y": 66.02,
+      "partNo": "C 26278",
+      "desc": "PUMP - hydraulic 1/2\" shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 49.86,
+      "y": 91.65,
+      "partNo": "F 53109",
+      "desc": "PIN - dowel",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 27.83,
+      "y": 22.91,
+      "partNo": "C 24861",
+      "desc": "COVER - rear",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 30.99,
+      "y": 73.94,
+      "partNo": "C 15731",
+      "desc": "GEAR ASSEMBLY - driven",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 34.27,
+      "y": 27.86,
+      "partNo": "C 15732",
+      "desc": "\"O\" RING - cover",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 75.17,
+      "y": 66.9,
+      "partNo": "C 15732",
+      "desc": "\"O\" RING - cover",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 52.35,
+      "y": 46.01,
+      "partNo": "C 15733",
+      "desc": "BODY - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 81.95,
+      "y": 69.21,
+      "partNo": "C 15734",
+      "desc": "COVER - front",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 86.01,
+      "y": 79.33,
+      "partNo": "C 15735",
+      "desc": "SEAL - shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 40.03,
+      "y": 36.77,
+      "partNo": "NSS",
+      "desc": "GEAR ASSEMBLY - drive (1/2\" shaft) (use C26278)",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 58.22,
+      "y": 52.6,
+      "partNo": "C 15737",
+      "desc": "PLATE - wear",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 62.74,
+      "y": 56.23,
+      "partNo": "C 15738",
+      "desc": "SHIELD - heat",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 66.81,
+      "y": 59.86,
+      "partNo": "C 15739",
+      "desc": "GASKET",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 71.21,
+      "y": 63.05,
+      "partNo": "C 15740",
+      "desc": "SEAL",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 19.92,
+      "y": 22.47,
+      "partNo": "113-111",
+      "desc": "BOLT",
+      "reqd": "4"
+    },
+    {
+      "ref": 15,
+      "x": 45.12,
+      "y": 39.19,
+      "partNo": "C 19207",
+      "desc": "KEY - 1/8\" square x 3/4\" long",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 11.56,
+      "y": 41.5,
+      "partNo": "A 50773",
+      "desc": "WASHER",
+      "reqd": "4"
+    },
+    {
+      "ref": 17,
+      "x": 62.4,
+      "y": 43.59,
+      "variants": [
+        {
+          "partNo": "C 17298",
+          "desc": "COUPLING - pump (224, 444)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 15724",
+          "desc": "COUPLING - pump (220, 222)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 62.85,
+      "y": 25.66,
+      "variants": [
+        {
+          "partNo": "C 15724",
+          "desc": "HUB - pump drive (220, 222)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 17300",
+          "desc": "HUB - pump drive (224, 444)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 19,
+      "x": 79.01,
+      "y": 41.06,
+      "partNo": "NSS",
+      "desc": "HUB - (order item 17)",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 82.51,
+      "y": 8.39,
+      "partNo": "83-55",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": 20,
+      "x": 92.0,
+      "y": 13.78,
+      "partNo": "83-55",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 85.56,
+      "y": 13.12,
+      "variants": [
+        {
+          "partNo": "C 15036",
+          "desc": "SPIDER - (224, 444)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "A 70112",
+          "desc": "SPIDER - (220, 222)",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

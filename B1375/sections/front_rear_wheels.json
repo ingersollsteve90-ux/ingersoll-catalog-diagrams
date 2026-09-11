@@ -1,0 +1,107 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 22.11,
+      "y": 49.7,
+      "partNo": "C 24435",
+      "desc": "WHEEL - rear, 5 bolt (white)",
+      "reqd": "2 (220/222/224 column; blank under 444)"
+    },
+    {
+      "ref": 2,
+      "x": 8.3,
+      "y": 65.31,
+      "partNo": "C 10314",
+      "desc": "BOLT - rear wheel",
+      "reqd": "10 (220/222/224 column; blank under 444)"
+    },
+    {
+      "ref": 3,
+      "x": 81.11,
+      "y": 67.55,
+      "partNo": "C 24433",
+      "desc": "WHEEL - front (white) (includes items 5 and 6)",
+      "reqd": "2 (both columns)"
+    },
+    {
+      "ref": 4,
+      "x": 86.03,
+      "y": 60.53,
+      "partNo": "219- 403",
+      "desc": "FITTING - lube",
+      "reqd": "2 (both columns)"
+    },
+    {
+      "ref": 5,
+      "x": 91.74,
+      "y": 54.34,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel, inner",
+      "reqd": "4 (both columns)"
+    },
+    {
+      "ref": 5,
+      "x": 75.93,
+      "y": 73.32,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel, inner",
+      "reqd": "4 (both columns)"
+    },
+    {
+      "ref": 7,
+      "x": 65.3,
+      "y": 83.44,
+      "partNo": "C 26021",
+      "desc": "CAP - plastic, front",
+      "reqd": "2 (both columns)"
+    },
+    {
+      "ref": 8,
+      "x": 33.14,
+      "y": 67.27,
+      "partNo": "A 70185",
+      "desc": "CAP - hub, rear (optional)",
+      "reqd": "2 (220/222/224 column; blank under 444)"
+    },
+    {
+      "ref": 9,
+      "x": 66.36,
+      "y": 28.47,
+      "partNo": "C 24438",
+      "desc": "WHEEL - rear, 6 bolt (white)",
+      "reqd": "2 (444 column; blank under 220/222/224)"
+    },
+    {
+      "ref": 10,
+      "x": 37.13,
+      "y": 70.23,
+      "partNo": "A 30064",
+      "desc": "BOLT - rear wheel",
+      "reqd": "12 (444 column; blank under 220/222/224)"
+    },
+    {
+      "ref": 11,
+      "x": 58.52,
+      "y": 93.42,
+      "partNo": "A 70062",
+      "desc": "CAP - hub front wheel (optional)",
+      "reqd": "2 (both columns)"
+    },
+    {
+      "ref": 6,
+      "x": 83.0,
+      "y": 64.0,
+      "estimated": true,
+      "partNo": "C 13106",
+      "desc": "COVER - lube fitting",
+      "reqd": "2 (both columns)"
+    }
+  ],
+  "footnotes": "Table has two REQ'D columns headed '220 222 224' and '444' (quantities per tractor model differ); values above combine both columns per row as noted. No row is printed with ref number 6 (referenced in item 3's 'includes items 5 and 6') - the final row (COVER - lube fitting, C 13106) is printed with no ref number and may correspond to that item 6."
+}

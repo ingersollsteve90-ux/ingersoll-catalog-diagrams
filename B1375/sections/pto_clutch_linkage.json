@@ -1,0 +1,291 @@
+{
+  "sectionTitle": "PTO Clutch Linkage",
+  "breadcrumb": "PTO Clutch Linkage",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/pto_clutch_linkage.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 37.05,
+      "y": 8.74,
+      "partNo": "A 37247",
+      "desc": "KNOB - lever, PTO",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 77.83,
+      "y": 80.48,
+      "partNo": "NSS",
+      "desc": "LEVER - PTO engaging (order item 22 and 23)",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 14.27,
+      "y": 54.73,
+      "variants": [
+        {
+          "partNo": "C 24872*",
+          "desc": "ARM ASSEMBLY - PTO",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 24792",
+          "desc": "ARM ASSEMBLY - PTO (used prior to 220 - S/N 9734921, 222 - S/N 9737066, 224 - S/N 9738351 and 444 - S/N 9739749)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 43.61,
+      "y": 28.47,
+      "partNo": "353- 462",
+      "desc": "BUSHING - lever, dash tower",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 25.61,
+      "y": 43.28,
+      "partNo": "C 20093",
+      "desc": "BUSHING - fliplock",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 36.05,
+      "y": 93.56,
+      "partNo": "138- 96",
+      "desc": "PIN - roll - 3/16\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 76.27,
+      "y": 94.99,
+      "partNo": "138- 96",
+      "desc": "PIN - roll - 3/16\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 62.16,
+      "y": 87.84,
+      "partNo": "C 20036",
+      "desc": "SPRING - lever, PTO",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 65.5,
+      "y": 86.2,
+      "partNo": "A 39519",
+      "desc": "WASHER - nylon",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 83.94,
+      "y": 90.29,
+      "partNo": "132- 91",
+      "desc": "PIN - cotter 3/16 x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 9.61,
+      "y": 40.01,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8 x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 91.72,
+      "y": 39.4,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8 x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 23.05,
+      "y": 20.09,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8 x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 11,
+      "x": 13.39,
+      "y": 39.3,
+      "partNo": "C 14906",
+      "desc": "WASHER - nylon 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 11,
+      "x": 91.27,
+      "y": 52.48,
+      "partNo": "C 14906",
+      "desc": "WASHER - nylon 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 28.83,
+      "y": 41.96,
+      "partNo": "C 19867",
+      "desc": "SPRING - clutch rod",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 86.72,
+      "y": 53.5,
+      "partNo": "C 19867",
+      "desc": "SPRING - clutch rod",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 13.39,
+      "y": 91.52,
+      "partNo": "C 26266",
+      "desc": "BUSHING - heyco",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 45.16,
+      "y": 39.81,
+      "partNo": "C 20041",
+      "desc": "ROD - clutch",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 61.72,
+      "y": 47.37,
+      "partNo": "C 19767",
+      "desc": "GUIDE - clutch rod",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 47.39,
+      "y": 50.64,
+      "partNo": "131- 1181",
+      "desc": "NUT - lock 3/8\" n.c. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 46.27,
+      "y": 53.81,
+      "partNo": "195- 104",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 18,
+      "x": 47.39,
+      "y": 56.88,
+      "partNo": "195- 137",
+      "desc": "WASHER - spacer (used on models without hyd. lift)",
+      "reqd": "2"
+    },
+    {
+      "ref": 19,
+      "x": 47.27,
+      "y": 59.43,
+      "partNo": "113- 207",
+      "desc": "BOLT - 3/8 x 1\" n.c. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 20,
+      "x": 82.5,
+      "y": 54.42,
+      "partNo": "C 20053",
+      "desc": "BUSHING - nylon",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 63.94,
+      "y": 96.12,
+      "partNo": "195- 2069",
+      "desc": "WASHER - 5/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 32.16,
+      "y": 83.96,
+      "partNo": "C 25013",
+      "desc": "LEVER - PTO engaging",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 21.94,
+      "y": 88.15,
+      "partNo": "195- 533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 8.39,
+      "y": 34.6,
+      "partNo": "195- 533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 46.16,
+      "y": 18.45,
+      "partNo": "C 26265",
+      "desc": "LEVER - PTO engaging",
+      "reqd": "1"
+    },
+    {
+      "ref": 25,
+      "x": 10.72,
+      "y": 22.74,
+      "partNo": "C 26264",
+      "desc": "BRACKET - support, PTO lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 17.05,
+      "y": 21.72,
+      "partNo": "C 26266",
+      "desc": "BUSHING - flange, nylon",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 26.27,
+      "y": 27.14,
+      "partNo": "138- 63",
+      "desc": "PIN - roll 1/8\" x 1-1/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 28,
+      "x": 13.61,
+      "y": 32.15,
+      "partNo": "H 202325",
+      "desc": "WASHER - spring",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "*use S/N to S/N: 220 - 9734921 to 14005097; 222 - 9737066 to 14006533; 224 - 9738351 to 14007681; 444 - 9739749 to 14009128"
+}

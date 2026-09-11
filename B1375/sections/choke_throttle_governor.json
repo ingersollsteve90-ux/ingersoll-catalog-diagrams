@@ -1,0 +1,299 @@
+{
+  "sectionTitle": "Choke, Throttle and Governor",
+  "breadcrumb": "Choke, Throttle and Governor",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/choke_throttle_governor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 11.82,
+      "y": 54.25,
+      "partNo": "C 25603",
+      "desc": "CONTROL - throttle",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 13.97,
+      "y": 26.92,
+      "partNo": "C 12224",
+      "desc": "HANDLE - throttle control, black",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 46.24,
+      "y": 54.67,
+      "partNo": "C 25605",
+      "desc": "CONTROL - choke",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 29.49,
+      "y": 22.37,
+      "partNo": "C 14506",
+      "desc": "HANDLE - choke control, white",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 23.26,
+      "y": 35.18,
+      "partNo": "111- 5",
+      "desc": "BOLT - 10-24 x 5/8\" round head, square neck",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 31.94,
+      "y": 55.94,
+      "partNo": "192- 18",
+      "desc": "LOCKWASHER - #10 Std. plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 32.04,
+      "y": 61.77,
+      "partNo": "129- 17",
+      "desc": "NUT - #10-24 plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 42.66,
+      "y": 10.93,
+      "partNo": "KOA 237653",
+      "desc": "LEVER - governor",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 40.01,
+      "y": 15.27,
+      "partNo": "113- 17",
+      "desc": "BOLT - 1/4\" x 1-1/4\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 54.3,
+      "y": 63.04,
+      "partNo": "113- 17",
+      "desc": "BOLT - 1/4\" x 1-1/4\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 39.39,
+      "y": 29.89,
+      "partNo": "195- 518",
+      "desc": "WASHER - 1/4\" plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 11,
+      "x": 40.11,
+      "y": 36.24,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 55.22,
+      "y": 54.35,
+      "partNo": "KO 235496",
+      "desc": "SPRING - governor",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 57.36,
+      "y": 59.97,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\" plated",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 60.63,
+      "y": 57.96,
+      "partNo": "C 18098",
+      "desc": "WASHER - thrust",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 63.8,
+      "y": 55.41,
+      "partNo": "KO 275690",
+      "desc": "WASHER - wavy",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 67.17,
+      "y": 51.81,
+      "partNo": "H 43034",
+      "desc": "CLAMP - swivel, wire",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 69.82,
+      "y": 48.32,
+      "partNo": "KO 235086",
+      "desc": "LEVER - speed control",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 75.54,
+      "y": 46.62,
+      "partNo": "KO 235085",
+      "desc": "SPACER - speed control bracket",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 79.73,
+      "y": 42.7,
+      "partNo": "129- 37",
+      "desc": "NUT - #10-32 hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 67.78,
+      "y": 26.39,
+      "partNo": "C 25020",
+      "desc": "JOINT - ball",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 54.3,
+      "y": 32.64,
+      "partNo": "C 25020",
+      "desc": "JOINT - ball",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 51.03,
+      "y": 11.56,
+      "partNo": "KO 235277",
+      "desc": "ROD - throttle",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 54.61,
+      "y": 9.13,
+      "partNo": "49485",
+      "desc": "RING - retaining, throttle rod",
+      "reqd": "1"
+    },
+    {
+      "ref": 25,
+      "x": 58.28,
+      "y": 11.14,
+      "partNo": "KO 235476",
+      "desc": "BUSHING - governor cross shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 65.02,
+      "y": 8.39,
+      "partNo": "C 23126",
+      "desc": "SHAFT - governor cross",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 84.12,
+      "y": 10.51,
+      "partNo": "V 34418",
+      "desc": "BEARING - needle, governor shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 28,
+      "x": 84.93,
+      "y": 16.44,
+      "partNo": "C 27274",
+      "desc": "GEAR ASSEMBLY - governor",
+      "reqd": "1"
+    },
+    {
+      "ref": 29,
+      "x": 87.08,
+      "y": 21.84,
+      "partNo": "KO 235125-S",
+      "desc": "SHAFT - governor stub",
+      "reqd": "1"
+    },
+    {
+      "ref": 30,
+      "x": 76.36,
+      "y": 39.21,
+      "partNo": "C 18099",
+      "desc": "WASHER - governor stop pin",
+      "reqd": "1"
+    },
+    {
+      "ref": 31,
+      "x": 72.48,
+      "y": 40.69,
+      "partNo": "V 34416",
+      "desc": "PIN - governor stop",
+      "reqd": "1"
+    },
+    {
+      "ref": 32,
+      "x": 45.42,
+      "y": 85.6,
+      "partNo": "KOA 237559",
+      "desc": "BRACKET - throttle cable",
+      "reqd": "1"
+    },
+    {
+      "ref": 34,
+      "x": 88.1,
+      "y": 91.74,
+      "partNo": "KOA 236919",
+      "desc": "BRACKET - choke cable",
+      "reqd": "1"
+    },
+    {
+      "ref": 35,
+      "x": 31.84,
+      "y": 73.0,
+      "partNo": "V 34421",
+      "desc": "SCREW - #10 x 3/8\" NC fillister head",
+      "reqd": "1"
+    },
+    {
+      "ref": 36,
+      "x": 71.35,
+      "y": 18.77,
+      "partNo": "E 78369",
+      "desc": "SPACER - shaft (used engine S/N 3173783 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 73.0,
+      "y": 44.0,
+      "estimated": true,
+      "partNo": "KO 235084",
+      "desc": "BRACKET - high speed stop",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

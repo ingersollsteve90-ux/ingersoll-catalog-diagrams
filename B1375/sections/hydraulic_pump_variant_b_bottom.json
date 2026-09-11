@@ -1,0 +1,130 @@
+{
+  "sectionTitle": "Hydraulic Pump (Cessna, use before S/N)",
+  "breadcrumb": "Hydraulic Pump (Cessna, use before S/N)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/hydraulic_pump_variant_b_bottom.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 79.83,
+      "y": 51.15,
+      "partNo": "F 9883",
+      "desc": "SPRING",
+      "reqd": "2"
+    },
+    {
+      "ref": 2,
+      "x": 55.97,
+      "y": 47.28,
+      "partNo": "H 89524",
+      "desc": "DIAPHRAGM - wear plate",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 89.02,
+      "y": 75.98,
+      "partNo": "NSS*",
+      "desc": "COVER - front",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 23.87,
+      "y": 11.39,
+      "partNo": "NSS*",
+      "desc": "COVER - rear",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 91.65,
+      "y": 88.18,
+      "partNo": "H 89540",
+      "desc": "SEAL - shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 47.38,
+      "y": 35.65,
+      "partNo": "NSS*",
+      "desc": "BODY - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 73.39,
+      "y": 65.22,
+      "partNo": "H 218347",
+      "desc": "SEAL - diaphragm",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 61.58,
+      "y": 53.59,
+      "partNo": "H 218362",
+      "desc": "GASKET - back up",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 37.83,
+      "y": 26.18,
+      "partNo": "A 21075",
+      "desc": "KEY - 3/16\" square x .609",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 66.47,
+      "y": 58.9,
+      "partNo": "H 218354",
+      "desc": "GASKET - protector",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 30.31,
+      "y": 22.73,
+      "partNo": "NSS*",
+      "desc": "GEAR ASSEMBLY - drive",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 23.15,
+      "y": 60.62,
+      "partNo": "NSS*",
+      "desc": "GEAR ASSEMBLY - driven",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 86.04,
+      "y": 56.18,
+      "partNo": "211-306",
+      "desc": "BALL - steel 7/32\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 46.42,
+      "y": 91.63,
+      "partNo": "H 755413",
+      "desc": "PIN - dowel 1/4\" x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 15,
+      "x": 8.36,
+      "y": 8.23,
+      "partNo": "166-32",
+      "desc": "BOLT - 5/16\" - 18 x 2-1/2\" 12 pt. flange",
+      "reqd": "4"
+    }
+  ],
+  "footnotes": "NSS* - PUMP - hyd. (9/16\")\n*use C26278 and C15724 on 220 and 222; use C26278 and C17300 on 224 and 444"
+}

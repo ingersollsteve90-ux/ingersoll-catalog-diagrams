@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "Speed Control",
+  "breadcrumb": "Speed Control",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/speed_control.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 93.59,
+      "y": 22.61,
+      "partNo": "A 37247",
+      "desc": "KNOB - speed control",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 79.44,
+      "y": 31.15,
+      "partNo": "C 12093",
+      "desc": "BUSHING - lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 79.61,
+      "y": 66.49,
+      "partNo": "NSS",
+      "desc": "LEVER - speed control (use C27213 and C27215)",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 79.61,
+      "y": 85.67,
+      "partNo": "C 25595",
+      "desc": "SPRING - compression",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 79.93,
+      "y": 93.03,
+      "partNo": "C 21518",
+      "desc": "WASHER - nylon",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 48.72,
+      "y": 83.83,
+      "partNo": "C 18742",
+      "desc": "ROD - control",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 43.36,
+      "y": 78.71,
+      "partNo": "129- 122",
+      "desc": "NUT - 5/16\" NF hex, zinc plated",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 36.86,
+      "y": 75.82,
+      "partNo": "C 19025",
+      "desc": "JOINT - ball",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 51.16,
+      "y": 59.26,
+      "partNo": "195- 521",
+      "desc": "WASHER - 5/16\".",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 53.6,
+      "y": 51.64,
+      "partNo": "132- 26",
+      "desc": "PIN - cotter 3/32\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 52.46,
+      "y": 23.92,
+      "partNo": "138- 2072",
+      "desc": "PIN - roll 1/8\" x 1-3/4\".",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

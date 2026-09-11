@@ -1,0 +1,42 @@
+{
+  "sectionTitle": "K8 Wheel Weights - Model 220, 222 and 224",
+  "breadcrumb": "K8 Wheel Weights - Model 220, 222 and 224",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/wheel_weights_k8.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 44.02,
+      "y": 91.61,
+      "partNo": "NSS",
+      "desc": "WEIGHT - wheel 55 lb. (Order as Machinery Item)",
+      "reqd": "2"
+    },
+    {
+      "ref": 2,
+      "x": 8.11,
+      "y": 86.44,
+      "partNo": "131- 1182",
+      "desc": "NUT - 1/2\" NC hex lock",
+      "reqd": "8"
+    },
+    {
+      "ref": 3,
+      "x": 12.7,
+      "y": 79.94,
+      "partNo": "195- 533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "8"
+    },
+    {
+      "ref": 4,
+      "x": 89.52,
+      "y": 8.43,
+      "partNo": "111- 521",
+      "desc": "BOLT - 1/2\" x 7\" Rd. head Sq. neck",
+      "reqd": "8"
+    }
+  ],
+  "footnotes": ""
+}

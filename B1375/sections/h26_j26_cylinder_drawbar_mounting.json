@@ -1,0 +1,58 @@
+{
+  "sectionTitle": "H26 and J26 Three Point Hitch - Cylinder and Drawbar Mounting",
+  "breadcrumb": "H26 and J26 Three Point Hitch - Cylinder and Drawbar Mounting",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/h26_j26_cylinder_drawbar_mounting.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 15.59,
+      "y": 11.1,
+      "partNo": "C 19740",
+      "desc": "HITCH PLATE ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 8.42,
+      "y": 56.4,
+      "partNo": "C 19481",
+      "desc": "PIN - lower cylinder mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 11.33,
+      "y": 26.72,
+      "partNo": "C 14976",
+      "desc": "PIN - upper cylinder mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 8.23,
+      "y": 45.91,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8 x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 4,
+      "x": 54.5,
+      "y": 46.86,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8 x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 5,
+      "x": 91.67,
+      "y": 61.88,
+      "partNo": "113- 417",
+      "desc": "BOLT - 1/2 x 1-1/4\" NC, hex, zinc plated",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

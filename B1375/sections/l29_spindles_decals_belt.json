@@ -1,0 +1,268 @@
+{
+  "sectionTitle": "L29 Spindles, Decals and Belt",
+  "breadcrumb": "L29 Spindles, Decals and Belt",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/l29_spindles_decals_belt.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 24.56,
+      "y": 20.93,
+      "partNo": "C 25806",
+      "desc": "HOUSING - PTO shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 34.15,
+      "y": 16.83,
+      "partNo": "C 25807",
+      "desc": "WASHER - thrust",
+      "reqd": "2"
+    },
+    {
+      "ref": 2,
+      "x": 16.25,
+      "y": 30.99,
+      "partNo": "C 25807",
+      "desc": "WASHER - thrust",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 12.1,
+      "y": 34.17,
+      "partNo": "195- 2131",
+      "desc": "WASHER - spacer",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 62.19,
+      "y": 8.41,
+      "partNo": "C 25808",
+      "desc": "SHAFT - spline",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 38.3,
+      "y": 13.85,
+      "partNo": "A 7409",
+      "desc": "RING - retainer",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 30.34,
+      "y": 20.52,
+      "partNo": "C 25828",
+      "desc": "BEARING - roller",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 19.95,
+      "y": 28.22,
+      "partNo": "C 25828",
+      "desc": "BEARING - roller",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 9.56,
+      "y": 63.11,
+      "partNo": "C 25814",
+      "desc": "GEAR - driven",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 8.17,
+      "y": 26.88,
+      "partNo": "83- 68",
+      "desc": "SET SCREW - 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 41.53,
+      "y": 5.64,
+      "partNo": "B 18323",
+      "desc": "KEY - 5/16\" x 2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 25.37,
+      "y": 49.66,
+      "partNo": "113- 206",
+      "desc": "BOLT - 3/8\" - 16 x 3/4\" hex",
+      "reqd": "8"
+    },
+    {
+      "ref": 10,
+      "x": 43.15,
+      "y": 69.57,
+      "partNo": "113- 206",
+      "desc": "BOLT - 3/8\" - 16 x 3/4\" hex",
+      "reqd": "8"
+    },
+    {
+      "ref": 11,
+      "x": 49.5,
+      "y": 63.11,
+      "partNo": "192- 21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "8"
+    },
+    {
+      "ref": 11,
+      "x": 31.72,
+      "y": 45.15,
+      "partNo": "192- 21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "8"
+    },
+    {
+      "ref": 12,
+      "x": 42.57,
+      "y": 41.04,
+      "partNo": "C 17666",
+      "desc": "HOUSING - spindle",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 34.03,
+      "y": 50.9,
+      "partNo": "A 70280",
+      "desc": "BEARING",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 56.31,
+      "y": 34.68,
+      "partNo": "A 70280",
+      "desc": "BEARING",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 38.42,
+      "y": 48.54,
+      "partNo": "C 16516",
+      "desc": "RING - retaining",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 52.5,
+      "y": 36.94,
+      "partNo": "C 16516",
+      "desc": "RING - retaining",
+      "reqd": "2"
+    },
+    {
+      "ref": 15,
+      "x": 48.69,
+      "y": 40.84,
+      "partNo": "C 10810",
+      "desc": "SPACER - bearing",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 30.11,
+      "y": 54.08,
+      "partNo": "C 25541",
+      "desc": "WASHER - spacer",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 63.0,
+      "y": 49.97,
+      "partNo": "C 25541",
+      "desc": "WASHER - spacer",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 26.64,
+      "y": 78.19,
+      "partNo": "C 25810",
+      "desc": "SPINDLE - input",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 74.66,
+      "y": 46.69,
+      "partNo": "C 25813",
+      "desc": "PULLEY - spindle",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 25.26,
+      "y": 58.59,
+      "partNo": "H 61168",
+      "desc": "KEY - 3/16\" square x 7/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 77.89,
+      "y": 26.68,
+      "partNo": "131- 1331",
+      "desc": "NUT - 3/4\" - 16 lock, hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 64.96,
+      "y": 70.19,
+      "partNo": "321- 6379",
+      "desc": "DECAL - \"Case\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 55.85,
+      "y": 89.38,
+      "variants": [
+        {
+          "partNo": "321- 3710",
+          "desc": "DECAL - \"Warning\" (English)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "321- 6647",
+          "desc": "DECAL - \"Warning\" (French)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 23,
+      "x": 89.67,
+      "y": 69.57,
+      "variants": [
+        {
+          "partNo": "321- 4745",
+          "desc": "DECAL - drive belt (French)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 17462",
+          "desc": "DECAL - drive belt (English)",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": "C 23539 - BELT - drive (444, 446, 448)\nC 23538 - BELT - drive (210, 220, 222, 224)"
+}

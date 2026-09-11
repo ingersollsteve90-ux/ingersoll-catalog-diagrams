@@ -1,0 +1,188 @@
+{
+  "sectionTitle": "Model L19 and M19 Flow Control Valve Kit",
+  "breadcrumb": "Model L19 and M19 Flow Control Valve Kit",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/flow_control_valve_l19_m19.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 52.91,
+      "y": 44.57,
+      "partNo": "C 23618",
+      "desc": "VALVE - flow control",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 46.68,
+      "y": 43.65,
+      "partNo": "C 18720",
+      "desc": "LEVER - valve",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 40.56,
+      "y": 41.2,
+      "partNo": "A 61683",
+      "desc": "KNOB - lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 50.32,
+      "y": 63.56,
+      "variants": [
+        {
+          "partNo": "113- 12",
+          "desc": "BOLT - 1/4\" x 2-1/2\" NC hex (L19)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "113- 15",
+          "desc": "BOLT - 1/4\" - 20 x 2-1/4\" NC hex (M19)",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 71.38,
+      "y": 54.47,
+      "partNo": "131- 1180",
+      "desc": "NUT - lock 1/4\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 53.03,
+      "y": 34.26,
+      "partNo": "131- 1180",
+      "desc": "NUT - lock 1/4\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 34.8,
+      "y": 51.41,
+      "partNo": "218- 485",
+      "desc": "FITTING - elbow 90° 1/2\" NPT",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 84.32,
+      "y": 59.88,
+      "partNo": "218- 485",
+      "desc": "FITTING - elbow 90° 1/2\" NPT",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 63.14,
+      "y": 61.72,
+      "partNo": "218- 445",
+      "desc": "FITTING - straight 1/2\" NPT",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 43.26,
+      "y": 81.01,
+      "partNo": "C 25390",
+      "desc": "TUBE - flow control valve to tube",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 89.96,
+      "y": 69.58,
+      "partNo": "C 23407",
+      "desc": "TUBE - bypass to return line",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 48.44,
+      "y": 68.87,
+      "partNo": "C 23600",
+      "desc": "TUBE - valve to tractor valve",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 78.2,
+      "y": 94.39,
+      "partNo": "C 26181",
+      "desc": "TUBE - heat exchanger",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 90.79,
+      "y": 79.79,
+      "partNo": "C 18721",
+      "desc": "HOSE - return",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 91.96,
+      "y": 73.97,
+      "partNo": "214- 254",
+      "desc": "CLAMP - hose",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 91.96,
+      "y": 84.69,
+      "partNo": "214- 254",
+      "desc": "CLAMP - hose",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 11.5,
+      "y": 50.08,
+      "variants": [
+        {
+          "partNo": "C 25392",
+          "desc": "TUBE - PTO valve to tube (M19)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 23879",
+          "desc": "TUBE - PTO valve to tube (L19)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 60.32,
+      "y": 48.35,
+      "partNo": "C 21592",
+      "desc": "SPACER - (L19)",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 67.97,
+      "y": 43.55,
+      "partNo": "C 25391",
+      "desc": "BRACKET - mounting (M19)",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 45.97,
+      "y": 36.81,
+      "partNo": "113- 2",
+      "desc": "BOLT - 1/4\" - 20 x 5/8\" NC hex (M19)",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "A 27365 - \"O\" RING - shaft 3/4\" x 15/16\"\nF 62023 - RING - retaining - shaft .867 I.D.\nC 18719 - DECAL - valve, \"slow - fast\" (English)\n321- 4699 - DECAL - valve, \"slow - fast\" (French)"
+}

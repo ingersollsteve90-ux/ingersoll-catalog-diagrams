@@ -1,0 +1,114 @@
+{
+  "sectionTitle": "Model H26 and J26 Three Point Hitch - Hydraulic Connections and Components",
+  "breadcrumb": "Model H26 and J26 Three Point Hitch - Hydraulic Connections and Components",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/h26_j26_hydraulic_connections.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 91.99,
+      "y": 83.49,
+      "partNo": "221-1139",
+      "desc": "NIPPLE - 1/4 x 3\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 91.99,
+      "y": 90.48,
+      "partNo": "221-1375",
+      "desc": "ELBOW - 90°",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 56.52,
+      "y": 19.37,
+      "partNo": "C 25369",
+      "desc": "HOSE - hydraulic short",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 65.87,
+      "y": 35.28,
+      "partNo": "C 25368",
+      "desc": "HOSE - hydraulic long",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 20.81,
+      "y": 21.06,
+      "partNo": "218-5291",
+      "desc": "FITTING - tee (Includes 218-5004 \"O\" ring) (early production)",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 72.8,
+      "y": 41.19,
+      "partNo": "NSS",
+      "desc": "CYLINDER ASSEMBLY - (order (1) C19480 cylinder and (1) S10817 pin)",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 20.08,
+      "y": 49.14,
+      "partNo": "C 19476",
+      "desc": "BODY - cylinder (also use S10817 pin)",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 27.98,
+      "y": 59.39,
+      "partNo": "C 19469",
+      "desc": "ROD AND PISTON ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 39.4,
+      "y": 68.54,
+      "partNo": "C 14692",
+      "desc": "FOOT - cylinder",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 11.46,
+      "y": 44.68,
+      "partNo": "C 14970",
+      "desc": "SEAL - wiper",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 14.25,
+      "y": 49.14,
+      "partNo": "A 7623",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 35.51,
+      "y": 65.29,
+      "partNo": "A 30971",
+      "desc": "\"O\" RING",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 37.7,
+      "y": 8.29,
+      "partNo": "218-5479",
+      "desc": "FITTING - tee, swivel (late production)",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

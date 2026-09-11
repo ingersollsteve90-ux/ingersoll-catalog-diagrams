@@ -1,0 +1,180 @@
+{
+  "sectionTitle": "Engine Gasket and Seal Kit",
+  "breadcrumb": "Engine Gasket and Seal Kit",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/engine_gasket_seal_kit.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 67.82,
+      "y": 41.86,
+      "partNo": "C 23858",
+      "desc": "KIT - engine gasket (10 thru 14 hp engines)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 79.46,
+      "y": 30.74,
+      "partNo": "KO 231032",
+      "desc": "SEAL - breather (14 hp engine)",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 68.59,
+      "y": 17.3,
+      "partNo": "KO 235025",
+      "desc": "GASKET - camshaft cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 8.31,
+      "y": 89.56,
+      "partNo": "KO 235025",
+      "desc": "GASKET - camshaft cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 64.45,
+      "y": 24.79,
+      "partNo": "KO 235353",
+      "desc": "GASKET - oil pan",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 37.42,
+      "y": 87.24,
+      "partNo": "KO 235353",
+      "desc": "GASKET - oil pan",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 43.11,
+      "y": 17.3,
+      "variants": [
+        {
+          "partNo": "KO 235757",
+          "desc": "GASKET - bearing plate",
+          "reqd": "6"
+        },
+        {
+          "partNo": "KO 235070",
+          "desc": "GASKET - shim (.010\")",
+          "reqd": "UAR"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 52.94,
+      "y": 70.39,
+      "variants": [
+        {
+          "partNo": "KO 235757",
+          "desc": "GASKET - bearing plate",
+          "reqd": "6"
+        },
+        {
+          "partNo": "KO 235070",
+          "desc": "GASKET - shim (.010\")",
+          "reqd": "UAR"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 69.63,
+      "y": 8.16,
+      "partNo": "KO 237064",
+      "desc": "GASKET - oil fill tube (used on 14 hp)",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 91.62,
+      "y": 12.23,
+      "partNo": "C 26518",
+      "desc": "GASKET - breaker cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 87.87,
+      "y": 14.1,
+      "partNo": "C 23860",
+      "desc": "GASKET - carburetor flange",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 82.7,
+      "y": 15.1,
+      "partNo": "C 24887",
+      "desc": "GASKET - fuel pump flange",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 78.43,
+      "y": 16.97,
+      "partNo": "KO 275341",
+      "desc": "GASKET - carburetor air horn",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 90.07,
+      "y": 27.1,
+      "partNo": "KO 235048",
+      "desc": "GASKET - breather plate",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 85.54,
+      "y": 30.08,
+      "partNo": "KO 275144",
+      "desc": "GASKET - valve cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 58.37,
+      "y": 16.31,
+      "partNo": "C 10372",
+      "desc": "GASKET - exhaust",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 87.22,
+      "y": 34.37,
+      "partNo": "KO 235057",
+      "desc": "GASKET - pan (not used)",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 62.39,
+      "y": 18.95,
+      "partNo": "KO 237658",
+      "desc": "GASKET - cylinder head",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 39.75,
+      "y": 52.66,
+      "partNo": "KO 237658",
+      "desc": "GASKET - cylinder head",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

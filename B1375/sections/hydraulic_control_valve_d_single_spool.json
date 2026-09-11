@@ -1,0 +1,170 @@
+{
+  "sectionTitle": "Hydraulic Control Valve - Single Spool (use before S/N)",
+  "breadcrumb": "Hydraulic Control Valve - Single Spool (use before S/N)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/hydraulic_control_valve_d_single_spool.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 30.13,
+      "y": 43.47,
+      "partNo": "A 60273",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": 1,
+      "x": 91.62,
+      "y": 79.68,
+      "partNo": "A 60273",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 73.95,
+      "y": 63.13,
+      "partNo": "NSS",
+      "desc": "SPOOL - motor (order C27217)*",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 65.11,
+      "y": 53.3,
+      "partNo": "A 7982",
+      "desc": "SEAL - spool",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 61.05,
+      "y": 38.61,
+      "partNo": "NSS",
+      "desc": "BODY - valve (order C27217)*",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 90.45,
+      "y": 27.91,
+      "partNo": "211- 9",
+      "desc": "BALL - steel 5/16\" (7.94 mm)",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 40.7,
+      "y": 26.92,
+      "partNo": "211- 9",
+      "desc": "BALL - steel 5/16\" (7.94 mm)",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 83.02,
+      "y": 20.82,
+      "partNo": "C 21507",
+      "desc": "SPRING - relief",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 33.85,
+      "y": 19.07,
+      "partNo": "C 21507",
+      "desc": "SPRING - relief",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 37.45,
+      "y": 91.63,
+      "partNo": "221- 841",
+      "desc": "PLUG - pipe",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 36.98,
+      "y": 22.93,
+      "partNo": "C 21506",
+      "desc": "RETAINER - ball seat",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 86.85,
+      "y": 24.18,
+      "partNo": "C 21506",
+      "desc": "RETAINER - ball seat",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 79.06,
+      "y": 18.08,
+      "partNo": "C 21509",
+      "desc": "SCREW - adjust, relief",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 76.16,
+      "y": 12.23,
+      "partNo": "C 21508",
+      "desc": "GASKET - adjust cap",
+      "reqd": "1"
+    },
+    {
+      "ref": 25,
+      "x": 72.67,
+      "y": 8.37,
+      "partNo": "C 21510",
+      "desc": "CAP - adjust screw",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 43.96,
+      "y": 30.77,
+      "partNo": "C 26663",
+      "desc": "SEAT - relief ball",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 16.18,
+      "y": 25.92,
+      "partNo": "129- 166",
+      "desc": "NUT - lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 28,
+      "x": 29.89,
+      "y": 14.97,
+      "partNo": "C 26665",
+      "desc": "SCREW - adjust, relief",
+      "reqd": "1"
+    },
+    {
+      "ref": 29,
+      "x": 23.62,
+      "y": 8.75,
+      "partNo": "C 26664",
+      "desc": "GASKET - adjust cap",
+      "reqd": "2"
+    },
+    {
+      "ref": 30,
+      "x": 8.39,
+      "y": 10.49,
+      "partNo": "C 26666",
+      "desc": "CAP - adjust screw",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "NSS - VALVE - control, single spool (use C27271 and 2 (218-5154))\nNSS - VALVE - control, two spool (use C27217)*\nC 21504 - KIT - relief (includes items 6,7,22,23,24 and 25)\nC 21511 - KIT - relief (includes items 8,9,10,15 and 16)\nC 18851 - KIT - detent (includes items 11,12,13,14,16,17,18,19 and 20)\n\nAlso used on the two-spool valve, not shown on this single-spool diagram (no callout circle on this page):\nNSS - SPOOL - lift (order C27217)* (qty 1)\nC 17433 - SCREW - relief adjust (qty 1)\nC 17435 - GASKET - relief adjust cap (qty 1)\n129- 531 - CAP - adjust screw (qty 2)\nC 26668 - DETENT - spool (qty 1)\nD 86559 - SPACER - detent (qty 1)\nD 86558 - SPRING - detent return (qty 1)\nD 86557 - WASHER - return (qty 1)\nC 21505 - SPRING - relief (qty 1)\n211- 7 - BALL - steel 1/4\" (6.35 mm) (qty 3)\nC 17438 - COVER - detent (qty 1)\nD 86560 - SCREW - detent (qty 2)\nC 17444 - SPRING - detent (qty 2)\n169- 114 - SCREW - cover (qty 4)"
+}

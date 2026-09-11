@@ -1,0 +1,164 @@
+{
+  "sectionTitle": "Carburetor",
+  "breadcrumb": "Carburetor",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/carburetor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 31.8,
+      "y": 40.13,
+      "partNo": "KO 200380",
+      "desc": "SPRING - tension, idle adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 20.64,
+      "y": 30.69,
+      "variants": [
+        {
+          "partNo": "A 72077",
+          "desc": "NEEDLE - main fuel adjust, 220, 222",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 24652",
+          "desc": "NEEDLE - main fuel adjust, 224 & 444",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 20.17,
+      "y": 42.01,
+      "partNo": "KO 200383",
+      "desc": "SPRING - main fuel adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 34.5,
+      "y": 36.18,
+      "variants": [
+        {
+          "partNo": "A 72099",
+          "desc": "NEEDLE - idle adjust (220, 222)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "KO 275231",
+          "desc": "NEEDLE - idle adjust (224 & 444)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 84.4,
+      "y": 58.13,
+      "partNo": "C 27276",
+      "desc": "FLOAT - carburetor",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 85.57,
+      "y": 79.39,
+      "partNo": "KO 235448",
+      "desc": "BOWL - carburetor",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 82.64,
+      "y": 91.57,
+      "partNo": "C 26422",
+      "desc": "SCREW AND GASKET ASSEMBLY - carburetor bowl",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 83.11,
+      "y": 35.15,
+      "partNo": "C 27278",
+      "desc": "KIT - carburetor repair",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 89.92,
+      "y": 7.89,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 85.69,
+      "y": 64.13,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl ring",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 68.67,
+      "y": 16.98,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl ring",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 85.69,
+      "y": 71.68,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl baffle",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 69.37,
+      "y": 21.09,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl baffle",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 67.26,
+      "y": 88.65,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl screw",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 68.9,
+      "y": 28.64,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl screw",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 65.14,
+      "y": 54.36,
+      "partNo": "F 19892",
+      "desc": "PIN - float",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 69.84,
+      "y": 8.75,
+      "partNo": "F 19892",
+      "desc": "PIN - float",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "C 23049 - CARBURETOR ASSEMBLY - 220, 222\nC 24408 - CARBURETOR ASSEMBLY - 224 & 444"
+}

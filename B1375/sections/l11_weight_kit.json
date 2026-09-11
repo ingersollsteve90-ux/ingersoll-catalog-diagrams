@@ -1,0 +1,50 @@
+{
+  "sectionTitle": "L11 Weight Kit",
+  "breadcrumb": "L11 Weight Kit",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/l11_weight_kit.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 62.01,
+      "y": 76.68,
+      "partNo": "C 25572",
+      "desc": "BRACKET - mounting, front",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 85.51,
+      "y": 90.28,
+      "partNo": "C 25574",
+      "desc": "WEIGHT - 40 lb. (18 kg)",
+      "reqd": "4"
+    },
+    {
+      "ref": 3,
+      "x": 39.18,
+      "y": 20.13,
+      "partNo": "C 25791",
+      "desc": "BRACKET - mounting, rear, upper.",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 34.98,
+      "y": 82.88,
+      "partNo": "C 25792",
+      "desc": "BRACKET - mounting, rear, lower.",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 7.81,
+      "y": 76.68,
+      "partNo": "113- 417",
+      "desc": "BOLT - 1/2\" - 13 x 1-1/4\" hex.",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

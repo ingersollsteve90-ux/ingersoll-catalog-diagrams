@@ -1,0 +1,403 @@
+{
+  "sectionTitle": "220 Engine Block and Attaching Parts",
+  "breadcrumb": "220 Engine Block and Attaching Parts",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/engine_block_220.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 19.49,
+      "y": 11.21,
+      "partNo": "C 21814",
+      "desc": "SPACER - cylinder head",
+      "reqd": "6"
+    },
+    {
+      "ref": 2,
+      "x": 38.09,
+      "y": 9.29,
+      "partNo": "KO 270158",
+      "desc": "BOLT - cylinder head",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 37.99,
+      "y": 14.84,
+      "partNo": "KO 270889",
+      "desc": "WASHER - cylinder head",
+      "reqd": "9"
+    },
+    {
+      "ref": 3,
+      "x": 19.8,
+      "y": 15.95,
+      "partNo": "KO 270889",
+      "desc": "WASHER - cylinder head",
+      "reqd": "9"
+    },
+    {
+      "ref": 4,
+      "x": 37.15,
+      "y": 26.05,
+      "partNo": "KO 236675",
+      "desc": "HEAD - cylinder",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 37.36,
+      "y": 29.68,
+      "partNo": "KO 237658",
+      "desc": "GASKET - head",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 42.59,
+      "y": 46.95,
+      "partNo": "C 24139",
+      "desc": "BLOCK ASSEMBLY - cylinder, short (Includes crankshaft, piston assembly, ring set, crankshaft seals, rod assembly, camshaft assembly, valves, bearings, plate and plate gasket, governor gear assembly and cross shaft) (also includes gaskets)",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 37.47,
+      "y": 33.92,
+      "partNo": "KO 230170",
+      "desc": "INSERT - exhaust valve",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 37.36,
+      "y": 37.66,
+      "partNo": "KO 235007-S",
+      "desc": "GUIDE - valve",
+      "reqd": "2"
+    },
+    {
+      "ref": 11,
+      "x": 8.82,
+      "y": 49.07,
+      "partNo": "KO 235125-S",
+      "desc": "SHAFT - stub, governor",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 8.82,
+      "y": 51.59,
+      "partNo": "V 34418",
+      "desc": "BEARING - needle, governor shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 8.93,
+      "y": 46.55,
+      "partNo": "41- 18",
+      "desc": "PLUG - expansion",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 13.32,
+      "y": 86.53,
+      "partNo": "113- 209",
+      "desc": "BOLT - 3/8\" x 1-1/2\" NC hex plated (pack of 50)",
+      "reqd": "4"
+    },
+    {
+      "ref": 15,
+      "x": 13.42,
+      "y": 82.49,
+      "partNo": "92- 6",
+      "desc": "LOCKWASHER - 3/8\" plated",
+      "reqd": "17"
+    },
+    {
+      "ref": 15,
+      "x": 52.0,
+      "y": 73.1,
+      "partNo": "92- 6",
+      "desc": "LOCKWASHER - 3/8\" plated",
+      "reqd": "17"
+    },
+    {
+      "ref": 15,
+      "x": 20.11,
+      "y": 8.58,
+      "partNo": "92- 6",
+      "desc": "LOCKWASHER - 3/8\" plated",
+      "reqd": "17"
+    },
+    {
+      "ref": 15,
+      "x": 37.99,
+      "y": 12.12,
+      "partNo": "92- 6",
+      "desc": "LOCKWASHER - 3/8\" plated",
+      "reqd": "17"
+    },
+    {
+      "ref": 16,
+      "x": 17.08,
+      "y": 64.72,
+      "partNo": "KO 235025",
+      "desc": "GASKET - camshaft cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 14.05,
+      "y": 65.73,
+      "partNo": "KO 235026",
+      "desc": "COVER - camshaft gear",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 10.91,
+      "y": 67.24,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\" plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 19,
+      "x": 8.2,
+      "y": 68.56,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" x 1/2\" NC plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 20,
+      "x": 34.33,
+      "y": 63.91,
+      "partNo": "KO 235353",
+      "desc": "GASKET - oil pan",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 90.68,
+      "y": 67.75,
+      "partNo": "C 27279",
+      "desc": "FLYWHEEL ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 81.37,
+      "y": 63.31,
+      "partNo": "NSS",
+      "desc": "RING GEAR",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 38.72,
+      "y": 76.03,
+      "partNo": "C 22699",
+      "desc": "BASE - oil pan",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 67.57,
+      "y": 74.92,
+      "partNo": "193- 99",
+      "desc": "LOCKWASHER - internal tooth",
+      "reqd": "4"
+    },
+    {
+      "ref": 25,
+      "x": 70.61,
+      "y": 78.35,
+      "partNo": "182- 541",
+      "desc": "SCREW - stator",
+      "reqd": "4"
+    },
+    {
+      "ref": 26,
+      "x": 48.44,
+      "y": 84.11,
+      "partNo": "C 14399",
+      "desc": "PLUG - oil drain",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 8.82,
+      "y": 38.47,
+      "partNo": "R 16287",
+      "desc": "OIL SEAL - crankshaft rear",
+      "reqd": "1"
+    },
+    {
+      "ref": 28,
+      "x": 45.62,
+      "y": 48.26,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft ball",
+      "reqd": "2"
+    },
+    {
+      "ref": 28,
+      "x": 53.25,
+      "y": 51.59,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft ball",
+      "reqd": "2"
+    },
+    {
+      "ref": 29,
+      "x": 49.18,
+      "y": 49.88,
+      "variants": [
+        {
+          "partNo": "KO 235757",
+          "desc": "GASKET - bearing plate",
+          "reqd": "1"
+        },
+        {
+          "partNo": "KO 235070",
+          "desc": "GASKET - shim, .010",
+          "reqd": "UAR"
+        }
+      ]
+    },
+    {
+      "ref": 30,
+      "x": 57.33,
+      "y": 53.51,
+      "partNo": "205- 27",
+      "desc": "PLUG - button, timing hole",
+      "reqd": "1"
+    },
+    {
+      "ref": 31,
+      "x": 64.44,
+      "y": 56.44,
+      "partNo": "C 24290",
+      "desc": "PLATE - bearing",
+      "reqd": "1"
+    },
+    {
+      "ref": 32,
+      "x": 75.73,
+      "y": 61.09,
+      "partNo": "V 34427",
+      "desc": "STATOR - 15 amp",
+      "reqd": "1"
+    },
+    {
+      "ref": 33,
+      "x": 56.18,
+      "y": 75.12,
+      "partNo": "113- 207",
+      "desc": "BOLT - 3/8\" x 1\" NC plated (pack of 100)",
+      "reqd": "4"
+    },
+    {
+      "ref": 34,
+      "x": 70.08,
+      "y": 58.86,
+      "partNo": "C 18097",
+      "desc": "OIL SEAL - crankshaft front",
+      "reqd": "1"
+    },
+    {
+      "ref": 36,
+      "x": 81.79,
+      "y": 86.23,
+      "partNo": "C 26421",
+      "desc": "WASHER - special, plated",
+      "reqd": "1"
+    },
+    {
+      "ref": 37,
+      "x": 85.24,
+      "y": 88.14,
+      "partNo": "131- 580",
+      "desc": "NUT - special, Marsden",
+      "reqd": "1"
+    },
+    {
+      "ref": 38,
+      "x": 48.03,
+      "y": 33.32,
+      "partNo": "C 14953",
+      "desc": "DIPSTICK ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": 39,
+      "x": 48.34,
+      "y": 40.08,
+      "partNo": "A 27365",
+      "desc": "\"O\" RING - dipstick",
+      "reqd": "1"
+    },
+    {
+      "ref": 42,
+      "x": 12.27,
+      "y": 22.41,
+      "partNo": "KO 235748",
+      "desc": "STRAP - lifting",
+      "reqd": "1"
+    },
+    {
+      "ref": 43,
+      "x": 41.86,
+      "y": 88.14,
+      "partNo": "C 18814",
+      "desc": "NIPPLE - oil drain extension",
+      "reqd": "1"
+    },
+    {
+      "ref": 44,
+      "x": 46.25,
+      "y": 85.82,
+      "partNo": "C 14906",
+      "desc": "GASKET - plug, oil drain",
+      "reqd": "1"
+    },
+    {
+      "ref": 45,
+      "x": 35.9,
+      "y": 91.48,
+      "partNo": "221- 1412",
+      "desc": "ELBOW - street",
+      "reqd": "1"
+    },
+    {
+      "ref": 46,
+      "x": 20.32,
+      "y": 6.26,
+      "partNo": "129- 143",
+      "desc": "NUT - 3/8\" NC hex, jam",
+      "reqd": "6"
+    },
+    {
+      "ref": 47,
+      "x": 19.28,
+      "y": 13.43,
+      "partNo": "129- 103",
+      "desc": "NUT - 3/8\" NC hex",
+      "reqd": "6"
+    },
+    {
+      "ref": 48,
+      "x": 32.87,
+      "y": 17.27,
+      "partNo": "KO 237277",
+      "desc": "STUD - cylinder head",
+      "reqd": "7"
+    }
+  ],
+  "footnotes": "C 25338 - CONNECTOR - stator\nTo Order Complete Engine See Page 1 (subtitle printed above table, not a footnote)"
+}

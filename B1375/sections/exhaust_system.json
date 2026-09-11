@@ -1,0 +1,147 @@
+{
+  "sectionTitle": "Exhaust System",
+  "breadcrumb": "Exhaust System",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/exhaust_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 59.78,
+      "y": 83.1,
+      "partNo": "C 26063",
+      "desc": "MUFFLER ASSEMBLY - exhaust (includes items 9, 10, 13 and 14 banded together)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 84.14,
+      "y": 11.95,
+      "partNo": "C 22747",
+      "desc": "PIPE - engine exhaust",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 74.22,
+      "y": 77.43,
+      "partNo": "NSS",
+      "desc": "CLAMP ASSEMBLY - muffler (use H315176)",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 88.02,
+      "y": 82.9,
+      "partNo": "111- 256",
+      "desc": "BOLT - 5/16\" x 1-1/4\" round head NC (package of 100)",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 88.78,
+      "y": 88.26,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 88.78,
+      "y": 94.53,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" N.C. hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 56.55,
+      "y": 16.51,
+      "partNo": "61- 512",
+      "desc": "BOLT - 5/16\" x 5/8\" socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 60.1,
+      "y": 37.86,
+      "partNo": "C 10372",
+      "desc": "GASKET - exhaust",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 18.6,
+      "y": 65.59,
+      "partNo": "C 26062",
+      "desc": "WRAPPER - muffler",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 8.15,
+      "y": 76.42,
+      "partNo": "C 22889",
+      "desc": "COVER - muffler end",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 38.01,
+      "y": 34.82,
+      "partNo": "214- 272",
+      "desc": "CLAMP - muffler and wrapper mounting",
+      "reqd": "3"
+    },
+    {
+      "ref": 12,
+      "x": 19.9,
+      "y": 46.06,
+      "partNo": "C 22819",
+      "desc": "BRACKET - muffler mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 57.3,
+      "y": 72.07,
+      "partNo": "C 26058",
+      "desc": "INSULATION - muffler",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 13.43,
+      "y": 70.14,
+      "partNo": "C 22860",
+      "desc": "INSULATION - muffler end",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 89.53,
+      "y": 33.81,
+      "partNo": "H 315176",
+      "desc": "CLAMP - muffler",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 86.19,
+      "y": 49.2,
+      "partNo": "129- 102",
+      "desc": "NUT - 5/16\" - 18 hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 29.0,
+      "y": 40.0,
+      "estimated": true,
+      "partNo": "192- 404",
+      "desc": "LOCK WASHER",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

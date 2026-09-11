@@ -1,0 +1,114 @@
+{
+  "sectionTitle": "D70115 Flood and Tail Lamp (Optional)",
+  "breadcrumb": "D70115 Flood and Tail Lamp (Optional)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/flood_tail_lamp.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 32.67,
+      "y": 27.06,
+      "partNo": "D 70115",
+      "desc": "LIGHT ASSEMBLY - flood and tail",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 55.4,
+      "y": 7.96,
+      "partNo": "A 25213",
+      "desc": "RETAINER - sealed beam",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 64.72,
+      "y": 18.11,
+      "partNo": "A 40855",
+      "desc": "LAMP - sealed beam #4409X",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 57.61,
+      "y": 55.78,
+      "partNo": "33686",
+      "desc": "BULB - tail #1141",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 82.32,
+      "y": 33.88,
+      "partNo": "NSS",
+      "desc": "BODY - light (order D70115 light assembly)",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 87.22,
+      "y": 56.72,
+      "partNo": "193-543",
+      "desc": "SCREW AND LOCKWASHER - #8-32 x 3/8\" N.C.",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 10.75,
+      "y": 68.61,
+      "partNo": "A 34046",
+      "desc": "BRACKET - mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 11.92,
+      "y": 61.39,
+      "partNo": "113-209",
+      "desc": "BOLT - 3/8\" x 1-1/2\" N.C. hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 11.22,
+      "y": 79.83,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 11.45,
+      "y": 86.51,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" N.C. hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 31.03,
+      "y": 63.4,
+      "partNo": "10923",
+      "desc": "WASHER - bearing",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 30.57,
+      "y": 82.37,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 30.57,
+      "y": 88.78,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" N.C. hex",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

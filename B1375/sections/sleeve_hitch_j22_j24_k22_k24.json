@@ -1,0 +1,180 @@
+{
+  "sectionTitle": "Model J22, J24, K22 and K24 Sleeve Hitch",
+  "breadcrumb": "Model J22, J24, K22 and K24 Sleeve Hitch",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/sleeve_hitch_j22_j24_k22_k24.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 58.32,
+      "y": 39.96,
+      "partNo": "C 22218",
+      "desc": "HITCH FRAME ASSEMBLY (444) (J24, K24)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 50.43,
+      "y": 76.96,
+      "variants": [
+        {
+          "partNo": "C 14457",
+          "desc": "ARM - lift (J22, J24)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25371",
+          "desc": "ARM - lift (K22, K24)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 12.26,
+      "y": 63.3,
+      "partNo": "195-541",
+      "desc": "WASHER - plain 21/32\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 68.45,
+      "y": 75.43,
+      "partNo": "195-541",
+      "desc": "WASHER - plain 21/32\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 4,
+      "x": 7.91,
+      "y": 67.59,
+      "partNo": "C 10898",
+      "desc": "PIN - safety",
+      "reqd": "2"
+    },
+    {
+      "ref": 4,
+      "x": 72.19,
+      "y": 73.09,
+      "partNo": "C 10898",
+      "desc": "PIN - safety",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 79.08,
+      "y": 54.44,
+      "variants": [
+        {
+          "partNo": "C 14459",
+          "desc": "BRACKET - hitch mounting R.H. shown",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25789",
+          "desc": "BRACKET - hitch mounting L.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 59.74,
+      "y": 58.62,
+      "partNo": "113-410",
+      "desc": "BOLT - 1/2 x 1-1/2\" NC hex, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 68.45,
+      "y": 62.59,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "6"
+    },
+    {
+      "ref": 7,
+      "x": 74.12,
+      "y": 96.33,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "6"
+    },
+    {
+      "ref": 8,
+      "x": 60.96,
+      "y": 77.37,
+      "partNo": "C 25382",
+      "desc": "PLATE - lift lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 87.58,
+      "y": 88.99,
+      "partNo": "113-417",
+      "desc": "BOLT - 1/2 x 1-1/4\" NC hex, zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 71.28,
+      "y": 98.06,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC hex, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 10,
+      "x": 50.33,
+      "y": 30.48,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC hex, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 11,
+      "x": 52.25,
+      "y": 71.36,
+      "partNo": "195-545",
+      "desc": "WASHER - plain 3/4\" zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 45.57,
+      "y": 72.99,
+      "partNo": "132-306",
+      "desc": "PIN - cotter 3/16 x 1-3/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 54.48,
+      "y": 33.03,
+      "partNo": "22-844",
+      "desc": "BOLT - 1/2 x 2-3/4\" NC hex, zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 22.99,
+      "y": 27.32,
+      "partNo": "C 14568",
+      "desc": "PIN - drawbar",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 73.61,
+      "y": 20.9,
+      "partNo": "C 23707",
+      "desc": "HITCH FRAME ASSEMBLY (220, 222 and 224) (J22, K22)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

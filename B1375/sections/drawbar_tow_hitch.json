@@ -1,0 +1,34 @@
+{
+  "sectionTitle": "Drawbar and Tow Hitch",
+  "breadcrumb": "Drawbar and Tow Hitch",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/drawbar_tow_hitch.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 85.02,
+      "y": 43.74,
+      "partNo": "C 13360",
+      "desc": "DRAWBAR",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 56.29,
+      "y": 28.39,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 38.82,
+      "y": 17.84,
+      "partNo": "113- 424",
+      "desc": "BOLT - 1/2 x 1\" NC hex zinc plated",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

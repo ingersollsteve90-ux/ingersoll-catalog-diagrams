@@ -1,0 +1,258 @@
+{
+  "sectionTitle": "Electrical System (use S/N and after)",
+  "breadcrumb": "Electrical System (use S/N and after)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/electrical_system_after.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 42.31,
+      "y": 33.34,
+      "partNo": "C 25564",
+      "desc": "HARNESS - wire",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 37.2,
+      "y": 65.34,
+      "partNo": "C 24815",
+      "desc": "HARNESS - wire",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 91.24,
+      "y": 30.84,
+      "partNo": "C 24816",
+      "desc": "CABLE - solenoid to starter (black)",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 71.84,
+      "y": 10.42,
+      "partNo": "C 14565",
+      "desc": "CABLE - solenoid to battery positive (red)",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 75.25,
+      "y": 11.97,
+      "partNo": "C 24814",
+      "desc": "CABLE - battery negative to ground (black)",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 73.54,
+      "y": 57.7,
+      "partNo": "C 24813",
+      "desc": "CONNECTOR - to stator (included in C24815 harness)",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 10.34,
+      "y": 52.45,
+      "partNo": "C 25486",
+      "desc": "CONNECTOR - rectifier",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 68.21,
+      "y": 65.1,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - lights",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 21.64,
+      "y": 20.09,
+      "partNo": "C 18389",
+      "desc": "AMMETER - 30 amps, 12v",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 10.45,
+      "y": 62.12,
+      "partNo": "C 27509",
+      "desc": "RECTIFIER - voltage, 12v",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 20.25,
+      "y": 43.97,
+      "partNo": "C 23002",
+      "desc": "SWITCH - neutral start (includes wire)",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 6.29,
+      "y": 36.81,
+      "partNo": "C 21989",
+      "desc": "INSULATOR - locator",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 46.36,
+      "y": 36.09,
+      "partNo": "C 18197",
+      "desc": "BATTERY - 12v",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 65.34,
+      "y": 13.05,
+      "partNo": "C 18113",
+      "desc": "CAP - battery",
+      "reqd": "6"
+    },
+    {
+      "ref": 15,
+      "x": 4.26,
+      "y": 32.87,
+      "partNo": "C 23010",
+      "desc": "SWITCH ASSEMBLY - ignition (includes key and lockwasher)",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 6.5,
+      "y": 22.84,
+      "partNo": "A 24509",
+      "desc": "KEY - ignition",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 87.61,
+      "y": 20.21,
+      "partNo": "NSS",
+      "desc": "SOLENOID - start 12v (use C26525)",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 82.18,
+      "y": 64.75,
+      "partNo": "C 22571",
+      "desc": "HEADLAMP ASSEMBLY - 12v (repairs page 69)",
+      "reqd": "2"
+    },
+    {
+      "ref": 19,
+      "x": 83.46,
+      "y": 48.27,
+      "partNo": "C 24889",
+      "desc": "STARTER - bendix drive (repairs page 63)",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 77.59,
+      "y": 47.67,
+      "partNo": "V 34427",
+      "desc": "STATOR",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 20.57,
+      "y": 71.19,
+      "partNo": "C 24800",
+      "desc": "SWITCH - neutral start, PTO",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 59.47,
+      "y": 91.49,
+      "partNo": "KO 231281",
+      "desc": "COIL - ignition, 12v (includes bracket)",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 61.71,
+      "y": 86.84,
+      "partNo": "V 34435",
+      "desc": "BRACKET - coil mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 50.73,
+      "y": 74.3,
+      "partNo": "C 24301",
+      "desc": "SPARK PLUG - (includes gasket)",
+      "reqd": "1"
+    },
+    {
+      "ref": 25,
+      "x": 49.88,
+      "y": 79.91,
+      "partNo": "A 27251",
+      "desc": "GASKET - spark plug",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 57.45,
+      "y": 71.31,
+      "partNo": "V 34433",
+      "desc": "KIT - high tension cable",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 40.82,
+      "y": 91.85,
+      "partNo": "KO 230722",
+      "desc": "CONDENSER",
+      "reqd": "1"
+    },
+    {
+      "ref": 28,
+      "x": 18.76,
+      "y": 27.02,
+      "partNo": "223-20",
+      "desc": "FUSE - 20 amp (included in harness)",
+      "reqd": "1"
+    },
+    {
+      "ref": 29,
+      "x": 35.07,
+      "y": 83.73,
+      "partNo": "NSS",
+      "desc": "BREAKER CONTACT ASSEMBLY - ignition (repairs page 71)",
+      "reqd": "1"
+    },
+    {
+      "ref": 30,
+      "x": 76.1,
+      "y": 39.2,
+      "partNo": "C 25563",
+      "desc": "WIRE - solenoid to micro switch",
+      "reqd": "1"
+    },
+    {
+      "ref": 31,
+      "x": 76.53,
+      "y": 57.7,
+      "partNo": "C 25338",
+      "desc": "CONNECTOR - from stator",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

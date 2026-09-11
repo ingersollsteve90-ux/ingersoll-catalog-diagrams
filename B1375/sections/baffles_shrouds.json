@@ -1,0 +1,140 @@
+{
+  "sectionTitle": "Baffles and Shrouds",
+  "breadcrumb": "Baffles and Shrouds",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/baffles_shrouds.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 35.69,
+      "y": 14.62,
+      "partNo": "C 26985",
+      "desc": "DEFLECTOR - engine air",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 78.05,
+      "y": 13.27,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 82.37,
+      "y": 8.37,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4\" x 1/2\" NC hex, zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 4,
+      "x": 43.67,
+      "y": 24.06,
+      "variants": [
+        {
+          "partNo": "KO 237520",
+          "desc": "BAFFLE - cylinder head (10 hp engine)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "KO 237677",
+          "desc": "BAFFLE - cylinder head (12 - 14 hp engine)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 83.7,
+      "y": 42.81,
+      "variants": [
+        {
+          "partNo": "KO 237520",
+          "desc": "BAFFLE - cylinder head (10 hp engine)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "KO 237677",
+          "desc": "BAFFLE - cylinder head (12 - 14 hp engine)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 48.65,
+      "y": 62.06,
+      "partNo": "KO 235652",
+      "desc": "BAFFLE - carburetor side air",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 49.48,
+      "y": 86.58,
+      "partNo": "C 24879",
+      "desc": "HOUSING - blower",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 37.52,
+      "y": 87.44,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 77.55,
+      "y": 91.61,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 93.34,
+      "y": 17.56,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 8,
+      "x": 88.02,
+      "y": 20.38,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 8,
+      "x": 72.9,
+      "y": 87.93,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 8,
+      "x": 42.84,
+      "y": 82.41,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 9,
+      "x": 68.92,
+      "y": 21.36,
+      "partNo": "KO 236676",
+      "desc": "BAFFLE - cylinder",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

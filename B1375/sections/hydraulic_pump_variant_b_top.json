@@ -1,0 +1,187 @@
+{
+  "sectionTitle": "Hydraulic Pump and Coupling (Borg-Warner)",
+  "breadcrumb": "Hydraulic Pump and Coupling (Borg-Warner)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/hydraulic_pump_variant_b_top.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 13.44,
+      "y": 69.91,
+      "partNo": "NSS",
+      "desc": "PUMP - hyd. 9/16\" shaft (use C26278 and C15724)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 64.27,
+      "y": 56.68,
+      "partNo": "C 20456",
+      "desc": "BODY - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 20.75,
+      "y": 18.95,
+      "partNo": "NSS",
+      "desc": "COVER ASSEMBLY - pump (use C26278 and C15724)",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 36.3,
+      "y": 33.44,
+      "partNo": "C 20460",
+      "desc": "GEAR - drive, pump",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 25.05,
+      "y": 66.91,
+      "partNo": "C 20461",
+      "desc": "GEAR - driven, pump",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 47.21,
+      "y": 44.37,
+      "partNo": "C 20462",
+      "desc": "PLATE - wear",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 51.39,
+      "y": 52.19,
+      "variants": [
+        {
+          "partNo": "C 24070",
+          "desc": "SEAL - wear plate",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 24071",
+          "desc": "SPACER - seal",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 75.64,
+      "y": 70.83,
+      "partNo": "A 35690",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 29.23,
+      "y": 27.11,
+      "partNo": "D 58196",
+      "desc": "SEAL - \"O\" Ring",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 15.42,
+      "y": 56.22,
+      "partNo": "221-849",
+      "desc": "PLUG - pipe",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 19.59,
+      "y": 54.72,
+      "partNo": "D 58188",
+      "desc": "PIN - dowel",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 71.93,
+      "y": 64.96,
+      "partNo": "C 20464",
+      "desc": "SEAL - shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 12.75,
+      "y": 10.89,
+      "partNo": "113-5",
+      "desc": "BOLT - 1/4\" x 1-1/2\" NC hex, grade 5",
+      "reqd": "4"
+    },
+    {
+      "ref": 14,
+      "x": 16.46,
+      "y": 14.34,
+      "partNo": "D 58189",
+      "desc": "WASHER - 1/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 15,
+      "x": 42.11,
+      "y": 39.88,
+      "partNo": "C 20455",
+      "desc": "KEY - square 3/16\" x 13/16\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 61.83,
+      "y": 41.03,
+      "partNo": "C 25207",
+      "desc": "COUPLING - 220, 222",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 79.01,
+      "y": 39.42,
+      "partNo": "NSS",
+      "desc": "HUB - coupling (order item 16)",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 62.65,
+      "y": 23.66,
+      "partNo": "NSS",
+      "desc": "HUB - coupling (order item 16)",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 87.13,
+      "y": 10.43,
+      "partNo": "A 70112",
+      "desc": "SPIDER - coupling",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 82.72,
+      "y": 6.41,
+      "partNo": "83-55",
+      "desc": "SETSCREW - 5/16\" x 5/16\" N.C. soc. hd.",
+      "reqd": "2"
+    },
+    {
+      "ref": 20,
+      "x": 92.12,
+      "y": 11.81,
+      "partNo": "83-55",
+      "desc": "SETSCREW - 5/16\" x 5/16\" N.C. soc. hd.",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

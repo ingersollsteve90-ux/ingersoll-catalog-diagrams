@@ -1,0 +1,286 @@
+{
+  "sectionTitle": "Hood, Frame and Grille (S/N and after)",
+  "breadcrumb": "Hood, Frame and Grille (S/N and after)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/hood_frame_grille_after.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 64.02,
+      "y": 67.2,
+      "variants": [
+        {
+          "partNo": "C 26938†",
+          "desc": "FRAME - main (220, 222 and 224)(shown)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26940†",
+          "desc": "FRAME - main (444)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 78.74,
+      "y": 14.89,
+      "partNo": "C 22775",
+      "desc": "HOOD AND GRILLE ASSEMBLY (includes item 27)",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 39.08,
+      "y": 8.31,
+      "partNo": "C 23527",
+      "desc": "LINER - hood",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 77.01,
+      "y": 73.35,
+      "partNo": "C 22023",
+      "desc": "HINGE - frame",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 50.46,
+      "y": 81.22,
+      "partNo": "C 18733",
+      "desc": "PIN - attachment",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 47.01,
+      "y": 83.38,
+      "partNo": "131- 1318",
+      "desc": "NUT - lock 1/2\" NF",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 40.8,
+      "y": 48.65,
+      "partNo": "353- 406",
+      "desc": "PLUG - hole (models without hydraulic lift)",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 45.17,
+      "y": 42.39,
+      "partNo": "C 18153",
+      "desc": "CHANNEL - instrument panel",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 88.51,
+      "y": 69.9,
+      "partNo": "C 16362",
+      "desc": "ROD - hood hinge",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 86.32,
+      "y": 83.27,
+      "partNo": "132- 46",
+      "desc": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 45.63,
+      "y": 89.53,
+      "partNo": "C 16373",
+      "desc": "PIN - latch",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 48.74,
+      "y": 88.67,
+      "partNo": "C 24137",
+      "desc": "SPRING - latch",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 61.61,
+      "y": 91.69,
+      "partNo": "138- 319",
+      "desc": "PIN - roll 3/16\" x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 28.05,
+      "y": 85.0,
+      "variants": [
+        {
+          "partNo": "C 25317",
+          "desc": "PAD - foot rest, L.H.",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25318",
+          "desc": "PAD - foot rest, R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 8.28,
+      "y": 78.42,
+      "partNo": "113- 113",
+      "desc": "BOLT - 5/16\" x 7/8\" N.C. hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 16,
+      "x": 12.53,
+      "y": 76.26,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 17,
+      "x": 9.31,
+      "y": 63.1,
+      "variants": [
+        {
+          "partNo": "C 14729",
+          "desc": "SPACER - frame, rear (444)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 14730",
+          "desc": "SPACER - frame, rear (220, 222 and 224)",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 12.99,
+      "y": 51.13,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 19,
+      "x": 14.37,
+      "y": 46.6,
+      "partNo": "113- 424",
+      "desc": "BOLT - 1/2\" x 1\" N.C. hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 20,
+      "x": 73.79,
+      "y": 50.37,
+      "partNo": "C 24821",
+      "desc": "SHIELD - heat",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 66.09,
+      "y": 47.68,
+      "partNo": "C 24820",
+      "desc": "CLIP - battery hold down",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 59.89,
+      "y": 47.03,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2",
+      "reqd": "9"
+    },
+    {
+      "ref": 22,
+      "x": 17.59,
+      "y": 40.77,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2",
+      "reqd": "9"
+    },
+    {
+      "ref": 22,
+      "x": 42.76,
+      "y": 79.93,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2",
+      "reqd": "9"
+    },
+    {
+      "ref": 23,
+      "x": 73.56,
+      "y": 68.71,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "5"
+    },
+    {
+      "ref": 23,
+      "x": 88.28,
+      "y": 60.19,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "5"
+    },
+    {
+      "ref": 24,
+      "x": 78.97,
+      "y": 66.66,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" - 20",
+      "reqd": "5"
+    },
+    {
+      "ref": 25,
+      "x": 27.47,
+      "y": 38.51,
+      "variants": [
+        {
+          "partNo": "C 24822*",
+          "desc": "COVER - access",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26506**",
+          "desc": "COVER - access",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 26,
+      "x": 22.64,
+      "y": 41.21,
+      "partNo": "193- 57",
+      "desc": "LOCKWASHER",
+      "reqd": "4"
+    },
+    {
+      "ref": 27,
+      "x": 91.72,
+      "y": 50.48,
+      "partNo": "C 16361",
+      "desc": "HING - hood",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "†also use C26266, C26265, C26264, 195-533, 138-63 and 132-310 before S/N: 220 - 14005097, 222 - 14006533, 224 - 14007681, 444 - 14009128 | *use 220 - before S/N 9779774, 222 - before S/N 9781310, 224 - before S/N 9782979, 444 - before S/N 9784373 | **use 220 - S/N 9779774 and after, 222 - S/N 9781310 and after, 224 - S/N 9782979 and after, 444 - S/N 9784373 and after"
+}

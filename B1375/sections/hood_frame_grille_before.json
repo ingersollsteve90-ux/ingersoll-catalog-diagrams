@@ -1,0 +1,269 @@
+{
+  "sectionTitle": "Hood, Frame and Grille (before S/N)",
+  "breadcrumb": "Hood, Frame and Grille (before S/N)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/hood_frame_grille_before.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 65.28,
+      "y": 67.11,
+      "variants": [
+        {
+          "partNo": "C 25307",
+          "desc": "FRAME - main (220, 222 and 224) (also order C24872 arm prior to 220 - S/N 9734921, 222 - S/N 9737066, 224 - S/N 9738351)(shown)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 24771",
+          "desc": "FRAME - main (444) (also order C24872 arm prior to 444 - S/N 9739749)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 79.84,
+      "y": 15.23,
+      "partNo": "C 22775",
+      "desc": "HOOD AND GRILLE ASSEMBLY (includes item 27)",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 41.78,
+      "y": 8.32,
+      "partNo": "C 23527",
+      "desc": "LINER - hood",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 77.55,
+      "y": 73.41,
+      "partNo": "C 22023",
+      "desc": "HINGE - frame",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 52.1,
+      "y": 81.33,
+      "partNo": "C 18733",
+      "desc": "PIN - attachment",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 48.09,
+      "y": 83.36,
+      "partNo": "131- 1318",
+      "desc": "NUT - lock 1/2\" NF jam",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 42.47,
+      "y": 48.33,
+      "partNo": "353- 406",
+      "desc": "PLUG - hole (models without hydraulic lift)",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 46.71,
+      "y": 42.03,
+      "partNo": "C 18153",
+      "desc": "CHANNEL - instrument panel",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 89.13,
+      "y": 69.55,
+      "partNo": "C 16362",
+      "desc": "ROD - hood hinge",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 86.61,
+      "y": 83.26,
+      "partNo": "132- 46",
+      "desc": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 46.48,
+      "y": 89.04,
+      "partNo": "C 16373",
+      "desc": "PIN - latch",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 50.5,
+      "y": 88.43,
+      "partNo": "C 24137",
+      "desc": "SPRING - latch",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 62.99,
+      "y": 91.68,
+      "partNo": "138- 319",
+      "desc": "PIN - roll 3/16\" x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 23.9,
+      "y": 79.6,
+      "variants": [
+        {
+          "partNo": "C 18890",
+          "desc": "PAD - foot rest, L.H.",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 18150",
+          "desc": "PAD - foot rest, R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 17.71,
+      "y": 72.8,
+      "partNo": "113- 113",
+      "desc": "BOLT - 5/16\" x 7/8\" N.C. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 21.72,
+      "y": 70.87,
+      "partNo": "192- 20",
+      "desc": "LOCKWASHER - 5/16\".",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 12.43,
+      "y": 62.54,
+      "variants": [
+        {
+          "partNo": "C 14729",
+          "desc": "SPACER - frame, rear (444).",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 14730",
+          "desc": "SPACER - frame, rear (220, 222 and 224).",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 15.41,
+      "y": 50.66,
+      "partNo": "192- 23",
+      "desc": "LOCKWASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 19,
+      "x": 16.9,
+      "y": 46.4,
+      "partNo": "113- 424",
+      "desc": "BOLT - 1/2\" x 1\" N.C. hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 20,
+      "x": 74.46,
+      "y": 50.26,
+      "partNo": "C 24821",
+      "desc": "SHIELD - heat.",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 66.43,
+      "y": 47.41,
+      "partNo": "C 24820",
+      "desc": "CLIP - battery hold down.",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 61.39,
+      "y": 46.6,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2",
+      "reqd": "9"
+    },
+    {
+      "ref": 22,
+      "x": 19.89,
+      "y": 40.71,
+      "partNo": "113- 1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2",
+      "reqd": "9"
+    },
+    {
+      "ref": 23,
+      "x": 74.46,
+      "y": 68.64,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\".",
+      "reqd": "5"
+    },
+    {
+      "ref": 23,
+      "x": 88.9,
+      "y": 60.31,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\".",
+      "reqd": "5"
+    },
+    {
+      "ref": 24,
+      "x": 79.84,
+      "y": 66.71,
+      "partNo": "129- 101",
+      "desc": "NUT - 1/4\" - 20.",
+      "reqd": "5"
+    },
+    {
+      "ref": 25,
+      "x": 30.66,
+      "y": 38.58,
+      "partNo": "C 24822",
+      "desc": "COVER - access",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 25.62,
+      "y": 41.12,
+      "partNo": "193- 57",
+      "desc": "LOCKWASHER.",
+      "reqd": "4"
+    },
+    {
+      "ref": 27,
+      "x": 92.0,
+      "y": 50.46,
+      "partNo": "C 16361",
+      "desc": "HINGE - hood",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

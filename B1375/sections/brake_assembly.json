@@ -1,0 +1,237 @@
+{
+  "sectionTitle": "Brake Assembly",
+  "breadcrumb": "Brake Assembly",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/brake_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 87.59,
+      "y": 74.69,
+      "partNo": "C 21872",
+      "desc": "PEDAL - brake actuating",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 43.87,
+      "y": 86.03,
+      "partNo": "C 26381",
+      "desc": "ARM - brake pedal",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 67.25,
+      "y": 88.97,
+      "partNo": "138- 2073",
+      "desc": "PIN - spirol 3/16\" x 1-1/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 66.69,
+      "y": 44.76,
+      "partNo": "C 25022",
+      "desc": "SPRING - return",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 65.12,
+      "y": 59.46,
+      "partNo": "131- 1308",
+      "desc": "NUT - centerlock, jam",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 79.16,
+      "y": 64.92,
+      "partNo": "C 16164",
+      "desc": "TAB - lift",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 72.87,
+      "y": 21.03,
+      "partNo": "C 18147",
+      "desc": "LEVER - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 60.96,
+      "y": 12.21,
+      "partNo": "C 27755",
+      "desc": "SPRING - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 72.87,
+      "y": 51.06,
+      "partNo": "C 21857",
+      "desc": "SPACER - brake pedal",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 15.21,
+      "y": 14.83,
+      "partNo": "C 23909",
+      "desc": "BAND - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 21.51,
+      "y": 14.73,
+      "partNo": "C 23910",
+      "desc": "PIN - clevis",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 7.91,
+      "y": 46.13,
+      "partNo": "113- 2262",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/2\" hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 22.85,
+      "y": 27.85,
+      "partNo": "129- 143",
+      "desc": "NUT - 3/8\" - 16 jam",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 26.68,
+      "y": 25.75,
+      "partNo": "C 23899",
+      "desc": "ARM - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 43.53,
+      "y": 18.93,
+      "partNo": "C 24761",
+      "desc": "ARM - brake (includes adjustment nut)",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 35.11,
+      "y": 22.81,
+      "partNo": "C 23883",
+      "desc": "GUIDE - brake actuation",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 30.5,
+      "y": 24.49,
+      "partNo": "195- 533",
+      "desc": "WASHER - .531 I.D.",
+      "reqd": "4"
+    },
+    {
+      "ref": 17,
+      "x": 49.94,
+      "y": 35.63,
+      "partNo": "195- 533",
+      "desc": "WASHER - .531 I.D.",
+      "reqd": "4"
+    },
+    {
+      "ref": 18,
+      "x": 14.54,
+      "y": 46.97,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 18,
+      "x": 55.45,
+      "y": 36.78,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 18,
+      "x": 75.68,
+      "y": 86.14,
+      "partNo": "132- 310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": 19,
+      "x": 20.94,
+      "y": 45.6,
+      "partNo": "213- 41",
+      "desc": "CLEVIS",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 42.07,
+      "y": 46.34,
+      "partNo": "213- 41",
+      "desc": "CLEVIS",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 61.41,
+      "y": 40.67,
+      "partNo": "141- 54",
+      "desc": "PIN - clevis",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 62.64,
+      "y": 46.23,
+      "partNo": "132- 321",
+      "desc": "PIN - cotter",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 48.82,
+      "y": 64.08,
+      "variants": [
+        {
+          "partNo": "C 24796",
+          "desc": "ROD - brake (use before 220 - S/N 9762275, 222 - S/N 9763700, 224 - S/N 9765195)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 24795",
+          "desc": "ROD - brake (444) use before S/N 9766840",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25305",
+          "desc": "ROD - brake (use 220 - S/N 9762275, 222 - S/N 9763700, 224 - S/N 9765195 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25306",
+          "desc": "ROD - brake (444) use S/N 9766840 and after",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

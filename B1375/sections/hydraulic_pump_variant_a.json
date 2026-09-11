@@ -1,0 +1,212 @@
+{
+  "sectionTitle": "Hydraulic Pump and Coupling (Parker-Hannifin, use before S/N)",
+  "breadcrumb": "Hydraulic Pump and Coupling (Parker-Hannifin, use before S/N)",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/hydraulic_pump_variant_a.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 18.07,
+      "y": 66.85,
+      "partNo": "NSS*",
+      "desc": "PUMP - hyd. 9/16\" shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 48.41,
+      "y": 91.58,
+      "partNo": "F 53109",
+      "desc": "PIN - dowel",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 25.3,
+      "y": 23.85,
+      "partNo": "C 24861",
+      "desc": "COVER - rear",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 28.97,
+      "y": 72.7,
+      "partNo": "C 15731",
+      "desc": "GEAR ASSEMBLY - driven",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 32.05,
+      "y": 28.84,
+      "partNo": "C 15732",
+      "desc": "\"O\" RING - cover",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 74.24,
+      "y": 66.85,
+      "partNo": "C 15732",
+      "desc": "\"O\" RING - cover",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 50.18,
+      "y": 45.29,
+      "partNo": "C 15733",
+      "desc": "BODY - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 81.59,
+      "y": 68.68,
+      "partNo": "C 15734",
+      "desc": "COVER - front",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 85.97,
+      "y": 79.52,
+      "partNo": "C 15735",
+      "desc": "SEAL - shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 37.39,
+      "y": 37.0,
+      "partNo": "NSS",
+      "desc": "GEAR ASSEMBLY - drive (9/16\" shaft)",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 56.11,
+      "y": 51.99,
+      "partNo": "C 15737",
+      "desc": "PLATE - wear",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 61.56,
+      "y": 55.89,
+      "partNo": "C 15738",
+      "desc": "SHIELD - heat",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 65.59,
+      "y": 59.54,
+      "partNo": "C 15739",
+      "desc": "GASKET",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 70.21,
+      "y": 63.44,
+      "partNo": "C 15740",
+      "desc": "SEAL",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 16.06,
+      "y": 22.75,
+      "partNo": "113-111",
+      "desc": "BOLT",
+      "reqd": "4"
+    },
+    {
+      "ref": 15,
+      "x": 42.36,
+      "y": 39.32,
+      "partNo": "A 21075",
+      "desc": "KEY - 3/16\" square (for 9/16\" shaft)",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 8.35,
+      "y": 41.88,
+      "partNo": "A 50773",
+      "desc": "WASHER",
+      "reqd": "4"
+    },
+    {
+      "ref": 17,
+      "x": 61.56,
+      "y": 43.22,
+      "variants": [
+        {
+          "partNo": "C 25207",
+          "desc": "COUPLING - pump (220 and 222) (for 9/16\" shaft)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25208",
+          "desc": "COUPLING - pump (224 and 444) (for 9/16\" shaft)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 61.92,
+      "y": 25.92,
+      "partNo": "NSS",
+      "desc": "HUB - (order item 17)",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 77.68,
+      "y": 40.9,
+      "partNo": "NSS",
+      "desc": "HUB - (order item 17)",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 82.18,
+      "y": 8.38,
+      "partNo": "83-55",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": 20,
+      "x": 91.66,
+      "y": 12.76,
+      "partNo": "83-55",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 85.97,
+      "y": 13.01,
+      "variants": [
+        {
+          "partNo": "A 70112",
+          "desc": "SPIDER - (for C25207 coupling)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 15036",
+          "desc": "SPIDER - (for C25208 coupling)",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": "C 24862 - SHAFT - drive (9/16\" shaft)\nC 24863 - GEAR - drive (9/16\" shaft)\nC 24864 - KEY - gear (9/16\" shaft)\nC 24865 - RING - retaining (9/16\" shaft)\n*use C26278 and C17300 on 224 and 444. use C26278 and C15724 on 220 and 222."
+}

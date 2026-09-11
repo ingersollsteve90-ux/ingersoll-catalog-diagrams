@@ -1,0 +1,106 @@
+{
+  "sectionTitle": "Breaker Contacts",
+  "breadcrumb": "Breaker Contacts",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/breaker_contacts.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 24.96,
+      "y": 35.66,
+      "partNo": "NSS",
+      "desc": "LEAD - breaker contact (order from local supplier)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 91.49,
+      "y": 62.43,
+      "partNo": "NSS",
+      "desc": "BRACKET - breaker contacts",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 64.88,
+      "y": 79.27,
+      "partNo": "V 34421",
+      "desc": "SCREW - #10 x 3/8\" round head, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 3,
+      "x": 8.64,
+      "y": 65.44,
+      "partNo": "V 34421",
+      "desc": "SCREW - #10 x 3/8\" round head, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 39.98,
+      "y": 18.64,
+      "partNo": "KO 275182",
+      "desc": "RETAINER - wire",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 45.13,
+      "y": 92.57,
+      "partNo": "V 35060",
+      "desc": "COVER - breaker contact",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 56.5,
+      "y": 86.72,
+      "partNo": "C 26518",
+      "desc": "GASKET - cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 77.32,
+      "y": 70.76,
+      "partNo": "187-408",
+      "desc": "SCREW - #6 x 3/8\" self-tapping",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 69.38,
+      "y": 16.86,
+      "partNo": "173-224",
+      "desc": "SCREW - #8 x 1/4\" N.C. round head",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 75.39,
+      "y": 21.3,
+      "partNo": "193-90",
+      "desc": "LOCKWASHER - #8 internal tooth",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 81.62,
+      "y": 26.44,
+      "partNo": "C 24135",
+      "desc": "POINT SET - breaker contact assembly",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 87.41,
+      "y": 30.52,
+      "partNo": "C 27440",
+      "desc": "ROD - breaker contact push",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

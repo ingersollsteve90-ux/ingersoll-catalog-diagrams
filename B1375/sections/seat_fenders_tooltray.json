@@ -1,0 +1,292 @@
+{
+  "sectionTitle": "Seat, Fenders and Tool Tray",
+  "breadcrumb": "Seat, Fenders and Tool Tray",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/seat_fenders_tooltray.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 19.92,
+      "y": 86.4,
+      "partNo": "C 26066",
+      "desc": "SUPPORT - seat, front",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 8.35,
+      "y": 79.4,
+      "partNo": "NSS",
+      "desc": "SUPPORT - seat, rear (use C26695)",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 23.56,
+      "y": 66.5,
+      "variants": [
+        {
+          "partNo": "113-441",
+          "desc": "BOLT - 1/2 x 2-1/4\" NC hex (444)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "113-427",
+          "desc": "BOLT - 1/2 x 3-1/4\" NC hex (220, 222 and 224)",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 46.25,
+      "y": 57.0,
+      "variants": [
+        {
+          "partNo": "113-424",
+          "desc": "BOLT - 1/2 x 1\" NC hex",
+          "reqd": "2"
+        },
+        {
+          "partNo": "113-118",
+          "desc": "BOLT - 5/16\" x 5/8\"",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 34.57,
+      "y": 61.2,
+      "variants": [
+        {
+          "partNo": "192-20",
+          "desc": "LOCKWASHER - 5/16\"",
+          "reqd": "1"
+        },
+        {
+          "partNo": "192-23",
+          "desc": "LOCKWASHER - 1/2\"",
+          "reqd": "4"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 85.25,
+      "y": 22.0,
+      "partNo": "C 19417*",
+      "desc": "TRAY - tool",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 58.37,
+      "y": 38.8,
+      "partNo": "C 16429",
+      "desc": "PIN - seat hinge",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 38.65,
+      "y": 7.0,
+      "variants": [
+        {
+          "partNo": "C 26214",
+          "desc": "SEAT - (220, 222 and 224)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26215",
+          "desc": "SEAT - (444)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 15.18,
+      "y": 32.3,
+      "partNo": "D 59705",
+      "desc": "CUSHION - rubber",
+      "reqd": "8"
+    },
+    {
+      "ref": 9,
+      "x": 15.29,
+      "y": 48.8,
+      "partNo": "D 59705",
+      "desc": "CUSHION - rubber",
+      "reqd": "8"
+    },
+    {
+      "ref": 10,
+      "x": 17.5,
+      "y": 51.5,
+      "partNo": "195-2175",
+      "desc": "WASHER - 5/16 x 1-1/4\" OD, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 11,
+      "x": 19.15,
+      "y": 55.5,
+      "partNo": "113-122",
+      "desc": "BOLT - 5/16 x 1-1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 12,
+      "x": 10.23,
+      "y": 43.0,
+      "partNo": "C 14534",
+      "desc": "BUMPER - seat",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 48.9,
+      "y": 44.3,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock",
+      "reqd": "10"
+    },
+    {
+      "ref": 13,
+      "x": 55.51,
+      "y": 75.8,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock",
+      "reqd": "10"
+    },
+    {
+      "ref": 14,
+      "x": 63.99,
+      "y": 15.3,
+      "partNo": "C 17152*",
+      "desc": "HINGE ASSEMBLY - seat",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 91.64,
+      "y": 32.6,
+      "variants": [
+        {
+          "partNo": "C 16444",
+          "desc": "FENDER - L.H. (444) use before S/N 9766840",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 16445",
+          "desc": "FENDER - R.H. (444) use before S/N 9766840",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25303",
+          "desc": "FENDER - L.H. (444) use S/N 9766840 and after",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25304",
+          "desc": "FENDER - R.H. (444) use S/N 9766840 and after",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 87.34,
+      "y": 65.7,
+      "variants": [
+        {
+          "partNo": "C 25297",
+          "desc": "FENDER - L.H. (use 220 - S/N 9762275, 222 - S/N 9763700, 224 - S/N 9765195 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25298",
+          "desc": "FENDER - R.H. (use 220 - S/N 9762275, 222 - S/N 9763700, 224 - S/N 9765195 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 16446",
+          "desc": "FENDER - L.H. (use before 220 - S/N 9762275, 222 - S/N 9763700, 224 - S/N 9765195)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 16447",
+          "desc": "FENDER - R.H. (use before 220 - S/N 9762275, 222 - S/N 9763700, 224 - S/N 9765195)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 66.74,
+      "y": 82.1,
+      "partNo": "C 16393",
+      "desc": "LEVER - shift",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 60.9,
+      "y": 79.8,
+      "partNo": "195-525",
+      "desc": "WASHER - 7/16 x 1-1/4\" OD",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 72.91,
+      "y": 85.0,
+      "partNo": "C 17216",
+      "desc": "SPRING - shift lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 77.21,
+      "y": 86.4,
+      "partNo": "C 17066",
+      "desc": "WASHER - cupped",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 80.95,
+      "y": 88.7,
+      "partNo": "131-1181",
+      "desc": "NUT - lock 3/8\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 35.12,
+      "y": 94.5,
+      "partNo": "C 14728",
+      "desc": "GRIP - shift lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 21.35,
+      "y": 60.9,
+      "partNo": "C 26028**",
+      "desc": "TRAY - tool",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 45.48,
+      "y": 33.6,
+      "partNo": "C 26029**",
+      "desc": "HINGE - seat",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "*use before S/N: 220 - 9780394, 222 - 9782118, 224 - 9783605, 444 - 9785020   **use S/N and after: 220 - 9780394, 222 - 9782118, 224 - 9783605, 444 - 9785020"
+}

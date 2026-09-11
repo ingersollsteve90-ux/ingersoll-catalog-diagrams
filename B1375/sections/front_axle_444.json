@@ -1,0 +1,338 @@
+{
+  "sectionTitle": "444 Front Axle",
+  "breadcrumb": "444 Front Axle",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/front_axle_444.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 48.59,
+      "y": 14.5,
+      "partNo": "C 18813",
+      "desc": "AXLE - front",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 31.15,
+      "y": 78.6,
+      "partNo": "C 26205",
+      "desc": "SPINDLE - right hand",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 69.72,
+      "y": 56.6,
+      "partNo": "C 26206",
+      "desc": "SPINDLE - left hand",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 51.27,
+      "y": 59.0,
+      "partNo": "138-99",
+      "desc": "PIN - roll",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 81.35,
+      "y": 38.8,
+      "partNo": "C 22278",
+      "desc": "PIN - retaining, axle pivot",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 85.04,
+      "y": 25.9,
+      "partNo": "C 13716",
+      "desc": "WASHER - thrust",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 83.14,
+      "y": 8.5,
+      "partNo": "C 13716",
+      "desc": "WASHER - thrust",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 36.29,
+      "y": 20.5,
+      "partNo": "C 13716",
+      "desc": "WASHER - thrust",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 38.08,
+      "y": 41.8,
+      "partNo": "C 13716",
+      "desc": "WASHER - thrust",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 54.52,
+      "y": 47.2,
+      "partNo": "219-404",
+      "desc": "FITTING - lube",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 57.65,
+      "y": 52.0,
+      "partNo": "C 13106",
+      "desc": "COVER - lube fitting",
+      "reqd": "3"
+    },
+    {
+      "ref": 8,
+      "x": 55.52,
+      "y": 6.8,
+      "partNo": "C 13106",
+      "desc": "COVER - lube fitting",
+      "reqd": "3"
+    },
+    {
+      "ref": 9,
+      "x": 39.98,
+      "y": 86.1,
+      "partNo": "132-311",
+      "desc": "PIN - cotter 5/32 x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 16.27,
+      "y": 83.5,
+      "partNo": "C 12975",
+      "desc": "WASHER - wheel spindle",
+      "reqd": "2"
+    },
+    {
+      "ref": 11,
+      "x": 20.86,
+      "y": 79.1,
+      "partNo": "A 30881",
+      "desc": "WASHER - wheel spacer",
+      "reqd": "4"
+    },
+    {
+      "ref": 12,
+      "x": 89.18,
+      "y": 34.6,
+      "partNo": "187-1910",
+      "desc": "BOLT - 3/8\" NC indented hex head",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 17.5,
+      "y": 64.2,
+      "partNo": "C 22992",
+      "desc": "KIT - drag link rod (use before S/N 9785170)",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 43.89,
+      "y": 92.7,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "3"
+    },
+    {
+      "ref": 14,
+      "x": 88.06,
+      "y": 64.7,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "3"
+    },
+    {
+      "ref": 14,
+      "x": 33.05,
+      "y": 60.1,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "3"
+    },
+    {
+      "ref": 14,
+      "x": 10.01,
+      "y": 22.7,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "3"
+    },
+    {
+      "ref": 15,
+      "x": 8.67,
+      "y": 14.0,
+      "partNo": "129-165",
+      "desc": "NUT - jam 1/2\" N.F. hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 15,
+      "x": 12.7,
+      "y": 28.0,
+      "partNo": "129-165",
+      "desc": "NUT - jam 1/2\" N.F. hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 15,
+      "x": 34.17,
+      "y": 74.3,
+      "partNo": "129-165",
+      "desc": "NUT - jam 1/2\" N.F. hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 15,
+      "x": 53.4,
+      "y": 89.9,
+      "partNo": "129-165",
+      "desc": "NUT - jam 1/2\" N.F. hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 15,
+      "x": 78.45,
+      "y": 73.1,
+      "partNo": "129-165",
+      "desc": "NUT - jam 1/2\" N.F. hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 16,
+      "x": 72.74,
+      "y": 61.3,
+      "partNo": "129-376",
+      "desc": "NUT - jam 1/2\" N.F. hex L.H. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 31.48,
+      "y": 46.7,
+      "partNo": "129-376",
+      "desc": "NUT - jam 1/2\" N.F. hex L.H. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 91.64,
+      "y": 82.5,
+      "partNo": "C 21527",
+      "desc": "BALL JOINT - L.H. thread (use before S/N 9785170)",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 26.34,
+      "y": 70.1,
+      "partNo": "C 21527",
+      "desc": "BALL JOINT - L.H. thread (use before S/N 9785170)",
+      "reqd": "2"
+    },
+    {
+      "ref": 18,
+      "x": 71.63,
+      "y": 94.2,
+      "partNo": "C 21526",
+      "desc": "BALL JOINT - R.H. thread (use before S/N 9785170)",
+      "reqd": "2"
+    },
+    {
+      "ref": 18,
+      "x": 8.33,
+      "y": 54.6,
+      "partNo": "C 21526",
+      "desc": "BALL JOINT - R.H. thread (use before S/N 9785170)",
+      "reqd": "2"
+    },
+    {
+      "ref": 19,
+      "x": 66.26,
+      "y": 46.7,
+      "partNo": "C 22568",
+      "desc": "TUBE - axle pivot",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 58.21,
+      "y": 11.9,
+      "partNo": "219-17",
+      "desc": "FITTING - lube",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 84.04,
+      "y": 85.8,
+      "partNo": "C 21529",
+      "desc": "TIE ROD - (use before S/N 9785170)",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 47.47,
+      "y": 78.6,
+      "partNo": "C 12102",
+      "desc": "BALL JOINT - R.H. thread (use before S/N 9785170)",
+      "reqd": "2"
+    },
+    {
+      "ref": 22,
+      "x": 8.33,
+      "y": 39.8,
+      "partNo": "C 12102",
+      "desc": "BALL JOINT - R.H. thread (use before S/N 9785170)",
+      "reqd": "2"
+    },
+    {
+      "ref": 23,
+      "x": 87.95,
+      "y": 56.2,
+      "partNo": "C 13605",
+      "desc": "BALL JOINT - L.H. thread (use before S/N 9785170)",
+      "reqd": "2"
+    },
+    {
+      "ref": 23,
+      "x": 36.29,
+      "y": 50.3,
+      "partNo": "C 13605",
+      "desc": "BALL JOINT - L.H. thread (use before S/N 9785170)",
+      "reqd": "2"
+    },
+    {
+      "ref": 24,
+      "x": 63.13,
+      "y": 65.7,
+      "partNo": "C 25855",
+      "desc": "TIE ROD - (use after S/N 9785170)",
+      "reqd": "1"
+    },
+    {
+      "ref": 25,
+      "x": 22.09,
+      "y": 37.5,
+      "partNo": "C 25857",
+      "desc": "ROD - drag link (use after S/N 9785170)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

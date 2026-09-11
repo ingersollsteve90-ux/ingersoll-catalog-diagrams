@@ -1,0 +1,82 @@
+{
+  "sectionTitle": "Engine Mount Plates",
+  "breadcrumb": "Engine Mount Plates",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/engine_mount_plates.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 85.55,
+      "y": 17.43,
+      "partNo": "C 17717",
+      "desc": "PLATE - engine mount L.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 8.89,
+      "y": 22.48,
+      "partNo": "C 17718",
+      "desc": "PLATE - engine mount R.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 83.8,
+      "y": 71.18,
+      "partNo": "C 18793",
+      "desc": "MOUNT - engine",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 91.67,
+      "y": 82.25,
+      "partNo": "D 22988",
+      "desc": "WASHER - snubbing",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 23.61,
+      "y": 91.63,
+      "partNo": "151- 544",
+      "desc": "RIVET - 3/16\"",
+      "reqd": "16"
+    },
+    {
+      "ref": 6,
+      "x": 8.31,
+      "y": 56.99,
+      "partNo": "113- 219",
+      "desc": "BOLT - 3/8\" x 2\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 18.51,
+      "y": 73.11,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 8,
+      "x": 34.4,
+      "y": 8.41,
+      "partNo": "193- 56",
+      "desc": "LOCKWASHER - 3/8\" countersunk external tooth",
+      "reqd": "4"
+    },
+    {
+      "ref": 9,
+      "x": 34.4,
+      "y": 18.75,
+      "partNo": "164- 50",
+      "desc": "BOLT - flat head hex socket",
+      "reqd": "4"
+    }
+  ],
+  "footnotes": ""
+}

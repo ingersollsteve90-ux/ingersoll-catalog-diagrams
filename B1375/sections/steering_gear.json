@@ -1,0 +1,309 @@
+{
+  "sectionTitle": "Steering Gear",
+  "breadcrumb": "Steering Gear",
+  "catalogLabel": "Catalog B1375",
+  "modelNumbers": "Catalog B1375 — Models 220, 222, 224, 444",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1375/steering_gear.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 12.66,
+      "y": 8.64,
+      "partNo": "C 16945",
+      "desc": "CAP - steering wheel",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 76.88,
+      "y": 12.66,
+      "variants": [
+        {
+          "partNo": "C 18014*",
+          "desc": "WHEEL - steering",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26325**",
+          "desc": "WHEEL - steering",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 15.66,
+      "y": 13.06,
+      "partNo": "131-1113",
+      "desc": "NUT - lock 5/8\" Gripco",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 41.25,
+      "y": 42.48,
+      "variants": [
+        {
+          "partNo": "C 16200*",
+          "desc": "SHAFT - steering",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26326**",
+          "desc": "SHAFT - steering",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 55.2,
+      "y": 73.7,
+      "variants": [
+        {
+          "partNo": "C 16200*",
+          "desc": "SHAFT - steering",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26326**",
+          "desc": "SHAFT - steering",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 63.62,
+      "y": 67.87,
+      "partNo": "NSS",
+      "desc": "SUPPORT - steering gear (use items 14, 22, 23, 24, 25, 26 and 27)",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 70.42,
+      "y": 80.62,
+      "partNo": "C 14200",
+      "desc": "PIN - pivot",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 86.56,
+      "y": 86.35,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 42.17,
+      "y": 85.84,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 22.92,
+      "y": 71.29,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim",
+      "reqd": "4"
+    },
+    {
+      "ref": 8,
+      "x": 71.34,
+      "y": 58.94,
+      "partNo": "129-148",
+      "desc": "NUT - jam 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 85.98,
+      "y": 89.66,
+      "partNo": "195-2021",
+      "desc": "WASHER",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 85.18,
+      "y": 92.07,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" zinc plated",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 85.29,
+      "y": 94.18,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 19.58,
+      "y": 78.62,
+      "partNo": "C 18711",
+      "desc": "GEAR - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 7.82,
+      "y": 54.42,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 14,
+      "x": 12.55,
+      "y": 52.72,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "5"
+    },
+    {
+      "ref": 14,
+      "x": 24.88,
+      "y": 92.27,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "5"
+    },
+    {
+      "ref": 15,
+      "x": 49.67,
+      "y": 57.23,
+      "partNo": "195-2069",
+      "desc": "WASHER - 5/8\" zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 20.85,
+      "y": 26.71,
+      "partNo": "C 15096",
+      "desc": "BUSHING - flanged nylon",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 43.9,
+      "y": 37.96,
+      "partNo": "126-16",
+      "desc": "KEY - Woodruff 3/16\" x 3/4\" (early production)",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 86.21,
+      "y": 39.97,
+      "partNo": "C 24098",
+      "desc": "TUBE - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 57.39,
+      "y": 57.33,
+      "partNo": "219-404",
+      "desc": "FITTING - lube 45°",
+      "reqd": "2"
+    },
+    {
+      "ref": 19,
+      "x": 19.46,
+      "y": 74.3,
+      "partNo": "219-404",
+      "desc": "FITTING - lube 45°",
+      "reqd": "2"
+    },
+    {
+      "ref": 20,
+      "x": 16.0,
+      "y": 16.17,
+      "partNo": "C 12975",
+      "desc": "WASHER - 5/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 31.34,
+      "y": 8.64,
+      "partNo": "C 18017",
+      "desc": "CLIP - tinnerman",
+      "reqd": "2"
+    },
+    {
+      "ref": 22,
+      "x": 17.16,
+      "y": 49.6,
+      "partNo": "C 25788",
+      "desc": "SUPPORT - steering gear",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 24.31,
+      "y": 63.96,
+      "partNo": "C 25787",
+      "desc": "PIN - pivot",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 23.84,
+      "y": 89.06,
+      "partNo": "195-2029",
+      "desc": "WASHER - 7/16\" x 1.25",
+      "reqd": "2"
+    },
+    {
+      "ref": 25,
+      "x": 16.24,
+      "y": 33.24,
+      "partNo": "113-241",
+      "desc": "BOLT - 3/8\" - 16 x 3\" hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 24.77,
+      "y": 95.38,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16 x hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 27,
+      "x": 14.97,
+      "y": 38.96,
+      "partNo": "195-137",
+      "desc": "WASHER - 1-1/8\" O.D.",
+      "reqd": "1"
+    },
+    {
+      "ref": 28,
+      "x": 35.83,
+      "y": 29.22,
+      "partNo": "138-143",
+      "desc": "PIN - roll 1/4\" x 2-1/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 29,
+      "x": 35.26,
+      "y": 24.61,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\"",
+      "reqd": "UAR"
+    }
+  ],
+  "footnotes": "C 13106 - COVER - lube fitting\n*use before S/N: 220 — 14005231, 222 — 14006712, 224 — 14007811, 444 — 14009250   **use S/N and after: 220 — 14005231, 222 — 14006712, 224 — 14007811, 444 — 14009250"
+}
