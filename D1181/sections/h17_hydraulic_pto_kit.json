@@ -1,0 +1,202 @@
+{
+  "sectionTitle": "H17 Hydraulic PTO Kit",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/h17_hydraulic_pto_kit.jpg",
+  "hotspots": [
+    {
+      "ref": "15",
+      "x": 54.4,
+      "y": 41.12,
+      "partNo": "129-101",
+      "description": "NUT - 1/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 24.23,
+      "y": 81.1,
+      "partNo": "129-103",
+      "description": "NUT - 3/8\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 70.29,
+      "y": 32.91,
+      "partNo": "218-494",
+      "description": "ELBOW - 90° 3/4 NPT x 5/8\" tube",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 81.99,
+      "y": 14.53,
+      "partNo": "218-494",
+      "description": "ELBOW - 90° 3/4 NPT x 5/8\" tube",
+      "reqd": "2"
+    },
+    {
+      "ref": "1",
+      "x": 21.12,
+      "y": 64.69,
+      "partNo": "195-524",
+      "description": "WASHER - 3/8\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "20",
+      "x": 12.96,
+      "y": 66.87,
+      "partNo": "113-207",
+      "description": "BOLT - 3/8 x 1\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 21.65,
+      "y": 60.64,
+      "partNo": "113-206",
+      "description": "BOLT - 3/8 x 3/4\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "6",
+      "x": 64.38,
+      "y": 31.36,
+      "partNo": "C17191",
+      "description": "TUBE - tractor valve to PTO valve",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 45.92,
+      "y": 37.9,
+      "partNo": "192-19",
+      "description": "LOCKWASHER - 1/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 55.47,
+      "y": 48.8,
+      "partNo": "C17263",
+      "description": "TUBE - PTO valve to motor hose",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 52.9,
+      "y": 45.69,
+      "partNo": "C17262",
+      "description": "TUBE - PTO valve to motor hose",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 26.16,
+      "y": 86.61,
+      "partNo": "C18281",
+      "description": "VALVE - PTO (repairs page 81D)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 64.49,
+      "y": 17.23,
+      "partNo": "C18281",
+      "description": "VALVE - PTO (repairs page 81D)",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 39.37,
+      "y": 37.59,
+      "partNo": "113-102",
+      "description": "BOLT - 5/16 x 3/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 48.39,
+      "y": 47.04,
+      "partNo": "129-102",
+      "description": "NUT - lock 5/16\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 33.03,
+      "y": 53.37,
+      "partNo": "113-3",
+      "description": "BOLT - 1/4 x 3/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 37.44,
+      "y": 40.6,
+      "partNo": "C15387",
+      "description": "BRACKET - tube support",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 81.99,
+      "y": 29.8,
+      "partNo": "218-445",
+      "description": "FITTING - 1/2\" NPT x 1/2\" NPT",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 36.47,
+      "y": 52.54,
+      "partNo": "C15389",
+      "description": "CLAMP - tube support",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 12.85,
+      "y": 79.75,
+      "partNo": "192-21",
+      "description": "LOCKWASHER - 3/8\"",
+      "reqd": "8"
+    },
+    {
+      "ref": "18",
+      "x": 22.94,
+      "y": 62.93,
+      "partNo": "192-21",
+      "description": "LOCKWASHER - 3/8\"",
+      "reqd": "8"
+    },
+    {
+      "ref": "19",
+      "x": 15.32,
+      "y": 65.32,
+      "partNo": "C14279",
+      "description": "SUPPORT - PTO valve",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 44.31,
+      "y": 14.95,
+      "partNo": "C17409",
+      "description": "HOSE - pump to PTO valve (includes 218-5006 \"O\" ring)",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 49.68,
+      "y": 43.61,
+      "partNo": "192-20",
+      "description": "LOCKWASHER - 5/16\"",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

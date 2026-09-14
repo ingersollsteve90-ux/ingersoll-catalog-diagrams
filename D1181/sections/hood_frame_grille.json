@@ -1,0 +1,291 @@
+{
+  "sectionTitle": "Hood, Frame and Grille",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/hood_frame_grille.jpg",
+  "hotspots": [
+    {
+      "ref": "15",
+      "x": 48.75,
+      "y": 10.45,
+      "partNo": "111-109",
+      "description": "BOLT - 1/4\" x 1-1/4\" NC round head, square neck",
+      "reqd": "1"
+    },
+    {
+      "ref": "27",
+      "x": 62.24,
+      "y": 69.12,
+      "partNo": "129-102",
+      "description": "NUT - 5/16\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "21",
+      "x": 19.11,
+      "y": 54.86,
+      "partNo": "192-23",
+      "description": "LOCKWASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "26",
+      "x": 70.37,
+      "y": 91.94,
+      "partNo": "138-319",
+      "description": "PIN - roll 3/16\" x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 29.57,
+      "y": 16.23,
+      "partNo": "195-512",
+      "description": "WASHER - 7/32\" zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": "1",
+      "x": 82.46,
+      "y": 74.38,
+      "variants": [
+        {
+          "partNo": "C16195",
+          "description": "FRAME - main, 220 (used prior to S/N 9647856)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C16195",
+          "description": "FRAME - main, 222 (used prior to S/N 9649590)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C16196",
+          "description": "FRAME - main, 442 (used prior to S/N 9650949)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C16196",
+          "description": "FRAME - main, 444 (used prior to S/N 9653291)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C18059",
+          "description": "FRAME - main, 220 (used S/N 9647856 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C18059",
+          "description": "FRAME - main, 222 (used S/N 9649590 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C18060",
+          "description": "FRAME - main, 442 (used S/N 9650949 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C18060",
+          "description": "FRAME - main, 444 (used S/N 9653291 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "20",
+      "x": 15.97,
+      "y": 65.4,
+      "variants": [
+        {
+          "partNo": "C14729",
+          "description": "SPACER - rear frame (442 & 444)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C14730",
+          "description": "SPACER - rear frame (220 & 222)",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "17",
+      "x": 29.23,
+      "y": 81.2,
+      "variants": [
+        {
+          "partNo": "C18890",
+          "description": "PAD - foot L.H.",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C18150",
+          "description": "PAD - foot R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "x": 33.99,
+      "y": 8.28,
+      "partNo": "C15184",
+      "description": "LATCH - hood",
+      "reqd": "1"
+    },
+    {
+      "ref": "28",
+      "x": 86.41,
+      "y": 75.73,
+      "partNo": "C16351",
+      "description": "HINGE - frame",
+      "reqd": "2"
+    },
+    {
+      "ref": "24",
+      "x": 52.36,
+      "y": 89.46,
+      "partNo": "C16373",
+      "description": "PIN - latch",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 58.28,
+      "y": 32.86,
+      "partNo": "131-71",
+      "description": "LOCKNUT - 1/4\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 32.71,
+      "y": 18.5,
+      "partNo": "192-18",
+      "description": "LOCKWASHER - #10",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 29.46,
+      "y": 8.79,
+      "partNo": "111-1",
+      "description": "BOLT - #10 x 1/2\" NC round head, square neck",
+      "reqd": "2"
+    },
+    {
+      "ref": "25",
+      "x": 56.42,
+      "y": 88.33,
+      "partNo": "C24137",
+      "description": "SPRING - latch",
+      "reqd": "2"
+    },
+    {
+      "ref": "22",
+      "x": 20.51,
+      "y": 50.83,
+      "partNo": "113-424",
+      "description": "BOLT - 1/2\" x 1\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 90.6,
+      "y": 61.06,
+      "partNo": "C16170",
+      "description": "TRAY - battery",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 65.61,
+      "y": 57.44,
+      "partNo": "121-106",
+      "description": "SCREW - 5/16\" x 1/2\" whizlock",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 77.93,
+      "y": 14.27,
+      "partNo": "C16364",
+      "description": "HOOD AND GRILLE ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 61.77,
+      "y": 30.59,
+      "partNo": "C14500",
+      "description": "SPACER - hood",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 88.16,
+      "y": 73.04,
+      "partNo": "C16362",
+      "description": "ROD - hood hinge",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 35.97,
+      "y": 19.12,
+      "partNo": "129-17",
+      "description": "NUT - #10 NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 90.71,
+      "y": 84.2,
+      "partNo": "132-46",
+      "description": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 22.37,
+      "y": 75.42,
+      "partNo": "113-113",
+      "description": "BOLT - 5/16\" x 7/8\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 26.32,
+      "y": 73.66,
+      "partNo": "192-20",
+      "description": "LOCKWASHER - 5/16\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 55.49,
+      "y": 45.77,
+      "partNo": "C18153",
+      "description": "CHANNEL - instrument panel liner",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 42.01,
+      "y": 8.9,
+      "partNo": "C15183",
+      "description": "SPRING - hood latch",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 86.99,
+      "y": 52.07,
+      "partNo": "C16239",
+      "description": "STRAP - battery hold down",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

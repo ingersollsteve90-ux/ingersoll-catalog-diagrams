@@ -1,0 +1,42 @@
+{
+  "sectionTitle": "Fuel Pump",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/fuel_pump_repair_kit.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 56.45,
+      "y": 50.87,
+      "partNo": "KO 230675",
+      "description": "KIT - fuel pump for KOA235845 pump (220)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 42.12,
+      "y": 61.47,
+      "partNo": "C 24887",
+      "description": "GASKET - fuel pump mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 85.1,
+      "y": 61.58,
+      "partNo": "C 24887",
+      "description": "GASKET - fuel pump mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 8.77,
+      "y": 50.87,
+      "partNo": "KO 236387",
+      "description": "KIT - fuel pump for C22988 pump (222, 442 and 444)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "(NOT AVAILABLE FOR PLASTIC PUMP) | Unnumbered rows: NSS SPRING - fuel pump valve; NSS VALVE; NSS GASKET - valve; NSS DIAPHRAGM ASSEMBLY; NSS SPRING - diaphragm; NSS VALVE ASSEMBLY; NSS GASKET - valve; NSS DIAPHRAGM ASSEMBLY; NSS SPRING - diaphragm; NSS GASKET - valve"
+}

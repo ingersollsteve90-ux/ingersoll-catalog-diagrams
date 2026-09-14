@@ -1,0 +1,190 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor (220/222 used after S/N break, 442 & 444)",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/hydraulic_drive_motor_late_442_444.jpg",
+  "hotspots": [
+    {
+      "ref": "15",
+      "x": 47.42,
+      "y": 71.76,
+      "variants": [
+        {
+          "partNo": "C18092",
+          "description": "SLEEVE - 220 & 222",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C14836",
+          "description": "SLEEVE - 442 & 444",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "x": 36.35,
+      "y": 24.11,
+      "partNo": "C14827",
+      "description": "HOUSING ASSEMBLY - 442 & 444",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 38.92,
+      "y": 79.77,
+      "partNo": "NSS",
+      "description": "RING - sealing (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 71.69,
+      "y": 35.46,
+      "variants": [
+        {
+          "partNo": "C18110",
+          "description": "ROTOR ASSEMBLY - 220 & 222",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C14831",
+          "description": "ROTOR ASSEMBLY - 442 & 444",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "1",
+      "x": 13.87,
+      "y": 53.95,
+      "partNo": "C16516",
+      "description": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 17.67,
+      "y": 85.9,
+      "partNo": "C24731",
+      "description": "KIT - manifold (includes plate)",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 14.87,
+      "y": 36.24,
+      "partNo": "C19212",
+      "description": "WASHER - back up .010\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 60.73,
+      "y": 66.86,
+      "partNo": "NSS",
+      "description": "SEAL - (See kits below)",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 60.73,
+      "y": 14.2,
+      "partNo": "NSS",
+      "description": "SEAL - (See kits below)",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 90.03,
+      "y": 55.39,
+      "variants": [
+        {
+          "partNo": "28-662",
+          "description": "BOLT - 3/8\" x 3-7/8\" NF hex, 220 & 222",
+          "reqd": "7"
+        },
+        {
+          "partNo": "C14838",
+          "description": "BOLT - 3/8\" x 4-3/8\" NF hex, 442 & 444",
+          "reqd": "7"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 54.24,
+      "y": 44.15,
+      "partNo": "C14830",
+      "description": "PLATE - wear",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 33.55,
+      "y": 81.67,
+      "partNo": "C14834",
+      "description": "COMMUTATOR AND RING SET",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 81.87,
+      "y": 30.9,
+      "partNo": "NSS",
+      "description": "PLATE - manifold (order C24731 kit)",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 39.59,
+      "y": 52.39,
+      "variants": [
+        {
+          "partNo": "D72853",
+          "description": "DRIVE LINK - 220 & 222",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C14829",
+          "description": "DRIVE LINK - 442 & 444",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "x": 77.17,
+      "y": 58.73,
+      "partNo": "C14837",
+      "description": "END CAP",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 29.86,
+      "y": 56.28,
+      "partNo": "C14828",
+      "description": "SHAFT - coupling",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 8.5,
+      "y": 39.14,
+      "partNo": "NSS",
+      "description": "SPACER - (See kits below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 19.35,
+      "y": 34.35,
+      "partNo": "NSS",
+      "description": "SEAL - oil (See kits below)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "Unnumbered rows: C16697 MOTOR - hydraulic, 220 (used S/N 9649062 and after); C16697 MOTOR - hydraulic, 222 (used S/N 9647203 and after); C14655 MOTOR - hydraulic, 442 & 444; C19037 KIT - \"O\" ring and seal. (includes items 1, 2, 3, 6, 14 & 17)"
+}

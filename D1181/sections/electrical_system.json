@@ -1,0 +1,292 @@
+{
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": "15",
+      "x": 34.88,
+      "y": 8.82,
+      "partNo": "C 17275",
+      "description": "WIRE - regulator ground to solenoid (white 7\")",
+      "reqd": "1"
+    },
+    {
+      "ref": "27",
+      "x": 67.85,
+      "y": 18.28,
+      "partNo": "C 23839",
+      "description": "KIT - ignition switch",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 25.08,
+      "y": 9.7,
+      "partNo": "C 19055",
+      "description": "WIRE - solenoid to PTO safety switch (black 17\")",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 11.3,
+      "y": 35.99,
+      "partNo": "C 17763",
+      "description": "KEY - ignition (for C17796 switch)",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 23.24,
+      "y": 22.57,
+      "partNo": "C 17186",
+      "description": "LAMP ASSEMBLY - warning, generator indicator",
+      "reqd": "1"
+    },
+    {
+      "ref": "1",
+      "x": 64.17,
+      "y": 59.3,
+      "partNo": "C 18005",
+      "description": "HARNESS - wire",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 10.18,
+      "y": 19.93,
+      "variants": [
+        {
+          "partNo": "C 18115",
+          "description": "SWITCH - PTO safety, 220 (used S/N 9647856 and after)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 18115",
+          "description": "SWITCH - PTO safety, 222 (used S/N 9649590 and after)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 18115",
+          "description": "SWITCH - PTO safety, 442 (used S/N 9650949 and after)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 18115",
+          "description": "SWITCH - PTO safety, 444 (used S/N 9653291 and after)",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "17",
+      "x": 49.27,
+      "y": 84.38,
+      "partNo": "A 27251",
+      "description": "GASKET - spark plug",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 53.35,
+      "y": 25.76,
+      "partNo": "C 14553",
+      "description": "SOLENOID - start",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 19.67,
+      "y": 83.5,
+      "variants": [
+        {
+          "partNo": "C 12684",
+          "description": "KEY - ignition, 220 (used prior to S/N 9647623)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 12684",
+          "description": "KEY - ignition, 222 (used prior to S/N 9649384)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 12684",
+          "description": "KEY - ignition, 442 (used prior to S/N 9658013)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 12684",
+          "description": "KEY - ignition, 444 (used prior to S/N 9652857)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "16",
+      "x": 41.61,
+      "y": 83.39,
+      "partNo": "C 24301",
+      "description": "SPARK PLUG - (includes gasket)",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 85.91,
+      "y": 43.14,
+      "variants": [
+        {
+          "partNo": "C 16852",
+          "description": "STARTER - generator 12 V. (Repairs page 59) Delco No. 1101875",
+          "reqd": "1"
+        },
+        {
+          "partNo": "A 70202",
+          "description": "STARTER - generator 12 V. (Repairs page 61) Delco No. 1101970",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "7",
+      "x": 47.43,
+      "y": 50.06,
+      "partNo": "NSS",
+      "description": "REGULATOR - voltage, 12 volt (order C24221)",
+      "reqd": "1"
+    },
+    {
+      "ref": "25",
+      "x": 13.44,
+      "y": 39.51,
+      "variants": [
+        {
+          "partNo": "C 23839",
+          "description": "SWITCH - ignition (includes key) used 220 S/N 9647623 and after",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 23839",
+          "description": "SWITCH - ignition (includes key) used 222 S/N 9649384 and after",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 23839",
+          "description": "SWITCH - ignition (includes key) used 442 S/N 9658013 and after",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 23839",
+          "description": "SWITCH - ignition (includes key) used 444 S/N 9652857 and after",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "22",
+      "x": 43.55,
+      "y": 47.42,
+      "partNo": "223- 20",
+      "description": "FUSE - 20 amp. (used in C18005 harness)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 35.18,
+      "y": 23.89,
+      "partNo": "C 17187",
+      "description": "WIRE - ignition switch to solenoid (yellow 8\")",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 29.77,
+      "y": 40.39,
+      "partNo": "C 14565",
+      "description": "CABLE - battery to solenoid (red 10-1/2\")",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 52.54,
+      "y": 66.45,
+      "partNo": "C 14566",
+      "description": "CABLE - battery to ground (black 12\")",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 35.39,
+      "y": 91.75,
+      "partNo": "KO 232535",
+      "description": "COVER - breaker contacts",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 18.55,
+      "y": 75.47,
+      "partNo": "C 18197",
+      "description": "BATTERY - 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 85.3,
+      "y": 62.6,
+      "partNo": "C 14537",
+      "description": "CONNECTOR - headlamp",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 47.02,
+      "y": 93.73,
+      "partNo": "KO 231281",
+      "description": "COIL - ignition 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 57.13,
+      "y": 71.18,
+      "partNo": "V 34433",
+      "description": "CABLE - high tension",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 63.15,
+      "y": 83.06,
+      "partNo": "KO 230722",
+      "description": "CONDENSER",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 82.03,
+      "y": 86.25,
+      "partNo": "C 22571",
+      "description": "HEADLAMP ASSEMBLY - 12 volt (Repairs page 63)",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 10.18,
+      "y": 31.81,
+      "partNo": "C 21993",
+      "description": "SWITCH - neutral safety",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 13.65,
+      "y": 78.44,
+      "partNo": "NSS",
+      "description": "SWITCH - ignition (order C23839 and C17808)",
+      "reqd": ""
+    }
+  ],
+  "footnotes": "Unnumbered rows: B 50213 BULB - generator indicator (red); C 32407 KEY - ignition; C 17808 DECAL - ignition"
+}

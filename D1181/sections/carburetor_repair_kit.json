@@ -1,0 +1,193 @@
+{
+  "sectionTitle": "Carburetor",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/carburetor_repair_kit.jpg",
+  "hotspots": [
+    {
+      "ref": "15",
+      "x": 58.67,
+      "y": 30.37,
+      "partNo": "A 72083",
+      "description": "GASKET - bowl screw",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 57.05,
+      "y": 91.25,
+      "partNo": "A 72083",
+      "description": "GASKET - bowl screw",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 12.74,
+      "y": 43.88,
+      "partNo": "KO 200383",
+      "description": "SPRING - main fuel adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 58.21,
+      "y": 22.53,
+      "partNo": "NSS",
+      "description": "GASKET - bowl baffle",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 74.48,
+      "y": 73.76,
+      "partNo": "NSS",
+      "description": "GASKET - bowl baffle",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 71.48,
+      "y": 93.75,
+      "partNo": "A 72084",
+      "description": "SCREW AND GASKET ASSEMBLY - carburetor bowl",
+      "reqd": "1"
+    },
+    {
+      "ref": "1",
+      "x": 32.94,
+      "y": 48.09,
+      "partNo": "KO 200380",
+      "description": "SPRING - tension, idle adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 77.82,
+      "y": 9.24,
+      "partNo": "NSS",
+      "description": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 9.28,
+      "y": 71.37,
+      "partNo": "NSS",
+      "description": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 22.9,
+      "y": 41.38,
+      "partNo": "KO 200380",
+      "description": "SPRING - idle fuel adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 74.24,
+      "y": 81.03,
+      "partNo": "A 72080",
+      "description": "BOWL - carburetor",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 58.21,
+      "y": 17.87,
+      "partNo": "NSS",
+      "description": "GASKET - bowl ring",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 74.01,
+      "y": 66.26,
+      "partNo": "NSS",
+      "description": "GASKET - bowl ring",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 71.59,
+      "y": 36.73,
+      "partNo": "A 72103",
+      "description": "KIT - carburetor repair",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 72.98,
+      "y": 59.56,
+      "partNo": "A 72078",
+      "description": "FLOAT - carburetor",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 26.36,
+      "y": 37.52,
+      "variants": [
+        {
+          "partNo": "A 72099",
+          "description": "NEEDLE - idle adjust (220, 222 & 442)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "KO 275231",
+          "description": "NEEDLE - idle adjust (444)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "7",
+      "x": 58.21,
+      "y": 9.12,
+      "partNo": "A 72079",
+      "description": "PIN - float",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 54.51,
+      "y": 55.81,
+      "partNo": "A 72079",
+      "description": "PIN - float",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 37.32,
+      "y": 52.86,
+      "partNo": "A 72092",
+      "description": "SCREW - idle adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 13.21,
+      "y": 32.75,
+      "variants": [
+        {
+          "partNo": "A 72077",
+          "description": "NEEDLE - main fuel adjust, 220, 222 & 442",
+          "reqd": "1"
+        },
+        {
+          "partNo": "KO 275373",
+          "description": "NEEDLE - main fuel adjust, 444 (used prior to S/N 9652117)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "KO 237489",
+          "description": "NEEDLE - main fuel adjust, 444 (used S/N 9652117 and after)",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": "A72073 used on 220, 222 and 442. KOA236636 and KOA237490 used on 444 (service with C24408). | Unnumbered rows: A 72073 CARBURETOR ASSEMBLY - 220, 222 & 442; NSS CARBURETOR ASSEMBLY - 444 (Used prior to S/N 9652117); NSS CARBURETOR ASSEMBLY - 444 (Used S/N 9652117 and after)"
+}

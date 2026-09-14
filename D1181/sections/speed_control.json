@@ -1,0 +1,90 @@
+{
+  "sectionTitle": "Speed Control",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/speed_control.jpg",
+  "hotspots": [
+    {
+      "ref": "6",
+      "x": 43.1,
+      "y": 77.02,
+      "partNo": "C16412",
+      "description": "ROD - control",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 43.82,
+      "y": 20.3,
+      "partNo": "131-176",
+      "description": "NUT - lock 5/16\" NC hex, zinc plated",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 32.39,
+      "y": 69.72,
+      "partNo": "C16683",
+      "description": "JOINT - ball",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 69.82,
+      "y": 90.94,
+      "partNo": "C21518",
+      "description": "WASHER - oilite",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 37.08,
+      "y": 72.34,
+      "partNo": "129-102",
+      "description": "NUT - 5/16\" NC hex, zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 27.45,
+      "y": 65.95,
+      "partNo": "129-102",
+      "description": "NUT - 5/16\" NC hex, zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 70.18,
+      "y": 83.64,
+      "partNo": "C17612",
+      "description": "SPRING - compression",
+      "reqd": "1"
+    },
+    {
+      "ref": "1",
+      "x": 84.5,
+      "y": 20.3,
+      "partNo": "A37247",
+      "description": "KNOB - speed control",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 69.21,
+      "y": 30.57,
+      "partNo": "C12093",
+      "description": "BUSHING - lever",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 69.21,
+      "y": 66.75,
+      "partNo": "C16162",
+      "description": "LEVER - speed control",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

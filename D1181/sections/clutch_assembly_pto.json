@@ -1,0 +1,312 @@
+{
+  "sectionTitle": "Clutch Assembly (PTO)",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/clutch_assembly_pto.jpg",
+  "hotspots": [
+    {
+      "ref": "15",
+      "x": 69.21,
+      "y": 38.86,
+      "variants": [
+        {
+          "partNo": "C16464",
+          "description": "SPACER - hub (used with C17302 clutch)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C18244",
+          "description": "SPACER - hub (used with C18241 clutch)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "21",
+      "x": 23.16,
+      "y": 61.16,
+      "partNo": "192-21",
+      "description": "LOCKWASHER - 3/8\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 57.87,
+      "y": 51.0,
+      "partNo": "C23245",
+      "description": "BEARING - cam and pulley",
+      "reqd": "3"
+    },
+    {
+      "ref": "10",
+      "x": 75.28,
+      "y": 58.65,
+      "partNo": "C23245",
+      "description": "BEARING - cam and pulley",
+      "reqd": "3"
+    },
+    {
+      "ref": "10",
+      "x": 40.77,
+      "y": 28.28,
+      "partNo": "C23245",
+      "description": "BEARING - cam and pulley",
+      "reqd": "3"
+    },
+    {
+      "ref": "1",
+      "x": 20.73,
+      "y": 82.2,
+      "partNo": "C15721",
+      "description": "SCREEN - grass",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 27.0,
+      "y": 63.15,
+      "partNo": "113-207",
+      "description": "BOLT - 3/8\" x 1\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "17",
+      "x": 86.11,
+      "y": 14.57,
+      "variants": [
+        {
+          "partNo": "C15744",
+          "description": "BOLT - 3/8\" x 3-1/8\" NC hex L.H. threads (used with C17302 clutch)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C18242",
+          "description": "BOLT - 1/2\" x 3-1/8\" NC hex L.H. threads (used with C18241 clutch)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "x": 35.61,
+      "y": 39.59,
+      "partNo": "C23740",
+      "description": "DISC - friction",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 83.18,
+      "y": 12.06,
+      "variants": [
+        {
+          "partNo": "195-2036",
+          "description": "WASHER - fan 13/32\" (used with C17302 clutch)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "O2815N",
+          "description": "WASHER - fan 17/32\" (used with C18241 clutch)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 64.35,
+      "y": 81.68,
+      "partNo": "C15557",
+      "description": "WASHER - spacer .050\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "8",
+      "x": 74.58,
+      "y": 85.87,
+      "partNo": "C15557",
+      "description": "WASHER - spacer .050\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "8",
+      "x": 28.62,
+      "y": 38.65,
+      "partNo": "C15557",
+      "description": "WASHER - spacer .050\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "8",
+      "x": 64.76,
+      "y": 55.19,
+      "partNo": "C15557",
+      "description": "WASHER - spacer .050\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "8",
+      "x": 56.66,
+      "y": 20.12,
+      "partNo": "C15557",
+      "description": "WASHER - spacer .050\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "7",
+      "x": 23.56,
+      "y": 36.45,
+      "partNo": "C15515",
+      "description": "WASHER - spring",
+      "reqd": "6"
+    },
+    {
+      "ref": "7",
+      "x": 18.1,
+      "y": 34.36,
+      "partNo": "C15515",
+      "description": "WASHER - spring",
+      "reqd": "6"
+    },
+    {
+      "ref": "7",
+      "x": 55.65,
+      "y": 78.12,
+      "partNo": "C15515",
+      "description": "WASHER - spring",
+      "reqd": "6"
+    },
+    {
+      "ref": "7",
+      "x": 69.82,
+      "y": 83.56,
+      "partNo": "C15515",
+      "description": "WASHER - spring",
+      "reqd": "6"
+    },
+    {
+      "ref": "2",
+      "x": 9.09,
+      "y": 72.57,
+      "variants": [
+        {
+          "partNo": "NSS",
+          "description": "HUB - clutch (used with C17302 clutch) order item 22",
+          "reqd": "1"
+        },
+        {
+          "partNo": "NSS",
+          "description": "HUB - clutch (used with C18241 clutch) order item 22",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 47.15,
+      "y": 69.64,
+      "partNo": "C15718",
+      "description": "PLATE - clutch",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 40.67,
+      "y": 92.57,
+      "partNo": "164-40",
+      "description": "BOLT - 5/16\" x 3/4\" NC flat head socket",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 36.92,
+      "y": 10.28,
+      "variants": [
+        {
+          "partNo": "C15743",
+          "description": "WASHER - spacer (used with C17302 clutch)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C18243",
+          "description": "WASHER - spacer (used with C18241 clutch)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 82.37,
+      "y": 61.16,
+      "partNo": "NSS",
+      "description": "CAM - clutch (service with (2)C23033 cams and (1)C23506 arm)",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 45.22,
+      "y": 11.01,
+      "partNo": "NSS",
+      "description": "CAM - clutch (service with (2)C23033 cams and (1)C23506 arm)",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 45.12,
+      "y": 43.05,
+      "partNo": "C22671",
+      "description": "PULLEY AND DISC ASSEMBLY - clutch",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 58.38,
+      "y": 35.61,
+      "partNo": "C16786",
+      "description": "SPRING - clutch load",
+      "reqd": "2"
+    },
+    {
+      "ref": "18",
+      "x": 32.98,
+      "y": 8.71,
+      "partNo": "C23506",
+      "description": "ARM - engaging",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 83.08,
+      "y": 8.39,
+      "partNo": "C16616",
+      "description": "FAN - cooling",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 69.62,
+      "y": 57.28,
+      "variants": [
+        {
+          "partNo": "C15556",
+          "description": "WASHER - spacer .010\"",
+          "reqd": "UAR"
+        },
+        {
+          "partNo": "C21596",
+          "description": "WASHER - spacer .005\"",
+          "reqd": "UAR"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "x": 36.62,
+      "y": 91.21,
+      "partNo": "193-76",
+      "description": "LOCKWASHER - 5/16\" countersunk external tooth",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "*Order C23506 and C24774 for clutch replacement. | Unnumbered rows: C17302* CLUTCH ASSEMBLY - less screen, 220 (used prior to S/N 9648090); C17302* CLUTCH ASSEMBLY - less screen, 222 (used prior to S/N 9649791); C17302* CLUTCH ASSEMBLY - less screen, 442 (used prior to S/N 9651073); C17302* CLUTCH ASSEMBLY - less screen, 444 (used prior to S/N 9653691); C18241* CLUTCH ASSEMBLY - less screen, 220 (used S/N 9648090 and after); C18241* CLUTCH ASSEMBLY - less screen, 222 (used S/N 9649791 and after); C18241* CLUTCH ASSEMBLY - less screen, 442 (used S/N 9651073 and after); C18241* CLUTCH ASSEMBLY - less screen, 444 (used S/N 9653691 and after) | Ref 22 (parts-list only, no diagram circle): C19472 KIT - stub shaft, clutch (includes items 2, 8, 11, 14, 15, 16, 17 & 19), req'd 1."
+}

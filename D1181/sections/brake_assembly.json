@@ -1,0 +1,179 @@
+{
+  "sectionTitle": "Brake Assembly",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/brake_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": "15",
+      "x": 51.3,
+      "y": 70.96,
+      "partNo": "138-96",
+      "description": "PIN - roll 3/16 x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 55.19,
+      "y": 31.52,
+      "partNo": "C16370",
+      "description": "SPRING - pedal return",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 36.82,
+      "y": 43.87,
+      "partNo": "C13863",
+      "description": "ARM - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 87.51,
+      "y": 62.47,
+      "partNo": "132-310",
+      "description": "PIN - cotter 1/8 x 1\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 19.61,
+      "y": 46.0,
+      "partNo": "132-310",
+      "description": "PIN - cotter 1/8 x 1\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 75.02,
+      "y": 18.66,
+      "partNo": "132-310",
+      "description": "PIN - cotter 1/8 x 1\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "1",
+      "x": 79.74,
+      "y": 73.83,
+      "partNo": "C18152",
+      "description": "PEDAL - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 44.9,
+      "y": 19.91,
+      "partNo": "141-4",
+      "description": "PIN - clevis",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 12.27,
+      "y": 40.75,
+      "partNo": "C14187",
+      "description": "BAND - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 58.96,
+      "y": 10.05,
+      "partNo": "C18147",
+      "description": "LEVER - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 30.63,
+      "y": 80.82,
+      "partNo": "C13866",
+      "description": "SHAFT - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 83.31,
+      "y": 64.85,
+      "partNo": "195-104",
+      "description": "WASHER - 7/16\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 36.09,
+      "y": 26.27,
+      "partNo": "132-321",
+      "description": "PIN - cotter 3/32 x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 10.48,
+      "y": 88.94,
+      "partNo": "C13526",
+      "description": "PIN - clevis",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 40.28,
+      "y": 22.78,
+      "partNo": "213-4",
+      "description": "CLEVIS - 3/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 62.22,
+      "y": 63.1,
+      "variants": [
+        {
+          "partNo": "C14946",
+          "description": "ROD - brake (220 & 222)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C14945",
+          "description": "ROD - brake (442 & 444)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "x": 60.01,
+      "y": 40.13,
+      "partNo": "131-164",
+      "description": "NUT - lock 1/2\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 68.2,
+      "y": 17.79,
+      "partNo": "C16379",
+      "description": "SPRING - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 42.7,
+      "y": 76.08,
+      "partNo": "C12975",
+      "description": "WASHER - brake shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 54.98,
+      "y": 60.48,
+      "partNo": "132-336",
+      "description": "PIN - cotter 1/8 x 1-1/2\"",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

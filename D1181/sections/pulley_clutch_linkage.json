@@ -1,0 +1,227 @@
+{
+  "sectionTitle": "Pulley Clutch & Linkage",
+  "breadcrumb": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "catalogLabel": "Catalog D1181",
+  "modelNumbers": "Catalog D1181 — Case 220, 222, 442 and 444 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1181/pulley_clutch_linkage.jpg",
+  "hotspots": [
+    {
+      "ref": "15",
+      "x": 51.02,
+      "y": 27.32,
+      "variants": [
+        {
+          "partNo": "C 14224",
+          "description": "ROD - clutch, 220 (used prior to S/N 9647856)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 14224",
+          "description": "ROD - clutch, 222 (used prior to S/N 9649590)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 14224",
+          "description": "ROD - clutch, 442 (used prior to S/N 9650949)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 14224",
+          "description": "ROD - clutch, 444 (used prior to S/N 9653291)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "x": 60.59,
+      "y": 61.54,
+      "partNo": "C 16682",
+      "description": "RETAINER - clutch rod",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 10.3,
+      "y": 74.38,
+      "partNo": "C 15704",
+      "description": "NUT - insulating #10 NF",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 14.68,
+      "y": 42.24,
+      "partNo": "195-525",
+      "description": "WASHER - 3/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "1",
+      "x": 24.96,
+      "y": 29.4,
+      "variants": [
+        {
+          "partNo": "C 18052",
+          "description": "LEVER - clutch, 222 (used S/N 9649590 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 18052",
+          "description": "LEVER - clutch, 442 (used S/N 9650949 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 18052",
+          "description": "LEVER - clutch, 444 (used S/N 9653291 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 18052",
+          "description": "LEVER - clutch, 220 (used S/N 9647856 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 35.14,
+      "y": 52.06,
+      "partNo": "C 18204",
+      "description": "SCREW - insulating #10 x 5/8\" NF binder head",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 22.21,
+      "y": 19.58,
+      "partNo": "353-441",
+      "description": "BUSHING - (for C14224 clutch rod)",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 47.56,
+      "y": 86.75,
+      "partNo": "113-207",
+      "description": "BOLT - 3/8\" x 1\" NC hex",
+      "reqd": "3"
+    },
+    {
+      "ref": "6",
+      "x": 20.48,
+      "y": 79.69,
+      "partNo": "113-207",
+      "description": "BOLT - 3/8\" x 1\" NC hex",
+      "reqd": "3"
+    },
+    {
+      "ref": "16",
+      "x": 18.55,
+      "y": 15.53,
+      "partNo": "C 10487",
+      "description": "KNOB - (for C14224 clutch rod)",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 47.56,
+      "y": 81.31,
+      "partNo": "195-104",
+      "description": "WASHER - 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 13.05,
+      "y": 69.17,
+      "partNo": "C 15703",
+      "description": "WASHER - insulating 3/16\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "18",
+      "x": 31.27,
+      "y": 67.79,
+      "partNo": "49885",
+      "description": "CLAMP - choke and throttle cable",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 11.01,
+      "y": 45.01,
+      "partNo": "132-46",
+      "description": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 47.76,
+      "y": 68.02,
+      "partNo": "131-178",
+      "description": "LOCKNUT - 3/8\" NC hex",
+      "reqd": "3"
+    },
+    {
+      "ref": "8",
+      "x": 32.49,
+      "y": 57.84,
+      "partNo": "131-178",
+      "description": "LOCKNUT - 3/8\" NC hex",
+      "reqd": "3"
+    },
+    {
+      "ref": "5",
+      "x": 85.02,
+      "y": 68.94,
+      "partNo": "132-48",
+      "description": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 47.15,
+      "y": 74.61,
+      "partNo": "195-126",
+      "description": "WASHER - spacer (used on models without hydraulic lift)",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 8.16,
+      "y": 51.48,
+      "partNo": "C 18115",
+      "description": "STRIP - switch, PTO safety",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 48.58,
+      "y": 50.21,
+      "variants": [
+        {
+          "partNo": "C 18053",
+          "description": "ROD - clutch, 220 (used S/N 9647856 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 18053",
+          "description": "ROD - clutch, 222 (used S/N 9649590 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 18053",
+          "description": "ROD - clutch, 442 (used S/N 9650949 and after)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 18053",
+          "description": "ROD - clutch, 444 (used S/N 9653291 and after)",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}
