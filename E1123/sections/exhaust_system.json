@@ -1,0 +1,31 @@
+{
+  "sectionTitle": "Exhaust System",
+  "breadcrumb": "Exhaust System",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/exhaust_system.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 63.87,
+      "y": 52.17,
+      "partNo": "NSS",
+      "desc": "MUFFLER - exhaust (order C18039)"
+    },
+    {
+      "ref": "2",
+      "x": 67.28,
+      "y": 22.24,
+      "partNo": "C 10372",
+      "desc": "GASKET - exhaust pad"
+    },
+    {
+      "ref": "3",
+      "x": 24.26,
+      "y": 27.07,
+      "partNo": "61-510",
+      "desc": "SCREW - 5/16-18 x 5/8\" Socket Head"
+    }
+  ],
+  "footnotes": ""
+}

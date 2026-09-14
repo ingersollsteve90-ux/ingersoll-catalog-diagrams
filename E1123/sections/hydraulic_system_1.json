@@ -1,0 +1,453 @@
+{
+  "sectionTitle": "Hydraulic System (1 of 2)",
+  "breadcrumb": "Hydraulic System (1 of 2)",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/p46.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 64.61,
+      "y": 52.7,
+      "variants": [
+        {
+          "partNo": "A 70109",
+          "desc": "SUPPORT - pump mtg. (use with C14243 & C14244 pumps)"
+        },
+        {
+          "partNo": "C 15335",
+          "desc": "SUPPORT - pump mtg. (use with C15481 pump)"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 50.77,
+      "y": 61.99,
+      "variants": [
+        {
+          "partNo": "113- 207",
+          "desc": "BOLT - 3/8\" x 1\" NC hex Z.P."
+        },
+        {
+          "partNo": "114- 200",
+          "desc": "BOLT - 3/8\" x 1\" NF hex Z.P."
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 57.48,
+      "y": 66.74,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\" Z.P."
+    },
+    {
+      "ref": "3",
+      "x": 26.24,
+      "y": 84.31,
+      "partNo": "192- 21",
+      "desc": "LOCKWASHER - 3/8\" Z.P."
+    },
+    {
+      "ref": "4",
+      "x": 43.85,
+      "y": 43.97,
+      "partNo": "166- 561",
+      "desc": "BOLT - 7/16\" x 1\" NF ferry cap Z.P."
+    },
+    {
+      "ref": "5",
+      "x": 47.0,
+      "y": 44.96,
+      "partNo": "193- 31",
+      "desc": "LOCKWASHER - 7/16\" internal tooth"
+    },
+    {
+      "ref": "6",
+      "x": 59.78,
+      "y": 53.25,
+      "partNo": "W 5063-S",
+      "desc": "KEY - square 1/4\" x 3/4\""
+    },
+    {
+      "ref": "7",
+      "x": 47.73,
+      "y": 59.78,
+      "variants": [
+        {
+          "partNo": "A 70111",
+          "desc": "COUPLING - use with C14243 and C14244 pumps)"
+        },
+        {
+          "partNo": "C 15726",
+          "desc": "COUPLING - use with C15481 pump (repairs page 51)"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 26.66,
+      "y": 50.49,
+      "partNo": "218- 5065",
+      "desc": "FITTING - hyd. 3/4\"T x 7/8\" \"O\" ring"
+    },
+    {
+      "ref": "9",
+      "x": 22.99,
+      "y": 49.5,
+      "partNo": "218- 5007",
+      "desc": "\"O\" RING - 5/8\""
+    },
+    {
+      "ref": "10",
+      "x": 8.42,
+      "y": 49.5,
+      "variants": [
+        {
+          "partNo": "218- 5066",
+          "desc": "FITTING - hyd. (for valves with 3/4\" \"O\" ring motor ports"
+        },
+        {
+          "partNo": "218- 5062",
+          "desc": "FITTING - hyd. (for valves with 7/8\" \"O\" ring motor ports"
+        }
+      ]
+    },
+    {
+      "ref": "10",
+      "x": 14.19,
+      "y": 52.37,
+      "variants": [
+        {
+          "partNo": "218- 5066",
+          "desc": "FITTING - hyd. (for valves with 3/4\" \"O\" ring motor ports"
+        },
+        {
+          "partNo": "218- 5062",
+          "desc": "FITTING - hyd. (for valves with 7/8\" \"O\" ring motor ports"
+        }
+      ]
+    },
+    {
+      "ref": "10",
+      "x": 36.09,
+      "y": 39.33,
+      "variants": [
+        {
+          "partNo": "218- 5066",
+          "desc": "FITTING - hyd. (for valves with 3/4\" \"O\" ring motor ports"
+        },
+        {
+          "partNo": "218- 5062",
+          "desc": "FITTING - hyd. (for valves with 7/8\" \"O\" ring motor ports"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 8.53,
+      "y": 46.07,
+      "variants": [
+        {
+          "partNo": "218- 5006",
+          "desc": "\"O\" RING - 1/2\" (for 218-5066 fittings)"
+        },
+        {
+          "partNo": "218- 5007",
+          "desc": "\"O\" RING - 5/8\" (for 218-5062 fittings)"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 13.45,
+      "y": 49.61,
+      "variants": [
+        {
+          "partNo": "218- 5006",
+          "desc": "\"O\" RING - 1/2\" (for 218-5066 fittings)"
+        },
+        {
+          "partNo": "218- 5007",
+          "desc": "\"O\" RING - 5/8\" (for 218-5062 fittings)"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 32.95,
+      "y": 38.11,
+      "variants": [
+        {
+          "partNo": "218- 5006",
+          "desc": "\"O\" RING - 1/2\" (for 218-5066 fittings)"
+        },
+        {
+          "partNo": "218- 5007",
+          "desc": "\"O\" RING - 5/8\" (for 218-5062 fittings)"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 38.19,
+      "y": 60.88,
+      "variants": [
+        {
+          "partNo": "218- 5064",
+          "desc": "FITTING - pump suction 3/4\" T x 1-1/16\" \"O\" ring"
+        },
+        {
+          "partNo": "C 17236",
+          "desc": "FITTING - pump suction (use with C15481 pump)"
+        }
+      ]
+    },
+    {
+      "ref": "13",
+      "x": 42.07,
+      "y": 59.78,
+      "partNo": "218- 5008",
+      "desc": "\"O\" RING - 3/4\" (for 218-5064 fitting)"
+    },
+    {
+      "ref": "14",
+      "x": 79.18,
+      "y": 85.97,
+      "partNo": "C 14195",
+      "desc": "EXCHANGER - heat"
+    },
+    {
+      "ref": "15",
+      "x": 80.43,
+      "y": 44.3,
+      "partNo": "C 16101",
+      "desc": "RESERVOIR - heat"
+    },
+    {
+      "ref": "16",
+      "x": 71.21,
+      "y": 43.2,
+      "partNo": "C 11529",
+      "desc": "CAP - reservoir with insert"
+    },
+    {
+      "ref": "17",
+      "x": 70.37,
+      "y": 45.96,
+      "partNo": "C 11545",
+      "desc": "INSERT - reservoir cap"
+    },
+    {
+      "ref": "18",
+      "x": 88.92,
+      "y": 34.79,
+      "partNo": "A 70100",
+      "desc": "STRAP - reservoir mounting"
+    },
+    {
+      "ref": "19",
+      "x": 79.8,
+      "y": 35.02,
+      "partNo": "173- 215",
+      "desc": "SCREW - 1/4\" x 1-1/4\" NC rd. hd. machine Z.P."
+    },
+    {
+      "ref": "20",
+      "x": 80.96,
+      "y": 40.87,
+      "partNo": "129- 504",
+      "desc": "NUT - 1/4\" NC square Z.P."
+    },
+    {
+      "ref": "21",
+      "x": 35.88,
+      "y": 24.07,
+      "estimated": true,
+      "note": "No printed callout circle on the diagram; part is listed in the parts table (BOLT - 5/16\" x 3/4\" NC, 166-24) and was placed at an estimated position by the user.",
+      "partNo": "166- 24",
+      "desc": "BOLT - 5/16\" x 3/4\" NC ferry cap"
+    },
+    {
+      "ref": "22",
+      "x": 50.98,
+      "y": 73.37,
+      "partNo": "193- 29",
+      "desc": "LOCKWASHER - 5/16\" internal tooth"
+    },
+    {
+      "ref": "22",
+      "x": 34.21,
+      "y": 21.53,
+      "partNo": "193- 29",
+      "desc": "LOCKWASHER - 5/16\" internal tooth"
+    },
+    {
+      "ref": "23",
+      "x": 40.92,
+      "y": 63.98,
+      "variants": [
+        {
+          "partNo": "C 14247",
+          "desc": "TUBE - pump to reservoir (use with C14243 & C14244 pumps)"
+        },
+        {
+          "partNo": "C 15478",
+          "desc": "TUBE - pump to reservoir (use with C15481 pump)"
+        }
+      ]
+    },
+    {
+      "ref": "24",
+      "x": 34.21,
+      "y": 77.02,
+      "variants": [
+        {
+          "partNo": "C 14248",
+          "desc": "TUBE - valve to exchanger (use with C14243 & C14244 pumps)"
+        },
+        {
+          "partNo": "C 15451",
+          "desc": "TUBE - valve to exchanger (use with C15481 pump)"
+        }
+      ]
+    },
+    {
+      "ref": "25",
+      "x": 56.01,
+      "y": 38.88,
+      "variants": [
+        {
+          "partNo": "C 14249",
+          "desc": "TUBE - pump to valve (use with C14243 & C14244 pumps)"
+        },
+        {
+          "partNo": "C 15479",
+          "desc": "TUBE - pump to valve (use with C15481 pump)"
+        }
+      ]
+    },
+    {
+      "ref": "26",
+      "x": 22.15,
+      "y": 31.04,
+      "variants": [
+        {
+          "partNo": "C 14180",
+          "desc": "MANIFOLD - 220 and 222 tractors"
+        },
+        {
+          "partNo": "C 14615",
+          "desc": "MANIFOLD - 442 (used prior to S/N 9632452)"
+        }
+      ]
+    },
+    {
+      "ref": "27",
+      "x": 18.06,
+      "y": 12.25,
+      "variants": [
+        {
+          "partNo": "C 13047",
+          "desc": "MOTOR - hyd. 220 and 222 (repairs page 53)"
+        },
+        {
+          "partNo": "C 13498",
+          "desc": "MOTOR - hyd. 442 (used prior to S/N 9632452) repairs page 53"
+        },
+        {
+          "partNo": "C 14655",
+          "desc": "MOTOR - hyd. 442 (used S/N 9641001 and after)"
+        }
+      ]
+    },
+    {
+      "ref": "27",
+      "x": 64.29,
+      "y": 8.82,
+      "variants": [
+        {
+          "partNo": "C 13047",
+          "desc": "MOTOR - hyd. 220 and 222 (repairs page 53)"
+        },
+        {
+          "partNo": "C 13498",
+          "desc": "MOTOR - hyd. 442 (used prior to S/N 9632452) repairs page 53"
+        },
+        {
+          "partNo": "C 14655",
+          "desc": "MOTOR - hyd. 442 (used S/N 9641001 and after)"
+        }
+      ]
+    },
+    {
+      "ref": "28",
+      "x": 31.38,
+      "y": 86.86,
+      "variants": [
+        {
+          "partNo": "C 14243",
+          "desc": "PUMP - hyd. 442 (used prior to S/N 9632452) repairs page 49)"
+        },
+        {
+          "partNo": "C 14244",
+          "desc": "PUMP - hyd. 220 & 222; also 442 S/N 9632452 to 9641001 (Repairs page 49)"
+        },
+        {
+          "partNo": "C 15481",
+          "desc": "PUMP - hyd. 220, 222 & 442 S/N 9641001 and after (Repairs page 51)"
+        }
+      ]
+    },
+    {
+      "ref": "28",
+      "x": 32.74,
+      "y": 53.59,
+      "variants": [
+        {
+          "partNo": "C 14243",
+          "desc": "PUMP - hyd. 442 (used prior to S/N 9632452) repairs page 49)"
+        },
+        {
+          "partNo": "C 14244",
+          "desc": "PUMP - hyd. 220 & 222; also 442 S/N 9632452 to 9641001 (Repairs page 49)"
+        },
+        {
+          "partNo": "C 15481",
+          "desc": "PUMP - hyd. 220, 222 & 442 S/N 9641001 and after (Repairs page 51)"
+        }
+      ]
+    },
+    {
+      "ref": "29",
+      "x": 32.42,
+      "y": 34.68,
+      "variants": [
+        {
+          "partNo": "NSS",
+          "desc": "VALVE - control 220, 222; also 442 prior to S/N 9632452, order C14172 valve and three of item 10 - 218-5062 (Repairs page 47)"
+        },
+        {
+          "partNo": "NSS",
+          "desc": "VALVE - control 442 S/N 9362452 and after, order C14613 valve and three of item 10 - 218-5062 (Repairs page 47)"
+        }
+      ]
+    },
+    {
+      "ref": "30",
+      "x": 91.65,
+      "y": 54.91,
+      "partNo": "C 14245",
+      "desc": "HOSE - 3\""
+    },
+    {
+      "ref": "31",
+      "x": 22.99,
+      "y": 82.88,
+      "partNo": "114- 200",
+      "desc": "BOLT - 3/8\" x N.F. hex Z.P."
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,171 @@
+{
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "Electrical System",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/p62.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 75.15,
+      "y": 30.39,
+      "partNo": "C 14578",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": "2",
+      "x": 39.59,
+      "y": 26.18,
+      "partNo": "C 14564",
+      "desc": "WIRE - Switch to Solenoid (Red 8\")"
+    },
+    {
+      "ref": "3",
+      "x": 40.62,
+      "y": 61.24,
+      "partNo": "C 14565",
+      "desc": "WIRE - Battery to Solenoid (Black 10-1/2\")"
+    },
+    {
+      "ref": "4",
+      "x": 69.91,
+      "y": 41.49,
+      "partNo": "C 14566",
+      "desc": "WIRE - Battery to Ground (Black 12\")"
+    },
+    {
+      "ref": "5",
+      "x": 35.03,
+      "y": 9.35,
+      "partNo": "NSS",
+      "desc": "SWITCH - neutral start (use C21993, C21988, C21989)"
+    },
+    {
+      "ref": "6",
+      "x": 9.16,
+      "y": 57.61,
+      "partNo": "C 14553",
+      "desc": "SOLENOID - start"
+    },
+    {
+      "ref": "7",
+      "x": 68.43,
+      "y": 11.22,
+      "partNo": "C 24221",
+      "desc": "REGULATOR - voltage 12 volt"
+    },
+    {
+      "ref": "8",
+      "x": 86.32,
+      "y": 35.64,
+      "partNo": "A 70202",
+      "desc": "STARTER - generator 12 volt (Repairs page 55)"
+    },
+    {
+      "ref": "9",
+      "x": 84.5,
+      "y": 58.08,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - headlamp"
+    },
+    {
+      "ref": "10",
+      "x": 11.44,
+      "y": 33.42,
+      "partNo": "C 14575",
+      "desc": "LAMP ASSEMBLY - generator indicator"
+    },
+    {
+      "ref": "11",
+      "x": 77.2,
+      "y": 72.22,
+      "partNo": "C 22571",
+      "desc": "HEADLAMP ASSEMBLY - 12 volt (Repairs page 59)"
+    },
+    {
+      "ref": "12",
+      "x": 64.55,
+      "y": 51.65,
+      "partNo": "C 18197",
+      "desc": "BATTERY - 12 volt"
+    },
+    {
+      "ref": "13",
+      "x": 32.29,
+      "y": 24.54,
+      "partNo": "NSS",
+      "desc": "SWITCH - ignition (Includes key) order C18007 kit"
+    },
+    {
+      "ref": "14",
+      "x": 30.24,
+      "y": 22.09,
+      "partNo": "C 12684",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": "15",
+      "x": 29.33,
+      "y": 44.53,
+      "partNo": "C 10549",
+      "desc": "CLAMP - battery hold down"
+    },
+    {
+      "ref": "16",
+      "x": 27.05,
+      "y": 68.01,
+      "partNo": "C 24301",
+      "desc": "SPARK PLUG - (Includes gasket)"
+    },
+    {
+      "ref": "17",
+      "x": 26.37,
+      "y": 70.58,
+      "partNo": "A 27251",
+      "desc": "GASKET - spark plug"
+    },
+    {
+      "ref": "18",
+      "x": 46.09,
+      "y": 65.44,
+      "partNo": "V 34433",
+      "desc": "CABLE - high tension"
+    },
+    {
+      "ref": "19",
+      "x": 49.39,
+      "y": 88.0,
+      "partNo": "KO 230722",
+      "desc": "CONDENSER"
+    },
+    {
+      "ref": "20",
+      "x": 33.66,
+      "y": 90.68,
+      "partNo": "KO 231281",
+      "desc": "COIL - ignition 12 volt"
+    },
+    {
+      "ref": "21",
+      "x": 20.21,
+      "y": 77.71,
+      "partNo": "KO 232535",
+      "desc": "COVER - breaker contact"
+    },
+    {
+      "ref": "22",
+      "x": 18.05,
+      "y": 31.79,
+      "partNo": "C 12193",
+      "desc": "WIRE - regulator ground to solenoid (White 12\")"
+    },
+    {
+      "ref": "23",
+      "x": 27.96,
+      "y": 23.02,
+      "partNo": "C 17763",
+      "desc": "KEY - ignition"
+    }
+  ],
+  "footnotes": "Also listed (not shown on diagram): B 50213 BULB - warning lamp, generator indicator (white)\nAlso listed (not shown on diagram): C 23839 KIT - ignition switch (Includes key and decal)\nAlso listed (not shown on diagram): C 17808 DECAL - ignition switch"
+}

@@ -1,0 +1,411 @@
+{
+  "sectionTitle": "222 and 442 Engine Block and Attaching Parts",
+  "breadcrumb": "222 and 442 Engine Block and Attaching Parts",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/p16.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 36.45,
+      "y": 8.97,
+      "partNo": "KO 271077",
+      "desc": "BOLT - cylinder head (Length 2-1/4\")"
+    },
+    {
+      "ref": "2",
+      "x": 36.13,
+      "y": 12.8,
+      "partNo": "KO 235175",
+      "desc": "BOLT - cylinder head (Length 2-1/2\")"
+    },
+    {
+      "ref": "3",
+      "x": 36.76,
+      "y": 16.28,
+      "partNo": "KO 270889",
+      "desc": "WASHER - cylinder head bolt"
+    },
+    {
+      "ref": "4",
+      "x": 36.66,
+      "y": 25.4,
+      "partNo": "KO 236438",
+      "desc": "HEAD - cylinder"
+    },
+    {
+      "ref": "5",
+      "x": 36.34,
+      "y": 29.0,
+      "partNo": "KO 237658",
+      "desc": "GASKET - head"
+    },
+    {
+      "ref": "6",
+      "x": 38.55,
+      "y": 45.31,
+      "partNo": "KO 235747",
+      "desc": "DIPSTICK - (used on models prior to S/N 9641001)"
+    },
+    {
+      "ref": "7",
+      "x": 44.01,
+      "y": 45.88,
+      "partNo": "C 24141",
+      "desc": "BLOCK ASSEMBLY - cylinder, short (Includes crankshaft, rod assembly, camshaft, valves, bearings and plate)"
+    },
+    {
+      "ref": "8",
+      "x": 41.39,
+      "y": 46.66,
+      "partNo": "C 24141",
+      "desc": "BLOCK ASSEMBLY - cylinder, standard bore"
+    },
+    {
+      "ref": "9",
+      "x": 36.76,
+      "y": 33.61,
+      "partNo": "KO 230170",
+      "desc": "INSERT - exhaust valve"
+    },
+    {
+      "ref": "10",
+      "x": 36.55,
+      "y": 37.33,
+      "partNo": "KO 235007-S",
+      "desc": "GUIDE - valve"
+    },
+    {
+      "ref": "11",
+      "x": 8.4,
+      "y": 49.03,
+      "partNo": "KO 235125-S",
+      "desc": "SHAFT - stub governor"
+    },
+    {
+      "ref": "12",
+      "x": 8.51,
+      "y": 51.39,
+      "partNo": "V 34418",
+      "desc": "BEARING - needle, governor shaft"
+    },
+    {
+      "ref": "13",
+      "x": 8.93,
+      "y": 46.66,
+      "partNo": "41-18",
+      "desc": "PLUG - expansion"
+    },
+    {
+      "ref": "14",
+      "x": 12.92,
+      "y": 88.19,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 1-1/4\" NC hex plated"
+    },
+    {
+      "ref": "15",
+      "x": 13.24,
+      "y": 84.25,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" plated"
+    },
+    {
+      "ref": "16",
+      "x": 16.6,
+      "y": 65.57,
+      "partNo": "KO 235025",
+      "desc": "GASKET - camshaft cover"
+    },
+    {
+      "ref": "17",
+      "x": 13.66,
+      "y": 66.69,
+      "partNo": "KO 235026",
+      "desc": "COVER - camshaft gear"
+    },
+    {
+      "ref": "18",
+      "x": 10.61,
+      "y": 68.04,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" plated"
+    },
+    {
+      "ref": "19",
+      "x": 8.61,
+      "y": 69.39,
+      "partNo": "113-6",
+      "desc": "BOLT - 1/4\" x 1/2\" NC plated"
+    },
+    {
+      "ref": "20",
+      "x": 33.72,
+      "y": 65.01,
+      "partNo": "KO 235353",
+      "desc": "GASKET - oil pan"
+    },
+    {
+      "ref": "9A",
+      "x": 38.97,
+      "y": 33.5,
+      "partNo": "KO 230265",
+      "desc": "INSERT - intake valve seat"
+    },
+    {
+      "ref": "23",
+      "x": 34.77,
+      "y": 76.26,
+      "partNo": "KO 237808",
+      "desc": "BASE - oil pan"
+    },
+    {
+      "ref": "24",
+      "x": 31.51,
+      "y": 88.75,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" plated"
+    },
+    {
+      "ref": "25",
+      "x": 31.3,
+      "y": 92.46,
+      "partNo": "115-204",
+      "desc": "BOLT - 3/8\" x 1\" NC hex plated"
+    },
+    {
+      "ref": "26",
+      "x": 44.64,
+      "y": 83.8,
+      "partNo": "C 14399",
+      "desc": "PLUG - oil drain"
+    },
+    {
+      "ref": "27",
+      "x": 8.61,
+      "y": 37.89,
+      "partNo": "R 16287",
+      "desc": "OIL SEAL - crankshaft rear"
+    },
+    {
+      "ref": "28",
+      "x": 44.75,
+      "y": 48.24,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft ball"
+    },
+    {
+      "ref": "28",
+      "x": 52.0,
+      "y": 51.73,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft ball"
+    },
+    {
+      "ref": "29",
+      "x": 47.79,
+      "y": 49.93,
+      "variants": [
+        {
+          "partNo": "KO 235757",
+          "desc": "GASKET - shim, bearing plate .010\""
+        },
+        {
+          "partNo": "KO 235070",
+          "desc": "GASKET - shim, .010\""
+        }
+      ]
+    },
+    {
+      "ref": "30",
+      "x": 55.78,
+      "y": 53.64,
+      "partNo": "205-27",
+      "desc": "PLUG - button, timing hole"
+    },
+    {
+      "ref": "31",
+      "x": 62.71,
+      "y": 56.9,
+      "partNo": "C 22700",
+      "desc": "PLATE - bearing"
+    },
+    {
+      "ref": "32",
+      "x": 50.74,
+      "y": 74.46,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" plated"
+    },
+    {
+      "ref": "33",
+      "x": 54.83,
+      "y": 76.26,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 1\" NC plated"
+    },
+    {
+      "ref": "34",
+      "x": 68.17,
+      "y": 59.6,
+      "partNo": "C 18097",
+      "desc": "OIL SEAL - crankshaft front"
+    },
+    {
+      "ref": "35",
+      "x": 73.53,
+      "y": 62.08,
+      "partNo": "KO 235818",
+      "desc": "FLYWHEEL"
+    },
+    {
+      "ref": "36",
+      "x": 70.8,
+      "y": 84.02,
+      "partNo": "195-541",
+      "desc": "WASHER - special, plated"
+    },
+    {
+      "ref": "37",
+      "x": 74.16,
+      "y": 85.71,
+      "partNo": "131-301",
+      "desc": "NUT - special Marsden"
+    },
+    {
+      "ref": "38",
+      "x": 46.85,
+      "y": 33.16,
+      "partNo": "C 14953",
+      "desc": "DIPSTICK ASSEMBLY (used on models S/N 9641001 and after)"
+    },
+    {
+      "ref": "39",
+      "x": 47.06,
+      "y": 39.35,
+      "partNo": "A 27365",
+      "desc": "\"O\" RING - dipstick"
+    },
+    {
+      "ref": "42",
+      "x": 18.28,
+      "y": 14.15,
+      "partNo": "KO 235748",
+      "desc": "STRAP - lifting"
+    },
+    {
+      "ref": "43",
+      "x": 38.34,
+      "y": 80.76,
+      "partNo": "C 18814",
+      "desc": "NIPPLE - oil drain extension"
+    },
+    {
+      "ref": "44",
+      "x": 41.28,
+      "y": 82.45,
+      "partNo": "C 14906",
+      "desc": "GASKET - plug, oil drain"
+    },
+    {
+      "ref": "45",
+      "x": 68.8,
+      "y": 51.62,
+      "partNo": "C 23858",
+      "desc": "KIT - engine gasket and seal"
+    },
+    {
+      "ref": "48",
+      "x": 50.42,
+      "y": 27.99,
+      "partNo": "B 59393",
+      "desc": "GASKET - fuel strainer bowl"
+    },
+    {
+      "ref": "49",
+      "x": 87.61,
+      "y": 19.88,
+      "partNo": "KO 220174",
+      "desc": "GASKET - breaker cover"
+    },
+    {
+      "ref": "50",
+      "x": 88.45,
+      "y": 34.17,
+      "partNo": "KO 235048",
+      "desc": "SEAL - breather"
+    },
+    {
+      "ref": "51",
+      "x": 84.56,
+      "y": 35.98,
+      "partNo": "KO 275144",
+      "desc": "GASKET - valve cover"
+    },
+    {
+      "ref": "52",
+      "x": 80.57,
+      "y": 38.0,
+      "partNo": "KO 235025",
+      "desc": "GASKET - camshaft gear cover"
+    },
+    {
+      "ref": "53",
+      "x": 50.74,
+      "y": 36.09,
+      "partNo": "KO 235353",
+      "desc": "GASKET - oil pan"
+    },
+    {
+      "ref": "54",
+      "x": 52.73,
+      "y": 23.04,
+      "variants": [
+        {
+          "partNo": "KO 235757",
+          "desc": "GASKET - shim, bearing plate, .010\""
+        },
+        {
+          "partNo": "KO 235070",
+          "desc": "GASKET - shim, .010\""
+        }
+      ]
+    },
+    {
+      "ref": "55",
+      "x": 50.84,
+      "y": 32.26,
+      "partNo": "KO 237658",
+      "desc": "GASKET - cylinder head"
+    },
+    {
+      "ref": "56",
+      "x": 81.51,
+      "y": 22.81,
+      "partNo": "C 22738",
+      "desc": "GASKET - fuel pump flange"
+    },
+    {
+      "ref": "57",
+      "x": 84.56,
+      "y": 21.57,
+      "partNo": "C 23860",
+      "desc": "GASKET - carburetor flange"
+    },
+    {
+      "ref": "58",
+      "x": 77.42,
+      "y": 24.61,
+      "partNo": "KO 275341",
+      "desc": "GASKET - carburetor air horn"
+    },
+    {
+      "ref": "59",
+      "x": 84.77,
+      "y": 40.7,
+      "partNo": "KO 235057",
+      "desc": "GASKET - oil pan (Not used on this model)"
+    }
+  ],
+  "footnotes": ""
+}

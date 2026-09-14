@@ -1,0 +1,279 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor (220, 222 & 442 prior to S/N 9632452)",
+  "breadcrumb": "Hydraulic Drive Motor (220, 222 & 442 prior to S/N 9632452)",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/p56.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 75.73,
+      "y": 18.6,
+      "variants": [
+        {
+          "partNo": "C 13047",
+          "desc": "MOTOR - hydraulic drive (220 and 222)"
+        },
+        {
+          "partNo": "C 13498",
+          "desc": "MOTOR - hydraulic drive (442 prior to S/N 9632452)"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 14.94,
+      "y": 40.28,
+      "partNo": "C 14816",
+      "desc": "PLATE - mounting"
+    },
+    {
+      "ref": "3",
+      "x": 8.71,
+      "y": 59.2,
+      "partNo": "166-524",
+      "desc": "SCREW - cap, ferry 5/16\" x 7/8\" NF"
+    },
+    {
+      "ref": "3",
+      "x": 65.78,
+      "y": 66.87,
+      "partNo": "166-524",
+      "desc": "SCREW - cap, ferry 5/16\" x 7/8\" NF"
+    },
+    {
+      "ref": "4",
+      "x": 20.95,
+      "y": 40.69,
+      "partNo": "NSS",
+      "desc": "WASHER - back up (See Ref. 24)"
+    },
+    {
+      "ref": "4",
+      "x": 17.67,
+      "y": 10.62,
+      "partNo": "NSS",
+      "desc": "WASHER - back up (See Ref. 24)"
+    },
+    {
+      "ref": "5",
+      "x": 25.33,
+      "y": 39.46,
+      "partNo": "NSS",
+      "desc": "QUAD RING - mounting plate (See Ref. 24)"
+    },
+    {
+      "ref": "5",
+      "x": 13.63,
+      "y": 13.07,
+      "partNo": "NSS",
+      "desc": "QUAD RING - mounting plate (See Ref. 24)"
+    },
+    {
+      "ref": "6",
+      "x": 30.25,
+      "y": 36.49,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - mounting plate (See Ref. 24)"
+    },
+    {
+      "ref": "6",
+      "x": 36.7,
+      "y": 12.26,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - mounting plate (See Ref. 24)"
+    },
+    {
+      "ref": "7",
+      "x": 9.37,
+      "y": 14.71,
+      "partNo": "C 14817",
+      "desc": "WASHER - thrust (See Ref. 24)"
+    },
+    {
+      "ref": "7",
+      "x": 36.26,
+      "y": 35.16,
+      "partNo": "C 14817",
+      "desc": "WASHER - thrust (See Ref. 24)"
+    },
+    {
+      "ref": "8",
+      "x": 60.2,
+      "y": 23.1,
+      "partNo": "C 14818",
+      "desc": "SHAFT AND HOUSING ASSEMBLY"
+    },
+    {
+      "ref": "9",
+      "x": 64.69,
+      "y": 43.24,
+      "partNo": "A 72034",
+      "desc": "PLUG - housing"
+    },
+    {
+      "ref": "10",
+      "x": 60.42,
+      "y": 44.47,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - housing plug"
+    },
+    {
+      "ref": "10",
+      "x": 12.21,
+      "y": 26.88,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - housing plug"
+    },
+    {
+      "ref": "11",
+      "x": 19.97,
+      "y": 68.3,
+      "variants": [
+        {
+          "partNo": "C 14819",
+          "desc": "COUPLING - drive for C13047 motor"
+        },
+        {
+          "partNo": "C 14820",
+          "desc": "COUPLING - drive for C13498 motor"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 30.79,
+      "y": 63.8,
+      "partNo": "C 13962",
+      "desc": "SPACER - coupling"
+    },
+    {
+      "ref": "13",
+      "x": 39.76,
+      "y": 59.09,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - housing to spacer plate (See Ref. 24)"
+    },
+    {
+      "ref": "13",
+      "x": 21.83,
+      "y": 26.27,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - housing to spacer plate (See Ref. 24)"
+    },
+    {
+      "ref": "14",
+      "x": 53.64,
+      "y": 53.47,
+      "partNo": "C 14784",
+      "desc": "PLATE - spacer"
+    },
+    {
+      "ref": "15",
+      "x": 67.86,
+      "y": 47.54,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - spacer plate to geroler (See Ref. 24)"
+    },
+    {
+      "ref": "15",
+      "x": 65.34,
+      "y": 72.59,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - spacer plate to geroler (See Ref. 24)"
+    },
+    {
+      "ref": "15",
+      "x": 49.05,
+      "y": 28.31,
+      "partNo": "NSS",
+      "desc": "\"O\" RING - spacer plate to geroler (See Ref. 24)"
+    },
+    {
+      "ref": "16",
+      "x": 85.79,
+      "y": 31.48,
+      "partNo": "A 27410",
+      "desc": "\"O\" RING - housing"
+    },
+    {
+      "ref": "16",
+      "x": 15.38,
+      "y": 25.55,
+      "partNo": "A 27410",
+      "desc": "\"O\" RING - housing"
+    },
+    {
+      "ref": "17",
+      "x": 29.26,
+      "y": 56.64,
+      "partNo": "138-134",
+      "desc": "PIN - roll 1/4\" x 1\""
+    },
+    {
+      "ref": "18",
+      "x": 85.46,
+      "y": 64.1,
+      "variants": [
+        {
+          "partNo": "166-535",
+          "desc": "SCREW - cap, end 5/16\" x 2-1/8\" NF"
+        },
+        {
+          "partNo": "166-536",
+          "desc": "SCREW - cap, end 5/16\" x 2-7/8\" NF"
+        }
+      ]
+    },
+    {
+      "ref": "19",
+      "x": 82.07,
+      "y": 87.42,
+      "partNo": "C 14783",
+      "desc": "CAP - end"
+    },
+    {
+      "ref": "20",
+      "x": 79.23,
+      "y": 66.46,
+      "partNo": "C 14301",
+      "desc": "WASHER - end cap"
+    },
+    {
+      "ref": "20",
+      "x": 9.04,
+      "y": 27.6,
+      "partNo": "C 14301",
+      "desc": "WASHER - end cap"
+    },
+    {
+      "ref": "21",
+      "x": 81.96,
+      "y": 41.81,
+      "partNo": "NSS",
+      "desc": "HOUSING - roller geroler"
+    },
+    {
+      "ref": "22",
+      "x": 51.79,
+      "y": 78.01,
+      "partNo": "NSS",
+      "desc": "GEROLER"
+    },
+    {
+      "ref": "23",
+      "x": 67.75,
+      "y": 94.27,
+      "partNo": "NSS",
+      "desc": "ROLLER"
+    },
+    {
+      "ref": "24",
+      "x": 26.75,
+      "y": 8.17,
+      "partNo": "C 17811",
+      "desc": "KIT - \"O\" RING AND SEAL (Includes items 4, 5, 6, 7, 10, 13, 15, 16 and 20)"
+    }
+  ],
+  "footnotes": "Also listed (not shown on diagram): C 14822 KIT - geroler (For C13047 motor) (220 and 222)\nAlso listed (not shown on diagram): C 14823 KIT - geroler (For C13498 motor) (442)"
+}

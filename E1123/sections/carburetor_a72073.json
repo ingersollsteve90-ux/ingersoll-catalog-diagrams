@@ -1,0 +1,152 @@
+{
+  "sectionTitle": "Carburetor - A72073",
+  "breadcrumb": "Carburetor - A72073",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/carburetor_a72073.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 39.6,
+      "y": 15.55,
+      "partNo": "KO 200380",
+      "desc": "SPRING - idle screw tension"
+    },
+    {
+      "ref": "2",
+      "x": 43.54,
+      "y": 19.7,
+      "partNo": "A 72092",
+      "desc": "SCREW - idle adjust"
+    },
+    {
+      "ref": "3",
+      "x": 19.64,
+      "y": 32.33,
+      "partNo": "A 72077",
+      "desc": "JET ASSEMBLY - high speed and idle adjust"
+    },
+    {
+      "ref": "4",
+      "x": 18.6,
+      "y": 41.15,
+      "partNo": "KO 200383",
+      "desc": "SPRING - idle jet"
+    },
+    {
+      "ref": "5",
+      "x": 40.41,
+      "y": 42.71,
+      "partNo": "A 72099",
+      "desc": "SCREW - adjusting (Lean-rich)"
+    },
+    {
+      "ref": "6",
+      "x": 42.5,
+      "y": 58.1,
+      "partNo": "A 72098",
+      "desc": "SPRING - Lean-rich adjust screw"
+    },
+    {
+      "ref": "7",
+      "x": 69.76,
+      "y": 15.89,
+      "partNo": "F 19892",
+      "desc": "PIN - carburetor float"
+    },
+    {
+      "ref": "7",
+      "x": 65.82,
+      "y": 59.66,
+      "partNo": "F 19892",
+      "desc": "PIN - carburetor float"
+    },
+    {
+      "ref": "8",
+      "x": 83.8,
+      "y": 62.43,
+      "partNo": "KO 200408",
+      "desc": "FLOAT ASSEMBLY"
+    },
+    {
+      "ref": "9",
+      "x": 85.65,
+      "y": 81.98,
+      "partNo": "KO 235448",
+      "desc": "BOWL - carburetor"
+    },
+    {
+      "ref": "9A",
+      "x": 68.14,
+      "y": 91.32,
+      "partNo": "KO235447",
+      "desc": "GASKET - carburetor bowl (part of ref 10, NUT AND GASKET ASSEMBLY - bowl; shown separately on the diagram, no standalone stock number)",
+      "estimated": true,
+      "note": "No separate table row; gasket component of ref 10 (NUT AND GASKET ASSEMBLY - bowl, KO235447)."
+    },
+    {
+      "ref": "10",
+      "x": 82.99,
+      "y": 94.09,
+      "partNo": "KO 235447",
+      "desc": "NUT AND GASKET ASSEMBLY - bowl"
+    },
+    {
+      "ref": "11",
+      "x": 82.87,
+      "y": 40.46,
+      "partNo": "A 72103",
+      "desc": "KIT - carburetor repair"
+    },
+    {
+      "ref": "12",
+      "x": 89.6,
+      "y": 15.89,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY"
+    },
+    {
+      "ref": "12",
+      "x": 22.54,
+      "y": 73.67,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY"
+    },
+    {
+      "ref": "13",
+      "x": 69.88,
+      "y": 23.85,
+      "partNo": "NSS",
+      "desc": "GASKET - carburetor bowl ring"
+    },
+    {
+      "ref": "13",
+      "x": 85.54,
+      "y": 68.83,
+      "partNo": "NSS",
+      "desc": "GASKET - carburetor bowl ring"
+    },
+    {
+      "ref": "14",
+      "x": 69.99,
+      "y": 28.35,
+      "partNo": "NSS",
+      "desc": "GASKET - carburetor bowl"
+    },
+    {
+      "ref": "14",
+      "x": 85.42,
+      "y": 74.89,
+      "partNo": "NSS",
+      "desc": "GASKET - carburetor bowl"
+    },
+    {
+      "ref": "15",
+      "x": 69.76,
+      "y": 35.79,
+      "partNo": "KO 200372",
+      "desc": "GASKET - bowl screw"
+    }
+  ],
+  "footnotes": "Also listed (not shown on diagram): A 72073 CARBURETOR ASSEMBLY"
+}

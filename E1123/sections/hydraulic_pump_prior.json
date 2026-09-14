@@ -1,0 +1,196 @@
+{
+  "sectionTitle": "Hydraulic Pump (prior to S/N 9641001)",
+  "breadcrumb": "Hydraulic Pump (prior to S/N 9641001)",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/p52.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 14.82,
+      "y": 44.41,
+      "variants": [
+        {
+          "partNo": "C 14244",
+          "desc": "PUMP - hydraulic (220 and 222; also 442 S/N 9632452 to 9641001)"
+        },
+        {
+          "partNo": "C 14243",
+          "desc": "PUMP - hydraulic (442 prior to S/N 9632452)"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 27.21,
+      "y": 10.29,
+      "variants": [
+        {
+          "partNo": "13- 652",
+          "desc": "BOLT - 3/8\" x 3-1/4\" NC hex head (C14243 pump)"
+        },
+        {
+          "partNo": "13- 650",
+          "desc": "BOLT - 3/8\" x 3-1/8\" NC hex (C14244 pump)"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 33.15,
+      "y": 12.59,
+      "partNo": "92- 6",
+      "desc": "WASHER - special"
+    },
+    {
+      "ref": "4",
+      "x": 47.89,
+      "y": 8.75,
+      "partNo": "C 11644",
+      "desc": "COVER - rear, pump body"
+    },
+    {
+      "ref": "5",
+      "x": 54.71,
+      "y": 11.05,
+      "partNo": "C 14923",
+      "desc": "SEAL - pump cover"
+    },
+    {
+      "ref": "5",
+      "x": 51.36,
+      "y": 60.1,
+      "partNo": "C 14923",
+      "desc": "SEAL - pump cover"
+    },
+    {
+      "ref": "6",
+      "x": 60.4,
+      "y": 13.8,
+      "partNo": "A 35956",
+      "desc": "BEARING - pump gear"
+    },
+    {
+      "ref": "6",
+      "x": 36.99,
+      "y": 54.4,
+      "partNo": "A 35956",
+      "desc": "BEARING - pump gear"
+    },
+    {
+      "ref": "7",
+      "x": 67.22,
+      "y": 16.21,
+      "variants": [
+        {
+          "partNo": "C 11642",
+          "desc": "GEAR - pump drive (For C14244 pump on Models 220 and 222)"
+        },
+        {
+          "partNo": "A 72005",
+          "desc": "GEAR - pump drive (For C14243 pump on Model 442)"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 66.35,
+      "y": 32.12,
+      "variants": [
+        {
+          "partNo": "C 11643",
+          "desc": "GEAR - pump driven (For C14244 pump on Models 220 and 222)"
+        },
+        {
+          "partNo": "A 72004",
+          "desc": "GEAR - pump driven (For C14243 pump on Model 442)"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 76.51,
+      "y": 19.83,
+      "partNo": "126- 12",
+      "desc": "KEY - Woodruff #6"
+    },
+    {
+      "ref": "10",
+      "x": 24.48,
+      "y": 49.79,
+      "partNo": "NSS",
+      "desc": "BODY - pump (Order C14243 or C14244)"
+    },
+    {
+      "ref": "11",
+      "x": 41.45,
+      "y": 56.37,
+      "partNo": "A 72001",
+      "desc": "GASKET - brass, front cover"
+    },
+    {
+      "ref": "12",
+      "x": 45.66,
+      "y": 57.36,
+      "partNo": "A 72002",
+      "desc": "SPACER - gasket, front cover"
+    },
+    {
+      "ref": "13",
+      "x": 57.18,
+      "y": 62.3,
+      "partNo": "A 72007",
+      "desc": "COVER - front pump body"
+    },
+    {
+      "ref": "14",
+      "x": 63.75,
+      "y": 64.93,
+      "partNo": "A 50421",
+      "desc": "SEAL - pump shaft"
+    },
+    {
+      "ref": "18",
+      "x": 23.37,
+      "y": 77.11,
+      "partNo": "A 70111",
+      "desc": "COUPLING - pump drive (use with C14243 or C14244 pumps)"
+    },
+    {
+      "ref": "19",
+      "x": 55.7,
+      "y": 70.96,
+      "partNo": "83- 55",
+      "desc": "SCREW - 5/16\" x 5/16\" NC socket head set"
+    },
+    {
+      "ref": "19",
+      "x": 73.04,
+      "y": 91.26,
+      "partNo": "83- 55",
+      "desc": "SCREW - 5/16\" x 5/16\" NC socket head set"
+    },
+    {
+      "ref": "20",
+      "x": 60.9,
+      "y": 72.94,
+      "partNo": "NSS",
+      "desc": "HUB - half, 5/8\" diameter bore (Order A70111)"
+    },
+    {
+      "ref": "21",
+      "x": 66.85,
+      "y": 75.13,
+      "partNo": "A 70112",
+      "desc": "SPIDER - coupling"
+    },
+    {
+      "ref": "22",
+      "x": 72.79,
+      "y": 77.99,
+      "partNo": "NSS",
+      "desc": "HUB - half, 1\" diameter bore (Order A70111)"
+    }
+  ],
+  "footnotes": ""
+}

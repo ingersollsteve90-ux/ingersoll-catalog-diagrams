@@ -1,0 +1,67 @@
+{
+  "sectionTitle": "Hydraulic Reservoir Mounting",
+  "breadcrumb": "Hydraulic Reservoir Mounting",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/hydraulic_reservoir_mounting.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 64.46,
+      "y": 44.64,
+      "variants": [
+        {
+          "partNo": "C 14240",
+          "desc": "SUPPORT - reservoir mounting R.H."
+        },
+        {
+          "partNo": "C 14241",
+          "desc": "SUPPORT - reservoir mounting L.H."
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 87.95,
+      "y": 62.48,
+      "partNo": "187-1251",
+      "desc": "SCREW - 1/4\" x 1-1/4\" NC fillister head, Phillips, Z.P."
+    },
+    {
+      "ref": "3",
+      "x": 47.47,
+      "y": 72.18,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" Z.P."
+    },
+    {
+      "ref": "4",
+      "x": 46.99,
+      "y": 79.0,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex Z.P."
+    },
+    {
+      "ref": "5",
+      "x": 62.41,
+      "y": 26.02,
+      "partNo": "C 14690",
+      "desc": "CUSHION - oil reservoir"
+    },
+    {
+      "ref": "6",
+      "x": 84.22,
+      "y": 52.51,
+      "partNo": "C 14246",
+      "desc": "BRACKET - heat exchanger mounting"
+    },
+    {
+      "ref": "7",
+      "x": 47.47,
+      "y": 63.53,
+      "partNo": "113-118",
+      "desc": "BOLT - 5/16\" x 5/8\" NC hex Z.P."
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,374 @@
+{
+  "sectionTitle": "Model F30 Hydraulic Lift",
+  "breadcrumb": "Model F30 Hydraulic Lift",
+  "catalogLabel": "Catalog E1123",
+  "modelNumbers": "Catalog E1123 — Case 220, 222 and 442 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/E1123/p72.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 18.07,
+      "y": 29.4,
+      "partNo": "C 14466",
+      "desc": "PANEL - valve mounting"
+    },
+    {
+      "ref": "2",
+      "x": 51.35,
+      "y": 52.8,
+      "partNo": "NSS",
+      "desc": "CROSS SHAFT ASSEMBLY (order items 41, 42, 43, 44, 45, 46 & 47)"
+    },
+    {
+      "ref": "3",
+      "x": 23.39,
+      "y": 63.7,
+      "partNo": "C 14489",
+      "desc": "LEVER - cylinder lift (used prior to S/N 9641001)"
+    },
+    {
+      "ref": "4",
+      "x": 63.68,
+      "y": 66.0,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\" Z.P."
+    },
+    {
+      "ref": "5",
+      "x": 16.16,
+      "y": 77.1,
+      "partNo": "C 14481",
+      "desc": "COLLAR - cross shaft (used prior to S/N 9641001)"
+    },
+    {
+      "ref": "6",
+      "x": 24.66,
+      "y": 79.9,
+      "partNo": "138-96",
+      "desc": "PIN - roll 3/16\" x 1\""
+    },
+    {
+      "ref": "7",
+      "x": 19.67,
+      "y": 62.1,
+      "partNo": "C 14492",
+      "desc": "BRACKET - link adjust (used prior to S/N 9641001)"
+    },
+    {
+      "ref": "8",
+      "x": 16.8,
+      "y": 19.4,
+      "partNo": "C 12678",
+      "desc": "GRIP - lever"
+    },
+    {
+      "ref": "9",
+      "x": 14.88,
+      "y": 67.6,
+      "partNo": "C 13744",
+      "desc": "PIN - clevis 1/2\""
+    },
+    {
+      "ref": "10",
+      "x": 24.34,
+      "y": 60.1,
+      "partNo": "C 10898",
+      "desc": "PIN - safety"
+    },
+    {
+      "ref": "11",
+      "x": 8.5,
+      "y": 41.9,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" x 1/2\" NC hex self tapping"
+    },
+    {
+      "ref": "12",
+      "x": 38.27,
+      "y": 54.4,
+      "partNo": "C 14491",
+      "desc": "LINK - stop (used prior to S/N 9641001)"
+    },
+    {
+      "ref": "13",
+      "x": 10.31,
+      "y": 45.3,
+      "partNo": "129-601",
+      "desc": "NUT - wing 3/8\" NC Nylock (used prior to S/N 9641001)"
+    },
+    {
+      "ref": "14",
+      "x": 26.47,
+      "y": 50.6,
+      "partNo": "113-4",
+      "desc": "BOLT - 1/4\" x 1\" NC hex Z.P."
+    },
+    {
+      "ref": "15",
+      "x": 59.43,
+      "y": 27.8,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" NC hex Z.P."
+    },
+    {
+      "ref": "16",
+      "x": 54.75,
+      "y": 28.5,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" Z.P."
+    },
+    {
+      "ref": "17",
+      "x": 73.99,
+      "y": 30.3,
+      "partNo": "C 15080",
+      "desc": "HOSE - 11\""
+    },
+    {
+      "ref": "18",
+      "x": 82.92,
+      "y": 16.5,
+      "partNo": "C 12675",
+      "desc": "HOSE - 20\""
+    },
+    {
+      "ref": "19",
+      "x": 68.57,
+      "y": 8.9,
+      "partNo": "221-412",
+      "desc": "ELBOW - street 1/4\" NPTF"
+    },
+    {
+      "ref": "19",
+      "x": 79.94,
+      "y": 64.6,
+      "partNo": "221-412",
+      "desc": "ELBOW - street 1/4\" NPTF"
+    },
+    {
+      "ref": "19",
+      "x": 88.98,
+      "y": 71.1,
+      "partNo": "221-412",
+      "desc": "ELBOW - street 1/4\" NPTF"
+    },
+    {
+      "ref": "20",
+      "x": 33.17,
+      "y": 15.8,
+      "partNo": "C 14629",
+      "desc": "HOSE - pressure"
+    },
+    {
+      "ref": "21",
+      "x": 23.71,
+      "y": 10.7,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING"
+    },
+    {
+      "ref": "22",
+      "x": 65.91,
+      "y": 37.8,
+      "partNo": "C 14533",
+      "desc": "TUBE - cooler (used prior to S/N 9641001)"
+    },
+    {
+      "ref": "23",
+      "x": 69.1,
+      "y": 23.3,
+      "partNo": "218-1057",
+      "desc": "FITTING - 90° 5/8\" T x 3/8\" NPTF"
+    },
+    {
+      "ref": "23",
+      "x": 36.89,
+      "y": 11.4,
+      "partNo": "218-1057",
+      "desc": "FITTING - 90° 5/8\" T x 3/8\" NPTF"
+    },
+    {
+      "ref": "24",
+      "x": 73.88,
+      "y": 92.7,
+      "partNo": "T 25683",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": "25",
+      "x": 62.62,
+      "y": 8.4,
+      "partNo": "141-2",
+      "desc": "PIN - clevis 1/4\""
+    },
+    {
+      "ref": "26",
+      "x": 49.33,
+      "y": 8.1,
+      "partNo": "132-5",
+      "desc": "PIN - cotter 1/16\" x 1/2\""
+    },
+    {
+      "ref": "27",
+      "x": 81.33,
+      "y": 90.7,
+      "partNo": "C 14470",
+      "desc": "STUD - cylinder pivot"
+    },
+    {
+      "ref": "28",
+      "x": 86.11,
+      "y": 89.4,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\" plain"
+    },
+    {
+      "ref": "28",
+      "x": 88.66,
+      "y": 75.2,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\" plain"
+    },
+    {
+      "ref": "29",
+      "x": 91.53,
+      "y": 73.8,
+      "partNo": "129-107",
+      "desc": "NUT - 5/8\" NC hex Z.P."
+    },
+    {
+      "ref": "30",
+      "x": 12.23,
+      "y": 56.0,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 7/8\" NC hex"
+    },
+    {
+      "ref": "31",
+      "x": 22.22,
+      "y": 51.9,
+      "partNo": "92-6",
+      "desc": "LOCKWASHER - 3/8\""
+    },
+    {
+      "ref": "32",
+      "x": 33.7,
+      "y": 55.1,
+      "partNo": "25-106",
+      "desc": "NUT - 3/8\" NC Hex"
+    },
+    {
+      "ref": "33",
+      "x": 21.58,
+      "y": 66.5,
+      "partNo": "A 30881",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": "34",
+      "x": 67.4,
+      "y": 43.2,
+      "partNo": "113-219",
+      "desc": "BOLT - 3/8\" x 2\" NC hex Z.P."
+    },
+    {
+      "ref": "35",
+      "x": 79.84,
+      "y": 55.6,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" Z.P."
+    },
+    {
+      "ref": "36",
+      "x": 73.67,
+      "y": 59.6,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC hex Z.P."
+    },
+    {
+      "ref": "37",
+      "x": 67.72,
+      "y": 61.3,
+      "partNo": "126-119",
+      "desc": "KEY - Woodruff #11"
+    },
+    {
+      "ref": "38",
+      "x": 66.34,
+      "y": 78.5,
+      "partNo": "C 12676",
+      "desc": "CYLINDER - hydraulic (Repairs, See page 69)"
+    },
+    {
+      "ref": "39",
+      "x": 45.29,
+      "y": 7.7,
+      "partNo": "C 14153",
+      "desc": "VALVE - lift (Repairs, See page 69)"
+    },
+    {
+      "ref": "40",
+      "x": 64.42,
+      "y": 75.1,
+      "partNo": "141-56",
+      "desc": "PIN - clevis 1/2\""
+    },
+    {
+      "ref": "41",
+      "x": 56.98,
+      "y": 75.6,
+      "partNo": "C 16099",
+      "desc": "CROSS SHAFT ASSEMBLY - (Used S/N 9641001 and after)"
+    },
+    {
+      "ref": "42",
+      "x": 49.33,
+      "y": 77.9,
+      "partNo": "C 15971",
+      "desc": "LINK - stop (used S/N 9641001 and after)"
+    },
+    {
+      "ref": "43",
+      "x": 42.2,
+      "y": 74.5,
+      "partNo": "C 16098",
+      "desc": "BRACKET - link adj. (used S/N 9641001 and after)"
+    },
+    {
+      "ref": "44",
+      "x": 37.31,
+      "y": 73.2,
+      "partNo": "C 16097",
+      "desc": "WASHER - lift lever (used S/N 9641001 and after)"
+    },
+    {
+      "ref": "45",
+      "x": 37.74,
+      "y": 87.1,
+      "partNo": "C 15970",
+      "desc": "LEVER - cylinder adj. (used S/N 9641001 and after)"
+    },
+    {
+      "ref": "46",
+      "x": 34.98,
+      "y": 90.2,
+      "partNo": "C 16095",
+      "desc": "COLLAR - cross shaft (used S/N 9641001 and after)"
+    },
+    {
+      "ref": "47",
+      "x": 35.19,
+      "y": 70.9,
+      "partNo": "129-400",
+      "desc": "NUT - wing 1/2\" NC (used S/N 9641001 and after)"
+    },
+    {
+      "ref": "48",
+      "x": 68.67,
+      "y": 38.0,
+      "partNo": "C 15449",
+      "desc": "TUBE - cooler (used S/N 9641001 and after)"
+    }
+  ],
+  "footnotes": ""
+}
