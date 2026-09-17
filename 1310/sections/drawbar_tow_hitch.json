@@ -1,0 +1,34 @@
+{
+  "sectionTitle": "Drawbar and Tow Hitch",
+  "breadcrumb": "Drawbar and Tow Hitch",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/drawbar_tow_hitch.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 80.36,
+      "y": 53.14,
+      "partNo": "C 13360",
+      "desc": "DRAWBAR",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 42.34,
+      "y": 36.6,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 31.79,
+      "y": 23.49,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2 x 1\" NC hex zinc plated",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

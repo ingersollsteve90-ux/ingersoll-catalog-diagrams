@@ -1,0 +1,202 @@
+{
+  "sectionTitle": "Tail Lamp (Optional)",
+  "breadcrumb": "Tail Lamp (Optional)",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/tail_lamp.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 31.13,
+      "y": 18.93,
+      "partNo": "A 20965",
+      "desc": "LAMP ASSEMBLY - flood and tail",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 41.39,
+      "y": 43.37,
+      "partNo": "B 50255",
+      "desc": "MOLDING - lamp retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 53.79,
+      "y": 7.68,
+      "partNo": "10934",
+      "desc": "SCREW - molding",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 58.3,
+      "y": 8.54,
+      "partNo": "A 40855",
+      "desc": "LAMP - sealed unit",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 51.76,
+      "y": 54.19,
+      "partNo": "B 50223",
+      "desc": "BULB - red 15 C.P. 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 51.65,
+      "y": 68.68,
+      "partNo": "B 50273",
+      "desc": "WIRE - switch",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 60.78,
+      "y": 50.62,
+      "partNo": "B 50273",
+      "desc": "WIRE - switch",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 65.85,
+      "y": 21.31,
+      "partNo": "173-73",
+      "desc": "SCREW - wire",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 88.74,
+      "y": 66.08,
+      "partNo": "173-73",
+      "desc": "SCREW - wire",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 86.04,
+      "y": 61.22,
+      "partNo": "193-4",
+      "desc": "WASHER - 1/4\" lock",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 67.77,
+      "y": 27.26,
+      "partNo": "193-4",
+      "desc": "WASHER - 1/4\" lock",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 61.8,
+      "y": 78.41,
+      "partNo": "NSS",
+      "desc": "SWITCH (See Kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 82.77,
+      "y": 25.52,
+      "partNo": "NSS",
+      "desc": "KNOB - switch (See Kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 78.37,
+      "y": 29.74,
+      "partNo": "B 50224",
+      "desc": "NUT - stitch",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 70.48,
+      "y": 30.18,
+      "partNo": "10927",
+      "desc": "SPRING - terminal",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 74.87,
+      "y": 29.53,
+      "partNo": "NSS",
+      "desc": "BODY",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 83.55,
+      "y": 54.4,
+      "partNo": "B 50293",
+      "desc": "TERMINAL - wire",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 68.0,
+      "y": 82.31,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 68.0,
+      "y": 75.28,
+      "partNo": "192-23",
+      "desc": "WASHER - 1/2\" lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 67.77,
+      "y": 68.68,
+      "partNo": "10923",
+      "desc": "WASHER - bearing",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 18.62,
+      "y": 58.08,
+      "partNo": "113-209",
+      "desc": "BOLT - 3/8 x 1-1/2\" NC hex, zinc plated",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 19.07,
+      "y": 72.68,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" zinc plated",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 17.94,
+      "y": 80.58,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC hex, zinc plated",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 36.2,
+      "y": 68.03,
+      "partNo": "A 34046",
+      "desc": "BRACKET - mounting, tail lamp",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "A 43182 — KIT - switch (includes knob) (Req'd 1)"
+}

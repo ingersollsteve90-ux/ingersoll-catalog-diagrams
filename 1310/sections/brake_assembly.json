@@ -1,0 +1,266 @@
+{
+  "sectionTitle": "Brake Assembly",
+  "breadcrumb": "Brake Assembly",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/brake_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 27.17,
+      "y": 63.43,
+      "partNo": "NSS",
+      "desc": "DRUM - brake (on transaxle) (order C22048 Kit)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 16.62,
+      "y": 60.93,
+      "partNo": "126-16",
+      "desc": "KEY - Woodruff #9",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 35.56,
+      "y": 62.63,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16\" x 3/8\" knurled cup point",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 17.53,
+      "y": 37.12,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16\" x 3/8\" knurled cup point",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 42.59,
+      "y": 57.05,
+      "partNo": "C 21994",
+      "desc": "BAND ASSEMBLY - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 56.09,
+      "y": 46.92,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "7"
+    },
+    {
+      "ref": 5,
+      "x": 36.13,
+      "y": 43.39,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "7"
+    },
+    {
+      "ref": 5,
+      "x": 32.95,
+      "y": 31.31,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "7"
+    },
+    {
+      "ref": 5,
+      "x": 57.67,
+      "y": 29.83,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "7"
+    },
+    {
+      "ref": 5,
+      "x": 84.33,
+      "y": 35.98,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "7"
+    },
+    {
+      "ref": 5,
+      "x": 33.4,
+      "y": 10.24,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "7"
+    },
+    {
+      "ref": 6,
+      "x": 88.07,
+      "y": 33.14,
+      "partNo": "132-46",
+      "desc": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 53.14,
+      "y": 30.4,
+      "partNo": "132-46",
+      "desc": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 56.65,
+      "y": 43.39,
+      "partNo": "132-46",
+      "desc": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 24.67,
+      "y": 11.27,
+      "partNo": "132-46",
+      "desc": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 7,
+      "x": 38.05,
+      "y": 32.68,
+      "partNo": "L 32763",
+      "desc": "SPRING - compression",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 16.96,
+      "y": 33.14,
+      "partNo": "131-178",
+      "desc": "LOCKNUT - 3/8\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 46.11,
+      "y": 31.31,
+      "partNo": "131-178",
+      "desc": "LOCKNUT - 3/8\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 60.28,
+      "y": 47.37,
+      "partNo": "C 18988",
+      "desc": "LINK - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 73.21,
+      "y": 28.69,
+      "partNo": "C 18985",
+      "desc": "LINK - clutch, forward",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 64.37,
+      "y": 23.23,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC hex",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 58.24,
+      "y": 19.93,
+      "partNo": "C 19552",
+      "desc": "TURNBUCKLE - 3/8\" hex NC",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 47.47,
+      "y": 13.89,
+      "partNo": "C 18986",
+      "desc": "LINK - clutch, rear",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 51.21,
+      "y": 57.85,
+      "partNo": "C 16379",
+      "desc": "SPRING - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 74.69,
+      "y": 68.1,
+      "partNo": "C 18147",
+      "desc": "LEVER - brake lock",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 89.88,
+      "y": 56.03,
+      "partNo": "132-310",
+      "desc": "PIN - cotter",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 68.79,
+      "y": 76.19,
+      "partNo": "C 18983",
+      "desc": "PEDAL ASSEMBLY - brake/clutch",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 52.57,
+      "y": 83.48,
+      "partNo": "C 12975",
+      "desc": "WASHER - brake shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 48.26,
+      "y": 83.48,
+      "partNo": "132-336",
+      "desc": "PIN - cotter 1/8\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 28.07,
+      "y": 71.63,
+      "partNo": "C 22048",
+      "desc": "KIT - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 32.84,
+      "y": 90.54,
+      "partNo": "C 21587",
+      "desc": "DRUM ASSEMBLY - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 39.87,
+      "y": 90.88,
+      "partNo": "C 21584",
+      "desc": "BAND ASSEMBLY - brake",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

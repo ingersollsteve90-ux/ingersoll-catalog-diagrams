@@ -1,0 +1,282 @@
+{
+  "sectionTitle": "Crankshaft, Piston - Connecting Rod",
+  "breadcrumb": "Crankshaft, Piston - Connecting Rod",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/crankshaft_piston_rod.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 84.5,
+      "y": 16.13,
+      "partNo": "NSS",
+      "desc": "PISTON AND ROD ASSEMBLY (Std. size)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 71.21,
+      "y": 24.69,
+      "partNo": "KO 235287",
+      "desc": "RING SET - piston (For oversize, see item 16)",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 67.49,
+      "y": 16.03,
+      "partNo": "NSS",
+      "desc": "RING - top compression",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 66.48,
+      "y": 24.19,
+      "partNo": "NSS",
+      "desc": "RING - 2nd compression (Includes expander)",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 67.08,
+      "y": 35.77,
+      "partNo": "NSS",
+      "desc": "RING - oil (Includes expander)",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 42.12,
+      "y": 51.27,
+      "partNo": "KOA 235611",
+      "desc": "PISTON ASSEMBLY (For oversize, see item 15)",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 46.04,
+      "y": 47.34,
+      "partNo": "KO 235004",
+      "desc": "RETAINER - piston pin",
+      "reqd": "2"
+    },
+    {
+      "ref": 7,
+      "x": 71.41,
+      "y": 49.86,
+      "partNo": "KO 235004",
+      "desc": "RETAINER - piston pin",
+      "reqd": "2"
+    },
+    {
+      "ref": 8,
+      "x": 46.04,
+      "y": 54.79,
+      "partNo": "NSS",
+      "desc": "PIN - piston",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 46.04,
+      "y": 49.46,
+      "partNo": "NSS",
+      "desc": "PISTON",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 41.11,
+      "y": 88.52,
+      "partNo": "KOA 235139",
+      "desc": "CONNECTING ROD AND ASSEMBLY (For undersize, see item 18)",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 45.14,
+      "y": 84.19,
+      "partNo": "KO 235003",
+      "desc": "WASHER - special",
+      "reqd": "2"
+    },
+    {
+      "ref": 12,
+      "x": 44.84,
+      "y": 86.41,
+      "partNo": "92-6",
+      "desc": "LOCKWASHER",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 45.44,
+      "y": 90.23,
+      "partNo": "C 22698",
+      "desc": "SCREW - cap, connecting rod",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 45.44,
+      "y": 93.46,
+      "partNo": "NSS",
+      "desc": "ROD - connecting",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 54.7,
+      "y": 64.56,
+      "partNo": "NSS",
+      "desc": "ROD - connecting",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 41.92,
+      "y": 48.65,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "KOA 235567",
+          "desc": "PISTON ASSEMBLY - .003 oversize",
+          "reqd": "1"
+        },
+        {
+          "serialNote": null,
+          "partNo": "KOA 235569",
+          "desc": "PISTON ASSEMBLY - .010\" oversize",
+          "reqd": "1"
+        },
+        {
+          "serialNote": null,
+          "partNo": "KOA 235571",
+          "desc": "PISTON ASSEMBLY - .020\" oversize",
+          "reqd": "1"
+        },
+        {
+          "serialNote": null,
+          "partNo": "KOA 235616",
+          "desc": "PISTON ASSEMBLY - .030\" oversize",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 42.02,
+      "y": 27.61,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "KO 235468",
+          "desc": "RING SET - piston - .010\" oversize",
+          "reqd": "1"
+        },
+        {
+          "serialNote": null,
+          "partNo": "KO 235289",
+          "desc": "RING SET - piston - .020\" oversize",
+          "reqd": "1"
+        },
+        {
+          "serialNote": null,
+          "partNo": "KO 235290",
+          "desc": "RING SET - piston - .030\" oversize",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 45.84,
+      "y": 56.41,
+      "partNo": "NSS",
+      "desc": "PIN - piston, .005\" oversize",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 36.98,
+      "y": 81.37,
+      "partNo": "C 18101",
+      "desc": "CONNECTING ROD ASSEMBLY - .010\" undersize",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 42.62,
+      "y": 58.92,
+      "partNo": "R 16287",
+      "desc": "OIL SEAL - crankshaft rear",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 47.35,
+      "y": 61.04,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft ball",
+      "reqd": "2"
+    },
+    {
+      "ref": 20,
+      "x": 80.47,
+      "y": 76.84,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft ball",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 50.77,
+      "y": 62.65,
+      "partNo": "W 5063-S",
+      "desc": "KEY - 1/4\" Sq. x 3/4\" (Pump Coupling)",
+      "reqd": "1"
+    },
+    {
+      "ref": 22,
+      "x": 63.46,
+      "y": 68.69,
+      "partNo": "KOB 236364",
+      "desc": "CRANKSHAFT",
+      "reqd": "1"
+    },
+    {
+      "ref": 23,
+      "x": 70.5,
+      "y": 72.21,
+      "partNo": "A 27001",
+      "desc": "KEY - flat 3/16\" x 3/16\" x 1-3/8\" (Flywheel)",
+      "reqd": "1"
+    },
+    {
+      "ref": 24,
+      "x": 86.91,
+      "y": 79.56,
+      "partNo": "C 18097",
+      "desc": "OIL SEAL - crankshaft front",
+      "reqd": "1"
+    },
+    {
+      "ref": 25,
+      "x": 90.13,
+      "y": 80.97,
+      "partNo": "195-545",
+      "desc": "WASHER - 5/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 26,
+      "x": 92.65,
+      "y": 82.68,
+      "partNo": "131-309",
+      "desc": "NUT - special Marsden 5/8\" NF",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

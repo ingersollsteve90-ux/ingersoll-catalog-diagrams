@@ -1,0 +1,26 @@
+{
+  "sectionTitle": "Fuel Pump",
+  "breadcrumb": "Fuel Pump",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/fuel_pump.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 44.31,
+      "y": 49.16,
+      "partNo": "KO 230675",
+      "desc": "KIT - fuel pump for KOA235845 pump",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 70.77,
+      "y": 59.94,
+      "partNo": "A 72108",
+      "desc": "GASKET - fuel pump mounting",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "NSS — SPRING - fuel pump valve (Req'd 2) | NSS — VALVE (Req'd 2) | NSS — GASKET - valve (Req'd 1) | NSS — DIAPHRAGM ASSEMBLY (Req'd 1)"
+}

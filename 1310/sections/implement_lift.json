@@ -1,0 +1,122 @@
+{
+  "sectionTitle": "Implement Lift",
+  "breadcrumb": "Implement Lift",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/implement_lift.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 49.55,
+      "y": 91.6,
+      "partNo": "C 18809",
+      "desc": "LEVER ASSEMBLY - implement lift",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 66.39,
+      "y": 95.3,
+      "partNo": "219-404",
+      "desc": "FITTING - lube 45°",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 40.43,
+      "y": 65.9,
+      "partNo": "C 17281",
+      "desc": "SPACER - latch",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 32.22,
+      "y": 65.3,
+      "partNo": "C 18811",
+      "desc": "LIFT - latch",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 29.31,
+      "y": 75.7,
+      "partNo": "164-42",
+      "desc": "SCREW - 5/16 x 1-1/4\" flat head socket",
+      "reqd": "2"
+    },
+    {
+      "ref": 6,
+      "x": 76.81,
+      "y": 68.7,
+      "partNo": "C 17249",
+      "desc": "BRACKET - mounting top",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 77.01,
+      "y": 90.2,
+      "partNo": "C 17250",
+      "desc": "BRACKET - mounting bottom",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 77.11,
+      "y": 95.3,
+      "partNo": "13-614",
+      "desc": "BOLT - 3/8 x 7/8\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 9,
+      "x": 76.41,
+      "y": 62.6,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 10,
+      "x": 45.44,
+      "y": 89.0,
+      "partNo": "138-2054",
+      "desc": "PIN - spirol 5/16 x 1-3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 43.14,
+      "y": 52.0,
+      "partNo": "C 15564",
+      "desc": "SPRING - lift lever",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 55.17,
+      "y": 45.9,
+      "partNo": "195-521",
+      "desc": "WASHER - 3/8 x 11/16\" OD",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 30.71,
+      "y": 33.6,
+      "partNo": "C 17067",
+      "desc": "ROD - lift lever, push",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 28.81,
+      "y": 24.9,
+      "partNo": "C 14525",
+      "desc": "BUTTON - thumb",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "Ref 15: 138-2054 — PIN - spirol 5/16 x 1-3/4\" (Req'd 1) — no diagram callout circle for this ref; listed in the parts table only."
+}

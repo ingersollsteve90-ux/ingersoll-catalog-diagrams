@@ -1,0 +1,200 @@
+{
+  "sectionTitle": "Engine Gasket and Seal Kit",
+  "breadcrumb": "Engine Gasket and Seal Kit",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/engine_gasket_seal_kit.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 67.84,
+      "y": 45.61,
+      "partNo": "KO 235165",
+      "desc": "KIT - engine gasket",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 45.82,
+      "y": 22.0,
+      "partNo": "R 16287",
+      "desc": "SEAL - crankshaft, rear",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 11.96,
+      "y": 69.32,
+      "partNo": "R 16287",
+      "desc": "SEAL - crankshaft, rear",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 67.95,
+      "y": 24.74,
+      "partNo": "KO 235025",
+      "desc": "GASKET - camshaft cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 20.33,
+      "y": 87.86,
+      "partNo": "KO 235025",
+      "desc": "GASKET - camshaft cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 64.96,
+      "y": 31.12,
+      "partNo": "KO 235353",
+      "desc": "GASKET - oil pan",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 43.55,
+      "y": 85.03,
+      "partNo": "KO 235353",
+      "desc": "GASKET - oil pan",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 47.02,
+      "y": 25.04,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "KO 235757",
+          "desc": "GASKET - shim, bearing plate (.010\")",
+          "reqd": "6"
+        },
+        {
+          "serialNote": null,
+          "partNo": "KO 235070",
+          "desc": "GASKET - shim (.010\")",
+          "reqd": "UAR"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 56.11,
+      "y": 70.54,
+      "variants": [
+        {
+          "serialNote": null,
+          "partNo": "KO 235757",
+          "desc": "GASKET - shim, bearing plate (.010\")",
+          "reqd": "6"
+        },
+        {
+          "serialNote": null,
+          "partNo": "KO 235070",
+          "desc": "GASKET - shim (.010\")",
+          "reqd": "UAR"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 65.08,
+      "y": 16.13,
+      "partNo": "C 18097",
+      "desc": "SEAL - crankshaft, front",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 78.48,
+      "y": 81.38,
+      "partNo": "C 18097",
+      "desc": "SEAL - crankshaft, front",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 86.86,
+      "y": 20.38,
+      "partNo": "KO 220174",
+      "desc": "GASKET - breaker cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 83.63,
+      "y": 22.0,
+      "partNo": "A 72100",
+      "desc": "GASKET - carburetor flange",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 79.68,
+      "y": 22.61,
+      "partNo": "A 72108",
+      "desc": "GASKET - fuel pump flange",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 76.45,
+      "y": 24.84,
+      "partNo": "KO 275341",
+      "desc": "GASKET - carburetor air horn",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 85.42,
+      "y": 33.25,
+      "partNo": "KO 235048",
+      "desc": "GASKET - breather plate",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 82.31,
+      "y": 35.38,
+      "partNo": "KO 275144",
+      "desc": "GASKET - valve cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 60.18,
+      "y": 24.23,
+      "partNo": "B 53393",
+      "desc": "GASKET - fuel strainer bowl (not used)",
+      "reqd": "1"
+    },
+    {
+      "ref": 14,
+      "x": 83.27,
+      "y": 39.83,
+      "partNo": "KO 235057",
+      "desc": "GASKET - pan (not used)",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 63.05,
+      "y": 26.56,
+      "partNo": "KO 236705",
+      "desc": "GASKET - cylinder head",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 44.98,
+      "y": 55.44,
+      "partNo": "KO 236705",
+      "desc": "GASKET - cylinder head",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

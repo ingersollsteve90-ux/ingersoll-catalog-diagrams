@@ -1,0 +1,130 @@
+{
+  "sectionTitle": "Breaker Contacts",
+  "breadcrumb": "Breaker Contacts",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/breaker_contacts.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 54.56,
+      "y": 38.28,
+      "partNo": "KOA231533",
+      "desc": "LEAD - breaker contact (Includes grommet)",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 54.9,
+      "y": 45.85,
+      "partNo": "KO 220297",
+      "desc": "GROMMET - contact lead",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 46.05,
+      "y": 63.9,
+      "partNo": "173-210",
+      "desc": "SCREW - #10 x 3/8\" round head, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 3,
+      "x": 74.42,
+      "y": 74.89,
+      "partNo": "173-210",
+      "desc": "SCREW - #10 x 3/8\" round head, zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 49.23,
+      "y": 60.37,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - 3/16\" zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 4,
+      "x": 77.71,
+      "y": 70.35,
+      "partNo": "192-18",
+      "desc": "LOCKWASHER - 3/16\" zinc plated",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 65.12,
+      "y": 85.98,
+      "partNo": "KO 232535",
+      "desc": "COVER - breaker contact",
+      "reqd": "1"
+    },
+    {
+      "ref": 6,
+      "x": 70.0,
+      "y": 81.04,
+      "partNo": "KO 220174",
+      "desc": "GASKET - cover",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 81.0,
+      "y": 66.02,
+      "partNo": "187-408",
+      "desc": "SCREW - #6 x 3/8\" Self-Tapping",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 76.35,
+      "y": 22.85,
+      "partNo": "173-224",
+      "desc": "SCREW - #8 x 1/4\" NC round head",
+      "reqd": "1"
+    },
+    {
+      "ref": 9,
+      "x": 79.87,
+      "y": 27.19,
+      "partNo": "193-5",
+      "desc": "LOCKWASHER - #8 internal tooth",
+      "reqd": "1"
+    },
+    {
+      "ref": 10,
+      "x": 82.93,
+      "y": 29.71,
+      "partNo": "KO 220980",
+      "desc": "POINT SET - breaker contact",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 85.66,
+      "y": 33.74,
+      "partNo": "KOA220981",
+      "desc": "BRACKET - breaker contact",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 88.72,
+      "y": 37.37,
+      "partNo": "KOX 489-1",
+      "desc": "ROD - breaker contact push",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 61.71,
+      "y": 23.86,
+      "partNo": "KO 275182",
+      "desc": "CLIP - wire",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

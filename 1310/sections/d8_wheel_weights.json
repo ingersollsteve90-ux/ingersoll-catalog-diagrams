@@ -1,0 +1,42 @@
+{
+  "sectionTitle": "D8 Wheel Weights",
+  "breadcrumb": "D8 Wheel Weights",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/d8_wheel_weights.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 55.2,
+      "y": 72.94,
+      "partNo": "NSS",
+      "desc": "WEIGHT - wheel 12\" (Order as Machinery Item)",
+      "reqd": "4"
+    },
+    {
+      "ref": 2,
+      "x": 96.11,
+      "y": 32.37,
+      "partNo": "111-532",
+      "desc": "BOLT - 1/2 x 3/4\" round head, square neck, NC, zinc plated",
+      "reqd": "8"
+    },
+    {
+      "ref": 3,
+      "x": 24.91,
+      "y": 69.92,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "8"
+    },
+    {
+      "ref": 4,
+      "x": 21.26,
+      "y": 74.56,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC hex",
+      "reqd": "8"
+    }
+  ],
+  "footnotes": ""
+}

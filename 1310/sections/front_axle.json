@@ -1,0 +1,274 @@
+{
+  "sectionTitle": "Front Axle",
+  "breadcrumb": "Front Axle",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/front_axle.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 48.5,
+      "y": 34.04,
+      "partNo": "C 18812",
+      "desc": "AXLE - front",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 81.58,
+      "y": 52.9,
+      "partNo": "C 18777",
+      "desc": "SPINDLE - left hand",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 34.3,
+      "y": 71.76,
+      "partNo": "C 18779",
+      "desc": "SPINDLE - right hand",
+      "reqd": "1"
+    },
+    {
+      "ref": 4,
+      "x": 54.83,
+      "y": 67.22,
+      "partNo": "138-99",
+      "desc": "PIN - roll",
+      "reqd": "2"
+    },
+    {
+      "ref": 5,
+      "x": 38.41,
+      "y": 39.28,
+      "partNo": "C 11906",
+      "desc": "WASHER - thrust",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 38.99,
+      "y": 50.38,
+      "partNo": "C 11906",
+      "desc": "WASHER - thrust",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 78.18,
+      "y": 29.7,
+      "partNo": "C 11906",
+      "desc": "WASHER - thrust",
+      "reqd": "4"
+    },
+    {
+      "ref": 5,
+      "x": 80.06,
+      "y": 39.79,
+      "partNo": "C 11906",
+      "desc": "WASHER - thrust",
+      "reqd": "4"
+    },
+    {
+      "ref": 6,
+      "x": 57.29,
+      "y": 61.77,
+      "partNo": "219-404",
+      "desc": "FITTING - lube",
+      "reqd": "1"
+    },
+    {
+      "ref": 7,
+      "x": 61.17,
+      "y": 65.2,
+      "partNo": "C 13106",
+      "desc": "COVER - lube fitting",
+      "reqd": "3"
+    },
+    {
+      "ref": 7,
+      "x": 52.48,
+      "y": 26.78,
+      "partNo": "C 13106",
+      "desc": "COVER - lube fitting",
+      "reqd": "3"
+    },
+    {
+      "ref": 8,
+      "x": 31.37,
+      "y": 92.13,
+      "partNo": "132-311",
+      "desc": "PIN - cotter 5/32 x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 9,
+      "x": 20.92,
+      "y": 79.42,
+      "partNo": "C 12975",
+      "desc": "WASHER - wheel spindle",
+      "reqd": "2"
+    },
+    {
+      "ref": 10,
+      "x": 23.86,
+      "y": 77.21,
+      "partNo": "A 30881",
+      "desc": "WASHER - wheel spacer",
+      "reqd": "6"
+    },
+    {
+      "ref": 11,
+      "x": 84.4,
+      "y": 43.62,
+      "partNo": "187-1046",
+      "desc": "BOLT - 3/8\" NC idented hex head",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 76.54,
+      "y": 83.96,
+      "partNo": "C 21530",
+      "desc": "TIE ROD",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 10.48,
+      "y": 50.68,
+      "partNo": "C 21526",
+      "desc": "BALL JOINT - 1/2\" R.H. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 50.49,
+      "y": 80.53,
+      "partNo": "C 21526",
+      "desc": "BALL JOINT - 1/2\" R.H. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 40.05,
+      "y": 95.06,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "3"
+    },
+    {
+      "ref": 14,
+      "x": 28.79,
+      "y": 62.99,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "3"
+    },
+    {
+      "ref": 14,
+      "x": 94.84,
+      "y": 77.0,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" zinc plated",
+      "reqd": "3"
+    },
+    {
+      "ref": 15,
+      "x": 29.61,
+      "y": 67.12,
+      "partNo": "129-125",
+      "desc": "NUT - 1/2\" NF hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 15,
+      "x": 57.29,
+      "y": 95.97,
+      "partNo": "129-125",
+      "desc": "NUT - 1/2\" NF hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 15,
+      "x": 87.8,
+      "y": 80.74,
+      "partNo": "129-125",
+      "desc": "NUT - 1/2\" NF hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 15,
+      "x": 20.1,
+      "y": 32.83,
+      "partNo": "129-125",
+      "desc": "NUT - 1/2\" NF hex R.H. thread",
+      "reqd": "6"
+    },
+    {
+      "ref": 16,
+      "x": 89.32,
+      "y": 53.3,
+      "partNo": "C 21527",
+      "desc": "BALL JOINT - 1/2\" L.H. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": 16,
+      "x": 35.94,
+      "y": 46.55,
+      "partNo": "C 21527",
+      "desc": "BALL JOINT - 1/2\" L.H. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 31.6,
+      "y": 43.02,
+      "partNo": "129-325",
+      "desc": "NUT - 1/2\" NF hex L.H. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": 17,
+      "x": 82.99,
+      "y": 77.0,
+      "partNo": "129-325",
+      "desc": "NUT - 1/2\" NF hex L.H. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": 18,
+      "x": 19.28,
+      "y": 55.32,
+      "partNo": "C 21528",
+      "desc": "ROD - drag link",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 65.62,
+      "y": 59.66,
+      "partNo": "C 22568",
+      "desc": "TUBE - axle pivot",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 54.71,
+      "y": 32.83,
+      "partNo": "219-17",
+      "desc": "FITTING - lube",
+      "reqd": "2"
+    },
+    {
+      "ref": 21,
+      "x": 76.54,
+      "y": 53.81,
+      "partNo": "C 22278",
+      "desc": "PIN - retaining",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

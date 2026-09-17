@@ -1,0 +1,466 @@
+{
+  "sectionTitle": "Drive Pulleys, Idlers and Jackshaft",
+  "breadcrumb": "Drive Pulleys, Idlers and Jackshaft",
+  "catalogLabel": "Catalog 1310",
+  "modelNumbers": "Catalog 1310 — Case Model 210 Compact Tractor, S/N 9686282 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1310/drive_pulleys_idlers_jackshaft.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 78.43,
+      "y": 78.78,
+      "partNo": "C 23522",
+      "desc": "PULLEY - engine",
+      "reqd": "1"
+    },
+    {
+      "ref": 2,
+      "x": 73.51,
+      "y": 79.29,
+      "partNo": "W 5063-S",
+      "desc": "KEY - square 1/2\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 3,
+      "x": 76.12,
+      "y": 76.98,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16\" x 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 64.38,
+      "y": 91.95,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16\" x 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 28.86,
+      "y": 21.5,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16\" x 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 31.97,
+      "y": 28.13,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16\" x 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 3,
+      "x": 47.12,
+      "y": 16.48,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16\" x 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": 4,
+      "x": 48.72,
+      "y": 90.04,
+      "partNo": "C 19869",
+      "desc": "GUARD - belt",
+      "reqd": "1"
+    },
+    {
+      "ref": 5,
+      "x": 48.32,
+      "y": 81.7,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+      "reqd": "6"
+    },
+    {
+      "ref": 5,
+      "x": 49.83,
+      "y": 58.38,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+      "reqd": "6"
+    },
+    {
+      "ref": 6,
+      "x": 50.43,
+      "y": 82.6,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "6"
+    },
+    {
+      "ref": 6,
+      "x": 45.61,
+      "y": 60.29,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "6"
+    },
+    {
+      "ref": 6,
+      "x": 62.87,
+      "y": 54.87,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "6"
+    },
+    {
+      "ref": 6,
+      "x": 27.35,
+      "y": 70.75,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "6"
+    },
+    {
+      "ref": 7,
+      "x": 19.72,
+      "y": 68.53,
+      "partNo": "C 18974",
+      "desc": "BRACKET - drive idler mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": 8,
+      "x": 43.21,
+      "y": 80.59,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" x 1-1/4\" NC hex",
+      "reqd": "3"
+    },
+    {
+      "ref": 8,
+      "x": 46.12,
+      "y": 79.09,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" x 1-1/4\" NC hex",
+      "reqd": "3"
+    },
+    {
+      "ref": 8,
+      "x": 59.16,
+      "y": 56.47,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" x 1-1/4\" NC hex",
+      "reqd": "3"
+    },
+    {
+      "ref": 9,
+      "x": 48.72,
+      "y": 77.28,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "UAR"
+    },
+    {
+      "ref": 9,
+      "x": 58.86,
+      "y": 72.65,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "UAR"
+    },
+    {
+      "ref": 9,
+      "x": 67.99,
+      "y": 67.13,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "UAR"
+    },
+    {
+      "ref": 9,
+      "x": 36.28,
+      "y": 85.72,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "UAR"
+    },
+    {
+      "ref": 10,
+      "x": 58.66,
+      "y": 74.87,
+      "partNo": "NSS",
+      "desc": "KEEPER - belt (no longer required)",
+      "reqd": "1"
+    },
+    {
+      "ref": 11,
+      "x": 65.98,
+      "y": 70.75,
+      "partNo": "C 18966",
+      "desc": "PULLEY - idler, flat",
+      "reqd": "1"
+    },
+    {
+      "ref": 12,
+      "x": 41.8,
+      "y": 85.62,
+      "partNo": "C 23531",
+      "desc": "PULLEY - idler V-groove",
+      "reqd": "1"
+    },
+    {
+      "ref": 13,
+      "x": 26.35,
+      "y": 73.46,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 13,
+      "x": 49.73,
+      "y": 60.7,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": 14,
+      "x": 89.76,
+      "y": 45.72,
+      "partNo": "C 23530",
+      "desc": "ARM AND BUSHING ASSEMBLY - belt tension, idler (used S/N 9686461 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": 15,
+      "x": 62.27,
+      "y": 48.54,
+      "partNo": "195-2069",
+      "desc": "WASHER - 5/8\" flat",
+      "reqd": "1"
+    },
+    {
+      "ref": 16,
+      "x": 58.86,
+      "y": 45.72,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": 17,
+      "x": 68.79,
+      "y": 50.24,
+      "partNo": "C 15672",
+      "desc": "PULLEY - idler, flat",
+      "reqd": "1"
+    },
+    {
+      "ref": 18,
+      "x": 65.48,
+      "y": 53.06,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" flat",
+      "reqd": "1"
+    },
+    {
+      "ref": 19,
+      "x": 79.63,
+      "y": 38.69,
+      "partNo": "C 19553",
+      "desc": "SPRING - idler (used S/N 9686461 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": 20,
+      "x": 90.97,
+      "y": 28.64,
+      "partNo": "C 23516",
+      "desc": "PULLEY - V-groove (used S/N 9686461 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": 21,
+      "x": 31.46,
+      "y": 18.29,
+      "partNo": "126-16",
+      "desc": "KEY - Woodruff #9 (used prior to S/N 9686461)",
+      "reqd": "2"
+    },
+    {
+      "ref": 22,
+      "x": 40.09,
+      "y": 49.94,
+      "partNo": "111-202",
+      "desc": "BOLT - round head, square neck 5/16\" x 3/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 22,
+      "x": 78.53,
+      "y": 10.04,
+      "partNo": "111-202",
+      "desc": "BOLT - round head, square neck 5/16\" x 3/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 23,
+      "x": 55.05,
+      "y": 26.63,
+      "partNo": "C 15514",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": 23,
+      "x": 74.01,
+      "y": 18.19,
+      "partNo": "C 15514",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": 24,
+      "x": 77.22,
+      "y": 35.57,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 24,
+      "x": 70.2,
+      "y": 14.97,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "4"
+    },
+    {
+      "ref": 25,
+      "x": 79.63,
+      "y": 32.46,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 25,
+      "x": 67.59,
+      "y": 15.37,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex",
+      "reqd": "4"
+    },
+    {
+      "ref": 26,
+      "x": 85.45,
+      "y": 28.13,
+      "partNo": "C 21681",
+      "desc": "BEARING - 3/4\" bore",
+      "reqd": "2"
+    },
+    {
+      "ref": 26,
+      "x": 61.77,
+      "y": 38.49,
+      "partNo": "C 21681",
+      "desc": "BEARING - 3/4\" bore",
+      "reqd": "2"
+    },
+    {
+      "ref": 27,
+      "x": 64.68,
+      "y": 23.41,
+      "partNo": "C 21795",
+      "desc": "LOCKING COLLAR AND SETSCREW",
+      "reqd": "2"
+    },
+    {
+      "ref": 27,
+      "x": 60.26,
+      "y": 26.02,
+      "partNo": "C 21795",
+      "desc": "LOCKING COLLAR AND SETSCREW",
+      "reqd": "2"
+    },
+    {
+      "ref": 28,
+      "x": 27.45,
+      "y": 52.56,
+      "partNo": "C 23467",
+      "desc": "JACKSHAFT ASSEMBLY (used S/N 9686461 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": 29,
+      "x": 27.35,
+      "y": 24.42,
+      "partNo": "C 18968",
+      "desc": "PULLEY - V-groove (used prior to S/N 9686461)",
+      "reqd": "1"
+    },
+    {
+      "ref": 30,
+      "x": 41.6,
+      "y": 46.73,
+      "partNo": "C 19688",
+      "desc": "KEEPER - belt",
+      "reqd": "1"
+    },
+    {
+      "ref": 31,
+      "x": 43.51,
+      "y": 44.31,
+      "partNo": "138-2040",
+      "desc": "PIN - roll 1/4\" x 1-1/4\" (used S/N 9686461 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": 32,
+      "x": 35.88,
+      "y": 16.48,
+      "partNo": "C 23452",
+      "desc": "PULLEY - V-groove (used prior to S/N 9686461)",
+      "reqd": "1"
+    },
+    {
+      "ref": 33,
+      "x": 32.57,
+      "y": 21.3,
+      "partNo": "C 18981",
+      "desc": "JACKSHAFT - (used prior to S/N 9686461)",
+      "reqd": "1"
+    },
+    {
+      "ref": 34,
+      "x": 90.87,
+      "y": 58.48,
+      "partNo": "C 18969",
+      "desc": "ARM - belt tension idler (used prior to S/N 9686461)",
+      "reqd": "1"
+    },
+    {
+      "ref": 35,
+      "x": 80.63,
+      "y": 65.42,
+      "partNo": "C 18980",
+      "desc": "SPRING - idler (no longer required)",
+      "reqd": "1"
+    },
+    {
+      "ref": 36,
+      "x": 39.09,
+      "y": 36.78,
+      "partNo": "NSS",
+      "desc": "SPACER - jackshaft",
+      "reqd": "1"
+    },
+    {
+      "ref": 37,
+      "x": 84.65,
+      "y": 38.59,
+      "partNo": "C 23529",
+      "desc": "BUSHING - idler pivot (included in idler arm)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "C 23532 - KIT - traction drive (required on all unmodified 210 tractors S/N 9686461 thru S/N 9701395) includes items 1, 2, 14, 20, 27, 28 and 31 . . . 1 (printed as an unnumbered line below ref 37, no REF number assigned in source)"
+}
