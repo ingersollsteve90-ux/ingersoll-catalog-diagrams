@@ -1,0 +1,128 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 53.64,
+   "y": 8.54,
+   "partNo": "321-2501",
+   "desc": "DECAL - hood L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 29.74,
+   "y": 49.48,
+   "variants": [
+    {
+     "serialNote": "used S/N 9679207 and after",
+     "partNo": "321-2625",
+     "desc": "DECAL - instrument panel (used S/N 9679207 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "used prior to S/N 9679207",
+     "partNo": "321-2503",
+     "desc": "DECAL - instrument panel (used prior to S/N 9679207)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 80.95,
+   "y": 73.09,
+   "partNo": "321-4767",
+   "desc": "DECAL - hydraulic reservoir",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 84.37,
+   "y": 80.43,
+   "partNo": "321-6227",
+   "desc": "DECAL - parking brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 11.3,
+   "y": 38.42,
+   "partNo": "321-2111",
+   "desc": "DECAL - attachment drive (used prior to S/N 9679207)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 54.21,
+   "y": 25.02,
+   "partNo": "321-2500",
+   "desc": "DECAL - hood R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 73.22,
+   "y": 91.81,
+   "partNo": "321-1786",
+   "desc": "DECAL - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 71.51,
+   "y": 77.56,
+   "partNo": "321-1788",
+   "desc": "DECAL - shift range",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 74.47,
+   "y": 48.63,
+   "variants": [
+    {
+     "serialNote": "used S/N 9679207 and after",
+     "partNo": "321-1423",
+     "desc": "DECAL - \"CASE\" (used S/N 9679207 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "used prior to S/N 9679207",
+     "partNo": "321-6379",
+     "desc": "DECAL - \"CASE\" (used prior to S/N 9679207)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 87.67,
+   "y": 93.62,
+   "partNo": "321-2658",
+   "desc": "DECAL - float",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 14.72,
+   "y": 24.07,
+   "partNo": "321-2487",
+   "desc": "DECAL - \"Caution\" (used prior to S/N 9679207)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 81.98,
+   "y": 67.67,
+   "partNo": "321-18",
+   "desc": "DECAL - gasoline",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

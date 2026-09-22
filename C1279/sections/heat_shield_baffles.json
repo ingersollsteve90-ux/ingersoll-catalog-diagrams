@@ -1,0 +1,66 @@
+{
+ "sectionTitle": "Heat Shield and Baffles",
+ "breadcrumb": "Heat Shield and Baffles",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/heat_shield_baffles.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 24.28,
+   "y": 78.72,
+   "partNo": "C18886",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 62.27,
+   "y": 8.45,
+   "partNo": "C19260",
+   "desc": "BAFFLE - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 42.67,
+   "y": 35.68,
+   "partNo": "353-495",
+   "desc": "BUSHING",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 9.79,
+   "y": 54.13,
+   "partNo": "AD52ABS",
+   "desc": "RIVET - pop 5/32 x 1-1/4\" dome head",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 31.71,
+   "y": 15.37,
+   "partNo": "C19261",
+   "desc": "BAFFLE - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 42.79,
+   "y": 22.73,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4 x 1/2\" self-tapping",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 53.02,
+   "y": 21.96,
+   "partNo": "C19432",
+   "desc": "BAFFLE - point box",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

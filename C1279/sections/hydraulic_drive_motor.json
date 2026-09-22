@@ -1,0 +1,154 @@
+{
+ "sectionTitle": "Hydraulic Drive Motor",
+ "breadcrumb": "Hydraulic Drive Motor",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/hydraulic_drive_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 8.45,
+   "y": 74.38,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 15.93,
+   "y": 64.93,
+   "partNo": "C25048",
+   "desc": "SEAL - oil (See kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 82.35,
+   "y": 66.3,
+   "partNo": "C18382",
+   "desc": "SEAL - (See kit below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 37.3,
+   "y": 40.32,
+   "partNo": "C18382",
+   "desc": "SEAL - (See kit below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 70.88,
+   "y": 11.39,
+   "partNo": "C14831",
+   "desc": "ROTOR ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 74.98,
+   "y": 73.93,
+   "partNo": "C14836",
+   "desc": "SLEEVE",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 91.62,
+   "y": 47.73,
+   "partNo": "C14838",
+   "desc": "BOLT - 3/8\" x 4-3/8\" NF hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "11",
+   "x": 76.35,
+   "y": 3.99,
+   "partNo": "NSS",
+   "desc": "PLATE - manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 13.93,
+   "y": 67.55,
+   "partNo": "C19212",
+   "desc": "WASHER - back up, .010\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 11.51,
+   "y": 70.4,
+   "partNo": "C19040",
+   "desc": "SPACER - (See kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 62.25,
+   "y": 83.72,
+   "partNo": "D60857",
+   "desc": "COMMUTATOR AND RING SET",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 44.35,
+   "y": 35.77,
+   "partNo": "C14828",
+   "desc": "SHAFT - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 68.35,
+   "y": 79.96,
+   "partNo": "C19041",
+   "desc": "RING - sealing (See kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 59.19,
+   "y": 19.14,
+   "partNo": "C14830",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 53.19,
+   "y": 28.59,
+   "partNo": "C14829",
+   "desc": "DRIVE LINK",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 86.88,
+   "y": 61.17,
+   "partNo": "C14837",
+   "desc": "END CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 56.35,
+   "y": 90.9,
+   "partNo": "NSS",
+   "desc": "MANIFOLD",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 28.03,
+   "y": 51.37,
+   "partNo": "C14827",
+   "desc": "HOUSING ASSEMBLY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "MOTOR - hydraulic (C14655) — req'd 1\nKIT - manifold. (C24731) — req'd 1\nKIT - \"O\" ring and seal (includes ref. 2, 3, 6, 14 and 17) (C19037) — req'd 1"
+}

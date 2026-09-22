@@ -1,0 +1,390 @@
+{
+ "sectionTitle": "Piston, Crankshaft, Flywheel and Camshaft",
+ "breadcrumb": "Piston, Crankshaft, Flywheel and Camshaft",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/piston_crankshaft_flywheel_camshaft.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 84.23,
+   "y": 31.97,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 6 (see Notes below)",
+     "partNo": "C23311",
+     "desc": "RING SET - piston, (standard)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 2 of 6 (see Notes below)",
+     "partNo": "C23312",
+     "desc": "RING SET - piston, (.005\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 3 of 6 (see Notes below)",
+     "partNo": "C23313",
+     "desc": "RING SET - piston, (.010\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 4 of 6 (see Notes below)",
+     "partNo": "C23314",
+     "desc": "RING SET - piston, (.020\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 5 of 6 (see Notes below)",
+     "partNo": "C23315",
+     "desc": "RING SET - piston, (.030\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 6 of 6 (see Notes below)",
+     "partNo": "C23316",
+     "desc": "RING SET - piston, (.040\" oversize)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 26.76,
+   "y": 21.2,
+   "partNo": "C22260",
+   "desc": "CUP - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 59.43,
+   "y": 17.09,
+   "partNo": "C23304",
+   "desc": "CAMSHAFT - (includes C 20233 pin)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 55.38,
+   "y": 38.82,
+   "partNo": "131-527",
+   "desc": "NUT - lock, connecting rod 5/16\" n.f. hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 55.84,
+   "y": 17.29,
+   "partNo": "C20233",
+   "desc": "PIN - camshaft center",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 75.3,
+   "y": 53.3,
+   "partNo": "C20212",
+   "desc": "BOLT - connecting rod, special 5/16\" n.f. hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 9.27,
+   "y": 66.21,
+   "partNo": "113-321",
+   "desc": "BOLT - 7/16\" x 4\" n.c. hex, flywheel mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 63.02,
+   "y": 69.73,
+   "partNo": "C20240",
+   "desc": "PIN - piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 15.06,
+   "y": 57.21,
+   "partNo": "C20222",
+   "desc": "SCREW - locking 5/16\" x 1/2\" n.c. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 13.67,
+   "y": 47.03,
+   "partNo": "C20215",
+   "desc": "SCREEN - flywheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 52.13,
+   "y": 18.27,
+   "partNo": "C20229",
+   "desc": "WASHER - thrust, camshaft gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 45.53,
+   "y": 42.92,
+   "partNo": "C20219",
+   "desc": "WASHER - retaining, crankshaft gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 45.07,
+   "y": 83.63,
+   "partNo": "C20227",
+   "desc": "FLYWHEEL - eng. (includes ring gear & magnet ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 36.61,
+   "y": 19.64,
+   "partNo": "C22263",
+   "desc": "SPACER - governor flyball",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 22.59,
+   "y": 83.24,
+   "partNo": "182-547",
+   "desc": "SCREW - locking 1/4 x 1/2\" n.c. hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "1",
+   "x": 56.07,
+   "y": 66.8,
+   "partNo": "126-13",
+   "desc": "KEY - woodruff 3/16\" x 3/4\", flywheel mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 15.29,
+   "y": 15.72,
+   "partNo": "C20226",
+   "desc": "GEAR - ring, flywheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 65.69,
+   "y": 32.36,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 4 (see Notes below)",
+     "partNo": "C20202",
+     "desc": "CONNECTING ROD ASSEMBLY - (standard) includes 17 and 18",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 2 of 4 (see Notes below)",
+     "partNo": "C20203",
+     "desc": "CONNECTING ROD ASSEMBLY - (.010\" undersize) includes 17 and 18",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 3 of 4 (see Notes below)",
+     "partNo": "C20204",
+     "desc": "CONNECTING ROD ASSEMBLY - (.020\" undersize) includes 17 and 18",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 4 of 4 (see Notes below)",
+     "partNo": "C20205",
+     "desc": "CONNECTING ROD ASSEMBLY - (.030\" undersize) includes 17 and 18",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 77.62,
+   "y": 59.56,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 4 (see Notes below)",
+     "partNo": "C20202",
+     "desc": "CONNECTING ROD ASSEMBLY - (standard) includes 17 and 18",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 2 of 4 (see Notes below)",
+     "partNo": "C20203",
+     "desc": "CONNECTING ROD ASSEMBLY - (.010\" undersize) includes 17 and 18",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 3 of 4 (see Notes below)",
+     "partNo": "C20204",
+     "desc": "CONNECTING ROD ASSEMBLY - (.020\" undersize) includes 17 and 18",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 4 of 4 (see Notes below)",
+     "partNo": "C20205",
+     "desc": "CONNECTING ROD ASSEMBLY - (.030\" undersize) includes 17 and 18",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "26",
+   "x": 72.18,
+   "y": 34.71,
+   "partNo": "C22500",
+   "desc": "CRANKSHAFT - engine",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 11.36,
+   "y": 59.56,
+   "partNo": "92-7",
+   "desc": "LOCKWASHER - 7/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 40.78,
+   "y": 46.06,
+   "partNo": "R13338",
+   "desc": "RETAINER - crankshaft gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 42.52,
+   "y": 17.48,
+   "partNo": "C22264",
+   "desc": "PLATE - governor flyball",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 31.17,
+   "y": 43.51,
+   "partNo": "C20223",
+   "desc": "RING - camshaft center pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 14.83,
+   "y": 82.45,
+   "partNo": "C20303",
+   "desc": "WASHER - 7/16\" flywheel mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 81.56,
+   "y": 51.34,
+   "partNo": "T25070",
+   "desc": "KEY - 1/4 x 1/4\" sq. x 2\", rear crankshaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 50.74,
+   "y": 47.43,
+   "partNo": "C22261",
+   "desc": "GEAR - camshaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 60.36,
+   "y": 74.63,
+   "partNo": "C20241",
+   "desc": "RETAINER - piston pin",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 65.11,
+   "y": 17.68,
+   "partNo": "126-9",
+   "desc": "KEY - woodruff 1/8\" x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 61.29,
+   "y": 64.45,
+   "partNo": "126-9",
+   "desc": "KEY - woodruff 1/8\" x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 50.4,
+   "y": 69.34,
+   "partNo": "C22262",
+   "desc": "GEAR - crankshaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 73.8,
+   "y": 84.41,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 6 (see Notes below)",
+     "partNo": "C23305",
+     "desc": "PISTON AND PIN ASSEMBLY - standard (includes item 14)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 2 of 6 (see Notes below)",
+     "partNo": "C23306",
+     "desc": "PISTON AND PIN ASSEMBLY - .005\" oversize (includes item 14)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 3 of 6 (see Notes below)",
+     "partNo": "C23307",
+     "desc": "PISTON AND PIN ASSEMBLY - .010\" oversize (includes item 14)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 4 of 6 (see Notes below)",
+     "partNo": "C23308",
+     "desc": "PISTON AND PIN ASSEMBLY - .020\" oversize (includes item 14)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 5 of 6 (see Notes below)",
+     "partNo": "C23309",
+     "desc": "PISTON AND PIN ASSEMBLY - .030\" oversize (includes item 14)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Option 6 of 6 (see Notes below)",
+     "partNo": "C23310",
+     "desc": "PISTON AND PIN ASSEMBLY - .040\" oversize (includes item 14)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 32.09,
+   "y": 21.2,
+   "partNo": "211-14",
+   "desc": "BALL - fly, governor",
+   "reqd": "5"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,242 @@
+{
+ "sectionTitle": "J-17 Hydraulic PTO Valve",
+ "breadcrumb": "J-17 Hydraulic PTO Valve",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/j17_hydraulic_pto_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 8.76,
+   "y": 39.15,
+   "partNo": "C11886",
+   "desc": "WASHER - detent spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 72.67,
+   "y": 58.69,
+   "partNo": "132-5",
+   "desc": "PIN - cotter 1/16\" x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 33.35,
+   "y": 27.96,
+   "partNo": "95-4",
+   "desc": "WASHER - plain 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 78.15,
+   "y": 32.75,
+   "partNo": "C19423",
+   "desc": "LEVER - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 26.69,
+   "y": 21.03,
+   "partNo": "75-48",
+   "desc": "SCREW - 1/4\" x 1/2\" rd. hd. machine",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 17.24,
+   "y": 14.28,
+   "partNo": "169-88",
+   "desc": "SCREW - bonnet 8-32 x 2-1/4\" fillister head",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 78.15,
+   "y": 43.94,
+   "partNo": "A55894",
+   "desc": "SHIM - .020\" thick",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "13",
+   "x": 9.29,
+   "y": 29.02,
+   "partNo": "C11901",
+   "desc": "PIN - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 80.62,
+   "y": 43.77,
+   "partNo": "221-1842",
+   "desc": "PLUG - relief 3/8\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 44.63,
+   "y": 65.61,
+   "partNo": "NSS",
+   "desc": "BODY AND SPOOL ASSEMBLY (Order C18281)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 61.71,
+   "y": 36.13,
+   "partNo": "A27891",
+   "desc": "\"O\" RING - relief seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 71.7,
+   "y": 85.86,
+   "partNo": "C19422",
+   "desc": "BRACKET - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 88.14,
+   "y": 61.53,
+   "partNo": "C12127",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "1",
+   "x": 13.7,
+   "y": 68.99,
+   "partNo": "C18281",
+   "desc": "VALVE - control",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 91.47,
+   "y": 71.3,
+   "partNo": "71-410",
+   "desc": "SCREW - 1/4\" x 5/8\" NC fillister head",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 8.65,
+   "y": 43.59,
+   "partNo": "C11887",
+   "desc": "CAP - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 77.61,
+   "y": 19.08,
+   "partNo": "A37247",
+   "desc": "KNOB - hand throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 74.49,
+   "y": 41.1,
+   "partNo": "T40189",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 65.47,
+   "y": 35.77,
+   "partNo": "C18417",
+   "desc": "SEAT - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 47.21,
+   "y": 59.75,
+   "partNo": "C11891",
+   "desc": "SEAL - U-cup",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 64.93,
+   "y": 77.34,
+   "partNo": "C11891",
+   "desc": "SEAL - U-cup",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 76.0,
+   "y": 46.08,
+   "partNo": "D39712",
+   "desc": "SHIM - .010\" thick",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "23",
+   "x": 68.48,
+   "y": 38.62,
+   "partNo": "211-11",
+   "desc": "BALL - relief 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 88.35,
+   "y": 70.76,
+   "partNo": "36628",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 30.13,
+   "y": 24.94,
+   "partNo": "36628",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 8.97,
+   "y": 33.82,
+   "partNo": "C11892",
+   "desc": "SPRING - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 36.58,
+   "y": 28.31,
+   "partNo": "C11895",
+   "desc": "ADAPTER - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 23.58,
+   "y": 17.3,
+   "partNo": "C11893",
+   "desc": "BONNET - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 57.84,
+   "y": 71.48,
+   "partNo": "36627",
+   "desc": "PIN - handle",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,61 @@
+{
+ "sectionTitle": "Hydraulic Reservoir Mounting",
+ "breadcrumb": "Hydraulic Reservoir Mounting",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/hydraulic_reservoir_mounting.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 54.98,
+   "y": 38.18,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2 (see Notes below)",
+     "partNo": "C14240",
+     "desc": "SUPPORT - reservoir mtg. R.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Option 2 of 2 (see Notes below)",
+     "partNo": "C14241",
+     "desc": "SUPPORT - reservoir mtg. L.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 81.76,
+   "y": 49.04,
+   "partNo": "C14246",
+   "desc": "BRACKET - heat exchanger mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 31.55,
+   "y": 64.85,
+   "partNo": "113-118",
+   "desc": "BOLT - 5/16 x 5/8\" n.c. hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 87.85,
+   "y": 63.46,
+   "partNo": "187-1251",
+   "desc": "SCREW - 1/4 x 1-1/4\" n.c. flat hd. phillips",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 52.39,
+   "y": 12.44,
+   "partNo": "C14690",
+   "desc": "CUSHION - reservoir mtg.",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,106 @@
+{
+ "sectionTitle": "Fuel System",
+ "breadcrumb": "Fuel System",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/fuel_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.32,
+   "y": 70.71,
+   "partNo": "C10657",
+   "desc": "ELBOW ASSEMBLY - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 66.41,
+   "y": 83.2,
+   "partNo": "C19238",
+   "desc": "HOSE - fuel line 43\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 29.6,
+   "y": 16.21,
+   "partNo": "C11545",
+   "desc": "INSERT - fuel cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 21.19,
+   "y": 73.86,
+   "partNo": "C14690",
+   "desc": "CUSHION - fuel tank",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 38.64,
+   "y": 90.07,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 89.85,
+   "y": 83.2,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 58.77,
+   "y": 76.11,
+   "partNo": "A62079",
+   "desc": "CLIP - fuel line (optional)",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 11.26,
+   "y": 91.08,
+   "partNo": "129-504",
+   "desc": "NUT - square 1/4\" NC",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 10.24,
+   "y": 59.45,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4 x 1/2\" NC round head, machine, zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 28.84,
+   "y": 6.87,
+   "partNo": "C11529",
+   "desc": "CAP - fuel tank (Includes insert)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 12.02,
+   "y": 51.79,
+   "partNo": "C16796",
+   "desc": "STRAP - fuel tank mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 21.19,
+   "y": 26.23,
+   "partNo": "C16363",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

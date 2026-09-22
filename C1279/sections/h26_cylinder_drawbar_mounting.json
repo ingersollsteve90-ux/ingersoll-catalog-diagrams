@@ -1,0 +1,58 @@
+{
+ "sectionTitle": "Cylinder and Drawbar Mounting (H26 Hitch)",
+ "breadcrumb": "Cylinder and Drawbar Mounting (H26 Hitch)",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/h26_cylinder_drawbar_mounting.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.25,
+   "y": 10.47,
+   "partNo": "C19740",
+   "desc": "HITCH PLATE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 16.02,
+   "y": 26.18,
+   "partNo": "C14976",
+   "desc": "PIN - upper cylinder mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 86.99,
+   "y": 62.13,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2 x 1-1/4\" NC, hex, zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 13.09,
+   "y": 56.07,
+   "partNo": "C14975",
+   "desc": "PIN - lower cylinder mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 13.42,
+   "y": 45.64,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8 x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 53.3,
+   "y": 46.41,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8 x 1\"",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": ""
+}

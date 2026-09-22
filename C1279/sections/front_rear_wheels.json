@@ -1,0 +1,74 @@
+{
+ "sectionTitle": "Front and Rear Wheels",
+ "breadcrumb": "Front and Rear Wheels",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/front_rear_wheels.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 52.33,
+   "y": 27.81,
+   "partNo": "C24438",
+   "desc": "WHEEL - rear, 6 bolt",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 73.23,
+   "y": 65.42,
+   "partNo": "C24433",
+   "desc": "WHEEL - front",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 40.96,
+   "y": 90.42,
+   "partNo": "A70062",
+   "desc": "CAP - hub front wheel (optional)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 87.83,
+   "y": 51.85,
+   "partNo": "C12110",
+   "desc": "BEARING - wheel",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 66.93,
+   "y": 71.43,
+   "partNo": "C12110",
+   "desc": "BEARING - wheel",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 12.37,
+   "y": 68.79,
+   "partNo": "A30064",
+   "desc": "BOLT - rear wheel",
+   "reqd": "12"
+  },
+  {
+   "ref": "7",
+   "x": 51.87,
+   "y": 81.77,
+   "partNo": "C26021",
+   "desc": "CAP - plastic, front",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 81.22,
+   "y": 57.97,
+   "partNo": "219-403",
+   "desc": "FITTING - lube",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "COVER - lube fitting (C13106) — req'd 2"
+}

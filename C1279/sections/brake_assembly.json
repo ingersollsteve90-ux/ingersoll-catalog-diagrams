@@ -1,0 +1,250 @@
+{
+ "sectionTitle": "Brake Assembly",
+ "breadcrumb": "Brake Assembly",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/brake_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 64.15,
+   "y": 9.49,
+   "partNo": "C16379",
+   "desc": "SPRING - brake lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 10.15,
+   "y": 51.15,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 46.63,
+   "y": 24.24,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 87.91,
+   "y": 46.19,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 77.09,
+   "y": 82.65,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 37.6,
+   "y": 59.64,
+   "partNo": "C19179",
+   "desc": "LINK - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 64.93,
+   "y": 93.98,
+   "partNo": "138-98",
+   "desc": "PIN - roll 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 63.81,
+   "y": 37.11,
+   "partNo": "C19251",
+   "desc": "LINK - brake band",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 39.72,
+   "y": 90.91,
+   "partNo": "C19183",
+   "desc": "ARM - brake rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 76.09,
+   "y": 18.58,
+   "partNo": "C18147",
+   "desc": "LEVER - brake lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 67.94,
+   "y": 44.89,
+   "partNo": "C25022",
+   "desc": "SPRING - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 91.15,
+   "y": 76.16,
+   "partNo": "C22316",
+   "desc": "PEDAL - brake assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 34.14,
+   "y": 55.87,
+   "partNo": "C19064",
+   "desc": "LINK - brake",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 54.0,
+   "y": 42.89,
+   "partNo": "C19064",
+   "desc": "LINK - brake",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 14.61,
+   "y": 56.93,
+   "partNo": "131-1181",
+   "desc": "LOCKNUT - 3/8\" hex NC",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 30.46,
+   "y": 35.22,
+   "partNo": "131-1181",
+   "desc": "LOCKNUT - 3/8\" hex NC",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 20.19,
+   "y": 17.99,
+   "partNo": "C19250",
+   "desc": "BAND - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 19.86,
+   "y": 56.1,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" flat",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 33.47,
+   "y": 31.44,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" flat",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 49.42,
+   "y": 69.32,
+   "partNo": "C24096",
+   "desc": "ROD - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 74.41,
+   "y": 48.08,
+   "partNo": "C16164",
+   "desc": "TAB - lift control",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 7.25,
+   "y": 46.19,
+   "partNo": "C13526",
+   "desc": "PIN - clevis",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 76.98,
+   "y": 34.75,
+   "partNo": "131-164",
+   "desc": "NUT - centerlock jam",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 22.31,
+   "y": 62.71,
+   "partNo": "C19063",
+   "desc": "ARM - brake",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 55.34,
+   "y": 39.7,
+   "partNo": "C19063",
+   "desc": "ARM - brake",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 41.72,
+   "y": 61.06,
+   "partNo": "213-4",
+   "desc": "CLEVIS",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 29.01,
+   "y": 38.76,
+   "partNo": "132-321",
+   "desc": "PIN - cotter 3/32\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 57.34,
+   "y": 51.97,
+   "partNo": "132-321",
+   "desc": "PIN - cotter 3/32\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 56.12,
+   "y": 46.43,
+   "partNo": "141-54",
+   "desc": "PIN - clevis",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 12.61,
+   "y": 52.56,
+   "partNo": "131-1129",
+   "desc": "LOCKNUT - 7/16\" hex NC",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

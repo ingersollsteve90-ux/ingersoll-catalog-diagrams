@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "C20230 Starter Motor (Spec. No. 2434B and After)",
+ "breadcrumb": "C20230 Starter Motor (Spec. No. 2434B and After)",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/starter_motor_c20230.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 44.41,
+   "y": 45.33,
+   "partNo": "NSS",
+   "desc": "HOLDER - brush",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 22.52,
+   "y": 45.33,
+   "partNo": "C20217",
+   "desc": "WASHER - stop nut",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 58.9,
+   "y": 12.07,
+   "partNo": "C20334",
+   "desc": "WASHER - thrust, armature",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 57.13,
+   "y": 79.91,
+   "partNo": "NSS",
+   "desc": "STUD AND BRUSH ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 81.68,
+   "y": 11.09,
+   "partNo": "C20335",
+   "desc": "ARMATURE - starter motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 56.83,
+   "y": 44.57,
+   "partNo": "NSS",
+   "desc": "BRUSH - ground",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 41.6,
+   "y": 88.82,
+   "partNo": "NSS",
+   "desc": "LOCKWASHER - stud mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 21.04,
+   "y": 77.95,
+   "partNo": "C20336",
+   "desc": "CAP ASSEMBLY - commutator (includes item 14 thru 23)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 63.34,
+   "y": 81.1,
+   "partNo": "NSS",
+   "desc": "BUSHING - insulating",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 44.26,
+   "y": 8.04,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - thru bolt",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 33.02,
+   "y": 45.99,
+   "partNo": "C20273",
+   "desc": "SPACER - dust cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "1",
+   "x": 11.87,
+   "y": 45.55,
+   "partNo": "C20231",
+   "desc": "COVER - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 37.9,
+   "y": 45.33,
+   "partNo": "C20274",
+   "desc": "DRIVE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 62.6,
+   "y": 41.42,
+   "partNo": "NSS",
+   "desc": "SCREW AND LOCKWASHER - brush mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 66.59,
+   "y": 73.6,
+   "partNo": "NSS",
+   "desc": "SCREW AND LOCKWASHER - brush mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 36.72,
+   "y": 87.52,
+   "partNo": "NSS",
+   "desc": "WASHER - stud mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 17.34,
+   "y": 45.33,
+   "partNo": "C20216",
+   "desc": "NUT - stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 33.02,
+   "y": 83.38,
+   "partNo": "NSS",
+   "desc": "WASHER - insulating",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 47.37,
+   "y": 91.32,
+   "partNo": "NSS",
+   "desc": "NUT - stud mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 30.65,
+   "y": 9.57,
+   "partNo": "C20278",
+   "desc": "BOLT - thru",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 51.36,
+   "y": 44.57,
+   "partNo": "NSS",
+   "desc": "SPRING - brush",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 49.58,
+   "y": 8.04,
+   "partNo": "C20333",
+   "desc": "CAP ASSEMBLY - drive end",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 85.38,
+   "y": 70.56,
+   "partNo": "NSS",
+   "desc": "HOUSING - starter, order C 20230 Starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 26.95,
+   "y": 45.33,
+   "partNo": "C20260",
+   "desc": "SPRING - anti drift",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "KIT - brush and spring (includes items 14, 17 and 18) (C20337) — req'd 1"
+}

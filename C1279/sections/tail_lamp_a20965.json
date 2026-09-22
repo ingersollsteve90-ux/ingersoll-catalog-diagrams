@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "A20965 Tail Lamp (Optional)",
+ "breadcrumb": "A20965 Tail Lamp (Optional)",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/tail_lamp_a20965.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 66.83,
+   "y": 88.76,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 50.15,
+   "y": 11.02,
+   "partNo": "10934",
+   "desc": "SCREW - molding",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 83.85,
+   "y": 29.12,
+   "partNo": "NSS",
+   "desc": "KNOB - switch (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 10.31,
+   "y": 64.77,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8 x 1-1/2\" NC hex, zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 78.87,
+   "y": 33.23,
+   "partNo": "A39888",
+   "desc": "NUT - switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 66.59,
+   "y": 74.64,
+   "partNo": "10923",
+   "desc": "WASHER - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 74.01,
+   "y": 33.51,
+   "partNo": "NSS",
+   "desc": "BODY",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 9.97,
+   "y": 80.67,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 87.9,
+   "y": 67.1,
+   "partNo": "193-4",
+   "desc": "WASHER - 1/4\" lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 65.9,
+   "y": 31.72,
+   "partNo": "193-4",
+   "desc": "WASHER - 1/4\" lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 47.95,
+   "y": 60.93,
+   "partNo": "B50223",
+   "desc": "BULB - red 15 C.P. 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "1",
+   "x": 24.44,
+   "y": 22.81,
+   "partNo": "NSS",
+   "desc": "LAMP ASSEMBLY - flood and tail (use D70115 for service)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 58.49,
+   "y": 55.86,
+   "partNo": "B50273",
+   "desc": "WIRE - switch",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 48.41,
+   "y": 75.74,
+   "partNo": "B50273",
+   "desc": "WIRE - switch",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 67.17,
+   "y": 82.59,
+   "partNo": "192-23",
+   "desc": "WASHER - 1/2\" lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 30.58,
+   "y": 75.33,
+   "partNo": "A34046",
+   "desc": "BRACKET - mounting, tail lamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 35.91,
+   "y": 49.82,
+   "partNo": "B50255",
+   "desc": "MOLDING - lamp retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 9.27,
+   "y": 89.04,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex, zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 63.81,
+   "y": 25.0,
+   "partNo": "182-82",
+   "desc": "SCREW - wire",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 90.8,
+   "y": 71.9,
+   "partNo": "182-82",
+   "desc": "SCREW - wire",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 85.47,
+   "y": 58.73,
+   "partNo": "B50293",
+   "desc": "TERMINAL - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 60.46,
+   "y": 84.51,
+   "partNo": "NSS",
+   "desc": "SWITCH (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 69.72,
+   "y": 35.15,
+   "partNo": "10927",
+   "desc": "SPRING - terminal",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 54.9,
+   "y": 11.29,
+   "partNo": "A40855",
+   "desc": "LAMP - sealed unit",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "KIT - switch (includes knob) (A43182) — req'd 1"
+}

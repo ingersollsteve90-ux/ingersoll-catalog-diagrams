@@ -1,0 +1,146 @@
+{
+ "sectionTitle": "C25053 Hydraulic Pump and Coupling",
+ "breadcrumb": "C25053 Hydraulic Pump and Coupling",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/hydraulic_pump_c25053.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 26.03,
+   "y": 56.85,
+   "partNo": "C25053",
+   "desc": "PUMP - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 33.72,
+   "y": 15.19,
+   "partNo": "NSS",
+   "desc": "COVER - rear (use C25053 pump)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 57.0,
+   "y": 36.13,
+   "partNo": "C15733",
+   "desc": "BODY - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 63.27,
+   "y": 43.5,
+   "partNo": "C15737",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 50.38,
+   "y": 31.07,
+   "partNo": "A21075",
+   "desc": "KEY - 1/8\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 24.62,
+   "y": 14.96,
+   "partNo": "A50773",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 67.76,
+   "y": 47.64,
+   "partNo": "C15738",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 54.64,
+   "y": 81.71,
+   "partNo": "F53109",
+   "desc": "PIN - dowel",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 76.51,
+   "y": 55.01,
+   "partNo": "C15740",
+   "desc": "SEAL",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 86.2,
+   "y": 60.3,
+   "partNo": "C15734",
+   "desc": "COVER - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 20.6,
+   "y": 10.59,
+   "partNo": "113-111",
+   "desc": "BOLT",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 44.83,
+   "y": 27.62,
+   "partNo": "NSS",
+   "desc": "GEAR ASSEMBLY - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 90.57,
+   "y": 70.66,
+   "partNo": "C15735",
+   "desc": "SEAL - rotary",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 39.75,
+   "y": 20.71,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 80.17,
+   "y": 58.0,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 71.78,
+   "y": 50.17,
+   "partNo": "C15739",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 36.44,
+   "y": 63.52,
+   "partNo": "C15731",
+   "desc": "GEAR ASSEMBLY - driven",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "SHAFT - drive (C24862) — req'd 1\nGEAR - drive (C24863) — req'd 1\nKEY - gear (C24864) — req'd 1\nRING - retaining (C24865) — req'd 2"
+}

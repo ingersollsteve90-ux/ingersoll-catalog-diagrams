@@ -1,0 +1,226 @@
+{
+ "sectionTitle": "C24783 Clutch Assembly (PTO) — Replacement Clutch",
+ "breadcrumb": "C24783 Clutch Assembly (PTO) — Replacement Clutch",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/clutch_assembly_pto_c24783.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 89.57,
+   "y": 42.04,
+   "partNo": "C23627",
+   "desc": "GUIDE - adjusting nut",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 38.14,
+   "y": 21.82,
+   "partNo": "C23392",
+   "desc": "ARM - engaging",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 29.51,
+   "y": 49.44,
+   "partNo": "C23740",
+   "desc": "KIT - friction disc",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 77.19,
+   "y": 37.35,
+   "partNo": "C23625",
+   "desc": "NUT - adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 47.68,
+   "y": 57.16,
+   "partNo": "C23245",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 76.81,
+   "y": 67.79,
+   "partNo": "C23245",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 44.46,
+   "y": 42.67,
+   "partNo": "C23245",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 67.14,
+   "y": 8.37,
+   "partNo": "C23630",
+   "desc": "SPACER - hub",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 42.78,
+   "y": 15.36,
+   "partNo": "C16786",
+   "desc": "SPRING - clutch load",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 56.7,
+   "y": 62.27,
+   "partNo": "C26347",
+   "desc": "SPACER - washer .100\" (use to replace three .050\" spacers or one .200\" spacer)",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 61.6,
+   "y": 64.77,
+   "partNo": "C26347",
+   "desc": "SPACER - washer .100\" (use to replace three .050\" spacers or one .200\" spacer)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 56.7,
+   "y": 85.41,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 44.46,
+   "y": 80.92,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 21.52,
+   "y": 48.4,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 11.6,
+   "y": 90.83,
+   "partNo": "193-76",
+   "desc": "LOCK WASHER - 5/16\" special external tooth",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 89.7,
+   "y": 13.59,
+   "partNo": "C16616",
+   "desc": "FAN - cooling",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 80.55,
+   "y": 27.76,
+   "partNo": "O2815N",
+   "desc": "WASHER - fan 17/32\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 68.56,
+   "y": 33.6,
+   "partNo": "C23624",
+   "desc": "WASHER - spacer",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 19.33,
+   "y": 72.9,
+   "partNo": "C24741",
+   "desc": "HUB - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 33.25,
+   "y": 78.32,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 48.97,
+   "y": 84.05,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 65.08,
+   "y": 90.83,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "14",
+   "x": 87.12,
+   "y": 29.33,
+   "partNo": "129-125",
+   "desc": "NUT - 1/2\" N.F.",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 39.69,
+   "y": 51.32,
+   "partNo": "NSS",
+   "desc": "PULLEY AND DISC ASSEMBLY - (use C26353 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 85.83,
+   "y": 69.87,
+   "partNo": "C23033",
+   "desc": "CAM - clutch",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 50.52,
+   "y": 24.11,
+   "partNo": "C23033",
+   "desc": "CAM - clutch",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 16.88,
+   "y": 92.91,
+   "partNo": "164-41",
+   "desc": "SCREW - 5/16\" - 18 x 1\" flat head socket",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "CLUTCH AND FAN ASSEMBLY - (use C26350) (NSS) — req'd 1"
+}

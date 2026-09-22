@@ -1,0 +1,58 @@
+{
+ "sectionTitle": "Exhaust System",
+ "breadcrumb": "Exhaust System",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/exhaust_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 31.18,
+   "y": 77.26,
+   "partNo": "C19195",
+   "desc": "MUFFLER - exhaust R.H. (includes C20468 clamp)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 43.48,
+   "y": 61.38,
+   "partNo": "C20468",
+   "desc": "CLAMP ASSEMBLY - muffler",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 71.06,
+   "y": 84.88,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 67.7,
+   "y": 90.22,
+   "partNo": "195-518",
+   "desc": "WASHER - plain 1/4\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 82.33,
+   "y": 91.11,
+   "partNo": "C19194",
+   "desc": "MUFFLER - exhaust L.H. (includes C20468 clamp)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 74.56,
+   "y": 79.55,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" x 1\" n.c. hex",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": ""
+}

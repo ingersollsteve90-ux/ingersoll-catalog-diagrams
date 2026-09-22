@@ -1,0 +1,82 @@
+{
+ "sectionTitle": "C20414 Starter Motor (Spec. No. 2434A)",
+ "breadcrumb": "C20414 Starter Motor (Spec. No. 2434A)",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/starter_motor_c20414.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 89.8,
+   "y": 86.87,
+   "partNo": "C20415",
+   "desc": "HOUSING ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 52.21,
+   "y": 68.35,
+   "partNo": "C20417",
+   "desc": "ARMATURE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 43.78,
+   "y": 95.9,
+   "partNo": "C20420",
+   "desc": "BOLT ASSEMBLY - through",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 53.11,
+   "y": 76.32,
+   "partNo": "C20474",
+   "desc": "SPRING - brush",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 64.23,
+   "y": 73.04,
+   "partNo": "C20422",
+   "desc": "BRUSH - negative",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 49.91,
+   "y": 29.91,
+   "partNo": "C20419",
+   "desc": "DRIVE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 67.3,
+   "y": 68.71,
+   "partNo": "C20421",
+   "desc": "BRUSH - positive",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 74.2,
+   "y": 97.54,
+   "partNo": "C20416",
+   "desc": "CAP ASSEMBLY - commutator end",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 87.24,
+   "y": 45.5,
+   "partNo": "C20418",
+   "desc": "CAP ASSEMBLY - drive end",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,98 @@
+{
+ "sectionTitle": "Choke and Throttle",
+ "breadcrumb": "Choke and Throttle",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/choke_throttle.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 14.5,
+   "y": 43.55,
+   "partNo": "C25603",
+   "desc": "CONTROL - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 74.9,
+   "y": 43.22,
+   "partNo": "C25604",
+   "desc": "CONTROL - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 48.68,
+   "y": 45.55,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - #10 Std. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 20.1,
+   "y": 95.9,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4 x 1/2\" hex self tapping (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 61.16,
+   "y": 90.24,
+   "partNo": "C23032",
+   "desc": "PAD - isolation (late production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 17.39,
+   "y": 14.39,
+   "partNo": "C12224",
+   "desc": "HANDLE - throttle control, black",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 24.99,
+   "y": 68.06,
+   "partNo": "C20194",
+   "desc": "BRACKET - enclosure mtg. (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 24.99,
+   "y": 87.58,
+   "partNo": "NSS",
+   "desc": "ENCLOSURE - choke and throttle (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 32.94,
+   "y": 22.93,
+   "partNo": "111-5",
+   "desc": "BOLT - 10-24 x 3/4\" n.c. round head, square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 49.58,
+   "y": 50.98,
+   "partNo": "129-17",
+   "desc": "NUT - #10-24 plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 43.8,
+   "y": 8.96,
+   "partNo": "C14506",
+   "desc": "HANDLE - choke control, white",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

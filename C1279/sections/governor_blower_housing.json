@@ -1,0 +1,234 @@
+{
+ "sectionTitle": "Governor and Blower Housing",
+ "breadcrumb": "Governor and Blower Housing",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/governor_blower_housing.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 40.27,
+   "y": 9.23,
+   "partNo": "121-3",
+   "desc": "BOLT - 1/4 x 1/2\" n.c. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 47.57,
+   "y": 23.91,
+   "partNo": "C20361",
+   "desc": "CLIP - governor control rod, governor end",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 30.93,
+   "y": 5.35,
+   "partNo": "136-2",
+   "desc": "PIN - cotter swivel clamp mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 66.49,
+   "y": 35.87,
+   "partNo": "C20362",
+   "desc": "BAFFLE - cylinder air, L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 12.0,
+   "y": 16.78,
+   "partNo": "169-74",
+   "desc": "SCREW - #8 x 5/16\", swivel clamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 67.63,
+   "y": 87.58,
+   "partNo": "195-2027",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 86.9,
+   "y": 74.16,
+   "partNo": "C20230",
+   "desc": "MOTOR - starting, 12 volt (see page 16)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 42.44,
+   "y": 24.65,
+   "partNo": "C20376",
+   "desc": "SPRING - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 72.08,
+   "y": 43.11,
+   "partNo": "C20364",
+   "desc": "BAFFLE - cylinder air, R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 18.04,
+   "y": 7.87,
+   "partNo": "C20372",
+   "desc": "CLAMP - swivel, throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 9.15,
+   "y": 21.71,
+   "partNo": "C20370",
+   "desc": "BRACKET - governor mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "1",
+   "x": 64.55,
+   "y": 28.01,
+   "partNo": "C20359",
+   "desc": "ROD - governor control",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 23.63,
+   "y": 4.09,
+   "partNo": "C20371",
+   "desc": "SPRING - throttle lever adj.",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 35.6,
+   "y": 7.55,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 44.15,
+   "y": 15.42,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 51.9,
+   "y": 36.4,
+   "partNo": "163-22",
+   "desc": "BOLT - 1/4 x 7/16\" n.c. hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 47.34,
+   "y": 80.77,
+   "partNo": "163-22",
+   "desc": "BOLT - 1/4 x 7/16\" n.c. hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 90.89,
+   "y": 64.4,
+   "partNo": "163-22",
+   "desc": "BOLT - 1/4 x 7/16\" n.c. hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "24",
+   "x": 63.98,
+   "y": 91.67,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 51.79,
+   "y": 16.57,
+   "partNo": "C20360",
+   "desc": "CLIP - governor control rod, carburetor end",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 37.77,
+   "y": 58.74,
+   "partNo": "C20363",
+   "desc": "HOUSING - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 55.09,
+   "y": 86.85,
+   "partNo": "13-516",
+   "desc": "BOLT - 5/16 x 1\" n.c. hex, starter motor",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 20.21,
+   "y": 3.88,
+   "partNo": "173-64",
+   "desc": "SCREW - #6 x 3/4\" round hd. mach.",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 10.07,
+   "y": 10.28,
+   "partNo": "C20374",
+   "desc": "CLIP - throttle cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 26.82,
+   "y": 5.56,
+   "partNo": "195-14",
+   "desc": "WASHER - swivel clamp mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 42.21,
+   "y": 19.51,
+   "partNo": "195-14",
+   "desc": "WASHER - swivel clamp mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 22.38,
+   "y": 36.08,
+   "partNo": "C20375",
+   "desc": "BUSHING - governor control",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 26.94,
+   "y": 35.87,
+   "partNo": "C20369",
+   "desc": "ARM - governor control",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

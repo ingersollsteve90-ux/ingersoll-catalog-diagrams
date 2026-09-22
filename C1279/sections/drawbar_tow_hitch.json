@@ -1,0 +1,34 @@
+{
+ "sectionTitle": "Drawbar and Tow Hitch",
+ "breadcrumb": "Drawbar and Tow Hitch",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/drawbar_tow_hitch.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.79,
+   "y": 47.5,
+   "partNo": "C13360",
+   "desc": "DRAWBAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 28.43,
+   "y": 15.17,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 46.06,
+   "y": 28.78,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\" ZP",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,242 @@
+{
+ "sectionTitle": "Electrical System",
+ "breadcrumb": "Electrical System",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/electrical_system.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 77.7,
+   "y": 39.99,
+   "partNo": "C21945",
+   "desc": "REGULATOR - rectifier",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 47.6,
+   "y": 49.75,
+   "partNo": "C14566",
+   "desc": "CABLE - battery to ground (Black 12\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 74.61,
+   "y": 13.07,
+   "partNo": "C14553",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 15.45,
+   "y": 45.63,
+   "partNo": "C18197",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 73.58,
+   "y": 32.28,
+   "partNo": "C19378",
+   "desc": "CONNECTOR - regulator, 3 contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 11.9,
+   "y": 31.85,
+   "partNo": "NSS",
+   "desc": "SWITCH ASSY. - neutral start (prior to S/N 9713926 use C21988 and C21989)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 39.94,
+   "y": 67.77,
+   "partNo": "C16239",
+   "desc": "STRAP - battery hold down",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 81.47,
+   "y": 63.54,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 10.3,
+   "y": 35.32,
+   "partNo": "A24509",
+   "desc": "KEY - ignition (used S/N 9715216 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 36.62,
+   "y": 93.38,
+   "partNo": "C23839",
+   "desc": "KIT - ignition (includes key) (used prior to S/N 9715216)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 22.31,
+   "y": 19.26,
+   "partNo": "C19229",
+   "desc": "WIRE - solenoid to ignition switch (Yellow 9\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 12.36,
+   "y": 28.16,
+   "partNo": "C22765",
+   "desc": "SWITCH - PTO (used S/N 9714911 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 35.59,
+   "y": 32.5,
+   "partNo": "223-31",
+   "desc": "FUSE - 30 amp.",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 15.79,
+   "y": 42.81,
+   "partNo": "C23010",
+   "desc": "SWITCH - ignition (used S/N 9715216 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "1",
+   "x": 52.52,
+   "y": 54.64,
+   "partNo": "C19228",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 73.24,
+   "y": 27.72,
+   "partNo": "C19231",
+   "desc": "WIRE - ammeter to rectifier (Red 9\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 90.86,
+   "y": 61.37,
+   "partNo": "C22571",
+   "desc": "HEADLAMP ASSEMBLY - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 56.53,
+   "y": 76.78,
+   "partNo": "C22571",
+   "desc": "HEADLAMP ASSEMBLY - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 33.87,
+   "y": 9.06,
+   "partNo": "C23003",
+   "desc": "WIRE - solenoid to PTO switch (black 20\") used S/N 9714911 and after.",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 18.65,
+   "y": 81.77,
+   "partNo": "C18115",
+   "desc": "SWITCH - PTO (used prior to S/N 9714911)",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 9.15,
+   "y": 31.85,
+   "partNo": "C23002",
+   "desc": "SWITCH ASSY - neutral start (used S/N 9713926 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 40.74,
+   "y": 8.73,
+   "partNo": "C14565",
+   "desc": "CABLE - battery to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 32.61,
+   "y": 91.64,
+   "partNo": "C17763",
+   "desc": "KEY - ignition (used prior to S/N 9715216)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 18.54,
+   "y": 20.67,
+   "partNo": "C21989",
+   "desc": "INSULATOR - neutral start",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 83.76,
+   "y": 15.57,
+   "partNo": "C19232",
+   "desc": "CABLE - solenoid to starter (Black 18\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 33.41,
+   "y": 28.16,
+   "partNo": "C18389",
+   "desc": "AMMETER - 30-0-30 amp.",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 85.59,
+   "y": 12.75,
+   "partNo": "C19230",
+   "desc": "WIRE - solenoid to ammeter (White 8-1/2\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 88.0,
+   "y": 46.17,
+   "partNo": "C19379",
+   "desc": "CONNECTOR - engine, 2 contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.1,
+   "y": 11.12,
+   "partNo": "C19055",
+   "desc": "WIRE - solenoid to PTO safety switch (used prior to S/N 9715216)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

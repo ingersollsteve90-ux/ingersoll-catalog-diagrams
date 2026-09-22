@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Ignition and Charging Systems",
+ "breadcrumb": "Ignition and Charging Systems",
+ "catalogLabel": "Catalog C1279",
+ "modelNumbers": "Catalog C1279 — Case 446 Compact Tractor, Before S/N 9728158",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/C1279/ignition_charging_systems.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 46.51,
+   "y": 91.03,
+   "partNo": "214-258",
+   "desc": "CLAMP - coil mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 58.59,
+   "y": 13.92,
+   "partNo": "C20341",
+   "desc": "POINT SET - breaker contacts",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 66.14,
+   "y": 37.09,
+   "partNo": "129-26",
+   "desc": "NUTS - #8 n.c. hex, points mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 21.01,
+   "y": 60.14,
+   "partNo": "C20345",
+   "desc": "GASKET - breaker box mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 60.16,
+   "y": 61.17,
+   "partNo": "C24955",
+   "desc": "CABLE - spark plug,",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 72.97,
+   "y": 66.5,
+   "partNo": "C20366",
+   "desc": "STATOR - alternator charging",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 15.13,
+   "y": 17.1,
+   "partNo": "169-143",
+   "desc": "SCREW - 1/4 x 5/8\" n.c. socket head",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 47.35,
+   "y": 82.52,
+   "partNo": "N7480",
+   "desc": "COIL - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 48.3,
+   "y": 46.18,
+   "partNo": "C20353",
+   "desc": "LEAD ASSEMBLY - points to coil",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 32.66,
+   "y": 19.94,
+   "partNo": "C20346",
+   "desc": "COVER - breaker box",
+   "reqd": "1"
+  },
+  {
+   "ref": "1",
+   "x": 8.41,
+   "y": 20.28,
+   "partNo": "C20338",
+   "desc": "BOX ASSEMBLY - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 48.4,
+   "y": 10.74,
+   "partNo": "182-83",
+   "desc": "SCREW - #8 x 5/16\" pan head",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 25.31,
+   "y": 58.21,
+   "partNo": "182-83",
+   "desc": "SCREW - #8 x 5/16\" pan head",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 52.5,
+   "y": 76.73,
+   "partNo": "C20344",
+   "desc": "CLIP - sparkplug cables",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 89.66,
+   "y": 53.79,
+   "partNo": "C21945",
+   "desc": "REGULATOR, RECTIFIER ASSEMBLY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 75.8,
+   "y": 86.72,
+   "partNo": "92-3",
+   "desc": "LOCKWASHER - #10",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 28.25,
+   "y": 17.9,
+   "partNo": "C20339",
+   "desc": "GASKET - breaker box cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 51.87,
+   "y": 87.63,
+   "partNo": "C25845",
+   "desc": "SPARK PLUG",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 69.4,
+   "y": 83.08,
+   "partNo": "173-219",
+   "desc": "SCREW - #10 x 1-1/2\" rd. head mach.",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 53.34,
+   "y": 13.58,
+   "partNo": "192-6",
+   "desc": "LOCKWASHER - #8, Condenser mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 24.26,
+   "y": 15.97,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 67.19,
+   "y": 25.85,
+   "partNo": "182-86",
+   "desc": "SCREW - #8 x 3/8\" pan head, breaker points mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 62.57,
+   "y": 41.63,
+   "partNo": "C20347",
+   "desc": "PLUNGER - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 44.73,
+   "y": 9.15,
+   "partNo": "C20343",
+   "desc": "CONDENSER - breaker contacts",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}
