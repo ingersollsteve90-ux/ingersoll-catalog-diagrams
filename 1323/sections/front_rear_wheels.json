@@ -1,0 +1,99 @@
+{
+  "catalogLabel": "Catalog 1323",
+  "modelNumbers": "Catalog 1323 — Case Model 210 Compact Tractor, S/N 9701396 and After",
+  "sectionTitle": "Front and Rear Wheels",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1323/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 32.29,
+      "y": 48.27,
+      "variants": [
+        {
+          "partNo": "C10263",
+          "desc": "WHEEL - rear, 5 bolt (red)",
+          "qty": "2"
+        },
+        {
+          "partNo": "C24436",
+          "desc": "WHEEL - rear, 5 bolt (white)",
+          "qty": "2"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 21.3,
+      "y": 64.49,
+      "partNo": "C10314",
+      "desc": "BOLT - rear wheel",
+      "qty": "10"
+    },
+    {
+      "ref": 3,
+      "x": 80.02,
+      "y": 68.73,
+      "variants": [
+        {
+          "partNo": "C12081",
+          "desc": "WHEEL - front (red)",
+          "qty": "2"
+        },
+        {
+          "partNo": "C24433",
+          "desc": "WHEEL - front (white)",
+          "qty": "2"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 85.52,
+      "y": 63.2,
+      "partNo": "219-403",
+      "desc": "FITTING - lube",
+      "qty": "2"
+    },
+    {
+      "ref": 5,
+      "x": 88.91,
+      "y": 56.19,
+      "partNo": "C12110",
+      "desc": "BEARING - wheel, inner",
+      "qty": "2"
+    },
+    {
+      "ref": 6,
+      "x": 76.74,
+      "y": 75.92,
+      "partNo": "C12111",
+      "desc": "BEARING - wheel, outer",
+      "qty": "2"
+    },
+    {
+      "ref": 7,
+      "x": 68.09,
+      "y": 86.43,
+      "partNo": "C12370",
+      "desc": "CAP - plastic, front",
+      "qty": "2"
+    },
+    {
+      "ref": 8,
+      "x": 41.18,
+      "y": 67.07,
+      "partNo": "A70185",
+      "desc": "CAP - hub, rear (optional)",
+      "qty": "2"
+    },
+    {
+      "ref": 9,
+      "x": 61.19,
+      "y": 96.21,
+      "partNo": "A70062",
+      "desc": "CAP - hub front wheel (optional)",
+      "qty": "2"
+    }
+  ],
+  "footnotes": ""
+}

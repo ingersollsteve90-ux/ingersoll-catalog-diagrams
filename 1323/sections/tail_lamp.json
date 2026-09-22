@@ -1,0 +1,201 @@
+{
+  "catalogLabel": "Catalog 1323",
+  "modelNumbers": "Catalog 1323 — Case Model 210 Compact Tractor, S/N 9701396 and After",
+  "sectionTitle": "Tail Lamp (Optional)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1323/tail_lamp.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 21.49,
+      "y": 19.08,
+      "partNo": "A20965",
+      "desc": "LAMP ASSEMBLY - flood and tail",
+      "qty": "1"
+    },
+    {
+      "ref": 2,
+      "x": 33.81,
+      "y": 47.63,
+      "partNo": "B50255",
+      "desc": "MOLDING - lamp retaining",
+      "qty": "1"
+    },
+    {
+      "ref": 3,
+      "x": 48.9,
+      "y": 6.71,
+      "partNo": "10934",
+      "desc": "SCREW - molding",
+      "qty": "1"
+    },
+    {
+      "ref": 4,
+      "x": 53.04,
+      "y": 7.28,
+      "partNo": "A40855",
+      "desc": "LAMP - sealed unit",
+      "qty": "1"
+    },
+    {
+      "ref": 5,
+      "x": 46.51,
+      "y": 61.27,
+      "partNo": "B50223",
+      "desc": "BULB - red 15 c.p. 12 volt",
+      "qty": "1"
+    },
+    {
+      "ref": 6,
+      "x": 56.94,
+      "y": 55.61,
+      "partNo": "B50273",
+      "desc": "WIRE - switch",
+      "qty": "2"
+    },
+    {
+      "ref": 6,
+      "x": 46.51,
+      "y": 78.27,
+      "partNo": "B50273",
+      "desc": "WIRE - switch",
+      "qty": "2"
+    },
+    {
+      "ref": 7,
+      "x": 62.72,
+      "y": 22.89,
+      "partNo": "173-73",
+      "desc": "SCREW - wire",
+      "qty": "2"
+    },
+    {
+      "ref": 7,
+      "x": 89.76,
+      "y": 72.6,
+      "partNo": "173-73",
+      "desc": "SCREW - wire",
+      "qty": "2"
+    },
+    {
+      "ref": 8,
+      "x": 87.62,
+      "y": 66.36,
+      "partNo": "193-4",
+      "desc": "LOCKWASHER - 1/4\"",
+      "qty": "2"
+    },
+    {
+      "ref": 8,
+      "x": 65.37,
+      "y": 27.98,
+      "partNo": "193-4",
+      "desc": "LOCKWASHER - 1/4\"",
+      "qty": "2"
+    },
+    {
+      "ref": 9,
+      "x": 58.83,
+      "y": 87.86,
+      "partNo": "NSS",
+      "desc": "SWITCH - (order A43182 kit below)",
+      "qty": "1"
+    },
+    {
+      "ref": 10,
+      "x": 82.72,
+      "y": 26.36,
+      "partNo": "NSS",
+      "desc": "KNOB - switch (order A43182 kit below)",
+      "qty": "1"
+    },
+    {
+      "ref": 11,
+      "x": 77.94,
+      "y": 31.22,
+      "partNo": "A39888",
+      "desc": "NUT - switch",
+      "qty": "1"
+    },
+    {
+      "ref": 12,
+      "x": 69.01,
+      "y": 31.68,
+      "partNo": "10927",
+      "desc": "SPRING - terminal",
+      "qty": "1"
+    },
+    {
+      "ref": 13,
+      "x": 74.04,
+      "y": 30.64,
+      "partNo": "NSS",
+      "desc": "BODY - (order A20965)",
+      "qty": "1"
+    },
+    {
+      "ref": 14,
+      "x": 84.73,
+      "y": 59.42,
+      "partNo": "B50293",
+      "desc": "TERMINAL - wire",
+      "qty": "1"
+    },
+    {
+      "ref": 15,
+      "x": 65.74,
+      "y": 92.14,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC hex",
+      "qty": "1"
+    },
+    {
+      "ref": 16,
+      "x": 66.75,
+      "y": 84.74,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\"",
+      "qty": "1"
+    },
+    {
+      "ref": 17,
+      "x": 65.37,
+      "y": 76.65,
+      "partNo": "10923",
+      "desc": "WASHER - bearing",
+      "qty": "1"
+    },
+    {
+      "ref": 18,
+      "x": 7.03,
+      "y": 65.09,
+      "partNo": "113-209",
+      "desc": "BOLT - 3/8\" x 1-1/2\" NC hex, Z.P.",
+      "qty": "1"
+    },
+    {
+      "ref": 19,
+      "x": 7.78,
+      "y": 83.01,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" Z.P.",
+      "qty": "1"
+    },
+    {
+      "ref": 20,
+      "x": 6.65,
+      "y": 92.14,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC hex, Z.P.",
+      "qty": "1"
+    },
+    {
+      "ref": 21,
+      "x": 27.9,
+      "y": 76.88,
+      "partNo": "A34046",
+      "desc": "BRACKET - mounting, tail lamp",
+      "qty": "1"
+    }
+  ],
+  "footnotes": "[Carried over from A1258 — verify against 1323's own printed catalog text; A1258's internal S/N 9685953 break may not apply to this later edition.] Ref 21 (switch kit) covers refs 9/10 -- shown as a kit callout, verify during placement.\n(unnumbered) A43182 - KIT - switch, tail lamp (includes knob) (qty 1)"
+}

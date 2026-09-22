@@ -1,0 +1,218 @@
+{
+  "catalogLabel": "Catalog 1323",
+  "modelNumbers": "Catalog 1323 — Case Model 210 Compact Tractor, S/N 9701396 and After",
+  "sectionTitle": "Electrical System",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1323/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 70.6,
+      "y": 47.03,
+      "partNo": "C23023",
+      "desc": "HARNESS - wire",
+      "qty": "1"
+    },
+    {
+      "ref": 2,
+      "x": 95.47,
+      "y": 42.32,
+      "partNo": "C23024",
+      "desc": "HARNESS - wire",
+      "qty": "1"
+    },
+    {
+      "ref": 3,
+      "x": 24.71,
+      "y": 91.14,
+      "partNo": "C23025",
+      "desc": "HARNESS - wire",
+      "qty": "1"
+    },
+    {
+      "ref": 4,
+      "x": 27.26,
+      "y": 7.75,
+      "partNo": "C14565",
+      "desc": "CABLE - battery, positive to solenoid (red, 10-1/2\")",
+      "qty": "1"
+    },
+    {
+      "ref": 5,
+      "x": 76.41,
+      "y": 16.17,
+      "partNo": "C23030",
+      "desc": "WIRE - regulator \"A\" terminal to solenoid (white, 10\")",
+      "qty": "1"
+    },
+    {
+      "ref": 6,
+      "x": 52.13,
+      "y": 23.46,
+      "partNo": "C23029",
+      "desc": "CABLE - battery, negative (black, 18\")",
+      "qty": "1"
+    },
+    {
+      "ref": 7,
+      "x": 86.75,
+      "y": 18.75,
+      "partNo": "C14553",
+      "desc": "SOLENOID - start, 12V",
+      "qty": "1"
+    },
+    {
+      "ref": 8,
+      "x": 56.08,
+      "y": 28.4,
+      "partNo": "A70221",
+      "desc": "REGULATOR - voltage, 12V",
+      "qty": "1"
+    },
+    {
+      "ref": 9,
+      "x": 74.9,
+      "y": 56.46,
+      "partNo": "C14537",
+      "desc": "CONNECTOR - headlamp",
+      "qty": "1"
+    },
+    {
+      "ref": 10,
+      "x": 13.2,
+      "y": 20.77,
+      "partNo": "C18389",
+      "desc": "AMMETER - 30 amp",
+      "qty": "1"
+    },
+    {
+      "ref": 11,
+      "x": 81.64,
+      "y": 70.72,
+      "partNo": "C22571",
+      "desc": "HEADLAMP ASSEMBLY - 12V (repairs page 51)",
+      "qty": "2"
+    },
+    {
+      "ref": 12,
+      "x": 77.92,
+      "y": 51.41,
+      "variants": [
+        {
+          "partNo": "C16852",
+          "desc": "STARTER-GENERATOR - 12V (repairs page 45) Delco No. 1101875 [option 1]",
+          "qty": "1"
+        },
+        {
+          "partNo": "A70202",
+          "desc": "STARTER-GENERATOR - 12V (repairs page 47) Delco No. 1101970 [option 2]",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 9.72,
+      "y": 41.2,
+      "partNo": "C18998",
+      "desc": "SWITCH - strip",
+      "qty": "1"
+    },
+    {
+      "ref": 14,
+      "x": 32.84,
+      "y": 46.58,
+      "partNo": "C18115",
+      "desc": "SWITCH - strip",
+      "qty": "1"
+    },
+    {
+      "ref": 15,
+      "x": 22.15,
+      "y": 26.49,
+      "partNo": "C18197",
+      "desc": "BATTERY - 12V",
+      "qty": "1"
+    },
+    {
+      "ref": 16,
+      "x": 10.76,
+      "y": 66.11,
+      "partNo": "C23010",
+      "desc": "SWITCH ASSEMBLY - ignition (includes key)",
+      "qty": "1"
+    },
+    {
+      "ref": 17,
+      "x": 7.04,
+      "y": 65.33,
+      "partNo": "C23013",
+      "desc": "KEY - ignition",
+      "qty": "1"
+    },
+    {
+      "ref": 18,
+      "x": 45.16,
+      "y": 53.66,
+      "partNo": "C22765",
+      "desc": "SWITCH - PTO",
+      "qty": "1"
+    },
+    {
+      "ref": 19,
+      "x": 43.41,
+      "y": 83.51,
+      "partNo": "KO231281",
+      "desc": "COIL - ignition, 12V",
+      "qty": "1"
+    },
+    {
+      "ref": 20,
+      "x": 34.23,
+      "y": 69.14,
+      "partNo": "M20007",
+      "desc": "SPARK PLUG - (includes gasket)",
+      "qty": "1"
+    },
+    {
+      "ref": 21,
+      "x": 33.77,
+      "y": 73.86,
+      "partNo": "A27251",
+      "desc": "GASKET - spark plug",
+      "qty": "1"
+    },
+    {
+      "ref": 22,
+      "x": 34.47,
+      "y": 60.5,
+      "partNo": "C23401",
+      "desc": "CABLE - high tension",
+      "qty": "1"
+    },
+    {
+      "ref": 23,
+      "x": 58.29,
+      "y": 73.75,
+      "partNo": "KO230722",
+      "desc": "CONDENSER",
+      "qty": "1"
+    },
+    {
+      "ref": 24,
+      "x": 75.6,
+      "y": 41.2,
+      "partNo": "223-20",
+      "desc": "FUSE - 20 amp (included in C23023 harness)",
+      "qty": "1"
+    },
+    {
+      "ref": 25,
+      "x": 10.65,
+      "y": 49.39,
+      "partNo": "C23027",
+      "desc": "WIRE - PTO switch to strip switch (black 10\")",
+      "qty": "1"
+    }
+  ],
+  "footnotes": "[Carried over from A1258 — verify against 1323's own printed catalog text; A1258's internal S/N 9685953 break may not apply to this later edition.] Ref 8 (starter-generator) has 2 options: C16852 (repairs p.45) or A70202 (repairs p.47)."
+}

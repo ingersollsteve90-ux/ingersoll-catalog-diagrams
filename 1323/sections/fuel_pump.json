@@ -1,0 +1,25 @@
+{
+  "catalogLabel": "Catalog 1323",
+  "modelNumbers": "Catalog 1323 — Case Model 210 Compact Tractor, S/N 9701396 and After",
+  "sectionTitle": "Fuel Pump",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1323/fuel_pump.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 20.56,
+      "y": 57.29,
+      "partNo": "KO230675",
+      "desc": "KIT - fuel pump (for KOA 235845 pump)",
+      "qty": "1"
+    },
+    {
+      "ref": 2,
+      "x": 94.03,
+      "y": 68.47,
+      "partNo": "C22738",
+      "desc": "GASKET - fuel pump mounting",
+      "qty": "1"
+    }
+  ],
+  "footnotes": "[Carried over from A1258 — verify against 1323's own printed catalog text; A1258's internal S/N 9685953 break may not apply to this later edition.] Ref 1 is a kit bracket covering several unlabeled internal parts (spring/valve/gasket/diaphragm) -- only 2 numbered refs on this diagram.\n(unnumbered) NSS - SPRING - fuel pump valve (qty 2)\n(unnumbered) NSS - VALVE (qty 2)\n(unnumbered) NSS - GASKET - valve (qty 1)\n(unnumbered) NSS - DIAPHRAGM ASSEMBLY (qty 1)"
+}

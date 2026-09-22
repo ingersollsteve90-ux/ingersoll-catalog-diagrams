@@ -1,0 +1,274 @@
+{
+  "catalogLabel": "Catalog 1323",
+  "modelNumbers": "Catalog 1323 — Case Model 210 Compact Tractor, S/N 9701396 and After",
+  "sectionTitle": "Crankshaft, Piston and Connecting Rod",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1323/crankshaft_piston_rod.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 84.22,
+      "y": 11.09,
+      "partNo": "NSS",
+      "desc": "PISTON AND ROD ASSEMBLY (Std. size)",
+      "qty": "1"
+    },
+    {
+      "ref": 2,
+      "x": 68.05,
+      "y": 20.19,
+      "partNo": "KO235287",
+      "desc": "RING SET - piston (For oversize, see item 16)",
+      "qty": "1"
+    },
+    {
+      "ref": 3,
+      "x": 64.07,
+      "y": 10.87,
+      "partNo": "NSS",
+      "desc": "RING - top compression",
+      "qty": "1"
+    },
+    {
+      "ref": 4,
+      "x": 63.71,
+      "y": 19.65,
+      "partNo": "NSS",
+      "desc": "RING - 2nd compression (Includes expander)",
+      "qty": "1"
+    },
+    {
+      "ref": 5,
+      "x": 63.47,
+      "y": 32.01,
+      "partNo": "NSS",
+      "desc": "RING - oil (Includes expander)",
+      "qty": "1"
+    },
+    {
+      "ref": 6,
+      "x": 34.39,
+      "y": 48.82,
+      "partNo": "KOA235611",
+      "desc": "PISTON ASSEMBLY (For oversize, see item 15)",
+      "qty": "1"
+    },
+    {
+      "ref": 7,
+      "x": 38.85,
+      "y": 44.05,
+      "partNo": "KO235004",
+      "desc": "RETAINER - piston pin",
+      "qty": "2"
+    },
+    {
+      "ref": 7,
+      "x": 69.26,
+      "y": 46.87,
+      "partNo": "KO235004",
+      "desc": "RETAINER - piston pin",
+      "qty": "2"
+    },
+    {
+      "ref": 8,
+      "x": 39.09,
+      "y": 52.18,
+      "partNo": "NSS",
+      "desc": "PIN - piston",
+      "qty": "1"
+    },
+    {
+      "ref": 9,
+      "x": 39.58,
+      "y": 46.76,
+      "partNo": "NSS",
+      "desc": "PISTON",
+      "qty": "1"
+    },
+    {
+      "ref": 10,
+      "x": 33.18,
+      "y": 88.07,
+      "partNo": "KOA235139",
+      "desc": "CONNECTING ROD AND ASSEMBLY (For undersize, see item 18)",
+      "qty": "1"
+    },
+    {
+      "ref": 11,
+      "x": 38.25,
+      "y": 83.19,
+      "partNo": "KO235003",
+      "desc": "WASHER - special",
+      "qty": "2"
+    },
+    {
+      "ref": 12,
+      "x": 37.89,
+      "y": 85.58,
+      "partNo": "92-6",
+      "desc": "LOCKWASHER",
+      "qty": "2"
+    },
+    {
+      "ref": 13,
+      "x": 38.25,
+      "y": 89.7,
+      "partNo": "C22698",
+      "desc": "SCREW - cap, connecting rod",
+      "qty": "2"
+    },
+    {
+      "ref": 14,
+      "x": 38.37,
+      "y": 93.38,
+      "partNo": "NSS",
+      "desc": "ROD - connecting",
+      "qty": "1"
+    },
+    {
+      "ref": 14,
+      "x": 49.47,
+      "y": 62.37,
+      "partNo": "NSS",
+      "desc": "ROD - connecting",
+      "qty": "1"
+    },
+    {
+      "ref": 15,
+      "x": 34.02,
+      "y": 46.22,
+      "variants": [
+        {
+          "partNo": "KOA235567",
+          "desc": "PISTON ASSEMBLY - .003 oversize (use std. ring set)",
+          "qty": "1"
+        },
+        {
+          "partNo": "KOA235569",
+          "desc": "PISTON ASSEMBLY - .010\" oversize",
+          "qty": "1"
+        },
+        {
+          "partNo": "KOA235571",
+          "desc": "PISTON ASSEMBLY - .020\" oversize",
+          "qty": "1"
+        },
+        {
+          "partNo": "KOA235616",
+          "desc": "PISTON ASSEMBLY - .030\" oversize",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 34.27,
+      "y": 23.45,
+      "variants": [
+        {
+          "partNo": "KO235288",
+          "desc": "RING SET - piston .010\" oversize",
+          "qty": "1"
+        },
+        {
+          "partNo": "KO235289",
+          "desc": "RING SET - piston .020\" oversize",
+          "qty": "1"
+        },
+        {
+          "partNo": "KO235290",
+          "desc": "RING SET - piston .030\" oversize",
+          "qty": "1"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 39.33,
+      "y": 54.02,
+      "partNo": "NSS",
+      "desc": "PIN - piston, .005\" oversize",
+      "qty": "1"
+    },
+    {
+      "ref": 18,
+      "x": 29.08,
+      "y": 80.81,
+      "partNo": "C18101",
+      "desc": "CONNECTING ROD ASSEMBLY - .010\" undersize",
+      "qty": "1"
+    },
+    {
+      "ref": 19,
+      "x": 35.59,
+      "y": 56.95,
+      "partNo": "R16287",
+      "desc": "OIL SEAL - crankshaft rear",
+      "qty": "1"
+    },
+    {
+      "ref": 20,
+      "x": 40.66,
+      "y": 58.69,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft, ball",
+      "qty": "2"
+    },
+    {
+      "ref": 20,
+      "x": 80.84,
+      "y": 75.28,
+      "partNo": "40035",
+      "desc": "BEARING - crankshaft, ball",
+      "qty": "2"
+    },
+    {
+      "ref": 21,
+      "x": 45.13,
+      "y": 60.64,
+      "partNo": "W5063-S",
+      "desc": "KEY - 1/4\" Sq. x 3/4\" (Pump Coupling)",
+      "qty": "1"
+    },
+    {
+      "ref": 22,
+      "x": 60.33,
+      "y": 66.93,
+      "partNo": "KOB236364",
+      "desc": "CRANKSHAFT",
+      "qty": "1"
+    },
+    {
+      "ref": 23,
+      "x": 68.41,
+      "y": 70.4,
+      "partNo": "A27001",
+      "desc": "KEY - flat 3/16\" x 3/16\" x 1-3/8\" (Flywheel)",
+      "qty": "1"
+    },
+    {
+      "ref": 24,
+      "x": 87.84,
+      "y": 78.53,
+      "partNo": "C18097",
+      "desc": "OIL SEAL - crankshaft front",
+      "qty": "1"
+    },
+    {
+      "ref": 25,
+      "x": 91.46,
+      "y": 79.94,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\"",
+      "qty": "1"
+    },
+    {
+      "ref": 26,
+      "x": 94.72,
+      "y": 81.13,
+      "partNo": "131-301",
+      "desc": "NUT - special Marsden 5/8\" NF",
+      "qty": "1"
+    }
+  ],
+  "footnotes": "[Carried over from A1258 — verify against 1323's own printed catalog text; A1258's internal S/N 9685953 break may not apply to this later edition.] Ref 15 (piston assembly) has 4 oversize options (.003/.010/.020/.030). Ref 16 (ring set) has 3 oversize options (.010/.020/.030). Refs 3,4,5,8,9 are unlabeled sub-items (rings/pin/piston) folded into refs 2/6/7's assemblies -- may not have their own callout circle, verify during placement."
+}

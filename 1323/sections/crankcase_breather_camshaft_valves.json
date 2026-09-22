@@ -1,0 +1,226 @@
+{
+  "catalogLabel": "Catalog 1323",
+  "modelNumbers": "Catalog 1323 — Case Model 210 Compact Tractor, S/N 9701396 and After",
+  "sectionTitle": "Crankcase Breather / Camshaft and Valves",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1323/crankcase_breather_camshaft_valves.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 10.06,
+      "y": 62.67,
+      "partNo": "129-409",
+      "desc": "NUT - 1/4\" NC hex",
+      "qty": "1"
+    },
+    {
+      "ref": 2,
+      "x": 14.18,
+      "y": 60.73,
+      "partNo": "92-4",
+      "desc": "LOCKWASHER - 1/4\"",
+      "qty": "1"
+    },
+    {
+      "ref": 3,
+      "x": 19.59,
+      "y": 58.45,
+      "partNo": "KO275220",
+      "desc": "STUD - valve cover",
+      "qty": "1"
+    },
+    {
+      "ref": 4,
+      "x": 24.64,
+      "y": 56.29,
+      "partNo": "KO275143",
+      "desc": "COVER - valve",
+      "qty": "1"
+    },
+    {
+      "ref": 5,
+      "x": 34.87,
+      "y": 51.73,
+      "partNo": "KO231032",
+      "desc": "SEAL - breather",
+      "qty": "1"
+    },
+    {
+      "ref": 6,
+      "x": 37.69,
+      "y": 10.03,
+      "partNo": "KO235048",
+      "desc": "GASKET - breather plate",
+      "qty": "1"
+    },
+    {
+      "ref": 7,
+      "x": 10.77,
+      "y": 21.31,
+      "partNo": "KO235118",
+      "desc": "FILTER - breather",
+      "qty": "1"
+    },
+    {
+      "ref": 8,
+      "x": 17.7,
+      "y": 18.69,
+      "partNo": "KO235117",
+      "desc": "BAFFLE - breather",
+      "qty": "1"
+    },
+    {
+      "ref": 9,
+      "x": 25.46,
+      "y": 15.27,
+      "partNo": "KO235047",
+      "desc": "REED - breather",
+      "qty": "1"
+    },
+    {
+      "ref": 10,
+      "x": 32.75,
+      "y": 12.31,
+      "partNo": "KO235631",
+      "desc": "PLATE - breather",
+      "qty": "1"
+    },
+    {
+      "ref": 11,
+      "x": 46.04,
+      "y": 46.95,
+      "partNo": "KO275144",
+      "desc": "GASKET - valve cover",
+      "qty": "1"
+    },
+    {
+      "ref": 14,
+      "x": 83.66,
+      "y": 15.5,
+      "partNo": "KO235826",
+      "desc": "VALVE - exhaust",
+      "qty": "1"
+    },
+    {
+      "ref": 15,
+      "x": 84.01,
+      "y": 19.83,
+      "partNo": "KO235008",
+      "desc": "VALVE - intake",
+      "qty": "1"
+    },
+    {
+      "ref": 16,
+      "x": 59.91,
+      "y": 24.5,
+      "partNo": "KO230170",
+      "desc": "INSERT - exhaust valve seat",
+      "qty": "1"
+    },
+    {
+      "ref": 17,
+      "x": 83.89,
+      "y": 33.62,
+      "partNo": "KO235007-S",
+      "desc": "GUIDE - valve",
+      "qty": "2"
+    },
+    {
+      "ref": 18,
+      "x": 10.06,
+      "y": 70.76,
+      "partNo": "KO235011",
+      "desc": "SEAT - valve spring",
+      "qty": "2"
+    },
+    {
+      "ref": 19,
+      "x": 10.77,
+      "y": 74.4,
+      "partNo": "KO235010",
+      "desc": "SPRING - valve",
+      "qty": "2"
+    },
+    {
+      "ref": 20,
+      "x": 10.65,
+      "y": 77.59,
+      "partNo": "KO230011",
+      "desc": "RETAINER - valve spring",
+      "qty": "2"
+    },
+    {
+      "ref": 21,
+      "x": 10.89,
+      "y": 82.49,
+      "partNo": "KO240013",
+      "desc": "LOCK - valve retainer",
+      "qty": "4"
+    },
+    {
+      "ref": 22,
+      "x": 93.53,
+      "y": 78.96,
+      "partNo": "KOD235327",
+      "desc": "LIFTER ASSEMBLY",
+      "qty": "2"
+    },
+    {
+      "ref": 23,
+      "x": 84.25,
+      "y": 76.34,
+      "partNo": "NSS",
+      "desc": "SCREW - tappet adjusting",
+      "qty": "1"
+    },
+    {
+      "ref": 24,
+      "x": 84.72,
+      "y": 82.95,
+      "partNo": "NSS",
+      "desc": "LIFTER - valve",
+      "qty": "1"
+    },
+    {
+      "ref": 25,
+      "x": 44.39,
+      "y": 74.06,
+      "partNo": "KOE235646",
+      "desc": "CAMSHAFT ASSEMBLY",
+      "qty": "1"
+    },
+    {
+      "ref": 26,
+      "x": 57.79,
+      "y": 91.15,
+      "variants": [
+        {
+          "partNo": "KO275066",
+          "desc": "SPACER - camshaft, .005\"",
+          "qty": "UAR"
+        },
+        {
+          "partNo": "KO275067",
+          "desc": "SPACER - camshaft, .010\"",
+          "qty": "UAR"
+        }
+      ]
+    },
+    {
+      "ref": 27,
+      "x": 63.08,
+      "y": 93.31,
+      "partNo": "KO235053",
+      "desc": "PIN - camshaft",
+      "qty": "1"
+    },
+    {
+      "ref": 28,
+      "x": 46.63,
+      "y": 91.95,
+      "partNo": "V34346",
+      "desc": "SPRING - actuating",
+      "qty": "1"
+    }
+  ],
+  "footnotes": "[Carried over from A1258 — verify against 1323's own printed catalog text; A1258's internal S/N 9685953 break may not apply to this later edition.] FIXED: this is one integrated diagram (page 6), not two stacked ones -- the original split was a false-positive divider detection. Refs 1-11 are the crankcase breather parts, refs 14-28 are the camshaft/valve parts, both on this single image. No dots were placed under the old split sections, so all 26 are fresh placeholders here. Ref 26 (camshaft spacer) has two options (.005\"/.010\") -- duplicate it for the second option."
+}

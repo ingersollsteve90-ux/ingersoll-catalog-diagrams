@@ -1,0 +1,161 @@
+{
+  "catalogLabel": "Catalog 1323",
+  "modelNumbers": "Catalog 1323 — Case Model 210 Compact Tractor, S/N 9701396 and After",
+  "sectionTitle": "C23049 Carburetor",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/1323/carburetor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 37.86,
+      "y": 41.61,
+      "partNo": "KO200380",
+      "desc": "SPRING - tension, idle adjust",
+      "qty": "1"
+    },
+    {
+      "ref": 2,
+      "x": 82.17,
+      "y": 94.09,
+      "partNo": "KO235447",
+      "desc": "SCREW AND GASKET ASSEMBLY - carburetor bowl",
+      "qty": "1"
+    },
+    {
+      "ref": 3,
+      "x": 28.89,
+      "y": 32.07,
+      "partNo": "A72077",
+      "desc": "NEEDLE - main fuel adjust",
+      "qty": "1"
+    },
+    {
+      "ref": 4,
+      "x": 28.0,
+      "y": 43.43,
+      "partNo": "KO200383",
+      "desc": "SPRING - main fuel adjust",
+      "qty": "1"
+    },
+    {
+      "ref": 5,
+      "x": 41.3,
+      "y": 37.52,
+      "partNo": "A72099",
+      "desc": "NEEDLE - idle adjust",
+      "qty": "1"
+    },
+    {
+      "ref": 6,
+      "x": 84.83,
+      "y": 81.82,
+      "partNo": "KO235448",
+      "desc": "BOWL - carburetor",
+      "qty": "1"
+    },
+    {
+      "ref": 7,
+      "x": 83.84,
+      "y": 59.79,
+      "partNo": "KO200408",
+      "desc": "FLOAT - carburetor",
+      "qty": "1"
+    },
+    {
+      "ref": 8,
+      "x": 83.28,
+      "y": 36.84,
+      "partNo": "A72103",
+      "desc": "KIT - carburetor repair",
+      "qty": "1"
+    },
+    {
+      "ref": 9,
+      "x": 75.97,
+      "y": 46.72,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "qty": "1"
+    },
+    {
+      "ref": 9,
+      "x": 89.38,
+      "y": 10.15,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "qty": "1"
+    },
+    {
+      "ref": 9,
+      "x": 24.68,
+      "y": 70.12,
+      "partNo": "NSS",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "qty": "1"
+    },
+    {
+      "ref": 10,
+      "x": 85.39,
+      "y": 66.26,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl ring",
+      "qty": "1"
+    },
+    {
+      "ref": 10,
+      "x": 71.54,
+      "y": 18.44,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl ring",
+      "qty": "1"
+    },
+    {
+      "ref": 11,
+      "x": 85.05,
+      "y": 73.53,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl baffle",
+      "qty": "1"
+    },
+    {
+      "ref": 11,
+      "x": 71.65,
+      "y": 23.21,
+      "partNo": "NSS",
+      "desc": "GASKET - bowl baffle",
+      "qty": "1"
+    },
+    {
+      "ref": 12,
+      "x": 69.66,
+      "y": 91.03,
+      "partNo": "KO200372",
+      "desc": "GASKET - bowl screw",
+      "qty": "1"
+    },
+    {
+      "ref": 12,
+      "x": 71.76,
+      "y": 30.59,
+      "partNo": "KO200372",
+      "desc": "GASKET - bowl screw",
+      "qty": "1"
+    },
+    {
+      "ref": 13,
+      "x": 67.44,
+      "y": 56.61,
+      "partNo": "F19892",
+      "desc": "PIN - float",
+      "qty": "1"
+    },
+    {
+      "ref": 13,
+      "x": 71.65,
+      "y": 10.03,
+      "partNo": "F19892",
+      "desc": "PIN - float",
+      "qty": "1"
+    }
+  ],
+  "footnotes": "[Carried over from A1258 — verify against 1323's own printed catalog text; A1258's internal S/N 9685953 break may not apply to this later edition.] Refs 12,13,14 are unlabeled sub-items of the ref-11 repair kit -- likely no separate callout circle, verify during placement. Table jumps from 11 to 15.\n(unnumbered) C23049 - CARBURETOR ASSEMBLY (qty 1)"
+}
