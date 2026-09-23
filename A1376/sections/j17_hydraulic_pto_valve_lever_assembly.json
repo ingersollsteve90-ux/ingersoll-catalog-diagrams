@@ -1,0 +1,242 @@
+{
+  "sectionTitle": "J-17 Hydraulic PTO Valve / J-17 and K-17 Lever Assembly",
+  "breadcrumb": "J-17 Hydraulic PTO Valve / J-17 and K-17 Lever Assembly",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/j17_hydraulic_pto_valve_lever_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 14.35,
+      "y": 69.94,
+      "partNo": "NSS",
+      "desc": "VALVE - control (use C30044)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 49.28,
+      "y": 59.79,
+      "partNo": "C 11891",
+      "desc": "SEAL - U-cup",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 67.85,
+      "y": 79.9,
+      "partNo": "C 11891",
+      "desc": "SEAL - U-cup",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 75.64,
+      "y": 59.39,
+      "partNo": "132-5",
+      "desc": "PIN - cotter 1/16\" x 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 60.18,
+      "y": 73.6,
+      "partNo": "C 28875",
+      "desc": "PIN - handle",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 75.08,
+      "y": 89.34,
+      "partNo": "C 19422",
+      "desc": "BRACKET - handle",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 94.77,
+      "y": 72.89,
+      "partNo": "71-410",
+      "desc": "SCREW - 1/4\" x 5/8\" N.C. fillister head",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 91.55,
+      "y": 72.89,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "7",
+      "x": 31.48,
+      "y": 20.39,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "8",
+      "x": 46.72,
+      "y": 67.91,
+      "partNo": "NSS",
+      "desc": "BODY AND SPOOL ASSEMBLY (Order C30044)",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 39.15,
+      "y": 24.46,
+      "partNo": "C 11895",
+      "desc": "ADAPTER - spool",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 34.7,
+      "y": 24.66,
+      "partNo": "95-4",
+      "desc": "WASHER - plain 1/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 28.25,
+      "y": 16.43,
+      "partNo": "75-48",
+      "desc": "SCREW - 1/4\" x 1/2\" rd. hd. machine",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 25.03,
+      "y": 13.08,
+      "partNo": "C 11893",
+      "desc": "BONNET - detent",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 8.9,
+      "y": 25.88,
+      "partNo": "C 11901",
+      "desc": "PIN - detent",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 9.01,
+      "y": 31.26,
+      "partNo": "C 11892",
+      "desc": "SPRING - detent",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 9.34,
+      "y": 36.44,
+      "partNo": "C 11886",
+      "desc": "WASHER - detent spring",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 9.12,
+      "y": 42.33,
+      "partNo": "C 11887",
+      "desc": "CAP - detent",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 18.24,
+      "y": 8.11,
+      "partNo": "169-88",
+      "desc": "SCREW - bonnet #8-32 x 2-1/4\" fillister head",
+      "reqd": "4"
+    },
+    {
+      "ref": "18",
+      "x": 81.2,
+      "y": 30.35,
+      "partNo": "C 19423",
+      "desc": "LEVER - valve",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 84.2,
+      "y": 43.04,
+      "partNo": "221-842",
+      "desc": "PLUG - relief 3/8\" NPT",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 78.75,
+      "y": 44.76,
+      "partNo": "C 28700",
+      "desc": "SHIM - .010\" thick",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "21",
+      "x": 77.53,
+      "y": 39.79,
+      "partNo": "C 28716",
+      "desc": "SPRING - relief",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 81.2,
+      "y": 42.83,
+      "partNo": "C 28698",
+      "desc": "SHIM - .020\" thick",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "23",
+      "x": 71.08,
+      "y": 36.74,
+      "partNo": "211-11",
+      "desc": "BALL - relief 3/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 67.63,
+      "y": 34.1,
+      "partNo": "C 18417",
+      "desc": "SEAT - relief",
+      "reqd": "1"
+    },
+    {
+      "ref": "25",
+      "x": 64.4,
+      "y": 33.9,
+      "partNo": "C 28696",
+      "desc": "\"O\" RING - relief seat",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 80.64,
+      "y": 14.3,
+      "partNo": "C 28237",
+      "desc": "KNOB - hand throttle",
+      "reqd": "1"
+    },
+    {
+      "ref": "27",
+      "x": 91.32,
+      "y": 62.23,
+      "partNo": "C 26266",
+      "desc": "BUSHING - nylon",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

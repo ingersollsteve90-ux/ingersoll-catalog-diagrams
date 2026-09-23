@@ -1,0 +1,202 @@
+{
+  "sectionTitle": "Ignition and Charging Systems",
+  "breadcrumb": "Ignition and Charging Systems",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/ignition_charging_systems.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 59.87,
+      "y": 10.32,
+      "partNo": "182-520",
+      "desc": "SCREW - #10 - 24 x 1-1/2\" pan hd.",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 46.28,
+      "y": 17.17,
+      "partNo": "195-513",
+      "desc": "WASHER - #10",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 61.48,
+      "y": 13.16,
+      "partNo": "C 23854",
+      "desc": "COVER - breaker box",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 40.08,
+      "y": 26.86,
+      "partNo": "182-545",
+      "desc": "SCREW - #8 - 32 x 5/16\" self tapping",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 45.6,
+      "y": 30.09,
+      "partNo": "192-16",
+      "desc": "LOCKWASHER - #8",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 41.3,
+      "y": 32.42,
+      "partNo": "C 29991",
+      "desc": "CONDENSER - ignition",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 67.95,
+      "y": 34.23,
+      "partNo": "165-143",
+      "desc": "SCREW - 1/4\" - 20 x 3/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 71.44,
+      "y": 36.3,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 67.27,
+      "y": 25.18,
+      "partNo": "C 29736",
+      "desc": "POINT ASSEMBLY - breaker contact",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 41.16,
+      "y": 37.85,
+      "partNo": "C 25100",
+      "desc": "BASE - breaker box",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 67.14,
+      "y": 38.11,
+      "partNo": "C 20345",
+      "desc": "GASKET - breaker box",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 64.58,
+      "y": 42.24,
+      "partNo": "C 20347",
+      "desc": "PLUNGER - breaker box",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 52.47,
+      "y": 48.19,
+      "partNo": "C 29992",
+      "desc": "LEAD - breaker to coil negative",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 64.72,
+      "y": 84.63,
+      "partNo": "173-219",
+      "desc": "SCREW - #10 x 1-1/2\" rd. head mach.",
+      "reqd": "3"
+    },
+    {
+      "ref": "15",
+      "x": 30.66,
+      "y": 89.67,
+      "partNo": "214-259",
+      "desc": "CLAMP - coil mtg.",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 39.14,
+      "y": 80.37,
+      "partNo": "C 20344",
+      "desc": "CLIP - sparkplug cables",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 51.39,
+      "y": 70.8,
+      "partNo": "C 32299",
+      "desc": "KIT - spark plug cable",
+      "reqd": "2"
+    },
+    {
+      "ref": "18",
+      "x": 74.41,
+      "y": 85.8,
+      "partNo": "92-18",
+      "desc": "LOCKWASHER - #10",
+      "reqd": "3"
+    },
+    {
+      "ref": "19",
+      "x": 31.34,
+      "y": 84.63,
+      "partNo": "C 29752",
+      "desc": "COIL - ignition",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 38.07,
+      "y": 87.48,
+      "partNo": "C 25845",
+      "desc": "SPARK PLUG",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 89.21,
+      "y": 55.55,
+      "partNo": "C 31249",
+      "desc": "REGULATOR, RECTIFIER ASSEMBLY - 12 volt",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 71.31,
+      "y": 74.03,
+      "partNo": "C 24956",
+      "desc": "STATOR - alternator charging",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 10.74,
+      "y": 75.84,
+      "partNo": "C 25227",
+      "desc": "CAP - coil",
+      "reqd": "2"
+    },
+    {
+      "ref": "24",
+      "x": 83.56,
+      "y": 69.77,
+      "partNo": "C 25338",
+      "desc": "CONNECTOR",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "C 29990 — BOX ASSEMBLY - breaker contact (reqd 1)"
+}

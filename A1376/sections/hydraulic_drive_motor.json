@@ -1,0 +1,154 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor",
+  "breadcrumb": "Hydraulic Drive Motor",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/hydraulic_drive_motor.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 8.63,
+      "y": 73.87,
+      "partNo": "C 16516",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 11.76,
+      "y": 69.71,
+      "partNo": "NSS",
+      "desc": "SPACER - (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 17.05,
+      "y": 64.17,
+      "partNo": "NSS",
+      "desc": "SEAL - oil (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 28.18,
+      "y": 51.81,
+      "partNo": "C 14827",
+      "desc": "HOUSING ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 88.88,
+      "y": 60.13,
+      "partNo": "C 14837",
+      "desc": "END CAP",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 84.12,
+      "y": 65.3,
+      "partNo": "NSS",
+      "desc": "SEAL - (See kit below)",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 38.11,
+      "y": 39.84,
+      "partNo": "NSS",
+      "desc": "SEAL - (See kit below)",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 45.57,
+      "y": 35.8,
+      "partNo": "C 14828",
+      "desc": "SHAFT - coupling",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 54.21,
+      "y": 27.48,
+      "partNo": "C 14829",
+      "desc": "DRIVE LINK",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 60.47,
+      "y": 18.53,
+      "partNo": "C 14830",
+      "desc": "PLATE - wear",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 72.68,
+      "y": 12.23,
+      "partNo": "C 14831",
+      "desc": "ROTOR ASSEMBLY",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 77.86,
+      "y": 5.29,
+      "partNo": "NSS",
+      "desc": "PLATE - manifold",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 57.99,
+      "y": 89.88,
+      "partNo": "NSS",
+      "desc": "MANIFOLD",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 64.14,
+      "y": 82.57,
+      "partNo": "NSS",
+      "desc": "COMMUTATOR AND RING SET (use complete motor)",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 69.98,
+      "y": 78.29,
+      "partNo": "NSS",
+      "desc": "RING - sealing (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 76.89,
+      "y": 72.11,
+      "partNo": "C 14836",
+      "desc": "SLEEVE",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 92.87,
+      "y": 46.52,
+      "partNo": "C 14838",
+      "desc": "BOLT - 3/8\" x 4-3/8\" N.F. hex",
+      "reqd": "7"
+    },
+    {
+      "ref": "17",
+      "x": 13.81,
+      "y": 65.68,
+      "partNo": "NSS",
+      "desc": "WASHER - back up, .010\" (see kit below)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "C 14655 — MOTOR - hydraulic (reqd 1) | NSS — KIT - manifold (use complete motor) (reqd 1) | C 29732 — KIT - \"O\" ring and seal (reqd 1)"
+}

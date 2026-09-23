@@ -1,0 +1,130 @@
+{
+  "sectionTitle": "Heat Shields and Engine Baffles",
+  "breadcrumb": "Heat Shields and Engine Baffles",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/heat_shields_engine_baffles.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 70.89,
+      "y": 26.66,
+      "partNo": "C 25489",
+      "desc": "SHIELD - exhaust pipe L.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 36.62,
+      "y": 66.09,
+      "partNo": "C 25490",
+      "desc": "SHIELD - exhaust pipe R.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 62.19,
+      "y": 65.46,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\" hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 89.47,
+      "y": 54.72,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\" hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 55.21,
+      "y": 54.08,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 34.12,
+      "y": 10.82,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 16.72,
+      "y": 21.13,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 10.53,
+      "y": 25.6,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 42.82,
+      "y": 8.48,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 51.38,
+      "y": 41.97,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "6",
+      "x": 58.76,
+      "y": 19.86,
+      "partNo": "C 28033",
+      "desc": "BAFFLE - cylinder L.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 18.04,
+      "y": 63.44,
+      "partNo": "C 28034",
+      "desc": "BAFFLE - cylinder R.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 26.48,
+      "y": 13.06,
+      "partNo": "187-1036",
+      "desc": "SCREW - self tap (used S/N 9741243 and after)",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 34.38,
+      "y": 47.92,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4\" - 20 x 3/4\" hex (used prior to S/N 9741243)",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 24.76,
+      "y": 50.04,
+      "partNo": "C 26255",
+      "desc": "SUPPORT - pump mounting",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

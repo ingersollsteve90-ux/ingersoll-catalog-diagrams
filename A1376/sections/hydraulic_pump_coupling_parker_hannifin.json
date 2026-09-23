@@ -1,0 +1,194 @@
+{
+  "sectionTitle": "Hydraulic Pump and Coupling (Parker-Hannifin)",
+  "breadcrumb": "Hydraulic Pump and Coupling (Parker-Hannifin)",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/hydraulic_pump_coupling_parker_hannifin.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 23.11,
+      "y": 61.37,
+      "partNo": "NSS",
+      "desc": "PUMP - hyd. 9/16\" shaft (use C26278, C15724, C17300)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 50.83,
+      "y": 85.29,
+      "partNo": "F 53109",
+      "desc": "PIN - dowel",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 30.42,
+      "y": 21.54,
+      "partNo": "C 24861",
+      "desc": "COVER - rear",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 33.09,
+      "y": 67.68,
+      "partNo": "C 15731",
+      "desc": "GEAR ASSEMBLY - driven",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 35.87,
+      "y": 26.65,
+      "partNo": "C 15732",
+      "desc": "\"O\" RING - cover",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 75.19,
+      "y": 62.27,
+      "partNo": "C 15732",
+      "desc": "\"O\" RING - cover",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 53.27,
+      "y": 42.46,
+      "partNo": "C 15733",
+      "desc": "BODY - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 81.91,
+      "y": 63.47,
+      "partNo": "C 15734",
+      "desc": "COVER - front",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 85.51,
+      "y": 72.98,
+      "partNo": "C 15735",
+      "desc": "SEAL - shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 41.09,
+      "y": 33.15,
+      "partNo": "NSS",
+      "desc": "GEAR ASSEMBLY - drive",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 58.6,
+      "y": 47.66,
+      "partNo": "C 15737",
+      "desc": "PLATE - wear",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 63.12,
+      "y": 51.77,
+      "partNo": "C 15738",
+      "desc": "SHIELD - heat",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 67.3,
+      "y": 54.67,
+      "partNo": "C 15739",
+      "desc": "GASKET",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 71.47,
+      "y": 58.57,
+      "partNo": "C 15740",
+      "desc": "SEAL",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 21.72,
+      "y": 20.64,
+      "partNo": "13- 540",
+      "desc": "BOLT",
+      "reqd": "4"
+    },
+    {
+      "ref": "15",
+      "x": 46.08,
+      "y": 37.16,
+      "partNo": "C 28215",
+      "desc": "KEY - 3/16\" square",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 13.95,
+      "y": 38.16,
+      "partNo": "C 19115",
+      "desc": "WASHER",
+      "reqd": "4"
+    },
+    {
+      "ref": "17",
+      "x": 62.54,
+      "y": 39.76,
+      "partNo": "C 25209",
+      "desc": "COUPLING - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 63.94,
+      "y": 23.45,
+      "partNo": "NSS",
+      "desc": "HUB - (order item 17)",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 78.67,
+      "y": 37.46,
+      "partNo": "NSS",
+      "desc": "HUB - (order item 17)",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 90.73,
+      "y": 11.84,
+      "partNo": "C 32199",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 82.38,
+      "y": 8.04,
+      "partNo": "C 32199",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 85.86,
+      "y": 12.04,
+      "partNo": "C 15036",
+      "desc": "SPIDER - (for C17298 coupling)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

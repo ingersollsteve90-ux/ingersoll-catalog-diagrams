@@ -1,0 +1,155 @@
+{
+  "sectionTitle": "Model L-19, M-19 Flow Control Valve Kit",
+  "breadcrumb": "Model L-19, M-19 Flow Control Valve Kit",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/l19_m19_flow_control_valve_kit.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 51.8,
+      "y": 40.9,
+      "partNo": "C 23618",
+      "desc": "VALVE - flow control",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 45.54,
+      "y": 40.45,
+      "partNo": "C 36848",
+      "desc": "LEVER - valve",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 38.91,
+      "y": 38.19,
+      "partNo": "C 28251",
+      "desc": "KNOB - lever",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 49.27,
+      "y": 59.85,
+      "partNo": "113-12",
+      "desc": "BOLT - 1/4\" x 2-1/2\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 70.24,
+      "y": 51.16,
+      "partNo": "131-1180",
+      "desc": "NUT - lock 1/4\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 83.25,
+      "y": 56.46,
+      "partNo": "218-485",
+      "desc": "FITTING - elbow 90° 1/2\" NPT",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 33.85,
+      "y": 47.67,
+      "partNo": "218-485",
+      "desc": "FITTING - elbow 90° 1/2\" NPT",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 61.56,
+      "y": 58.49,
+      "partNo": "C 45431",
+      "desc": "FITTING - straight 1/2\" NPT",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 41.56,
+      "y": 77.1,
+      "partNo": "C 25390",
+      "desc": "TUBE - flow control valve to tube",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 88.43,
+      "y": 66.28,
+      "partNo": "C 23407",
+      "desc": "TUBE - bypass to return line",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 46.74,
+      "y": 65.71,
+      "partNo": "C 23600",
+      "desc": "TUBE - valve to tractor valve",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 75.78,
+      "y": 90.97,
+      "partNo": "C 26181",
+      "desc": "TUBE - heat exchanger",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 88.92,
+      "y": 76.65,
+      "partNo": "C 36849",
+      "desc": "HOSE - return",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 90.36,
+      "y": 81.5,
+      "partNo": "214-6",
+      "desc": "CLAMP - hose",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 89.88,
+      "y": 71.13,
+      "partNo": "214-6",
+      "desc": "CLAMP - hose",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 9.63,
+      "y": 46.88,
+      "variants": [
+        {
+          "partNo": "C 23879",
+          "desc": "TUBE - PTO valve to tube (446 before S/N 9770165)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25392",
+          "desc": "TUBE - PTO valve to tube (448) (446 - S/N 9770165 and after)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "15",
+      "x": 58.91,
+      "y": 45.07,
+      "partNo": "C 21592",
+      "desc": "SPACER (L19)",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,242 @@
+{
+  "sectionTitle": "C24926 Carburetor and Fuel Pump Assembly",
+  "breadcrumb": "C24926 Carburetor and Fuel Pump Assembly",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/carburetor_fuel_pump_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 70.05,
+      "y": 69.71,
+      "partNo": "NSS",
+      "desc": "BODY ASSEMBLY - carburetor (order C27507 carburetor)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 70.81,
+      "y": 26.22,
+      "partNo": "NSS",
+      "desc": "SLEEVE ASSEMBLY - carburetor (order C27507 carburetor)",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 89.66,
+      "y": 73.64,
+      "partNo": "C 20425",
+      "desc": "SHAFT - throttle (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 53.87,
+      "y": 76.16,
+      "partNo": "NSS",
+      "desc": "PACKING - shaft (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 23.82,
+      "y": 24.82,
+      "partNo": "C 20427",
+      "desc": "SHAFT - choke",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 38.59,
+      "y": 85.42,
+      "partNo": "NSS",
+      "desc": "VALVE - plate assembly (see kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 54.0,
+      "y": 86.54,
+      "partNo": "C 20429",
+      "desc": "FLY - throttle",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 88.77,
+      "y": 55.4,
+      "partNo": "C 20430",
+      "desc": "SCREW - throttle stop",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 59.99,
+      "y": 11.21,
+      "partNo": "C 20431",
+      "desc": "SCREW - fly mounting (See kit below)",
+      "reqd": "4"
+    },
+    {
+      "ref": "9",
+      "x": 54.51,
+      "y": 80.51,
+      "partNo": "C 20431",
+      "desc": "SCREW - fly mounting (See kit below)",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 70.17,
+      "y": 17.52,
+      "partNo": "C 20432",
+      "desc": "SCREW - bowl cover mtg.",
+      "reqd": "4"
+    },
+    {
+      "ref": "11",
+      "x": 10.19,
+      "y": 55.96,
+      "partNo": "C 20433",
+      "desc": "SCREW - pump cover",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 20.76,
+      "y": 49.23,
+      "partNo": "NSS",
+      "desc": "GASKET - cover to valve plate (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 47.76,
+      "y": 81.63,
+      "partNo": "NSS",
+      "desc": "GASKET - pump cover (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 70.94,
+      "y": 36.88,
+      "partNo": "NSS",
+      "desc": "GASKET - sleeve assembly (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 29.42,
+      "y": 88.79,
+      "partNo": "NSS",
+      "desc": "DIAPHRAGM - fuel pump (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 89.79,
+      "y": 68.31,
+      "partNo": "C 20438",
+      "desc": "SPRING - screw, throttle stop",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 76.41,
+      "y": 51.61,
+      "partNo": "C 20439",
+      "desc": "SPRING - idle needle (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 15.41,
+      "y": 88.79,
+      "partNo": "C 20440",
+      "desc": "SPRING - diaphragm, fuel pump (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 59.35,
+      "y": 15.28,
+      "partNo": "C 20441",
+      "desc": "FLY - choke",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 65.33,
+      "y": 44.74,
+      "partNo": "C 27506",
+      "desc": "FLOAT ASSEMBLY - carburetor",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 31.97,
+      "y": 47.82,
+      "partNo": "C 20443",
+      "desc": "PIN - float (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 83.8,
+      "y": 49.23,
+      "partNo": "C 20444",
+      "desc": "NEEDLE - idle adjust (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 81.0,
+      "y": 41.65,
+      "partNo": "C 20445",
+      "desc": "NEEDLE ASSEMBLY - power",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 79.09,
+      "y": 47.4,
+      "partNo": "C 20446",
+      "desc": "\"O\" RING - needle assembly (see kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "25",
+      "x": 14.65,
+      "y": 52.45,
+      "partNo": "C 20447*",
+      "desc": "COVER - fuel pump",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 21.27,
+      "y": 88.51,
+      "partNo": "C 20448",
+      "desc": "PLATE - spring, fuel pump (See kit below)",
+      "reqd": "2"
+    },
+    {
+      "ref": "27",
+      "x": 39.48,
+      "y": 45.58,
+      "partNo": "C 20449",
+      "desc": "INLET - needle and seat assembly (See kit below)",
+      "reqd": "1"
+    },
+    {
+      "ref": "28",
+      "x": 34.26,
+      "y": 53.15,
+      "partNo": "C 20450",
+      "desc": "CLIP - float pin",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "C 24665 — KIT - gasket (includes items 4, 12, 13, 14, 15, 24) (reqd 1) | C 24666 — KIT - repair (includes items 3, 6, 9, 15, 17, 18, 21, 22, 26, 27 and gasket kit) (reqd 1)"
+}

@@ -1,0 +1,170 @@
+{
+  "sectionTitle": "Exhaust System",
+  "breadcrumb": "Exhaust System",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/exhaust_system.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 69.08,
+      "y": 82.54,
+      "partNo": "C 24703",
+      "desc": "MUFFLER ASSEMBLY - exhaust (includes items 8, 9, 10 and 12 banded together)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 36.44,
+      "y": 8.36,
+      "partNo": "C 22969",
+      "desc": "PIPE - engine exhaust L.H. (used prior to S/N 9756606)",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 82.06,
+      "y": 28.78,
+      "partNo": "C 28968",
+      "desc": "CLAMP ASSEMBLY - muffler",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 90.37,
+      "y": 33.12,
+      "partNo": "111-256",
+      "desc": "BOLT - 5/16\" x 1-1/4\" round head, square neck N.C.",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 33.09,
+      "y": 26.83,
+      "partNo": "111-256",
+      "desc": "BOLT - 5/16\" x 1-1/4\" round head, square neck N.C.",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 91.89,
+      "y": 39.42,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 21.02,
+      "y": 10.32,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 90.98,
+      "y": 46.16,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" N.C. hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 14.23,
+      "y": 14.88,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" N.C. hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 30.45,
+      "y": 32.36,
+      "partNo": "C 22970",
+      "desc": "PIPE - engine exhaust R.H. (used prior to S/N 9756606)",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 26.19,
+      "y": 68.64,
+      "partNo": "C 24296",
+      "desc": "WRAPPER - muffler",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 15.55,
+      "y": 79.06,
+      "partNo": "C 23581",
+      "desc": "COVER - muffler end",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 20.92,
+      "y": 73.53,
+      "partNo": "C 23580",
+      "desc": "INSULATION - muffler end",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 32.28,
+      "y": 56.04,
+      "partNo": "214-272",
+      "desc": "CLAMP - wrapper mounting",
+      "reqd": "3"
+    },
+    {
+      "ref": "12",
+      "x": 61.58,
+      "y": 73.53,
+      "partNo": "C 23686",
+      "desc": "INSULATION - muffler",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 19.3,
+      "y": 25.2,
+      "partNo": "C 20468",
+      "desc": "CLAMP ASSEMBLY - exhaust pipe (includes items 4, 5 and 6) (used prior to S/N 9756606)",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 86.62,
+      "y": 8.36,
+      "partNo": "C 25071",
+      "desc": "PIPE - engine exhaust L.H. (used S/N 9756606 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 56.41,
+      "y": 26.28,
+      "partNo": "C 25073",
+      "desc": "PIPE - engine exhaust R.H. (used S/N 9756606 and after)",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 72.23,
+      "y": 30.52,
+      "partNo": "C 26207",
+      "desc": "GASKET - pipe, exhaust (used S/N 9756606 and after)",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 68.68,
+      "y": 12.6,
+      "partNo": "61-510",
+      "desc": "BOLT - 5/16\" x 5/8\" sockethead (used S/N 9756606 and after)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

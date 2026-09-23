@@ -1,0 +1,170 @@
+{
+  "sectionTitle": "K-17 Hydraulic PTO Valve",
+  "breadcrumb": "K-17 Hydraulic PTO Valve",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/k17_hydraulic_pto_valve.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 25.78,
+      "y": 60.21,
+      "partNo": "NSS",
+      "desc": "VALVE - control (use C30044)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 46.92,
+      "y": 32.04,
+      "partNo": "NSS",
+      "desc": "BODY - valve (order C30044 valve)",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 23.55,
+      "y": 17.65,
+      "partNo": "NSS",
+      "desc": "SPOOL - valve (order C30044 valve)",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 54.21,
+      "y": 71.46,
+      "partNo": "195-533",
+      "desc": "WASHER - spool",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 58.55,
+      "y": 73.39,
+      "partNo": "NSS",
+      "desc": "RETAINER - spool",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 61.25,
+      "y": 90.32,
+      "partNo": "173-38",
+      "desc": "SCREW - set",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 59.72,
+      "y": 81.01,
+      "partNo": "C 24984",
+      "desc": "COVER - detent and relief",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 71.82,
+      "y": 86.09,
+      "partNo": "C 24986",
+      "desc": "SPRING - detent",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 73.0,
+      "y": 79.32,
+      "partNo": "211-7",
+      "desc": "BALL - detent, 1/4\" steel",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 78.16,
+      "y": 63.23,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4\" - 20 x 3/4\" hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "11",
+      "x": 75.11,
+      "y": 60.82,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "12",
+      "x": 70.88,
+      "y": 38.57,
+      "partNo": "NSS",
+      "desc": "SEAT - relief",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 81.92,
+      "y": 47.52,
+      "partNo": "C 28700",
+      "desc": "SHIM - pressure adjust",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 85.92,
+      "y": 50.9,
+      "partNo": "C 24985",
+      "desc": "PIN - limit",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 74.64,
+      "y": 41.11,
+      "partNo": "211-103",
+      "desc": "BALL - relief, 5/16\" steel",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 78.16,
+      "y": 43.89,
+      "partNo": "C 24988",
+      "desc": "SPRING - relief",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 49.27,
+      "y": 66.02,
+      "partNo": "C 24983",
+      "desc": "V-PACKING",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 32.71,
+      "y": 27.33,
+      "partNo": "C 24987",
+      "desc": "WASHER - backup",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 38.58,
+      "y": 32.04,
+      "partNo": "NSS",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 90.61,
+      "y": 54.53,
+      "partNo": "NSS",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,74 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 50.33,
+      "y": 33.92,
+      "partNo": "C 30917",
+      "desc": "WHEEL - rear, 6 bolt (white)",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 14.23,
+      "y": 69.75,
+      "partNo": "C 27763",
+      "desc": "BOLT - rear wheel",
+      "reqd": "12"
+    },
+    {
+      "ref": "3",
+      "x": 69.36,
+      "y": 68.2,
+      "partNo": "C 30912",
+      "desc": "WHEEL - front (white) (includes items 5 and 6)",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 76.12,
+      "y": 60.79,
+      "partNo": "219- 403",
+      "desc": "FITTING - lube",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 82.17,
+      "y": 56.49,
+      "partNo": "C 44499",
+      "desc": "BEARING - wheel, inner",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 63.32,
+      "y": 72.98,
+      "partNo": "C 44499",
+      "desc": "BEARING - wheel, outer",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 50.15,
+      "y": 82.41,
+      "partNo": "C 44478",
+      "desc": "CAP - plastic, front",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 40.37,
+      "y": 90.41,
+      "partNo": "C 28965",
+      "desc": "CAP - hub, front wheel (optional)",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "C 13106 — COVER - lube fitting (reqd 2)"
+}

@@ -1,0 +1,130 @@
+{
+  "sectionTitle": "Hydraulic Pump (Cessna)",
+  "breadcrumb": "Hydraulic Pump (Cessna)",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/hydraulic_pump_cessna.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 78.67,
+      "y": 53.78,
+      "partNo": "C 28709",
+      "desc": "SPRING",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 54.05,
+      "y": 49.47,
+      "partNo": "C 28718",
+      "desc": "DIAPHRAGM - wear plate",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 87.58,
+      "y": 75.31,
+      "partNo": "NSS*",
+      "desc": "COVER - front",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 21.82,
+      "y": 17.88,
+      "partNo": "NSS*",
+      "desc": "COVER - rear",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 90.63,
+      "y": 86.15,
+      "partNo": "C 28711",
+      "desc": "SEAL - shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 46.67,
+      "y": 39.68,
+      "partNo": "NSS*",
+      "desc": "BODY - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 70.93,
+      "y": 66.83,
+      "partNo": "C 28712",
+      "desc": "SEAL - diaphragm",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 59.68,
+      "y": 54.56,
+      "partNo": "C 28714",
+      "desc": "GASKET - back up",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 38.23,
+      "y": 32.76,
+      "partNo": "C 28215",
+      "desc": "KEY - 3/16\" square x .609",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 65.66,
+      "y": 61.22,
+      "partNo": "C 28713",
+      "desc": "GASKET - back up",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 31.19,
+      "y": 30.02,
+      "partNo": "NSS*",
+      "desc": "GEAR ASSEMBLY - drive",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 24.75,
+      "y": 63.44,
+      "partNo": "NSS*",
+      "desc": "GEAR ASSEMBLY - drive",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 85.0,
+      "y": 59.13,
+      "partNo": "211- 306",
+      "desc": "BALL - steel 7/32\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 46.67,
+      "y": 89.54,
+      "partNo": "C 28715",
+      "desc": "PIN - dowel 1/4\" x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 9.39,
+      "y": 16.32,
+      "partNo": "O/L",
+      "desc": "BOLT - 5/16\" - 18 x 2-1/2\" 12 pt. flange",
+      "reqd": "4"
+    }
+  ],
+  "footnotes": "NSS* — PUMP - hyd. 9/16\" shaft (reqd 1)"
+}

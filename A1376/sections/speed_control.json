@@ -1,0 +1,98 @@
+{
+  "sectionTitle": "Speed Control",
+  "breadcrumb": "Speed Control",
+  "catalogLabel": "Catalog A1376",
+  "modelNumbers": "Catalog A1376 — Case 446 Compact Tractor, S/N 9742953 and After",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1376/speed_control.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 87.3,
+      "y": 18.43,
+      "partNo": "C 28237",
+      "desc": "KNOB - speed control",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 73.82,
+      "y": 25.78,
+      "partNo": "C 27593",
+      "desc": "BUSHING - lever",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 73.5,
+      "y": 58.49,
+      "partNo": "NSS",
+      "desc": "LEVER - speed control (use C29407, C28003)",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 73.35,
+      "y": 76.22,
+      "partNo": "C 27822",
+      "desc": "SPRING - compression",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 74.3,
+      "y": 84.63,
+      "partNo": "C 21518",
+      "desc": "WASHER - nylon",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 46.39,
+      "y": 75.17,
+      "partNo": "C 18742",
+      "desc": "ROD - control",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 40.84,
+      "y": 70.58,
+      "partNo": "129- 122",
+      "desc": "NUT - 5/16\" N.F. hex, zinc plated",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 35.13,
+      "y": 67.82,
+      "partNo": "C 19025",
+      "desc": "JOINT - ball",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 47.82,
+      "y": 52.58,
+      "partNo": "195- 521",
+      "desc": "WASHER - 5/16\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 50.67,
+      "y": 44.7,
+      "partNo": "132- 320",
+      "desc": "PIN - cotter 3/32\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 49.09,
+      "y": 18.69,
+      "partNo": "138- 2072",
+      "desc": "PIN - roll 1/8\" x 1-3/4\"",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}
