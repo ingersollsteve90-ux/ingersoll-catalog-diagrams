@@ -10,7 +10,7 @@
       "x": 35.35,
       "y": 37.65,
       "partNo": "126-111",
-      "description": "KEY - 1/8 x 5/8\" Woodruff",
+      "desc": "KEY - 1/8 x 5/8\" Woodruff",
       "reqd": "1"
     },
     {
@@ -18,7 +18,7 @@
       "x": 46.88,
       "y": 48.99,
       "partNo": "C15737",
-      "description": "PLATE - wear",
+      "desc": "PLATE - wear",
       "reqd": "1"
     },
     {
@@ -26,7 +26,7 @@
       "x": 14.28,
       "y": 60.43,
       "partNo": "C15481",
-      "description": "PUMP - hydraulic",
+      "desc": "PUMP - hydraulic",
       "reqd": "1"
     },
     {
@@ -34,7 +34,7 @@
       "x": 82.38,
       "y": 12.85,
       "partNo": "83-55",
-      "description": "SCREW - set 5/16 x 5/16\" NC socket head",
+      "desc": "SCREW - set 5/16 x 5/16\" NC socket head",
       "reqd": "2"
     },
     {
@@ -42,7 +42,7 @@
       "x": 60.89,
       "y": 36.94,
       "partNo": "83-55",
-      "description": "SCREW - set 5/16 x 5/16\" NC socket head",
+      "desc": "SCREW - set 5/16 x 5/16\" NC socket head",
       "reqd": "2"
     },
     {
@@ -50,7 +50,7 @@
       "x": 68.26,
       "y": 7.43,
       "partNo": "NSS",
-      "description": "HUB - (order item 16)",
+      "desc": "HUB - (order item 16)",
       "reqd": "1"
     },
     {
@@ -58,7 +58,7 @@
       "x": 41.89,
       "y": 42.97,
       "partNo": "C15733",
-      "description": "BODY - pump",
+      "desc": "BODY - pump",
       "reqd": "1"
     },
     {
@@ -68,12 +68,12 @@
       "variants": [
         {
           "partNo": "C15726",
-          "description": "COUPLING - pump (220, 222 & 442)",
+          "desc": "COUPLING - pump (220, 222 & 442)",
           "reqd": "1"
         },
         {
           "partNo": "C17298",
-          "description": "COUPLING - pump (444)",
+          "desc": "COUPLING - pump (444)",
           "reqd": "1"
         }
       ]
@@ -83,7 +83,7 @@
       "x": 71.27,
       "y": 72.88,
       "partNo": "C15735",
-      "description": "SEAL - rotary",
+      "desc": "SEAL - rotary",
       "reqd": "1"
     },
     {
@@ -91,7 +91,7 @@
       "x": 67.95,
       "y": 63.75,
       "partNo": "C15734",
-      "description": "COVER - front",
+      "desc": "COVER - front",
       "reqd": "1"
     },
     {
@@ -99,7 +99,7 @@
       "x": 39.4,
       "y": 82.92,
       "partNo": "F53109",
-      "description": "PIN - dowel",
+      "desc": "PIN - dowel",
       "reqd": "2"
     },
     {
@@ -107,7 +107,7 @@
       "x": 21.03,
       "y": 23.59,
       "partNo": "C15730",
-      "description": "COVER - rear",
+      "desc": "COVER - rear",
       "reqd": "1"
     },
     {
@@ -115,7 +115,7 @@
       "x": 23.83,
       "y": 66.56,
       "partNo": "C15731",
-      "description": "GEAR ASSEMBLY - driven",
+      "desc": "GEAR ASSEMBLY - driven",
       "reqd": "1"
     },
     {
@@ -123,7 +123,7 @@
       "x": 13.45,
       "y": 22.59,
       "partNo": "113-111",
-      "description": "BOLT",
+      "desc": "BOLT",
       "reqd": "4"
     },
     {
@@ -131,7 +131,7 @@
       "x": 54.25,
       "y": 54.91,
       "partNo": "C15739",
-      "description": "GASKET",
+      "desc": "GASKET",
       "reqd": "1"
     },
     {
@@ -139,7 +139,7 @@
       "x": 30.78,
       "y": 34.83,
       "partNo": "C18384",
-      "description": "GEAR ASSEMBLY - drive",
+      "desc": "GEAR ASSEMBLY - drive",
       "reqd": "1"
     },
     {
@@ -147,7 +147,7 @@
       "x": 58.71,
       "y": 58.83,
       "partNo": "C15740",
-      "description": "SEAL",
+      "desc": "SEAL",
       "reqd": "1"
     },
     {
@@ -155,7 +155,7 @@
       "x": 85.6,
       "y": 20.78,
       "partNo": "NSS",
-      "description": "HUB - (order item 16)",
+      "desc": "HUB - (order item 16)",
       "reqd": "1"
     },
     {
@@ -165,12 +165,12 @@
       "variants": [
         {
           "partNo": "A70112",
-          "description": "SPIDER - (for C15726 coupling)",
+          "desc": "SPIDER - (for C15726 coupling)",
           "reqd": "1"
         },
         {
           "partNo": "C15036",
-          "description": "SPIDER - (for C17298 coupling)",
+          "desc": "SPIDER - (for C17298 coupling)",
           "reqd": "1"
         }
       ]
@@ -180,7 +180,7 @@
       "x": 50.61,
       "y": 52.3,
       "partNo": "C15738",
-      "description": "SHIELD - heat",
+      "desc": "SHIELD - heat",
       "reqd": "1"
     },
     {
@@ -188,7 +188,7 @@
       "x": 26.63,
       "y": 28.01,
       "partNo": "C15732",
-      "description": "\"O\" RING",
+      "desc": "\"O\" RING",
       "reqd": "2"
     },
     {
@@ -196,7 +196,7 @@
       "x": 61.51,
       "y": 61.84,
       "partNo": "C15732",
-      "description": "\"O\" RING",
+      "desc": "\"O\" RING",
       "reqd": "2"
     }
   ],

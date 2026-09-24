@@ -10,7 +10,7 @@
       "x": 34.04,
       "y": 63.14,
       "partNo": "113-118",
-      "description": "BOLT - 5/16 x 5/8\" NC hex",
+      "desc": "BOLT - 5/16 x 5/8\" NC hex",
       "reqd": "4"
     },
     {
@@ -18,7 +18,7 @@
       "x": 54.54,
       "y": 13.04,
       "partNo": "C 14690",
-      "description": "CUSHION - reservoir",
+      "desc": "CUSHION - reservoir",
       "reqd": "2"
     },
     {
@@ -28,12 +28,12 @@
       "variants": [
         {
           "partNo": "C 14240",
-          "description": "SUPPORT - reservoir mounting R.H.",
+          "desc": "SUPPORT - reservoir mounting R.H.",
           "reqd": "1"
         },
         {
           "partNo": "C 14241",
-          "description": "SUPPORT - reservoir mounting L.H.",
+          "desc": "SUPPORT - reservoir mounting L.H.",
           "reqd": "1"
         }
       ]
@@ -43,7 +43,7 @@
       "x": 88.05,
       "y": 62.82,
       "partNo": "187-1251",
-      "description": "SCREW - 1/4 x 1-1/4\" NC flat head Phillips",
+      "desc": "SCREW - 1/4 x 1-1/4\" NC flat head Phillips",
       "reqd": "4"
     },
     {
@@ -51,7 +51,7 @@
       "x": 82.37,
       "y": 48.55,
       "partNo": "C 14246",
-      "description": "BRACKET - heat exchanger mounting",
+      "desc": "BRACKET - heat exchanger mounting",
       "reqd": "2"
     }
   ],

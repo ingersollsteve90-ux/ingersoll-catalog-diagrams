@@ -10,7 +10,7 @@
       "x": 85.1,
       "y": 58.71,
       "partNo": "219-403",
-      "description": "FITTING - lube",
+      "desc": "FITTING - lube",
       "reqd": "220/222: 2; 442/444: 2"
     },
     {
@@ -18,7 +18,7 @@
       "x": 37.88,
       "y": 67.43,
       "partNo": "A30064",
-      "description": "BOLT - rear wheel",
+      "desc": "BOLT - rear wheel",
       "reqd": "220/222: —; 442/444: 12"
     },
     {
@@ -26,7 +26,7 @@
       "x": 24.11,
       "y": 47.28,
       "partNo": "C24435",
-      "description": "WHEEL - rear, 5 bolt",
+      "desc": "WHEEL - rear, 5 bolt",
       "reqd": "220/222: 2; 442/444: —"
     },
     {
@@ -34,7 +34,7 @@
       "x": 74.87,
       "y": 70.74,
       "partNo": "C12111",
-      "description": "BEARING - wheel, outer",
+      "desc": "BEARING - wheel, outer",
       "reqd": "220/222: 2; 442/444: 2"
     },
     {
@@ -42,7 +42,7 @@
       "x": 66.34,
       "y": 29.85,
       "partNo": "C24438",
-      "description": "WHEEL - rear, 6 bolt",
+      "desc": "WHEEL - rear, 6 bolt",
       "reqd": "220/222: —; 442/444: 2"
     },
     {
@@ -50,7 +50,7 @@
       "x": 57.29,
       "y": 88.18,
       "partNo": "A70062",
-      "description": "CAP - hub front wheel (optional)",
+      "desc": "CAP - hub front wheel (optional)",
       "reqd": "220/222: 2; 442/444: 2"
     },
     {
@@ -58,7 +58,7 @@
       "x": 33.42,
       "y": 63.37,
       "partNo": "A70185",
-      "description": "CAP - hub, rear (optional)",
+      "desc": "CAP - hub, rear (optional)",
       "reqd": "220/222: 2; 442/444: —"
     },
     {
@@ -66,7 +66,7 @@
       "x": 89.56,
       "y": 52.4,
       "partNo": "C12110",
-      "description": "BEARING - wheel, inner",
+      "desc": "BEARING - wheel, inner",
       "reqd": "220/222: 2; 442/444: 2"
     },
     {
@@ -74,7 +74,7 @@
       "x": 64.11,
       "y": 80.36,
       "partNo": "C12370",
-      "description": "CAP - plastic, front",
+      "desc": "CAP - plastic, front",
       "reqd": "220/222: 2; 442/444: 2"
     },
     {
@@ -82,7 +82,7 @@
       "x": 10.6,
       "y": 61.27,
       "partNo": "C10314",
-      "description": "BOLT - rear wheel",
+      "desc": "BOLT - rear wheel",
       "reqd": "220/222: 10; 442/444: —"
     },
     {
@@ -90,7 +90,7 @@
       "x": 79.2,
       "y": 65.03,
       "partNo": "C24433",
-      "description": "WHEEL - front (includes bearings)",
+      "desc": "WHEEL - front (includes bearings)",
       "reqd": "220/222: 2; 442/444: 2"
     }
   ],

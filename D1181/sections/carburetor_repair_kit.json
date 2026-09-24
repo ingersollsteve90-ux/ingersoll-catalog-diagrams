@@ -10,7 +10,7 @@
       "x": 58.67,
       "y": 30.37,
       "partNo": "A 72083",
-      "description": "GASKET - bowl screw",
+      "desc": "GASKET - bowl screw",
       "reqd": "1"
     },
     {
@@ -18,7 +18,7 @@
       "x": 57.05,
       "y": 91.25,
       "partNo": "A 72083",
-      "description": "GASKET - bowl screw",
+      "desc": "GASKET - bowl screw",
       "reqd": "1"
     },
     {
@@ -26,7 +26,7 @@
       "x": 12.74,
       "y": 43.88,
       "partNo": "KO 200383",
-      "description": "SPRING - main fuel adjust",
+      "desc": "SPRING - main fuel adjust",
       "reqd": "1"
     },
     {
@@ -34,7 +34,7 @@
       "x": 58.21,
       "y": 22.53,
       "partNo": "NSS",
-      "description": "GASKET - bowl baffle",
+      "desc": "GASKET - bowl baffle",
       "reqd": "1"
     },
     {
@@ -42,7 +42,7 @@
       "x": 74.48,
       "y": 73.76,
       "partNo": "NSS",
-      "description": "GASKET - bowl baffle",
+      "desc": "GASKET - bowl baffle",
       "reqd": "1"
     },
     {
@@ -50,7 +50,7 @@
       "x": 71.48,
       "y": 93.75,
       "partNo": "A 72084",
-      "description": "SCREW AND GASKET ASSEMBLY - carburetor bowl",
+      "desc": "SCREW AND GASKET ASSEMBLY - carburetor bowl",
       "reqd": "1"
     },
     {
@@ -58,7 +58,7 @@
       "x": 32.94,
       "y": 48.09,
       "partNo": "KO 200380",
-      "description": "SPRING - tension, idle adjust",
+      "desc": "SPRING - tension, idle adjust",
       "reqd": "1"
     },
     {
@@ -66,7 +66,7 @@
       "x": 77.82,
       "y": 9.24,
       "partNo": "NSS",
-      "description": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
       "reqd": "1"
     },
     {
@@ -74,7 +74,7 @@
       "x": 9.28,
       "y": 71.37,
       "partNo": "NSS",
-      "description": "INLET NEEDLE AND SEAT ASSEMBLY",
+      "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
       "reqd": "1"
     },
     {
@@ -82,7 +82,7 @@
       "x": 22.9,
       "y": 41.38,
       "partNo": "KO 200380",
-      "description": "SPRING - idle fuel adjust",
+      "desc": "SPRING - idle fuel adjust",
       "reqd": "1"
     },
     {
@@ -90,7 +90,7 @@
       "x": 74.24,
       "y": 81.03,
       "partNo": "A 72080",
-      "description": "BOWL - carburetor",
+      "desc": "BOWL - carburetor",
       "reqd": "1"
     },
     {
@@ -98,7 +98,7 @@
       "x": 58.21,
       "y": 17.87,
       "partNo": "NSS",
-      "description": "GASKET - bowl ring",
+      "desc": "GASKET - bowl ring",
       "reqd": "1"
     },
     {
@@ -106,7 +106,7 @@
       "x": 74.01,
       "y": 66.26,
       "partNo": "NSS",
-      "description": "GASKET - bowl ring",
+      "desc": "GASKET - bowl ring",
       "reqd": "1"
     },
     {
@@ -114,7 +114,7 @@
       "x": 71.59,
       "y": 36.73,
       "partNo": "A 72103",
-      "description": "KIT - carburetor repair",
+      "desc": "KIT - carburetor repair",
       "reqd": "1"
     },
     {
@@ -122,7 +122,7 @@
       "x": 72.98,
       "y": 59.56,
       "partNo": "A 72078",
-      "description": "FLOAT - carburetor",
+      "desc": "FLOAT - carburetor",
       "reqd": "1"
     },
     {
@@ -132,12 +132,12 @@
       "variants": [
         {
           "partNo": "A 72099",
-          "description": "NEEDLE - idle adjust (220, 222 & 442)",
+          "desc": "NEEDLE - idle adjust (220, 222 & 442)",
           "reqd": "1"
         },
         {
           "partNo": "KO 275231",
-          "description": "NEEDLE - idle adjust (444)",
+          "desc": "NEEDLE - idle adjust (444)",
           "reqd": "1"
         }
       ]
@@ -147,7 +147,7 @@
       "x": 58.21,
       "y": 9.12,
       "partNo": "A 72079",
-      "description": "PIN - float",
+      "desc": "PIN - float",
       "reqd": "1"
     },
     {
@@ -155,7 +155,7 @@
       "x": 54.51,
       "y": 55.81,
       "partNo": "A 72079",
-      "description": "PIN - float",
+      "desc": "PIN - float",
       "reqd": "1"
     },
     {
@@ -163,7 +163,7 @@
       "x": 37.32,
       "y": 52.86,
       "partNo": "A 72092",
-      "description": "SCREW - idle adjust",
+      "desc": "SCREW - idle adjust",
       "reqd": "1"
     },
     {
@@ -173,17 +173,17 @@
       "variants": [
         {
           "partNo": "A 72077",
-          "description": "NEEDLE - main fuel adjust, 220, 222 & 442",
+          "desc": "NEEDLE - main fuel adjust, 220, 222 & 442",
           "reqd": "1"
         },
         {
           "partNo": "KO 275373",
-          "description": "NEEDLE - main fuel adjust, 444 (used prior to S/N 9652117)",
+          "desc": "NEEDLE - main fuel adjust, 444 (used prior to S/N 9652117)",
           "reqd": "1"
         },
         {
           "partNo": "KO 237489",
-          "description": "NEEDLE - main fuel adjust, 444 (used S/N 9652117 and after)",
+          "desc": "NEEDLE - main fuel adjust, 444 (used S/N 9652117 and after)",
           "reqd": "1"
         }
       ]

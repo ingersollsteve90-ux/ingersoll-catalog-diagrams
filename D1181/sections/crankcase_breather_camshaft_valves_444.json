@@ -10,7 +10,7 @@
       "x": 77.63,
       "y": 17.73,
       "partNo": "KO 235582",
-      "description": "VALVE - intake",
+      "desc": "VALVE - intake",
       "reqd": "1"
     },
     {
@@ -20,12 +20,12 @@
       "variants": [
         {
           "partNo": "KO 275066",
-          "description": "SPACER - camshaft, .005\"",
+          "desc": "SPACER - camshaft, .005\"",
           "reqd": "UAR"
         },
         {
           "partNo": "KO 275067",
-          "description": "SPACER - camshaft, .010\"",
+          "desc": "SPACER - camshaft, .010\"",
           "reqd": "UAR"
         }
       ]
@@ -35,7 +35,7 @@
       "x": 12.04,
       "y": 77.44,
       "partNo": "C 24884",
-      "description": "LOCK - valve retainer",
+      "desc": "LOCK - valve retainer",
       "reqd": "2"
     },
     {
@@ -43,7 +43,7 @@
       "x": 43.71,
       "y": 86.56,
       "partNo": "V 34346",
-      "description": "SPRING - actuating",
+      "desc": "SPRING - actuating",
       "reqd": "1"
     },
     {
@@ -51,7 +51,7 @@
       "x": 31.0,
       "y": 10.84,
       "partNo": "KO 235631",
-      "description": "PLATE - breather",
+      "desc": "PLATE - breather",
       "reqd": "1"
     },
     {
@@ -59,7 +59,7 @@
       "x": 11.22,
       "y": 58.56,
       "partNo": "25-104",
-      "description": "NUT - 1/4\" NC hex",
+      "desc": "NUT - 1/4\" NC hex",
       "reqd": "1"
     },
     {
@@ -67,7 +67,7 @@
       "x": 12.04,
       "y": 72.98,
       "partNo": "KO 230020",
-      "description": "ROTATOR - valve (Furnished in pairs only)",
+      "desc": "ROTATOR - valve (Furnished in pairs only)",
       "reqd": "2"
     },
     {
@@ -75,7 +75,7 @@
       "x": 77.63,
       "y": 30.99,
       "partNo": "KO 235007-S",
-      "description": "GUIDE - valve",
+      "desc": "GUIDE - valve",
       "reqd": "2"
     },
     {
@@ -83,7 +83,7 @@
       "x": 35.82,
       "y": 8.51,
       "partNo": "KO 235048",
-      "description": "GASKET - breather plate",
+      "desc": "GASKET - breather plate",
       "reqd": "1"
     },
     {
@@ -91,7 +91,7 @@
       "x": 58.36,
       "y": 87.41,
       "partNo": "KO 235053",
-      "description": "PIN - camshaft",
+      "desc": "PIN - camshaft",
       "reqd": "1"
     },
     {
@@ -99,7 +99,7 @@
       "x": 77.63,
       "y": 77.33,
       "partNo": "NSS",
-      "description": "LIFTER - valve",
+      "desc": "LIFTER - valve",
       "reqd": "1"
     },
     {
@@ -107,7 +107,7 @@
       "x": 59.08,
       "y": 22.61,
       "partNo": "KO 230170",
-      "description": "INSERT - exhaust valve seat",
+      "desc": "INSERT - exhaust valve seat",
       "reqd": "1"
     },
     {
@@ -115,7 +115,7 @@
       "x": 76.5,
       "y": 26.32,
       "partNo": "KO 230265",
-      "description": "INSERT - intake valve seat",
+      "desc": "INSERT - intake valve seat",
       "reqd": "1"
     },
     {
@@ -123,7 +123,7 @@
       "x": 18.09,
       "y": 16.67,
       "partNo": "KO 235117",
-      "description": "BAFFLE - breather",
+      "desc": "BAFFLE - breather",
       "reqd": "1"
     },
     {
@@ -131,7 +131,7 @@
       "x": 11.43,
       "y": 19.96,
       "partNo": "KO 235118",
-      "description": "FILTER - breather",
+      "desc": "FILTER - breather",
       "reqd": "1"
     },
     {
@@ -139,7 +139,7 @@
       "x": 41.45,
       "y": 69.91,
       "partNo": "C 24611",
-      "description": "CAMSHAFT ASSEMBLY (includes actuating spring)",
+      "desc": "CAMSHAFT ASSEMBLY (includes actuating spring)",
       "reqd": "1"
     },
     {
@@ -147,7 +147,7 @@
       "x": 85.93,
       "y": 74.68,
       "partNo": "KOD235327",
-      "description": "LIFTER ASSEMBLY",
+      "desc": "LIFTER ASSEMBLY",
       "reqd": "2"
     },
     {
@@ -155,7 +155,7 @@
       "x": 15.01,
       "y": 57.29,
       "partNo": "92-4",
-      "description": "LOCKWASHER - 1/4\"",
+      "desc": "LOCKWASHER - 1/4\"",
       "reqd": "1"
     },
     {
@@ -163,7 +163,7 @@
       "x": 20.03,
       "y": 54.96,
       "partNo": "KO 275220",
-      "description": "STUD - valve cover",
+      "desc": "STUD - valve cover",
       "reqd": "1"
     },
     {
@@ -171,7 +171,7 @@
       "x": 23.93,
       "y": 52.83,
       "partNo": "KO 275143",
-      "description": "COVER - valve",
+      "desc": "COVER - valve",
       "reqd": "1"
     },
     {
@@ -179,7 +179,7 @@
       "x": 77.42,
       "y": 13.91,
       "partNo": "KO 235838",
-      "description": "VALVE - exhaust",
+      "desc": "VALVE - exhaust",
       "reqd": "1"
     },
     {
@@ -187,7 +187,7 @@
       "x": 24.95,
       "y": 13.38,
       "partNo": "KO 235047",
-      "description": "REED - breather",
+      "desc": "REED - breather",
       "reqd": "1"
     },
     {
@@ -195,7 +195,7 @@
       "x": 11.73,
       "y": 66.62,
       "partNo": "KO 235011",
-      "description": "SEAT - valve spring",
+      "desc": "SEAT - valve spring",
       "reqd": "2"
     },
     {
@@ -203,7 +203,7 @@
       "x": 11.94,
       "y": 70.33,
       "partNo": "KO 235168",
-      "description": "SPRING - valve",
+      "desc": "SPRING - valve",
       "reqd": "2"
     },
     {
@@ -211,7 +211,7 @@
       "x": 43.19,
       "y": 43.71,
       "partNo": "KO 275144",
-      "description": "GASKET - valve cover",
+      "desc": "GASKET - valve cover",
       "reqd": "1"
     },
     {
@@ -219,7 +219,7 @@
       "x": 33.46,
       "y": 48.7,
       "partNo": "KO 231032",
-      "description": "SEAL - breather",
+      "desc": "SEAL - breather",
       "reqd": "1"
     },
     {
@@ -227,7 +227,7 @@
       "x": 77.42,
       "y": 71.82,
       "partNo": "NSS",
-      "description": "SCREW - tappet adjusting",
+      "desc": "SCREW - tappet adjusting",
       "reqd": "1"
     }
   ],

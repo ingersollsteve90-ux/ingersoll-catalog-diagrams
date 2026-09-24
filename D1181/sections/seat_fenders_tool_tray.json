@@ -12,12 +12,12 @@
       "variants": [
         {
           "partNo": "C16444",
-          "description": "FENDER - L.H. (442 & 444)",
+          "desc": "FENDER - L.H. (442 & 444)",
           "reqd": "1"
         },
         {
           "partNo": "C16445",
-          "description": "FENDER - R.H. (442 & 444)",
+          "desc": "FENDER - R.H. (442 & 444)",
           "reqd": "1"
         }
       ]
@@ -27,7 +27,7 @@
       "x": 82.49,
       "y": 87.38,
       "partNo": "131-178",
-      "description": "NUT - lock 3/8\" NC hex",
+      "desc": "NUT - lock 3/8\" NC hex",
       "reqd": "1"
     },
     {
@@ -35,7 +35,7 @@
       "x": 24.14,
       "y": 55.98,
       "partNo": "195-2021",
-      "description": "WASHER - 5/16 x 1-1/4\" OD, zinc plated",
+      "desc": "WASHER - 5/16 x 1-1/4\" OD, zinc plated",
       "reqd": "4"
     },
     {
@@ -43,7 +43,7 @@
       "x": 25.25,
       "y": 85.2,
       "partNo": "C16408",
-      "description": "SUPPORT - seat, front",
+      "desc": "SUPPORT - seat, front",
       "reqd": "1"
     },
     {
@@ -51,7 +51,7 @@
       "x": 79.04,
       "y": 85.41,
       "partNo": "C17066",
-      "description": "WASHER - cupped",
+      "desc": "WASHER - cupped",
       "reqd": "1"
     },
     {
@@ -59,7 +59,7 @@
       "x": 68.15,
       "y": 81.26,
       "partNo": "C16393",
-      "description": "LEVER - shift",
+      "desc": "LEVER - shift",
       "reqd": "1"
     },
     {
@@ -67,7 +67,7 @@
       "x": 28.47,
       "y": 64.68,
       "partNo": "C16430",
-      "description": "TRAY - tool",
+      "desc": "TRAY - tool",
       "reqd": "1"
     },
     {
@@ -77,12 +77,12 @@
       "variants": [
         {
           "partNo": "C16446",
-          "description": "FENDER - L.H. (220 & 222)",
+          "desc": "FENDER - L.H. (220 & 222)",
           "reqd": "1"
         },
         {
           "partNo": "C16447",
-          "description": "FENDER - R.H. (220 & 222)",
+          "desc": "FENDER - R.H. (220 & 222)",
           "reqd": "1"
         }
       ]
@@ -94,12 +94,12 @@
       "variants": [
         {
           "partNo": "C24318",
-          "description": "SEAT - 220 & 222",
+          "desc": "SEAT - 220 & 222",
           "reqd": "1"
         },
         {
           "partNo": "C24319",
-          "description": "SEAT - 442 & 444",
+          "desc": "SEAT - 442 & 444",
           "reqd": "1"
         }
       ]
@@ -109,7 +109,7 @@
       "x": 65.93,
       "y": 41.16,
       "partNo": "C16429",
-      "description": "PIN - seat hinge",
+      "desc": "PIN - seat hinge",
       "reqd": "1"
     },
     {
@@ -117,7 +117,7 @@
       "x": 37.81,
       "y": 91.73,
       "partNo": "C14728",
-      "description": "GRIP - shift lever",
+      "desc": "GRIP - shift lever",
       "reqd": "1"
     },
     {
@@ -125,7 +125,7 @@
       "x": 14.36,
       "y": 78.57,
       "partNo": "C16404",
-      "description": "SUPPORT - seat, rear",
+      "desc": "SUPPORT - seat, rear",
       "reqd": "1"
     },
     {
@@ -135,12 +135,12 @@
       "variants": [
         {
           "partNo": "113-441",
-          "description": "BOLT - 1/2 x 2-1/4\" NC hex (442 & 444)",
+          "desc": "BOLT - 1/2 x 2-1/4\" NC hex (442 & 444)",
           "reqd": "2"
         },
         {
           "partNo": "113-427",
-          "description": "BOLT - 1/2 x 3-1/4\" NC hex (220 & 222)",
+          "desc": "BOLT - 1/2 x 3-1/4\" NC hex (220 & 222)",
           "reqd": "2"
         }
       ]
@@ -150,7 +150,7 @@
       "x": 51.48,
       "y": 57.32,
       "partNo": "113-424",
-      "description": "BOLT - 1/2 x 1\" NC hex",
+      "desc": "BOLT - 1/2 x 1\" NC hex",
       "reqd": "2"
     },
     {
@@ -158,7 +158,7 @@
       "x": 47.37,
       "y": 36.6,
       "partNo": "C17152",
-      "description": "HINGE ASSEMBLY - seat",
+      "desc": "HINGE ASSEMBLY - seat",
       "reqd": "1"
     },
     {
@@ -166,7 +166,7 @@
       "x": 16.91,
       "y": 46.34,
       "partNo": "C14534",
-      "description": "BUMPER - seat",
+      "desc": "BUMPER - seat",
       "reqd": "2"
     },
     {
@@ -174,7 +174,7 @@
       "x": 21.36,
       "y": 36.5,
       "partNo": "C15410",
-      "description": "CUSHION - rubber",
+      "desc": "CUSHION - rubber",
       "reqd": "8"
     },
     {
@@ -182,7 +182,7 @@
       "x": 21.92,
       "y": 52.97,
       "partNo": "C15410",
-      "description": "CUSHION - rubber",
+      "desc": "CUSHION - rubber",
       "reqd": "8"
     },
     {
@@ -190,7 +190,7 @@
       "x": 59.7,
       "y": 72.25,
       "partNo": "121-106",
-      "description": "BOLT - 5/16 x 1/2\" flange whizlock",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock",
       "reqd": "14"
     },
     {
@@ -198,7 +198,7 @@
       "x": 54.04,
       "y": 44.89,
       "partNo": "121-106",
-      "description": "BOLT - 5/16 x 1/2\" flange whizlock",
+      "desc": "BOLT - 5/16 x 1/2\" flange whizlock",
       "reqd": "14"
     },
     {
@@ -206,7 +206,7 @@
       "x": 62.93,
       "y": 78.78,
       "partNo": "195-2029",
-      "description": "WASHER - 7/16 x 1-1/4\" OD",
+      "desc": "WASHER - 7/16 x 1-1/4\" OD",
       "reqd": "1"
     },
     {
@@ -214,7 +214,7 @@
       "x": 74.71,
       "y": 83.65,
       "partNo": "C17216",
-      "description": "SPRING - shift lever",
+      "desc": "SPRING - shift lever",
       "reqd": "1"
     },
     {
@@ -222,7 +222,7 @@
       "x": 25.69,
       "y": 59.92,
       "partNo": "26-524",
-      "description": "BOLT - 5/16 x 1-1/2\"",
+      "desc": "BOLT - 5/16 x 1-1/2\"",
       "reqd": "4"
     },
     {
@@ -230,7 +230,7 @@
       "x": 42.81,
       "y": 61.37,
       "partNo": "192-23",
-      "description": "LOCKWASHER - 1/2\"",
+      "desc": "LOCKWASHER - 1/2\"",
       "reqd": "4"
     }
   ],

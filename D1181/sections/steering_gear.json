@@ -10,7 +10,7 @@
       "x": 52.75,
       "y": 58.16,
       "partNo": "195-2069",
-      "description": "WASHER - 5/8\" zinc plated",
+      "desc": "WASHER - 5/8\" zinc plated",
       "reqd": "1"
     },
     {
@@ -18,7 +18,7 @@
       "x": 73.29,
       "y": 9.59,
       "partNo": "C18017",
-      "description": "CLIP - tinnerman (use with C18014 steering wheel)",
+      "desc": "CLIP - tinnerman (use with C18014 steering wheel)",
       "reqd": "2"
     },
     {
@@ -26,7 +26,7 @@
       "x": 43.51,
       "y": 91.25,
       "partNo": "192-20",
-      "description": "LOCKWASHER - 5/16\" zinc plated",
+      "desc": "LOCKWASHER - 5/16\" zinc plated",
       "reqd": "1"
     },
     {
@@ -34,7 +34,7 @@
       "x": 79.46,
       "y": 8.08,
       "partNo": "C16945",
-      "description": "CAP - steering wheel (also order [2] C18017 clips)",
+      "desc": "CAP - steering wheel (also order [2] C18017 clips)",
       "reqd": "1"
     },
     {
@@ -42,7 +42,7 @@
       "x": 54.12,
       "y": 10.19,
       "partNo": "C16945",
-      "description": "CAP - steering wheel (also order [2] C18017 clips)",
+      "desc": "CAP - steering wheel (also order [2] C18017 clips)",
       "reqd": "1"
     },
     {
@@ -50,7 +50,7 @@
       "x": 57.77,
       "y": 17.63,
       "partNo": "C12975",
-      "description": "WASHER - 5/8\"",
+      "desc": "WASHER - 5/8\"",
       "reqd": "1"
     },
     {
@@ -58,7 +58,7 @@
       "x": 47.84,
       "y": 39.15,
       "partNo": "126-16",
-      "description": "KEY - Woodruff 3/16\" x 3/4\"",
+      "desc": "KEY - Woodruff 3/16\" x 3/4\"",
       "reqd": "1"
     },
     {
@@ -66,7 +66,7 @@
       "x": 28.44,
       "y": 64.2,
       "partNo": "C14200",
-      "description": "PIN - pivot",
+      "desc": "PIN - pivot",
       "reqd": "1"
     },
     {
@@ -74,7 +74,7 @@
       "x": 25.59,
       "y": 28.49,
       "partNo": "C15096",
-      "description": "BUSHING - flanged nylon",
+      "desc": "BUSHING - flanged nylon",
       "reqd": "1"
     },
     {
@@ -82,7 +82,7 @@
       "x": 29.7,
       "y": 41.07,
       "partNo": "131-1112",
-      "description": "NUT - jam 3/4\"",
+      "desc": "NUT - jam 3/4\"",
       "reqd": "1"
     },
     {
@@ -90,7 +90,7 @@
       "x": 27.18,
       "y": 71.44,
       "partNo": "C14201",
-      "description": "WASHER - shim",
+      "desc": "WASHER - shim",
       "reqd": "4"
     },
     {
@@ -98,7 +98,7 @@
       "x": 46.36,
       "y": 85.22,
       "partNo": "C14201",
-      "description": "WASHER - shim",
+      "desc": "WASHER - shim",
       "reqd": "4"
     },
     {
@@ -108,42 +108,42 @@
       "variants": [
         {
           "partNo": "C18014",
-          "description": "WHEEL - steering, 220 (used prior to S/N 9647434)",
+          "desc": "WHEEL - steering, 220 (used prior to S/N 9647434)",
           "reqd": "1"
         },
         {
           "partNo": "C18014",
-          "description": "WHEEL - steering, 222 (used prior to S/N 9649226)",
+          "desc": "WHEEL - steering, 222 (used prior to S/N 9649226)",
           "reqd": "1"
         },
         {
           "partNo": "C18014",
-          "description": "WHEEL - steering, 442 (used prior to S/N 9650702)",
+          "desc": "WHEEL - steering, 442 (used prior to S/N 9650702)",
           "reqd": "1"
         },
         {
           "partNo": "C18014",
-          "description": "WHEEL - steering, 444 (used prior to S/N 9652579)",
+          "desc": "WHEEL - steering, 444 (used prior to S/N 9652579)",
           "reqd": "1"
         },
         {
           "partNo": "C18014",
-          "description": "WHEEL - steering, 220 (used S/N 9647434 and after)",
+          "desc": "WHEEL - steering, 220 (used S/N 9647434 and after)",
           "reqd": "1"
         },
         {
           "partNo": "C18014",
-          "description": "WHEEL - steering, 222 (used S/N 9649226 and after)",
+          "desc": "WHEEL - steering, 222 (used S/N 9649226 and after)",
           "reqd": "1"
         },
         {
           "partNo": "C18014",
-          "description": "WHEEL - steering, 442 (used S/N 9650702 and after)",
+          "desc": "WHEEL - steering, 442 (used S/N 9650702 and after)",
           "reqd": "1"
         },
         {
           "partNo": "C18014",
-          "description": "WHEEL - steering, 444 (used S/N 9652579 and after)",
+          "desc": "WHEEL - steering, 444 (used S/N 9652579 and after)",
           "reqd": "1"
         }
       ]
@@ -153,7 +153,7 @@
       "x": 57.43,
       "y": 14.41,
       "partNo": "131-356",
-      "description": "NUT - lock 5/8\"",
+      "desc": "NUT - lock 5/8\"",
       "reqd": "1"
     },
     {
@@ -161,7 +161,7 @@
       "x": 28.44,
       "y": 35.53,
       "partNo": "C16200",
-      "description": "SHAFT - steering",
+      "desc": "SHAFT - steering",
       "reqd": "1"
     },
     {
@@ -169,7 +169,7 @@
       "x": 58.23,
       "y": 73.75,
       "partNo": "C16200",
-      "description": "SHAFT - steering",
+      "desc": "SHAFT - steering",
       "reqd": "1"
     },
     {
@@ -177,7 +177,7 @@
       "x": 16.91,
       "y": 53.54,
       "partNo": "192-21",
-      "description": "LOCKWASHER - 3/8\"",
+      "desc": "LOCKWASHER - 3/8\"",
       "reqd": "4"
     },
     {
@@ -185,7 +185,7 @@
       "x": 23.76,
       "y": 78.48,
       "partNo": "C14990",
-      "description": "GEAR - steering",
+      "desc": "GEAR - steering",
       "reqd": "1"
     },
     {
@@ -193,7 +193,7 @@
       "x": 44.19,
       "y": 87.93,
       "partNo": "195-2021",
-      "description": "WASHER",
+      "desc": "WASHER",
       "reqd": "1"
     },
     {
@@ -201,7 +201,7 @@
       "x": 12.46,
       "y": 55.15,
       "partNo": "113-206",
-      "description": "BOLT - 3/8\" x 3/4\" NC hex",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex",
       "reqd": "4"
     },
     {
@@ -209,7 +209,7 @@
       "x": 88.7,
       "y": 41.57,
       "partNo": "C24098",
-      "description": "TUBE - steering",
+      "desc": "TUBE - steering",
       "reqd": "1"
     },
     {
@@ -217,7 +217,7 @@
       "x": 60.28,
       "y": 58.16,
       "partNo": "219-404",
-      "description": "FITTING - lube 45°",
+      "desc": "FITTING - lube 45°",
       "reqd": "2"
     },
     {
@@ -225,7 +225,7 @@
       "x": 23.76,
       "y": 74.15,
       "partNo": "219-404",
-      "description": "FITTING - lube 45°",
+      "desc": "FITTING - lube 45°",
       "reqd": "2"
     },
     {
@@ -233,7 +233,7 @@
       "x": 43.05,
       "y": 94.77,
       "partNo": "113-103",
-      "description": "BOLT - 5/16\" x 7/8\" NC hex",
+      "desc": "BOLT - 5/16\" x 7/8\" NC hex",
       "reqd": "1"
     },
     {
@@ -241,7 +241,7 @@
       "x": 21.71,
       "y": 50.32,
       "partNo": "C16644",
-      "description": "SUPPORT - steering gear",
+      "desc": "SUPPORT - steering gear",
       "reqd": "1"
     }
   ],
