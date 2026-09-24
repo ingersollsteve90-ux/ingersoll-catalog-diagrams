@@ -1,0 +1,379 @@
+{
+  "sectionTitle": "Carburetor, Air Filter, Manifold and Fuel Pump (S/N and After)",
+  "breadcrumb": "Carburetor, Air Filter, Manifold and Fuel Pump (S/N and After)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/carburetor_air_filter_manifold_fuel_pump_after_sn.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 58.67,
+      "y": 14.99,
+      "partNo": "C 26703",
+      "desc": "NUT - wing",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 71.89,
+      "y": 19.04,
+      "partNo": "C 29943",
+      "desc": "COVER - air cleaner",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 82.22,
+      "y": 24.49,
+      "partNo": "C 22581",
+      "desc": "PRECLEANER",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 73.78,
+      "y": 24.17,
+      "partNo": "C 22424",
+      "desc": "ELEMENT - air cleaner",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 70.67,
+      "y": 59.19,
+      "partNo": "C 29952",
+      "desc": "ADAPTER - carburetor",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 76.11,
+      "y": 39.97,
+      "partNo": "C 29945",
+      "desc": "HOUSING - air cleaner",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 46.89,
+      "y": 34.42,
+      "partNo": "187-1036",
+      "desc": "SCREW - tapping 1/4'' - 20 x 1/2''",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 33.78,
+      "y": 17.01,
+      "partNo": "182-152",
+      "desc": "SCREW - No. 10 - 32 x 1-1/2''",
+      "reqd": "3"
+    },
+    {
+      "ref": "9",
+      "x": 33.56,
+      "y": 21.82,
+      "partNo": "195-516",
+      "desc": "WASHER",
+      "reqd": "3"
+    },
+    {
+      "ref": "10",
+      "x": 31.89,
+      "y": 25.77,
+      "partNo": "C 29946",
+      "desc": "DEFLECTOR - air",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 15.56,
+      "y": 47.13,
+      "partNo": "C 29947",
+      "desc": "TUBE - air intake",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 22.78,
+      "y": 74.89,
+      "partNo": "214-252",
+      "desc": "CLAMP - 1/2''",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 35.67,
+      "y": 71.9,
+      "partNo": "214-252",
+      "desc": "CLAMP - 1/2''",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 42.67,
+      "y": 70.19,
+      "partNo": "214-252",
+      "desc": "CLAMP - 1/2''",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 40.67,
+      "y": 75.0,
+      "partNo": "214-252",
+      "desc": "CLAMP - 1/2''",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 24.89,
+      "y": 45.1,
+      "partNo": "C 29948",
+      "desc": "FILTER - breather tube",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 24.78,
+      "y": 35.81,
+      "partNo": "C 29949",
+      "desc": "TUBE - crankcase breather",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 73.22,
+      "y": 49.8,
+      "variants": [
+        {
+          "partNo": "C 29868",
+          "desc": "CARBURETOR - fuel (226, 446) (repairs page 23)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 29869",
+          "desc": "CARBURETOR - fuel (448) (repairs page 23)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "16",
+      "x": 70.11,
+      "y": 56.85,
+      "partNo": "C 29969",
+      "desc": "GASKET - carburetor mounting",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 71.44,
+      "y": 45.53,
+      "partNo": "C 29944",
+      "desc": "SEAL - \"O\" ring",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 70.33,
+      "y": 61.97,
+      "partNo": "C 29953",
+      "desc": "GASKET - adapter to manifold",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 84.33,
+      "y": 75.21,
+      "partNo": "C 28720",
+      "desc": "MANIFOLD - intake",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 55.44,
+      "y": 73.18,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4''",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 55.78,
+      "y": 76.28,
+      "partNo": "113-65",
+      "desc": "BOLT - 1/4'' - 20 x 1-3/8''",
+      "reqd": "2"
+    },
+    {
+      "ref": "22",
+      "x": 84.33,
+      "y": 63.68,
+      "partNo": "113-121",
+      "desc": "BOLT - 5/16'' - 18 x 2''",
+      "reqd": "4"
+    },
+    {
+      "ref": "23",
+      "x": 84.44,
+      "y": 68.81,
+      "partNo": "92-5",
+      "desc": "LOCK WASHER - 5/16''",
+      "reqd": "6"
+    },
+    {
+      "ref": "23",
+      "x": 65.11,
+      "y": 70.83,
+      "partNo": "92-5",
+      "desc": "LOCK WASHER - 5/16''",
+      "reqd": "6"
+    },
+    {
+      "ref": "24",
+      "x": 50.0,
+      "y": 69.98,
+      "partNo": "C 26202",
+      "desc": "GASKET - manifold",
+      "reqd": "2"
+    },
+    {
+      "ref": "25",
+      "x": 39.78,
+      "y": 62.72,
+      "partNo": "C 29955",
+      "desc": "SUPPORT - air cleaner",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 64.11,
+      "y": 74.79,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16'' - 18 x 1''",
+      "reqd": "2"
+    },
+    {
+      "ref": "27",
+      "x": 26.56,
+      "y": 60.69,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16'' - 18",
+      "reqd": "1"
+    },
+    {
+      "ref": "28",
+      "x": 36.78,
+      "y": 49.37,
+      "partNo": "C 22369",
+      "desc": "SCREW - No. 10 - 32 x 5/16''",
+      "reqd": "2"
+    },
+    {
+      "ref": "29",
+      "x": 41.11,
+      "y": 52.68,
+      "partNo": "C 29957",
+      "desc": "BRACKET - choke cable",
+      "reqd": "1"
+    },
+    {
+      "ref": "30",
+      "x": 46.22,
+      "y": 45.21,
+      "partNo": "C 29506",
+      "desc": "CLIP - choke cable",
+      "reqd": "1"
+    },
+    {
+      "ref": "31",
+      "x": 40.56,
+      "y": 46.59,
+      "partNo": "187-1511",
+      "desc": "SCREW - No. 10 - 32 x 1/2''",
+      "reqd": "1"
+    },
+    {
+      "ref": "32",
+      "x": 56.44,
+      "y": 55.14,
+      "partNo": "C 10678",
+      "desc": "ELBOW - hose 90\u00b0",
+      "reqd": "1"
+    },
+    {
+      "ref": "33",
+      "x": 24.22,
+      "y": 40.08,
+      "partNo": "C 22947",
+      "desc": "TIE",
+      "reqd": "1"
+    },
+    {
+      "ref": "34",
+      "x": 25.22,
+      "y": 56.53,
+      "partNo": "C 30033",
+      "desc": "GROMMET - rubber",
+      "reqd": "1"
+    },
+    {
+      "ref": "35",
+      "x": 30.22,
+      "y": 84.4,
+      "partNo": "C 29959",
+      "desc": "PUMP - fuel",
+      "reqd": "1"
+    },
+    {
+      "ref": "36",
+      "x": 20.78,
+      "y": 82.9,
+      "partNo": "182-559",
+      "desc": "SCREW - tapping, No. 10 x 3/4''",
+      "reqd": "2"
+    },
+    {
+      "ref": "38",
+      "x": 29.44,
+      "y": 66.14,
+      "partNo": "C 28937",
+      "desc": "HOSE - fuel 16'' (cut to length)",
+      "reqd": "1"
+    },
+    {
+      "ref": "39",
+      "x": 43.0,
+      "y": 77.35,
+      "partNo": "C 28937",
+      "desc": "HOSE - vacuum (cut to length)",
+      "reqd": "1"
+    },
+    {
+      "ref": "40",
+      "x": 35.89,
+      "y": 74.14,
+      "partNo": "C 20411",
+      "desc": "CAP - fuel outlet",
+      "reqd": "1"
+    },
+    {
+      "ref": "41",
+      "x": 38.11,
+      "y": 85.04,
+      "partNo": "C 20412",
+      "desc": "TUBE - vacuum port",
+      "reqd": "1"
+    },
+    {
+      "ref": "42",
+      "x": 33.67,
+      "y": 63.25,
+      "partNo": "195-102",
+      "desc": "WASHER",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

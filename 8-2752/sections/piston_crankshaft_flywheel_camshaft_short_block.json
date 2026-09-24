@@ -1,0 +1,261 @@
+{
+  "sectionTitle": "Service Short Block \u2014 Piston, Crankshaft, Flywheel and Camshaft",
+  "breadcrumb": "Service Short Block \u2014 Piston, Crankshaft, Flywheel and Camshaft",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/piston_crankshaft_flywheel_camshaft_short_block.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 85.02,
+      "y": 83.46,
+      "variants": [
+        {
+          "partNo": "C 24931",
+          "desc": "PISTON - standard (includes pin and retaining ring)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 24932",
+          "desc": "PISTON - .005'' (0.13 mm) oversize (includes pin and retaining ring)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 24933",
+          "desc": "PISTON - .010'' (0.25 mm) oversize (includes pin and retaining ring)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 24934",
+          "desc": "PISTON - .020'' (0.51 mm) oversize (includes pin and retaining ring)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 24935",
+          "desc": "PISTON - .030'' (.076 mm) oversize (includes pin and retaining ring)",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 76.92,
+      "y": 75.7,
+      "partNo": "C 29972",
+      "desc": "PIN - piston",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 77.02,
+      "y": 83.58,
+      "partNo": "C 20241",
+      "desc": "RING - retaining",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 55.67,
+      "y": 73.47,
+      "variants": [
+        {
+          "partNo": "C 29739",
+          "desc": "RING SET - piston (standard)",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 24938",
+          "desc": "RING SET - piston .005'' (0.13 mm) oversize",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 24939",
+          "desc": "RING SET - piston .010'' (0.25 mm) oversize",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 24940",
+          "desc": "RING SET - piston .020'' (0.51 mm) oversize",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 24941",
+          "desc": "RING SET - piston .030'' (0.76 mm) oversize",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "x": 76.32,
+      "y": 66.18,
+      "variants": [
+        {
+          "partNo": "C 25383",
+          "desc": "CONNECTING ROD - (standard) includes nut & bolt",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 25384",
+          "desc": "CONNECTING ROD - .010'' (0.25 mm) undersize, includes nut & bolt",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 25385",
+          "desc": "CONNECTING ROD - .020'' (0.51 mm) undersize, includes nut & bolt",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 25386",
+          "desc": "CONNECTING ROD - .030'' (0.76 mm) undersize, includes nut & bolt",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "x": 82.19,
+      "y": 66.65,
+      "partNo": "C 25774",
+      "desc": "BOLT - connecting rod 5/16'' special N.F.",
+      "reqd": "4"
+    },
+    {
+      "ref": "7",
+      "x": 72.27,
+      "y": 64.42,
+      "partNo": "C 25775",
+      "desc": "NUT - lock, connecting rod 5/16'' N.F.",
+      "reqd": "4"
+    },
+    {
+      "ref": "8",
+      "x": 14.17,
+      "y": 36.91,
+      "partNo": "C 20223",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 17.61,
+      "y": 36.44,
+      "partNo": "C 24325",
+      "desc": "HUB - governor cup",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 20.55,
+      "y": 30.56,
+      "partNo": "C 24326",
+      "desc": "CUP - governor",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 24.6,
+      "y": 28.68,
+      "partNo": "211-216",
+      "desc": "BALL - governor",
+      "reqd": "5"
+    },
+    {
+      "ref": "12",
+      "x": 46.26,
+      "y": 18.22,
+      "partNo": "126-9",
+      "desc": "KEY - woodruff 1/8'' x 1/2''",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 51.32,
+      "y": 28.68,
+      "partNo": "C 32468",
+      "desc": "CAMSHAFT - (includes pin)",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 30.57,
+      "y": 22.22,
+      "partNo": "C 22261",
+      "desc": "GEAR ASSEMBLY - camshaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 42.61,
+      "y": 21.86,
+      "partNo": "C 20229",
+      "desc": "WASHER - thrust",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 47.87,
+      "y": 29.15,
+      "partNo": "C 20233",
+      "desc": "PIN - center",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 80.57,
+      "y": 47.37,
+      "partNo": "C 32470",
+      "desc": "CRANKSHAFT - engine",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 72.37,
+      "y": 50.78,
+      "partNo": "126-9",
+      "desc": "KEY - woodruff, crankshaft gear",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 46.86,
+      "y": 45.49,
+      "partNo": "C 20218",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 49.7,
+      "y": 44.31,
+      "partNo": "C 20219",
+      "desc": "WASHER - special",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 54.15,
+      "y": 43.61,
+      "partNo": "C 22262",
+      "desc": "GEAR - crankshaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 90.08,
+      "y": 43.96,
+      "partNo": "C 28321",
+      "desc": "KEY - clutch 1/4'' square by 3/4''",
+      "reqd": "1"
+    },
+    {
+      "ref": "30",
+      "x": 43.72,
+      "y": 52.43,
+      "partNo": "C 32288",
+      "desc": "KEY - 1/4'' x 2'' special, flywheel",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

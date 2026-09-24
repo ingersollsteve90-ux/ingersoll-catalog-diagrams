@@ -1,0 +1,170 @@
+{
+  "sectionTitle": "H13 Weight Box",
+  "breadcrumb": "H13 Weight Box",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/h13_weight_box.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 30.04,
+      "y": 9.86,
+      "partNo": "C 17859",
+      "desc": "FRAME - weight box",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 50.39,
+      "y": 29.48,
+      "partNo": "C 17863",
+      "desc": "BOX - weight",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 84.14,
+      "y": 39.89,
+      "partNo": "C 17860",
+      "desc": "SUPPORT - weight box",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 49.96,
+      "y": 67.31,
+      "partNo": "C 17636",
+      "desc": "PLATE - hitch",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 63.68,
+      "y": 62.54,
+      "partNo": "111-371",
+      "desc": "BOLT - 3/8\" x 1\" round head, square neck",
+      "reqd": "3"
+    },
+    {
+      "ref": "5",
+      "x": 54.68,
+      "y": 77.94,
+      "partNo": "111-371",
+      "desc": "BOLT - 3/8\" x 1\" round head, square neck",
+      "reqd": "3"
+    },
+    {
+      "ref": "6",
+      "x": 67.86,
+      "y": 22.44,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 1\" N.C. hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "6",
+      "x": 15.04,
+      "y": 37.61,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 1\" N.C. hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "7",
+      "x": 35.07,
+      "y": 38.81,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" N.C. hex",
+      "reqd": "7"
+    },
+    {
+      "ref": "7",
+      "x": 56.07,
+      "y": 13.33,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" N.C. hex",
+      "reqd": "7"
+    },
+    {
+      "ref": "7",
+      "x": 62.29,
+      "y": 84.76,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" N.C. hex",
+      "reqd": "7"
+    },
+    {
+      "ref": "7",
+      "x": 85.0,
+      "y": 72.84,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" N.C. hex",
+      "reqd": "7"
+    },
+    {
+      "ref": "8",
+      "x": 80.71,
+      "y": 70.02,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "7"
+    },
+    {
+      "ref": "8",
+      "x": 63.25,
+      "y": 79.13,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "7"
+    },
+    {
+      "ref": "8",
+      "x": 54.46,
+      "y": 18.64,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "7"
+    },
+    {
+      "ref": "8",
+      "x": 32.82,
+      "y": 42.38,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "7"
+    },
+    {
+      "ref": "9",
+      "x": 28.64,
+      "y": 46.18,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "7"
+    },
+    {
+      "ref": "9",
+      "x": 53.82,
+      "y": 25.15,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "7"
+    },
+    {
+      "ref": "9",
+      "x": 78.04,
+      "y": 66.34,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "7"
+    },
+    {
+      "ref": "9",
+      "x": 63.36,
+      "y": 74.14,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "7"
+    }
+  ],
+  "footnotes": ""
+}

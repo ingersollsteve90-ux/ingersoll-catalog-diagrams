@@ -1,0 +1,105 @@
+{
+  "sectionTitle": "Front and Rear Wheels",
+  "breadcrumb": "Front and Rear Wheels",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/front_rear_wheels.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 61.12,
+      "y": 31.05,
+      "variants": [
+        {
+          "partNo": "C 30913",
+          "desc": "WHEEL - rear, 5 bolt (226) for 23 x 8.50 - 12 tire",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 30917",
+          "desc": "WHEEL - rear, 6 bolt (446, 448) shown",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 30922",
+          "desc": "WHEEL - rear, 5 bolt (226) for 23 x 10.50 - 12 tire",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 35.92,
+      "y": 63.94,
+      "variants": [
+        {
+          "partNo": "C 27763",
+          "desc": "BOLT - rear wheel (446, 448)",
+          "reqd": "12"
+        },
+        {
+          "partNo": "C 10314",
+          "desc": "BOLT - rear wheel (226)",
+          "reqd": "10"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 73.78,
+      "y": 62.33,
+      "partNo": "C 30912",
+      "desc": "WHEEL - front (includes bearings)",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 78.9,
+      "y": 55.89,
+      "partNo": "219-403",
+      "desc": "FITTING - lubrication",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 82.91,
+      "y": 51.29,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 69.4,
+      "y": 67.16,
+      "partNo": "C 12110",
+      "desc": "BEARING - wheel",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 54.18,
+      "y": 81.77,
+      "partNo": "C 28965",
+      "desc": "CAP - hub, front wheel (optional)",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 60.51,
+      "y": 74.86,
+      "partNo": "C 26021",
+      "desc": "CAP - plastic, front",
+      "reqd": "4"
+    },
+    {
+      "ref": "8",
+      "x": 17.05,
+      "y": 29.44,
+      "partNo": "C 28236",
+      "desc": "STEM - valve",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C 13106 \u2014 COVER - lubrication fitting (Req'd 2)."
+}

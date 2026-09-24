@@ -1,0 +1,186 @@
+{
+  "sectionTitle": "Exhaust System (Before S/N)",
+  "breadcrumb": "Exhaust System (Before S/N)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/exhaust_system_before_sn.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 48.1,
+      "y": 83.1,
+      "variants": [
+        {
+          "partNo": "C 24703*",
+          "desc": "MUFFLER ASSEMBLY - exhaust (includes items 8, 9, 10 and 12)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26974**",
+          "desc": "MUFFLER ASSEMBLY - exhaust (includes items 8, 9, 10 and 12)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 86.9,
+      "y": 11.4,
+      "variants": [
+        {
+          "partNo": "C 26971**",
+          "desc": "PIPE - engine exhaust L.H.",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25071*",
+          "desc": "PIPE - engine exhaust L.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 87.8,
+      "y": 26.3,
+      "variants": [
+        {
+          "partNo": "C 28968*",
+          "desc": "CLAMP ASSEMBLY - muffler 1-1/4\"",
+          "reqd": "2"
+        },
+        {
+          "partNo": "C 28294*",
+          "desc": "CLAMP ASSEMBLY - muffler 1-1/8\"",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "x": 84.7,
+      "y": 45.3,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" N.C. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 65.9,
+      "y": 24.9,
+      "partNo": "C 26207",
+      "desc": "GASKET - exhaust",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 62.4,
+      "y": 8.2,
+      "partNo": "61-512",
+      "desc": "BOLT - 5/16\" x 5/8\" socket head",
+      "reqd": "4"
+    },
+    {
+      "ref": "7",
+      "x": 50.3,
+      "y": 22.1,
+      "variants": [
+        {
+          "partNo": "C 25073*",
+          "desc": "PIPE - engine exhaust R.H.",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26969**",
+          "desc": "PIPE - engine exhaust R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 20.0,
+      "y": 64.0,
+      "variants": [
+        {
+          "partNo": "C 24296*",
+          "desc": "WRAPPER - muffler",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26968**",
+          "desc": "WRAPPER - muffler",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 10.0,
+      "y": 75.6,
+      "variants": [
+        {
+          "partNo": "C 23581*",
+          "desc": "COVER - muffler end",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 22889**",
+          "desc": "COVER - muffler end",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "10",
+      "x": 15.1,
+      "y": 69.1,
+      "variants": [
+        {
+          "partNo": "C 23580*",
+          "desc": "INSULATION - muffler end",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 29290**",
+          "desc": "INSULATION - muffler",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 26.5,
+      "y": 51.4,
+      "partNo": "214-272",
+      "desc": "CLAMP - wrapper mounting",
+      "reqd": "3"
+    },
+    {
+      "ref": "12",
+      "x": 55.9,
+      "y": 68.9,
+      "variants": [
+        {
+          "partNo": "C 23686*",
+          "desc": "INSULATION - muffler",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26058**",
+          "desc": "INSULATION - muffler",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "13",
+      "x": 65.5,
+      "y": 12.8,
+      "partNo": "192-404",
+      "desc": "LOCK WASHER - 5/16\"",
+      "reqd": "4"
+    }
+  ],
+  "footnotes": ""
+}

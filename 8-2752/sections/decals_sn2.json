@@ -1,0 +1,199 @@
+{
+  "sectionTitle": "Decals (S/N range 2)",
+  "breadcrumb": "Decals (S/N range 2)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/decals_sn2.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 32.52,
+      "y": 6.8,
+      "variants": [
+        {
+          "partNo": "C 29740**",
+          "desc": "DECAL - instrument panel (shown)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 27944*",
+          "desc": "DECAL - instrument panel",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 19.51,
+      "y": 76.8,
+      "partNo": "C 26699",
+      "desc": "DECAL - fuel gauge",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 85.06,
+      "y": 67.4,
+      "partNo": "321-4767",
+      "desc": "DECAL - hydraulic reservoir",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 86.28,
+      "y": 85.8,
+      "partNo": "321-1788",
+      "desc": "DECAL - shift range",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 26.73,
+      "y": 50.8,
+      "partNo": "C 27871",
+      "desc": "DECAL - brake",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 15.24,
+      "y": 42.4,
+      "variants": [
+        {
+          "partNo": "C 27917",
+          "desc": "DECAL - \"226\" hood L.H. (shown)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 27922",
+          "desc": "DECAL - \"226\" hood R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "7",
+      "x": 48.37,
+      "y": 42.3,
+      "variants": [
+        {
+          "partNo": "C 27919",
+          "desc": "DECAL - \"446\" hood L.H. (shown)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 27923",
+          "desc": "DECAL - \"446\" hood R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 80.69,
+      "y": 42.0,
+      "variants": [
+        {
+          "partNo": "C 27920",
+          "desc": "DECAL - \"448\" hood L.H. (shown)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 27924",
+          "desc": "DECAL - \"448\" hood R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 51.02,
+      "y": 76.2,
+      "partNo": "321-6659",
+      "desc": "DECAL - \"Caution\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 21.85,
+      "y": 70.0,
+      "partNo": "NSS",
+      "desc": "MEDALLION - \"Case\" (use C30539)",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 78.15,
+      "y": 6.7,
+      "variants": [
+        {
+          "partNo": "C 26656*",
+          "desc": "DECAL - air cleaner (226, 446)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26657*",
+          "desc": "DECAL - air cleaner (448) shown",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 58.54,
+      "y": 53.9,
+      "variants": [
+        {
+          "partNo": "C 27962",
+          "desc": "DECAL - \"Ingersoll\" stripe L.H. (shown)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 27963",
+          "desc": "DECAL - \"Ingersoll\" stripe R.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "13",
+      "x": 28.56,
+      "y": 37.6,
+      "partNo": "C 27956*",
+      "desc": "DECAL - seat back \"226 hydriv\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 61.89,
+      "y": 37.7,
+      "partNo": "C 27958*",
+      "desc": "DECAL - seat back \"446 hydriv\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 81.1,
+      "y": 33.2,
+      "partNo": "C 27959*",
+      "desc": "DECAL - seat back \"448 hydriv\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 51.42,
+      "y": 64.4,
+      "partNo": "C 29202**",
+      "desc": "DECAL - seat back \"Ingersoll\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 80.79,
+      "y": 73.4,
+      "partNo": "TBD",
+      "desc": "No matching parts-table row found \u2014 diagram circle present, genuine printed-catalog gap (see project notes)."
+    }
+  ],
+  "footnotes": ""
+}

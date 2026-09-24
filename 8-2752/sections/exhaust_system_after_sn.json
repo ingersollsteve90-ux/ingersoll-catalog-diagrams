@@ -1,0 +1,114 @@
+{
+  "sectionTitle": "Exhaust System (S/N and After)",
+  "breadcrumb": "Exhaust System (S/N and After)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/exhaust_system_after_sn.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 48.3,
+      "y": 81.42,
+      "partNo": "C 29288",
+      "desc": "MUFFLER ASSEMBLY - exhaust (includes items 8, 9, 10 and 12)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 86.9,
+      "y": 9.67,
+      "partNo": "C 29292",
+      "desc": "PIPE - engine exhaust L.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 87.9,
+      "y": 24.28,
+      "partNo": "C 28294",
+      "desc": "CLAMP ASSEMBLY - muffler 1-1/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 84.6,
+      "y": 42.85,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" N.C. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 66.0,
+      "y": 23.73,
+      "partNo": "C 26207",
+      "desc": "GASKET - exhaust",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 62.0,
+      "y": 6.59,
+      "partNo": "61-512",
+      "desc": "BOLT - 5/16\" x 5/8\" socket head",
+      "reqd": "4"
+    },
+    {
+      "ref": "7",
+      "x": 50.2,
+      "y": 20.22,
+      "partNo": "C 29294",
+      "desc": "PIPE - engine exhaust R.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 20.2,
+      "y": 62.85,
+      "partNo": "C 26062",
+      "desc": "WRAPPER - muffler",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 10.0,
+      "y": 73.73,
+      "partNo": "C 29291",
+      "desc": "COVER - muffler end",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 14.7,
+      "y": 67.46,
+      "partNo": "C 29290",
+      "desc": "INSULATION - muffler",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 26.2,
+      "y": 49.33,
+      "partNo": "214-272",
+      "desc": "CLAMP - wrapper mounting",
+      "reqd": "3"
+    },
+    {
+      "ref": "12",
+      "x": 55.2,
+      "y": 68.45,
+      "partNo": "C 26058",
+      "desc": "INSULATION - muffler",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 64.1,
+      "y": 13.08,
+      "partNo": "192-404",
+      "desc": "LOCK WASHER - 5/16\"",
+      "reqd": "4"
+    }
+  ],
+  "footnotes": ""
+}

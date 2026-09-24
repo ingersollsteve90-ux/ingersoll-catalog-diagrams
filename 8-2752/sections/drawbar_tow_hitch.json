@@ -1,0 +1,34 @@
+{
+  "sectionTitle": "Drawbar and Tow Hitch",
+  "breadcrumb": "Drawbar and Tow Hitch",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/drawbar_tow_hitch.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 64.82,
+      "y": 51.3,
+      "partNo": "C 13360",
+      "desc": "DRAWBAR",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 47.99,
+      "y": 38.45,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 35.18,
+      "y": 27.12,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2\" x 1\" N.C. hex",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

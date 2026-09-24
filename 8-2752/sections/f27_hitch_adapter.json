@@ -1,0 +1,42 @@
+{
+  "sectionTitle": "F27 Hitch Adapter",
+  "breadcrumb": "F27 Hitch Adapter",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/f27_hitch_adapter.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 49.13,
+      "y": 38.16,
+      "partNo": "NSS",
+      "desc": "BRACKET - hitch adapter (order as machinery item)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 45.87,
+      "y": 22.57,
+      "partNo": "C 14568",
+      "desc": "PIN - drawbar",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 36.48,
+      "y": 33.82,
+      "partNo": "22-844",
+      "desc": "BOLT - 1/2\" x 3\" N.C. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 40.52,
+      "y": 64.37,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" - 13",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

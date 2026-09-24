@@ -1,0 +1,194 @@
+{
+  "sectionTitle": "Hydraulic Pump and Coupling (Parker-Hannifin)",
+  "breadcrumb": "Hydraulic Pump and Coupling (Parker-Hannifin)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/hydraulic_pump_coupling_parker_hannifin.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 23.13,
+      "y": 64.19,
+      "partNo": "C 26278",
+      "desc": "PUMP - hydraulic 1/2\" shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 48.13,
+      "y": 86.16,
+      "partNo": "F 53109",
+      "desc": "PIN - dowel",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 29.25,
+      "y": 28.18,
+      "partNo": "C 24861",
+      "desc": "COVER - rear",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 31.74,
+      "y": 70.86,
+      "partNo": "C 15731",
+      "desc": "GEAR ASSEMBLY - driven",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 34.65,
+      "y": 32.34,
+      "partNo": "C 15732",
+      "desc": "\"O\" RING - cover",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 70.54,
+      "y": 66.07,
+      "partNo": "C 15732",
+      "desc": "\"O\" RING - cover",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 50.73,
+      "y": 46.6,
+      "partNo": "C 15733",
+      "desc": "BODY - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 76.45,
+      "y": 67.42,
+      "partNo": "C 15734",
+      "desc": "COVER - front",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 80.19,
+      "y": 75.96,
+      "partNo": "C 15735",
+      "desc": "SEAL - shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 39.32,
+      "y": 39.21,
+      "partNo": "NSS",
+      "desc": "GEAR ASSEMBLY - drive (1/2\" shaft) (use C26278)",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 55.6,
+      "y": 52.54,
+      "partNo": "C 15737",
+      "desc": "PLATE - wear",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 59.85,
+      "y": 55.97,
+      "partNo": "C 15738",
+      "desc": "SHIELD - heat",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 63.17,
+      "y": 58.89,
+      "partNo": "C 15739",
+      "desc": "GASKET",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 67.95,
+      "y": 62.42,
+      "partNo": "C 15740",
+      "desc": "SEAL",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 21.37,
+      "y": 26.93,
+      "partNo": "113-111",
+      "desc": "BOLT",
+      "reqd": "4"
+    },
+    {
+      "ref": "15",
+      "x": 44.09,
+      "y": 41.92,
+      "partNo": "C 19207",
+      "desc": "KEY - 1/8\" square x 3/4\" long (1.587 mm x 19.05 mm)",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 14.52,
+      "y": 43.38,
+      "partNo": "C 19115",
+      "desc": "WASHER",
+      "reqd": "4"
+    },
+    {
+      "ref": "17",
+      "x": 59.65,
+      "y": 45.15,
+      "partNo": "C 18916",
+      "desc": "COUPLING - pump",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 60.37,
+      "y": 30.47,
+      "partNo": "NSS",
+      "desc": "HUB - (order item 17)",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 74.27,
+      "y": 43.58,
+      "partNo": "NSS",
+      "desc": "HUG - (order item 17)",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 77.49,
+      "y": 15.69,
+      "partNo": "C 32199",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 85.48,
+      "y": 19.96,
+      "partNo": "C 32199",
+      "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 80.6,
+      "y": 19.96,
+      "partNo": "C 15036",
+      "desc": "SPIDER",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

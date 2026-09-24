@@ -1,0 +1,244 @@
+{
+  "sectionTitle": "M17, N17 Hydraulic PTO \u2014 PTO Hoses and Mounting Bracket",
+  "breadcrumb": "M17, N17 Hydraulic PTO \u2014 PTO Hoses and Mounting Bracket",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/m17_n17_pto_hoses_mounting_bracket.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 35.5,
+      "y": 43.1,
+      "partNo": "C 32200",
+      "desc": "BRACKET - valve mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 22.1,
+      "y": 66.0,
+      "partNo": "218-5201",
+      "desc": "FITTING - workport, 90\u00b0 elbow 7/8\" - 14 x 1/2\" NPSM swivel",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 68.5,
+      "y": 57.8,
+      "partNo": "218-5107",
+      "desc": "FITTING - inlet port, 7/8\" - 14 x 7/8\" - 14 flare, 90\u00b0 adjustable elbow",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 44.2,
+      "y": 71.6,
+      "partNo": "218-5062",
+      "desc": "FITTING - outlet port, 7/8\" - 14 x 7/8\" - 14 flare, straight",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 12.1,
+      "y": 32.8,
+      "partNo": "C 32403",
+      "desc": "HANDLE",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 19.5,
+      "y": 18.6,
+      "partNo": "C 26020",
+      "desc": "GRIP - handle",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 94.2,
+      "y": 90.8,
+      "variants": [
+        {
+          "partNo": "C 32423",
+          "desc": "HOSE - pump to PTO 56\" (M17) 226",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 32424",
+          "desc": "HOSE - pump to 54\" (N17) 446, 448",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 53.5,
+      "y": 88.3,
+      "variants": [
+        {
+          "partNo": "C 32209",
+          "desc": "HOSE - PTO to travel valve 32\" (M17) 226",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 32210",
+          "desc": "HOSE - PTO to travel valve 34\" (N17) 446, 448",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 32.7,
+      "y": 14.2,
+      "partNo": "C 32211",
+      "desc": "BRACKET - handle guide",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 48.5,
+      "y": 23.2,
+      "partNo": "111-101",
+      "desc": "BOLT - 1/4\" - 20 x 5/8\" carriage",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 29.8,
+      "y": 23.1,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 51.3,
+      "y": 9.8,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 76.2,
+      "y": 62.7,
+      "partNo": "C 32332",
+      "desc": "CLAMP - tube (M17) 226",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 56.9,
+      "y": 32.4,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" - 18 x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "13",
+      "x": 75.8,
+      "y": 76.5,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" - 18 x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "14",
+      "x": 57.0,
+      "y": 43.7,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "14",
+      "x": 72.1,
+      "y": 66.1,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "15",
+      "x": 56.9,
+      "y": 38.9,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 79.7,
+      "y": 61.2,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 12.1,
+      "y": 53.1,
+      "partNo": "C 32214",
+      "desc": "PIN - clevis 3/8\" x 1-1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 45.9,
+      "y": 26.7,
+      "partNo": "C 28105",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 17.3,
+      "y": 52.2,
+      "partNo": "C 28964",
+      "desc": "PIN - clevis 3/16\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 25.1,
+      "y": 49.4,
+      "partNo": "C 10883",
+      "desc": "PIN - safety",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 81.5,
+      "y": 90.7,
+      "partNo": "218-5232",
+      "desc": "FITTING - hydraulic 90\u00b0 swivel",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 85.8,
+      "y": 63.9,
+      "partNo": "C 32213",
+      "desc": "CLAMP - tube",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 51.3,
+      "y": 19.0,
+      "partNo": "C 32213",
+      "desc": "CLAMP - tube",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 51.9,
+      "y": 15.0,
+      "partNo": "C24820",
+      "desc": "Battery Retainer Clip",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

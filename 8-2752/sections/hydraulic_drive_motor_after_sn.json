@@ -1,0 +1,213 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor (S/N and After)",
+  "breadcrumb": "Hydraulic Drive Motor (S/N and After)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/hydraulic_drive_motor_after_sn.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 64.05,
+      "y": 91.72,
+      "variants": [
+        {
+          "partNo": "28-668",
+          "desc": "BOLT - 3/8\" - 24 x 4-1/4\" (226)",
+          "reqd": "7"
+        },
+        {
+          "partNo": "C 31327",
+          "desc": "BOLT - 3/8\" - 24 x 4-5/8\" (446, 448)",
+          "reqd": "7"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 60.15,
+      "y": 89.55,
+      "partNo": "C 31309",
+      "desc": "COVER - end",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 54.29,
+      "y": 66.07,
+      "partNo": "C 31310",
+      "desc": "COMMUTATOR AND RING SET",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 41.54,
+      "y": 74.76,
+      "partNo": "C 31311",
+      "desc": "MANIFOLD",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 38.55,
+      "y": 52.52,
+      "variants": [
+        {
+          "partNo": "C 31312",
+          "desc": "ROTOR ASSEMBLY - (226)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 31313",
+          "desc": "ROTOR ASSEMBLY - (446, 448)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "x": 22.93,
+      "y": 58.83,
+      "partNo": "C 31314",
+      "desc": "PLATE - wear",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 83.92,
+      "y": 52.21,
+      "variants": [
+        {
+          "partNo": "C 31315",
+          "desc": "LINK - drive (226)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 31316",
+          "desc": "LINK - drive (446, 448)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 74.73,
+      "y": 44.04,
+      "partNo": "C 31317",
+      "desc": "BEARING - thrust",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 68.64,
+      "y": 40.21,
+      "partNo": "C 31318",
+      "desc": "SHAFT - coupling",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 59.11,
+      "y": 32.87,
+      "partNo": "C 31319",
+      "desc": "WASHER - thrust",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 54.52,
+      "y": 45.28,
+      "partNo": "C 31320",
+      "desc": "BEARING - thrust",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 47.86,
+      "y": 17.87,
+      "partNo": "C 31321",
+      "desc": "HOUSING - drive end",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 41.65,
+      "y": 17.04,
+      "partNo": "C 31322",
+      "desc": "BEARING - outer",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 50.96,
+      "y": 78.48,
+      "partNo": "NSS",
+      "desc": "SEAL - commutator ring",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 29.13,
+      "y": 64.21,
+      "partNo": "NSS",
+      "desc": "SEAL - ring",
+      "reqd": "5"
+    },
+    {
+      "ref": "15",
+      "x": 38.44,
+      "y": 70.73,
+      "partNo": "NSS",
+      "desc": "SEAL - ring",
+      "reqd": "5"
+    },
+    {
+      "ref": "15",
+      "x": 45.79,
+      "y": 77.66,
+      "partNo": "NSS",
+      "desc": "SEAL - ring",
+      "reqd": "5"
+    },
+    {
+      "ref": "15",
+      "x": 55.55,
+      "y": 86.55,
+      "partNo": "NSS",
+      "desc": "SEAL - ring",
+      "reqd": "5"
+    },
+    {
+      "ref": "15",
+      "x": 80.47,
+      "y": 45.07,
+      "partNo": "NSS",
+      "desc": "SEAL - ring",
+      "reqd": "5"
+    },
+    {
+      "ref": "16",
+      "x": 56.01,
+      "y": 28.83,
+      "partNo": "NSS",
+      "desc": "SEAL - ring",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 51.76,
+      "y": 26.87,
+      "partNo": "NSS",
+      "desc": "WASHER - backup",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 36.94,
+      "y": 14.35,
+      "partNo": "NSS",
+      "desc": "SEAL - dirt (not used)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C 33234 \u2014 MOTOR - hydraulic (446, 448) (Req'd 1); C 30939 \u2014 MOTOR - hydraulic (226) (Req'd 1); C 31323 \u2014 KIT - seal (Req'd 1)."
+}

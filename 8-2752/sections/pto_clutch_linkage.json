@@ -1,0 +1,213 @@
+{
+  "sectionTitle": "PTO Clutch Linkage",
+  "breadcrumb": "PTO Clutch Linkage",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/pto_clutch_linkage.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 37.9,
+      "y": 19.15,
+      "partNo": "C 29046",
+      "desc": "KNOB - lever, PTO",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 10.3,
+      "y": 51.02,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 13.2,
+      "y": 36.3,
+      "partNo": "C 26264",
+      "desc": "BRACKET - support, PTO lever",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 43.3,
+      "y": 43.73,
+      "partNo": "353-462",
+      "desc": "BUSHING - lever, control tower",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 26.8,
+      "y": 61.65,
+      "partNo": "C 20093",
+      "desc": "BUSHING - special",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 18.3,
+      "y": 34.89,
+      "partNo": "C 26266",
+      "desc": "BUSHING - flange, nylon",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 79.8,
+      "y": 75.72,
+      "partNo": "C 20053",
+      "desc": "BUSHING - nylon",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 46.6,
+      "y": 82.12,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" x 1\" N.C. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 27.1,
+      "y": 42.06,
+      "partNo": "138-63",
+      "desc": "PIN - roll 1/8\" x 1-1/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 24.4,
+      "y": 32.97,
+      "variants": [
+        {
+          "partNo": "132-310",
+          "desc": "PIN - cotter 1/8\" x 1\"",
+          "reqd": "2"
+        },
+        {
+          "partNo": "132-320",
+          "desc": "PIN - cotter 3/32\" x 3/4\"",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "10",
+      "x": 11.7,
+      "y": 57.93,
+      "variants": [
+        {
+          "partNo": "132-310",
+          "desc": "PIN - cotter 1/8\" x 1\"",
+          "reqd": "2"
+        },
+        {
+          "partNo": "132-320",
+          "desc": "PIN - cotter 3/32\" x 3/4\"",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "10",
+      "x": 87.7,
+      "y": 57.29,
+      "variants": [
+        {
+          "partNo": "132-310",
+          "desc": "PIN - cotter 1/8\" x 1\"",
+          "reqd": "2"
+        },
+        {
+          "partNo": "132-320",
+          "desc": "PIN - cotter 3/32\" x 3/4\"",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 14.9,
+      "y": 56.27,
+      "partNo": "C 14906",
+      "desc": "WASHER - nylon 3/8\" (early production)",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 87.4,
+      "y": 73.55,
+      "partNo": "C 14906",
+      "desc": "WASHER - nylon 3/8\" (early production)",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 83.0,
+      "y": 74.83,
+      "partNo": "C 19867",
+      "desc": "SPRING - clutch rod (early production)",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 29.4,
+      "y": 60.37,
+      "partNo": "C 19867",
+      "desc": "SPRING - clutch rod (early production)",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 15.2,
+      "y": 48.08,
+      "partNo": "C 28288",
+      "desc": "WASHER - spring",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 44.2,
+      "y": 57.93,
+      "partNo": "C 27734*",
+      "desc": "ROD - clutch",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 59.3,
+      "y": 67.02,
+      "partNo": "C 19767",
+      "desc": "GUIDE - clutch rod",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 46.9,
+      "y": 70.48,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\" N.C. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 46.0,
+      "y": 74.32,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "18",
+      "x": 45.5,
+      "y": 31.18,
+      "partNo": "C 29409",
+      "desc": "LEVER - PTO engaging",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

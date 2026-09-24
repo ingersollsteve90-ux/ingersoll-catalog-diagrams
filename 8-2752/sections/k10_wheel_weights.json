@@ -1,0 +1,42 @@
+{
+  "sectionTitle": "K10 Wheel Weights (446, 448)",
+  "breadcrumb": "K10 Wheel Weights (446, 448)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/k10_wheel_weights.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 46.73,
+      "y": 77.77,
+      "partNo": "NSS",
+      "desc": "WEIGHT - wheel, 75 lb. (order as machinery item)",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 14.91,
+      "y": 77.77,
+      "partNo": "131-1182",
+      "desc": "NUT - 1/2\" N.C. hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "3",
+      "x": 24.41,
+      "y": 92.0,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "8"
+    },
+    {
+      "ref": "4",
+      "x": 85.05,
+      "y": 36.53,
+      "partNo": "111-525",
+      "desc": "BOLT - 1/2\" x 6\" round head, square neck",
+      "reqd": "8"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,221 @@
+{
+  "sectionTitle": "Steering Gear",
+  "breadcrumb": "Steering Gear",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/steering_gear.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 14.34,
+      "y": 47.7,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" N.C. hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 76.59,
+      "y": 7.4,
+      "partNo": "C 26325",
+      "desc": "WHEEL - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 27.73,
+      "y": 54.8,
+      "variants": [
+        {
+          "partNo": "NSS *",
+          "desc": "PIN - pivot (use C29044)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 29044**",
+          "desc": "PIN - pivot",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "x": 43.02,
+      "y": 34.1,
+      "partNo": "C 26326",
+      "desc": "SHAFT - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 58.22,
+      "y": 72.8,
+      "partNo": "C 26326",
+      "desc": "SHAFT - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 18.27,
+      "y": 30.6,
+      "partNo": "C 29812",
+      "desc": "WASHER - 3/8\" x 1.4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 26.98,
+      "y": 82.0,
+      "partNo": "C 29812",
+      "desc": "WASHER - 3/8\" x 1.4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 19.33,
+      "y": 25.6,
+      "partNo": "113-241",
+      "desc": "BOLT - 3/8\" - 16 x 3\" hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 26.56,
+      "y": 59.8,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim",
+      "reqd": "4"
+    },
+    {
+      "ref": "7",
+      "x": 43.77,
+      "y": 78.7,
+      "partNo": "C 14201",
+      "desc": "WASHER - shim",
+      "reqd": "4"
+    },
+    {
+      "ref": "8",
+      "x": 28.47,
+      "y": 87.8,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16 hex",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 49.08,
+      "y": 52.0,
+      "partNo": "C 27501**",
+      "desc": "BUSHING - (not used on all models)",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 38.35,
+      "y": 22.0,
+      "partNo": "138-143",
+      "desc": "PIN - roll 1/4\" x 2-1/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 37.71,
+      "y": 17.8,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "12",
+      "x": 25.6,
+      "y": 70.2,
+      "partNo": "C 33309",
+      "desc": "GEAR - steering",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 28.47,
+      "y": 66.6,
+      "partNo": "C 33308",
+      "desc": "BUSHING - sleeve",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 28.47,
+      "y": 77.2,
+      "partNo": "C 33308",
+      "desc": "BUSHING - sleeve",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 18.7,
+      "y": 46.0,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "5"
+    },
+    {
+      "ref": "14",
+      "x": 28.26,
+      "y": 84.5,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "5"
+    },
+    {
+      "ref": "15",
+      "x": 53.43,
+      "y": 57.3,
+      "partNo": "195-2069",
+      "desc": "WASHER - 5/8\" zinc plated",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "16",
+      "x": 24.43,
+      "y": 19.8,
+      "partNo": "C 15096",
+      "desc": "BUSHING - flanged nylon",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 52.27,
+      "y": 39.6,
+      "variants": [
+        {
+          "partNo": "C 30019**",
+          "desc": "SUPPORT - steering gear (includes item 9)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "NSS *",
+          "desc": "SUPPORT - steering (use C29812, C30019 and C29044)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "18",
+      "x": 85.09,
+      "y": 32.5,
+      "variants": [
+        {
+          "partNo": "C 24098+",
+          "desc": "TUBE - steering",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 30127++",
+          "desc": "TUBE - steering",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

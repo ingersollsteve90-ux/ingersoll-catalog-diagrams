@@ -1,0 +1,114 @@
+{
+  "sectionTitle": "Breaker Contact Assembly",
+  "breadcrumb": "Breaker Contact Assembly",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/breaker_contact_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 55.88,
+      "y": 17.0,
+      "partNo": "182- 520",
+      "desc": "SCREW - No. 10 - 24 x 1-1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 34.85,
+      "y": 29.42,
+      "partNo": "195- 513",
+      "desc": "WASHER - No. 10",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 59.2,
+      "y": 21.82,
+      "partNo": "C 23854",
+      "desc": "COVER - breaker box (includes items 1 and 2)",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 25.63,
+      "y": 46.78,
+      "partNo": "182- 545",
+      "desc": "SCREW - No. 8 - 32 x 5/16\" self tapping",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 34.49,
+      "y": 51.72,
+      "partNo": "192- 16",
+      "desc": "LOCK WASHER - No. 8",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 27.48,
+      "y": 56.31,
+      "partNo": "C 29991",
+      "desc": "CONDENSER - ignition",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 68.42,
+      "y": 58.84,
+      "partNo": "165- 143",
+      "desc": "SCREW - 1/4\" 20 x 3/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 74.32,
+      "y": 62.09,
+      "partNo": "192- 402",
+      "desc": "LOCK WASHER - 1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 66.58,
+      "y": 43.4,
+      "partNo": "C 29736",
+      "desc": "CONTACTS - breaker",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 27.85,
+      "y": 65.83,
+      "partNo": "C 25100",
+      "desc": "BASE - breaker box",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 67.32,
+      "y": 65.23,
+      "partNo": "C 20345",
+      "desc": "GASKET - breaker box",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 64.18,
+      "y": 72.83,
+      "partNo": "C 20347",
+      "desc": "PLUNGER - breaker box",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 45.55,
+      "y": 82.95,
+      "partNo": "C 29992",
+      "desc": "LEAD - breaker to coil negative",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: C 29990 \u2014 BREAKER CONTACT ASSEMBLY (Req'd 1)."
+}

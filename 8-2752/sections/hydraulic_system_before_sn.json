@@ -1,0 +1,440 @@
+{
+  "sectionTitle": "Hydraulic System (Before S/N)",
+  "breadcrumb": "Hydraulic System (Before S/N)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/hydraulic_system_before_sn.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 85.2,
+      "y": 46.79,
+      "partNo": "C 26255",
+      "desc": "SUPPORT - pump mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 69.6,
+      "y": 58.3,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" N.C hex, support mounting",
+      "reqd": "4"
+    },
+    {
+      "ref": "3",
+      "x": 73.4,
+      "y": 34.68,
+      "partNo": "62-616",
+      "desc": "SCREW - 3/8\" - 24 x 1\" N.F. thread",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 72.0,
+      "y": 37.6,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\" zinc",
+      "reqd": "6"
+    },
+    {
+      "ref": "4",
+      "x": 75.4,
+      "y": 61.13,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\" zinc",
+      "reqd": "6"
+    },
+    {
+      "ref": "5",
+      "x": 70.4,
+      "y": 54.16,
+      "partNo": "C 28321",
+      "desc": "KEY - square 1/4\" x 3/4\" (6.35 x 19.5 mm) (engine shaft)",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 78.4,
+      "y": 47.6,
+      "partNo": "C 18916",
+      "desc": "COUPLING - pump 1/2\" shaft (repairs page 57)",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 75.3,
+      "y": 37.91,
+      "partNo": "C 26278",
+      "desc": "PUMP - hydraulic 1/2\" shaft (repairs page 57)",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 29.7,
+      "y": 64.26,
+      "partNo": "218-5065",
+      "desc": "FITTING - hydraulic 3/4\" x 7/8\" \"O\" ring",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 30.5,
+      "y": 67.79,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 10.7,
+      "y": 76.07,
+      "variants": [
+        {
+          "partNo": "C 16794",
+          "desc": "TUBE - valve to lower motor port (226)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25333",
+          "desc": "TUBE - valve to lower motor port (446, 448)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 8.6,
+      "y": 69.61,
+      "variants": [
+        {
+          "partNo": "C 16793",
+          "desc": "TUBE - valve to upper motor port (226)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25334",
+          "desc": "TUBE - valve to upper motor port (446, 448)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 80.0,
+      "y": 66.88,
+      "variants": [
+        {
+          "partNo": "C 25784",
+          "desc": "EXCHANGER - heat (226, 446)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 26456",
+          "desc": "EXCHANGER - heat (448) shown",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "13",
+      "x": 57.6,
+      "y": 84.86,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose",
+      "reqd": "4"
+    },
+    {
+      "ref": "13",
+      "x": 46.8,
+      "y": 78.9,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose",
+      "reqd": "4"
+    },
+    {
+      "ref": "13",
+      "x": 69.3,
+      "y": 72.34,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose",
+      "reqd": "4"
+    },
+    {
+      "ref": "13",
+      "x": 40.2,
+      "y": 51.94,
+      "partNo": "214-254",
+      "desc": "CLAMP - hose",
+      "reqd": "4"
+    },
+    {
+      "ref": "14",
+      "x": 60.8,
+      "y": 77.28,
+      "partNo": "C 29697",
+      "desc": "HOSE - rubber, tank to heat exchanger",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 74.6,
+      "y": 26.8,
+      "variants": [
+        {
+          "partNo": "NSS *",
+          "desc": "RESERVOIR - hydraulic oil (use C33176 kit)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "NSS **",
+          "desc": "RESERVOIR - hydraulic shown (use C33177 kit)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "16",
+      "x": 73.6,
+      "y": 16.2,
+      "partNo": "C 25237",
+      "desc": "CAP - reservoir (includes insert)",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 80.1,
+      "y": 94.04,
+      "partNo": "C 28987",
+      "desc": "WASHER - .390\" x 1.88\" (226, 446)",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 62.3,
+      "y": 40.13,
+      "partNo": "214-14",
+      "desc": "CLAMP - hose",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 48.6,
+      "y": 46.89,
+      "variants": [
+        {
+          "partNo": "C 24827*",
+          "desc": "HOSE - rubber, tank to pump",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 29309**",
+          "desc": "HOSE - rubber, tank to pump (shown)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "21",
+      "x": 60.3,
+      "y": 56.99,
+      "partNo": "C 18797",
+      "desc": "HOSE - hydraulic, pump to valve",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 74.9,
+      "y": 44.27,
+      "partNo": "218-5006",
+      "desc": "\"O\" RING - 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 39.8,
+      "y": 74.05,
+      "partNo": "C 26182",
+      "desc": "TUBE - valve to heat exchanger",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 78.4,
+      "y": 61.33,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "25",
+      "x": 49.8,
+      "y": 81.93,
+      "partNo": "NSS",
+      "desc": "HOSE - rubber (use C22902) cut to length 7\" (180mm)",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 24.8,
+      "y": 33.77,
+      "partNo": "218-5107",
+      "desc": "FITTING - motor port 90 degree elbow, \"O\" Ring",
+      "reqd": "2"
+    },
+    {
+      "ref": "26",
+      "x": 41.6,
+      "y": 28.92,
+      "partNo": "218-5107",
+      "desc": "FITTING - motor port 90 degree elbow, \"O\" Ring",
+      "reqd": "2"
+    },
+    {
+      "ref": "27",
+      "x": 37.7,
+      "y": 27.0,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING - 5/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "28",
+      "x": 23.2,
+      "y": 46.79,
+      "partNo": "C 27217",
+      "desc": "VALVE - hydraulic control, two spool (repairs page 59)",
+      "reqd": "1"
+    },
+    {
+      "ref": "29",
+      "x": 20.0,
+      "y": 18.72,
+      "partNo": "166-86",
+      "desc": "SCREW - 1/2\" x 1-1/4\" N.C. flanged 12 point",
+      "reqd": "4"
+    },
+    {
+      "ref": "30",
+      "x": 19.2,
+      "y": 45.08,
+      "partNo": "182-246",
+      "desc": "SCREW - 5/16\" x 1-1/4\" N.C. flat head machine",
+      "reqd": "2"
+    },
+    {
+      "ref": "31",
+      "x": 11.8,
+      "y": 54.57,
+      "partNo": "131-351",
+      "desc": "NUT - lock 5/16\" N.C. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "32",
+      "x": 35.5,
+      "y": 52.55,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic valve 5/8\" x 7/8\" \"O\" Ring",
+      "reqd": "3"
+    },
+    {
+      "ref": "32",
+      "x": 11.7,
+      "y": 58.91,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic valve 5/8\" x 7/8\" \"O\" Ring",
+      "reqd": "3"
+    },
+    {
+      "ref": "32",
+      "x": 24.6,
+      "y": 65.77,
+      "partNo": "218-5062",
+      "desc": "FITTING - hydraulic valve 5/8\" x 7/8\" \"O\" Ring",
+      "reqd": "3"
+    },
+    {
+      "ref": "33",
+      "x": 24.0,
+      "y": 62.14,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING",
+      "reqd": "3"
+    },
+    {
+      "ref": "33",
+      "x": 31.6,
+      "y": 50.83,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING",
+      "reqd": "3"
+    },
+    {
+      "ref": "34",
+      "x": 9.5,
+      "y": 27.31,
+      "partNo": "C 28949",
+      "desc": "SEAL - motor to transmission",
+      "reqd": "1"
+    },
+    {
+      "ref": "35",
+      "x": 14.6,
+      "y": 23.17,
+      "variants": [
+        {
+          "partNo": "C 14655",
+          "desc": "MOTOR - hydraulic (repairs page 53) (446, 448)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 16697",
+          "desc": "MOTOR - hydraulic (repairs page 53) (226)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "36",
+      "x": 63.3,
+      "y": 62.04,
+      "partNo": "C 22947",
+      "desc": "TIE - hose clamp",
+      "reqd": "2"
+    },
+    {
+      "ref": "37",
+      "x": 65.3,
+      "y": 65.17,
+      "partNo": "C 26900",
+      "desc": "SPRING - compression (448)",
+      "reqd": "1"
+    },
+    {
+      "ref": "38",
+      "x": 88.0,
+      "y": 85.26,
+      "partNo": "113-1",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\" (448)",
+      "reqd": "2"
+    },
+    {
+      "ref": "39",
+      "x": 67.6,
+      "y": 75.87,
+      "partNo": "131-1180",
+      "desc": "NUT - 1/4\" - 20 lock (448)",
+      "reqd": "2"
+    },
+    {
+      "ref": "40",
+      "x": 88.4,
+      "y": 91.52,
+      "partNo": "187-1252",
+      "desc": "SCREW - 1/4\" Phillips (226, 446)",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

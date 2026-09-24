@@ -1,0 +1,227 @@
+{
+  "sectionTitle": "L7 Holding Valve (226) / M9 Holding Valve (446,448)",
+  "breadcrumb": "L7 Holding Valve (226) / M9 Holding Valve (446,448)",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/l7_m9_holding_valve.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 54.52,
+      "y": 48.43,
+      "partNo": "C 24995",
+      "desc": "VALVE - holding (includes item 15)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 85.63,
+      "y": 61.63,
+      "variants": [
+        {
+          "partNo": "C 24990",
+          "desc": "TUBE - valve to valve (L-7)",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 25341",
+          "desc": "TUBE - valve to valve (M9)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 77.52,
+      "y": 92.26,
+      "partNo": "NSS",
+      "desc": "TUBE - valve to valve (M9) (use C27806, 218-5107, 218-5117)",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 62.53,
+      "y": 89.89,
+      "partNo": "C 24991",
+      "desc": "TUBE - valve to valve (L-7)",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 32.34,
+      "y": 81.54,
+      "partNo": "C 24994",
+      "desc": "TUBE - valve to motor",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 18.79,
+      "y": 66.17,
+      "partNo": "218-5062",
+      "desc": "CONNECTOR - straight, male",
+      "reqd": "3"
+    },
+    {
+      "ref": "5",
+      "x": 81.01,
+      "y": 49.57,
+      "partNo": "218-5062",
+      "desc": "CONNECTOR - straight, male",
+      "reqd": "3"
+    },
+    {
+      "ref": "5",
+      "x": 69.3,
+      "y": 61.63,
+      "partNo": "218-5062",
+      "desc": "CONNECTOR - straight, male",
+      "reqd": "3"
+    },
+    {
+      "ref": "6",
+      "x": 80.8,
+      "y": 41.93,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 60.99,
+      "y": 65.45,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 14.37,
+      "y": 58.23,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 54.31,
+      "y": 79.37,
+      "partNo": "218-5066",
+      "desc": "CONNECTOR - straight, male",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 70.43,
+      "y": 46.99,
+      "partNo": "218-5066",
+      "desc": "CONNECTOR - straight, male",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 66.63,
+      "y": 44.1,
+      "partNo": "218-5006",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 50.31,
+      "y": 75.25,
+      "partNo": "218-5006",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 37.47,
+      "y": 66.58,
+      "partNo": "218-5117",
+      "desc": "ELBOW - adjustable",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 41.27,
+      "y": 65.96,
+      "partNo": "218-5006",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 52.67,
+      "y": 25.43,
+      "partNo": "NSS",
+      "desc": "CONNECTOR - straight, male (Use 218-5406, 218-5254)",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 57.29,
+      "y": 29.04,
+      "partNo": "218-5006",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 49.08,
+      "y": 46.68,
+      "partNo": "218-5006",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 49.08,
+      "y": 21.61,
+      "partNo": "218-5251",
+      "desc": "CONNECTOR - straight, male/female swivel",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 45.89,
+      "y": 16.56,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 32.34,
+      "y": 53.18,
+      "partNo": "218-5007",
+      "desc": "\"O\" RING",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 42.2,
+      "y": 80.3,
+      "partNo": "C 28487",
+      "desc": "\"O\" RING - end caps",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 37.58,
+      "y": 37.09,
+      "partNo": "218-5406",
+      "desc": "CONNECTOR - straight male",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 45.89,
+      "y": 45.75,
+      "partNo": "218-5254",
+      "desc": "CONNECTOR - straight, male/female swivel",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": ""
+}

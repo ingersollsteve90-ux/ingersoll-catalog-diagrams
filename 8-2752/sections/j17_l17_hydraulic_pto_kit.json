@@ -1,0 +1,132 @@
+{
+  "sectionTitle": "J17 - L17 Hydraulic PTO Kit",
+  "breadcrumb": "J17 - L17 Hydraulic PTO Kit",
+  "catalogLabel": "Catalog 8-2752",
+  "modelNumbers": "Catalog 8-2752 \u2014 Case Ingersoll Models 226, 446 and 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2752/j17_l17_hydraulic_pto_kit.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 49.18,
+      "y": 59.03,
+      "partNo": "C 30044",
+      "desc": "VALVE - PTO control",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 45.46,
+      "y": 61.57,
+      "partNo": "218-457",
+      "desc": "FITTING - straight 3/4\" NPT x 5/8\" tube",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 34.85,
+      "y": 40.37,
+      "partNo": "218-494",
+      "desc": "FITTING - elbow 90 degrees, 3/4\" NPT x 5/8\" tube",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 22.68,
+      "y": 54.77,
+      "partNo": "218-927",
+      "desc": "FITTING - elbow 90 degrees, 1/2\" NPT x 1/2\" female swivel",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 66.8,
+      "y": 57.21,
+      "partNo": "C 23337",
+      "desc": "BRACKET - valve mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 51.86,
+      "y": 38.95,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" N.C. hex",
+      "reqd": "4"
+    },
+    {
+      "ref": "7",
+      "x": 60.21,
+      "y": 46.15,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "8",
+      "x": 49.9,
+      "y": 80.64,
+      "variants": [
+        {
+          "partNo": "C 25343",
+          "desc": "TUBE - PTO valve to travel control valve (L17) 446, 448",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 23888",
+          "desc": "TUBE - PTO valve to travel control valve (J17) 226",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 67.22,
+      "y": 31.04,
+      "variants": [
+        {
+          "partNo": "C 25344",
+          "desc": "TUBE - pump to PTO valve (L17) 446, 448",
+          "reqd": "1"
+        },
+        {
+          "partNo": "C 23962",
+          "desc": "TUBE - pump to PTO valve (J17) 226",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "10",
+      "x": 87.01,
+      "y": 75.77,
+      "partNo": "218-5232",
+      "desc": "FITTING - 90 degree swivel elbow flare 3/4\" NPT x 5/8\" tube",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 52.06,
+      "y": 58.32,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" x 1\" N.C. hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 58.97,
+      "y": 61.27,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 53.92,
+      "y": 60.76,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16\"",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}
