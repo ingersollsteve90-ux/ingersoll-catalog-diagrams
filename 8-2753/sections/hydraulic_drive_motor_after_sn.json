@@ -1,0 +1,194 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor (S/N and After)",
+  "breadcrumb": "Hydraulic Drive Motor (S/N and After)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/hydraulic_drive_motor_after_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 60.92,
+      "y": 87.82,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "28-668",
+          "desc": "BOLT - 3/8'' - 24 x 4-1/4'' (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "O/L",
+          "desc": "BOLT - 3/8'' - 24 x 4-5/8'' (446, 448)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 56.87,
+      "y": 85.39,
+      "partNo": "C 31309",
+      "desc": "COVER - end"
+    },
+    {
+      "ref": 3,
+      "x": 51.47,
+      "y": 61.93,
+      "partNo": "C 31310",
+      "desc": "COMMUTATOR AND RING SET"
+    },
+    {
+      "ref": 4,
+      "x": 37.75,
+      "y": 70.95,
+      "partNo": "C 31311",
+      "desc": "MANIFOLD"
+    },
+    {
+      "ref": 5,
+      "x": 34.63,
+      "y": 49.24,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C 31312",
+          "desc": "ROTOR ASSEMBLY - (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C 31313",
+          "desc": "ROTOR ASSEMBLY - (446, 448)"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 19.36,
+      "y": 55.34,
+      "partNo": "C 31314",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": 7,
+      "x": 80.67,
+      "y": 48.36,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C 31315",
+          "desc": "LINK - drive (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C 31316",
+          "desc": "LINK - drive (446, 448)"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 71.32,
+      "y": 40.22,
+      "partNo": "C 31317",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 9,
+      "x": 65.5,
+      "y": 35.96,
+      "partNo": "C 31318",
+      "desc": "SHAFT - coupling"
+    },
+    {
+      "ref": 10,
+      "x": 56.35,
+      "y": 28.3,
+      "partNo": "C 31319",
+      "desc": "WASHER - thrust"
+    },
+    {
+      "ref": 11,
+      "x": 51.36,
+      "y": 41.09,
+      "partNo": "C 31320",
+      "desc": "BEARING - thrust"
+    },
+    {
+      "ref": 12,
+      "x": 44.61,
+      "y": 13.85,
+      "partNo": "C 31321",
+      "desc": "HOUSING - drive end"
+    },
+    {
+      "ref": 13,
+      "x": 38.48,
+      "y": 13.37,
+      "partNo": "C 31322",
+      "desc": "BEARING - outer"
+    },
+    {
+      "ref": 14,
+      "x": 47.94,
+      "y": 74.54,
+      "partNo": "NSS",
+      "desc": "SEAL - commutator ring"
+    },
+    {
+      "ref": 15,
+      "x": 77.55,
+      "y": 40.9,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 52.51,
+      "y": 81.71,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 41.6,
+      "y": 74.05,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 34.43,
+      "y": 67.56,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 15,
+      "x": 25.18,
+      "y": 60.77,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 16,
+      "x": 52.3,
+      "y": 25.1,
+      "partNo": "NSS",
+      "desc": "SEAL - ring"
+    },
+    {
+      "ref": 17,
+      "x": 48.35,
+      "y": 22.19,
+      "partNo": "NSS",
+      "desc": "WASHER - backup"
+    },
+    {
+      "ref": 18,
+      "x": 33.28,
+      "y": 10.46,
+      "partNo": "NSS",
+      "desc": "SEAL - dirt (not used)"
+    }
+  ],
+  "footnotes": "C 33234 — MOTOR - hydraulic (446, 448) (also listed, not shown on diagram)\nC 30939 — MOTOR - hydraulic (226) (also listed, not shown on diagram)\nC 31323 — KIT - seal (also listed, not shown on diagram)"
+}

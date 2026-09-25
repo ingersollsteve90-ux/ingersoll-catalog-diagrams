@@ -1,0 +1,293 @@
+{
+  "sectionTitle": "Electrical System Hardware",
+  "breadcrumb": "Electrical System Hardware",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/electrical_system_hardware.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 8.03,
+      "y": 74.03,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "NSS",
+          "desc": "NUT - switch mounting 5/8\" (use C32396 and C32397)"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C23330",
+          "desc": "NUT - switch mounting 9/16\""
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 13.59,
+      "y": 76.82,
+      "partNo": "C23012",
+      "desc": "LOCK WASHER - internal tooth"
+    },
+    {
+      "ref": 3,
+      "x": 87.62,
+      "y": 86.88,
+      "partNo": "129-36",
+      "desc": "NUT - #8-36"
+    },
+    {
+      "ref": 5,
+      "x": 86.69,
+      "y": 33.63,
+      "partNo": "129-15",
+      "desc": "NUT - #6-32 hex"
+    },
+    {
+      "ref": 6,
+      "x": 82.37,
+      "y": 26.65,
+      "partNo": "O/L",
+      "desc": "LOCK WASHER - #6"
+    },
+    {
+      "ref": 7,
+      "x": 88.75,
+      "y": 10.26,
+      "partNo": "182-571",
+      "desc": "SCREW - #6-32 x 1/2\" pan head, black"
+    },
+    {
+      "ref": 8,
+      "x": 70.73,
+      "y": 10.54,
+      "partNo": "129-37",
+      "desc": "NUT - #10-32 hex"
+    },
+    {
+      "ref": 8,
+      "x": 62.8,
+      "y": 30.74,
+      "partNo": "129-37",
+      "desc": "NUT - #10-32 hex"
+    },
+    {
+      "ref": 9,
+      "x": 37.06,
+      "y": 88.46,
+      "partNo": "O/L",
+      "desc": "SCREW - No. 10 x 1-3/8\""
+    },
+    {
+      "ref": 10,
+      "x": 7.0,
+      "y": 49.18,
+      "partNo": "193-57",
+      "desc": "LOCK WASHER - 1/4\" external tooth"
+    },
+    {
+      "ref": 11,
+      "x": 6.58,
+      "y": 54.2,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 86.79,
+      "y": 57.37,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 45.09,
+      "y": 31.3,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 34.08,
+      "y": 16.41,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 11,
+      "x": 62.39,
+      "y": 50.2,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" - 20 hex"
+    },
+    {
+      "ref": 12,
+      "x": 19.46,
+      "y": 38.38,
+      "partNo": "111-139",
+      "desc": "BOLT - 1/4\" - 20 x 1\" round head, square neck"
+    },
+    {
+      "ref": 13,
+      "x": 57.04,
+      "y": 30.93,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4\""
+    },
+    {
+      "ref": 13,
+      "x": 56.63,
+      "y": 48.43,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4\""
+    },
+    {
+      "ref": 13,
+      "x": 87.21,
+      "y": 47.41,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4\""
+    },
+    {
+      "ref": 14,
+      "x": 75.47,
+      "y": 16.87,
+      "partNo": "192-18",
+      "desc": "LOCK WASHER - No. 10"
+    },
+    {
+      "ref": 14,
+      "x": 73.2,
+      "y": 27.02,
+      "partNo": "192-18",
+      "desc": "LOCK WASHER - No. 10"
+    },
+    {
+      "ref": 14,
+      "x": 33.36,
+      "y": 80.45,
+      "partNo": "192-18",
+      "desc": "LOCK WASHER - No. 10"
+    },
+    {
+      "ref": 15,
+      "x": 38.5,
+      "y": 36.61,
+      "partNo": "129-27",
+      "desc": "NUT - No. 10 N.F. hex"
+    },
+    {
+      "ref": 15,
+      "x": 37.68,
+      "y": 49.55,
+      "partNo": "129-27",
+      "desc": "NUT - No. 10 N.F. hex"
+    },
+    {
+      "ref": 16,
+      "x": 38.81,
+      "y": 46.29,
+      "partNo": "192-18",
+      "desc": "LOCK WASHER - No. 10"
+    },
+    {
+      "ref": 17,
+      "x": 7.0,
+      "y": 25.25,
+      "partNo": "111-202",
+      "desc": "BOLT - 5/16\" x 3/4\" N.C. round head, square neck"
+    },
+    {
+      "ref": 18,
+      "x": 28.31,
+      "y": 11.29,
+      "partNo": "111-108",
+      "desc": "BOLT - 1/4\" x 3/4\" N.C. round head, square neck"
+    },
+    {
+      "ref": 19,
+      "x": 17.81,
+      "y": 15.11,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" N.C. hex"
+    },
+    {
+      "ref": 20,
+      "x": 50.86,
+      "y": 71.7,
+      "partNo": "182-10",
+      "desc": "SCREW - No. 4-40 N.C. 7/8\""
+    },
+    {
+      "ref": 21,
+      "x": 70.22,
+      "y": 60.25,
+      "partNo": "C33697",
+      "desc": "NUT - No. 4-40 hex"
+    },
+    {
+      "ref": 22,
+      "x": 71.04,
+      "y": 72.63,
+      "partNo": "192-13",
+      "desc": "LOCK WASHER - No. 4"
+    },
+    {
+      "ref": 23,
+      "x": 11.73,
+      "y": 13.15,
+      "partNo": "C24069",
+      "desc": "COVER - terminal"
+    },
+    {
+      "ref": 24,
+      "x": 27.07,
+      "y": 6.54,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4\" - 20 x 3/4\" hex"
+    },
+    {
+      "ref": 24,
+      "x": 43.65,
+      "y": 39.68,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4\" - 20 x 3/4\" hex"
+    },
+    {
+      "ref": 25,
+      "x": 70.53,
+      "y": 51.04,
+      "partNo": "113-17",
+      "desc": "BOLT - 1/4\" - 20 x 1-1/4\" hex"
+    },
+    {
+      "ref": 26,
+      "x": 66.2,
+      "y": 11.38,
+      "partNo": "182-147",
+      "desc": "BOLT - #10-32 x 3/4\""
+    },
+    {
+      "ref": 27,
+      "x": 71.04,
+      "y": 81.57,
+      "partNo": "C19521",
+      "desc": "CLIP - wire holder, headlight"
+    },
+    {
+      "ref": 28,
+      "x": 61.98,
+      "y": 57.18,
+      "partNo": "C30276*",
+      "desc": "PLATE - switch mounting (*Use S/N: 226 - 14094020 to 14094129; 446 - 14096200 to 14096325; 448 - 14097625 to 14097742)"
+    },
+    {
+      "ref": 29,
+      "x": 31.5,
+      "y": 8.31,
+      "partNo": "195-518",
+      "desc": "WASHER - 1/4\""
+    }
+  ],
+  "footnotes": ""
+}

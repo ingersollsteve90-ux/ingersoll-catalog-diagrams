@@ -1,0 +1,148 @@
+{
+  "sectionTitle": "Decals - English (S/N range 3)",
+  "breadcrumb": "Decals - English (S/N range 3)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/decals_sn3_english.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 50.73,
+      "y": 6.7,
+      "partNo": "C31050",
+      "desc": "DECAL - \"Ingersoll\""
+    },
+    {
+      "ref": 2,
+      "x": 17.35,
+      "y": 65.71,
+      "partNo": "C26699",
+      "desc": "DECAL - fuel gauge"
+    },
+    {
+      "ref": 3,
+      "x": 91.93,
+      "y": 51.48,
+      "partNo": "321-4767",
+      "desc": "DECAL - hydraulic reservoir"
+    },
+    {
+      "ref": 4,
+      "x": 93.43,
+      "y": 79.37,
+      "partNo": "C33589",
+      "desc": "DECAL - shift range"
+    },
+    {
+      "ref": 5,
+      "x": 25.05,
+      "y": 27.64,
+      "partNo": "NSS",
+      "desc": "DECAL - brake (use C33590)"
+    },
+    {
+      "ref": 6,
+      "x": 11.57,
+      "y": 15.95,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C27917",
+          "desc": "DECAL - \"226\" hood L.H. (shown)"
+        },
+        {
+          "serialNote": "226 (2)",
+          "partNo": "C27922",
+          "desc": "DECAL - \"226\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 49.13,
+      "y": 15.95,
+      "variants": [
+        {
+          "serialNote": "446",
+          "partNo": "C27919",
+          "desc": "DECAL - \"446\" hood L.H. (shown)"
+        },
+        {
+          "serialNote": "446 (2)",
+          "partNo": "C27923",
+          "desc": "DECAL - \"446\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 86.47,
+      "y": 15.03,
+      "variants": [
+        {
+          "serialNote": "448",
+          "partNo": "C27920",
+          "desc": "DECAL - \"448\" hood L.H. (shown)"
+        },
+        {
+          "serialNote": "448 (2)",
+          "partNo": "C27924",
+          "desc": "DECAL - \"448\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 52.23,
+      "y": 65.25,
+      "partNo": "321-6659",
+      "desc": "DECAL - \"Caution\""
+    },
+    {
+      "ref": 10,
+      "x": 20.13,
+      "y": 55.99,
+      "partNo": "NSS",
+      "desc": "MEDALLION - \"Case\" (use C30539)"
+    },
+    {
+      "ref": 11,
+      "x": 52.66,
+      "y": 90.36,
+      "partNo": "C30274",
+      "desc": "LENS - display"
+    },
+    {
+      "ref": 12,
+      "x": 60.9,
+      "y": 32.04,
+      "variants": [
+        {
+          "serialNote": "L.H.",
+          "partNo": "C27962",
+          "desc": "DECAL - \"Ingersoll\" stripe L.H. (shown)"
+        },
+        {
+          "serialNote": "R.H.",
+          "partNo": "C27963",
+          "desc": "DECAL - \"Ingersoll\" stripe R.H."
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 52.34,
+      "y": 59.7,
+      "partNo": "C32093",
+      "desc": "DECAL - seat back"
+    },
+    {
+      "ref": 17,
+      "x": 86.8,
+      "y": 60.74,
+      "partNo": "TBD",
+      "desc": "TBD - see diagram"
+    }
+  ],
+  "footnotes": ""
+}

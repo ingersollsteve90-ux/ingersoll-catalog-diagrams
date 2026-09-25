@@ -1,0 +1,127 @@
+{
+  "sectionTitle": "Decals (Before S/N)",
+  "breadcrumb": "Decals (Before S/N)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/decals_before_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 49.61,
+      "y": 6.91,
+      "partNo": "C26877",
+      "desc": "DECAL - instrument panel"
+    },
+    {
+      "ref": 2,
+      "x": 13.03,
+      "y": 52.61,
+      "partNo": "C26699",
+      "desc": "DECAL - fuel gauge"
+    },
+    {
+      "ref": 3,
+      "x": 86.96,
+      "y": 42.71,
+      "partNo": "321-4767",
+      "desc": "DECAL - hydraulic reservoir"
+    },
+    {
+      "ref": 4,
+      "x": 50.27,
+      "y": 93.11,
+      "variants": [
+        {
+          "serialNote": "448",
+          "partNo": "C27179",
+          "desc": "DECAL - hood (448) L.H."
+        },
+        {
+          "serialNote": "448 (2)",
+          "partNo": "C27183",
+          "desc": "DECAL - hood R.H. (448) shown"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 30.22,
+      "y": 63.31,
+      "partNo": "C33589",
+      "desc": "DECAL - shift range"
+    },
+    {
+      "ref": 6,
+      "x": 49.83,
+      "y": 39.11,
+      "partNo": "NSS",
+      "desc": "DECAL - clutch brake (use C33590)"
+    },
+    {
+      "ref": 7,
+      "x": 49.83,
+      "y": 85.21,
+      "variants": [
+        {
+          "serialNote": "446",
+          "partNo": "C27178",
+          "desc": "DECAL - hood (446) L.H."
+        },
+        {
+          "serialNote": "446 (2)",
+          "partNo": "C27182",
+          "desc": "DECAL - hood R.H. (446) shown"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 50.27,
+      "y": 77.01,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C27176",
+          "desc": "DECAL - hood L.H. (226) shown"
+        },
+        {
+          "serialNote": "226 (2)",
+          "partNo": "C27181",
+          "desc": "DECAL - hood (226) R.H."
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 47.08,
+      "y": 52.61,
+      "partNo": "321-6659",
+      "desc": "DECAL - \"caution\""
+    },
+    {
+      "ref": 10,
+      "x": 16.11,
+      "y": 46.01,
+      "partNo": "NSS",
+      "desc": "MEDALLION - \"Case\" (use C30539)"
+    },
+    {
+      "ref": 11,
+      "x": 75.84,
+      "y": 50.81,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C26656",
+          "desc": "DECAL - air cleaner (226, 446)"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "DECAL - air cleaner (448) shown"
+        }
+      ]
+    }
+  ],
+  "footnotes": ""
+}

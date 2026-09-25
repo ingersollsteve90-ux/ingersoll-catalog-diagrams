@@ -1,0 +1,189 @@
+{
+  "sectionTitle": "Decals (S/N range 2)",
+  "breadcrumb": "Decals (S/N range 2)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/decals_sn2.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 30.56,
+      "y": 7.2,
+      "variants": [
+        {
+          "serialNote": "Shown",
+          "partNo": "C29740**",
+          "desc": "DECAL - instrument panel (shown)"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C27944*",
+          "desc": "DECAL - instrument panel"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 16.48,
+      "y": 83.22,
+      "partNo": "C26699",
+      "desc": "DECAL - fuel gauge"
+    },
+    {
+      "ref": 3,
+      "x": 90.46,
+      "y": 72.65,
+      "partNo": "321-4767",
+      "desc": "DECAL - hydraulic reservoir"
+    },
+    {
+      "ref": 4,
+      "x": 91.15,
+      "y": 93.1,
+      "partNo": "C33589",
+      "desc": "DECAL - shift range"
+    },
+    {
+      "ref": 5,
+      "x": 24.61,
+      "y": 55.09,
+      "partNo": "NSS",
+      "desc": "DECAL - brake (use C33590)"
+    },
+    {
+      "ref": 6,
+      "x": 11.32,
+      "y": 46.01,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C27917",
+          "desc": "DECAL - \"226\" hood L.H. (shown)"
+        },
+        {
+          "serialNote": "226 (2)",
+          "partNo": "C27922",
+          "desc": "DECAL - \"226\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 49.0,
+      "y": 46.01,
+      "variants": [
+        {
+          "serialNote": "446",
+          "partNo": "C27919",
+          "desc": "DECAL - \"446\" hood L.H. (shown)"
+        },
+        {
+          "serialNote": "446 (2)",
+          "partNo": "C27923",
+          "desc": "DECAL - \"446\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 84.96,
+      "y": 45.61,
+      "variants": [
+        {
+          "serialNote": "448",
+          "partNo": "C27920",
+          "desc": "DECAL - \"448\" hood L.H. (shown)"
+        },
+        {
+          "serialNote": "448 (2)",
+          "partNo": "C27924",
+          "desc": "DECAL - \"448\" hood R.H."
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 51.75,
+      "y": 82.73,
+      "partNo": "321-6659",
+      "desc": "DECAL - \"Caution\""
+    },
+    {
+      "ref": 10,
+      "x": 19.34,
+      "y": 76.04,
+      "partNo": "NSS",
+      "desc": "MEDALLION - \"Case\" (use C30539)"
+    },
+    {
+      "ref": 11,
+      "x": 81.98,
+      "y": 6.9,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C26656*",
+          "desc": "DECAL - air cleaner (226, 446)"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS*",
+          "desc": "DECAL - air cleaner (448) shown"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 59.77,
+      "y": 58.18,
+      "variants": [
+        {
+          "serialNote": "L.H.",
+          "partNo": "C27962",
+          "desc": "DECAL - \"Ingersoll\" stripe L.H. (shown)"
+        },
+        {
+          "serialNote": "R.H.",
+          "partNo": "C27963",
+          "desc": "DECAL - \"Ingersoll\" stripe R.H."
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 25.87,
+      "y": 40.62,
+      "partNo": "C27956*",
+      "desc": "DECAL - seat back \"226 hydriv\""
+    },
+    {
+      "ref": 14,
+      "x": 63.32,
+      "y": 40.82,
+      "partNo": "C27958*",
+      "desc": "DECAL - seat back \"446 hydriv\""
+    },
+    {
+      "ref": 15,
+      "x": 84.96,
+      "y": 35.73,
+      "partNo": "C27959*",
+      "desc": "DECAL - seat back \"448 hydriv\""
+    },
+    {
+      "ref": 16,
+      "x": 51.98,
+      "y": 69.86,
+      "partNo": "C29202**",
+      "desc": "DECAL - seat back \"Ingersoll\""
+    },
+    {
+      "ref": 17,
+      "x": 85.3,
+      "y": 79.33,
+      "partNo": "TBD",
+      "desc": "TBD - see diagram"
+    }
+  ],
+  "footnotes": ""
+}

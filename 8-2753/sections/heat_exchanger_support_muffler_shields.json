@@ -1,0 +1,104 @@
+{
+  "sectionTitle": "Heat Exchanger Support and Muffler Shields",
+  "breadcrumb": "Heat Exchanger Support and Muffler Shields",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/heat_exchanger_support_muffler_shields.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 59.03,
+      "y": 49.4,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NLA",
+          "desc": "SUPPORT - heat exchanger (226, 446)"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "C29283",
+          "desc": "SUPPORT - heat exchanger (448)"
+        },
+        {
+          "serialNote": "226 (2)",
+          "partNo": "C29284**",
+          "desc": "SUPPORT - heat exchanger (226, 446)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 32.08,
+      "y": 84.88,
+      "partNo": "113-118",
+      "desc": "BOLT - 5/16\" x 5/8\""
+    },
+    {
+      "ref": 3,
+      "x": 91.7,
+      "y": 47.68,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C26098",
+          "desc": "SHIELD - heat, muffler (226, 446) shown"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "C26455",
+          "desc": "SHIELD - heat, muffler (448)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 93.13,
+      "y": 83.38,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "113-1",
+          "desc": "BOLT - 1/4\" - 20 x 1/2\" hex"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "187-1036",
+          "desc": "BOLT 1/4\" - 20 x 1/2\" self - tap"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 6.91,
+      "y": 33.71,
+      "partNo": "C23558",
+      "desc": "PAD - insulation"
+    },
+    {
+      "ref": 6,
+      "x": 8.7,
+      "y": 20.59,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C29698**",
+          "desc": "RETAINER - insulation"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C23559*",
+          "desc": "RETAINER - insulation"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 70.99,
+      "y": 94.13,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4\""
+    }
+  ],
+  "footnotes": ""
+}

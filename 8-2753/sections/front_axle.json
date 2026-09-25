@@ -1,0 +1,356 @@
+{
+  "sectionTitle": "Front Axle",
+  "breadcrumb": "Front Axle",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/front_axle.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 57.32,
+      "y": 15.1,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C18812",
+          "desc": "AXLE - front (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C40687",
+          "desc": "AXLE - front (446, 448) shown"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 13.67,
+      "y": 73.38,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "SPINDLE - R.H. (226) (use C45087, C27902)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "NSS",
+          "desc": "SPINDLE - R.H. (446, 448) shown (use C31341, 132-311, C27902)"
+        },
+        {
+          "serialNote": "226 (2)",
+          "partNo": "NSS",
+          "desc": "SPINDLE - L.H. (226) (use C45086, C27902)"
+        },
+        {
+          "serialNote": "446 (2)",
+          "partNo": "NSS",
+          "desc": "SPINDLE - L.H. (446, 448) (use C31340, 132-311, C27902)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 45.23,
+      "y": 57.16,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "SPINDLE - R.H. (226) (use C45087, 132-311)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "NSS",
+          "desc": "SPINDLE - R.H. (446, 448) shown (use C31341, 132-311)"
+        },
+        {
+          "serialNote": "226 (2)",
+          "partNo": "NSS",
+          "desc": "SPINDLE - L.H. (226) (use C45086, 132-311)"
+        },
+        {
+          "serialNote": "446 (2)",
+          "partNo": "NSS",
+          "desc": "SPINDLE - L.H. (446, 448) (use C31340, 132-311)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 17.26,
+      "y": 60.74,
+      "partNo": "138-99",
+      "desc": "PIN - roll"
+    },
+    {
+      "ref": 5,
+      "x": 88.58,
+      "y": 36.23,
+      "partNo": "C22278",
+      "desc": "PIN - retaining, axle pivot"
+    },
+    {
+      "ref": 6,
+      "x": 46.46,
+      "y": 20.38,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C11906",
+          "desc": "WASHER - thrust (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C13716",
+          "desc": "WASHER - thrust (446, 448) shown"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 48.0,
+      "y": 38.87,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C11906",
+          "desc": "WASHER - thrust (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C13716",
+          "desc": "WASHER - thrust (446, 448) shown"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 63.37,
+      "y": 43.2,
+      "partNo": "219-404",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 8,
+      "x": 66.65,
+      "y": 48.49,
+      "partNo": "C13106",
+      "desc": "COVER - lubrication fitting"
+    },
+    {
+      "ref": 8,
+      "x": 64.19,
+      "y": 7.56,
+      "partNo": "C13106",
+      "desc": "COVER - lubrication fitting"
+    },
+    {
+      "ref": 9,
+      "x": 21.97,
+      "y": 80.36,
+      "partNo": "132-311",
+      "desc": "PIN - cotter 5/32'' x 1-1/4''"
+    },
+    {
+      "ref": 10,
+      "x": 9.98,
+      "y": 88.47,
+      "partNo": "C12975",
+      "desc": "WASHER - wheel spindle"
+    },
+    {
+      "ref": 11,
+      "x": 6.91,
+      "y": 77.53,
+      "partNo": "C28226",
+      "desc": "WASHER - wheel spacer"
+    },
+    {
+      "ref": 11,
+      "x": 32.32,
+      "y": 76.59,
+      "partNo": "C28226",
+      "desc": "WASHER - wheel spacer"
+    },
+    {
+      "ref": 12,
+      "x": 93.09,
+      "y": 31.7,
+      "partNo": "187-1910",
+      "desc": "BOLT - 3/8'' N.C. hex head"
+    },
+    {
+      "ref": 13,
+      "x": 24.02,
+      "y": 27.17,
+      "partNo": "C44806",
+      "desc": "LINK - drag"
+    },
+    {
+      "ref": 14,
+      "x": 51.38,
+      "y": 86.21,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2'' zinc"
+    },
+    {
+      "ref": 14,
+      "x": 92.78,
+      "y": 59.05,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2'' zinc"
+    },
+    {
+      "ref": 14,
+      "x": 11.62,
+      "y": 13.78,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2'' zinc"
+    },
+    {
+      "ref": 14,
+      "x": 33.75,
+      "y": 47.54,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2'' zinc"
+    },
+    {
+      "ref": 15,
+      "x": 9.98,
+      "y": 6.62,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2'' N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 13.77,
+      "y": 19.06,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2'' N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 35.29,
+      "y": 60.56,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2'' N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 59.58,
+      "y": 83.75,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2'' N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 15,
+      "x": 83.56,
+      "y": 67.35,
+      "partNo": "129-165",
+      "desc": "NUT - 1/2'' N.F. R.H. thread, lock"
+    },
+    {
+      "ref": 16,
+      "x": 78.13,
+      "y": 56.97,
+      "partNo": "129-365",
+      "desc": "NUT - 1/2'' N.F. L.H. thread, lock"
+    },
+    {
+      "ref": 16,
+      "x": 32.01,
+      "y": 35.66,
+      "partNo": "129-365",
+      "desc": "NUT - 1/2'' N.F. L.H. thread, lock"
+    },
+    {
+      "ref": 17,
+      "x": 92.06,
+      "y": 51.5,
+      "partNo": "C44641",
+      "desc": "BALL JOINT - 1/2'' L.H. thread"
+    },
+    {
+      "ref": 17,
+      "x": 36.93,
+      "y": 38.49,
+      "partNo": "C44641",
+      "desc": "BALL JOINT - 1/2'' L.H. thread"
+    },
+    {
+      "ref": 18,
+      "x": 55.07,
+      "y": 73.19,
+      "partNo": "C44640",
+      "desc": "BALL JOINT - 1/2'' R.H. thread"
+    },
+    {
+      "ref": 18,
+      "x": 9.98,
+      "y": 29.63,
+      "partNo": "C44640",
+      "desc": "BALL JOINT - 1/2'' R.H. thread"
+    },
+    {
+      "ref": 19,
+      "x": 74.64,
+      "y": 43.2,
+      "partNo": "C22568",
+      "desc": "PIN - axle pivot"
+    },
+    {
+      "ref": 20,
+      "x": 66.85,
+      "y": 12.27,
+      "partNo": "219-17",
+      "desc": "FITTING - lubrication"
+    },
+    {
+      "ref": 21,
+      "x": 69.11,
+      "y": 61.31,
+      "variants": [
+        {
+          "serialNote": "446",
+          "partNo": "C25855",
+          "desc": "TIE ROD - (446, 448 shown)"
+        },
+        {
+          "serialNote": "226",
+          "partNo": "C25856",
+          "desc": "TIE ROD - (226)"
+        }
+      ]
+    },
+    {
+      "ref": 22,
+      "x": 42.36,
+      "y": 85.83,
+      "partNo": "195-545",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": 23,
+      "x": 36.11,
+      "y": 89.41,
+      "partNo": "C28232",
+      "desc": "RING - retaining, wheel"
+    },
+    {
+      "ref": 24,
+      "x": 44.82,
+      "y": 45.85,
+      "partNo": "C27902",
+      "desc": "RING - retaining, spindle (446, 448)"
+    },
+    {
+      "ref": 25,
+      "x": 41.85,
+      "y": 46.22,
+      "partNo": "C28232",
+      "desc": "RING - retaining, spindle (226)"
+    }
+  ],
+  "footnotes": ""
+}

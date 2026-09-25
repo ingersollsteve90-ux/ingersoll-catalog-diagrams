@@ -1,0 +1,410 @@
+{
+  "sectionTitle": "Transmission and Final Drive",
+  "breadcrumb": "Transmission and Final Drive",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/transmission_final_drive.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 46.82,
+      "y": 61.06,
+      "partNo": "NSS",
+      "desc": "CASE - transmission (order C24843 assembly)"
+    },
+    {
+      "ref": 2,
+      "x": 18.4,
+      "y": 47.7,
+      "partNo": "C 12713",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": 2,
+      "x": 73.31,
+      "y": 24.75,
+      "partNo": "C 12713",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": 3,
+      "x": 68.03,
+      "y": 58.41,
+      "partNo": "C 24804",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": 3,
+      "x": 27.34,
+      "y": 76.47,
+      "partNo": "C 24804",
+      "desc": "BEARING - flange"
+    },
+    {
+      "ref": 4,
+      "x": 71.91,
+      "y": 56.98,
+      "partNo": "C 24803",
+      "desc": "SEAL - shaft"
+    },
+    {
+      "ref": 4,
+      "x": 26.48,
+      "y": 87.38,
+      "partNo": "C 24803",
+      "desc": "SEAL - shaft"
+    },
+    {
+      "ref": 5,
+      "x": 38.43,
+      "y": 30.46,
+      "partNo": "C 13241",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": 6,
+      "x": 41.33,
+      "y": 91.16,
+      "partNo": "C 13385",
+      "desc": "BEARING - sleeve"
+    },
+    {
+      "ref": 7,
+      "x": 81.81,
+      "y": 86.26,
+      "partNo": "C 13266",
+      "desc": "SEAL - shift rod"
+    },
+    {
+      "ref": 8,
+      "x": 38.43,
+      "y": 55.66,
+      "partNo": "C 28281",
+      "desc": "BEARING - roller"
+    },
+    {
+      "ref": 9,
+      "x": 18.62,
+      "y": 29.64,
+      "partNo": "C 30029",
+      "desc": "DIFFERENTIAL ASSEMBLY (also includes gears)"
+    },
+    {
+      "ref": 10,
+      "x": 40.04,
+      "y": 62.49,
+      "partNo": "221-3",
+      "desc": "PLUG - filler and drain 3/8\""
+    },
+    {
+      "ref": 10,
+      "x": 51.13,
+      "y": 86.87,
+      "partNo": "221-3",
+      "desc": "PLUG - filler and drain 3/8\""
+    },
+    {
+      "ref": 11,
+      "x": 93.12,
+      "y": 82.08,
+      "partNo": "138-2073",
+      "desc": "PIN - roll 3/16\" x 1-1/4\""
+    },
+    {
+      "ref": 12,
+      "x": 11.73,
+      "y": 83.61,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C 16699",
+          "desc": "SHAFT - axle, short R.H. (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C 22638",
+          "desc": "SHAFT - axle, short R.H. (446, 448) shown"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 23.89,
+      "y": 34.95,
+      "partNo": "126-128",
+      "desc": "KEY - Woodruff, brake idler"
+    },
+    {
+      "ref": 14,
+      "x": 83.96,
+      "y": 52.9,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C 16700",
+          "desc": "SHAFT - axle, long L.H. (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C 22637",
+          "desc": "SHAFT - axle, long L.H. (446, 448) shown"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 43.27,
+      "y": 30.36,
+      "partNo": "C 26342",
+      "desc": "RING - retainer, axle"
+    },
+    {
+      "ref": 16,
+      "x": 63.94,
+      "y": 21.89,
+      "partNo": "C 13196",
+      "desc": "GASKET - transmission cover"
+    },
+    {
+      "ref": 17,
+      "x": 74.06,
+      "y": 14.55,
+      "partNo": "C 36935",
+      "desc": "COVER - transmission"
+    },
+    {
+      "ref": 18,
+      "x": 48.01,
+      "y": 6.89,
+      "partNo": "C 28241",
+      "desc": "BREATHER - transmission"
+    },
+    {
+      "ref": 19,
+      "x": 40.9,
+      "y": 10.36,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2\""
+    },
+    {
+      "ref": 20,
+      "x": 67.49,
+      "y": 8.93,
+      "partNo": "121-21",
+      "desc": "BOLT - 1/4\" x 1/2\" N.C. hex lock"
+    },
+    {
+      "ref": 21,
+      "x": 59.96,
+      "y": 48.52,
+      "partNo": "C 12725",
+      "desc": "FORK - shift"
+    },
+    {
+      "ref": 22,
+      "x": 88.27,
+      "y": 84.43,
+      "partNo": "C 37222",
+      "desc": "ROD - gear shift"
+    },
+    {
+      "ref": 23,
+      "x": 64.26,
+      "y": 46.78,
+      "partNo": "C 14168",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 23,
+      "x": 52.96,
+      "y": 58.0,
+      "partNo": "C 14168",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 24,
+      "x": 44.45,
+      "y": 55.56,
+      "partNo": "C 14644",
+      "desc": "GEAR - cluster input"
+    },
+    {
+      "ref": 25,
+      "x": 51.45,
+      "y": 31.48,
+      "variants": [
+        {
+          "serialNote": "Shown",
+          "partNo": "NSS *",
+          "desc": "GEAR - high 41 tooth (shown) use C30030 and C30031"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C 30030 **",
+          "desc": "GEAR - high 41 tooth"
+        }
+      ]
+    },
+    {
+      "ref": 26,
+      "x": 30.24,
+      "y": 43.72,
+      "partNo": "C 12552",
+      "desc": "GEAR - low 55 tooth"
+    },
+    {
+      "ref": 27,
+      "x": 18.4,
+      "y": 26.38,
+      "partNo": "NSS",
+      "desc": "DIFFERENTIAL CASE"
+    },
+    {
+      "ref": 27,
+      "x": 22.06,
+      "y": 9.04,
+      "partNo": "NSS",
+      "desc": "DIFFERENTIAL CASE"
+    },
+    {
+      "ref": 28,
+      "x": 34.12,
+      "y": 93.1,
+      "partNo": "C 33305",
+      "desc": "BRAKE DRUM"
+    },
+    {
+      "ref": 29,
+      "x": 24.32,
+      "y": 24.34,
+      "partNo": "NSS",
+      "desc": "GEAR - differential pinion"
+    },
+    {
+      "ref": 29,
+      "x": 12.37,
+      "y": 9.34,
+      "partNo": "NSS",
+      "desc": "GEAR - differential pinion"
+    },
+    {
+      "ref": 30,
+      "x": 20.12,
+      "y": 11.08,
+      "partNo": "NSS",
+      "desc": "GEAR - differential"
+    },
+    {
+      "ref": 30,
+      "x": 20.66,
+      "y": 23.42,
+      "partNo": "NSS",
+      "desc": "GEAR - differential"
+    },
+    {
+      "ref": 31,
+      "x": 27.77,
+      "y": 25.26,
+      "partNo": "NSS",
+      "desc": "WASHER - pinion thrust"
+    },
+    {
+      "ref": 31,
+      "x": 6.88,
+      "y": 9.65,
+      "partNo": "NSS",
+      "desc": "WASHER - pinion thrust"
+    },
+    {
+      "ref": 32,
+      "x": 16.79,
+      "y": 11.18,
+      "partNo": "NSS",
+      "desc": "PIN - differential"
+    },
+    {
+      "ref": 33,
+      "x": 7.2,
+      "y": 15.87,
+      "partNo": "NSS",
+      "desc": "PIN - differential pin lock"
+    },
+    {
+      "ref": 34,
+      "x": 79.55,
+      "y": 31.58,
+      "variants": [
+        {
+          "serialNote": "Shown",
+          "partNo": "28-680",
+          "desc": "SCREW - 3/8\" x 5\" N.F. hex cap (shown)"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C 30031 **",
+          "desc": "KIT - screw (set of four)"
+        }
+      ]
+    },
+    {
+      "ref": 35,
+      "x": 34.12,
+      "y": 53.52,
+      "partNo": "131-1133",
+      "desc": "NUT - lock 3/8\" N.F. hex"
+    },
+    {
+      "ref": 36,
+      "x": 30.89,
+      "y": 52.8,
+      "partNo": "C 12718",
+      "desc": "WASHER - differential"
+    },
+    {
+      "ref": 36,
+      "x": 67.71,
+      "y": 26.89,
+      "partNo": "C 12718",
+      "desc": "WASHER - differential"
+    },
+    {
+      "ref": 37,
+      "x": 26.91,
+      "y": 54.54,
+      "partNo": "C 14223",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": 38,
+      "x": 29.17,
+      "y": 33.32,
+      "partNo": "C 33417",
+      "desc": "GEAR - brake idler"
+    },
+    {
+      "ref": 39,
+      "x": 33.26,
+      "y": 32.4,
+      "partNo": "C 14222",
+      "desc": "RING - retainer, brake idler"
+    },
+    {
+      "ref": 40,
+      "x": 41.55,
+      "y": 8.32,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "113-424",
+          "desc": "BOLT - 1/2\" - 13 x 1\" hex"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "166-86",
+          "desc": "BOLT - 1/2\" - 13 x 1-1/4\" flange"
+        }
+      ]
+    }
+  ],
+  "footnotes": "C 24843 — CASE ASSEMBLY - transmission (also listed, not shown on diagram)"
+}

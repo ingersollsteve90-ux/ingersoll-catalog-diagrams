@@ -1,0 +1,199 @@
+{
+  "sectionTitle": "C29733 Starter Motor",
+  "breadcrumb": "C29733 Starter Motor",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/c29733_starter_motor.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 16.31,
+      "y": 46.19,
+      "partNo": "NSS",
+      "desc": "COVER - dust"
+    },
+    {
+      "ref": 2,
+      "x": 20.17,
+      "y": 45.16,
+      "partNo": "NSS",
+      "desc": "NUT - stop"
+    },
+    {
+      "ref": 3,
+      "x": 24.13,
+      "y": 45.16,
+      "partNo": "NSS",
+      "desc": "WASHER - stop nut"
+    },
+    {
+      "ref": 4,
+      "x": 27.68,
+      "y": 44.86,
+      "partNo": "NSS",
+      "desc": "SPRING - tension"
+    },
+    {
+      "ref": 5,
+      "x": 31.75,
+      "y": 44.86,
+      "partNo": "NSS",
+      "desc": "SPACER - dust cover"
+    },
+    {
+      "ref": 6,
+      "x": 35.61,
+      "y": 44.04,
+      "partNo": "C 20274",
+      "desc": "DRIVE ASSEMBLY"
+    },
+    {
+      "ref": 7,
+      "x": 29.62,
+      "y": 20.09,
+      "partNo": "C 20278",
+      "desc": "BOLT - through"
+    },
+    {
+      "ref": 8,
+      "x": 39.37,
+      "y": 18.66,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - through bolt"
+    },
+    {
+      "ref": 9,
+      "x": 43.43,
+      "y": 18.15,
+      "partNo": "C 20333",
+      "desc": "CAP ASSEMBLY - drive end"
+    },
+    {
+      "ref": 10,
+      "x": 50.55,
+      "y": 19.69,
+      "partNo": "C 20334",
+      "desc": "WASHER - thrust, armature"
+    },
+    {
+      "ref": 11,
+      "x": 67.72,
+      "y": 19.07,
+      "partNo": "C 20335",
+      "desc": "ARMATURE - starter motor"
+    },
+    {
+      "ref": 12,
+      "x": 71.48,
+      "y": 59.9,
+      "partNo": "NSS",
+      "desc": "HOUSING - starter, order C29733 starter"
+    },
+    {
+      "ref": 13,
+      "x": 23.82,
+      "y": 67.77,
+      "partNo": "C 20336",
+      "desc": "CAP ASSEMBLY - commutator"
+    },
+    {
+      "ref": 14,
+      "x": 55.12,
+      "y": 68.59,
+      "partNo": "NSS",
+      "desc": "BUSHING - insulating"
+    },
+    {
+      "ref": 15,
+      "x": 39.98,
+      "y": 43.73,
+      "partNo": "NSS",
+      "desc": "HOLDER - brush"
+    },
+    {
+      "ref": 16,
+      "x": 53.69,
+      "y": 41.38,
+      "partNo": "NSS",
+      "desc": "SCREW AND LOCK WASHER - brush mounting"
+    },
+    {
+      "ref": 16,
+      "x": 57.56,
+      "y": 62.45,
+      "partNo": "NSS",
+      "desc": "SCREW AND LOCK WASHER - brush mounting"
+    },
+    {
+      "ref": 17,
+      "x": 50.34,
+      "y": 43.12,
+      "partNo": "NSS",
+      "desc": "BRUSH - ground"
+    },
+    {
+      "ref": 18,
+      "x": 50.34,
+      "y": 67.06,
+      "partNo": "NSS",
+      "desc": "STUD AND BRUSH ASSEMBLY"
+    },
+    {
+      "ref": 19,
+      "x": 45.57,
+      "y": 43.63,
+      "partNo": "NSS",
+      "desc": "SPRING - brush"
+    },
+    {
+      "ref": 20,
+      "x": 32.26,
+      "y": 71.15,
+      "partNo": "NSS",
+      "desc": "WASHER - insulating"
+    },
+    {
+      "ref": 21,
+      "x": 35.51,
+      "y": 73.91,
+      "partNo": "NSS",
+      "desc": "WASHER - stud mounting"
+    },
+    {
+      "ref": 22,
+      "x": 39.27,
+      "y": 75.14,
+      "partNo": "NSS",
+      "desc": "LOCK WASHER - stud mounting"
+    },
+    {
+      "ref": 23,
+      "x": 43.53,
+      "y": 76.06,
+      "partNo": "NSS",
+      "desc": "NUT - stud mounting"
+    },
+    {
+      "ref": 26,
+      "x": 61.52,
+      "y": 79.03,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" x 1\" N.C."
+    },
+    {
+      "ref": 27,
+      "x": 70.56,
+      "y": 86.09,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16\""
+    },
+    {
+      "ref": 28,
+      "x": 74.32,
+      "y": 81.48,
+      "partNo": "195-102",
+      "desc": "WASHER - 5/16\""
+    }
+  ],
+  "footnotes": "Ref 24 — 193-57 — LOCK WASHER - external tooth 1/4\"\nRef 25 — 129-101 — NUT - 1/4\" - 20\nC 26508 — KIT - dust cover (also listed, not shown on diagram)\nC 20337 — KIT - brush and spring (also listed, not shown on diagram)"
+}

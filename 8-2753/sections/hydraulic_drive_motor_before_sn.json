@@ -1,0 +1,176 @@
+{
+  "sectionTitle": "Hydraulic Drive Motor (Before S/N)",
+  "breadcrumb": "Hydraulic Drive Motor (Before S/N)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/hydraulic_drive_motor_before_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 6.9,
+      "y": 79.52,
+      "partNo": "C 16516",
+      "desc": "RING - retaining"
+    },
+    {
+      "ref": 2,
+      "x": 10.1,
+      "y": 75.73,
+      "partNo": "C 19040",
+      "desc": "SPACER - (see kit below)"
+    },
+    {
+      "ref": 3,
+      "x": 15.31,
+      "y": 70.05,
+      "partNo": "C 25048",
+      "desc": "SEAL - oil (see kit below)"
+    },
+    {
+      "ref": 4,
+      "x": 27.32,
+      "y": 57.58,
+      "partNo": "C 14827",
+      "desc": "HOUSING ASSEMBLY"
+    },
+    {
+      "ref": 5,
+      "x": 88.2,
+      "y": 67.16,
+      "partNo": "C 14837",
+      "desc": "END CAP"
+    },
+    {
+      "ref": 6,
+      "x": 37.34,
+      "y": 47.45,
+      "partNo": "C 18382",
+      "desc": "SEAL - (see kit below)"
+    },
+    {
+      "ref": 6,
+      "x": 83.3,
+      "y": 71.28,
+      "partNo": "C 18382",
+      "desc": "SEAL - (see kit below)"
+    },
+    {
+      "ref": 7,
+      "x": 44.75,
+      "y": 43.33,
+      "partNo": "NSS",
+      "desc": "SHAFT - coupling (order complete motor)"
+    },
+    {
+      "ref": 8,
+      "x": 53.36,
+      "y": 34.53,
+      "variants": [
+        {
+          "serialNote": "446",
+          "partNo": "NSS",
+          "desc": "DRIVE LINK - 446, 448 (order complete motor)"
+        },
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "DRIVE LINK - 226 (order complete motor)"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 59.87,
+      "y": 26.74,
+      "partNo": "C 14830",
+      "desc": "PLATE - wear"
+    },
+    {
+      "ref": 10,
+      "x": 71.68,
+      "y": 19.72,
+      "variants": [
+        {
+          "serialNote": "446",
+          "partNo": "NSS",
+          "desc": "ROTOR ASSEMBLY - 446, 448 (order complete motor)"
+        },
+        {
+          "serialNote": "226",
+          "partNo": "C 18110",
+          "desc": "ROTOR ASSEMBLY - 226"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 77.49,
+      "y": 12.71,
+      "partNo": "C 28703",
+      "desc": "PLATE - manifold"
+    },
+    {
+      "ref": 12,
+      "x": 57.26,
+      "y": 93.55,
+      "partNo": "C 28874",
+      "desc": "MANIFOLD"
+    },
+    {
+      "ref": 13,
+      "x": 63.27,
+      "y": 86.87,
+      "partNo": "NSS",
+      "desc": "COMMUTATOR AND RING SET (order complete motor)"
+    },
+    {
+      "ref": 14,
+      "x": 69.08,
+      "y": 83.75,
+      "partNo": "C 19041",
+      "desc": "RING - sealing (see kit below)"
+    },
+    {
+      "ref": 15,
+      "x": 75.69,
+      "y": 78.51,
+      "variants": [
+        {
+          "serialNote": "446",
+          "partNo": "C 14836",
+          "desc": "SLEEVE - 446, 448"
+        },
+        {
+          "serialNote": "226",
+          "partNo": "C 18092",
+          "desc": "SLEEVE - 226"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 93.11,
+      "y": 52.9,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "28-662",
+          "desc": "BOLT - 3/8'' x 3-7/8'' N.F. hex (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C 14838",
+          "desc": "BOLT - 3/8'' x 4-3/8'' N.F. hex (446, 448)"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 12.5,
+      "y": 72.39,
+      "partNo": "C 19212",
+      "desc": "WASHER - .010'' (0.25mm) (see kit below)"
+    }
+  ],
+  "footnotes": "C 16697 — MOTOR - hydraulic (226) (also listed, not shown on diagram)\nC 14655 — MOTOR - hydraulic (446, 448) (also listed, not shown on diagram)\nC 29732 — KIT - \"O\" ring and seal (includes items 2, 3, 6, 11, 12, 14 and 17) (also listed, not shown on diagram)"
+}

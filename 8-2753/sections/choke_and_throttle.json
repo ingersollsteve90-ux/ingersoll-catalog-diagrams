@@ -1,0 +1,86 @@
+{
+  "sectionTitle": "Choke and Throttle",
+  "breadcrumb": "Choke and Throttle",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/choke_and_throttle.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 12.48,
+      "y": 39.23,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C33411*",
+          "desc": "CONTROL - throttle"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C33412**",
+          "desc": "CONTROL - throttle"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 14.11,
+      "y": 13.2,
+      "partNo": "NSS",
+      "desc": "HANDLE - throttle control, orange (use C35291)"
+    },
+    {
+      "ref": 3,
+      "x": 49.56,
+      "y": 39.23,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C25604*",
+          "desc": "CONTROL - choke"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C30077**",
+          "desc": "CONTROL - choke"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 30.8,
+      "y": 7.31,
+      "partNo": "C30074",
+      "desc": "HANDLE - choke control, black"
+    },
+    {
+      "ref": 5,
+      "x": 23.97,
+      "y": 20.18,
+      "partNo": "111-5",
+      "desc": "BOLT - No. 10 - 24 x 1/2\" N.C. round head, square neck"
+    },
+    {
+      "ref": 6,
+      "x": 33.62,
+      "y": 40.93,
+      "partNo": "192-18",
+      "desc": "LOCK WASHER - No. 10"
+    },
+    {
+      "ref": 7,
+      "x": 34.17,
+      "y": 46.11,
+      "partNo": "129-17",
+      "desc": "NUT - No. 10 - 24"
+    },
+    {
+      "ref": 8,
+      "x": 28.31,
+      "y": 24.07,
+      "partNo": "182-559",
+      "desc": "BOLT - No. 10 - 24 x 3/4\" phillips, black"
+    }
+  ],
+  "footnotes": ""
+}

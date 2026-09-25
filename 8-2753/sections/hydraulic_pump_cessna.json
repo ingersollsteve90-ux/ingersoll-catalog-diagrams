@@ -1,0 +1,115 @@
+{
+  "sectionTitle": "Hydraulic Pump (Cessna)",
+  "breadcrumb": "Hydraulic Pump (Cessna)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/hydraulic_pump_cessna.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 80.03,
+      "y": 54.27,
+      "partNo": "C 28709",
+      "desc": "SPRING"
+    },
+    {
+      "ref": 2,
+      "x": 55.33,
+      "y": 49.53,
+      "partNo": "C 28718",
+      "desc": "DIAPHRAGM - wear plate"
+    },
+    {
+      "ref": 3,
+      "x": 88.45,
+      "y": 73.33,
+      "partNo": "NSS",
+      "desc": "COVER - front (use C26278)"
+    },
+    {
+      "ref": 4,
+      "x": 24.09,
+      "y": 19.74,
+      "partNo": "NSS",
+      "desc": "COVER - rear (use C26278)"
+    },
+    {
+      "ref": 5,
+      "x": 91.21,
+      "y": 83.48,
+      "partNo": "C 28711",
+      "desc": "SEAL - shaft"
+    },
+    {
+      "ref": 6,
+      "x": 48.35,
+      "y": 41.27,
+      "partNo": "NSS",
+      "desc": "BODY - pump (use C26278)"
+    },
+    {
+      "ref": 7,
+      "x": 72.83,
+      "y": 65.56,
+      "partNo": "C 28712",
+      "desc": "SEAL - diaphragm"
+    },
+    {
+      "ref": 8,
+      "x": 60.97,
+      "y": 54.55,
+      "partNo": "C 28714",
+      "desc": "GASKET - back up"
+    },
+    {
+      "ref": 9,
+      "x": 40.04,
+      "y": 33.4,
+      "partNo": "C 28215",
+      "desc": "KEY - 3/16'' square x .609'' (4.76 mm x 15.47 mm)"
+    },
+    {
+      "ref": 10,
+      "x": 67.07,
+      "y": 59.68,
+      "partNo": "C 28713",
+      "desc": "GASKET - back up"
+    },
+    {
+      "ref": 11,
+      "x": 33.39,
+      "y": 31.13,
+      "partNo": "NSS",
+      "desc": "GEAR - drive (use C26278)"
+    },
+    {
+      "ref": 12,
+      "x": 26.08,
+      "y": 62.71,
+      "partNo": "NSS",
+      "desc": "GEAR - driven (use C26278)"
+    },
+    {
+      "ref": 13,
+      "x": 85.45,
+      "y": 58.54,
+      "partNo": "211-306",
+      "desc": "BALL - steel 7/32''"
+    },
+    {
+      "ref": 14,
+      "x": 48.24,
+      "y": 85.38,
+      "partNo": "C 28715",
+      "desc": "PIN - dowel 1/4'' x 1-1/4'' (6.35 mm x 31.75 mm)"
+    },
+    {
+      "ref": 15,
+      "x": 11.13,
+      "y": 18.79,
+      "partNo": "166-32",
+      "desc": "BOLT - 5/16'' - 18 x 2-1/2'' 12 point flange"
+    }
+  ],
+  "footnotes": "NSS — PUMP - hyd. (use C26278) (also listed, not shown on diagram)"
+}

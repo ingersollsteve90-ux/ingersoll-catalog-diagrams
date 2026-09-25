@@ -1,0 +1,343 @@
+{
+  "sectionTitle": "Hood, Frame and Grille (S/N and After)",
+  "breadcrumb": "Hood, Frame and Grille (S/N and After)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/hood_frame_grille_after_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 75.18,
+      "y": 70.24,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C30523*",
+          "desc": "FRAME - main (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C30526*",
+          "desc": "FRAME - main (446, 448)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 78.51,
+      "y": 45.73,
+      "partNo": "C30143",
+      "desc": "SHIELD - heat"
+    },
+    {
+      "ref": 3,
+      "x": 50.16,
+      "y": 84.19,
+      "partNo": "C24137",
+      "desc": "SPRING - latch"
+    },
+    {
+      "ref": 4,
+      "x": 76.07,
+      "y": 11.34,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C30116",
+          "desc": "HOOD AND GRILLE ASSEMBLY - (includes item 31) 226, 446 (shown)"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "C30117",
+          "desc": "HOOD AND GRILLE ASSEMBLY - (includes item 31) 448"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 26.69,
+      "y": 10.85,
+      "partNo": "C23527",
+      "desc": "LINER - hood"
+    },
+    {
+      "ref": 6,
+      "x": 79.07,
+      "y": 71.4,
+      "partNo": "C22023",
+      "desc": "HINGE - frame"
+    },
+    {
+      "ref": 7,
+      "x": 45.04,
+      "y": 79.93,
+      "partNo": "131-1318",
+      "desc": "NUT - lock 1/2'' N.F."
+    },
+    {
+      "ref": 8,
+      "x": 48.27,
+      "y": 77.8,
+      "partNo": "C27508",
+      "desc": "PIN - attachment"
+    },
+    {
+      "ref": 9,
+      "x": 70.95,
+      "y": 66.27,
+      "partNo": "131-1181",
+      "desc": "NUT - lock 3/8'' N.C."
+    },
+    {
+      "ref": 10,
+      "x": 71.73,
+      "y": 68.79,
+      "partNo": "195-525",
+      "desc": "WASHER - plain 3/8'' x 13/16'' O.D. (over engine foot pad)"
+    },
+    {
+      "ref": 11,
+      "x": 53.16,
+      "y": 30.23,
+      "partNo": "C31279",
+      "desc": "SHIELD - heat"
+    },
+    {
+      "ref": 12,
+      "x": 81.29,
+      "y": 68.59,
+      "partNo": "C16362",
+      "desc": "ROD - hood hinge"
+    },
+    {
+      "ref": 13,
+      "x": 83.74,
+      "y": 79.93,
+      "partNo": "132-334",
+      "desc": "PIN - cotter 1/8'' x 3/4''"
+    },
+    {
+      "ref": 14,
+      "x": 72.4,
+      "y": 87.78,
+      "partNo": "C15410",
+      "desc": "CUSHION - washer"
+    },
+    {
+      "ref": 15,
+      "x": 72.29,
+      "y": 90.49,
+      "partNo": "195-2029",
+      "desc": "WASHER - plain 3/8'' x 1-1/4'' O.D. (under cushion)"
+    },
+    {
+      "ref": 16,
+      "x": 69.06,
+      "y": 93.39,
+      "partNo": "113-219",
+      "desc": "BOLT - 3/8'' x 2-1/4'' N.C. hex"
+    },
+    {
+      "ref": 17,
+      "x": 25.13,
+      "y": 81.87,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C30458",
+          "desc": "PAD - foot L.H. (226)"
+        },
+        {
+          "serialNote": "226 (2)",
+          "partNo": "C30460",
+          "desc": "PAD - foot R.H. (shown) (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C30462",
+          "desc": "PAD - foot L.H. (446, 448)"
+        },
+        {
+          "serialNote": "446 (2)",
+          "partNo": "C30464",
+          "desc": "PAD - foot R.H. (446, 448)"
+        }
+      ]
+    },
+    {
+      "ref": 18,
+      "x": 9.01,
+      "y": 74.79,
+      "partNo": "121-106",
+      "desc": "BOLT - 5/16'' x 1/2'' N.C. hex"
+    },
+    {
+      "ref": 19,
+      "x": 44.15,
+      "y": 37.79,
+      "partNo": "C30134",
+      "desc": "CAP - instrument panel"
+    },
+    {
+      "ref": 20,
+      "x": 6.9,
+      "y": 60.84,
+      "variants": [
+        {
+          "serialNote": "446",
+          "partNo": "C14729",
+          "desc": "SPACER - rear, frame (446, 448)"
+        },
+        {
+          "serialNote": "226",
+          "partNo": "C14730",
+          "desc": "SPACER - rear, frame (226)"
+        }
+      ]
+    },
+    {
+      "ref": 21,
+      "x": 11.23,
+      "y": 49.7,
+      "partNo": "192-23",
+      "desc": "LOCK WASHER - 1/2''"
+    },
+    {
+      "ref": 22,
+      "x": 12.79,
+      "y": 45.63,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "113-424",
+          "desc": "BOLT - 1/2'' N.C. hex, transaxle mounting"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "166-86",
+          "desc": "BOLT - 1/2'' x 1-1/4'' flange"
+        }
+      ]
+    },
+    {
+      "ref": 23,
+      "x": 51.93,
+      "y": 91.26,
+      "partNo": "138-2073",
+      "desc": "PIN - roll 3/16'' x 1-1/4''"
+    },
+    {
+      "ref": 24,
+      "x": 44.82,
+      "y": 84.77,
+      "partNo": "C16373",
+      "desc": "PIN - latch"
+    },
+    {
+      "ref": 25,
+      "x": 71.4,
+      "y": 43.21,
+      "partNo": "C30142",
+      "desc": "RETAINER - battery hold down"
+    },
+    {
+      "ref": 26,
+      "x": 65.17,
+      "y": 42.73,
+      "partNo": "182-547",
+      "desc": "BOLT - 1/4'' - 20 x 1/2''"
+    },
+    {
+      "ref": 26,
+      "x": 40.15,
+      "y": 76.44,
+      "partNo": "182-547",
+      "desc": "BOLT - 1/4'' - 20 x 1/2''"
+    },
+    {
+      "ref": 27,
+      "x": 65.61,
+      "y": 57.65,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4''"
+    },
+    {
+      "ref": 27,
+      "x": 93.08,
+      "y": 55.32,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4''"
+    },
+    {
+      "ref": 27,
+      "x": 22.8,
+      "y": 42.05,
+      "partNo": "192-19",
+      "desc": "LOCK WASHER - 1/4''"
+    },
+    {
+      "ref": 28,
+      "x": 65.61,
+      "y": 51.54,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4'' - 20 hex"
+    },
+    {
+      "ref": 28,
+      "x": 83.96,
+      "y": 60.26,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4'' - 20 hex"
+    },
+    {
+      "ref": 29,
+      "x": 27.69,
+      "y": 39.14,
+      "partNo": "C26506",
+      "desc": "COVER - access"
+    },
+    {
+      "ref": 30,
+      "x": 16.68,
+      "y": 40.98,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4'' - 20 x 1/2'' self tap"
+    },
+    {
+      "ref": 31,
+      "x": 74.4,
+      "y": 40.59,
+      "partNo": "C16361",
+      "desc": "HINGE - hood"
+    },
+    {
+      "ref": 32,
+      "x": 14.01,
+      "y": 20.25,
+      "partNo": "C29314",
+      "desc": "BUTTON - push, hood release"
+    },
+    {
+      "ref": 33,
+      "x": 11.12,
+      "y": 25.09,
+      "partNo": "C30126",
+      "desc": "ROD - push, hood release"
+    },
+    {
+      "ref": 34,
+      "x": 7.12,
+      "y": 24.42,
+      "partNo": "C30004",
+      "desc": "SPRING - release"
+    },
+    {
+      "ref": 35,
+      "x": 23.02,
+      "y": 21.22,
+      "partNo": "C33467",
+      "desc": "LATCH - hood"
+    }
+  ],
+  "footnotes": ""
+}

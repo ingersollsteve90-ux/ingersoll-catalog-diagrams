@@ -1,0 +1,208 @@
+{
+  "sectionTitle": "Governor and Blower Housing",
+  "breadcrumb": "Governor and Blower Housing",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/governor_and_blower_housing.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 71.25,
+      "y": 30.83,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C20359*",
+          "desc": "ROD - governor control"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C29988**",
+          "desc": "ROD - governor control"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 57.87,
+      "y": 19.57,
+      "partNo": "C20360",
+      "desc": "RETAINER - governor control rod, carburetor end"
+    },
+    {
+      "ref": 3,
+      "x": 53.3,
+      "y": 26.24,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C20361*",
+          "desc": "RETAINER - governor control rod, governor end"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C29989**",
+          "desc": "RETAINER - governor control rod, governor end"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 32.2,
+      "y": 38.0,
+      "partNo": "C20369",
+      "desc": "ARM - governor control"
+    },
+    {
+      "ref": 5,
+      "x": 24.04,
+      "y": 33.62,
+      "partNo": "C28719",
+      "desc": "BRACKET - governor mounting"
+    },
+    {
+      "ref": 6,
+      "x": 29.26,
+      "y": 6.11,
+      "partNo": "C20371",
+      "desc": "SPRING - throttle lever adjust"
+    },
+    {
+      "ref": 7,
+      "x": 26.21,
+      "y": 6.21,
+      "partNo": "O/L",
+      "desc": "SCREW - No. 6 x 7/8\" round head machine"
+    },
+    {
+      "ref": 8,
+      "x": 23.17,
+      "y": 10.1,
+      "partNo": "C20372",
+      "desc": "CLAMP - swivel, throttle"
+    },
+    {
+      "ref": 9,
+      "x": 32.96,
+      "y": 8.0,
+      "partNo": "O/L",
+      "desc": "WASHER - swivel clamp mounting"
+    },
+    {
+      "ref": 10,
+      "x": 37.42,
+      "y": 7.41,
+      "partNo": "O/L",
+      "desc": "PIN - cotter, swivel clamp mounting"
+    },
+    {
+      "ref": 11,
+      "x": 17.51,
+      "y": 18.17,
+      "partNo": "169-133",
+      "desc": "SCREW - No. 8 x 3/8\""
+    },
+    {
+      "ref": 12,
+      "x": 27.63,
+      "y": 37.41,
+      "partNo": "C20375",
+      "desc": "BUSHING - governor control"
+    },
+    {
+      "ref": 13,
+      "x": 48.84,
+      "y": 27.14,
+      "partNo": "C20376",
+      "desc": "SPRING - governor"
+    },
+    {
+      "ref": 14,
+      "x": 18.27,
+      "y": 30.93,
+      "partNo": "C29506",
+      "desc": "RETAINER - throttle cable"
+    },
+    {
+      "ref": 15,
+      "x": 46.88,
+      "y": 11.99,
+      "partNo": "121-3",
+      "desc": "BOLT - 1/4\" - 20 x 1/2\""
+    },
+    {
+      "ref": 16,
+      "x": 40.03,
+      "y": 10.1,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 16,
+      "x": 46.66,
+      "y": 22.56,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 17,
+      "x": 59.5,
+      "y": 38.7,
+      "partNo": "187-1073",
+      "desc": "BOLT - 1/4\" - 20 x 5/8\""
+    },
+    {
+      "ref": 18,
+      "x": 72.44,
+      "y": 38.5,
+      "partNo": "C24951",
+      "desc": "BAFFLE - cylinder air, R.H."
+    },
+    {
+      "ref": 19,
+      "x": 78.1,
+      "y": 45.68,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C24952",
+          "desc": "BAFFLE - cylinder air, L.H. (shown) use before S/N: 226-14071775, 446-14074175"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "C25778",
+          "desc": "BAFFLE - cylinder air, L.H. (448 all) use S/N and after: 226-14071775, 446-14074175"
+        }
+      ]
+    },
+    {
+      "ref": 20,
+      "x": 42.75,
+      "y": 59.93,
+      "partNo": "NSS",
+      "desc": "HOUSING - blower"
+    },
+    {
+      "ref": 21,
+      "x": 52.21,
+      "y": 82.15,
+      "partNo": "163-22",
+      "desc": "BOLT - 1/4\" x 7/16\" N.C. hex"
+    },
+    {
+      "ref": 22,
+      "x": 60.04,
+      "y": 42.79,
+      "partNo": "195-102",
+      "desc": "WASHER"
+    },
+    {
+      "ref": 23,
+      "x": 12.4,
+      "y": 30.23,
+      "partNo": "187-1511",
+      "desc": "SCREW - self tap"
+    }
+  ],
+  "footnotes": ""
+}

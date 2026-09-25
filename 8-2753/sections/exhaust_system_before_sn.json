@@ -1,0 +1,181 @@
+{
+  "sectionTitle": "Exhaust System (Before S/N)",
+  "breadcrumb": "Exhaust System (Before S/N)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/exhaust_system_before_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 49.37,
+      "y": 79.07,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C24703*",
+          "desc": "MUFFLER ASSEMBLY - exhaust (includes items 8, 9, 10 and 12)"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C26974**",
+          "desc": "MUFFLER ASSEMBLY - exhaust (includes items 8, 9, 10 and 12)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 92.04,
+      "y": 9.16,
+      "variants": [
+        {
+          "serialNote": "L.H.",
+          "partNo": "C26971**",
+          "desc": "PIPE - engine exhaust L.H."
+        },
+        {
+          "serialNote": "L.H. (2)",
+          "partNo": "C25071*",
+          "desc": "PIPE - engine exhaust L.H."
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 93.12,
+      "y": 22.88,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C28968*",
+          "desc": "CLAMP ASSEMBLY - muffler 1-1/4\""
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C28294*",
+          "desc": "CLAMP ASSEMBLY - muffler 1-1/8\""
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 89.49,
+      "y": 42.14,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" N.C. hex"
+    },
+    {
+      "ref": 5,
+      "x": 68.79,
+      "y": 22.79,
+      "partNo": "C26207",
+      "desc": "GASKET - exhaust"
+    },
+    {
+      "ref": 6,
+      "x": 64.77,
+      "y": 5.87,
+      "partNo": "61-512",
+      "desc": "BOLT - 5/16\" x 5/8\" socket head"
+    },
+    {
+      "ref": 7,
+      "x": 51.73,
+      "y": 19.31,
+      "variants": [
+        {
+          "serialNote": "R.H.",
+          "partNo": "C25073*",
+          "desc": "PIPE - engine exhaust R.H."
+        },
+        {
+          "serialNote": "R.H. (2)",
+          "partNo": "C26969**",
+          "desc": "PIPE - engine exhaust R.H."
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 18.47,
+      "y": 60.37,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C24296*",
+          "desc": "WRAPPER - muffler"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C26968**",
+          "desc": "WRAPPER - muffler"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 6.9,
+      "y": 71.46,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C23581*",
+          "desc": "COVER - muffler end"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C22889**",
+          "desc": "COVER - muffler end"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 13.08,
+      "y": 65.73,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C23580*",
+          "desc": "INSULATION - muffler end"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C29290**",
+          "desc": "INSULATION - muffler"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 25.44,
+      "y": 48.16,
+      "partNo": "214-272",
+      "desc": "CLAMP - wrapper mounting"
+    },
+    {
+      "ref": 12,
+      "x": 57.81,
+      "y": 65.54,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C23686*",
+          "desc": "INSULATION - muffler"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C26058**",
+          "desc": "INSULATION - muffler"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 67.22,
+      "y": 9.82,
+      "partNo": "192-404",
+      "desc": "LOCK WASHER - 5/16\""
+    }
+  ],
+  "footnotes": ""
+}

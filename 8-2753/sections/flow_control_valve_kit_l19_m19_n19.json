@@ -1,0 +1,190 @@
+{
+  "sectionTitle": "Flow Control Valve Kit — L19 (226), M19 (446,448), N19",
+  "breadcrumb": "Flow Control Valve Kit — L19 (226), M19 (446,448), N19",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/flow_control_valve_kit_l19_m19_n19.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 54.2,
+      "y": 31.55,
+      "partNo": "C 23618",
+      "desc": "VALVE - flow control"
+    },
+    {
+      "ref": 2,
+      "x": 47.16,
+      "y": 31.0,
+      "partNo": "C 36848",
+      "desc": "LEVER - valve"
+    },
+    {
+      "ref": 3,
+      "x": 41.6,
+      "y": 27.7,
+      "partNo": "C 28251",
+      "desc": "KNOB - lever"
+    },
+    {
+      "ref": 4,
+      "x": 51.36,
+      "y": 54.2,
+      "partNo": "113- 12",
+      "desc": "BOLT - 1/4\" x2-1/2\" N.C. hex"
+    },
+    {
+      "ref": 5,
+      "x": 72.7,
+      "y": 43.86,
+      "partNo": "131- 1180",
+      "desc": "NUT - lock 1/4\" N.C. hex"
+    },
+    {
+      "ref": 5,
+      "x": 53.86,
+      "y": 19.56,
+      "partNo": "131- 1180",
+      "desc": "NUT - lock 1/4\" N.C. hex"
+    },
+    {
+      "ref": 6,
+      "x": 85.52,
+      "y": 50.24,
+      "partNo": "218- 485",
+      "desc": "FITTING - elbow 90 degree 1/2\" pipe thread"
+    },
+    {
+      "ref": 7,
+      "x": 64.3,
+      "y": 52.44,
+      "partNo": "C 45431",
+      "desc": "FITTING - straight 1/2\" pipe thread"
+    },
+    {
+      "ref": 8,
+      "x": 44.55,
+      "y": 75.75,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C 25390",
+          "desc": "TUBE - flow control valve to tube (L19, M19)"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C 33008",
+          "desc": "TUBE - flow valve to PTO, front half (N19)"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 90.74,
+      "y": 61.79,
+      "partNo": "C 23407",
+      "desc": "TUBE - bypass port to return line"
+    },
+    {
+      "ref": 10,
+      "x": 48.64,
+      "y": 61.13,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C 23600",
+          "desc": "TUBE - flow valve to tractor valve (L19, M19)"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C 33007",
+          "desc": "TUBE - flow valve to tractor valve (N19)"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 79.16,
+      "y": 91.48,
+      "partNo": "C 26181",
+      "desc": "TUBE - heat exchanger"
+    },
+    {
+      "ref": 12,
+      "x": 91.99,
+      "y": 73.99,
+      "partNo": "C 18721",
+      "desc": "HOSE - return"
+    },
+    {
+      "ref": 13,
+      "x": 92.67,
+      "y": 67.07,
+      "partNo": "214- 254",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 13,
+      "x": 93.12,
+      "y": 80.04,
+      "partNo": "214- 254",
+      "desc": "CLAMP - hose"
+    },
+    {
+      "ref": 14,
+      "x": 16.18,
+      "y": 28.58,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C 23879",
+          "desc": "TUBE - PTO valve to tube (L19, M19) (226)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C 25392",
+          "desc": "TUBE - PTO valve to tube (M19) (446, 448)"
+        }
+      ]
+    },
+    {
+      "ref": 15,
+      "x": 24.13,
+      "y": 41.66,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C 33010",
+          "desc": "HOSE - flow valve to PTO, rear (226) (N19)"
+        },
+        {
+          "serialNote": "446",
+          "partNo": "C 33011",
+          "desc": "HOSE - flow valve to PTO, rear (446, 448) (N19)"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 69.29,
+      "y": 30.45,
+      "partNo": "C 25391",
+      "desc": "PLATE - adapter"
+    },
+    {
+      "ref": 17,
+      "x": 46.03,
+      "y": 22.31,
+      "partNo": "113- 2",
+      "desc": "BOLT - 1/4\" - 20 x 5/8\""
+    },
+    {
+      "ref": 18,
+      "x": 6.88,
+      "y": 32.54,
+      "partNo": "218- 545",
+      "desc": "FITTING - 45° elbow 5/8\" tube x 3/4\" NPTF (use to replace outlet in PTO valve) (N19)"
+    }
+  ],
+  "footnotes": "C 28217 — \"O\" RING - shaft 3/4\" I.D. x 15/16\" O.D. x 3/32\" (component of ref 1) (also listed, not shown on diagram)\nC 28710 — RING - snap (component of ref 1) (also listed, not shown on diagram)\nC 18719 — DECAL - valve, \"slow/fast\" (also listed, not shown on diagram)\n218- 5229 — FITTING - 90° swivel 5/16\" x 1/2\" - 20 (N19) for hose clearance at T fitting (also listed, not shown on diagram)"
+}

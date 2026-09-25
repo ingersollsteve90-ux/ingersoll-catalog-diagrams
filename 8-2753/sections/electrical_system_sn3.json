@@ -1,0 +1,370 @@
+{
+  "sectionTitle": "Electrical System (S/N range 3)",
+  "breadcrumb": "Electrical System (S/N range 3)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/electrical_system_sn3.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 32.77,
+      "y": 19.86,
+      "partNo": "C 30264",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 1,
+      "x": 80.48,
+      "y": 7.64,
+      "partNo": "C 30264",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 1,
+      "x": 44.82,
+      "y": 63.67,
+      "partNo": "C 30264",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 2,
+      "x": 83.44,
+      "y": 33.47,
+      "partNo": "C 29410",
+      "desc": "CABLE - solenoid to starter"
+    },
+    {
+      "ref": 3,
+      "x": 38.99,
+      "y": 45.39,
+      "partNo": "C 14565",
+      "desc": "CABLE - solenoid to battery positive"
+    },
+    {
+      "ref": 4,
+      "x": 77.41,
+      "y": 38.83,
+      "partNo": "C 24814",
+      "desc": "CABLE - battery negative to ground"
+    },
+    {
+      "ref": 5,
+      "x": 15.68,
+      "y": 77.68,
+      "partNo": "C 24815",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 6,
+      "x": 11.63,
+      "y": 73.8,
+      "partNo": "C 24813",
+      "desc": "CONNECTOR - wire"
+    },
+    {
+      "ref": 6,
+      "x": 20.52,
+      "y": 29.59,
+      "partNo": "C 24813",
+      "desc": "CONNECTOR - wire"
+    },
+    {
+      "ref": 7,
+      "x": 16.37,
+      "y": 67.05,
+      "partNo": "C 25338",
+      "desc": "CONNECTOR - wire"
+    },
+    {
+      "ref": 7,
+      "x": 16.37,
+      "y": 28.0,
+      "partNo": "C 25338",
+      "desc": "CONNECTOR - wire"
+    },
+    {
+      "ref": 8,
+      "x": 16.18,
+      "y": 82.25,
+      "partNo": "C 25486",
+      "desc": "CONNECTOR - rectifier"
+    },
+    {
+      "ref": 9,
+      "x": 73.26,
+      "y": 65.96,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - lights"
+    },
+    {
+      "ref": 10,
+      "x": 11.34,
+      "y": 43.4,
+      "partNo": "C 24460",
+      "desc": "CONNECTOR - switch"
+    },
+    {
+      "ref": 11,
+      "x": 59.04,
+      "y": 30.09,
+      "partNo": "C 27549",
+      "desc": "CONNECTOR - solenoid"
+    },
+    {
+      "ref": 12,
+      "x": 19.24,
+      "y": 36.94,
+      "partNo": "C 31947",
+      "desc": "KIT - holder and fuse"
+    },
+    {
+      "ref": 13,
+      "x": 9.56,
+      "y": 32.57,
+      "partNo": "C 30260",
+      "desc": "FUSE - 30 AMP"
+    },
+    {
+      "ref": 14,
+      "x": 49.95,
+      "y": 6.94,
+      "partNo": "C 30262",
+      "desc": "BULB - light"
+    },
+    {
+      "ref": 14,
+      "x": 65.86,
+      "y": 5.15,
+      "partNo": "C 30262",
+      "desc": "BULB - light"
+    },
+    {
+      "ref": 15,
+      "x": 65.76,
+      "y": 8.63,
+      "partNo": "C 30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 15,
+      "x": 57.07,
+      "y": 8.13,
+      "partNo": "C 30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 15,
+      "x": 42.84,
+      "y": 14.39,
+      "partNo": "C 30263",
+      "desc": "SOCKET - bulb"
+    },
+    {
+      "ref": 16,
+      "x": 63.59,
+      "y": 31.78,
+      "partNo": "C 29650",
+      "desc": "LOCATOR HALF - neutral start (see page 55)"
+    },
+    {
+      "ref": 17,
+      "x": 70.8,
+      "y": 21.64,
+      "partNo": "C 30450",
+      "desc": "SWITCH - neutral light (see page 55)"
+    },
+    {
+      "ref": 18,
+      "x": 79.19,
+      "y": 20.75,
+      "partNo": "C 30279",
+      "desc": "CONNECTOR - switch"
+    },
+    {
+      "ref": 19,
+      "x": 61.91,
+      "y": 36.94,
+      "partNo": "NSS",
+      "desc": "SOLENOID - start, 12v (use C33025)"
+    },
+    {
+      "ref": 20,
+      "x": 30.4,
+      "y": 34.36,
+      "partNo": "C 30265",
+      "desc": "SENSOR - voltage"
+    },
+    {
+      "ref": 21,
+      "x": 75.44,
+      "y": 79.67,
+      "partNo": "C 32178",
+      "desc": "HEADLAMP ASSEMBLY - 12v (repairs page 77)"
+    },
+    {
+      "ref": 21,
+      "x": 93.12,
+      "y": 72.91,
+      "partNo": "C 32178",
+      "desc": "HEADLAMP ASSEMBLY - 12v (repairs page 77)"
+    },
+    {
+      "ref": 22,
+      "x": 89.17,
+      "y": 10.72,
+      "partNo": "C 26108",
+      "desc": "SWITCH - neutral start"
+    },
+    {
+      "ref": 23,
+      "x": 88.48,
+      "y": 24.13,
+      "partNo": "C 30275",
+      "desc": "SWITCH - PTO light"
+    },
+    {
+      "ref": 24,
+      "x": 48.08,
+      "y": 50.66,
+      "partNo": "NSS",
+      "desc": "BATTERY - 12 v (use C41010)"
+    },
+    {
+      "ref": 25,
+      "x": 70.4,
+      "y": 40.12,
+      "partNo": "NSS",
+      "desc": "CAP - battery"
+    },
+    {
+      "ref": 26,
+      "x": 33.76,
+      "y": 43.8,
+      "partNo": "C 43044",
+      "desc": "SWITCH - head lamp"
+    },
+    {
+      "ref": 27,
+      "x": 7.19,
+      "y": 49.16,
+      "variants": [
+        {
+          "serialNote": "Option 1",
+          "partNo": "C 30480*",
+          "desc": "SWITCH ASSEMBLY - ignition (includes key and mounting hardware)"
+        },
+        {
+          "serialNote": "Option 2",
+          "partNo": "C 30530**",
+          "desc": "SWITCH ASSEMBLY - ignition (includes key and mounting hardware)"
+        }
+      ]
+    },
+    {
+      "ref": 28,
+      "x": 6.89,
+      "y": 39.03,
+      "partNo": "C 32407",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": 29,
+      "x": 15.19,
+      "y": 5.95,
+      "partNo": "C 42929",
+      "desc": "HOURMETER"
+    },
+    {
+      "ref": 30,
+      "x": 15.68,
+      "y": 89.8,
+      "partNo": "C 31249",
+      "desc": "RECTIFIER - voltage 12v"
+    },
+    {
+      "ref": 31,
+      "x": 91.14,
+      "y": 36.85,
+      "partNo": "C 29733",
+      "desc": "STARTER - bendix drive (repairs page 67)"
+    },
+    {
+      "ref": 32,
+      "x": 17.46,
+      "y": 59.1,
+      "partNo": "C 24956",
+      "desc": "STATOR"
+    },
+    {
+      "ref": 33,
+      "x": 37.02,
+      "y": 83.34,
+      "partNo": "C 29990",
+      "desc": "BREAKER CONTACT ASSEMBLY - ignition (repairs page 67)"
+    },
+    {
+      "ref": 34,
+      "x": 41.26,
+      "y": 79.67,
+      "partNo": "C 29992",
+      "desc": "WIRE - breaker contacts to coil (-)"
+    },
+    {
+      "ref": 35,
+      "x": 46.79,
+      "y": 70.63,
+      "partNo": "C 32299",
+      "desc": "WIRE - spark plug"
+    },
+    {
+      "ref": 36,
+      "x": 53.81,
+      "y": 78.08,
+      "partNo": "C 25845",
+      "desc": "SPARK PLUG - includes gasket"
+    },
+    {
+      "ref": 37,
+      "x": 52.23,
+      "y": 81.85,
+      "partNo": "NSS",
+      "desc": "GASKET - spark plug"
+    },
+    {
+      "ref": 38,
+      "x": 61.71,
+      "y": 89.6,
+      "partNo": "C 29752",
+      "desc": "COIL - ignition, 12v"
+    },
+    {
+      "ref": 39,
+      "x": 51.24,
+      "y": 87.71,
+      "partNo": "C 25227",
+      "desc": "CAP - coil"
+    },
+    {
+      "ref": 40,
+      "x": 61.51,
+      "y": 92.98,
+      "partNo": "214-258",
+      "desc": "CLAMP - coil mounting"
+    },
+    {
+      "ref": 41,
+      "x": 51.83,
+      "y": 68.54,
+      "partNo": "C 20344",
+      "desc": "RETAINER - cable"
+    },
+    {
+      "ref": 42,
+      "x": 35.04,
+      "y": 76.88,
+      "partNo": "C 26670",
+      "desc": "WIRE - Solenoid lower mounting bolt to battery (-)"
+    }
+  ],
+  "footnotes": ""
+}

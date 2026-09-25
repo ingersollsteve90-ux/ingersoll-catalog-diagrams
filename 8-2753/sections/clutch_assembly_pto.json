@@ -1,0 +1,227 @@
+{
+  "sectionTitle": "Clutch Assembly (PTO)",
+  "breadcrumb": "Clutch Assembly (PTO)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/clutch_assembly_pto.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 85.02,
+      "y": 6.06,
+      "partNo": "C16616",
+      "desc": "FAN - cooling"
+    },
+    {
+      "ref": 2,
+      "x": 32.79,
+      "y": 66.47,
+      "partNo": "C24741",
+      "desc": "HUB - clutch"
+    },
+    {
+      "ref": 3,
+      "x": 37.03,
+      "y": 14.75,
+      "partNo": "C26166",
+      "desc": "ARM - engaging"
+    },
+    {
+      "ref": 4,
+      "x": 39.82,
+      "y": 80.47,
+      "partNo": "164-40",
+      "desc": "SCREW - 5/16'' - 18 x 3/4'' flat head socket"
+    },
+    {
+      "ref": 5,
+      "x": 27.62,
+      "y": 75.27,
+      "partNo": "193-76",
+      "desc": "LOCK WASHER - 5/16'' special external tooth"
+    },
+    {
+      "ref": 6,
+      "x": 83.69,
+      "y": 24.01,
+      "partNo": "C28677",
+      "desc": "WASHER - fan 17/32''"
+    },
+    {
+      "ref": 7,
+      "x": 44.46,
+      "y": 69.85,
+      "partNo": "C15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 7,
+      "x": 58.64,
+      "y": 76.29,
+      "partNo": "C15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 7,
+      "x": 73.22,
+      "y": 81.93,
+      "partNo": "C15515",
+      "desc": "WASHER - spring"
+    },
+    {
+      "ref": 8,
+      "x": 66.99,
+      "y": 78.77,
+      "partNo": "C15557",
+      "desc": "WASHER - spacer .050''"
+    },
+    {
+      "ref": 8,
+      "x": 53.47,
+      "y": 73.01,
+      "partNo": "C15557",
+      "desc": "WASHER - spacer .050''"
+    },
+    {
+      "ref": 8,
+      "x": 27.75,
+      "y": 43.09,
+      "partNo": "C15557",
+      "desc": "WASHER - spacer .050''"
+    },
+    {
+      "ref": 9,
+      "x": 56.65,
+      "y": 49.98,
+      "partNo": "C31045",
+      "desc": "KIT - pulley and disc assembly (includes item 19)"
+    },
+    {
+      "ref": 10,
+      "x": 42.47,
+      "y": 46.37,
+      "partNo": "C23740",
+      "desc": "KIT - friction disc"
+    },
+    {
+      "ref": 11,
+      "x": 65.8,
+      "y": 55.85,
+      "partNo": "C29735",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 11,
+      "x": 85.15,
+      "y": 61.84,
+      "partNo": "C29735",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 11,
+      "x": 65.53,
+      "y": 41.96,
+      "partNo": "C29735",
+      "desc": "BEARING - ball"
+    },
+    {
+      "ref": 12,
+      "x": 93.5,
+      "y": 63.53,
+      "partNo": "C32169",
+      "desc": "CAM - clutch"
+    },
+    {
+      "ref": 13,
+      "x": 51.48,
+      "y": 13.06,
+      "partNo": "C16786",
+      "desc": "SPRING - clutch load"
+    },
+    {
+      "ref": 14,
+      "x": 90.85,
+      "y": 25.59,
+      "partNo": "129-125",
+      "desc": "NUT - 1/2'' N.F."
+    },
+    {
+      "ref": 15,
+      "x": 86.08,
+      "y": 47.95,
+      "partNo": "C23627",
+      "desc": "GUIDE - adjusting nut"
+    },
+    {
+      "ref": 16,
+      "x": 73.75,
+      "y": 43.66,
+      "partNo": "C23624",
+      "desc": "WASHER - spacer"
+    },
+    {
+      "ref": 17,
+      "x": 71.89,
+      "y": 6.17,
+      "partNo": "C23630",
+      "desc": "SPACER - hub"
+    },
+    {
+      "ref": 18,
+      "x": 79.32,
+      "y": 45.46,
+      "partNo": "C23625",
+      "desc": "NUT - adjust"
+    },
+    {
+      "ref": 19,
+      "x": 34.25,
+      "y": 46.59,
+      "partNo": "C29811",
+      "desc": "SPACER - washer .100''"
+    },
+    {
+      "ref": 19,
+      "x": 71.36,
+      "y": 59.47,
+      "partNo": "C29811",
+      "desc": "SPACER - washer .100''"
+    },
+    {
+      "ref": 20,
+      "x": 38.09,
+      "y": 33.27,
+      "partNo": "C31018",
+      "desc": "CLEVIS - PTO brake"
+    },
+    {
+      "ref": 21,
+      "x": 41.8,
+      "y": 20.4,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4'' - 20 x 3/4''"
+    },
+    {
+      "ref": 22,
+      "x": 46.97,
+      "y": 22.09,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4'' - 20 flange lock"
+    },
+    {
+      "ref": 23,
+      "x": 52.81,
+      "y": 38.01,
+      "partNo": "C32168",
+      "desc": "CAM - clutch"
+    },
+    {
+      "ref": 24,
+      "x": 12.25,
+      "y": 81.71,
+      "partNo": "C29772",
+      "desc": "WRENCH - clutch adjust"
+    }
+  ],
+  "footnotes": "C31026 — CLUTCH AND FAN ASSEMBLY (also listed, not shown on diagram)"
+}

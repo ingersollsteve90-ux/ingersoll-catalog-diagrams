@@ -1,0 +1,350 @@
+{
+  "sectionTitle": "Carburetor Detail (S/N and After — 226/446 and 448 variants)",
+  "breadcrumb": "Carburetor Detail (S/N and After — 226/446 and 448 variants)",
+  "catalogLabel": "Catalog 8-2753",
+  "modelNumbers": "Catalog 8-2753 — Models 226, 446, 448 Compact Tractors",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2753/carburetor_detail_after_sn.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 10.37,
+      "y": 40.5,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C29965",
+          "desc": "[226/446] FLOAT - fuel"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "C29965",
+          "desc": "[448] FLOAT - fuel (for carburetors marked 146-0414)"
+        }
+      ]
+    },
+    {
+      "ref": 2,
+      "x": 65.42,
+      "y": 61.89,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C29966",
+          "desc": "[226/446] JET - power"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "C29966",
+          "desc": "[448] JET - power (for carburetors marked 146-0414)"
+        }
+      ]
+    },
+    {
+      "ref": 3,
+      "x": 27.48,
+      "y": 50.72,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C29967",
+          "desc": "[226/446] JET - idle"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "C29967",
+          "desc": "[448] JET - idle (for carburetors marked 146-0414)"
+        }
+      ]
+    },
+    {
+      "ref": 4,
+      "x": 32.13,
+      "y": 81.83,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "C29969",
+          "desc": "[226/446] GASKET - mounting"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "C29969",
+          "desc": "[448] GASKET - mounting"
+        }
+      ]
+    },
+    {
+      "ref": 5,
+      "x": 50.92,
+      "y": 72.33,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] PLUG - body"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] PLUG - body"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 22.09,
+      "y": 93.1,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] SCREW - retaining"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] SCREW - retaining"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 45.15,
+      "y": 9.08,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] SCREW - retaining"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] SCREW - retaining"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 86.62,
+      "y": 6.89,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] SCREW - retaining"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] SCREW - retaining"
+        }
+      ]
+    },
+    {
+      "ref": 6,
+      "x": 58.73,
+      "y": 86.32,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] SCREW - retaining"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] SCREW - retaining"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 21.9,
+      "y": 89.87,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] LOCK WASHER"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] LOCK WASHER"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 46.82,
+      "y": 13.04,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] LOCK WASHER"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] LOCK WASHER"
+        }
+      ]
+    },
+    {
+      "ref": 7,
+      "x": 89.41,
+      "y": 9.91,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] LOCK WASHER"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] LOCK WASHER"
+        }
+      ]
+    },
+    {
+      "ref": 8,
+      "x": 50.17,
+      "y": 33.82,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] GASKET - body"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] GASKET - body"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 59.1,
+      "y": 63.56,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] GASKET - sealing"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] GASKET - sealing"
+        }
+      ]
+    },
+    {
+      "ref": 9,
+      "x": 72.3,
+      "y": 60.01,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] GASKET - sealing"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] GASKET - sealing"
+        }
+      ]
+    },
+    {
+      "ref": 10,
+      "x": 6.65,
+      "y": 52.39,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] VALVE AND SEAT - inlet"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] VALVE AND SEAT - inlet"
+        }
+      ]
+    },
+    {
+      "ref": 11,
+      "x": 80.48,
+      "y": 57.61,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] SCREW - power jet"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] SCREW - power jet"
+        }
+      ]
+    },
+    {
+      "ref": 12,
+      "x": 75.46,
+      "y": 77.55,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] VALVE - idle adjust"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] VALVE - idle adjust"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 63.0,
+      "y": 74.21,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] SPRING - idle adjust"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] SPRING - idle adjust"
+        }
+      ]
+    },
+    {
+      "ref": 14,
+      "x": 44.41,
+      "y": 82.77,
+      "variants": [
+        {
+          "serialNote": "226",
+          "partNo": "NSS",
+          "desc": "[226/446] SPRING - compression"
+        },
+        {
+          "serialNote": "448",
+          "partNo": "NSS",
+          "desc": "[448] SPRING - compression"
+        }
+      ]
+    }
+  ],
+  "footnotes": "C29868 — [226/446] CARBURETOR - fuel (includes mounting gasket) (also listed, not shown on diagram)\nC29962 — [226/446] KIT - repair (also listed, not shown on diagram)\nC29869 — [448] CARBURETOR - fuel (also listed, not shown on diagram)\nC30018 — [448] KIT - repair (for carburetors marked 146-0384) (also listed, not shown on diagram)\nC29962 — [448] KIT - repair (for carburetors marked 146-0414) (also listed, not shown on diagram)"
+}
