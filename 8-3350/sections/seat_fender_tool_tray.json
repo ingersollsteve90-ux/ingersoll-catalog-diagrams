@@ -1,0 +1,230 @@
+{
+ "sectionTitle": "Seat, Fender and Tool Tray",
+ "breadcrumb": "Seat, Fender and Tool Tray",
+ "catalogLabel": "Catalog 8-3350",
+ "modelNumbers": "Catalog 8-3350 — Odyssey Compact Tractor (includes Mower)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3350/seat_fender_tool_tray.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 20.4,
+   "y": 89.7,
+   "partNo": "C31020D",
+   "desc": "SUPPORT - seat, front"
+  },
+  {
+   "ref": 2,
+   "x": 4.2,
+   "y": 79.89,
+   "partNo": "C26827D",
+   "desc": "SUPPORT - seat, rear"
+  },
+  {
+   "ref": 3,
+   "x": 21.7,
+   "y": 65.49,
+   "partNo": "113-427",
+   "desc": "BOLT - 1/2” x 3-1/4”"
+  },
+  {
+   "ref": 4,
+   "x": 46.5,
+   "y": 54.88,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2",
+     "partNo": "113-424",
+     "desc": "BOLT - 1/2” x 1” N.C. hex"
+    },
+    {
+     "serialNote": "Option 2 of 2",
+     "partNo": "113-118",
+     "desc": "BOLT - 5/16” x 5/8”"
+    }
+   ]
+  },
+  {
+   "ref": 5,
+   "x": 33.9,
+   "y": 59.79,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2",
+     "partNo": "192-20",
+     "desc": "LOCKWASHER - 5/16”"
+    },
+    {
+     "serialNote": "Option 2 of 2",
+     "partNo": "192-23",
+     "desc": "LOCKWASHER - 1/2”"
+    }
+   ]
+  },
+  {
+   "ref": 6,
+   "x": 24.4,
+   "y": 60.49,
+   "partNo": "C37017D",
+   "desc": "TRAY - tool"
+  },
+  {
+   "ref": 7,
+   "x": 63.1,
+   "y": 35.48,
+   "partNo": "C16429",
+   "desc": "PIN - seat hinge"
+  },
+  {
+   "ref": 8,
+   "x": 40.9,
+   "y": 7.76,
+   "partNo": "C46836",
+   "desc": "SEAT"
+  },
+  {
+   "ref": 9,
+   "x": 16.5,
+   "y": 30.77,
+   "partNo": "C29812",
+   "desc": "WASHER"
+  },
+  {
+   "ref": 10,
+   "x": 26.3,
+   "y": 49.88,
+   "partNo": "195-2175",
+   "desc": "WASHER - 5/16” x 1-1/4” OD, zinc"
+  },
+  {
+   "ref": 11,
+   "x": 22.1,
+   "y": 52.98,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16” x 3/4”"
+  },
+  {
+   "ref": 12,
+   "x": 95.7,
+   "y": 68.69,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C26831D",
+     "desc": "FENDER - L.H. shown"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C26829D",
+     "desc": "FENDER - R.H"
+    }
+   ]
+  },
+  {
+   "ref": 13,
+   "x": 56.8,
+   "y": 75.99,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16” x 1/2” flange lock"
+  },
+  {
+   "ref": 13,
+   "x": 48.1,
+   "y": 42.58,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16” x 1/2” flange lock"
+  },
+  {
+   "ref": 14,
+   "x": 44.0,
+   "y": 31.57,
+   "partNo": "C46835D",
+   "desc": "HINGE ASSEMBLY - seat"
+  },
+  {
+   "ref": 15,
+   "x": 85.8,
+   "y": 12.67,
+   "partNo": "C30942",
+   "desc": "REFLECTOR - red, rear fender"
+  },
+  {
+   "ref": 16,
+   "x": 33.5,
+   "y": 96.5,
+   "partNo": "C14728",
+   "desc": "GRIP - shift lever"
+  },
+  {
+   "ref": 17,
+   "x": 68.4,
+   "y": 83.3,
+   "partNo": "C27594D",
+   "desc": "LEVER - shift"
+  },
+  {
+   "ref": 18,
+   "x": 62.4,
+   "y": 80.69,
+   "partNo": "195-525",
+   "desc": "WASHER - 7/16” x 1-1/4” O.D"
+  },
+  {
+   "ref": 19,
+   "x": 76.0,
+   "y": 86.0,
+   "partNo": "C17216",
+   "desc": "SPRING - shift lever"
+  },
+  {
+   "ref": 20,
+   "x": 80.7,
+   "y": 87.9,
+   "partNo": "C17066",
+   "desc": "WASHER - cupped"
+  },
+  {
+   "ref": 21,
+   "x": 83.9,
+   "y": 90.9,
+   "partNo": "131-1216",
+   "desc": "NUT - lock 3/8” N.C. hex"
+  },
+  {
+   "ref": 22,
+   "x": 10.7,
+   "y": 53.68,
+   "partNo": "C29305",
+   "desc": "CAP - spring"
+  },
+  {
+   "ref": 23,
+   "x": 11.2,
+   "y": 43.38,
+   "partNo": "C29306",
+   "desc": "SPRING - seat"
+  },
+  {
+   "ref": 24,
+   "x": 12.5,
+   "y": 50.08,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16” - 18 x 3/4”"
+  },
+  {
+   "ref": 25,
+   "x": 12.6,
+   "y": 33.88,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16” - 18 flange lock"
+  },
+  {
+   "ref": 25,
+   "x": 37.9,
+   "y": 70.19,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16” - 18 flange lock"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.21
+}

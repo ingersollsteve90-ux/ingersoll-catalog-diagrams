@@ -1,0 +1,270 @@
+{
+ "sectionTitle": "Electrical System",
+ "breadcrumb": "Electrical System",
+ "catalogLabel": "Catalog 8-3350",
+ "modelNumbers": "Catalog 8-3350 — Odyssey Compact Tractor (includes Mower)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3350/electrical_system.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 73.3,
+   "y": 55.2,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlight"
+  },
+  {
+   "ref": 2,
+   "x": 58.7,
+   "y": 29.1,
+   "partNo": "C33022",
+   "desc": "CABLE - battery (+) to solenoid"
+  },
+  {
+   "ref": 3,
+   "x": 92.9,
+   "y": 16.9,
+   "partNo": "C31943",
+   "desc": "CABLE - battery (-)"
+  },
+  {
+   "ref": 4,
+   "x": 68.7,
+   "y": 46.5,
+   "partNo": "C37272",
+   "desc": "CABLE - starter"
+  },
+  {
+   "ref": 5,
+   "x": 14.2,
+   "y": 18.9,
+   "partNo": "C46843",
+   "desc": "HARNESS - seat switch"
+  },
+  {
+   "ref": 6,
+   "x": 14.7,
+   "y": 22.3,
+   "partNo": "C24813",
+   "desc": "CONNECTOR - wire"
+  },
+  {
+   "ref": 7,
+   "x": 14.4,
+   "y": 15.7,
+   "partNo": "C30937",
+   "desc": "CONNECTOR - seat switch"
+  },
+  {
+   "ref": 8,
+   "x": 24.7,
+   "y": 39.6,
+   "partNo": "C24460",
+   "desc": "CONNECTOR - ignition switch"
+  },
+  {
+   "ref": 9,
+   "x": 39.4,
+   "y": 3.2,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - switch"
+  },
+  {
+   "ref": 9,
+   "x": 26.9,
+   "y": 6.1,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - switch"
+  },
+  {
+   "ref": 10,
+   "x": 5.0,
+   "y": 23.3,
+   "partNo": "C25338",
+   "desc": "CONNECTOR - harness"
+  },
+  {
+   "ref": 10,
+   "x": 72.9,
+   "y": 82.1,
+   "partNo": "C25338",
+   "desc": "CONNECTOR - harness"
+  },
+  {
+   "ref": 11,
+   "x": 26.4,
+   "y": 35.6,
+   "partNo": "C31951",
+   "desc": "CONNECTOR - PTO switch, two terminal"
+  },
+  {
+   "ref": 12,
+   "x": 29.3,
+   "y": 26.1,
+   "partNo": "C31950",
+   "desc": "CONNECTOR - PTO switch, three terminal"
+  },
+  {
+   "ref": 13,
+   "x": 54.3,
+   "y": 21.8,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder"
+  },
+  {
+   "ref": 14,
+   "x": 53.8,
+   "y": 18.3,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp"
+  },
+  {
+   "ref": 15,
+   "x": 69.4,
+   "y": 80.6,
+   "partNo": "C24813",
+   "desc": "CONNECTOR - wire"
+  },
+  {
+   "ref": 16,
+   "x": 61.3,
+   "y": 74.2,
+   "partNo": "C31986",
+   "desc": "KIT - diode"
+  },
+  {
+   "ref": 17,
+   "x": 3.8,
+   "y": 12.0,
+   "partNo": "C46890",
+   "desc": "SWITCH - seat"
+  },
+  {
+   "ref": 18,
+   "x": 50.2,
+   "y": 43.3,
+   "partNo": "C33024",
+   "desc": "SWITCH - solenoid"
+  },
+  {
+   "ref": 19,
+   "x": 92.9,
+   "y": 64.4,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT"
+  },
+  {
+   "ref": 19,
+   "x": 75.0,
+   "y": 73.1,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT"
+  },
+  {
+   "ref": 20,
+   "x": 6.4,
+   "y": 47.4,
+   "partNo": "C43044",
+   "desc": "SWITCH - light"
+  },
+  {
+   "ref": 21,
+   "x": 18.4,
+   "y": 26.5,
+   "partNo": "C31937",
+   "desc": "SWITCH - PTO"
+  },
+  {
+   "ref": 22,
+   "x": 65.4,
+   "y": 31.7,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt"
+  },
+  {
+   "ref": 23,
+   "x": 8.4,
+   "y": 38.9,
+   "partNo": "C30267",
+   "desc": "SWITCH - ignition"
+  },
+  {
+   "ref": 24,
+   "x": 45.9,
+   "y": 6.0,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter-lock"
+  },
+  {
+   "ref": 24,
+   "x": 37.3,
+   "y": 18.9,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter-lock"
+  },
+  {
+   "ref": 25,
+   "x": 53.3,
+   "y": 96.1,
+   "partNo": "C33197",
+   "desc": "CLUTCH - PTO"
+  },
+  {
+   "ref": 26,
+   "x": 5.3,
+   "y": 70.1,
+   "partNo": "NA",
+   "desc": "CARBURETOR - (see your local B&S dealer)"
+  },
+  {
+   "ref": 27,
+   "x": 33.9,
+   "y": 76.4,
+   "partNo": "NA",
+   "desc": "ARMATURE - magneto - (see your local B&S dealer)"
+  },
+  {
+   "ref": 27,
+   "x": 17.1,
+   "y": 84.3,
+   "partNo": "NA",
+   "desc": "ARMATURE - magneto - (see your local B&S dealer)"
+  },
+  {
+   "ref": 28,
+   "x": 28.4,
+   "y": 78.6,
+   "partNo": "C34291",
+   "desc": "PLUG - spark"
+  },
+  {
+   "ref": 28,
+   "x": 10.5,
+   "y": 87.0,
+   "partNo": "C34291",
+   "desc": "PLUG - spark"
+  },
+  {
+   "ref": 29,
+   "x": 24.2,
+   "y": 95.5,
+   "partNo": "NA",
+   "desc": "RECTIFIER (see your local B&S dealer)"
+  },
+  {
+   "ref": 30,
+   "x": 41.0,
+   "y": 92.7,
+   "partNo": "NA",
+   "desc": "STATOR (see your local B&S dealer)"
+  },
+  {
+   "ref": 31,
+   "x": 82.6,
+   "y": 46.0,
+   "partNo": "NA",
+   "desc": "STARTER (see your local B&S dealer)"
+  }
+ ],
+ "footnotes": "Also listed (not shown on diagram): C46825 HARNESS - wire, main — qty 1",
+ "dotSizePct": 3.15
+}

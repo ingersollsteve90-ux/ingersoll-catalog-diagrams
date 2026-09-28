@@ -1,0 +1,49 @@
+{
+ "sectionTitle": "Decals (Mower)",
+ "breadcrumb": "Decals (Mower)",
+ "catalogLabel": "Catalog 8-3350",
+ "modelNumbers": "Catalog 8-3350 — Odyssey Compact Tractor (includes Mower)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3350/decals_mower.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 47.4,
+   "y": 46.09,
+   "partNo": "C31494",
+   "desc": "DECAL - mower drive belt"
+  },
+  {
+   "ref": 2,
+   "x": 87.84,
+   "y": 12.67,
+   "partNo": "C12519",
+   "desc": "DECAL - “NO STEP”"
+  },
+  {
+   "ref": 3,
+   "x": 8.71,
+   "y": 18.75,
+   "partNo": "321-6210",
+   "desc": "DECAL - cutting height"
+  },
+  {
+   "ref": 4,
+   "x": 46.79,
+   "y": 5.55,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2",
+     "partNo": "C46324",
+     "desc": "DECAL - “Warning” spinning blade"
+    },
+    {
+     "serialNote": "Option 2 of 2",
+     "partNo": "C46323",
+     "desc": "DECAL - “Danger” spinning blade (shown)"
+    }
+   ]
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.37
+}

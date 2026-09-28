@@ -1,0 +1,189 @@
+{
+ "sectionTitle": "Steering Gear",
+ "breadcrumb": "Steering Gear",
+ "catalogLabel": "Catalog 8-3350",
+ "modelNumbers": "Catalog 8-3350 — Odyssey Compact Tractor (includes Mower)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3350/steering_gear.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 5.0,
+   "y": 49.4,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8” x 3/4” N.C. hex"
+  },
+  {
+   "ref": 2,
+   "x": 91.3,
+   "y": 3.2,
+   "partNo": "C46840",
+   "desc": "WHEEL - steering"
+  },
+  {
+   "ref": 3,
+   "x": 21.7,
+   "y": 57.6,
+   "partNo": "C29044",
+   "desc": "PIN - pivot"
+  },
+  {
+   "ref": 4,
+   "x": 40.8,
+   "y": 32.3,
+   "partNo": "C33940",
+   "desc": "SHAFT - steering"
+  },
+  {
+   "ref": 4,
+   "x": 59.5,
+   "y": 76.5,
+   "partNo": "C33940",
+   "desc": "SHAFT - steering"
+  },
+  {
+   "ref": 5,
+   "x": 8.8,
+   "y": 28.7,
+   "partNo": "C29812",
+   "desc": "WASHER - 3/8” x 1.4”"
+  },
+  {
+   "ref": 5,
+   "x": 21.0,
+   "y": 89.8,
+   "partNo": "C29812",
+   "desc": "WASHER - 3/8” x 1.4”"
+  },
+  {
+   "ref": 6,
+   "x": 11.3,
+   "y": 22.5,
+   "partNo": "113-241",
+   "desc": "BOLT - 3/8” - 16 x 3"
+  },
+  {
+   "ref": 7,
+   "x": 20.3,
+   "y": 63.7,
+   "partNo": "C14201",
+   "desc": "WASHER - shim"
+  },
+  {
+   "ref": 7,
+   "x": 42.4,
+   "y": 85.8,
+   "partNo": "C14201",
+   "desc": "WASHER - shim"
+  },
+  {
+   "ref": 8,
+   "x": 22.8,
+   "y": 97.0,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8” - 16 hex lock (torque 40-45 ft. lbs.)"
+  },
+  {
+   "ref": 9,
+   "x": 48.3,
+   "y": 54.2,
+   "partNo": "C27501",
+   "desc": "BUSHING"
+  },
+  {
+   "ref": 10,
+   "x": 34.9,
+   "y": 17.8,
+   "partNo": "138-143",
+   "desc": "PIN - roIl 1/4” x 2-1/4”"
+  },
+  {
+   "ref": 11,
+   "x": 92.4,
+   "y": 33.9,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 2",
+     "partNo": "195-541",
+     "desc": "BOLT - 5/8”"
+    },
+    {
+     "serialNote": "Option 2 of 2",
+     "partNo": "195-2206",
+     "desc": "WASHER - 5/8” x 1-1/4” x .06” thick"
+    }
+   ]
+  },
+  {
+   "ref": 12,
+   "x": 18.3,
+   "y": 76.4,
+   "partNo": "C33309",
+   "desc": "GEAR - steering"
+  },
+  {
+   "ref": 13,
+   "x": 22.6,
+   "y": 71.3,
+   "partNo": "C33308",
+   "desc": "BUSHING - sleeve"
+  },
+  {
+   "ref": 13,
+   "x": 22.8,
+   "y": 84.4,
+   "partNo": "C33308",
+   "desc": "BUSHING - sleeve"
+  },
+  {
+   "ref": 14,
+   "x": 10.6,
+   "y": 47.7,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8”"
+  },
+  {
+   "ref": 15,
+   "x": 54.1,
+   "y": 60.1,
+   "partNo": "195-2069",
+   "desc": "WASHER - 5/8” zinc plated"
+  },
+  {
+   "ref": 16,
+   "x": 17.2,
+   "y": 15.5,
+   "partNo": "C15096",
+   "desc": "BUSHING - flanged nylon"
+  },
+  {
+   "ref": 17,
+   "x": 53.6,
+   "y": 38.9,
+   "partNo": "C44378",
+   "desc": "SUPPORT - steering gear (includes item 9)"
+  },
+  {
+   "ref": 18,
+   "x": 95.5,
+   "y": 44.0,
+   "partNo": "C37479",
+   "desc": "TUBE - steering"
+  },
+  {
+   "ref": 19,
+   "x": 89.2,
+   "y": 28.4,
+   "partNo": "C46857",
+   "desc": "BOOT - plastic"
+  },
+  {
+   "ref": 20,
+   "x": 85.7,
+   "y": 23.3,
+   "partNo": "C46841",
+   "desc": "SPACER - steering wheel"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.39
+}

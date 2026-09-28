@@ -1,0 +1,95 @@
+{
+ "sectionTitle": "Fuel System",
+ "breadcrumb": "Fuel System",
+ "catalogLabel": "Catalog 8-3350",
+ "modelNumbers": "Catalog 8-3350 — Odyssey Compact Tractor (includes Mower)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3350/fuel_system.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 34.36,
+   "y": 67.71,
+   "partNo": "C10678",
+   "desc": "ELBOW - hose 90°"
+  },
+  {
+   "ref": 2,
+   "x": 50.86,
+   "y": 58.76,
+   "partNo": "C28962",
+   "desc": "RETAINER - fuel line"
+  },
+  {
+   "ref": 3,
+   "x": 52.18,
+   "y": 80.51,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel line (34.5”) (use C28937 cut to length)"
+  },
+  {
+   "ref": 4,
+   "x": 50.04,
+   "y": 13.5,
+   "partNo": "C44818",
+   "desc": "TANK - fuel"
+  },
+  {
+   "ref": 5,
+   "x": 14.71,
+   "y": 6.21,
+   "partNo": "C44819",
+   "desc": "CAP - fuel tank"
+  },
+  {
+   "ref": 6,
+   "x": 96.38,
+   "y": 81.97,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel line 14” (use C28937 cut to length)"
+  },
+  {
+   "ref": 7,
+   "x": 95.87,
+   "y": 12.25,
+   "partNo": "C23527",
+   "desc": "LINER - tank"
+  },
+  {
+   "ref": 8,
+   "x": 23.26,
+   "y": 74.48,
+   "partNo": "C14690",
+   "desc": "CUSHION - fuel tank"
+  },
+  {
+   "ref": 9,
+   "x": 40.06,
+   "y": 73.44,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2”"
+  },
+  {
+   "ref": 9,
+   "x": 63.59,
+   "y": 88.94,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2”"
+  },
+  {
+   "ref": 9,
+   "x": 84.67,
+   "y": 84.36,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2”"
+  },
+  {
+   "ref": 10,
+   "x": 68.88,
+   "y": 93.83,
+   "partNo": "C31978",
+   "desc": "FILTER - fuel"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.41
+}

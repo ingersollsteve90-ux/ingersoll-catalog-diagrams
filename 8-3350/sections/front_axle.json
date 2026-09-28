@@ -1,0 +1,245 @@
+{
+ "sectionTitle": "Front Axle",
+ "breadcrumb": "Front Axle",
+ "catalogLabel": "Catalog 8-3350",
+ "modelNumbers": "Catalog 8-3350 — Odyssey Compact Tractor (includes Mower)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3350/front_axle.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 58.06,
+   "y": 13.98,
+   "partNo": "C18812D",
+   "desc": "AXLE - front"
+  },
+  {
+   "ref": 2,
+   "x": 35.36,
+   "y": 77.64,
+   "partNo": "195-545",
+   "desc": "WASHER - spacer"
+  },
+  {
+   "ref": 3,
+   "x": 45.59,
+   "y": 60.12,
+   "variants": [
+    {
+     "serialNote": "R.H.",
+     "partNo": "C45087D",
+     "desc": "SPINDLE - R.H"
+    },
+    {
+     "serialNote": "L.H.",
+     "partNo": "C45086D",
+     "desc": "SPINDLE - L.H"
+    }
+   ]
+  },
+  {
+   "ref": 4,
+   "x": 44.68,
+   "y": 48.0,
+   "partNo": "C28232",
+   "desc": "RING - retaining spindle"
+  },
+  {
+   "ref": 5,
+   "x": 92.31,
+   "y": 36.69,
+   "partNo": "C22278",
+   "desc": "PIN - retaining, axle pivot"
+  },
+  {
+   "ref": 6,
+   "x": 46.6,
+   "y": 19.38,
+   "partNo": "C11906",
+   "desc": "WASHER - thrust"
+  },
+  {
+   "ref": 6,
+   "x": 48.23,
+   "y": 39.34,
+   "partNo": "C11906",
+   "desc": "WASHER - thrust"
+  },
+  {
+   "ref": 7,
+   "x": 64.64,
+   "y": 44.95,
+   "partNo": "219-404",
+   "desc": "FITTING - lubrication"
+  },
+  {
+   "ref": 8,
+   "x": 68.29,
+   "y": 50.14,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting"
+  },
+  {
+   "ref": 8,
+   "x": 65.45,
+   "y": 5.83,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting"
+  },
+  {
+   "ref": 9,
+   "x": 43.87,
+   "y": 95.17,
+   "partNo": "132-311",
+   "desc": "PIN - cotter 5/32” x 1-1/4”"
+  },
+  {
+   "ref": 10,
+   "x": 70.92,
+   "y": 64.2,
+   "partNo": "C25856D",
+   "desc": "TIE ROD"
+  },
+  {
+   "ref": 11,
+   "x": 31.3,
+   "y": 81.41,
+   "partNo": "C28226",
+   "desc": "WASHER - wheel spacer"
+  },
+  {
+   "ref": 12,
+   "x": 96.66,
+   "y": 31.5,
+   "partNo": "187-1910",
+   "desc": "BOLT - 3/8” - 16 x 3/4” N.C. hex head"
+  },
+  {
+   "ref": 13,
+   "x": 21.68,
+   "y": 27.02,
+   "partNo": "C44805D",
+   "desc": "LINK - drag"
+  },
+  {
+   "ref": 14,
+   "x": 9.11,
+   "y": 12.96,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2” zinc"
+  },
+  {
+   "ref": 14,
+   "x": 32.92,
+   "y": 49.43,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2” zinc"
+  },
+  {
+   "ref": 14,
+   "x": 51.37,
+   "y": 91.4,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2” zinc"
+  },
+  {
+   "ref": 14,
+   "x": 96.26,
+   "y": 61.75,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2” zinc"
+  },
+  {
+   "ref": 15,
+   "x": 34.34,
+   "y": 63.48,
+   "partNo": "129-165",
+   "desc": "NUT - 1/2” N.F. R.H. thread, lock"
+  },
+  {
+   "ref": 15,
+   "x": 60.69,
+   "y": 88.03,
+   "partNo": "129-165",
+   "desc": "NUT - 1/2” N.F. R.H. thread, lock"
+  },
+  {
+   "ref": 15,
+   "x": 85.82,
+   "y": 70.82,
+   "partNo": "129-165",
+   "desc": "NUT - 1/2” N.F. R.H. thread, lock"
+  },
+  {
+   "ref": 15,
+   "x": 11.34,
+   "y": 18.15,
+   "partNo": "129-165",
+   "desc": "NUT - 1/2” N.F. R.H. thread, lock"
+  },
+  {
+   "ref": 15,
+   "x": 7.08,
+   "y": 4.71,
+   "partNo": "129-165",
+   "desc": "NUT - 1/2” N.F. R.H. thread, lock"
+  },
+  {
+   "ref": 16,
+   "x": 80.15,
+   "y": 59.41,
+   "partNo": "129-365",
+   "desc": "NUT - 1/2” N.F. L.H. thread, lock"
+  },
+  {
+   "ref": 16,
+   "x": 31.4,
+   "y": 36.18,
+   "partNo": "129-365",
+   "desc": "NUT - 1/2” N.F. L.H. thread, lock"
+  },
+  {
+   "ref": 17,
+   "x": 36.27,
+   "y": 39.95,
+   "partNo": "C44641",
+   "desc": "BALL JOINT - 1/2” L.H. thread"
+  },
+  {
+   "ref": 17,
+   "x": 96.06,
+   "y": 53.5,
+   "partNo": "C44641",
+   "desc": "BALL JOINT - 1/2” L.H. thread"
+  },
+  {
+   "ref": 18,
+   "x": 54.51,
+   "y": 76.73,
+   "partNo": "C44640",
+   "desc": "BALL JOINT - 1/2” R.H. thread"
+  },
+  {
+   "ref": 18,
+   "x": 6.78,
+   "y": 29.77,
+   "partNo": "C44640",
+   "desc": "BALL JOINT - 1/2” R.H. thread"
+  },
+  {
+   "ref": 19,
+   "x": 77.0,
+   "y": 45.15,
+   "partNo": "C22568",
+   "desc": "PIN - axle pivot"
+  },
+  {
+   "ref": 20,
+   "x": 68.9,
+   "y": 11.13,
+   "partNo": "219-17",
+   "desc": "FITTING - lubrication"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.84
+}

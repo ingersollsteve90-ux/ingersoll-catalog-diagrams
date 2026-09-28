@@ -1,0 +1,99 @@
+{
+ "sectionTitle": "Choke and Throttle Controls",
+ "breadcrumb": "Choke and Throttle Controls",
+ "catalogLabel": "Catalog 8-3350",
+ "modelNumbers": "Catalog 8-3350 — Odyssey Compact Tractor (includes Mower)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3350/choke_throttle_controls.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 14.39,
+   "y": 43.59,
+   "partNo": "C46393",
+   "desc": "CONTROL - throttle"
+  },
+  {
+   "ref": 2,
+   "x": 57.83,
+   "y": 44.22,
+   "partNo": "C46394",
+   "desc": "CONTROL - choke"
+  },
+  {
+   "ref": 3,
+   "x": 74.4,
+   "y": 89.17,
+   "partNo": "C35067",
+   "desc": "RETAINER - plastic"
+  },
+  {
+   "ref": 5,
+   "x": 26.14,
+   "y": 14.44,
+   "partNo": "182-559",
+   "desc": "BOLT - No. 10 - 24 x 3/4”"
+  },
+  {
+   "ref": 6,
+   "x": 46.91,
+   "y": 9.77,
+   "partNo": "C35291",
+   "desc": "KNOB - control"
+  },
+  {
+   "ref": 7,
+   "x": 40.62,
+   "y": 47.72,
+   "partNo": "C34117",
+   "desc": "NUT - No. 10 - 24 flange lock"
+  },
+  {
+   "ref": 8,
+   "x": 61.39,
+   "y": 79.2,
+   "variants": [
+    {
+     "serialNote": "Option 1 of 3",
+     "partNo": "C31977",
+     "desc": "CLIP - cable (shown)"
+    },
+    {
+     "serialNote": "Option 2 of 3",
+     "partNo": "C27233",
+     "desc": "CLAMP - double"
+    },
+    {
+     "serialNote": "Option 3 of 3",
+     "partNo": "C32455",
+     "desc": "CLIP - “J”"
+    }
+   ]
+  },
+  {
+   "ref": 9,
+   "x": 47.96,
+   "y": 78.78,
+   "variants": [
+    {
+     "serialNote": "clip to frame",
+     "partNo": "113-1",
+     "desc": "BOLT - 1/4” - 20 x 1/2” (clip to frame)"
+    },
+    {
+     "serialNote": "clip to engine",
+     "partNo": "C37200",
+     "desc": "SCREW - 6 mm (clip to engine)"
+    }
+   ]
+  },
+  {
+   "ref": 10,
+   "x": 45.76,
+   "y": 62.46,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4” - 20"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.17
+}

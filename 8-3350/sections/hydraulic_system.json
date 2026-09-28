@@ -1,0 +1,277 @@
+{
+ "sectionTitle": "Hydraulic System",
+ "breadcrumb": "Hydraulic System",
+ "catalogLabel": "Catalog 8-3350",
+ "modelNumbers": "Catalog 8-3350 — Odyssey Compact Tractor (includes Mower)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3350/hydraulic_system.jpg",
+ "hotspots": [
+  {
+   "ref": 1,
+   "x": 31.26,
+   "y": 42.04,
+   "partNo": "C33473",
+   "desc": "VALVE - control (repairs page 27)"
+  },
+  {
+   "ref": 2,
+   "x": 31.26,
+   "y": 52.65,
+   "partNo": "218-5065",
+   "desc": "FITTING - 3/4” x 7/8” “0” ring"
+  },
+  {
+   "ref": 3,
+   "x": 26.85,
+   "y": 57.45,
+   "partNo": "218-5007",
+   "desc": "“0” RING"
+  },
+  {
+   "ref": 4,
+   "x": 27.35,
+   "y": 71.16,
+   "partNo": "218-5107",
+   "desc": "FITTING - 90° elbow"
+  },
+  {
+   "ref": 4,
+   "x": 12.12,
+   "y": 71.76,
+   "partNo": "218-5107",
+   "desc": "FITTING - 90° elbow"
+  },
+  {
+   "ref": 5,
+   "x": 26.75,
+   "y": 67.96,
+   "partNo": "218-5007",
+   "desc": "“0” RING"
+  },
+  {
+   "ref": 6,
+   "x": 39.88,
+   "y": 46.64,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8” x 7/8” “0” ring"
+  },
+  {
+   "ref": 7,
+   "x": 35.47,
+   "y": 44.84,
+   "partNo": "218-5007",
+   "desc": "“0” RING"
+  },
+  {
+   "ref": 8,
+   "x": 44.39,
+   "y": 50.24,
+   "partNo": "218-5232",
+   "desc": "FITTING - 90° elbow"
+  },
+  {
+   "ref": 9,
+   "x": 18.54,
+   "y": 36.13,
+   "partNo": "C27764",
+   "desc": "SCREW - 5/16” - 18 x 1-1/4” round head"
+  },
+  {
+   "ref": 10,
+   "x": 29.16,
+   "y": 36.73,
+   "partNo": "131-351",
+   "desc": "NUT - lock 5/16”"
+  },
+  {
+   "ref": 11,
+   "x": 4.11,
+   "y": 62.46,
+   "partNo": "C37220",
+   "desc": "TUBE - valve to upper motor port"
+  },
+  {
+   "ref": 12,
+   "x": 15.03,
+   "y": 56.95,
+   "partNo": "C37221",
+   "desc": "TUBE - valve to lower motor port"
+  },
+  {
+   "ref": 13,
+   "x": 79.26,
+   "y": 95.18,
+   "partNo": "C31435",
+   "desc": "TUBE - valve “out” to heat exchanger"
+  },
+  {
+   "ref": 14,
+   "x": 10.82,
+   "y": 7.81,
+   "partNo": "C30939",
+   "desc": "MOTOR - hydraulic (repairs page 29)"
+  },
+  {
+   "ref": 15,
+   "x": 5.01,
+   "y": 13.31,
+   "partNo": "C28949",
+   "desc": "SEAL - motor to transmission"
+  },
+  {
+   "ref": 16,
+   "x": 16.03,
+   "y": 3.0,
+   "partNo": "166-86",
+   "desc": "SCREW - 1/2” - 18 x 1-1/4” 12 pt. flange (use 80 ft lb. of torque)"
+  },
+  {
+   "ref": 17,
+   "x": 78.16,
+   "y": 53.05,
+   "partNo": "C31958",
+   "desc": "PUMP - hydraulic 1/2” shaft (repairs page 31)"
+  },
+  {
+   "ref": 18,
+   "x": 76.65,
+   "y": 65.36,
+   "partNo": "C33423",
+   "desc": "HOSE - pump inlet"
+  },
+  {
+   "ref": 19,
+   "x": 91.48,
+   "y": 17.92,
+   "partNo": "C33180",
+   "desc": "RESERVOIR - oil"
+  },
+  {
+   "ref": 20,
+   "x": 75.25,
+   "y": 9.21,
+   "partNo": "C37093",
+   "desc": "CAP - reservoir"
+  },
+  {
+   "ref": 21,
+   "x": 84.97,
+   "y": 63.56,
+   "partNo": "C31295",
+   "desc": "EXCHANGER - heat"
+  },
+  {
+   "ref": 22,
+   "x": 63.93,
+   "y": 89.58,
+   "partNo": "C31431",
+   "desc": "HOSE - formed 90° 6-3/4” x 6-3/4”"
+  },
+  {
+   "ref": 23,
+   "x": 77.76,
+   "y": 88.08,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4”"
+  },
+  {
+   "ref": 23,
+   "x": 82.97,
+   "y": 81.87,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4”"
+  },
+  {
+   "ref": 23,
+   "x": 53.21,
+   "y": 75.77,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4”"
+  },
+  {
+   "ref": 23,
+   "x": 79.46,
+   "y": 69.96,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4”"
+  },
+  {
+   "ref": 24,
+   "x": 64.53,
+   "y": 62.36,
+   "partNo": "214-255",
+   "desc": "CLAMP - hose -1-1/2”"
+  },
+  {
+   "ref": 24,
+   "x": 87.98,
+   "y": 30.83,
+   "partNo": "214-255",
+   "desc": "CLAMP - hose -1-1/2”"
+  },
+  {
+   "ref": 25,
+   "x": 43.39,
+   "y": 65.16,
+   "partNo": "C31966",
+   "desc": "HOSE - pump to valve"
+  },
+  {
+   "ref": 26,
+   "x": 52.4,
+   "y": 43.54,
+   "partNo": "218-5117",
+   "desc": "FITTING - 90° elbow"
+  },
+  {
+   "ref": 27,
+   "x": 94.39,
+   "y": 60.35,
+   "partNo": "C31973",
+   "desc": "“J” NUT - 1/4” - 20"
+  },
+  {
+   "ref": 28,
+   "x": 91.78,
+   "y": 64.56,
+   "partNo": "C31974",
+   "desc": "“U” Clip - retainer"
+  },
+  {
+   "ref": 29,
+   "x": 15.03,
+   "y": 53.25,
+   "partNo": "218-5154",
+   "desc": "FITTING - plug 1/2” - 20"
+  },
+  {
+   "ref": 30,
+   "x": 75.35,
+   "y": 83.27,
+   "partNo": "C33556",
+   "desc": "HOSE - formed 90° 3-1/2” x 3-1/2”"
+  },
+  {
+   "ref": 31,
+   "x": 16.13,
+   "y": 6.21,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2”"
+  },
+  {
+   "ref": 32,
+   "x": 39.48,
+   "y": 15.01,
+   "partNo": "218-5107",
+   "desc": "FITTING - 90° male 7/8” - 14"
+  },
+  {
+   "ref": 33,
+   "x": 27.15,
+   "y": 21.12,
+   "partNo": "218-5137",
+   "desc": "FITTING - 45° male 7/8” - 14 x 5/8” tube"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.91
+}
