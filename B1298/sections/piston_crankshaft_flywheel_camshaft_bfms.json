@@ -1,0 +1,322 @@
+{
+  "slug": "piston_crankshaft_flywheel_camshaft_bfms",
+  "sectionTitle": "Piston, Crankshaft, Flywheel and Camshaft (BF-MS Engine)",
+  "breadcrumb": "Piston, Crankshaft, Flywheel and Camshaft (BF-MS Engine)",
+  "catalogLabel": "Catalog B1298",
+  "modelNumbers": "Catalog B1298 \u2014 Case Ingersoll Model 446 Compact Tractor, S/N 9728158 to 9742953",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1298/piston_crankshaft_flywheel_camshaft_bfms.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 55.45,
+      "y": 67.38,
+      "partNo": "126- 13",
+      "desc": "KEY - woodruff 3/16\" x 5/8\", flywheel mtg."
+    },
+    {
+      "ref": 2,
+      "x": 30.8,
+      "y": 45.75,
+      "partNo": "C 20223",
+      "desc": "RING - camshaft center pin"
+    },
+    {
+      "ref": 3,
+      "x": 27.16,
+      "y": 23.34,
+      "partNo": "C 22260",
+      "desc": "CUP - governor"
+    },
+    {
+      "ref": 4,
+      "x": 32.16,
+      "y": 23.15,
+      "partNo": "211- 216",
+      "desc": "BALL - fly, governor"
+    },
+    {
+      "ref": 5,
+      "x": 45.0,
+      "y": 83.99,
+      "partNo": "C 24943",
+      "desc": "FLYWHEEL - eng. (includes ring gear & magnet ring)"
+    },
+    {
+      "ref": 6,
+      "x": 15.23,
+      "y": 17.35,
+      "partNo": "C 20226",
+      "desc": "GEAR - ring, flywheel"
+    },
+    {
+      "ref": 7,
+      "x": 51.82,
+      "y": 45.36,
+      "partNo": "C 22261",
+      "desc": "GEAR ASSEMBLY - camshaft (includes items 30 and 31)"
+    },
+    {
+      "ref": 8,
+      "x": 51.48,
+      "y": 20.44,
+      "partNo": "C 20229",
+      "desc": "WASHER - thrust, camshaft gear"
+    },
+    {
+      "ref": 9,
+      "x": 64.55,
+      "y": 20.06,
+      "partNo": "126- 9",
+      "desc": "KEY - woodruff 1/8\" x 1/2\""
+    },
+    {
+      "ref": 9,
+      "x": 61.14,
+      "y": 65.83,
+      "partNo": "126- 9",
+      "desc": "KEY - woodruff 1/8\" x 1/2\""
+    },
+    {
+      "ref": 10,
+      "x": 58.98,
+      "y": 19.28,
+      "partNo": "C 32469",
+      "desc": "CAMSHAFT - (includes C 20233 pin)"
+    },
+    {
+      "ref": 11,
+      "x": 55.57,
+      "y": 19.86,
+      "partNo": "C 20233",
+      "desc": "PIN - camshaft center"
+    },
+    {
+      "ref": 12,
+      "x": 72.84,
+      "y": 84.57,
+      "variants": [
+        {
+          "partNo": "NLA*",
+          "desc": "PISTON AND PIN ASSEMBLY - standard (includes item 14)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "PISTON AND PIN ASSEMBLY - .005\" oversize (includes item 14)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "PISTON AND PIN ASSEMBLY - .010\" oversize (includes item 14)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "PISTON AND PIN ASSEMBLY - .020\" oversize (includes item 14)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "PISTON AND PIN ASSEMBLY - .030\" oversize (includes item 14)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "PISTON AND PIN ASSEMBLY - .040\" oversize (includes item 14)"
+        }
+      ]
+    },
+    {
+      "ref": 13,
+      "x": 63.07,
+      "y": 70.66,
+      "partNo": "C 29972",
+      "desc": "PIN - piston"
+    },
+    {
+      "ref": 14,
+      "x": 59.43,
+      "y": 75.49,
+      "partNo": "C 20241",
+      "desc": "RETAINER - piston pin"
+    },
+    {
+      "ref": 15,
+      "x": 82.95,
+      "y": 33.0,
+      "variants": [
+        {
+          "partNo": "C 23311",
+          "desc": "RING SET - piston, (standard)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "RING SET - piston, (.005\" oversize)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "RING SET - piston, (.010\" oversize)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "RING SET - piston, (.020\" oversize)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "RING SET - piston, (.030\" oversize)"
+        },
+        {
+          "partNo": "NLA*",
+          "desc": "RING SET - piston, (.040\" oversize)"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 65.34,
+      "y": 34.16,
+      "variants": [
+        {
+          "partNo": "C 29750",
+          "desc": "CONNECTING ROD ASSEMBLY - (standard) includes 17 and 18"
+        },
+        {
+          "partNo": "C 25775",
+          "desc": "CONNECTING ROD ASSEMBLY - (.010\" undersize) includes 17 and 18"
+        },
+        {
+          "partNo": "C 20204",
+          "desc": "CONNECTING ROD ASSEMBLY - (.020\" undersize) includes 17 and 18"
+        },
+        {
+          "partNo": "C 20205",
+          "desc": "CONNECTING ROD ASSEMBLY - (.030\" undersize) includes 17 and 18"
+        }
+      ]
+    },
+    {
+      "ref": 16,
+      "x": 76.7,
+      "y": 61.0,
+      "variants": [
+        {
+          "partNo": "C 29750",
+          "desc": "CONNECTING ROD ASSEMBLY - (standard) includes 17 and 18"
+        },
+        {
+          "partNo": "C 25775",
+          "desc": "CONNECTING ROD ASSEMBLY - (.010\" undersize) includes 17 and 18"
+        },
+        {
+          "partNo": "C 20204",
+          "desc": "CONNECTING ROD ASSEMBLY - (.020\" undersize) includes 17 and 18"
+        },
+        {
+          "partNo": "C 20205",
+          "desc": "CONNECTING ROD ASSEMBLY - (.030\" undersize) includes 17 and 18"
+        }
+      ]
+    },
+    {
+      "ref": 17,
+      "x": 74.77,
+      "y": 53.66,
+      "partNo": "C 25774",
+      "desc": "BOLT - connecting rod, special 5/16\" N.F. hex"
+    },
+    {
+      "ref": 18,
+      "x": 54.55,
+      "y": 40.34,
+      "partNo": "C 25775",
+      "desc": "NUT - lock, connecting rod 5/16\" N.F. hex"
+    },
+    {
+      "ref": 19,
+      "x": 14.2,
+      "y": 48.26,
+      "partNo": "C 20215",
+      "desc": "SCREEN - flywheel"
+    },
+    {
+      "ref": 20,
+      "x": 15.0,
+      "y": 83.02,
+      "partNo": "C 20303",
+      "desc": "WASHER - 7/16\" flywheel mtg."
+    },
+    {
+      "ref": 21,
+      "x": 11.7,
+      "y": 60.62,
+      "partNo": "92- 7",
+      "desc": "LOCKWASHER - 7/16\""
+    },
+    {
+      "ref": 22,
+      "x": 9.09,
+      "y": 66.03,
+      "partNo": "13- 764",
+      "desc": "BOLT - 7/16\" x 4\" N.C. hex, flywheel mtg."
+    },
+    {
+      "ref": 23,
+      "x": 80.34,
+      "y": 53.09,
+      "partNo": "C 28315",
+      "desc": "KEY - 1/4 x 1/4\" sq. x 2\", rear crankshaft"
+    },
+    {
+      "ref": 24,
+      "x": 42.05,
+      "y": 47.87,
+      "partNo": "C 20218",
+      "desc": "RETAINER - crankshaft gear"
+    },
+    {
+      "ref": 25,
+      "x": 44.66,
+      "y": 44.2,
+      "partNo": "C 20219",
+      "desc": "WASHER - retaining, crankshaft gear"
+    },
+    {
+      "ref": 26,
+      "x": 71.82,
+      "y": 36.28,
+      "partNo": "C 22500",
+      "desc": "CRANKSHAFT - engine"
+    },
+    {
+      "ref": 27,
+      "x": 22.5,
+      "y": 83.22,
+      "partNo": "164- 529",
+      "desc": "SCREW - locking 1/4\" x 1/2\" N.C. hex"
+    },
+    {
+      "ref": 28,
+      "x": 15.45,
+      "y": 58.88,
+      "partNo": "C 20222",
+      "desc": "SCREW - locking 5/16\" x 1/2\" N.C. hex"
+    },
+    {
+      "ref": 29,
+      "x": 50.57,
+      "y": 70.47,
+      "partNo": "C 22262",
+      "desc": "GEAR - crankshaft"
+    },
+    {
+      "ref": 30,
+      "x": 40.8,
+      "y": 25.66,
+      "partNo": "TBD",
+      "desc": "TBD"
+    },
+    {
+      "ref": 31,
+      "x": 46.59,
+      "y": 23.53,
+      "partNo": "TBD",
+      "desc": "TBD"
+    }
+  ],
+  "footnotes": "* Pistons and rings are no longer available. Must use C40929 short block and C33098,C29981"
+}

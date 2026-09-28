@@ -1,0 +1,172 @@
+{
+  "slug": "electrical_system",
+  "sectionTitle": "Electrical System",
+  "breadcrumb": "Electrical System",
+  "catalogLabel": "Catalog B1298",
+  "modelNumbers": "Catalog B1298 \u2014 Case Ingersoll Model 446 Compact Tractor, S/N 9728158 to 9742953",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1298/electrical_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 29.12,
+      "y": 79.88,
+      "partNo": "C 24716",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 2,
+      "x": 72.87,
+      "y": 60.82,
+      "partNo": "C 23586",
+      "desc": "HARNESS - wire"
+    },
+    {
+      "ref": 3,
+      "x": 41.81,
+      "y": 38.16,
+      "partNo": "C 14565",
+      "desc": "CABLE - battery \"positive\" to solenoid (red 10-1/2\")"
+    },
+    {
+      "ref": 4,
+      "x": 53.88,
+      "y": 44.09,
+      "partNo": "C 24809",
+      "desc": "CABLE - battery \"negative\" to ground (black 12\")"
+    },
+    {
+      "ref": 5,
+      "x": 8.28,
+      "y": 63.15,
+      "partNo": "C 24717",
+      "desc": "WIRE ASSEMBLY - ammeter \"negative\" to switch \"B\" (includes fuse and fuse holder)"
+    },
+    {
+      "ref": 6,
+      "x": 14.78,
+      "y": 34.87,
+      "partNo": "223- 31",
+      "desc": "FUSE - 30 amp"
+    },
+    {
+      "ref": 7,
+      "x": 88.65,
+      "y": 45.46,
+      "partNo": "C 19232",
+      "desc": "WIRE - solenoid to starter (black 18\")"
+    },
+    {
+      "ref": 8,
+      "x": 40.88,
+      "y": 23.12,
+      "partNo": "C 23583",
+      "desc": "WIRE - solenoid to ignition switch \"S\" (yellow 13\")"
+    },
+    {
+      "ref": 9,
+      "x": 69.98,
+      "y": 22.8,
+      "partNo": "NSS**",
+      "desc": "WIRE - ammeter \"positive\" to solenoid (black 15\")"
+    },
+    {
+      "ref": 10,
+      "x": 87.1,
+      "y": 36.46,
+      "partNo": "C 14553",
+      "desc": "SOLENOID - start"
+    },
+    {
+      "ref": 11,
+      "x": 70.18,
+      "y": 36.78,
+      "partNo": "C 19378",
+      "desc": "CONNECTOR - rectifier, 3 contact"
+    },
+    {
+      "ref": 12,
+      "x": 72.97,
+      "y": 64.63,
+      "partNo": "C 19379",
+      "desc": "CONNECTOR - engine, 2 contact"
+    },
+    {
+      "ref": 13,
+      "x": 71.11,
+      "y": 70.99,
+      "partNo": "C 14537",
+      "desc": "CONNECTOR - headlamp"
+    },
+    {
+      "ref": 14,
+      "x": 10.24,
+      "y": 46.73,
+      "partNo": "C 29413",
+      "desc": "AMMETER - 30 amp"
+    },
+    {
+      "ref": 15,
+      "x": 69.36,
+      "y": 91.53,
+      "partNo": "C 32178",
+      "desc": "HEADLAMP ASSEMBLY - 12 volt"
+    },
+    {
+      "ref": 15,
+      "x": 87.52,
+      "y": 82.74,
+      "partNo": "C 32178",
+      "desc": "HEADLAMP ASSEMBLY - 12 volt"
+    },
+    {
+      "ref": 16,
+      "x": 26.54,
+      "y": 68.02,
+      "partNo": "C 23002",
+      "desc": "SWITCH ASSEMBLY - neutral start (includes wire)"
+    },
+    {
+      "ref": 17,
+      "x": 29.74,
+      "y": 60.61,
+      "partNo": "C 21989",
+      "desc": "INSULATOR - neutral start"
+    },
+    {
+      "ref": 18,
+      "x": 51.1,
+      "y": 47.05,
+      "partNo": "C 41010",
+      "desc": "BATTERY - 12 volt"
+    },
+    {
+      "ref": 19,
+      "x": 17.46,
+      "y": 25.23,
+      "partNo": "C 30268",
+      "desc": "SWITCH ASSEMBLY - ignition (does not include nut)"
+    },
+    {
+      "ref": 20,
+      "x": 22.21,
+      "y": 16.55,
+      "partNo": "C 32407",
+      "desc": "KEY - ignition"
+    },
+    {
+      "ref": 21,
+      "x": 45.11,
+      "y": 63.04,
+      "partNo": "C 22765",
+      "desc": "SWITCH - PTO"
+    },
+    {
+      "ref": 22,
+      "x": 46.97,
+      "y": 34.98,
+      "partNo": "NSS",
+      "desc": "RECTIFIER - regulator (Use C25486, C26670, C31249)"
+    }
+  ],
+  "footnotes": "*use to modify early production as shown in illustration\n** Use C33024 and 2 each of C33026, 129-101, 192-19"
+}

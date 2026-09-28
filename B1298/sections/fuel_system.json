@@ -1,0 +1,95 @@
+{
+  "slug": "fuel_system",
+  "sectionTitle": "Fuel System",
+  "breadcrumb": "Fuel System",
+  "catalogLabel": "Catalog B1298",
+  "modelNumbers": "Catalog B1298 \u2014 Case Ingersoll Model 446 Compact Tractor, S/N 9728158 to 9742953",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1298/fuel_system.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 44.97,
+      "y": 72.1,
+      "partNo": "NSS",
+      "desc": "ELBOW ASSEMBLY - fuel tank (Use C10678, C31978, 214-274)"
+    },
+    {
+      "ref": 2,
+      "x": 54.21,
+      "y": 78.11,
+      "partNo": "C 28962",
+      "desc": "CLIP - fuel line"
+    },
+    {
+      "ref": 3,
+      "x": 61.08,
+      "y": 84.98,
+      "partNo": "C 28937",
+      "desc": "HOSE - fuel line 43\""
+    },
+    {
+      "ref": 4,
+      "x": 19.29,
+      "y": 27.67,
+      "partNo": "C 16363",
+      "desc": "TANK - fuel"
+    },
+    {
+      "ref": 5,
+      "x": 27.18,
+      "y": 8.68,
+      "partNo": "C 11529",
+      "desc": "CAP - fuel tank (includes insert)"
+    },
+    {
+      "ref": 6,
+      "x": 27.29,
+      "y": 18.44,
+      "partNo": "NSS",
+      "desc": "INSERT - fuel cap (Use C11529)"
+    },
+    {
+      "ref": 7,
+      "x": 10.84,
+      "y": 53.32,
+      "partNo": "C 16796",
+      "desc": "STRAP - fuel tank mounting"
+    },
+    {
+      "ref": 8,
+      "x": 9.04,
+      "y": 60.62,
+      "partNo": "173- 215",
+      "desc": "SCREW - 1/4\" x 1/2\" N.C. round head, machine, zinc plated"
+    },
+    {
+      "ref": 9,
+      "x": 9.38,
+      "y": 92.27,
+      "partNo": "129- 504",
+      "desc": "NUT - square 1/4\" N.C."
+    },
+    {
+      "ref": 10,
+      "x": 18.95,
+      "y": 75.53,
+      "partNo": "C 14690",
+      "desc": "CUSHION - fuel tank"
+    },
+    {
+      "ref": 11,
+      "x": 35.51,
+      "y": 91.09,
+      "partNo": "214- 103",
+      "desc": "CLAMP - hose 1/2\"."
+    },
+    {
+      "ref": 11,
+      "x": 83.15,
+      "y": 85.08,
+      "partNo": "214- 103",
+      "desc": "CLAMP - hose 1/2\"."
+    }
+  ],
+  "footnotes": ""
+}

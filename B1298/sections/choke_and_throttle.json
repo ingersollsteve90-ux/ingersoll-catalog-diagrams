@@ -1,0 +1,60 @@
+{
+  "slug": "choke_and_throttle",
+  "sectionTitle": "Choke and Throttle",
+  "breadcrumb": "Choke and Throttle",
+  "catalogLabel": "Catalog B1298",
+  "modelNumbers": "Catalog B1298 \u2014 Case Ingersoll Model 446 Compact Tractor, S/N 9728158 to 9742953",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1298/choke_and_throttle.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 10.79,
+      "y": 46.87,
+      "partNo": "C 33411",
+      "desc": "CONTROL - throttle."
+    },
+    {
+      "ref": 2,
+      "x": 13.07,
+      "y": 14.61,
+      "partNo": "NSS",
+      "desc": "HANDLE - throttle control, black (Use C35291)."
+    },
+    {
+      "ref": 3,
+      "x": 55.81,
+      "y": 46.32,
+      "partNo": "C 25604",
+      "desc": "CONTROL - choke."
+    },
+    {
+      "ref": 4,
+      "x": 32.9,
+      "y": 8.72,
+      "partNo": "NSS",
+      "desc": "HANDLE - choke control, white (Use C35291)"
+    },
+    {
+      "ref": 5,
+      "x": 24.73,
+      "y": 24.31,
+      "partNo": "111- 5",
+      "desc": "BOLT - #10 - 24 x 5/8\" N.C. round head, square neck"
+    },
+    {
+      "ref": 6,
+      "x": 36.65,
+      "y": 48.83,
+      "partNo": "192- 18",
+      "desc": "LOCKWASHER - #10 Std. plated"
+    },
+    {
+      "ref": 7,
+      "x": 36.65,
+      "y": 55.47,
+      "partNo": "129- 17",
+      "desc": "NUT - #10-24 plated"
+    }
+  ],
+  "footnotes": ""
+}

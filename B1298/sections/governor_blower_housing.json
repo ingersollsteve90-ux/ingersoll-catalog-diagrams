@@ -1,0 +1,231 @@
+{
+  "slug": "governor_blower_housing",
+  "sectionTitle": "Governor and Blower Housing",
+  "breadcrumb": "Governor and Blower Housing",
+  "catalogLabel": "Catalog B1298",
+  "modelNumbers": "Catalog B1298 \u2014 Case Ingersoll Model 446 Compact Tractor, S/N 9728158 to 9742953",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1298/governor_blower_housing.jpg",
+  "hotspots": [
+    {
+      "ref": 1,
+      "x": 63.57,
+      "y": 34.66,
+      "partNo": "C 20359",
+      "desc": "ROD - governor control"
+    },
+    {
+      "ref": 2,
+      "x": 50.91,
+      "y": 22.67,
+      "partNo": "C 20360",
+      "desc": "CLIP - governor control rod, carburetor end"
+    },
+    {
+      "ref": 3,
+      "x": 46.19,
+      "y": 30.24,
+      "partNo": "C 20361",
+      "desc": "CLIP - governor control rod, governor end"
+    },
+    {
+      "ref": 4,
+      "x": 25.81,
+      "y": 41.4,
+      "partNo": "C 20369",
+      "desc": "ARM - governor control"
+    },
+    {
+      "ref": 5,
+      "x": 8.64,
+      "y": 26.35,
+      "partNo": "C 28719",
+      "desc": "BRACKET - governor mtg."
+    },
+    {
+      "ref": 6,
+      "x": 22.91,
+      "y": 9.31,
+      "partNo": "C 20371",
+      "desc": "SPRING - throttle lever adj."
+    },
+    {
+      "ref": 7,
+      "x": 20.23,
+      "y": 8.46,
+      "partNo": "173- 64",
+      "desc": "SCREW - #6 x 3/4\" round hd. mach."
+    },
+    {
+      "ref": 8,
+      "x": 17.33,
+      "y": 12.88,
+      "partNo": "C 20372",
+      "desc": "CLAMP - swivel, throttle"
+    },
+    {
+      "ref": 9,
+      "x": 26.88,
+      "y": 10.99,
+      "partNo": "195- 14",
+      "desc": "WASHER - swivel clamp mtg."
+    },
+    {
+      "ref": 9,
+      "x": 41.36,
+      "y": 25.93,
+      "partNo": "195- 14",
+      "desc": "WASHER - swivel clamp mtg."
+    },
+    {
+      "ref": 10,
+      "x": 31.17,
+      "y": 11.2,
+      "partNo": "136- 2",
+      "desc": "PIN - cotter, swivel clamp mtg."
+    },
+    {
+      "ref": 11,
+      "x": 11.54,
+      "y": 20.67,
+      "partNo": "169- 74",
+      "desc": "SCREW - #8 x 5/16\", swivel clamp"
+    },
+    {
+      "ref": 12,
+      "x": 21.2,
+      "y": 41.08,
+      "partNo": "C 20375",
+      "desc": "BUSHING - governor control"
+    },
+    {
+      "ref": 13,
+      "x": 41.58,
+      "y": 30.24,
+      "partNo": "C 20376",
+      "desc": "SPRING - governor"
+    },
+    {
+      "ref": 14,
+      "x": 10.15,
+      "y": 14.36,
+      "partNo": "NSS",
+      "desc": "CLIP - throttle cable (Use C29506 and 187-1511)"
+    },
+    {
+      "ref": 15,
+      "x": 39.86,
+      "y": 14.67,
+      "partNo": "121- 3",
+      "desc": "BOLT - 1/4\" x 1/2\" N.C. hex"
+    },
+    {
+      "ref": 16,
+      "x": 34.93,
+      "y": 12.88,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 16,
+      "x": 43.62,
+      "y": 21.3,
+      "partNo": "192- 19",
+      "desc": "LOCKWASHER - 1/4\""
+    },
+    {
+      "ref": 17,
+      "x": 64.75,
+      "y": 92.42,
+      "partNo": "195- 2027",
+      "desc": "WASHER - 5/16\""
+    },
+    {
+      "ref": 18,
+      "x": 65.18,
+      "y": 41.82,
+      "variants": [
+        {
+          "partNo": "C 20362",
+          "desc": "BAFFLE - cylinder air, R.H. (for BF-MS engine)"
+        },
+        {
+          "partNo": "C 24951",
+          "desc": "BAFFLE - cylinder air, R.H. (for B43M engine)"
+        }
+      ]
+    },
+    {
+      "ref": 19,
+      "x": 70.44,
+      "y": 48.97,
+      "variants": [
+        {
+          "partNo": "C 24952",
+          "desc": "BAFFLE - cylinder air, L.H. (for B43M engine)"
+        },
+        {
+          "partNo": "C 20364",
+          "desc": "BAFFLE - cylinder air, L.H. (for BF-MS engine)"
+        }
+      ]
+    },
+    {
+      "ref": 20,
+      "x": 35.89,
+      "y": 63.07,
+      "variants": [
+        {
+          "partNo": "C 24953",
+          "desc": "HOUSING - blower (for B43M engine)"
+        },
+        {
+          "partNo": "C 20363",
+          "desc": "HOUSING - blower (for BF-MS engine)"
+        }
+      ]
+    },
+    {
+      "ref": 21,
+      "x": 50.59,
+      "y": 41.82,
+      "partNo": "163- 22",
+      "desc": "BOLT - 1/4\" x 7/16\" N.C. hex"
+    },
+    {
+      "ref": 21,
+      "x": 44.9,
+      "y": 85.9,
+      "partNo": "163- 22",
+      "desc": "BOLT - 1/4\" x 7/16\" N.C. hex"
+    },
+    {
+      "ref": 21,
+      "x": 88.25,
+      "y": 71.38,
+      "partNo": "163- 22",
+      "desc": "BOLT - 1/4\" x 7/16\" N.C. hex"
+    },
+    {
+      "ref": 22,
+      "x": 83.85,
+      "y": 81.17,
+      "partNo": "C 20230",
+      "desc": "MOTOR - starting, 12 volt (see below)"
+    },
+    {
+      "ref": 23,
+      "x": 51.98,
+      "y": 91.37,
+      "partNo": "13- 516",
+      "desc": "BOLT - 5/16\" x 1\" N.C. hex, starter motor"
+    },
+    {
+      "ref": 24,
+      "x": 61.32,
+      "y": 96.84,
+      "partNo": "92- 5",
+      "desc": "LOCKWASHER - 5/16\""
+    }
+  ],
+  "footnotes": ""
+}
