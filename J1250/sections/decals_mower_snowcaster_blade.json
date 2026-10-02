@@ -1,0 +1,136 @@
+{
+ "sectionTitle": "Decals - Mowers, Snowcasters J-P, Blades J/K",
+ "breadcrumb": "Decals - Mowers, Snowcasters J-P, Blades J/K",
+ "catalogLabel": "Catalog J1250",
+ "modelNumbers": "Catalog J1250 — Ingersoll J, K, L, M, N (40)(44)(46) Rotary Mowers, J–S (80)(84) Snowcasters, J, K, L (50)(54) Utility Blades",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/J1250/decals_mower_snowcaster_blade.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 3.54,
+   "y": 38.64,
+   "partNo": "C31087",
+   "desc": "DECAL - \"DANGER\" spinning blade (mower)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 55.46,
+   "y": 65.83,
+   "partNo": "C12519",
+   "desc": "DECAL - \"NO STEP\" (mower)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 91.43,
+   "y": 35.73,
+   "partNo": "321-6210",
+   "desc": "DECAL - height adjust (mower)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 23.47,
+   "y": 60.1,
+   "partNo": "C31494",
+   "desc": "DECAL - belt installation (mower)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 28.72,
+   "y": 2.62,
+   "partNo": "321-6379",
+   "desc": "DECAL - \"CASE\" (snow caster, blade)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 71.11,
+   "y": 2.43,
+   "partNo": "321-6380",
+   "desc": "DECAL - white tread (snow caster, blade)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "7",
+   "x": 71.5,
+   "y": 66.5,
+   "partNo": "C17462",
+   "desc": "DECAL - belt installation (snow caster)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 20.26,
+   "y": 45.73,
+   "partNo": "321-4199",
+   "desc": "DECAL - \"WARNING\" rotating auger (snow caster)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 52.54,
+   "y": 81.07,
+   "partNo": "321-3932",
+   "desc": "DECAL - \"CAUTION\" pinch point (blade)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 50.21,
+   "y": 51.36,
+   "partNo": "NSS",
+   "desc": "DECAL - \"CASE\" (early production) (use 321-6379)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 47.0,
+   "y": 24.66,
+   "variants": [
+    {
+     "serialNote": "P80",
+     "partNo": "C27199",
+     "desc": "DECAL - \"HI CAST 38\" (P80)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "P84",
+     "partNo": "C27200",
+     "desc": "DECAL - \"HI CAST 48\" (P84) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 57.99,
+   "y": 22.72,
+   "variants": [
+    {
+     "serialNote": "K50",
+     "partNo": "C27202",
+     "desc": "DECAL - blade 44\" (K50) shown",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K54",
+     "partNo": "C27203",
+     "desc": "DECAL - blade 54\" (K54)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 62.75,
+   "y": 31.84,
+   "partNo": "C31086",
+   "desc": "DECAL - \"Flying Debris\" (N40, N44, N46)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Decals may be different than illustrated. Substitutes may be supplied when original decals are not available."
+}

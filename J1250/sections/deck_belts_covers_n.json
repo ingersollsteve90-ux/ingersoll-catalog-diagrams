@@ -1,0 +1,235 @@
+{
+ "sectionTitle": "Mower - Deck, Belts and Deck Covers (N40, N44, N46)",
+ "breadcrumb": "Mower - Deck, Belts and Deck Covers (N40, N44, N46)",
+ "catalogLabel": "Catalog J1250",
+ "modelNumbers": "Catalog J1250 — Ingersoll J, K, L, M, N (40)(44)(46) Rotary Mowers, J–S (80)(84) Snowcasters, J, K, L (50)(54) Utility Blades",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/J1250/deck_belts_covers_n.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.53,
+   "y": 81.46,
+   "variants": [
+    {
+     "serialNote": "N40 (38\")",
+     "partNo": "C28455",
+     "desc": "DECK - mower N40 (38\") (970 mm)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N44 (44\")",
+     "partNo": "C28463",
+     "desc": "DECK - mower N44 (44\") (1120 mm)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N46 (48\")",
+     "partNo": "C28470",
+     "desc": "DECK - mower N46 (48\") (1220 mm)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 40.49,
+   "y": 36.12,
+   "variants": [
+    {
+     "serialNote": "N40",
+     "partNo": "C23810",
+     "desc": "BELT - mower deck, N40",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N44",
+     "partNo": "C22707",
+     "desc": "BELT - mower deck, N44",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N46",
+     "partNo": "C22708",
+     "desc": "BELT - mower deck, N46",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 2.96,
+   "y": 42.33,
+   "variants": [
+    {
+     "serialNote": "N40",
+     "partNo": "C26809",
+     "desc": "GUARD - deck belt, N40",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N44",
+     "partNo": "C26810",
+     "desc": "GUARD - deck belt, N44",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N46",
+     "partNo": "C26811",
+     "desc": "GUARD - deck belt, N46",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 88.8,
+   "y": 32.52,
+   "partNo": "C30841",
+   "desc": "DEFLECTOR - chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 38.49,
+   "y": 4.08,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" x 1/2\" NC hex self-tapping",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "6",
+   "x": 88.4,
+   "y": 55.44,
+   "partNo": "192-20",
+   "desc": "LOCK WASHER - 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 38.79,
+   "y": 54.85,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex ZP flange",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 79.71,
+   "y": 47.96,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex ZP",
+   "reqd": "5"
+  },
+  {
+   "ref": "9",
+   "x": 9.64,
+   "y": 88.93,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" x 1\" NC rd. hd. square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 18.93,
+   "y": 62.91,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\" ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 23.12,
+   "y": 60.39,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 16.63,
+   "y": 87.09,
+   "variants": [
+    {
+     "serialNote": "N40",
+     "partNo": "C15562",
+     "desc": "BRACKET - axle pivot, N40",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N44",
+     "partNo": "C15560",
+     "desc": "BRACKET - axle pivot, N44",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N46",
+     "partNo": "C15561",
+     "desc": "BRACKET - axle pivot, N46",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 38.29,
+   "y": 97.18,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" x 3/4\" rd. hd. square neck",
+   "reqd": "5"
+  },
+  {
+   "ref": "13",
+   "x": 94.68,
+   "y": 59.22,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" x 3/4\" rd. hd. square neck",
+   "reqd": "5"
+  },
+  {
+   "ref": "14",
+   "x": 23.12,
+   "y": 54.47,
+   "partNo": "C15935",
+   "desc": "BRACKET - height adj",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 80.51,
+   "y": 16.41,
+   "variants": [
+    {
+     "serialNote": "Use with 210, 220, 222, 224 and 226 tractors",
+     "partNo": "C23358",
+     "desc": "BELT - drive (Use with 210, 220, 222, 224 and 226 tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Use with 444, 446 and 448 tractors",
+     "partNo": "C23359",
+     "desc": "BELT - drive (Use with 444, 446 and 448 tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Use with 646 and 648 tractors",
+     "partNo": "C23808",
+     "desc": "BELT - drive (Use with 646 and 648 tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Use with 644 S/N 9698343 and after",
+     "partNo": "C23810",
+     "desc": "BELT - drive (Use with 644 S/N 9698343 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "used with 644 prior to S/N 9698343",
+     "partNo": "C23807",
+     "desc": "BELT - drive (used with 644 prior to S/N 9698343)",
+     "reqd": "1"
+    }
+   ]
+  }
+ ],
+ "footnotes": "Optional roller kits to replace skids (see Roller Kits): C33139 front rollers (40\"), C33140 (44\"), C33141 (46\"); C33142 rear roller.\nAlso listed, not shown on diagram: C26485 — SKID - rear (Req'd 1); C15590 — SKID - front R.H (Req'd 1); C18921 — SKID - front L.H (Req'd 1)."
+}

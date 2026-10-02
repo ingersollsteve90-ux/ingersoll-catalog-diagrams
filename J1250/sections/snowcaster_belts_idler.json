@@ -1,0 +1,145 @@
+{
+ "sectionTitle": "Snowcaster - Belts and Idler Assembly",
+ "breadcrumb": "Snowcaster - Belts and Idler Assembly",
+ "catalogLabel": "Catalog J1250",
+ "modelNumbers": "Catalog J1250 — Ingersoll J, K, L, M, N (40)(44)(46) Rotary Mowers, J–S (80)(84) Snowcasters, J, K, L (50)(54) Utility Blades",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/J1250/snowcaster_belts_idler.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 40.27,
+   "y": 2.65,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8 x 3/4\" NC hex ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 33.86,
+   "y": 4.22,
+   "partNo": "193-68",
+   "desc": "WASHER - 3/8\" internal tooth",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 19.65,
+   "y": 6.48,
+   "partNo": "C25370",
+   "desc": "PULLEY - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 53.0,
+   "y": 47.31,
+   "partNo": "132-318",
+   "desc": "PIN - cotter",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 67.4,
+   "y": 24.93,
+   "partNo": "C16870",
+   "desc": "SPRING - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 68.59,
+   "y": 47.9,
+   "partNo": "C16853",
+   "desc": "ARM - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 68.1,
+   "y": 31.12,
+   "partNo": "C16714",
+   "desc": "BUSHING - idler arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 5.34,
+   "y": 19.93,
+   "partNo": "C25565",
+   "desc": "FRAME - idler (also use two C25580 for J, K, L80 - J, K, L84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 58.92,
+   "y": 45.35,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\" ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 46.58,
+   "y": 48.0,
+   "partNo": "C26090",
+   "desc": "PULLEY - backside idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 32.67,
+   "y": 48.79,
+   "partNo": "113-410",
+   "desc": "BOLT - 1/2 x 1-3/4\" NC hex ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 50.33,
+   "y": 28.96,
+   "partNo": "131-1182",
+   "desc": "NUT - lock 1/2\" NC hex ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 64.05,
+   "y": 80.59,
+   "variants": [
+    {
+     "serialNote": "J80, J84 with 200 series tractors",
+     "partNo": "C23949",
+     "desc": "BELT - J80 and J84 (use with 200 series tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J84 with 400 series tractors",
+     "partNo": "C23950",
+     "desc": "BELT - J84 (use with 400 series tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K-S (80)(84) with 200 series tractors",
+     "partNo": "C23538",
+     "desc": "BELT - K, L, M, N, P, R, S80 - K, L, M, N, P, R, S84 (use with 200 series tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K-S (84) with 400 series tractors",
+     "partNo": "C23539",
+     "desc": "BELT - K, L, M, N, P, R, S84 (use with 400 series tractors)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 46.49,
+   "y": 16.49,
+   "partNo": "195-103",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Belt illustration as viewed from front left side.\nIf this snow caster has been converted to fit 3000/4000 series tractors, see the SB38G and SB48 snow caster catalog for parts."
+}

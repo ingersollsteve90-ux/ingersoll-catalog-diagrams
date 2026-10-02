@@ -1,0 +1,347 @@
+{
+ "sectionTitle": "Snowcaster - Auger Housing, Chute Control and Lift (S80, S84)",
+ "breadcrumb": "Snowcaster - Auger Housing, Chute Control and Lift (S80, S84)",
+ "catalogLabel": "Catalog J1250",
+ "modelNumbers": "Catalog J1250 — Ingersoll J, K, L, M, N (40)(44)(46) Rotary Mowers, J–S (80)(84) Snowcasters, J, K, L (50)(54) Utility Blades",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/J1250/snowcaster_housing_chute_lift_s.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 80.74,
+   "y": 43.36,
+   "variants": [
+    {
+     "serialNote": "S80; use C31899, C32391",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 38\" (S80) (use C31899, C32391)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S84; use C31900, C32391",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 48\" (S84) (use C31900, C32391)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 37.36,
+   "y": 88.44,
+   "variants": [
+    {
+     "serialNote": "S84",
+     "partNo": "C17776",
+     "desc": "BLADE - snow blower (S84)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S80",
+     "partNo": "C17878",
+     "desc": "BLADE - snow blower (S80)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 7.59,
+   "y": 72.02,
+   "partNo": "C29877",
+   "desc": "SCREW - chain adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 4.07,
+   "y": 3.53,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 58.02,
+   "y": 16.65,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 7.79,
+   "y": 62.5,
+   "partNo": "129-163",
+   "desc": "NUT - 3/8\" - 24 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 92.1,
+   "y": 47.93,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP (early production)",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 95.42,
+   "y": 46.76,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" NC hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 33.35,
+   "y": 37.53,
+   "partNo": "132-300",
+   "desc": "PIN - cotter 1/8\" x 7/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 79.56,
+   "y": 67.94,
+   "variants": [
+    {
+     "serialNote": "3/8\" x 1\" round head, long square neck",
+     "partNo": "111-371",
+     "desc": "BOLT - 3/8\" x 1\" NC round head, long square neck",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "3/8\"-16 x 3/4\" carriage",
+     "partNo": "111-340",
+     "desc": "BOLT - 3/8\"-16 x 3/4\" carriage",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 89.45,
+   "y": 49.48,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 78.19,
+   "y": 36.56,
+   "partNo": "C15248",
+   "desc": "CHUTE",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 69.77,
+   "y": 2.95,
+   "partNo": "C16940",
+   "desc": "DEFLECTOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 92.0,
+   "y": 12.37,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 71.53,
+   "y": 19.08,
+   "partNo": "131-1102",
+   "desc": "NUT - lock 1/4\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 84.07,
+   "y": 14.32,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" x 3/4\" NC round head, short square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 66.93,
+   "y": 9.07,
+   "partNo": "C28263",
+   "desc": "WASHER - dished 25/64 x 1\" O.D",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 61.94,
+   "y": 20.92,
+   "partNo": "C22774",
+   "desc": "WINGNUT - deflector locking",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 50.68,
+   "y": 40.74,
+   "partNo": "C15334",
+   "desc": "BRACKET - chute hold down",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 49.99,
+   "y": 46.57,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" x 3/4\" NC round head, square neck",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "19",
+   "x": 56.16,
+   "y": 65.9,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" x 3/4\" NC round head, square neck",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "20",
+   "x": 53.81,
+   "y": 38.99,
+   "partNo": "192-20",
+   "desc": "LOCK WASHER - 5/16\" ZP (early production)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "20",
+   "x": 83.28,
+   "y": 84.85,
+   "partNo": "192-20",
+   "desc": "LOCK WASHER - 5/16\" ZP (early production)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "21",
+   "x": 57.82,
+   "y": 37.53,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex ZP flange",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "21",
+   "x": 83.18,
+   "y": 88.34,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex ZP flange",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "22",
+   "x": 45.68,
+   "y": 22.28,
+   "partNo": "132-332",
+   "desc": "PIN - cotter",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 9.06,
+   "y": 36.56,
+   "partNo": "C24644",
+   "desc": "CRANK - chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 28.74,
+   "y": 35.79,
+   "partNo": "C24643",
+   "desc": "ROD - chute, control",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 29.92,
+   "y": 46.67,
+   "partNo": "C24640",
+   "desc": "COIL - chute, control",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 54.98,
+   "y": 4.21,
+   "partNo": "195-2134",
+   "desc": "WASHER - 1-3/16\" x 2-1/4\" ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 8.57,
+   "y": 3.44,
+   "partNo": "195-541",
+   "desc": "WASHER - 21/32\" x 5/16\" ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 94.25,
+   "y": 63.86,
+   "partNo": "C17775",
+   "desc": "SKID - shoe",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 8.28,
+   "y": 56.87,
+   "partNo": "113-421",
+   "desc": "BOLT - 1/2\" x 2\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 11.9,
+   "y": 54.92,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 20.52,
+   "y": 46.47,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 15.72,
+   "y": 53.86,
+   "partNo": "C25580",
+   "desc": "BUSHING - pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 25.61,
+   "y": 43.85,
+   "partNo": "131-165",
+   "desc": "NUT - lock 1/2\" hex crown",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 31.48,
+   "y": 7.61,
+   "partNo": "C31995",
+   "desc": "ARM - lift",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "C33228 (38\") and C33229 (48\") conversion kits adapt this snow caster to 3000/4000 series tractors.\nIf this snow caster has been converted to fit 3000/4000 series tractors, see the SB38G and SB48 snow caster catalog for parts."
+}

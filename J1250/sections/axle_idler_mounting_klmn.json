@@ -1,0 +1,492 @@
+{
+ "sectionTitle": "Mower - Axle, Idler and Mounting Assemblies (K, L, M, N)",
+ "breadcrumb": "Mower - Axle, Idler and Mounting Assemblies (K, L, M, N)",
+ "catalogLabel": "Catalog J1250",
+ "modelNumbers": "Catalog J1250 — Ingersoll J, K, L, M, N (40)(44)(46) Rotary Mowers, J–S (80)(84) Snowcasters, J, K, L (50)(54) Utility Blades",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/J1250/axle_idler_mounting_klmn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 74.88,
+   "y": 9.51,
+   "variants": [
+    {
+     "serialNote": "K40, L40, M40, N40",
+     "partNo": "C26047",
+     "desc": "AXLE - rear (K40, L40, M40, N40)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K44, L44, M44, N44",
+     "partNo": "C26048",
+     "desc": "AXLE - rear (K44, L44, M44, N44)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K46, L46, M46, N46",
+     "partNo": "C26049",
+     "desc": "AXLE - rear (K46, L46, M46, N46)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 47.98,
+   "y": 5.05,
+   "partNo": "C14932",
+   "desc": "BRACKET - axle mounting (2 required on K46, L46, M46, N46)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 52.29,
+   "y": 3.01,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" x 1/2\" NC hex self-tapping",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 20.69,
+   "y": 76.8,
+   "variants": [
+    {
+     "serialNote": "R.H. 444, 446,448; 220 mm",
+     "partNo": "C25702",
+     "desc": "LINK - lift (R.H. 444, 446,448) comes with tractor, 8-3/4\" (220 mm)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "226",
+     "partNo": "C27225",
+     "desc": "LINK - short offset (226) R.H",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 19.62,
+   "y": 36.21,
+   "partNo": "C20005",
+   "desc": "PIN - locking",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 23.63,
+   "y": 36.12,
+   "partNo": "138-96",
+   "desc": "PIN - roll 3/16\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 13.26,
+   "y": 28.93,
+   "partNo": "C10482",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 6.51,
+   "y": 40.49,
+   "partNo": "131-930",
+   "desc": "NUT - lock 1/2\" NC hex flange",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 11.5,
+   "y": 53.11,
+   "partNo": "131-930",
+   "desc": "NUT - lock 1/2\" NC hex flange",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 45.34,
+   "y": 27.77,
+   "partNo": "C15935",
+   "desc": "BRACKET - height adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 29.98,
+   "y": 52.72,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\" x 7/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 6.51,
+   "y": 61.55,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 25.97,
+   "y": 65.63,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 23.43,
+   "y": 43.11,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 3.28,
+   "y": 60.0,
+   "partNo": "C26044",
+   "desc": "BOLT - \"J\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 13.65,
+   "y": 71.75,
+   "variants": [
+    {
+     "serialNote": "210, 220, 222, 224, 644, 646, 648",
+     "partNo": "C18315",
+     "desc": "LINK - lift, short (use with Model 210, 220, 222, 224, 644, 646 and 648)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "226 L.H.",
+     "partNo": "C18315",
+     "desc": "LINK - lift, short (226)L.H",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 31.84,
+   "y": 3.88,
+   "partNo": "C16745",
+   "desc": "STUD - gauge wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 18.25,
+   "y": 6.31,
+   "variants": [
+    {
+     "serialNote": "K40, K44, L40, L44, M40, M44, N40, N44; 127 mm",
+     "partNo": "C26736",
+     "desc": "WHEEL - gauge (K40, K44, L40, L44, M40, M44, N40, N44) 5\" (127 mm)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "K46, L46, M46, N46; 152 mm",
+     "partNo": "C26737",
+     "desc": "WHEEL - gauge (K46, L46, M46, N46) 6\" (152 mm)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 14.24,
+   "y": 10.78,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 14.43,
+   "y": 62.52,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 30.86,
+   "y": 63.5,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 23.92,
+   "y": 69.71,
+   "partNo": "C25703",
+   "desc": "LINK - lift, long (use on 444, 446,448) 8-3/4\" (220mm) L.H",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 4.45,
+   "y": 21.17,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" NC hex lock flange",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 89.55,
+   "y": 68.25,
+   "partNo": "C17648",
+   "desc": "BRACKET - front mounting (use C30168 for 648 loader)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 63.83,
+   "y": 55.92,
+   "partNo": "C16569",
+   "desc": "BRACKET - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 76.64,
+   "y": 47.57,
+   "partNo": "C16575",
+   "desc": "BRACKET ASSEMBLY - idler arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 70.58,
+   "y": 50.29,
+   "partNo": "C17597",
+   "desc": "BUSHING - idler arm",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 82.9,
+   "y": 45.24,
+   "partNo": "C17597",
+   "desc": "BUSHING - idler arm",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 90.83,
+   "y": 46.5,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8\" x 1-1/2\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 51.41,
+   "y": 75.24,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8\" x 1-1/2\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 89.65,
+   "y": 60.49,
+   "partNo": "C12264",
+   "desc": "BUSHING - idler pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 67.15,
+   "y": 60.58,
+   "partNo": "C12264",
+   "desc": "BUSHING - idler pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 88.58,
+   "y": 63.59,
+   "partNo": "C25370",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 79.38,
+   "y": 69.03,
+   "partNo": "C25370",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 85.15,
+   "y": 63.69,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 47.79,
+   "y": 63.5,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 70.58,
+   "y": 59.71,
+   "partNo": "131-1352",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 47.49,
+   "y": 68.16,
+   "partNo": "131-1352",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 70.38,
+   "y": 73.2,
+   "partNo": "C21942",
+   "desc": "SPRING - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 47.69,
+   "y": 75.15,
+   "partNo": "C14269",
+   "desc": "NUT - belt tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 91.12,
+   "y": 82.52,
+   "partNo": "C26890",
+   "desc": "SCREW - idler adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 93.96,
+   "y": 97.57,
+   "partNo": "138-2073",
+   "desc": "PIN - roll 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 88.67,
+   "y": 97.38,
+   "partNo": "132-318",
+   "desc": "PIN - cotter",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 59.04,
+   "y": 83.88,
+   "partNo": "C31575",
+   "desc": "ROD - pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 56.39,
+   "y": 86.99,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "34",
+   "x": 19.71,
+   "y": 71.55,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "34",
+   "x": 45.05,
+   "y": 7.96,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "35",
+   "x": 59.33,
+   "y": 59.03,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 39.57,
+   "y": 61.36,
+   "partNo": "C16573",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 42.6,
+   "y": 46.12,
+   "partNo": "C26050",
+   "desc": "FRAME - rear-mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 10.03,
+   "y": 44.95,
+   "partNo": "C26033",
+   "desc": "PIN - adjustment",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 44.07,
+   "y": 80.58,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "39",
+   "x": 62.75,
+   "y": 82.91,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "39",
+   "x": 92.98,
+   "y": 85.34,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Refs 19-36 make up the C26107 mounting frame assembly.\nAlso listed, not shown on diagram: C26107 — FRAME ASSEMBLY - mounting (Req'd 1)."
+}

@@ -1,0 +1,507 @@
+{
+ "sectionTitle": "Snowcaster - Auger Housing, Chute Control and Lift (J-R 80/84)",
+ "breadcrumb": "Snowcaster - Auger Housing, Chute Control and Lift (J-R 80/84)",
+ "catalogLabel": "Catalog J1250",
+ "modelNumbers": "Catalog J1250 — Ingersoll J, K, L, M, N (40)(44)(46) Rotary Mowers, J–S (80)(84) Snowcasters, J, K, L (50)(54) Utility Blades",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/J1250/snowcaster_housing_chute_lift_jkpr.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 81.31,
+   "y": 43.56,
+   "variants": [
+    {
+     "serialNote": "J80 and K80; Use C24719, C24640, C24643, C24644, 132-300",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 38\" (J80 and K80) (Use C24719, C24640, C24643, C24644, 132-300)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J84 and K84; order C24720, C24640, C24643, C24644, 132-300",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 48\" (J84 and K84) (order C24720, C24640, C24643, C24644, 132-300)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L80,M80; Use C24719",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 38\" (L80,M80)(Use C24719)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L84, M84; Use C24720",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 48\" (L84, M84) (Use C24720)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N80, P80, R80 (see note *)",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 38\" (N80, P80, R80)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N84, P84, R84 (see note **)",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 48\" (N84, P84, R84)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 37.32,
+   "y": 88.32,
+   "variants": [
+    {
+     "serialNote": "J, K, L, M, N, P, R84",
+     "partNo": "C17776",
+     "desc": "BLADE - snow blower (J, K, L, M, N, P, R84)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J, K, L, M, N, P, R80",
+     "partNo": "C17878",
+     "desc": "BLADE - snow blower (J, K, L, M, N, P, R80)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 31.97,
+   "y": 87.83,
+   "partNo": "C19734",
+   "desc": "HUB - auger mounting (J, K and L80 - J, K and L84)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 59.51,
+   "y": 16.66,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 5.61,
+   "y": 2.82,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 9.08,
+   "y": 94.5,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 12.25,
+   "y": 93.42,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\" ZP",
+   "reqd": "11"
+  },
+  {
+   "ref": "6",
+   "x": 92.5,
+   "y": 48.56,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\" ZP",
+   "reqd": "11"
+  },
+  {
+   "ref": "6",
+   "x": 54.66,
+   "y": 27.56,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\" ZP",
+   "reqd": "11"
+  },
+  {
+   "ref": "7",
+   "x": 95.57,
+   "y": 47.39,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex ZP",
+   "reqd": "5"
+  },
+  {
+   "ref": "7",
+   "x": 54.06,
+   "y": 24.32,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex ZP",
+   "reqd": "5"
+  },
+  {
+   "ref": "8",
+   "x": 29.29,
+   "y": 30.9,
+   "partNo": "C27822",
+   "desc": "SPRING - rod, chute control (J80, J84, K80 and K84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 79.52,
+   "y": 68.29,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" x 1\" NC round head, long square neck",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 89.43,
+   "y": 49.74,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 32.07,
+   "y": 32.66,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 20.08,
+   "y": 30.5,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 58.52,
+   "y": 33.06,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "11",
+   "x": 78.83,
+   "y": 36.49,
+   "partNo": "C15248",
+   "desc": "CHUTE",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 71.3,
+   "y": 2.92,
+   "partNo": "C16940",
+   "desc": "DEFLECTOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 93.1,
+   "y": 12.93,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 72.29,
+   "y": 19.21,
+   "partNo": "131-1102",
+   "desc": "NUT - lock 1/4\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 84.48,
+   "y": 14.4,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" x 3/4\" NC round head, short square neck",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 52.68,
+   "y": 34.53,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" x 3/4\" NC round head, short square neck",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 68.13,
+   "y": 9.01,
+   "partNo": "C28263",
+   "desc": "WASHER - dished 25/64 x 1\" O.D",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 62.68,
+   "y": 20.69,
+   "partNo": "C22774",
+   "desc": "WINGNUT - deflector locking",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 51.78,
+   "y": 40.71,
+   "partNo": "C15334",
+   "desc": "BRACKET - chute hold down",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 50.79,
+   "y": 46.7,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" x 3/4\" NC round head, square neck",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "19",
+   "x": 56.04,
+   "y": 65.94,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" x 3/4\" NC round head, square neck",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "20",
+   "x": 54.76,
+   "y": 38.85,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" ZP",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "20",
+   "x": 82.69,
+   "y": 84.98,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" ZP",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "21",
+   "x": 58.22,
+   "y": 37.67,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex ZP",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "21",
+   "x": 83.39,
+   "y": 88.71,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex ZP",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "22",
+   "x": 46.73,
+   "y": 21.87,
+   "partNo": "132-332",
+   "desc": "PIN - cotter",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 36.92,
+   "y": 32.86,
+   "partNo": "C15244",
+   "desc": "ROD - chute control (J80, J84, K80 and K84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 40.89,
+   "y": 34.53,
+   "partNo": "C15277",
+   "desc": "SPACER - (J80, J84, K80 and K84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 56.24,
+   "y": 30.11,
+   "partNo": "C15240",
+   "desc": "BRACKET - control rod (J80, J84, K80 and K84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 41.78,
+   "y": 21.77,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\" (J80, J84, K80 and K84)",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 28.5,
+   "y": 16.76,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\" (J80, J84, K80 and K84)",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 17.7,
+   "y": 24.22,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\" (J80, J84, K80 and K84)",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 15.42,
+   "y": 27.75,
+   "partNo": "C14583",
+   "desc": "JOINT - block (J80, J84, K80 and K84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 94.19,
+   "y": 64.47,
+   "partNo": "C17775",
+   "desc": "SKID - shoe",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 9.58,
+   "y": 56.52,
+   "partNo": "113-421",
+   "desc": "BOLT - 1/2\" x 2\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 12.65,
+   "y": 54.75,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 21.17,
+   "y": 46.11,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 16.71,
+   "y": 53.47,
+   "variants": [
+    {
+     "serialNote": "J, K, L (80)(84)",
+     "partNo": "C18770",
+     "desc": "BUSHING - (J, K, L(80) - J, K, L84)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "M, N, P, R (80)(84)",
+     "partNo": "C25580",
+     "desc": "BUSHING - (M, N, P, R (80) - M, N, P, R (84)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "32",
+   "x": 26.12,
+   "y": 43.36,
+   "partNo": "131-165",
+   "desc": "NUT - lock 1/2\" hex crown",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 12.35,
+   "y": 18.72,
+   "partNo": "C14584",
+   "desc": "CRANK - chute (J, K80 - J, K84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 32.66,
+   "y": 7.14,
+   "partNo": "C31995",
+   "desc": "ARM - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 9.88,
+   "y": 2.72,
+   "partNo": "195-541",
+   "desc": "WASHER - 21/32 x 5/16\" ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 56.54,
+   "y": 3.71,
+   "partNo": "195-2134",
+   "desc": "WASHER - 1-3/16 x 2-1/4\" ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 30.98,
+   "y": 46.21,
+   "partNo": "C24640",
+   "desc": "COIL - chute control (L, M, N, P, R(80) - L, M, N, P, R(84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 29.99,
+   "y": 35.61,
+   "partNo": "C24643",
+   "desc": "ROD - chute, control (L, M, N, P, R(80) - L, M, N, P, R(84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 9.88,
+   "y": 36.39,
+   "partNo": "C24644",
+   "desc": "CRANK - chute (L, M, N, P, R(80) - L, M, N, P, R(84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 33.85,
+   "y": 37.18,
+   "partNo": "132-300",
+   "desc": "PIN - cotter 1/8\" x 7/8\" (L, M, N, P, R(80) - L, M, N, P, R(84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 7.99,
+   "y": 87.44,
+   "partNo": "C25842",
+   "desc": "HUB - auger mounting (M80, M84)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "* N80, P80, R80 housing: use C31899, C32391, C29877 and 2 each of 111-202, 129-163, 131-911.\n** N84, P84, R84 housing: use C31900, C32391, C29877 and 2 each of 111-202, 129-163, 131-911."
+}

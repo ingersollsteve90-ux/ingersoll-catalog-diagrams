@@ -1,0 +1,158 @@
+{
+ "sectionTitle": "Mower - Roller Kits",
+ "breadcrumb": "Mower - Roller Kits",
+ "catalogLabel": "Catalog J1250",
+ "modelNumbers": "Catalog J1250 — Ingersoll J, K, L, M, N (40)(44)(46) Rotary Mowers, J–S (80)(84) Snowcasters, J, K, L (50)(54) Utility Blades",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/J1250/roller_kits.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 69.64,
+   "y": 50.67,
+   "partNo": "C33143",
+   "desc": "BRACKET - mounting L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 39.27,
+   "y": 62.2,
+   "variants": [
+    {
+     "serialNote": "H40, J40, K40, L40, M40, N40",
+     "partNo": "C33144",
+     "desc": "BRACKET - mounting R.H. (H40, J40, K40, L40, M40, N40)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "H44, J44, K44, L44, M44, N44",
+     "partNo": "C33145",
+     "desc": "BRACKET - mounting R.H. (H44, J44, K44, L44, M44, N44)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "H46, J46, K46, L46, M46, N46",
+     "partNo": "C33146",
+     "desc": "BRACKET - mounting R.H. (H46, J46, K46, L46, M46, N46)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 84.92,
+   "y": 88.97,
+   "partNo": "C31500",
+   "desc": "ROLLER",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 89.94,
+   "y": 80.96,
+   "partNo": "C31501",
+   "desc": "SPACER - sleeve",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 96.65,
+   "y": 65.05,
+   "variants": [
+    {
+     "serialNote": "attach L.H. Roller",
+     "partNo": "113-241",
+     "desc": "BOLT - 3/8\" - 16 x 3\" (attach L.H. Roller)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "attach R.H. roller",
+     "partNo": "111-375",
+     "desc": "BOLT - 3/8\" - 16 x 3\" carriage (attach R.H. roller)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 75.75,
+   "y": 94.97,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 76.93,
+   "y": 63.53,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 62.93,
+   "y": 48.38,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 20.15,
+   "y": 51.05,
+   "partNo": "C33156",
+   "desc": "BRACKET - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 53.07,
+   "y": 5.03,
+   "partNo": "C33157",
+   "desc": "BRACKET - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 31.68,
+   "y": 15.41,
+   "partNo": "C28977",
+   "desc": "ROLLER - 7\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 41.84,
+   "y": 9.51,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 22.32,
+   "y": 25.61,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 3.09,
+   "y": 52.0,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 7.13,
+   "y": 29.99,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Refs 1-8: front roller kit (C33139 for 40\" decks, C33140 for 44\", C33141 for 46\"). Refs 9-14: rear roller kit C33142.\nAlso listed, not shown on diagram: C33139 — KIT - front rollers (H40, J40, K40, L40, M40, N40) (Req'd 1); C33140 — KIT - front rollers (H44, J44, K44, L44, M44, N44) (Req'd 1); C33141 — KIT - front rollers (H46, J46, K46, L46, M46, N46) (Req'd 1); C33142 — KIT - rear roller (Req'd 1)."
+}

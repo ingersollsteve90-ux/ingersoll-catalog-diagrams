@@ -1,0 +1,329 @@
+{
+ "sectionTitle": "Utility Blade - Blade, Bracket and Lift Assembly",
+ "breadcrumb": "Utility Blade - Blade, Bracket and Lift Assembly",
+ "catalogLabel": "Catalog J1250",
+ "modelNumbers": "Catalog J1250 — Ingersoll J, K, L, M, N (40)(44)(46) Rotary Mowers, J–S (80)(84) Snowcasters, J, K, L (50)(54) Utility Blades",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/J1250/utility_blade.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 44.44,
+   "y": 4.1,
+   "variants": [
+    {
+     "serialNote": "J50, K50, L50",
+     "partNo": "C16524",
+     "desc": "BLADE - 44\" shown (J50, K50, L50)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J54, K54, L54",
+     "partNo": "C16525",
+     "desc": "BLADE - 54\" (J54, K54, L54)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 95.11,
+   "y": 57.24,
+   "variants": [
+    {
+     "serialNote": "J50, K50, L50",
+     "partNo": "C10871",
+     "desc": "EDGE - 44\" (J50, K50, L50)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J54, K54, L54",
+     "partNo": "C14440",
+     "desc": "EDGE - 54\" (J54, K54, L54)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 96.69,
+   "y": 35.65,
+   "variants": [
+    {
+     "serialNote": "J50, K50, L50",
+     "partNo": "111-203",
+     "desc": "BOLT - 5/16\" x 1\" NC rd. hd. square neck (J50, K50, L50)",
+     "reqd": "8"
+    },
+    {
+     "serialNote": "J54, K54, L54",
+     "partNo": "111-203",
+     "desc": "BOLT - 5/16\" x 1\" NC rd. hd. square neck (J54, K54, L54)",
+     "reqd": "9"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 91.76,
+   "y": 72.13,
+   "variants": [
+    {
+     "serialNote": "J50, K50, L50",
+     "partNo": "192-20",
+     "desc": "LOCK WASHER - 5/16\" (J50, K50, L50)",
+     "reqd": "8"
+    },
+    {
+     "serialNote": "J54, K54, L54",
+     "partNo": "192-20",
+     "desc": "LOCK WASHER - 5/16\" (J54, K54, L54)",
+     "reqd": "9"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 85.84,
+   "y": 75.78,
+   "variants": [
+    {
+     "serialNote": "J50, K50, L50",
+     "partNo": "129-102",
+     "desc": "NUT - 5/16\" NC hex (J50, K50, L50)",
+     "reqd": "8"
+    },
+    {
+     "serialNote": "J54, K54, L54",
+     "partNo": "129-102",
+     "desc": "NUT - 5/16\" NC hex (J54, K54, L54)",
+     "reqd": "9"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 68.79,
+   "y": 62.96,
+   "partNo": "C16805",
+   "desc": "SPRING - blade",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 61.69,
+   "y": 62.56,
+   "partNo": "C22741",
+   "desc": "BRACKET - pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 74.8,
+   "y": 64.63,
+   "partNo": "C25876",
+   "desc": "SKID",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 93.53,
+   "y": 23.82,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" x 1\" NC rd. hd. square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 74.7,
+   "y": 48.27,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 71.94,
+   "y": 52.21,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 38.23,
+   "y": 33.58,
+   "partNo": "C10888",
+   "desc": "PIN - lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 41.97,
+   "y": 33.68,
+   "partNo": "113-713",
+   "desc": "BOLT - 3/4\" x 1-3/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 47.39,
+   "y": 57.93,
+   "partNo": "131-1112",
+   "desc": "NUT - lock, 3/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 37.14,
+   "y": 7.26,
+   "partNo": "C16529",
+   "desc": "ROD - front pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 29.65,
+   "y": 3.61,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 20.38,
+   "y": 93.23,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 40.79,
+   "y": 76.47,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 45.62,
+   "y": 76.27,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "17",
+   "x": 34.18,
+   "y": 25.79,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "17",
+   "x": 4.51,
+   "y": 35.94,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 23.83,
+   "y": 96.48,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 75.59,
+   "y": 7.26,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 72.24,
+   "y": 3.21,
+   "partNo": "141-56",
+   "desc": "PIN - clevis 1/2\" x 1-3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 7.37,
+   "y": 18.79,
+   "partNo": "C12975",
+   "desc": "WASHER - 3/4\" ID x 1-1/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 2.83,
+   "y": 69.86,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 24.92,
+   "y": 59.8,
+   "partNo": "C23702",
+   "desc": "BRACKET - center push",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 13.09,
+   "y": 46.3,
+   "partNo": "C25571",
+   "desc": "BRACKET - rear support",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 10.72,
+   "y": 38.41,
+   "partNo": "C23713",
+   "desc": "ROD - rear pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 20.97,
+   "y": 66.21,
+   "partNo": "C23841",
+   "desc": "ROD - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 15.95,
+   "y": 89.97,
+   "partNo": "C25382",
+   "desc": "PLATE - adapter, lift bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 34.58,
+   "y": 76.27,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" x 1-1/4\" hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 8.55,
+   "y": 56.85,
+   "partNo": "192-23",
+   "desc": "LOCK WASHER - 1/2\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Illustrated as viewed from right rear."
+}
