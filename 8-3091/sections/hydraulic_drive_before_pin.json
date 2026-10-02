@@ -1,0 +1,146 @@
+{
+ "sectionTitle": "Hydraulic Drive (HRM48H before PIN 010406094)",
+ "breadcrumb": "Hydraulic Drive (HRM48H before PIN 010406094)",
+ "catalogLabel": "Catalog 8-3091",
+ "modelNumbers": "Catalog 8-3091 — Ingersoll HRM48H and AHRM4H Hydraulic Rotary Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3091/hydraulic_drive_before_pin.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 72.7,
+   "y": 49.9,
+   "partNo": "C28320",
+   "desc": "HOSE - hydraulic",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 5.1,
+   "y": 72.1,
+   "partNo": "C32536",
+   "desc": "COVER - drive belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 16.5,
+   "y": 37.0,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4” - 20 x 1/2” self tap",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 59.1,
+   "y": 23.2,
+   "partNo": "NSS",
+   "desc": "MOTOR - hydraulic (use C46480 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 58.2,
+   "y": 36.0,
+   "partNo": "C29581",
+   "desc": "KEY - motor shaft 3/16” x 3/16” x 1”",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 59.4,
+   "y": 68.9,
+   "partNo": "C32535",
+   "desc": "PULLEY - 7” drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 60.2,
+   "y": 55.3,
+   "partNo": "C32751",
+   "desc": "PLATE - motor mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 50.6,
+   "y": 60.4,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8” - 16 x 1”",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 34.9,
+   "y": 43.8,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8” flange",
+   "reqd": "5"
+  },
+  {
+   "ref": "9",
+   "x": 37.9,
+   "y": 5.8,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8” flange",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 24.4,
+   "y": 31.8,
+   "partNo": "218-5201",
+   "desc": "FITTING - 7/8” O-ring x 1/2” pipe, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 71.0,
+   "y": 2.3,
+   "partNo": "218-5201",
+   "desc": "FITTING - 7/8” O-ring x 1/2” pipe, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 51.9,
+   "y": 3.7,
+   "partNo": "218-5007",
+   "desc": "“O” RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 35.6,
+   "y": 16.4,
+   "partNo": "218-5007",
+   "desc": "“O” RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 55.5,
+   "y": 85.3,
+   "partNo": "C32199",
+   "desc": "SCREW - set 5/16” - 18 x 5/16”",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 33.5,
+   "y": 61.8,
+   "partNo": "111-342",
+   "desc": "BOLT - 3/8” - 16 x 1” carriage",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 25.5,
+   "y": 95.5,
+   "partNo": "C31215",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "HRM48H before PIN 010406094.\nRef 4 hydraulic motor is NSS - use C46480 kit.\nAlso listed, not shown on diagram: C30053 KIT - repair (includes carrier and seal kit) (1); C29625 KIT - seal (1)."
+}

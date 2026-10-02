@@ -1,0 +1,226 @@
+{
+ "sectionTitle": "Hydraulic Motor C46235",
+ "breadcrumb": "Hydraulic Motor C46235",
+ "catalogLabel": "Catalog 8-3091",
+ "modelNumbers": "Catalog 8-3091 — Ingersoll HRM48H and AHRM4H Hydraulic Rotary Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3091/hydraulic_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 1.5,
+   "y": 43.9,
+   "partNo": "NSS",
+   "desc": "BOLT",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 5.3,
+   "y": 52.6,
+   "partNo": "NSS",
+   "desc": "LOCKWASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 12.2,
+   "y": 18.6,
+   "partNo": "NSS",
+   "desc": "COVER - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 19.2,
+   "y": 25.6,
+   "partNo": "NSS",
+   "desc": "“O” RING - body (included in seal kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 78.9,
+   "y": 57.4,
+   "partNo": "NSS",
+   "desc": "“O” RING - body (included in seal kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 22.8,
+   "y": 27.9,
+   "partNo": "NSS",
+   "desc": "SEAL - backup (included in seal kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 71.0,
+   "y": 83.1,
+   "partNo": "NSS",
+   "desc": "SEAL - backup (included in seal kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 22.6,
+   "y": 58.6,
+   "partNo": "NSS",
+   "desc": "SEALS - bushings (included in seal kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 68.0,
+   "y": 53.7,
+   "partNo": "NSS",
+   "desc": "SEALS - bushings (included in seal kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 73.8,
+   "y": 56.0,
+   "partNo": "NSS",
+   "desc": "SEALS - bushings (included in seal kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 28.7,
+   "y": 34.0,
+   "partNo": "NSS",
+   "desc": "SEALS - bushings (included in seal kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 33.2,
+   "y": 34.0,
+   "partNo": "NSS",
+   "desc": "BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 25.9,
+   "y": 61.7,
+   "partNo": "NSS",
+   "desc": "BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 60.9,
+   "y": 79.3,
+   "partNo": "NSS",
+   "desc": "BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 63.1,
+   "y": 50.5,
+   "partNo": "NSS",
+   "desc": "BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 36.2,
+   "y": 70.5,
+   "partNo": "NSS",
+   "desc": "BODY",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 52.1,
+   "y": 43.2,
+   "partNo": "NSS",
+   "desc": "GEAR - driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 46.2,
+   "y": 72.3,
+   "partNo": "NSS",
+   "desc": "SHAFT AND GEAR - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 51.3,
+   "y": 74.7,
+   "partNo": "C46237",
+   "desc": "KEY - square 3/16” x 3/4” (included in seal kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 56.6,
+   "y": 73.9,
+   "partNo": "NSS",
+   "desc": "RING - retaining (included in seal kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 86.9,
+   "y": 54.9,
+   "partNo": "NSS",
+   "desc": "FLANGE - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 97.4,
+   "y": 76.1,
+   "partNo": "C43748",
+   "desc": "SEAL - oil (included in seal kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 92.4,
+   "y": 94.9,
+   "partNo": "NSS",
+   "desc": "RING - retaining (included in seal kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 39.2,
+   "y": 3.0,
+   "partNo": "NSS",
+   "desc": "CAP - check valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 36.9,
+   "y": 27.7,
+   "partNo": "NSS",
+   "desc": "SPRING - check valve (if required)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 27.8,
+   "y": 11.6,
+   "partNo": "NSS",
+   "desc": "VALVE - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 35.6,
+   "y": 7.5,
+   "partNo": "NSS",
+   "desc": "“O” RING - cap (included in seal kit)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Repair parts for hydraulic motor C46235. Items marked NSS are not serviced separately.\nAlso listed, not shown on diagram: C43747 KIT - seal (1)."
+}

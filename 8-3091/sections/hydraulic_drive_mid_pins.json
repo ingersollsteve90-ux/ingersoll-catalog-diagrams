@@ -1,0 +1,221 @@
+{
+ "sectionTitle": "Hydraulic Drive (HRM48H PIN 010406094 to 010601046; AHRM4H before PIN 010404153)",
+ "breadcrumb": "Hydraulic Drive (HRM48H PIN 010406094 to 010601046; AHRM4H before PIN 010404153)",
+ "catalogLabel": "Catalog 8-3091",
+ "modelNumbers": "Catalog 8-3091 — Ingersoll HRM48H and AHRM4H Hydraulic Rotary Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3091/hydraulic_drive_mid_pins.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 77.4,
+   "y": 16.3,
+   "partNo": "C28320",
+   "desc": "HOSE - hydraulic",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 3.6,
+   "y": 82.8,
+   "partNo": "C42452",
+   "desc": "COVER - drive belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 14.0,
+   "y": 60.0,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4” - 20 x 1/2” self tap",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 34.1,
+   "y": 56.2,
+   "partNo": "NSS",
+   "desc": "MOTOR - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 51.8,
+   "y": 58.9,
+   "partNo": "C29581",
+   "desc": "KEY - motor shaft 3/16” x 3/16” x 1”",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 52.8,
+   "y": 79.9,
+   "variants": [
+    {
+     "serialNote": "AHRM4H",
+     "partNo": "42436",
+     "desc": "PULLEY - 6.4 drive (AHRM4H)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "HRM48H",
+     "partNo": "C45490",
+     "desc": "PULLEY - 7” drive (HRM48H)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 53.5,
+   "y": 71.3,
+   "partNo": "C42437",
+   "desc": "PLATE - motor mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 32.3,
+   "y": 38.5,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8” flange",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 21.3,
+   "y": 55.8,
+   "partNo": "218-5201",
+   "desc": "FITTING - 7/8” O-ring x 1/2” pipe, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 56.0,
+   "y": 44.8,
+   "partNo": "218-5201",
+   "desc": "FITTING - 7/8” O-ring x 1/2” pipe, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 30.4,
+   "y": 45.9,
+   "partNo": "218-5007",
+   "desc": "“O” RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 46.3,
+   "y": 37.2,
+   "partNo": "218-5007",
+   "desc": "“O” RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 49.7,
+   "y": 90.7,
+   "partNo": "83-55",
+   "desc": "SCREW - set 5/16” - 18 x 5/16”",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 44.6,
+   "y": 74.9,
+   "partNo": "111-342",
+   "desc": "BOLT - 3/8” - 16 x 1” carriage",
+   "reqd": "5"
+  },
+  {
+   "ref": "13",
+   "x": 29.6,
+   "y": 75.5,
+   "partNo": "111-342",
+   "desc": "BOLT - 3/8” - 16 x 1” carriage",
+   "reqd": "5"
+  },
+  {
+   "ref": "14",
+   "x": 22.1,
+   "y": 97.7,
+   "partNo": "C31215",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 30.6,
+   "y": 63.9,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8” - 16 flange lock",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 89.2,
+   "y": 25.2,
+   "partNo": "217-1086",
+   "desc": "FITTING - 45° elbow 1/2”",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 95.3,
+   "y": 28.9,
+   "partNo": "C37187",
+   "desc": "COUPLING - quick, male 1/2”",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 88.3,
+   "y": 39.9,
+   "partNo": "C37188",
+   "desc": "COUPLING - quick, female 1/2”",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 66.0,
+   "y": 67.2,
+   "partNo": "218-5105",
+   "desc": "FITTING - 9/16” 90° (includes 218-5005 “O” RING)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 66.2,
+   "y": 51.7,
+   "partNo": "C33560",
+   "desc": "HOSE - 1/4” x 23”",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 73.8,
+   "y": 56.0,
+   "partNo": "218-443",
+   "desc": "FITTING - 1/4” X 3/8”",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 78.7,
+   "y": 58.5,
+   "partNo": "C41044",
+   "desc": "COUPLING - quick, female 1/4”",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 95.2,
+   "y": 57.9,
+   "partNo": "C33404",
+   "desc": "CAP - dust",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "HRM48H PIN 010406094 to 010601046; AHRM4H before PIN 010404153.\nRef 4 hydraulic motor is NSS - HRM48H use C46213 kit, AHRM4H use C46214 kit.\nAlso listed under ref 4: C40815 SEAL - shaft (1).\nListed in parts table, no callout on diagram: ref 8 113-207 BOLT - 3/8\" - 16 x 1\" (2)."
+}
