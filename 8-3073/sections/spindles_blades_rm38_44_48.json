@@ -1,0 +1,188 @@
+{
+  "sectionTitle": "RM38/RM44/RM44GR/RM48 Mower - Spindles and Blades",
+  "breadcrumb": "RM38/RM44/RM44GR/RM48 Mower - Spindles and Blades",
+  "catalogLabel": "Catalog 8-3073",
+  "modelNumbers": "Catalog 8-3073 — Ingersoll RM38, RM42G, RM44, RM44GR, RM48 & RM60 Rotary Mowers, SB38G & SB48 Snow Blowers, UB44 & UB54 Utility Blades, BG42G Bagger, MK44/MK48/MK48-2 Mulching Kits",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3073/spindles_blades_rm38_44_48.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 82.4,
+      "y": 42.2,
+      "partNo": "NSS",
+      "desc": "HOUSING - spindle (use C40722, 219-20 and (2) C16516)",
+      "reqd": "3"
+    },
+    {
+      "ref": "2",
+      "x": 43.6,
+      "y": 26,
+      "partNo": "C28971",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "2",
+      "x": 77,
+      "y": 57.4,
+      "partNo": "C28971",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "3",
+      "x": 44.2,
+      "y": 32.5,
+      "partNo": "C10810",
+      "desc": "SPACER - bearing",
+      "reqd": "3"
+    },
+    {
+      "ref": "4",
+      "x": 77.9,
+      "y": 63.6,
+      "partNo": "C25542",
+      "desc": "ADAPTER - blade",
+      "reqd": "3"
+    },
+    {
+      "ref": "5",
+      "x": 43.9,
+      "y": 80.4,
+      "partNo": "C31452",
+      "desc": "WASHER - 3/8\" x 2\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "6",
+      "x": 44.8,
+      "y": 87.1,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "15"
+    },
+    {
+      "ref": "6",
+      "x": 89.9,
+      "y": 34.5,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\"",
+      "reqd": "15"
+    },
+    {
+      "ref": "7",
+      "x": 48.4,
+      "y": 94.6,
+      "partNo": "113-209",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/2\" (use 35 ft lb. or torque)",
+      "reqd": "3"
+    },
+    {
+      "ref": "8",
+      "x": 81.5,
+      "y": 8,
+      "partNo": "C31566",
+      "desc": "SPINDLE - outboard",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 76.1,
+      "y": 21.5,
+      "partNo": "C29431",
+      "desc": "SPACER - spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "10",
+      "x": 88.1,
+      "y": 74.1,
+      "variants": [
+        {
+          "serialNote": "RM38",
+          "partNo": "C31570",
+          "desc": "BLADE - 13-1/2\" (RM38)",
+          "reqd": "3"
+        },
+        {
+          "serialNote": "RM44, RM44GR",
+          "partNo": "C31571",
+          "desc": "BLADE - 15-1/2\" (RM44, RM44GR)",
+          "reqd": "3"
+        },
+        {
+          "serialNote": "RM48",
+          "partNo": "C31572",
+          "desc": "BLADE - 17\" (RM48)",
+          "reqd": "3"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 90.5,
+      "y": 24.3,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" - 16 x 3/4\" (use 15 ft lb. of torque)",
+      "reqd": "12"
+    },
+    {
+      "ref": "12",
+      "x": 8.8,
+      "y": 7.1,
+      "variants": [
+        {
+          "serialNote": "RM38",
+          "partNo": "C31558",
+          "desc": "SPINDLE - center (RM38)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "RM44, RM44GR",
+          "partNo": "C31559",
+          "desc": "SPINDLE - center (RM44, RM44GR)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "RM48",
+          "partNo": "C31560",
+          "desc": "SPINDLE - center (RM48)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "13",
+      "x": 75.5,
+      "y": 70.1,
+      "partNo": "C25544",
+      "desc": "SHIELD - bearing",
+      "reqd": "3"
+    },
+    {
+      "ref": "14",
+      "x": 28.9,
+      "y": 50.9,
+      "partNo": "219-20",
+      "desc": "FITTING - lubrication 1/4\" - 28 (if used)",
+      "reqd": "3"
+    },
+    {
+      "ref": "15",
+      "x": 39.1,
+      "y": 39.5,
+      "partNo": "C16516",
+      "desc": "Ring - retaining",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 76.4,
+      "y": 50.9,
+      "partNo": "C16516",
+      "desc": "Ring - retaining",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

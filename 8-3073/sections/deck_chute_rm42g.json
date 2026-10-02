@@ -1,0 +1,141 @@
+{
+  "sectionTitle": "RM42G Mower - Deck and Chute",
+  "breadcrumb": "RM42G Mower - Deck and Chute",
+  "catalogLabel": "Catalog 8-3073",
+  "modelNumbers": "Catalog 8-3073 — Ingersoll RM38, RM42G, RM44, RM44GR, RM48 & RM60 Rotary Mowers, SB38G & SB48 Snow Blowers, UB44 & UB54 Utility Blades, BG42G Bagger, MK44/MK48/MK48-2 Mulching Kits",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3073/deck_chute_rm42g.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 88.2,
+      "y": 57.7,
+      "partNo": "C36805",
+      "desc": "DECK - mower",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 37.5,
+      "y": 80.8,
+      "partNo": "C36802",
+      "desc": "CHUTE - mower",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 56.1,
+      "y": 12.9,
+      "partNo": "C30738",
+      "desc": "COVER - belt",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 36.5,
+      "y": 22.3,
+      "variants": [
+        {
+          "serialNote": "R.H. (shown)",
+          "partNo": "C30741",
+          "desc": "COVER - end, belt R.H. (shown)",
+          "reqd": "2"
+        },
+        {
+          "serialNote": "L.H.",
+          "partNo": "C36856",
+          "desc": "COVER - end, belt L.H.",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "x": 80.7,
+      "y": 3,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" x 1/2\" self-tap",
+      "reqd": "12"
+    },
+    {
+      "ref": "6",
+      "x": 6.8,
+      "y": 70.9,
+      "partNo": "C30744",
+      "desc": "DEFLECTOR - chute",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 23.7,
+      "y": 60.1,
+      "partNo": "C30766",
+      "desc": "PIN - hinge",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 15.3,
+      "y": 65.7,
+      "partNo": "C30767",
+      "desc": "SPRING - hinge",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 17.2,
+      "y": 57.5,
+      "partNo": "C30768",
+      "desc": "NUT - push",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 76.9,
+      "y": 67.4,
+      "partNo": "111-217",
+      "desc": "BOLT - 5/16\" x 5/8\" carriage",
+      "reqd": "6"
+    },
+    {
+      "ref": "11",
+      "x": 56.9,
+      "y": 62.1,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" flange lock",
+      "reqd": "6"
+    },
+    {
+      "ref": "12",
+      "x": 42.4,
+      "y": 92.6,
+      "partNo": "C33709",
+      "desc": "WHEEL - anti scalp",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 29.1,
+      "y": 96.7,
+      "partNo": "C16745",
+      "desc": "BOLT - shoulder",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 35,
+      "y": 93.4,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 60,
+      "y": 84.5,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": ""
+}

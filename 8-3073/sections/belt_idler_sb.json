@@ -1,0 +1,133 @@
+{
+  "sectionTitle": "SB38G/SB48 Snow Blower - Belt and Idler Assembly",
+  "breadcrumb": "SB38G/SB48 Snow Blower - Belt and Idler Assembly",
+  "catalogLabel": "Catalog 8-3073",
+  "modelNumbers": "Catalog 8-3073 — Ingersoll RM38, RM42G, RM44, RM44GR, RM48 & RM60 Rotary Mowers, SB38G & SB48 Snow Blowers, UB44 & UB54 Utility Blades, BG42G Bagger, MK44/MK48/MK48-2 Mulching Kits",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3073/belt_idler_sb.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 5.7,
+      "y": 20.7,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 5.4,
+      "y": 10.4,
+      "partNo": "192-21",
+      "desc": "WASHER - 3/8\" lock",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 19.8,
+      "y": 3.8,
+      "partNo": "C25370",
+      "desc": "PULLEY - idler 4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 79.1,
+      "y": 29.5,
+      "partNo": "132-318",
+      "desc": "PIN - cotter",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 63.6,
+      "y": 9.3,
+      "partNo": "C16870",
+      "desc": "SPRING - idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 65.8,
+      "y": 42.3,
+      "partNo": "C31918",
+      "desc": "ARM - idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 72.9,
+      "y": 35.1,
+      "partNo": "C16714",
+      "desc": "BUSHING - idler arm",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 47.7,
+      "y": 7.1,
+      "partNo": "C31913",
+      "desc": "FRAME - idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 82.6,
+      "y": 32.9,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\" ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 76.5,
+      "y": 15,
+      "partNo": "C26090",
+      "desc": "PULLEY - backside idler 4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 85.7,
+      "y": 13.3,
+      "partNo": "113-410",
+      "desc": "BOLT - 1/2\" x 1-1/2\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 47.5,
+      "y": 34.8,
+      "partNo": "131-1182",
+      "desc": "NUT - lock 1/2\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 55.5,
+      "y": 69.4,
+      "variants": [
+        {
+          "serialNote": "3000 series tractors",
+          "partNo": "C23949",
+          "desc": "BELT - (use with 3000 series tractors) 76-1/2\"",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "4000 series tractors",
+          "partNo": "C23539",
+          "desc": "BELT - (use with 4000 series tractors)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "14",
+      "x": 11.6,
+      "y": 7.6,
+      "partNo": "195-103",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "Ref 8 idler frame: if this snowblower is used on a 200, 400 series tractor use: C25565 - Frame, idler"
+}

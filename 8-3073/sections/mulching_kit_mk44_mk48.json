@@ -1,0 +1,178 @@
+{
+  "sectionTitle": "MK44/MK48/MK48-2 Mulching Kit",
+  "breadcrumb": "MK44/MK48/MK48-2 Mulching Kit",
+  "catalogLabel": "Catalog 8-3073",
+  "modelNumbers": "Catalog 8-3073 — Ingersoll RM38, RM42G, RM44, RM44GR, RM48 & RM60 Rotary Mowers, SB38G & SB48 Snow Blowers, UB44 & UB54 Utility Blades, BG42G Bagger, MK44/MK48/MK48-2 Mulching Kits",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3073/mulching_kit_mk44_mk48.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 21.8,
+      "y": 28,
+      "variants": [
+        {
+          "serialNote": "MK48, MK48-2",
+          "partNo": "C45202",
+          "desc": "TOOL - fixture (MK48, MK48-2) optional (shown)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "MK44",
+          "partNo": "C45828",
+          "desc": "TOOL - fixture (MK44) optional",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 44.3,
+      "y": 40.6,
+      "variants": [
+        {
+          "serialNote": "MK44",
+          "partNo": "C45821",
+          "desc": "BLADE - 15.5\" (MK44)",
+          "reqd": "3"
+        },
+        {
+          "serialNote": "MK48, MK48-2",
+          "partNo": "C45192",
+          "desc": "BLADE - 17\" (MK48, MK48-2) shown",
+          "reqd": "3"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 69.6,
+      "y": 89.9,
+      "variants": [
+        {
+          "serialNote": "MK44",
+          "partNo": "C45822",
+          "desc": "BAFFLE - R.H. (MK44)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "MK48, before PIN",
+          "partNo": "NSS",
+          "desc": "BAFFLE - R.H. (MK48) order complete MK48-2 kit",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "MK48-2, PIN and after",
+          "partNo": "C45782",
+          "desc": "BAFFLE - R.H. (MK48-2) shown",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "x": 95.9,
+      "y": 52.7,
+      "variants": [
+        {
+          "serialNote": "MK44",
+          "partNo": "C45825",
+          "desc": "BAFFLE - L.H. (MK44)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "MK48, before PIN",
+          "partNo": "NSS",
+          "desc": "BAFFLE - L.H. (MK48) order complete MK48-2 kit",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "MK48-2, PIN and after",
+          "partNo": "C45786",
+          "desc": "BAFFLE - L.H. (MK48-2) shown",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "x": 17.9,
+      "y": 94.1,
+      "partNo": "C45688",
+      "desc": "CAP - end",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 19.8,
+      "y": 55.5,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\"-18 x 3/4\"",
+      "reqd": "12"
+    },
+    {
+      "ref": "6",
+      "x": 48.2,
+      "y": 61.6,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\"-18 x 3/4\"",
+      "reqd": "12"
+    },
+    {
+      "ref": "6",
+      "x": 73,
+      "y": 64.6,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\"-18 x 3/4\"",
+      "reqd": "12"
+    },
+    {
+      "ref": "7",
+      "x": 90.4,
+      "y": 8,
+      "partNo": "C42056",
+      "desc": "SCREW - round head",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 43,
+      "y": 73.7,
+      "partNo": "131-96",
+      "desc": "NUT - 5/16\" lock",
+      "reqd": "10"
+    },
+    {
+      "ref": "8",
+      "x": 20.9,
+      "y": 69,
+      "partNo": "131-96",
+      "desc": "NUT - 5/16\" lock",
+      "reqd": "10"
+    },
+    {
+      "ref": "9",
+      "x": 85.2,
+      "y": 15.5,
+      "partNo": "131-176",
+      "desc": "NUT - 5/16\" lock",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 53.6,
+      "y": 71.5,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\" x 5/8\"",
+      "reqd": "10"
+    },
+    {
+      "ref": "11",
+      "x": 11.4,
+      "y": 59.2,
+      "partNo": "195-103",
+      "desc": "WASHER - 5/16\" x 7/8\"",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "Refs 3/4 baffles: MK48 is used on RM48 mowers before PIN 010409098; MK48-2 on PIN 010409098 and after.\nAlso listed, not shown on diagram: C16752 WASHER - shim 3/8\" x 7/8\" x .164\" (not shown) (1)."
+}

@@ -1,0 +1,287 @@
+{
+  "sectionTitle": "SB38G/SB48 Snow Blower - Auger and Drive Assembly",
+  "breadcrumb": "SB38G/SB48 Snow Blower - Auger and Drive Assembly",
+  "catalogLabel": "Catalog 8-3073",
+  "modelNumbers": "Catalog 8-3073 — Ingersoll RM38, RM42G, RM44, RM44GR, RM48 & RM60 Rotary Mowers, SB38G & SB48 Snow Blowers, UB44 & UB54 Utility Blades, BG42G Bagger, MK44/MK48/MK48-2 Mulching Kits",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3073/auger_drive_sb.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 55.8,
+      "y": 12.3,
+      "partNo": "C28277",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "1",
+      "x": 8.8,
+      "y": 33.2,
+      "partNo": "C28277",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 57.7,
+      "y": 25.9,
+      "partNo": "C28817",
+      "desc": "BEARING",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 20.6,
+      "y": 43,
+      "partNo": "C28817",
+      "desc": "BEARING",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 4.3,
+      "y": 37.2,
+      "partNo": "111-132",
+      "desc": "BOLT - 5/16\" x 3/4\" NC ZP carriage",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "3",
+      "x": 45.4,
+      "y": 29,
+      "partNo": "111-132",
+      "desc": "BOLT - 5/16\" x 3/4\" NC ZP carriage",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "4",
+      "x": 11.5,
+      "y": 30.7,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16\" ZP (early production)",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 73.9,
+      "y": 25.4,
+      "partNo": "192-20",
+      "desc": "LOCK WASHER - 5/16\" ZP (early production)",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 16.2,
+      "y": 28.6,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" NC hex ZP flange lock",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 77.8,
+      "y": 22.3,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" NC hex ZP flange lock",
+      "reqd": "4"
+    },
+    {
+      "ref": "6",
+      "x": 78.4,
+      "y": 16.9,
+      "partNo": "C28209",
+      "desc": "BRACKET - bearing",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 91.3,
+      "y": 20.1,
+      "partNo": "138-81",
+      "desc": "PIN - roll 5/32\" x 1-1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 67.6,
+      "y": 3.3,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" - 16 x 3/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 62.5,
+      "y": 5.3,
+      "partNo": "192-21",
+      "desc": "LOCK WASHER - 3/8\" (early production)",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 58.5,
+      "y": 6.9,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 18,
+      "y": 5.5,
+      "variants": [
+        {
+          "serialNote": "PIN and after (72 pitches)",
+          "partNo": "C46469",
+          "desc": "CHAIN - auger drive, 72 pitches, #40",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "before PIN (75 pitches)",
+          "partNo": "C18183",
+          "desc": "CHAIN - auger drive 75 pitches #40 roller chain",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "12",
+      "x": 33.4,
+      "y": 9.8,
+      "partNo": "C28983",
+      "desc": "LINK - offset #40",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 96.1,
+      "y": 9.8,
+      "partNo": "138-138",
+      "desc": "PIN - roll 1/4\" - 1-1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 27.9,
+      "y": 41.6,
+      "partNo": "NSS",
+      "desc": "COLLAR - locking (included with item 2)",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 44.4,
+      "y": 16.5,
+      "partNo": "NSS",
+      "desc": "COLLAR - locking (included with item 2)",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 33.3,
+      "y": 38.4,
+      "variants": [
+        {
+          "serialNote": "SB38G, before PIN",
+          "partNo": "C31907",
+          "desc": "SHAFT - drive (SB38G)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "SB48, before PIN",
+          "partNo": "C31908",
+          "desc": "SHAFT - drive (SB48)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "SB38G, PIN and after",
+          "partNo": "C46462",
+          "desc": "SHAFT - drive (SB38G)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "SB48, PIN and after",
+          "partNo": "C46463",
+          "desc": "SHAFT - drive (SB48)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "16",
+      "x": 91,
+      "y": 4.9,
+      "partNo": "C31953",
+      "desc": "PULLEY - drive shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 39.6,
+      "y": 66.3,
+      "variants": [
+        {
+          "serialNote": "SB38G",
+          "partNo": "C25205",
+          "desc": "AUGER - 38\" (SB38G)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "SB48",
+          "partNo": "C25853",
+          "desc": "AUGER - 48\" (SB48)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "18",
+      "x": 33.5,
+      "y": 90.9,
+      "partNo": "C25840",
+      "desc": "SLEEVE - bearing",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 25.6,
+      "y": 93.7,
+      "partNo": "C28971",
+      "desc": "BEARING - auger",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 17.8,
+      "y": 96.8,
+      "partNo": "C25841",
+      "desc": "SHAFT - stub",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 90.5,
+      "y": 51.6,
+      "partNo": "195-522",
+      "desc": "WASHER - spacer 3/8\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "22",
+      "x": 3.8,
+      "y": 93.2,
+      "partNo": "121-226",
+      "desc": "BOLT - 3/8\" x 1\" NC hex (use lock sealant on threads) flange lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "23",
+      "x": 28,
+      "y": 80.6,
+      "partNo": "C16109",
+      "desc": "SPROCKET - auger (is welded to auger)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "PIN breaks (before / PIN and after): SB38G - 030612026; SB48 - 030608026\nAlso listed, not shown on diagram: C28982 LINK - connecting #40 (1); C28984 LINK - roller #40 (2)."
+}

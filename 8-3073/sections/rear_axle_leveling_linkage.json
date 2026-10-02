@@ -1,0 +1,374 @@
+{
+  "sectionTitle": "RM38/RM44/RM44GR/RM48 Mower - Rear Axle and Leveling Linkage",
+  "breadcrumb": "RM38/RM44/RM44GR/RM48 Mower - Rear Axle and Leveling Linkage",
+  "catalogLabel": "Catalog 8-3073",
+  "modelNumbers": "Catalog 8-3073 — Ingersoll RM38, RM42G, RM44, RM44GR, RM48 & RM60 Rotary Mowers, SB38G & SB48 Snow Blowers, UB44 & UB54 Utility Blades, BG42G Bagger, MK44/MK48/MK48-2 Mulching Kits",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3073/rear_axle_leveling_linkage.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 7.9,
+      "y": 8.3,
+      "variants": [
+        {
+          "serialNote": "6\" wheel",
+          "partNo": "C25682",
+          "desc": "WHEEL - gauge 6\"",
+          "reqd": "2"
+        },
+        {
+          "serialNote": "5\" wheel",
+          "partNo": "C31498",
+          "desc": "WHEEL - gauge 5\"",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 21.1,
+      "y": 4.3,
+      "partNo": "C31499",
+      "desc": "BOLT - shoulder",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 67.4,
+      "y": 93.9,
+      "partNo": "195-541",
+      "desc": "WASHER - .656\" x 1.312\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "3",
+      "x": 15.9,
+      "y": 7.5,
+      "partNo": "195-541",
+      "desc": "WASHER - .656\" x 1.312\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 4,
+      "y": 16.6,
+      "partNo": "131-930",
+      "desc": "NUT - 1/2\" - 13 flange lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 65.9,
+      "y": 51.8,
+      "variants": [
+        {
+          "serialNote": "RM38",
+          "partNo": "C31576",
+          "desc": "ROD - level adjust (RM38)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "RM44, RM44GR, RM48",
+          "partNo": "C31577",
+          "desc": "ROD - level adjust (RM44) (RM44GR) (RM48)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "x": 36.7,
+      "y": 10.1,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "8"
+    },
+    {
+      "ref": "6",
+      "x": 15.4,
+      "y": 32.1,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "8"
+    },
+    {
+      "ref": "7",
+      "x": 81.2,
+      "y": 57.9,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 76.3,
+      "y": 94.5,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 70.8,
+      "y": 91.5,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 84.7,
+      "y": 62.5,
+      "variants": [
+        {
+          "serialNote": "before PIN",
+          "partNo": "C31580",
+          "desc": "STRAP - connector (for RM44GR bend if required)",
+          "reqd": "2"
+        },
+        {
+          "serialNote": "PIN and after",
+          "partNo": "C44655",
+          "desc": "STRAP - connector",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 76.5,
+      "y": 75.5,
+      "variants": [
+        {
+          "serialNote": "3/8\" clevis pin (1)",
+          "partNo": "141-54",
+          "desc": "PIN - clevis 3/8\" x 1\"",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "1/2\" clevis pin (2)",
+          "partNo": "C10821",
+          "desc": "PIN - clevis 1/2\" x 7/8\"",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "10",
+      "x": 95.4,
+      "y": 72.3,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 25.1,
+      "y": 22.6,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 96.3,
+      "y": 67.3,
+      "partNo": "132-320",
+      "desc": "PIN - cotter 3/32\" x 3/4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 54,
+      "y": 9.3,
+      "variants": [
+        {
+          "serialNote": "RM38",
+          "partNo": "C31546",
+          "desc": "AXLE - mower (RM38)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "RM44",
+          "partNo": "C31547",
+          "desc": "AXLE - mower (RM44)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "RM48",
+          "partNo": "C31548",
+          "desc": "AXLE - mower (RM48)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "RM44GR",
+          "partNo": "C44791",
+          "desc": "AXLE - mower (RM44GR)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "13",
+      "x": 78.2,
+      "y": 10.5,
+      "partNo": "C20005",
+      "desc": "PIN - locking",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 64,
+      "y": 13.2,
+      "partNo": "C10482",
+      "desc": "SPRING - compression",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 69.4,
+      "y": 8,
+      "partNo": "138-96",
+      "desc": "PIN - roll 3/16\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 17.7,
+      "y": 55.1,
+      "variants": [
+        {
+          "serialNote": "carriage bolt",
+          "partNo": "111-340",
+          "desc": "BOLT - 3/8\" - 16 x 3/4\" carriage",
+          "reqd": "UAR"
+        },
+        {
+          "serialNote": "RM44GR",
+          "partNo": "121-228",
+          "desc": "BOLT - 3/8\" - 16 x 3/4\" flange lock (RM44GR)",
+          "reqd": "2"
+        }
+      ]
+    },
+    {
+      "ref": "17",
+      "x": 58.5,
+      "y": 35.1,
+      "variants": [
+        {
+          "serialNote": "RM38, RM44, RM48",
+          "partNo": "C15935",
+          "desc": "BRACKET - height adjust (RM38, RM44, RM48) shown",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "RM44GR",
+          "partNo": "C34734",
+          "desc": "BRACKET - height adjust (RM44GR)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "18",
+      "x": 58.2,
+      "y": 39.3,
+      "partNo": "111-132",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 58.3,
+      "y": 28.7,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 94.7,
+      "y": 84.1,
+      "partNo": "C37327",
+      "desc": "BELLCRANK - leveling (RM38, RM44, RM48)",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 83.7,
+      "y": 92.3,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 39.6,
+      "y": 11.7,
+      "partNo": "C31579",
+      "desc": "BRACKET - channel",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 43.4,
+      "y": 9.2,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" - 16 x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 28.8,
+      "y": 19.7,
+      "partNo": "C14768",
+      "desc": "SPACER - sleeve",
+      "reqd": "1"
+    },
+    {
+      "ref": "25",
+      "x": 91,
+      "y": 58.3,
+      "partNo": "C28105",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 22.4,
+      "y": 26.6,
+      "partNo": "131-1352",
+      "desc": "NUT - 3/8\" - 16 flange head",
+      "reqd": "1"
+    },
+    {
+      "ref": "27",
+      "x": 56.6,
+      "y": 94.2,
+      "variants": [
+        {
+          "serialNote": "RM44GR, before PIN",
+          "partNo": "C34735",
+          "desc": "BELLCRANK - leveling (RM44GR)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "PIN and after",
+          "partNo": "C44667",
+          "desc": "BELLCRANK - leveling",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "28",
+      "x": 56.4,
+      "y": 83.7,
+      "partNo": "219-403",
+      "desc": "Fitting - lubrication",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "PIN breaks (before / PIN and after): RM38 - 010308055; RM44 - 010307924; RM44GR - 010308167; RM48 - 010307021"
+}

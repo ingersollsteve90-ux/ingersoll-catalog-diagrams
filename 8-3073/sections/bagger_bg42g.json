@@ -1,0 +1,242 @@
+{
+  "sectionTitle": "BG42G Bagger - Bagger Assembly",
+  "breadcrumb": "BG42G Bagger - Bagger Assembly",
+  "catalogLabel": "Catalog 8-3073",
+  "modelNumbers": "Catalog 8-3073 — Ingersoll RM38, RM42G, RM44, RM44GR, RM48 & RM60 Rotary Mowers, SB38G & SB48 Snow Blowers, UB44 & UB54 Utility Blades, BG42G Bagger, MK44/MK48/MK48-2 Mulching Kits",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3073/bagger_bg42g.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 74.5,
+      "y": 92.4,
+      "partNo": "C34783",
+      "desc": "FRAME - mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 80.1,
+      "y": 44.9,
+      "partNo": "C28436",
+      "desc": "BRACKET - retaining, hopper",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 74,
+      "y": 46.1,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" x 3/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 93.8,
+      "y": 52.8,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" flange lock",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "4",
+      "x": 19.5,
+      "y": 76.3,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" flange lock",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "5",
+      "x": 90.1,
+      "y": 47.9,
+      "partNo": "C28434",
+      "desc": "FRAME - support",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 64.6,
+      "y": 2.5,
+      "partNo": "C32101",
+      "desc": "COVER - bagger",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 92.8,
+      "y": 20.6,
+      "partNo": "C29871",
+      "desc": "HINGE - cover",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 93.9,
+      "y": 17.2,
+      "partNo": "151-88",
+      "desc": "RIVET - 3/16\" x 5/16\"",
+      "reqd": "17"
+    },
+    {
+      "ref": "9",
+      "x": 73.5,
+      "y": 23.1,
+      "partNo": "C24610",
+      "desc": "SEAL - chute",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 69.3,
+      "y": 66.5,
+      "partNo": "C25114",
+      "desc": "SPRING WASHER - Belleville",
+      "reqd": "4"
+    },
+    {
+      "ref": "11",
+      "x": 73.2,
+      "y": 64.1,
+      "partNo": "113-103",
+      "desc": "BOLT - 5/16\" - 18 x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 65.7,
+      "y": 68,
+      "partNo": "195-521",
+      "desc": "WASHER - 5/16\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 58.7,
+      "y": 68.8,
+      "partNo": "131-176",
+      "desc": "NUT - 5/16\" - 18 lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 64.5,
+      "y": 44.3,
+      "partNo": "C28438",
+      "desc": "BAG - grass",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 64.5,
+      "y": 41.1,
+      "partNo": "C28439",
+      "desc": "ROD - bag, support",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 34.8,
+      "y": 36.8,
+      "partNo": "C28440",
+      "desc": "TUBE - retaining",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 7.8,
+      "y": 81,
+      "partNo": "C36792",
+      "desc": "GUARD - lower chute",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 40,
+      "y": 68.5,
+      "partNo": "C30773",
+      "desc": "CHUTE - middle",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 45.8,
+      "y": 75.4,
+      "partNo": "C34771",
+      "desc": "CHUTE - lower",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 17.7,
+      "y": 47.1,
+      "partNo": "C34781",
+      "desc": "CHUTE - upper",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 21.5,
+      "y": 96.7,
+      "partNo": "C33709",
+      "desc": "WHEEL - anti scalp",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 3.3,
+      "y": 94.5,
+      "partNo": "C16745",
+      "desc": "BOLT - shoulder",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 6.5,
+      "y": 92.7,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 83.5,
+      "y": 94.7,
+      "partNo": "113-417",
+      "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "25",
+      "x": 31.2,
+      "y": 84.9,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 41.7,
+      "y": 31.1,
+      "partNo": "C32400",
+      "desc": "GUARD - bag",
+      "reqd": "2"
+    },
+    {
+      "ref": "27",
+      "x": 26.1,
+      "y": 78.7,
+      "partNo": "C36796",
+      "desc": "DEFLECTOR - chute",
+      "reqd": "1"
+    },
+    {
+      "ref": "28",
+      "x": 4.5,
+      "y": 87.1,
+      "partNo": "111-132",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+      "reqd": "7"
+    }
+  ],
+  "footnotes": ""
+}

@@ -1,0 +1,320 @@
+{
+  "sectionTitle": "RM44GR Mower - Deck, Belts and Backside Idler Pulley",
+  "breadcrumb": "RM44GR Mower - Deck, Belts and Backside Idler Pulley",
+  "catalogLabel": "Catalog 8-3073",
+  "modelNumbers": "Catalog 8-3073 — Ingersoll RM38, RM42G, RM44, RM44GR, RM48 & RM60 Rotary Mowers, SB38G & SB48 Snow Blowers, UB44 & UB54 Utility Blades, BG42G Bagger, MK44/MK48/MK48-2 Mulching Kits",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3073/deck_belts_idler_rm44gr.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 30.7,
+      "y": 16.6,
+      "variants": [
+        {
+          "serialNote": "L.H.",
+          "partNo": "C34718",
+          "desc": "COVER - deck belt L.H.",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "R.H. (shown)",
+          "partNo": "C34719",
+          "desc": "COVER - deck belt R.H. (shown)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 80.2,
+      "y": 86.3,
+      "partNo": "C28105",
+      "desc": "RING - retaining",
+      "reqd": "4"
+    },
+    {
+      "ref": "3",
+      "x": 84.9,
+      "y": 84.8,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "3",
+      "x": 32.3,
+      "y": 81.1,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 48,
+      "y": 2.7,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" x 1/2\" self-tapping",
+      "reqd": "8"
+    },
+    {
+      "ref": "5",
+      "x": 95.6,
+      "y": 4.6,
+      "variants": [
+        {
+          "serialNote": "3010-3020 tractors",
+          "partNo": "C23358",
+          "desc": "BELT - drive (use with tractors model 3010, 3012, 3014, 3016, 3018 and 3020)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "4014-4020 tractors",
+          "partNo": "C23808",
+          "desc": "BELT - drive (use with tractors model 4014, 4016, 4018 and 4020)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "x": 73.5,
+      "y": 87.4,
+      "partNo": "C26958",
+      "desc": "LINK - lift (use with 3000 series tractors)",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 91.2,
+      "y": 94,
+      "partNo": "C34739",
+      "desc": "LINK - lift (use with 4000 series tractors)",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 54.7,
+      "y": 25.3,
+      "partNo": "C23949",
+      "desc": "BELT - mower deck",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 23.3,
+      "y": 44.5,
+      "partNo": "C31606",
+      "desc": "SPRING - tension",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 11,
+      "y": 71.9,
+      "partNo": "C31500",
+      "desc": "ROLLER - anti-scalp, rear",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 17.3,
+      "y": 67.8,
+      "partNo": "C31501",
+      "desc": "SPACER - sleeve",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 22.1,
+      "y": 65.5,
+      "partNo": "111-375",
+      "desc": "BOLT - 3/8\" - 16 x 3\" carriage",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 3.5,
+      "y": 72.1,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "3"
+    },
+    {
+      "ref": "13",
+      "x": 53.5,
+      "y": 72.3,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "3"
+    },
+    {
+      "ref": "14",
+      "x": 83.7,
+      "y": 35.8,
+      "partNo": "C44663",
+      "desc": "DECK - mower",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 18.8,
+      "y": 47.6,
+      "partNo": "C31608",
+      "desc": "PLATE - idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 4.9,
+      "y": 32.2,
+      "partNo": "C12251",
+      "desc": "PULLEY - backside idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 6.5,
+      "y": 52.5,
+      "partNo": "111-366",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/4\" carriage",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 17.8,
+      "y": 39.4,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 17.2,
+      "y": 36.9,
+      "partNo": "131-1352",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 9.9,
+      "y": 27.6,
+      "partNo": "131-1352",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 9.7,
+      "y": 56.3,
+      "partNo": "111-371",
+      "desc": "BOLT - 3/8\" 16 x 1\" carriage",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 18.2,
+      "y": 50.4,
+      "partNo": "C14768",
+      "desc": "SPACER - sleeve",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 18.2,
+      "y": 53.5,
+      "partNo": "195-105",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 49.5,
+      "y": 34.3,
+      "partNo": "C25409",
+      "desc": "DEFLECTOR - chute",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 89.9,
+      "y": 71.5,
+      "partNo": "C28977",
+      "desc": "ROLLER - 7\", front",
+      "reqd": "1"
+    },
+    {
+      "ref": "25",
+      "x": 74.9,
+      "y": 76.6,
+      "partNo": "C26405",
+      "desc": "SHAFT - roller",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 63.5,
+      "y": 72.7,
+      "partNo": "138-106",
+      "desc": "PIN - roll 3/16\" x 2-1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "27",
+      "x": 92.7,
+      "y": 89.2,
+      "partNo": "C10821",
+      "desc": "PIN - clevis 1/2\" x 1\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "28",
+      "x": 65.8,
+      "y": 80.2,
+      "partNo": "195-541",
+      "desc": "WASHER - 5/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "29",
+      "x": 39.8,
+      "y": 80.7,
+      "partNo": "C33709",
+      "desc": "WHEEL - anti-scalp, front",
+      "reqd": "2"
+    },
+    {
+      "ref": "30",
+      "x": 24.3,
+      "y": 82.9,
+      "partNo": "C16745",
+      "desc": "BOLT - shoulder",
+      "reqd": "2"
+    },
+    {
+      "ref": "31",
+      "x": 4.9,
+      "y": 64.7,
+      "partNo": "C30649",
+      "desc": "WASHER - spacer",
+      "reqd": "1"
+    },
+    {
+      "ref": "32",
+      "x": 32.7,
+      "y": 53.4,
+      "partNo": "111-101",
+      "desc": "BOLT - 1/4\" - 20 x 5/8\" carriage",
+      "reqd": "5"
+    },
+    {
+      "ref": "33",
+      "x": 35.3,
+      "y": 37.1,
+      "partNo": "131-934",
+      "desc": "NUT - 1/4\" - 20 flange",
+      "reqd": "5"
+    }
+  ],
+  "footnotes": "Ref 14 deck: for decks PIN 057105 thru 057129 also order 2 of C31580 straps\nRef 23 chute deflector: if interference exists between chute and motor tubes on 3000 series tractors, order C42827 tube kit."
+}
