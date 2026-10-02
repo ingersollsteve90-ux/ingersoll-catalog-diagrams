@@ -1,0 +1,58 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog 8-2711",
+ "modelNumbers": "Catalog 8-2711 — Ingersoll L47, M47, N47 and RM44YR Rotary Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2711/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 80.87,
+   "y": 11.44,
+   "partNo": "C27090",
+   "desc": "DECAL - drive belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 49.58,
+   "y": 4.91,
+   "partNo": "C12519",
+   "desc": "DECAL - \"No Step\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 42.43,
+   "y": 44.42,
+   "partNo": "321-6210",
+   "desc": "DECAL - cutting height",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 32.3,
+   "y": 13.8,
+   "partNo": "C31087",
+   "desc": "DECAL - \"Spinning Blade\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 25.05,
+   "y": 51.96,
+   "partNo": "NSS",
+   "desc": "DECAL - \"Flying Debris\" (use C31086)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 25.45,
+   "y": 87.42,
+   "partNo": "C31086",
+   "desc": "DECAL - \"Warning\" (RM44YR)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 5 \"Flying Debris\" decal is NSS — use C31086.\nRef 6 C31086 \"Warning\" decal is RM44YR."
+}
