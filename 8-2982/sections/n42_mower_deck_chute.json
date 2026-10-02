@@ -1,0 +1,197 @@
+{
+  "sectionTitle": "N42 Rotary Mower - Mower Deck and Chute",
+  "breadcrumb": "N42 Rotary Mower - Mower Deck and Chute",
+  "catalogLabel": "Catalog 8-2982",
+  "modelNumbers": "Catalog 8-2982 — N42, N43, P42, RM42 Rotary Mowers; R82, S82, T82, SB38Y Snowcasters; L52, M52, UB38 Utility Blade; B97, B96SA, BG42 Baggers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2982/n42_mower_deck_chute.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 81.79,
+      "y": 61.88,
+      "partNo": "C29445",
+      "desc": "DECK - mower 42\" (1065 mm)",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 70.28,
+      "y": 79.34,
+      "partNo": "C29449",
+      "desc": "BAFFLE - blade",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 10.75,
+      "y": 83.7,
+      "partNo": "C29450",
+      "desc": "DEFLECTOR - chute",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 9.62,
+      "y": 68.01,
+      "partNo": "C29421",
+      "desc": "ROD - hinge",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 8.3,
+      "y": 54.27,
+      "partNo": "C29424",
+      "desc": "RING - \"E\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 17.92,
+      "y": 52.97,
+      "partNo": "C29422",
+      "desc": "SPRING - hinge",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 55.57,
+      "y": 92.8,
+      "partNo": "113-118",
+      "desc": "BOLT - 5/16\" x 5/8\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "8",
+      "x": 44.91,
+      "y": 79.99,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "9",
+      "x": 54.72,
+      "y": 75.25,
+      "partNo": "129-102",
+      "desc": "NUT-5/16\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 55.75,
+      "y": 10.73,
+      "variants": [
+        {
+          "serialNote": "L.H.",
+          "partNo": "C29468",
+          "desc": "COVER - spindle L.H",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "R.H. (shown)",
+          "partNo": "C29469",
+          "desc": "COVER - spindle R.H. (shown)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 38.68,
+      "y": 8.96,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" - 20 self-tapping",
+      "reqd": "10"
+    },
+    {
+      "ref": "12",
+      "x": 18.58,
+      "y": 35.89,
+      "partNo": "C15560",
+      "desc": "BRACKET - axle pivot",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 13.3,
+      "y": 43.31,
+      "partNo": "111-371",
+      "desc": "BOLT - 3/8\" x 1\" carriage",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 22.55,
+      "y": 36.44,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 26.04,
+      "y": 34.87,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 65.47,
+      "y": 10.26,
+      "partNo": "C10821",
+      "desc": "PIN - clevis",
+      "reqd": "4"
+    },
+    {
+      "ref": "16",
+      "x": 87.36,
+      "y": 6.45,
+      "partNo": "C10821",
+      "desc": "PIN - clevis",
+      "reqd": "4"
+    },
+    {
+      "ref": "17",
+      "x": 79.62,
+      "y": 13.23,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "17",
+      "x": 64.15,
+      "y": 14.44,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "18",
+      "x": 72.83,
+      "y": 5.34,
+      "partNo": "C10898",
+      "desc": "PIN - safety",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 63.77,
+      "y": 22.52,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 68.77,
+      "y": 7.94,
+      "partNo": "C27096",
+      "desc": "LINK - lift",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "Ref 10: C29468 COVER - spindle L.H. / C29469 COVER - spindle R.H. (shown).\n* See Cover Kit for N42 Mower if this mower is used on tractor model 116 prior to PIN 14066900.\nAlso listed, not shown on diagram: C30786 KIT - discharge baffle (1)."
+}

@@ -1,0 +1,114 @@
+{
+  "sectionTitle": "N42 Rotary Mower - Spindle Assembly",
+  "breadcrumb": "N42 Rotary Mower - Spindle Assembly",
+  "catalogLabel": "Catalog 8-2982",
+  "modelNumbers": "Catalog 8-2982 — N42, N43, P42, RM42 Rotary Mowers; R82, S82, T82, SB38Y Snowcasters; L52, M52, UB38 Utility Blade; B97, B96SA, BG42 Baggers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2982/n42_spindle_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 45.28,
+      "y": 47.82,
+      "partNo": "C30729",
+      "desc": "HOUSING - spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "2",
+      "x": 46.89,
+      "y": 34.09,
+      "partNo": "C28971",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "2",
+      "x": 58.3,
+      "y": 60.37,
+      "partNo": "C28971",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "3",
+      "x": 47.83,
+      "y": 39.63,
+      "partNo": "C29453",
+      "desc": "SPACER - bearing",
+      "reqd": "3"
+    },
+    {
+      "ref": "4",
+      "x": 58.58,
+      "y": 66.09,
+      "partNo": "C25542",
+      "desc": "ADAPTOR - spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "5",
+      "x": 46.89,
+      "y": 80.01,
+      "partNo": "C31452",
+      "desc": "WASHER",
+      "reqd": "3"
+    },
+    {
+      "ref": "6",
+      "x": 47.45,
+      "y": 85.92,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "7",
+      "x": 48.4,
+      "y": 93.37,
+      "partNo": "113-233",
+      "desc": "BOLT - 3/8\" - 16 x 1-3/4\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "8",
+      "x": 60.57,
+      "y": 16.36,
+      "partNo": "C30122",
+      "desc": "SPINDLE - outboard",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 58.21,
+      "y": 28.45,
+      "partNo": "C29431",
+      "desc": "SPACER - spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "10",
+      "x": 62.45,
+      "y": 73.28,
+      "partNo": "C29464",
+      "desc": "BLADE - 14-1/2\" (370 mm)",
+      "reqd": "3"
+    },
+    {
+      "ref": "11",
+      "x": 64.25,
+      "y": 37.27,
+      "partNo": "C29691",
+      "desc": "SCREW - 5/16\" x 1\" self-tapping",
+      "reqd": "12"
+    },
+    {
+      "ref": "12",
+      "x": 35.75,
+      "y": 16.54,
+      "partNo": "C29466",
+      "desc": "SPINDLE - center",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "* Ref 1 (C30729 housing): if original housing had threaded mounting holes also use (4) of 113-207 bolt and (4) of 131-938 lock nut."
+}

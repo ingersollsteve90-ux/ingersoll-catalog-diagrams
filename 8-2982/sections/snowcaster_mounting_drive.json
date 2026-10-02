@@ -1,0 +1,370 @@
+{
+  "sectionTitle": "R82, S82, T82, SB38Y Snowcaster - Mounting Components and Drive Assembly",
+  "breadcrumb": "R82, S82, T82, SB38Y Snowcaster - Mounting Components and Drive Assembly",
+  "catalogLabel": "Catalog 8-2982",
+  "modelNumbers": "Catalog 8-2982 — N42, N43, P42, RM42 Rotary Mowers; R82, S82, T82, SB38Y Snowcasters; L52, M52, UB38 Utility Blade; B97, B96SA, BG42 Baggers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2982/snowcaster_mounting_drive.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 64.82,
+      "y": 63.58,
+      "partNo": "C28277",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "1",
+      "x": 20.26,
+      "y": 83.96,
+      "partNo": "C28277",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 67.42,
+      "y": 75.66,
+      "partNo": "C28817",
+      "desc": "BEARING - 3/4\" (includes locking collar)",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 31.94,
+      "y": 92.26,
+      "partNo": "C28817",
+      "desc": "BEARING - 3/4\" (includes locking collar)",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 55.65,
+      "y": 79.25,
+      "partNo": "111-132",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "3",
+      "x": 10.63,
+      "y": 87.45,
+      "partNo": "111-132",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "4",
+      "x": 83.07,
+      "y": 75.09,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" (early production)",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 22.49,
+      "y": 81.79,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" (early production)",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 27.4,
+      "y": 79.72,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" hex flange",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 86.78,
+      "y": 71.98,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" hex flange",
+      "reqd": "4"
+    },
+    {
+      "ref": "6",
+      "x": 18.97,
+      "y": 95.85,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 41.29,
+      "y": 22.26,
+      "partNo": "C19553",
+      "desc": "SPRING - extension",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 21.01,
+      "y": 23.02,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "8",
+      "x": 39.44,
+      "y": 8.96,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "9",
+      "x": 17.58,
+      "y": 20.85,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16",
+      "reqd": "3"
+    },
+    {
+      "ref": "9",
+      "x": 39.25,
+      "y": 5.94,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" - 16",
+      "reqd": "3"
+    },
+    {
+      "ref": "10",
+      "x": 94.56,
+      "y": 63.87,
+      "partNo": "138-2040",
+      "desc": "PIN - spiral 1/4\" x 1-1/2\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 66.77,
+      "y": 36.23,
+      "partNo": "C10482",
+      "desc": "SPRING - compression",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 71.12,
+      "y": 31.79,
+      "partNo": "C15278",
+      "desc": "PIN - latch",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 62.69,
+      "y": 26.7,
+      "partNo": "138-2073",
+      "desc": "PIN - spiral 3/6\" x 1-1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 77.23,
+      "y": 5.94,
+      "partNo": "C29680",
+      "desc": "BELT - drive",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 56.95,
+      "y": 3.87,
+      "partNo": "C15329",
+      "desc": "PULLEY - \"V\" idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 49.44,
+      "y": 22.26,
+      "partNo": "C15329",
+      "desc": "PULLEY - \"V\" idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 57.41,
+      "y": 26.7,
+      "partNo": "113-233",
+      "desc": "BOLT - 3/8\" - 16 x 1-3/4\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "16",
+      "x": 39.16,
+      "y": 18.68,
+      "partNo": "113-233",
+      "desc": "BOLT - 3/8\" - 16 x 1-3/4\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "17",
+      "x": 42.87,
+      "y": 13.4,
+      "partNo": "C15343",
+      "desc": "PULLEY - idler 4-1/2",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 54.72,
+      "y": 67.74,
+      "partNo": "C29024",
+      "desc": "COLLAR - locking (included with bearing)",
+      "reqd": "2"
+    },
+    {
+      "ref": "18",
+      "x": 39.07,
+      "y": 90.94,
+      "partNo": "C29024",
+      "desc": "COLLAR - locking (included with bearing)",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 44.16,
+      "y": 88.11,
+      "partNo": "C19733",
+      "desc": "SHAFT - drive",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 89.46,
+      "y": 60.85,
+      "partNo": "C19731",
+      "desc": "PULLEY - drive shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 92.33,
+      "y": 29.34,
+      "partNo": "C19731",
+      "desc": "PULLEY - drive shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 42.4,
+      "y": 65.66,
+      "partNo": "C18183",
+      "desc": "CHAIN - auger drive #40",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 38.14,
+      "y": 68.3,
+      "partNo": "C28983",
+      "desc": "LINK - offset #40",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 82.33,
+      "y": 20.19,
+      "partNo": "C23535",
+      "desc": "PULLEY - idler 2-1/2\" (64 mm)",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 29.34,
+      "y": 42.55,
+      "partNo": "C29681",
+      "desc": "BRACKET - mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": "25",
+      "x": 21.75,
+      "y": 14.53,
+      "partNo": "C15296",
+      "desc": "ARM - idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 56.58,
+      "y": 42.92,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "26",
+      "x": 74.55,
+      "y": 36.42,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "27",
+      "x": 70.84,
+      "y": 45.47,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "27",
+      "x": 52.5,
+      "y": 46.51,
+      "partNo": "195-533",
+      "desc": "WASHER - 1/2\"",
+      "reqd": "3"
+    },
+    {
+      "ref": "28",
+      "x": 40.64,
+      "y": 50.47,
+      "partNo": "C29693",
+      "desc": "PIN - clevis 1/2\" x 1-3/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "29",
+      "x": 17.39,
+      "y": 40.19,
+      "partNo": "C29687",
+      "desc": "SUPPORT - chute crank",
+      "reqd": "1"
+    },
+    {
+      "ref": "30",
+      "x": 26.93,
+      "y": 23.58,
+      "partNo": "113-207",
+      "desc": "BOLT - 3/8\" - 16 x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "31",
+      "x": 7.57,
+      "y": 42.45,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" - 16 flange lock",
+      "reqd": "1"
+    },
+    {
+      "ref": "32",
+      "x": 33.7,
+      "y": 80.47,
+      "partNo": "131-911",
+      "desc": "NUT - 5/16\" - 18 flange lock (S82, T82, SB38Y)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "Ref 22: C28983 LINK - offset #40.\nAlso listed, not shown on diagram: C28982 LINK - connecting #40 (1)."
+}

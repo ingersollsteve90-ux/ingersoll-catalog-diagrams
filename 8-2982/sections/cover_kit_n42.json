@@ -1,0 +1,45 @@
+{
+  "sectionTitle": "N42/N43 Rotary Mowers - Cover Kit for N42 Mower (C29671)",
+  "breadcrumb": "N42/N43 Rotary Mowers - Cover Kit for N42 Mower (C29671)",
+  "catalogLabel": "Catalog 8-2982",
+  "modelNumbers": "Catalog 8-2982 — N42, N43, P42, RM42 Rotary Mowers; R82, S82, T82, SB38Y Snowcasters; L52, M52, UB38 Utility Blade; B97, B96SA, BG42 Baggers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2982/cover_kit_n42.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 87.84,
+      "y": 85.97,
+      "variants": [
+        {
+          "serialNote": "L.H.",
+          "partNo": "C29669",
+          "desc": "COVER EXTENSION - L.H",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "R.H. (shown)",
+          "partNo": "C29670",
+          "desc": "COVER EXTENSION - R.H. (shown)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 72.55,
+      "y": 61.23,
+      "partNo": "187-1036",
+      "desc": "BOLT - 1/4\" - 20 self-tapping",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 60.47,
+      "y": 7.24,
+      "partNo": "C26092",
+      "desc": "PAD - foot rest",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "(If this mower is used on tractor model 116 prior to PIN 14066900)\nKit: C29671 KIT - mower cover (1).\nRef 1: C29669 COVER EXTENSION - L.H. / C29670 R.H. (shown)."
+}

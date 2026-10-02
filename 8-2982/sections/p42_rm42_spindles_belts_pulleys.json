@@ -1,0 +1,285 @@
+{
+  "sectionTitle": "P42 and RM42 Rotary Mower - Spindles, Belts and Pulleys",
+  "breadcrumb": "P42 and RM42 Rotary Mower - Spindles, Belts and Pulleys",
+  "catalogLabel": "Catalog 8-2982",
+  "modelNumbers": "Catalog 8-2982 — N42, N43, P42, RM42 Rotary Mowers; R82, S82, T82, SB38Y Snowcasters; L52, M52, UB38 Utility Blade; B97, B96SA, BG42 Baggers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2982/p42_rm42_spindles_belts_pulleys.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 73.76,
+      "y": 64.15,
+      "partNo": "C30729",
+      "desc": "HOUSING - spindle",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 59.12,
+      "y": 69.25,
+      "partNo": "C28971",
+      "desc": "BEARING - spindle",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 71.37,
+      "y": 43.02,
+      "partNo": "C28971",
+      "desc": "BEARING - spindle",
+      "reqd": "4"
+    },
+    {
+      "ref": "3",
+      "x": 59.86,
+      "y": 48.68,
+      "partNo": "C29453",
+      "desc": "SPACER - bearing",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 72.01,
+      "y": 74.62,
+      "partNo": "C25543",
+      "desc": "SHIELD - bearing",
+      "reqd": "2"
+    },
+    {
+      "ref": "5",
+      "x": 70.08,
+      "y": 79.06,
+      "partNo": "NSS",
+      "desc": "SPINDLE - mower (use C32421 and (2) of 126-13 key)",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 70.63,
+      "y": 71.7,
+      "partNo": "C25541",
+      "desc": "SPACER - shield",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 72.57,
+      "y": 38.96,
+      "partNo": "C30732",
+      "desc": "SPROCKET - timing",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 58.2,
+      "y": 35.19,
+      "partNo": "C30733",
+      "desc": "RETAINER - belt, timing",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 60.32,
+      "y": 32.17,
+      "partNo": "C30734",
+      "desc": "SPACER - pulley and sprocket",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 57.0,
+      "y": 80.75,
+      "variants": [
+        {
+          "serialNote": "3/16\" x 5/8\" key",
+          "partNo": "126-13",
+          "desc": "KEY - woodruff 3/16\" x 5/8",
+          "reqd": "4"
+        },
+        {
+          "serialNote": "No. 11, 3/16\" x 7/8\" key",
+          "partNo": "126-19",
+          "desc": "KEY - woodruff No. 11 3/16\" x 7/8\"",
+          "reqd": "4"
+        }
+      ]
+    },
+    {
+      "ref": "11",
+      "x": 59.95,
+      "y": 24.91,
+      "partNo": "131-1331",
+      "desc": "NUT - 3/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "12",
+      "x": 57.46,
+      "y": 28.4,
+      "partNo": "C23452",
+      "desc": "PULLEY - drive",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 72.2,
+      "y": 61.13,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "14",
+      "x": 73.12,
+      "y": 69.62,
+      "partNo": "129-103",
+      "desc": "NUT-3/8\"",
+      "reqd": "8"
+    },
+    {
+      "ref": "15",
+      "x": 47.88,
+      "y": 38.4,
+      "partNo": "C30736",
+      "desc": "BELT - timing",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 50.28,
+      "y": 92.17,
+      "partNo": "C33275",
+      "desc": "BLADE - 21-3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 62.99,
+      "y": 96.04,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" (install with lock tite)",
+      "reqd": "4"
+    },
+    {
+      "ref": "18",
+      "x": 71.74,
+      "y": 91.42,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "19",
+      "x": 77.82,
+      "y": 14.25,
+      "partNo": "C31216",
+      "desc": "BELT - drive 101.87\" (was 99-1/2\")",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 30.93,
+      "y": 28.68,
+      "partNo": "C26090",
+      "desc": "PULLEY - backside idler",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 91.27,
+      "y": 43.58,
+      "partNo": "C26090",
+      "desc": "PULLEY - backside idler",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 27.62,
+      "y": 48.02,
+      "partNo": "113-410",
+      "desc": "BOLT - 1/2\" - 13 x 1-1/2\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 56.36,
+      "y": 56.6,
+      "partNo": "113-410",
+      "desc": "BOLT - 1/2\" - 13 x 1-1/2\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "22",
+      "x": 22.0,
+      "y": 21.42,
+      "partNo": "131-1182",
+      "desc": "NUT - 1/2\" lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "22",
+      "x": 84.27,
+      "y": 32.83,
+      "partNo": "131-1182",
+      "desc": "NUT - 1/2\" lock",
+      "reqd": "2"
+    },
+    {
+      "ref": "23",
+      "x": 30.56,
+      "y": 39.91,
+      "partNo": "C30746",
+      "desc": "ARM - idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 13.89,
+      "y": 41.04,
+      "partNo": "C16714",
+      "desc": "BUSHING",
+      "reqd": "1"
+    },
+    {
+      "ref": "25",
+      "x": 11.04,
+      "y": 38.21,
+      "partNo": "195-533",
+      "desc": "WASHER",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 14.35,
+      "y": 31.23,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "27",
+      "x": 6.71,
+      "y": 29.15,
+      "partNo": "C24321",
+      "desc": "SPRING - tension",
+      "reqd": "1"
+    },
+    {
+      "ref": "28",
+      "x": 73.4,
+      "y": 67.17,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "8"
+    },
+    {
+      "ref": "29",
+      "x": 61.05,
+      "y": 43.87,
+      "partNo": "C28972",
+      "desc": "WASHER",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "Ref 5: NSS - use C32421 and (2) of 126-13 key.\nRef 10: 126-13 KEY - woodruff 3/16\" x 5/8 / 126-19 KEY - woodruff No. 11 3/16\" x 7/8\".\nNOTE: Belt is correctly adjusted when you get 3/8\" to 1/2\" deflection at center of belt with 30 lb. pull."
+}

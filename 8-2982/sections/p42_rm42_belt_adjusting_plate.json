@@ -1,0 +1,82 @@
+{
+  "sectionTitle": "P42 and RM42 Rotary Mower - Belt Adjusting Plate",
+  "breadcrumb": "P42 and RM42 Rotary Mower - Belt Adjusting Plate",
+  "catalogLabel": "Catalog 8-2982",
+  "modelNumbers": "Catalog 8-2982 — N42, N43, P42, RM42 Rotary Mowers; R82, S82, T82, SB38Y Snowcasters; L52, M52, UB38 Utility Blade; B97, B96SA, BG42 Baggers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2982/p42_rm42_belt_adjusting_plate.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 26.42,
+      "y": 35.89,
+      "partNo": "C30735",
+      "desc": "PLATE - timing belt-adjusting",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 45.57,
+      "y": 13.1,
+      "partNo": "111-366",
+      "desc": "BOLT - 3/8\" - 16 x 1-1/4\" carriage",
+      "reqd": "4"
+    },
+    {
+      "ref": "3",
+      "x": 60.19,
+      "y": 85.33,
+      "partNo": "131-938",
+      "desc": "NUT - 3/8\" flange lock",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 7.46,
+      "y": 77.49,
+      "partNo": "123-101",
+      "desc": "BOLT - 5/16\" - 18 x 4\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 20.95,
+      "y": 65.04,
+      "partNo": "C25829",
+      "desc": "SPACER - sleeve (early production only)",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 78.77,
+      "y": 57.29,
+      "partNo": "C25688",
+      "desc": "SPRING - compression (early production only)",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 70.09,
+      "y": 25.37,
+      "partNo": "195-520",
+      "desc": "WASHER - .312\" l.D. X .88\" O.D",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 80.0,
+      "y": 17.62,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 93.39,
+      "y": 8.76,
+      "partNo": "131-931",
+      "desc": "NUT - 5/16\" flange",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "Refs 5/6: early production only.\nNOTE: Belt is correctly adjusted when you get 1/2\" to 3/8\" deflection at center of belt with 30 lb. pull."
+}
