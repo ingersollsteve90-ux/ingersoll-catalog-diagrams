@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "G51 Snow Blade",
+ "breadcrumb": "G51 Snow Blade",
+ "catalogLabel": "Catalog B1157",
+ "modelNumbers": "Catalog B1157 — Case G41 and H41 Rotary Mower, G51 Snow Blade, G81 Snowcaster",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1157/g51_snow_blade.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 29.23,
+   "y": 11.55,
+   "partNo": "C15461",
+   "desc": "BLADE ASSEMBLY - 38\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 89.79,
+   "y": 41.32,
+   "partNo": "C15462",
+   "desc": "EDGE - cutting",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 88.96,
+   "y": 20.63,
+   "partNo": "111-203",
+   "desc": "BOLT - 5/16\" x 1\" NC round head, square neck",
+   "reqd": "10"
+  },
+  {
+   "ref": "4",
+   "x": 67.4,
+   "y": 43.53,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "5",
+   "x": 64.22,
+   "y": 46.49,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "6",
+   "x": 51.26,
+   "y": 53.45,
+   "partNo": "C15494",
+   "desc": "PIVOT - blade",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 59.04,
+   "y": 40.89,
+   "partNo": "C15495",
+   "desc": "PIN - blade pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 84.13,
+   "y": 43.22,
+   "partNo": "132-48",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 11.33,
+   "y": 68.23,
+   "partNo": "132-48",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 27.7,
+   "y": 72.24,
+   "partNo": "C15471",
+   "desc": "BRACKET - push",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 44.9,
+   "y": 56.2,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" x 1-1/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 59.98,
+   "y": 71.5,
+   "partNo": "131-165",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 11.09,
+   "y": 78.89,
+   "partNo": "C15463",
+   "desc": "BRACKET - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 33.95,
+   "y": 64.22,
+   "partNo": "C10482",
+   "desc": "SPRING - compression",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 42.08,
+   "y": 94.72,
+   "partNo": "C10482",
+   "desc": "SPRING - compression",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 36.66,
+   "y": 60.31,
+   "partNo": "C15278",
+   "desc": "PIN - latch",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 46.79,
+   "y": 96.62,
+   "partNo": "C15278",
+   "desc": "PIN - latch",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 58.21,
+   "y": 87.97,
+   "partNo": "138-98",
+   "desc": "PIN - roll 3/16\" x 1-1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 10.27,
+   "y": 71.82,
+   "partNo": "C15496",
+   "desc": "PIN - bracket pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 86.02,
+   "y": 52.08,
+   "partNo": "C15469",
+   "desc": "SHOE - skid",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 65.28,
+   "y": 82.69,
+   "partNo": "C15497",
+   "desc": "ROD - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 78.6,
+   "y": 76.36,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 27.35,
+   "y": 29.81,
+   "partNo": "R15380",
+   "desc": "SPRING - blade extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 31.83,
+   "y": 68.86,
+   "partNo": "138-92",
+   "desc": "PIN - roll 3/16 x 3/4\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: 321-1571 DECAL - \"CASE\" (qty 1)"
+}

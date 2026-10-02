@@ -1,0 +1,290 @@
+{
+ "sectionTitle": "G41 Mower — Deck, Belt and Spindle Assembly",
+ "breadcrumb": "G41 Mower — Deck, Belt and Spindle Assembly",
+ "catalogLabel": "Catalog B1157",
+ "modelNumbers": "Catalog B1157 — Case G41 and H41 Rotary Mower, G51 Snow Blade, G81 Snowcaster",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1157/g41_deck_belt_spindle.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 88.37,
+   "y": 47.72,
+   "partNo": "C18135",
+   "desc": "DECK - mower 34\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 57.37,
+   "y": 25.81,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 29.32,
+   "y": 28.96,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 54.82,
+   "y": 88.48,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 26.24,
+   "y": 93.78,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 57.1,
+   "y": 28.46,
+   "partNo": "192-6",
+   "desc": "LOCKWASHER - 7/16\" ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 28.12,
+   "y": 31.82,
+   "partNo": "192-6",
+   "desc": "LOCKWASHER - 7/16\" ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 54.82,
+   "y": 85.43,
+   "partNo": "192-6",
+   "desc": "LOCKWASHER - 7/16\" ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 25.97,
+   "y": 90.93,
+   "partNo": "192-6",
+   "desc": "LOCKWASHER - 7/16\" ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 55.36,
+   "y": 31.21,
+   "partNo": "195-2036",
+   "desc": "WASHER - plain 13/32\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 25.97,
+   "y": 34.16,
+   "partNo": "195-2036",
+   "desc": "WASHER - plain 13/32\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 54.02,
+   "y": 82.47,
+   "partNo": "195-2036",
+   "desc": "WASHER - plain 13/32\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 25.7,
+   "y": 87.87,
+   "partNo": "195-2036",
+   "desc": "WASHER - plain 13/32\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 53.61,
+   "y": 34.16,
+   "partNo": "C15936",
+   "desc": "PULLEY - spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 23.15,
+   "y": 37.32,
+   "partNo": "C15936",
+   "desc": "PULLEY - spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 72.8,
+   "y": 75.54,
+   "partNo": "C16647",
+   "desc": "ADAPTER - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 44.35,
+   "y": 82.16,
+   "partNo": "C16647",
+   "desc": "ADAPTER - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 55.89,
+   "y": 40.07,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 26.91,
+   "y": 43.44,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 72.94,
+   "y": 69.22,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 44.89,
+   "y": 75.44,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 72.0,
+   "y": 66.47,
+   "partNo": "C15339",
+   "desc": "SPINDLE - mower",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 43.68,
+   "y": 72.99,
+   "partNo": "C15339",
+   "desc": "SPINDLE - mower",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 74.68,
+   "y": 78.39,
+   "partNo": "C24797",
+   "desc": "BLADE - mower 17-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 47.04,
+   "y": 84.51,
+   "partNo": "C24797",
+   "desc": "BLADE - mower 17-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 23.42,
+   "y": 19.59,
+   "partNo": "C15411",
+   "desc": "BELT - mower drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 78.31,
+   "y": 15.0,
+   "partNo": "C15366",
+   "desc": "GUARD - pulley L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 34.15,
+   "y": 15.41,
+   "partNo": "C15367",
+   "desc": "GUARD - pulley R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 17.92,
+   "y": 12.25,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" x 1/2\" NC hex head, self-tapping",
+   "reqd": "8"
+  },
+  {
+   "ref": "14",
+   "x": 11.74,
+   "y": 69.43,
+   "partNo": "C15625",
+   "desc": "BAR - mower chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 28.52,
+   "y": 67.49,
+   "partNo": "111-215",
+   "desc": "BOLT - 5/16\" x 3/4\" NC round head, square neck, ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 53.61,
+   "y": 66.67,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 56.97,
+   "y": 68.81,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex, ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 72.13,
+   "y": 72.99,
+   "partNo": "C16719",
+   "desc": "WASHER - mower spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 42.61,
+   "y": 79.11,
+   "partNo": "C16719",
+   "desc": "WASHER - mower spindle",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: A70404 DECAL - \"CAUTION\" (qty 2); C12664 DECAL - height indicator (qty 1); C15678 DECAL - OPEI safety (qty 1); 321-1571 DECAL - \"CASE\" (qty 1)"
+}

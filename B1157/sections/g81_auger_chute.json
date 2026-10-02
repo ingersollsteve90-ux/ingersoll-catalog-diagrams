@@ -1,0 +1,322 @@
+{
+ "sectionTitle": "G81 Snowcaster — Auger and Chute Assembly",
+ "breadcrumb": "G81 Snowcaster — Auger and Chute Assembly",
+ "catalogLabel": "Catalog B1157",
+ "modelNumbers": "Catalog B1157 — Case G41 and H41 Rotary Mower, G51 Snow Blade, G81 Snowcaster",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1157/g81_auger_chute.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28.74,
+   "y": 46.18,
+   "partNo": "NSS",
+   "desc": "HOUSING - auger 32\" (order C19818 housing and C22791 kit page 19)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 68.24,
+   "y": 89.42,
+   "partNo": "C15297",
+   "desc": "AUGER",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 40.85,
+   "y": 83.86,
+   "partNo": "C14421",
+   "desc": "BEARING - auger",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 80.69,
+   "y": 27.41,
+   "partNo": "C15186",
+   "desc": "SHAFT - stub, auger mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 87.93,
+   "y": 24.07,
+   "partNo": "113-205",
+   "desc": "BOLT - 3/8\" x 5/8\" NC hex, ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 51.37,
+   "y": 23.33,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex, ZP",
+   "reqd": "9"
+  },
+  {
+   "ref": "6",
+   "x": 78.43,
+   "y": 54.21,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex, ZP",
+   "reqd": "9"
+  },
+  {
+   "ref": "6",
+   "x": 65.41,
+   "y": 63.48,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex, ZP",
+   "reqd": "9"
+  },
+  {
+   "ref": "7",
+   "x": 52.51,
+   "y": 26.42,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "9"
+  },
+  {
+   "ref": "7",
+   "x": 85.11,
+   "y": 47.79,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "9"
+  },
+  {
+   "ref": "7",
+   "x": 69.26,
+   "y": 65.08,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "9"
+  },
+  {
+   "ref": "8",
+   "x": 84.88,
+   "y": 56.31,
+   "partNo": "C15190",
+   "desc": "SKID",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 90.2,
+   "y": 42.11,
+   "partNo": "111-302",
+   "desc": "BOLT - 3/8\" x 3/4\" NC round head, square neck",
+   "reqd": "5"
+  },
+  {
+   "ref": "9",
+   "x": 56.24,
+   "y": 65.95,
+   "partNo": "111-302",
+   "desc": "BOLT - 3/8\" x 3/4\" NC round head, square neck",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 65.07,
+   "y": 60.51,
+   "partNo": "195-104",
+   "desc": "WASHER - 7/16\" ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 70.39,
+   "y": 26.05,
+   "partNo": "C15248",
+   "desc": "CHUTE",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 73.33,
+   "y": 21.35,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 45.94,
+   "y": 19.62,
+   "partNo": "131-1102",
+   "desc": "NUT - lock 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 44.58,
+   "y": 10.61,
+   "partNo": "C14597",
+   "desc": "DEFLECTOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 69.6,
+   "y": 16.29,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" x 3/4\" NC round head short, square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 55.45,
+   "y": 21.23,
+   "partNo": "D33544",
+   "desc": "WASHER - 25/64\" dished",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 43.9,
+   "y": 15.55,
+   "partNo": "C14569",
+   "desc": "LEVER - locking, deflector",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 69.94,
+   "y": 32.84,
+   "partNo": "C15334",
+   "desc": "BRACKET - chute hold down",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 58.62,
+   "y": 36.42,
+   "partNo": "111-202",
+   "desc": "BOLT - 5/16\" x 3/4\" NC round head, square neck",
+   "reqd": "3"
+  },
+  {
+   "ref": "20",
+   "x": 65.86,
+   "y": 34.45,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex, ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "20",
+   "x": 72.99,
+   "y": 49.64,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex, ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "21",
+   "x": 66.65,
+   "y": 37.04,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "21",
+   "x": 70.16,
+   "y": 50.38,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 40.28,
+   "y": 21.85,
+   "partNo": "C15244",
+   "desc": "ROD - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 47.3,
+   "y": 25.68,
+   "partNo": "C15277",
+   "desc": "SPACER - rod, chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 37.34,
+   "y": 32.47,
+   "partNo": "C15240",
+   "desc": "BRACKET - control rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 24.66,
+   "y": 25.68,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "25",
+   "x": 55.45,
+   "y": 36.18,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 44.7,
+   "y": 22.96,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 20.92,
+   "y": 32.35,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 34.28,
+   "y": 21.97,
+   "partNo": "C14583",
+   "desc": "JOINT - block",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 16.85,
+   "y": 12.21,
+   "partNo": "C15371",
+   "desc": "CRANK - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 67.79,
+   "y": 39.88,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" x 3/4\" NC hex head socket",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 35.19,
+   "y": 87.56,
+   "partNo": "195-545",
+   "desc": "WASHER - 13/16\"",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": ""
+}
