@@ -1,0 +1,298 @@
+{
+  "sectionTitle": "H40/H44/H46 Mower - Deck, Belts and Deck Covers",
+  "breadcrumb": "H40/H44/H46 Mower - Deck, Belts and Deck Covers",
+  "catalogLabel": "Catalog B1188",
+  "modelNumbers": "Catalog B1188 — Case H40, H44 & H46 Rotary Mowers, H50 & H54 Dozer Blades, E60 Dump Cart, H80 & H84 Snow Blowers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1188/deck_belts_deck_covers.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 73.3,
+      "y": 45.2,
+      "variants": [
+        {
+          "serialNote": "38\"",
+          "partNo": "C18925",
+          "desc": "DECK - mower, H40 (38\")",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "44\"",
+          "partNo": "C18927",
+          "desc": "DECK - mower, H44 (44\")",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "48\"",
+          "partNo": "C18932",
+          "desc": "DECK - mower, H46 (48\")",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "x": 38.3,
+      "y": 44.5,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C23810",
+          "desc": "BELT - mower deck, H40",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C22707",
+          "desc": "BELT - mower deck, H44",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C22708",
+          "desc": "BELT - mower deck, H46",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "x": 26.6,
+      "y": 28.7,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C15679",
+          "desc": "GUARD - deck belt, H40",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C15680",
+          "desc": "GUARD - deck belt, H44",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C15681",
+          "desc": "GUARD - deck belt, H46",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "x": 76.1,
+      "y": 15.4,
+      "partNo": "C15675",
+      "desc": "COVER - deck, small",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 73.9,
+      "y": 11.2,
+      "partNo": "187-1036",
+      "desc": "SCREW - 1/4\" x 1/2\" NC hex self-tapping",
+      "reqd": "8"
+    },
+    {
+      "ref": "6",
+      "x": 86.2,
+      "y": 44.7,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C15640",
+          "desc": "BAR - safety, H40",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C15639",
+          "desc": "BAR - safety, H44",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C15634",
+          "desc": "BAR - safety, H46",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "7",
+      "x": 87.7,
+      "y": 58.8,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" x 3/4\" NC hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 81.2,
+      "y": 72.3,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "8",
+      "x": 38.7,
+      "y": 62.1,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "9",
+      "x": 37.2,
+      "y": 59.4,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "9",
+      "x": 84.9,
+      "y": 75.4,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 75,
+      "y": 77.4,
+      "partNo": "A70514",
+      "desc": "ROLLER - 2-1/2\" x 2-3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 48.3,
+      "y": 89.1,
+      "partNo": "A70514",
+      "desc": "ROLLER - 2-1/2\" x 2-3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 43.1,
+      "y": 91.8,
+      "partNo": "195-108",
+      "desc": "WASHER - 5/8\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 80.3,
+      "y": 75.9,
+      "partNo": "195-108",
+      "desc": "WASHER - 5/8\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 52.7,
+      "y": 86.7,
+      "partNo": "132-310",
+      "desc": "PIN - cotter 1/8\" x 1\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 62.1,
+      "y": 84,
+      "partNo": "C14892",
+      "desc": "SHAFT - rear roller",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 8.7,
+      "y": 86.9,
+      "partNo": "111-317",
+      "desc": "BOLT - 3/8\" x 1\" NC rd. hd. square neck",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 17.2,
+      "y": 66.2,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 21.3,
+      "y": 64.4,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 16,
+      "y": 85.4,
+      "variants": [
+        {
+          "serialNote": "",
+          "partNo": "C15562",
+          "desc": "BRACKET - axle pivot, H40",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C15560",
+          "desc": "BRACKET - axle pivot, H44",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "",
+          "partNo": "C15561",
+          "desc": "BRACKET - axle pivot, H46",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "18",
+      "x": 37.7,
+      "y": 92.8,
+      "partNo": "111-202",
+      "desc": "BOLT - 5/16\" x 3/4\" rd. hd. square neck",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 21.1,
+      "y": 59.4,
+      "partNo": "C15935",
+      "desc": "BRACKET - height adj.",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 78.6,
+      "y": 28.1,
+      "variants": [
+        {
+          "serialNote": "use with 220 and 222 tractors",
+          "partNo": "C23807",
+          "desc": "BELT - drive (use with 220 and 222 tractors)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "use with 442 and 444 tractors",
+          "partNo": "C23809",
+          "desc": "BELT - drive (use with 442 and 444 tractors)",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": "Also listed, not shown on diagram: 321-1571 DECAL \"CASE\" (1); 321-4381 DECAL \"DANGER\" spinning blade (2); C12519 DECAL \"NO STEP\" (2); C15956 DECAL height adjust (1); C19272 DECAL safety (1)."
+}

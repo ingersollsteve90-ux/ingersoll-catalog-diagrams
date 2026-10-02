@@ -1,0 +1,499 @@
+{
+  "sectionTitle": "H40/H44 Mower - Pulleys, Blades and Spindles",
+  "breadcrumb": "H40/H44 Mower - Pulleys, Blades and Spindles",
+  "catalogLabel": "Catalog B1188",
+  "modelNumbers": "Catalog B1188 — Case H40, H44 & H46 Rotary Mowers, H50 & H54 Dozer Blades, E60 Dump Cart, H80 & H84 Snow Blowers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1188/pulleys_blades_spindles_h40_h44.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 6.5,
+      "y": 70.3,
+      "partNo": "C17666",
+      "desc": "HOUSING - mower spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "1",
+      "x": 34.9,
+      "y": 69.1,
+      "partNo": "C17666",
+      "desc": "HOUSING - mower spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "1",
+      "x": 90.3,
+      "y": 64.5,
+      "partNo": "C17666",
+      "desc": "HOUSING - mower spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "2",
+      "x": 86.4,
+      "y": 70.6,
+      "partNo": "A70280",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "2",
+      "x": 39.1,
+      "y": 75,
+      "partNo": "A70280",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "2",
+      "x": 11.1,
+      "y": 76.6,
+      "partNo": "A70280",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "2",
+      "x": 86.8,
+      "y": 53.5,
+      "partNo": "A70280",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "2",
+      "x": 38.7,
+      "y": 58.6,
+      "partNo": "A70280",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "2",
+      "x": 10.6,
+      "y": 60.8,
+      "partNo": "A70280",
+      "desc": "BEARING - spindle",
+      "reqd": "6"
+    },
+    {
+      "ref": "3",
+      "x": 10.9,
+      "y": 79.9,
+      "partNo": "C10822",
+      "desc": "WASHER - bearing seal",
+      "reqd": "6"
+    },
+    {
+      "ref": "3",
+      "x": 39.5,
+      "y": 77.8,
+      "partNo": "C10822",
+      "desc": "WASHER - bearing seal",
+      "reqd": "6"
+    },
+    {
+      "ref": "3",
+      "x": 86.1,
+      "y": 73.4,
+      "partNo": "C10822",
+      "desc": "WASHER - bearing seal",
+      "reqd": "6"
+    },
+    {
+      "ref": "3",
+      "x": 10.6,
+      "y": 57.9,
+      "partNo": "C10822",
+      "desc": "WASHER - bearing seal",
+      "reqd": "6"
+    },
+    {
+      "ref": "3",
+      "x": 39,
+      "y": 55.7,
+      "partNo": "C10822",
+      "desc": "WASHER - bearing seal",
+      "reqd": "6"
+    },
+    {
+      "ref": "3",
+      "x": 86.3,
+      "y": 51,
+      "partNo": "C10822",
+      "desc": "WASHER - bearing seal",
+      "reqd": "6"
+    },
+    {
+      "ref": "4",
+      "x": 10.4,
+      "y": 83.1,
+      "partNo": "C10942",
+      "desc": "WASHER - mower spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "4",
+      "x": 38.9,
+      "y": 80.4,
+      "partNo": "C10942",
+      "desc": "WASHER - mower spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "4",
+      "x": 87.1,
+      "y": 75.7,
+      "partNo": "C10942",
+      "desc": "WASHER - mower spindle",
+      "reqd": "3"
+    },
+    {
+      "ref": "5",
+      "x": 8.8,
+      "y": 85.7,
+      "partNo": "126-19",
+      "desc": "KEY - spindle, #11 Woodruff",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 38.2,
+      "y": 84.6,
+      "partNo": "126-19",
+      "desc": "KEY - spindle, #11 Woodruff",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 66.5,
+      "y": 79.1,
+      "partNo": "126-19",
+      "desc": "KEY - spindle, #11 Woodruff",
+      "reqd": "4"
+    },
+    {
+      "ref": "6",
+      "x": 28.8,
+      "y": 85.1,
+      "partNo": "C15763",
+      "desc": "SPINDLE - outboard",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 86.3,
+      "y": 78.9,
+      "partNo": "C15763",
+      "desc": "SPINDLE - outboard",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 56.2,
+      "y": 83.2,
+      "partNo": "C15604",
+      "desc": "SPINDLE - center",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 94.5,
+      "y": 79.4,
+      "variants": [
+        {
+          "serialNote": "H40",
+          "partNo": "C24441",
+          "desc": "BLADE - 14\" (H40)",
+          "reqd": "3"
+        },
+        {
+          "serialNote": "H44",
+          "partNo": "C24442",
+          "desc": "BLADE - 15-1/2\" (H44)",
+          "reqd": "3"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 37.3,
+      "y": 89.4,
+      "variants": [
+        {
+          "serialNote": "H40",
+          "partNo": "C24441",
+          "desc": "BLADE - 14\" (H40)",
+          "reqd": "3"
+        },
+        {
+          "serialNote": "H44",
+          "partNo": "C24442",
+          "desc": "BLADE - 15-1/2\" (H44)",
+          "reqd": "3"
+        }
+      ]
+    },
+    {
+      "ref": "8",
+      "x": 8.2,
+      "y": 90.5,
+      "variants": [
+        {
+          "serialNote": "H40",
+          "partNo": "C24441",
+          "desc": "BLADE - 14\" (H40)",
+          "reqd": "3"
+        },
+        {
+          "serialNote": "H44",
+          "partNo": "C24442",
+          "desc": "BLADE - 15-1/2\" (H44)",
+          "reqd": "3"
+        }
+      ]
+    },
+    {
+      "ref": "9",
+      "x": 87.8,
+      "y": 91.4,
+      "partNo": "113-205",
+      "desc": "BOLT - 3/8\" x 5/8\" NC hex (grade 5)",
+      "reqd": "6"
+    },
+    {
+      "ref": "10",
+      "x": 87.1,
+      "y": 88,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "18"
+    },
+    {
+      "ref": "10",
+      "x": 7.8,
+      "y": 37,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\"",
+      "reqd": "18"
+    },
+    {
+      "ref": "11",
+      "x": 39.1,
+      "y": 61.9,
+      "partNo": "C10810",
+      "desc": "SPACER - bearing",
+      "reqd": "3"
+    },
+    {
+      "ref": "11",
+      "x": 11.1,
+      "y": 63.9,
+      "partNo": "C10810",
+      "desc": "SPACER - bearing",
+      "reqd": "3"
+    },
+    {
+      "ref": "11",
+      "x": 86.4,
+      "y": 57.1,
+      "partNo": "C10810",
+      "desc": "SPACER - bearing",
+      "reqd": "3"
+    },
+    {
+      "ref": "12",
+      "x": 7.3,
+      "y": 28,
+      "partNo": "C21581",
+      "desc": "PULLEY - outboard",
+      "reqd": "3"
+    },
+    {
+      "ref": "12",
+      "x": 85.9,
+      "y": 13.1,
+      "partNo": "C21581",
+      "desc": "PULLEY - outboard",
+      "reqd": "3"
+    },
+    {
+      "ref": "12",
+      "x": 15.6,
+      "y": 13.4,
+      "partNo": "C21581",
+      "desc": "PULLEY - outboard",
+      "reqd": "3"
+    },
+    {
+      "ref": "13",
+      "x": 10.9,
+      "y": 23.5,
+      "partNo": "131-1127",
+      "desc": "NUT - jam lock 3/4\" NF hex",
+      "reqd": "3"
+    },
+    {
+      "ref": "13",
+      "x": 82.1,
+      "y": 9.3,
+      "partNo": "131-1127",
+      "desc": "NUT - jam lock 3/4\" NF hex",
+      "reqd": "3"
+    },
+    {
+      "ref": "13",
+      "x": 18.5,
+      "y": 5.2,
+      "partNo": "131-1127",
+      "desc": "NUT - jam lock 3/4\" NF hex",
+      "reqd": "3"
+    },
+    {
+      "ref": "14",
+      "x": 8.6,
+      "y": 33.5,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+      "reqd": "12"
+    },
+    {
+      "ref": "15",
+      "x": 15.1,
+      "y": 9,
+      "partNo": "C15963",
+      "desc": "PULLEY - drive",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 58.7,
+      "y": 8.6,
+      "partNo": "C12251",
+      "desc": "PULLEY - deck idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 60.4,
+      "y": 15.6,
+      "partNo": "C14731",
+      "desc": "BRACKET - idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 55.8,
+      "y": 59.5,
+      "partNo": "111-362",
+      "desc": "BOLT - 3/8\" x 1\" rd. hd. square neck",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 59.8,
+      "y": 20.7,
+      "partNo": "195-530",
+      "desc": "WASHER - 1/2\" ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "20",
+      "x": 59.8,
+      "y": 18.2,
+      "partNo": "C14768",
+      "desc": "SPACER - idler bracket",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 59.3,
+      "y": 13.3,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 55.4,
+      "y": 5.7,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "22",
+      "x": 54.8,
+      "y": 3.2,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "22",
+      "x": 58.6,
+      "y": 10.9,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\" NC hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "23",
+      "x": 40.3,
+      "y": 21.4,
+      "partNo": "C14482",
+      "desc": "SPRING - idler",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 88.5,
+      "y": 60,
+      "partNo": "A63279",
+      "desc": "RING - retainer",
+      "reqd": "6"
+    },
+    {
+      "ref": "24",
+      "x": 88,
+      "y": 67.5,
+      "partNo": "A63279",
+      "desc": "RING - retainer",
+      "reqd": "6"
+    },
+    {
+      "ref": "24",
+      "x": 36.4,
+      "y": 65.6,
+      "partNo": "A63279",
+      "desc": "RING - retainer",
+      "reqd": "6"
+    },
+    {
+      "ref": "24",
+      "x": 36.8,
+      "y": 71.7,
+      "partNo": "A63279",
+      "desc": "RING - retainer",
+      "reqd": "6"
+    },
+    {
+      "ref": "24",
+      "x": 7.9,
+      "y": 66.8,
+      "partNo": "A63279",
+      "desc": "RING - retainer",
+      "reqd": "6"
+    },
+    {
+      "ref": "24",
+      "x": 9.5,
+      "y": 73.5,
+      "partNo": "A63279",
+      "desc": "RING - retainer",
+      "reqd": "6"
+    }
+  ],
+  "footnotes": ""
+}

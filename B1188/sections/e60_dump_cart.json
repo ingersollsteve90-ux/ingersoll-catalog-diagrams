@@ -1,0 +1,178 @@
+{
+  "sectionTitle": "E60 Dump Cart",
+  "breadcrumb": "E60 Dump Cart",
+  "catalogLabel": "Catalog B1188",
+  "modelNumbers": "Catalog B1188 — Case H40, H44 & H46 Rotary Mowers, H50 & H54 Dozer Blades, E60 Dump Cart, H80 & H84 Snow Blowers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1188/e60_dump_cart.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 26.2,
+      "y": 29.7,
+      "partNo": "NSS",
+      "desc": "BODY",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 12.8,
+      "y": 10.1,
+      "partNo": "C13547",
+      "desc": "TAILGATE",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 69.2,
+      "y": 59.8,
+      "partNo": "131-176",
+      "desc": "NUT - lock 5/16\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 74.2,
+      "y": 58.8,
+      "partNo": "195-2027",
+      "desc": "WASHER - 11/32\" ID ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 73.7,
+      "y": 61.5,
+      "partNo": "C11942",
+      "desc": "SPRING - release",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 78.9,
+      "y": 62.6,
+      "partNo": "C13859",
+      "desc": "LEVER - release",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 80.9,
+      "y": 65.4,
+      "partNo": "113-111",
+      "desc": "BOLT - 5/16\" x 2-1/2\" NC hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 75.6,
+      "y": 74.5,
+      "partNo": "131-1181",
+      "desc": "NUT - lock 3/8\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "9",
+      "x": 49.3,
+      "y": 80.4,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 74.4,
+      "y": 80.4,
+      "partNo": "C14072",
+      "desc": "TONGUE - front",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 48.4,
+      "y": 63.6,
+      "partNo": "C14073",
+      "desc": "TONGUE - rear",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 34.1,
+      "y": 85.2,
+      "partNo": "195-533",
+      "desc": "WASHER - plain 1\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "12",
+      "x": 9.5,
+      "y": 96,
+      "partNo": "195-533",
+      "desc": "WASHER - plain 1\"",
+      "reqd": "4"
+    },
+    {
+      "ref": "13",
+      "x": 36.7,
+      "y": 46.5,
+      "partNo": "321-1571",
+      "desc": "DECAL",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 28.5,
+      "y": 87.3,
+      "partNo": "C14221",
+      "desc": "BUSHING - flanged",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 13.4,
+      "y": 94.1,
+      "partNo": "C14221",
+      "desc": "BUSHING - flanged",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 29.6,
+      "y": 92.3,
+      "partNo": "C24964",
+      "desc": "WHEEL - centered hub (used with C13920 axle) (includes bearings)",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 20.7,
+      "y": 96.5,
+      "partNo": "219-1",
+      "desc": "FITTING - lube",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 16.3,
+      "y": 63.3,
+      "partNo": "C13920",
+      "desc": "SHAFT - axle 33-3/4\" (used with A70066 wheel)",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 89.6,
+      "y": 79.6,
+      "partNo": "C10888",
+      "desc": "PIN - hitch",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 5.3,
+      "y": 96.7,
+      "partNo": "132-306",
+      "desc": "PIN - cotter 3/16\" x 1-3/4\" ZP",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "For 220, 222, 442 and 444 Compact Tractors."
+}

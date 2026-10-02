@@ -1,0 +1,224 @@
+{
+  "sectionTitle": "H80/H84 Snowblower - Drive Assembly",
+  "breadcrumb": "H80/H84 Snowblower - Drive Assembly",
+  "catalogLabel": "Catalog B1188",
+  "modelNumbers": "Catalog B1188 — Case H40, H44 & H46 Rotary Mowers, H50 & H54 Dozer Blades, E60 Dump Cart, H80 & H84 Snow Blowers",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1188/h80_h84_drive_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 58.5,
+      "y": 14.8,
+      "partNo": "C15514",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "1",
+      "x": 9,
+      "y": 37.7,
+      "partNo": "C15514",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 20.3,
+      "y": 46.5,
+      "partNo": "C14419",
+      "desc": "BEARING - includes collar and setscrew",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 61.1,
+      "y": 26.6,
+      "partNo": "C14419",
+      "desc": "BEARING - includes collar and setscrew",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 6.3,
+      "y": 69.6,
+      "partNo": "111-202",
+      "desc": "BOLT - 5/16 x 3/4\" NC round head, square neck, ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 11.1,
+      "y": 35.7,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 15.7,
+      "y": 33.6,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "6",
+      "x": 36.3,
+      "y": 40,
+      "partNo": "C14579",
+      "desc": "SPROCKET - drive 16 tooth",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 37.1,
+      "y": 36.2,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16 x 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 38.5,
+      "y": 22.6,
+      "partNo": "126-16",
+      "desc": "KEY - Woodruff #9",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 69.9,
+      "y": 8.1,
+      "partNo": "126-16",
+      "desc": "KEY - Woodruff #9",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 44.9,
+      "y": 21.7,
+      "variants": [
+        {
+          "serialNote": "H84",
+          "partNo": "C17724",
+          "desc": "SHAFT - drive (H84)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "H80",
+          "partNo": "C17723",
+          "desc": "SHAFT - drive (H80)",
+          "reqd": "1"
+        }
+      ]
+    },
+    {
+      "ref": "10",
+      "x": 91.4,
+      "y": 12.1,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16 x 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "10",
+      "x": 84.8,
+      "y": 3.4,
+      "partNo": "178-858",
+      "desc": "SETSCREW - 5/16 x 3/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 86,
+      "y": 20.4,
+      "partNo": "C16119",
+      "desc": "PULLEY - drive shaft",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 4.8,
+      "y": 74.5,
+      "partNo": "111-349",
+      "desc": "BOLT - 3/8 x 2-1/2\" NC round head, square neck",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 13.4,
+      "y": 50.8,
+      "partNo": "195-2029",
+      "desc": "WASHER - 7/16 x 1-1/4\" O.D. ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 20.7,
+      "y": 60,
+      "partNo": "C16158",
+      "desc": "BLOCK - chain tightener (used prior to S/N F20182 & G20205)",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 24.7,
+      "y": 47.8,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\" ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 17.3,
+      "y": 23.5,
+      "partNo": "NSS",
+      "desc": "CHAIN - auger drive, 74 pitches #40 roller chain (use B12470 50 links, B12471 20 links, B12501 connecting link, B12503 roller link)",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 31.5,
+      "y": 26.9,
+      "partNo": "B12502",
+      "desc": "LINK - offset #40",
+      "reqd": "2"
+    },
+    {
+      "ref": "18",
+      "x": 33.8,
+      "y": 92,
+      "partNo": "C14421",
+      "desc": "BEARING - auger",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 31.3,
+      "y": 94.3,
+      "partNo": "195-545",
+      "desc": "WASHER - spacer 13/16\"",
+      "reqd": "UAR"
+    },
+    {
+      "ref": "20",
+      "x": 39.2,
+      "y": 89.1,
+      "variants": [
+        {
+          "serialNote": "H80",
+          "partNo": "C16108",
+          "desc": "AUGER - 38\" (H80)",
+          "reqd": "1"
+        },
+        {
+          "serialNote": "H84",
+          "partNo": "C16179",
+          "desc": "AUGER - 48\" (H84)",
+          "reqd": "1"
+        }
+      ]
+    }
+  ],
+  "footnotes": "Ref 16 CHAIN - auger drive, 74 pitches #40 roller chain, use: B12470 chain 50 links (1); B12471 chain 20 links (1); B12501 connecting link (1); B12503 roller link (1)."
+}
