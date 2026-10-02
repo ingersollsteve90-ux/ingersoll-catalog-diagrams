@@ -1,0 +1,234 @@
+{
+ "sectionTitle": "Hydraulic System (AHRM60)",
+ "breadcrumb": "Hydraulic System (AHRM60)",
+ "catalogLabel": "Catalog 8-3230",
+ "modelNumbers": "Catalog 8-3230 — Ingersoll AHRM44, AHRM48, AHRM60 Rotary Mowers; AHSB48, DHSB48 Snowblowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3230/hydraulic_system_60.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 47.7,
+   "y": 16.3,
+   "partNo": "C37066",
+   "desc": "PULLEY - 5\" (includes set screws)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 63.1,
+   "y": 64.6,
+   "partNo": "C36963",
+   "desc": "MOTOR - hydraulic (repairs page 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 47.1,
+   "y": 32.6,
+   "partNo": "C37478",
+   "desc": "SUPPORT - motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 62.4,
+   "y": 17.4,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 60,
+   "y": 85.1,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 45,
+   "y": 77,
+   "partNo": "218-5137",
+   "desc": "FITTING - 7/8\" - 14, 45° elbow",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 85.2,
+   "y": 76.7,
+   "partNo": "218-5137",
+   "desc": "FITTING - 7/8\" - 14, 45° elbow",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 53.5,
+   "y": 93.7,
+   "partNo": "218-5105",
+   "desc": "FITTING - 9/16\" - 18, 90° elbow",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 70.4,
+   "y": 44.9,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 65.3,
+   "y": 22.3,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 67.3,
+   "y": 44.9,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 68,
+   "y": 22.8,
+   "partNo": "131-1181",
+   "desc": "NUT - 3/8\" - 16 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 15,
+   "y": 48.6,
+   "partNo": "218-483",
+   "desc": "FITTING - 9/16\" - 18, 90° elbow",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 77.5,
+   "y": 20.7,
+   "partNo": "218-485",
+   "desc": "FITTING - 7/8\" - 14, 90° elbow",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 30.4,
+   "y": 11.6,
+   "partNo": "218-485",
+   "desc": "FITTING - 7/8\" - 14, 90° elbow",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 32.9,
+   "y": 66,
+   "partNo": "C37407",
+   "desc": "TUBE - hydraulic (* Use C45224 Hose Kit to prevent hoses from contacting the rear tire)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 33.5,
+   "y": 55.4,
+   "partNo": "C33218",
+   "desc": "CLIP - retaining, tube to base",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 26.2,
+   "y": 93.3,
+   "partNo": "C37394",
+   "desc": "HOSE - case drain",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 37.5,
+   "y": 36.7,
+   "partNo": "C37395",
+   "desc": "HOSE - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 77.4,
+   "y": 54.4,
+   "partNo": "C37396",
+   "desc": "HOSE - supply",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 8.8,
+   "y": 26.3,
+   "partNo": "C33404",
+   "desc": "PLUG - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 30.2,
+   "y": 55.8,
+   "partNo": "C32213",
+   "desc": "CLIP - retaining, hose to tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 82.4,
+   "y": 24.7,
+   "partNo": "C37187",
+   "desc": "COUPLING - quick, male 7/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 37.9,
+   "y": 19.5,
+   "partNo": "C37188",
+   "desc": "COUPLING - quick, female 7/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 20.4,
+   "y": 64.2,
+   "partNo": "C41044",
+   "desc": "COUPLING - quick, female 9/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 93.9,
+   "y": 14.4,
+   "partNo": "C40641",
+   "desc": "CAP - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 24.2,
+   "y": 6,
+   "partNo": "C40642",
+   "desc": "PLUG - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 61.7,
+   "y": 6,
+   "partNo": "83-56",
+   "desc": "SCREW - set 5/16\" - 18",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "* Ref 14: use C45224 Hose Kit to prevent hoses from contacting the rear tire."
+}

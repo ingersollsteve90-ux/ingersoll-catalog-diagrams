@@ -1,0 +1,264 @@
+{
+ "sectionTitle": "Rear Axle and Leveling Linkage (AHRM44/AHRM48)",
+ "breadcrumb": "Rear Axle and Leveling Linkage (AHRM44/AHRM48)",
+ "catalogLabel": "Catalog 8-3230",
+ "modelNumbers": "Catalog 8-3230 — Ingersoll AHRM44, AHRM48, AHRM60 Rotary Mowers; AHSB48, DHSB48 Snowblowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3230/rear_axle_leveling_linkage_44_48.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 8.1,
+   "y": 8.8,
+   "partNo": "C31498",
+   "desc": "WHEEL - gauge",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 21.6,
+   "y": 4.6,
+   "partNo": "C31499",
+   "desc": "BOLT - shoulder",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 15.9,
+   "y": 7.7,
+   "partNo": "195-541",
+   "desc": "WASHER - .656\" x 1.312\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 4,
+   "y": 17.2,
+   "partNo": "131-930",
+   "desc": "NUT - 1/2\" - 13 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 65.9,
+   "y": 52.3,
+   "partNo": "C31577",
+   "desc": "ROD - level adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 36.5,
+   "y": 10.2,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "6",
+   "x": 15.4,
+   "y": 30.7,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 81.2,
+   "y": 58.1,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 75.9,
+   "y": 95.3,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 84.4,
+   "y": 62.8,
+   "variants": [
+    {
+     "serialNote": "AHRM48",
+     "partNo": "C31580",
+     "desc": "STRAP - connector (AHRM48) shown",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "AHRM44",
+     "partNo": "C42447",
+     "desc": "STRAP - connector (AHRM44)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 76.2,
+   "y": 76,
+   "partNo": "141-54",
+   "desc": "PIN - clevis 3/8\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 95,
+   "y": 73.3,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 21.2,
+   "y": 22.6,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 95.9,
+   "y": 67.9,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 53.8,
+   "y": 9.6,
+   "variants": [
+    {
+     "serialNote": "AHRM48",
+     "partNo": "C37336",
+     "desc": "AXLE - mower (AHRM48)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "AHRM44",
+     "partNo": "C42169",
+     "desc": "AXLE - mower (AHRM44)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 78.6,
+   "y": 10.9,
+   "partNo": "C20005",
+   "desc": "PIN - locking",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 64.3,
+   "y": 13.7,
+   "partNo": "C10482",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 69.4,
+   "y": 8.4,
+   "partNo": "138-96",
+   "desc": "PIN - roll 3/16\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 17.5,
+   "y": 55.6,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" - 16 x 3/4\" carriage",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 58.4,
+   "y": 36,
+   "partNo": "C15935",
+   "desc": "BRACKET - height adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 57.8,
+   "y": 40.2,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 58.1,
+   "y": 28.8,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 94.3,
+   "y": 85.1,
+   "partNo": "C37327",
+   "desc": "BELLCRANK - leveling",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 83.3,
+   "y": 93.3,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 39.7,
+   "y": 11.8,
+   "partNo": "C31579",
+   "desc": "BRACKET - channel",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 44,
+   "y": 10,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 24.8,
+   "y": 20.7,
+   "partNo": "C16573",
+   "desc": "SPACER - sleeve",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 91.2,
+   "y": 58.6,
+   "partNo": "C28105",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 18.2,
+   "y": 27.5,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 flange head",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 8: AHRM48 strap shown."
+}

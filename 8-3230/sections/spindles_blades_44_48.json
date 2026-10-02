@@ -1,0 +1,141 @@
+{
+ "sectionTitle": "Spindles and Blades (AHRM44/AHRM48)",
+ "breadcrumb": "Spindles and Blades (AHRM44/AHRM48)",
+ "catalogLabel": "Catalog 8-3230",
+ "modelNumbers": "Catalog 8-3230 — Ingersoll AHRM44, AHRM48, AHRM60 Rotary Mowers; AHSB48, DHSB48 Snowblowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3230/spindles_blades_44_48.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.5,
+   "y": 42.3,
+   "partNo": "C40723",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 27,
+   "y": 26.7,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "2",
+   "x": 68.2,
+   "y": 53.7,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 28.4,
+   "y": 32.8,
+   "partNo": "C10810",
+   "desc": "SPACER - bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 69.6,
+   "y": 59.8,
+   "partNo": "C25542",
+   "desc": "ADAPTER - blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 25.6,
+   "y": 78.8,
+   "partNo": "C31452",
+   "desc": "WASHER - 3/8\" x 2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 28.1,
+   "y": 85.1,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\"",
+   "reqd": "15"
+  },
+  {
+   "ref": "6",
+   "x": 86.8,
+   "y": 34.2,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\"",
+   "reqd": "15"
+  },
+  {
+   "ref": "7",
+   "x": 30.9,
+   "y": 94,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/2\" (use 35 ft lb. or torque)",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 75,
+   "y": 6.7,
+   "partNo": "C31566",
+   "desc": "SPINDLE",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 67.8,
+   "y": 20.7,
+   "partNo": "C29431",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 82.5,
+   "y": 71.4,
+   "variants": [
+    {
+     "serialNote": "AHRM44",
+     "partNo": "C31571",
+     "desc": "BLADE - 15-1/2\" (AHRM44)",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "AHRM48",
+     "partNo": "C31572",
+     "desc": "BLADE - 17\" (AHRM48)",
+     "reqd": "3"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 84,
+   "y": 23.9,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" - 16 x 3/4\" (use 15 ft lb. of torque)",
+   "reqd": "12"
+  },
+  {
+   "ref": "12",
+   "x": 87.2,
+   "y": 49.5,
+   "partNo": "219-20",
+   "desc": "FITTING - lubrication",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 66.8,
+   "y": 68.1,
+   "partNo": "C25544",
+   "desc": "SHIELD - bearing",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,530 @@
+{
+ "sectionTitle": "Pulleys, Blades and Spindles (AHRM60)",
+ "breadcrumb": "Pulleys, Blades and Spindles (AHRM60)",
+ "catalogLabel": "Catalog 8-3230",
+ "modelNumbers": "Catalog 8-3230 — Ingersoll AHRM44, AHRM48, AHRM60 Rotary Mowers; AHSB48, DHSB48 Snowblowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3230/pulleys_blades_spindles_60.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 17.7,
+   "y": 92.4,
+   "partNo": "C31393",
+   "desc": "BLADE",
+   "reqd": "3"
+  },
+  {
+   "ref": "1",
+   "x": 66.8,
+   "y": 91.2,
+   "partNo": "C31393",
+   "desc": "BLADE",
+   "reqd": "3"
+  },
+  {
+   "ref": "1",
+   "x": 78.3,
+   "y": 85.5,
+   "partNo": "C31393",
+   "desc": "BLADE",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 86.6,
+   "y": 84.9,
+   "partNo": "113-268",
+   "desc": "BOLT - 3/8\" - 16 x 7/8\" hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "2",
+   "x": 59,
+   "y": 96.3,
+   "partNo": "113-268",
+   "desc": "BOLT - 3/8\" - 16 x 7/8\" hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "2",
+   "x": 38.1,
+   "y": 97.6,
+   "partNo": "113-268",
+   "desc": "BOLT - 3/8\" - 16 x 7/8\" hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 37.7,
+   "y": 83.4,
+   "partNo": "131-1216",
+   "desc": "NUT - lock 3/8\" hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 59.2,
+   "y": 81.3,
+   "partNo": "131-1216",
+   "desc": "NUT - lock 3/8\" hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 90,
+   "y": 68.7,
+   "partNo": "131-1216",
+   "desc": "NUT - lock 3/8\" hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 42.9,
+   "y": 30.2,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" - 16 x 3/4\" hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 18.1,
+   "y": 14.4,
+   "partNo": "C31394",
+   "desc": "BRACKET - belt adjusting, deck",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 20.8,
+   "y": 35.9,
+   "partNo": "C25781",
+   "desc": "SPROCKET - spindle drive",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 62.3,
+   "y": 27.1,
+   "partNo": "C25781",
+   "desc": "SPROCKET - spindle drive",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 62.4,
+   "y": 22.8,
+   "partNo": "C25781",
+   "desc": "SPROCKET - spindle drive",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 83,
+   "y": 19.5,
+   "partNo": "C25781",
+   "desc": "SPROCKET - spindle drive",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 83.1,
+   "y": 15,
+   "partNo": "C25642",
+   "desc": "WASHER - belt retaining, special",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 20.8,
+   "y": 30.9,
+   "partNo": "C25642",
+   "desc": "WASHER - belt retaining, special",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 89.1,
+   "y": 45.8,
+   "partNo": "C28972",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 58.2,
+   "y": 58.2,
+   "partNo": "C28972",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 24.1,
+   "y": 61.2,
+   "partNo": "C25643",
+   "desc": "SPACER - spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 22.4,
+   "y": 86.5,
+   "partNo": "126-16",
+   "desc": "KEY - Woodruff #9 3/16\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 74.5,
+   "y": 72.6,
+   "partNo": "126-16",
+   "desc": "KEY - Woodruff #9 3/16\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 42.4,
+   "y": 85.8,
+   "partNo": "C25644",
+   "desc": "KEY - square",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 62.7,
+   "y": 17.2,
+   "partNo": "C25645",
+   "desc": "PULLEY - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 59,
+   "y": 13.5,
+   "partNo": "131-1331",
+   "desc": "NUT - lock 3/4\" hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 79.6,
+   "y": 11.8,
+   "partNo": "131-1331",
+   "desc": "NUT - lock 3/4\" hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 24.1,
+   "y": 27.2,
+   "partNo": "131-1331",
+   "desc": "NUT - lock 3/4\" hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 26.9,
+   "y": 5.9,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" - 16 x 1\" carriage",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 18.1,
+   "y": 19.7,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "16",
+   "x": 14.2,
+   "y": 4.3,
+   "partNo": "123-101",
+   "desc": "BOLT - 5/16\" - 18 x 4\" hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 90.7,
+   "y": 65.2,
+   "partNo": "C25543",
+   "desc": "SHIELD - bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 60,
+   "y": 78.1,
+   "partNo": "C25543",
+   "desc": "SHIELD - bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 38.1,
+   "y": 80.3,
+   "partNo": "C25543",
+   "desc": "SHIELD - bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 20.6,
+   "y": 6.5,
+   "partNo": "C25829",
+   "desc": "SPACER - sleeve",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 32.5,
+   "y": 11.9,
+   "partNo": "C25688",
+   "desc": "SPRING - compression",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 27.1,
+   "y": 18.3,
+   "partNo": "195-520",
+   "desc": "WASHER - .312\" I.D. x .88\" O.D",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 36.9,
+   "y": 12.5,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 33.6,
+   "y": 20.7,
+   "partNo": "131-176",
+   "desc": "NUT - lock 5/16\" hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 60.3,
+   "y": 84.6,
+   "partNo": "C25627",
+   "desc": "SPINDLE - center",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 20.3,
+   "y": 90,
+   "partNo": "C25632",
+   "desc": "SPINDLE - R.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 91.5,
+   "y": 72.2,
+   "partNo": "C25635",
+   "desc": "SPINDLE - L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 60.8,
+   "y": 66.3,
+   "partNo": "C40722",
+   "desc": "HOUSING - center spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 39.5,
+   "y": 68.2,
+   "partNo": "C40955",
+   "desc": "HOUSING - outward spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 92.4,
+   "y": 54.1,
+   "partNo": "C40955",
+   "desc": "HOUSING - outward spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 37.3,
+   "y": 65.5,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "6"
+  },
+  {
+   "ref": "28",
+   "x": 58.7,
+   "y": 63.8,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "6"
+  },
+  {
+   "ref": "28",
+   "x": 89.8,
+   "y": 58.8,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "6"
+  },
+  {
+   "ref": "28",
+   "x": 89.8,
+   "y": 51.1,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "6"
+  },
+  {
+   "ref": "28",
+   "x": 37.7,
+   "y": 73.7,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "6"
+  },
+  {
+   "ref": "28",
+   "x": 58.7,
+   "y": 71.9,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "6"
+  },
+  {
+   "ref": "29",
+   "x": 89.8,
+   "y": 61.6,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "29",
+   "x": 59.1,
+   "y": 60.9,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "29",
+   "x": 37.7,
+   "y": 61.6,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "29",
+   "x": 90,
+   "y": 48.4,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "29",
+   "x": 37.5,
+   "y": 76.5,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "29",
+   "x": 59.1,
+   "y": 74.9,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "30",
+   "x": 23.2,
+   "y": 65,
+   "partNo": "C10810",
+   "desc": "SPACER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "30",
+   "x": 44.9,
+   "y": 62.9,
+   "partNo": "C10810",
+   "desc": "SPACER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "30",
+   "x": 75.4,
+   "y": 50.3,
+   "partNo": "C10810",
+   "desc": "SPACER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "31",
+   "x": 22.8,
+   "y": 79.1,
+   "partNo": "C25541",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "31",
+   "x": 44.4,
+   "y": 76.6,
+   "partNo": "C25541",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "31",
+   "x": 75,
+   "y": 64.2,
+   "partNo": "C25541",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "32",
+   "x": 73.3,
+   "y": 59.2,
+   "partNo": "219-20",
+   "desc": "FITTING - lubrication",
+   "reqd": "3"
+  },
+  {
+   "ref": "32",
+   "x": 41.1,
+   "y": 70.8,
+   "partNo": "219-20",
+   "desc": "FITTING - lubrication",
+   "reqd": "3"
+  },
+  {
+   "ref": "32",
+   "x": 19.7,
+   "y": 72.9,
+   "partNo": "219-20",
+   "desc": "FITTING - lubrication",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": ""
+}

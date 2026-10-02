@@ -1,0 +1,178 @@
+{
+ "sectionTitle": "Auger and Drive Shaft (AHSB48)",
+ "breadcrumb": "Auger and Drive Shaft (AHSB48)",
+ "catalogLabel": "Catalog 8-3230",
+ "modelNumbers": "Catalog 8-3230 — Ingersoll AHRM44, AHRM48, AHRM60 Rotary Mowers; AHSB48, DHSB48 Snowblowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3230/auger_drive_shaft_sb48.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 58.7,
+   "y": 16.3,
+   "partNo": "C28277",
+   "desc": "FLANGETTE",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 9.3,
+   "y": 45.1,
+   "partNo": "C28277",
+   "desc": "FLANGETTE",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 61.6,
+   "y": 33.5,
+   "partNo": "C28817",
+   "desc": "BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 22.7,
+   "y": 57.4,
+   "partNo": "C28817",
+   "desc": "BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 48.2,
+   "y": 38.3,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" x 3/4\" NC ZP carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 5,
+   "y": 50.5,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" x 3/4\" NC ZP carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 16.8,
+   "y": 38.8,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex ZP flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 82.6,
+   "y": 28.4,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex ZP flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 71.3,
+   "y": 4.2,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" - 16x3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 61.1,
+   "y": 9.5,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 18.2,
+   "y": 9.7,
+   "partNo": "C18183",
+   "desc": "CHAIN - auger drive 75 pitches #40 roller chain",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 34.2,
+   "y": 14.2,
+   "partNo": "C28983",
+   "desc": "LINK - offset #40",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 30.3,
+   "y": 55.1,
+   "partNo": "NSS",
+   "desc": "COLLAR - locking (included with item 2)",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 47.3,
+   "y": 22.1,
+   "partNo": "NSS",
+   "desc": "COLLAR - locking (included with item 2)",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 35.6,
+   "y": 50.9,
+   "partNo": "C42157",
+   "desc": "SHAFT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 29,
+   "y": 71.6,
+   "partNo": "C25853",
+   "desc": "AUGER - 48\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 35.6,
+   "y": 86.9,
+   "partNo": "C25840",
+   "desc": "SLEEVE - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 27.6,
+   "y": 91.1,
+   "partNo": "C28971",
+   "desc": "BEARING - auger",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 18.6,
+   "y": 95.8,
+   "partNo": "C25841",
+   "desc": "SHAFT - stub",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 95.5,
+   "y": 34.1,
+   "partNo": "TBD",
+   "desc": "WASHER (circled 21 on diagram, not listed in printed parts table)",
+   "reqd": ""
+  },
+  {
+   "ref": "22",
+   "x": 3.9,
+   "y": 91.8,
+   "partNo": "TBD",
+   "desc": "BOLT (circled 22 on diagram, not listed in printed parts table)",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Ref 11 chain also uses C28982 LINK - connecting #40 (1) and C28984 LINK - roller #40 (2).\nRef 14 locking collar is not sold separately - included with item 2 (bearing).\nAlso listed, not shown on diagram: ref 4 121-226 — BOLT - 3/8\" x 1\" NC hex (use lock sealant on threads) flange lock (Req'd 2); ref 6 C28209 — BRACKET - bearing (Req'd 1); ref 7 138-81 — PIN - roll 5/32\" x 1-1/2\" (Req'd 1); ref 9 195-522 — WASHER - spacer 3/8\" (Req'd UAR); ref 13 138-138 — PIN - roll 1/4\" - 1-1/2\" (Req'd 1); ref 16 C31953 — PULLEY - drive shaft (Req'd 1)."
+}

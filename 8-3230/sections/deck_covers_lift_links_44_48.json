@@ -1,0 +1,230 @@
+{
+ "sectionTitle": "Deck, Covers and Lift Links (AHRM44/AHRM48)",
+ "breadcrumb": "Deck, Covers and Lift Links (AHRM44/AHRM48)",
+ "catalogLabel": "Catalog 8-3230",
+ "modelNumbers": "Catalog 8-3230 — Ingersoll AHRM44, AHRM48, AHRM60 Rotary Mowers; AHSB48, DHSB48 Snowblowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3230/deck_covers_lift_links_44_48.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 29.2,
+   "y": 31.2,
+   "variants": [
+    {
+     "serialNote": "AHRM44",
+     "partNo": "C42164",
+     "desc": "COVER - deck belt (AHRM44)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "AHRM48",
+     "partNo": "C37342",
+     "desc": "COVER - deck belt (AHRM48)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 75.3,
+   "y": 84.3,
+   "partNo": "C28105",
+   "desc": "RING - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 80.2,
+   "y": 82,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 32,
+   "y": 9.6,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" x 1/2\" self-tapping",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 30.2,
+   "y": 24.4,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" x 1/2\" self-tapping",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "5",
+   "x": 69.4,
+   "y": 84.7,
+   "partNo": "C18315",
+   "desc": "LINK - lift (use with tractor model 3118)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 86.2,
+   "y": 93,
+   "partNo": "C25703",
+   "desc": "LINK - lift (use with tractor models 4116, 4118, 4120)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 84.8,
+   "y": 59.8,
+   "partNo": "C31500",
+   "desc": "ROLLER - anti-scalp",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 91.8,
+   "y": 54.3,
+   "partNo": "C31501",
+   "desc": "SPACER - sleeve",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 95.6,
+   "y": 42.4,
+   "variants": [
+    {
+     "serialNote": "carriage bolt (1)",
+     "partNo": "111-375",
+     "desc": "BOLT - 3/8\" - 16 x 3\" carriage",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "hex head bolt (1)",
+     "partNo": "113-241",
+     "desc": "BOLT - 3/8\" - 16 x 3 hex head",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 79.3,
+   "y": 60.3,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 84.7,
+   "y": 30,
+   "variants": [
+    {
+     "serialNote": "AHRM44",
+     "partNo": "C42165",
+     "desc": "DECK - mower (AHRM44)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "AHRM48",
+     "partNo": "C37325",
+     "desc": "DECK - mower (AHRM48)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 30.2,
+   "y": 76.2,
+   "partNo": "C32958",
+   "desc": "DEFLECTOR - chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 19.4,
+   "y": 56.6,
+   "partNo": "C30766",
+   "desc": "ROD - pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 12.2,
+   "y": 56.7,
+   "partNo": "C30768",
+   "desc": "NUT - push",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 35.3,
+   "y": 67.7,
+   "partNo": "C31505",
+   "desc": "SPRING - chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 87.8,
+   "y": 87.3,
+   "partNo": "C10821",
+   "desc": "PIN - clevis",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 28,
+   "y": 19.2,
+   "variants": [
+    {
+     "serialNote": "AHRM44",
+     "partNo": "C42173",
+     "desc": "COVER - motor (AHRM44)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "AHRM48",
+     "partNo": "C37341",
+     "desc": "COVER - motor (AHRM48)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 51.3,
+   "y": 80.6,
+   "partNo": "C31518",
+   "desc": "SKID - rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 66.3,
+   "y": 68.2,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 60.7,
+   "y": 81,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 34.1,
+   "y": 42.1,
+   "partNo": "C40953",
+   "desc": "TRIM - liner",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Ref 5 lift link is used with tractor model 3118; ref 6 with models 4116, 4118 and 4120.\nRef 9: two bolts are used, one of each - 111-375 carriage bolt and 113-241 hex head bolt."
+}
