@@ -1,0 +1,696 @@
+{
+ "sectionTitle": "C36S/CT36S/C48S/CT48S - Auger Assembly",
+ "breadcrumb": "C36S/CT36S/C48S/CT48S - Auger Assembly",
+ "catalogLabel": "Catalog 988",
+ "modelNumbers": "Catalog 988 (with 991 & 1236) — Case & Colt Snow Throwers: C36S, CT36S, C48S, CT48S, D36S, SB36, D48S, SB48, E36S, C36 & C36R",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/988/auger_assembly_c36s_c48s.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 24.3,
+   "y": 14.6,
+   "variants": [
+    {
+     "serialNote": "36\" units",
+     "partNo": "C11060",
+     "desc": "SHAFT - auger",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "48\" units",
+     "partNo": "C11438",
+     "desc": "SHAFT - auger",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 11.3,
+   "y": 55.5,
+   "partNo": "C11061",
+   "desc": "SPROCKET - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 3.5,
+   "y": 49,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 16.2,
+   "y": 28.6,
+   "variants": [
+    {
+     "serialNote": "As required",
+     "partNo": "B12501",
+     "desc": "LINK - connecting",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "As required",
+     "partNo": "B12503",
+     "desc": "LINK - roller",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "As required",
+     "partNo": "B12502",
+     "desc": "LINK - offset",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 14,
+   "y": 37.8,
+   "partNo": "C11065",
+   "desc": "SPACER - sprocket to auger",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 22.9,
+   "y": 53.9,
+   "partNo": "C11066",
+   "desc": "GUARD - chain",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 65.3,
+   "y": 38.4,
+   "partNo": "C11066",
+   "desc": "GUARD - chain",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 18,
+   "y": 49,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16",
+   "reqd": "19"
+  },
+  {
+   "ref": "7",
+   "x": 8.2,
+   "y": 52.6,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16",
+   "reqd": "19"
+  },
+  {
+   "ref": "7",
+   "x": 22.5,
+   "y": 80.2,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16",
+   "reqd": "19"
+  },
+  {
+   "ref": "7",
+   "x": 52.3,
+   "y": 75.5,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16",
+   "reqd": "19"
+  },
+  {
+   "ref": "8",
+   "x": 14.3,
+   "y": 53.2,
+   "partNo": "13-510",
+   "desc": "BOLT - 5/16 x 5/8 N.C. Hex",
+   "reqd": "9"
+  },
+  {
+   "ref": "8",
+   "x": 23.5,
+   "y": 86.5,
+   "partNo": "13-510",
+   "desc": "BOLT - 5/16 x 5/8 N.C. Hex",
+   "reqd": "9"
+  },
+  {
+   "ref": "9",
+   "x": 25.2,
+   "y": 45.1,
+   "partNo": "C11067",
+   "desc": "BEARING - auger",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 60.5,
+   "y": 14.4,
+   "partNo": "C11067",
+   "desc": "BEARING - auger",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 17.7,
+   "y": 56.1,
+   "partNo": "187-992",
+   "desc": "SCREW - sheet metal, 1/4 x 1/2",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 77.9,
+   "y": 90.5,
+   "partNo": "95-22",
+   "desc": "WASHER - plain",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 3.6,
+   "y": 53.3,
+   "partNo": "13-532",
+   "desc": "BOLT - 5/16 x 2 N.C. Hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 42.3,
+   "y": 48.3,
+   "variants": [
+    {
+     "serialNote": "36\" units",
+     "partNo": "C11071",
+     "desc": "BLADE - scraper",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "48\" units",
+     "partNo": "C11440",
+     "desc": "BLADE - scraper",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 51.4,
+   "y": 36.9,
+   "partNo": "11-410",
+   "desc": "BOLT - 1/4 x 5/8 Rd. Hd. Sq. Neck",
+   "reqd": "7"
+  },
+  {
+   "ref": "15",
+   "x": 69.2,
+   "y": 10.7,
+   "partNo": "131-350",
+   "desc": "NUT - lock, 1/4 N.C. Hex",
+   "reqd": "9"
+  },
+  {
+   "ref": "15",
+   "x": 55.4,
+   "y": 42.3,
+   "partNo": "131-350",
+   "desc": "NUT - lock, 1/4 N.C. Hex",
+   "reqd": "9"
+  },
+  {
+   "ref": "16",
+   "x": 88.3,
+   "y": 77.9,
+   "partNo": "C11116",
+   "desc": "BELT - auger drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 71.1,
+   "y": 37,
+   "partNo": "13-48",
+   "desc": "BOLT - 1/4 x 1/2 N.C. Hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 74.8,
+   "y": 36.3,
+   "partNo": "195-521",
+   "desc": "WASHER - plain 1/4",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 90.1,
+   "y": 16.1,
+   "partNo": "195-521",
+   "desc": "WASHER - plain 1/4",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 71.8,
+   "y": 80.7,
+   "partNo": "195-521",
+   "desc": "WASHER - plain 1/4",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 75.8,
+   "y": 26.4,
+   "partNo": "C11083",
+   "desc": "WASHER - concave tooth",
+   "reqd": "5"
+  },
+  {
+   "ref": "19",
+   "x": 86.9,
+   "y": 18.2,
+   "partNo": "C11083",
+   "desc": "WASHER - concave tooth",
+   "reqd": "5"
+  },
+  {
+   "ref": "19",
+   "x": 72.7,
+   "y": 9.7,
+   "partNo": "C11083",
+   "desc": "WASHER - concave tooth",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 72.8,
+   "y": 18.4,
+   "variants": [
+    {
+     "serialNote": "36\" units",
+     "partNo": "C11069",
+     "desc": "SPACER - auger",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "48\" units",
+     "partNo": "95-16",
+     "desc": "WASHER - plain",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 95.2,
+   "y": 38.1,
+   "partNo": "C11442",
+   "desc": "CABLE - 56\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 95.8,
+   "y": 27.9,
+   "partNo": "219-6",
+   "desc": "FITTING, lubrication",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 59.9,
+   "y": 89.4,
+   "partNo": "219-6",
+   "desc": "FITTING, lubrication",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 91.7,
+   "y": 19.5,
+   "partNo": "C11075",
+   "desc": "CHUTE",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 88.8,
+   "y": 50.9,
+   "partNo": "C11073",
+   "desc": "TUBE - cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 93.4,
+   "y": 53.3,
+   "partNo": "C11074",
+   "desc": "EYEBOLT",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 81.3,
+   "y": 6.9,
+   "partNo": "C11076",
+   "desc": "DEFLECTOR - chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 84.1,
+   "y": 90.9,
+   "partNo": "C11085",
+   "desc": "PULLEY - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 86.9,
+   "y": 87,
+   "partNo": "85-58",
+   "desc": "SCREW - set",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 65.4,
+   "y": 12.1,
+   "partNo": "13-412",
+   "desc": "BOLT - 1/4 x 3/4 N.C. Hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 63.3,
+   "y": 86.7,
+   "variants": [
+    {
+     "serialNote": "36\" units",
+     "partNo": "C11079",
+     "desc": "HOUSING - jackshaft",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "48\" units",
+     "partNo": "C11444",
+     "desc": "HOUSING - jackshaft",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 79.6,
+   "y": 73.6,
+   "partNo": "11-512",
+   "desc": "BOLT - 5/16 x 3/8 Rd. Hd. Sq. Neck",
+   "reqd": "6"
+  },
+  {
+   "ref": "32",
+   "x": 57.1,
+   "y": 12.5,
+   "variants": [
+    {
+     "serialNote": "36\" units",
+     "partNo": "C11068",
+     "desc": "AUGER -",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "48\" units",
+     "partNo": "C11439",
+     "desc": "AUGER -",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "33",
+   "x": 63.3,
+   "y": 8,
+   "partNo": "13-820",
+   "desc": "BOLT - 1/2 x 1-1/4 N.C. Hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 51,
+   "y": 2.6,
+   "partNo": "193-32",
+   "desc": "WASHER - 1/2 Shakeproof",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 47.3,
+   "y": 3.1,
+   "partNo": "C11446",
+   "desc": "PLATE - auger shaft (48\" Units)",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 48.3,
+   "y": 46.5,
+   "partNo": "131-508",
+   "desc": "NUT - lock, 3/8 N.C. Hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 46.3,
+   "y": 49.6,
+   "partNo": "192-22",
+   "desc": "WASHER - plain, 3/8",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 82,
+   "y": 63.7,
+   "partNo": "C11062",
+   "desc": "WASHER - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 35.3,
+   "y": 51.6,
+   "variants": [
+    {
+     "serialNote": "36\" units",
+     "partNo": "C11072",
+     "desc": "HOUSING - auger",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "48\" units",
+     "partNo": "C11441",
+     "desc": "HOUSING - auger",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "40",
+   "x": 23.2,
+   "y": 75.2,
+   "partNo": "C11070",
+   "desc": "SHOE - skid",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 25.3,
+   "y": 78.2,
+   "partNo": "25-105",
+   "desc": "NUT - 5/16 N.C. Hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "41",
+   "x": 55.4,
+   "y": 74.9,
+   "partNo": "25-105",
+   "desc": "NUT - 5/16 N.C. Hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "42",
+   "x": 59.9,
+   "y": 71.9,
+   "partNo": "C11518",
+   "desc": "WASHER - special",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "43",
+   "x": 63.3,
+   "y": 70.7,
+   "partNo": "C11084",
+   "desc": "PULLEY - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 13.5,
+   "y": 97.3,
+   "partNo": "13-512",
+   "desc": "BOLT - 5/16 x 3/4 N.C. Hex",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "44",
+   "x": 27.8,
+   "y": 89.7,
+   "partNo": "13-512",
+   "desc": "BOLT - 5/16 x 3/4 N.C. Hex",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "45",
+   "x": 48.8,
+   "y": 77.2,
+   "partNo": "131-307",
+   "desc": "NUT - lock, 5/16 N.C. Hex",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "45",
+   "x": 39.5,
+   "y": 80,
+   "partNo": "131-307",
+   "desc": "NUT - lock, 5/16 N.C. Hex",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "46",
+   "x": 38.6,
+   "y": 97.1,
+   "variants": [
+    {
+     "serialNote": "36\" units",
+     "partNo": "C11078",
+     "desc": "SPROCKET AND JACKSHAFT",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "48\" units",
+     "partNo": "C11443",
+     "desc": "SPROCKET AND JACKSHAFT",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "47",
+   "x": 33.6,
+   "y": 90.9,
+   "partNo": "126-16",
+   "desc": "KEY - Woodruff #9",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 43.7,
+   "y": 95.2,
+   "partNo": "C11080",
+   "desc": "BUSHING",
+   "reqd": "2"
+  },
+  {
+   "ref": "48",
+   "x": 64.7,
+   "y": 83.7,
+   "partNo": "C11080",
+   "desc": "BUSHING",
+   "reqd": "2"
+  },
+  {
+   "ref": "49",
+   "x": 19.1,
+   "y": 96.3,
+   "partNo": "C11082",
+   "desc": "BRACKET - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "50",
+   "x": 33.9,
+   "y": 86.9,
+   "partNo": "195-26",
+   "desc": "WASHER - plain, 7/16",
+   "reqd": "4"
+  },
+  {
+   "ref": "51",
+   "x": 39.1,
+   "y": 84.8,
+   "partNo": "25-148",
+   "desc": "NUT - jam, 1/2 N.C. Hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "52",
+   "x": 46.3,
+   "y": 93.1,
+   "partNo": "C11087",
+   "desc": "HOOK - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 56.8,
+   "y": 96,
+   "partNo": "C11088",
+   "desc": "SPRING - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "54",
+   "x": 55.4,
+   "y": 91.9,
+   "partNo": "C11081",
+   "desc": "BRACKET - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "55",
+   "x": 66.5,
+   "y": 69.9,
+   "partNo": "25-148",
+   "desc": "NUT - 1/2 N.C. Hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "56",
+   "x": 69.6,
+   "y": 69,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2",
+   "reqd": "1"
+  },
+  {
+   "ref": "57",
+   "x": 73.3,
+   "y": 65.5,
+   "partNo": "95-8",
+   "desc": "WASHER - plain, 1/2",
+   "reqd": "1"
+  },
+  {
+   "ref": "58",
+   "x": 76.5,
+   "y": 67.8,
+   "partNo": "13-824",
+   "desc": "BOLT - 1/2 x 1-1/2 N.C. Hex",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "For Case 130 & 180 and Colt Deluxe, Super, Super H & Rancher tractors (catalog 988).\nRefs 1, 13, 20, 30, 32, 39, 46: different part numbers for 36\" vs 48\" units (see parts list).\nRef 3: drive chain, 76 links of #40 roller chain total - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links).\nRef 4: chain links B12501 connecting / B12503 roller / B12502 offset, as required.\nRef 35 (plate - auger shaft) is 48\" units only."
+}

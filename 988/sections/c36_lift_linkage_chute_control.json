@@ -1,0 +1,330 @@
+{
+ "sectionTitle": "C36/C36R Two-Stage - Lift Linkage and Chute Control",
+ "breadcrumb": "C36/C36R Two-Stage - Lift Linkage and Chute Control",
+ "catalogLabel": "Catalog 988",
+ "modelNumbers": "Catalog 988 (with 991 & 1236) — Case & Colt Snow Throwers: C36S, CT36S, C48S, CT48S, D36S, SB36, D48S, SB48, E36S, C36 & C36R",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/988/c36_lift_linkage_chute_control.jpg",
+ "hotspots": [
+  {
+   "ref": "54",
+   "x": 47.7,
+   "y": 67.4,
+   "partNo": "25-106",
+   "desc": "Nut-Hex 3/8-16",
+   "reqd": "8"
+  },
+  {
+   "ref": "54",
+   "x": 3.3,
+   "y": 68.7,
+   "partNo": "25-106",
+   "desc": "Nut-Hex 3/8-16",
+   "reqd": "8"
+  },
+  {
+   "ref": "69",
+   "x": 50.4,
+   "y": 79,
+   "partNo": "C10643",
+   "desc": "Link-Lift Connecting",
+   "reqd": "1"
+  },
+  {
+   "ref": "74",
+   "x": 50.9,
+   "y": 85.9,
+   "partNo": "13-620",
+   "desc": "Cap Screw-Hex. Head 3/8-16 x 1-1/4",
+   "reqd": "5"
+  },
+  {
+   "ref": "74",
+   "x": 22,
+   "y": 68.9,
+   "partNo": "13-620",
+   "desc": "Cap Screw-Hex. Head 3/8-16 x 1-1/4",
+   "reqd": "5"
+  },
+  {
+   "ref": "76",
+   "x": 50.4,
+   "y": 72.9,
+   "partNo": "92-6",
+   "desc": "Lockwasher, 3/8\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "76",
+   "x": 6.2,
+   "y": 69.4,
+   "partNo": "92-6",
+   "desc": "Lockwasher, 3/8\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "79",
+   "x": 74.7,
+   "y": 47.5,
+   "partNo": "C10646",
+   "desc": "Sleeve-Lift Weldment",
+   "reqd": "1"
+  },
+  {
+   "ref": "79",
+   "x": 3.3,
+   "y": 25.3,
+   "partNo": "C10646",
+   "desc": "Sleeve-Lift Weldment",
+   "reqd": "1"
+  },
+  {
+   "ref": "80",
+   "x": 3,
+   "y": 31.9,
+   "partNo": "C10647",
+   "desc": "Shaft-Chute Control",
+   "reqd": "1"
+  },
+  {
+   "ref": "81",
+   "x": 3.3,
+   "y": 39.3,
+   "partNo": "95-7",
+   "desc": "Washer-Plain, 1/2\"",
+   "reqd": "9"
+  },
+  {
+   "ref": "81",
+   "x": 11.7,
+   "y": 69.4,
+   "partNo": "95-7",
+   "desc": "Washer-Plain, 1/2\"",
+   "reqd": "9"
+  },
+  {
+   "ref": "81",
+   "x": 82,
+   "y": 92.4,
+   "partNo": "95-7",
+   "desc": "Washer-Plain, 1/2\"",
+   "reqd": "9"
+  },
+  {
+   "ref": "81",
+   "x": 74.9,
+   "y": 92.1,
+   "partNo": "95-7",
+   "desc": "Washer-Plain, 1/2\"",
+   "reqd": "9"
+  },
+  {
+   "ref": "82",
+   "x": 3,
+   "y": 47.5,
+   "partNo": "C10598",
+   "desc": "Oiler",
+   "reqd": "1"
+  },
+  {
+   "ref": "83",
+   "x": 9.3,
+   "y": 69.3,
+   "partNo": "C10648",
+   "desc": "Bracket-Chute Control",
+   "reqd": "1"
+  },
+  {
+   "ref": "84",
+   "x": 14.4,
+   "y": 68.9,
+   "partNo": "C10599",
+   "desc": "Spring-Chute Control",
+   "reqd": "1"
+  },
+  {
+   "ref": "85",
+   "x": 18.7,
+   "y": 69.1,
+   "partNo": "C10649",
+   "desc": "Joint-Universal",
+   "reqd": "1"
+  },
+  {
+   "ref": "86",
+   "x": 24.6,
+   "y": 69.1,
+   "partNo": "128-301",
+   "desc": "Pin-Spiral, 1/8 x 1",
+   "reqd": "2"
+  },
+  {
+   "ref": "87",
+   "x": 30.3,
+   "y": 68.6,
+   "partNo": "132-48",
+   "desc": "Pin-Cotter, 1/8 x 1",
+   "reqd": "1"
+  },
+  {
+   "ref": "88",
+   "x": 27.4,
+   "y": 68.3,
+   "partNo": "C10650",
+   "desc": "Crank-Chute Control",
+   "reqd": "1"
+  },
+  {
+   "ref": "89",
+   "x": 59,
+   "y": 59.3,
+   "partNo": "C10651",
+   "desc": "Knob-Chute Crank",
+   "reqd": "1"
+  },
+  {
+   "ref": "90",
+   "x": 70.9,
+   "y": 47.9,
+   "partNo": "A70388",
+   "desc": "Cotter-Hair Pin",
+   "reqd": "12"
+  },
+  {
+   "ref": "90",
+   "x": 69.5,
+   "y": 92,
+   "partNo": "A70388",
+   "desc": "Cotter-Hair Pin",
+   "reqd": "12"
+  },
+  {
+   "ref": "90",
+   "x": 85,
+   "y": 92,
+   "partNo": "A70388",
+   "desc": "Cotter-Hair Pin",
+   "reqd": "12"
+  },
+  {
+   "ref": "90",
+   "x": 68.1,
+   "y": 6.4,
+   "partNo": "A70388",
+   "desc": "Cotter-Hair Pin",
+   "reqd": "12"
+  },
+  {
+   "ref": "90",
+   "x": 77.5,
+   "y": 6.1,
+   "partNo": "A70388",
+   "desc": "Cotter-Hair Pin",
+   "reqd": "12"
+  },
+  {
+   "ref": "90",
+   "x": 86,
+   "y": 6.1,
+   "partNo": "A70388",
+   "desc": "Cotter-Hair Pin",
+   "reqd": "12"
+  },
+  {
+   "ref": "90",
+   "x": 33.1,
+   "y": 9,
+   "partNo": "A70388",
+   "desc": "Cotter-Hair Pin",
+   "reqd": "12"
+  },
+  {
+   "ref": "91",
+   "x": 82.6,
+   "y": 47.3,
+   "partNo": "25-108",
+   "desc": "Nut-Hex., 1/2-13",
+   "reqd": "1"
+  },
+  {
+   "ref": "91",
+   "x": 36.2,
+   "y": 8.4,
+   "partNo": "25-108",
+   "desc": "Nut-Hex., 1/2-13",
+   "reqd": "1"
+  },
+  {
+   "ref": "92",
+   "x": 89.6,
+   "y": 48.1,
+   "partNo": "92-8",
+   "desc": "Lockwasher, 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "93",
+   "x": 92.8,
+   "y": 47.6,
+   "partNo": "13-824",
+   "desc": "Cap Screw-Hex. Head 1/2-13 x 1-1/2",
+   "reqd": "1"
+  },
+  {
+   "ref": "93",
+   "x": 39.4,
+   "y": 9.3,
+   "partNo": "13-824",
+   "desc": "Cap Screw-Hex. Head 1/2-13 x 1-1/2",
+   "reqd": "1"
+  },
+  {
+   "ref": "94",
+   "x": 79.2,
+   "y": 92.4,
+   "partNo": "C10652",
+   "desc": "Pin-Lift Linkage",
+   "reqd": "3"
+  },
+  {
+   "ref": "94",
+   "x": 72.3,
+   "y": 91.7,
+   "partNo": "C10652",
+   "desc": "Pin-Lift Linkage",
+   "reqd": "3"
+  },
+  {
+   "ref": "94",
+   "x": 81.1,
+   "y": 6.7,
+   "partNo": "C10652",
+   "desc": "Pin-Lift Linkage",
+   "reqd": "3"
+  },
+  {
+   "ref": "95",
+   "x": 71.6,
+   "y": 6.1,
+   "partNo": "C10653",
+   "desc": "Pin-Lift Weldment",
+   "reqd": "1"
+  },
+  {
+   "ref": "96",
+   "x": 50.8,
+   "y": 8.3,
+   "partNo": "A70369",
+   "desc": "Pin-Adapter Support Bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "97",
+   "x": 88.9,
+   "y": 6.8,
+   "partNo": "A70364",
+   "desc": "Pin-Adapter Mounting",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Model C36 & C36R two-stage snow blower for Case 130 & 180 compact tractors (catalog 1236).\nThe C36/C36R parts list is shared by all three C36/C36R sections."
+}

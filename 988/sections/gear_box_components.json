@@ -1,0 +1,194 @@
+{
+ "sectionTitle": "C & D Series Single-Stage - Gear Box Components",
+ "breadcrumb": "C & D Series Single-Stage - Gear Box Components",
+ "catalogLabel": "Catalog 988",
+ "modelNumbers": "Catalog 988 (with 991 & 1236) — Case & Colt Snow Throwers: C36S, CT36S, C48S, CT48S, D36S, SB36, D48S, SB48, E36S, C36 & C36R",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/988/gear_box_components.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 4.2,
+   "y": 6.5,
+   "partNo": "T25683",
+   "desc": "SNAP RING - shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 32.3,
+   "y": 81.8,
+   "partNo": "T25683",
+   "desc": "SNAP RING - shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 10,
+   "y": 6.7,
+   "partNo": "C11119",
+   "desc": "BEARING - shaft",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 25.6,
+   "y": 48.4,
+   "partNo": "C11119",
+   "desc": "BEARING - shaft",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 36.9,
+   "y": 77.4,
+   "partNo": "C11119",
+   "desc": "BEARING - shaft",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 46.4,
+   "y": 47.4,
+   "partNo": "C11119",
+   "desc": "BEARING - shaft",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 16.9,
+   "y": 8.9,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 20.7,
+   "y": 50.5,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 42,
+   "y": 74.9,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 41.1,
+   "y": 45.3,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 22,
+   "y": 3.2,
+   "partNo": "25-205",
+   "desc": "NUT - 5/16 N.C. Hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 26.6,
+   "y": 2.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 5/16",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 33.5,
+   "y": 3.7,
+   "partNo": "195-20",
+   "desc": "WASHER - plain 5/16",
+   "reqd": "8"
+  },
+  {
+   "ref": "6",
+   "x": 90.1,
+   "y": 62.8,
+   "partNo": "195-20",
+   "desc": "WASHER - plain 5/16",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 43,
+   "y": 7.4,
+   "partNo": "NSS",
+   "desc": "HOUSING - (Order C 11117 assembly)",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 82.4,
+   "y": 94.4,
+   "partNo": "NSS",
+   "desc": "HOUSING - (Order C 11117 assembly)",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 49.3,
+   "y": 5.3,
+   "partNo": "C11118",
+   "desc": "PLUG - oil",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 92.4,
+   "y": 83.2,
+   "partNo": "C11118",
+   "desc": "PLUG - oil",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 62.7,
+   "y": 55.1,
+   "partNo": "C11120",
+   "desc": "SHAFT AND GEAR - output 32T (Replace as a pair with C 11121)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 35.5,
+   "y": 49,
+   "partNo": "C11121",
+   "desc": "SHAFT AND GEAR - input 22T (Replace as a pair with C 11120)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 45.2,
+   "y": 69.1,
+   "partNo": "C11122",
+   "desc": "GASKET - housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 95.5,
+   "y": 70.4,
+   "partNo": "13-528",
+   "desc": "BOLT - 5/16 x 1-1/4 N.C. Hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 84.9,
+   "y": 62.1,
+   "partNo": "C11123",
+   "desc": "SPACER",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "For all 988 single-stage snow throwers (C36S, CT36S, C48S, CT48S, D36S, SB36, D48S, SB48).\nComplete gearbox assembly: C11117.\nRef 7 housing is not serviced separately (NSS) - order C11117 assembly.\nRefs 9 and 10 (output/input shaft and gear) must be replaced as a pair.\nAlso listed: C11117 GEARBOX (complete assembly)"
+}

@@ -1,0 +1,426 @@
+{
+ "sectionTitle": "E36S - Auger Assembly",
+ "breadcrumb": "E36S - Auger Assembly",
+ "catalogLabel": "Catalog 988",
+ "modelNumbers": "Catalog 988 (with 991 & 1236) — Case & Colt Snow Throwers: C36S, CT36S, C48S, CT48S, D36S, SB36, D48S, SB48, E36S, C36 & C36R",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/988/e36s_auger_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 62.5,
+   "y": 47.1,
+   "partNo": "C11703",
+   "desc": "HOUSING - auger",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 89.4,
+   "y": 69.4,
+   "partNo": "C11759",
+   "desc": "AUGER",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 96.3,
+   "y": 67.4,
+   "partNo": "C11738",
+   "desc": "BEARING - auger",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 38.8,
+   "y": 90.1,
+   "partNo": "C11738",
+   "desc": "BEARING - auger",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 88.5,
+   "y": 59.1,
+   "partNo": "C11760",
+   "desc": "SHAFT - auger",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 63.6,
+   "y": 67.2,
+   "partNo": "111-302",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C. Rd. Hd. Sq. Neck",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 73.2,
+   "y": 60.3,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 42.1,
+   "y": 21.9,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 77.3,
+   "y": 58.6,
+   "partNo": "129-103",
+   "desc": "NUT - N.C. Hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 38.2,
+   "y": 24.4,
+   "partNo": "129-103",
+   "desc": "NUT - N.C. Hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 14.4,
+   "y": 93.9,
+   "partNo": "C12214",
+   "desc": "WHEEL - guide",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 16.1,
+   "y": 91.3,
+   "partNo": "C11729",
+   "desc": "BUSHING - guide wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 35.7,
+   "y": 81.8,
+   "partNo": "12-628",
+   "desc": "BOLT - 3/8\" x 1-3/4\" Rd. Hd. Sq. Neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 4.6,
+   "y": 95.7,
+   "partNo": "131-6",
+   "desc": "NUT - lock, 3/8\" N.C.",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 3.6,
+   "y": 76.7,
+   "partNo": "131-6",
+   "desc": "NUT - lock, 3/8\" N.C.",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 9,
+   "y": 94.1,
+   "partNo": "195-524",
+   "desc": "WASHER - 3/8\" Plain",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 19.8,
+   "y": 90.1,
+   "partNo": "C12215",
+   "desc": "BUSHING - nylon",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 7.3,
+   "y": 42.1,
+   "partNo": "C11739",
+   "desc": "ARM - mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 7,
+   "y": 60,
+   "partNo": "115-505",
+   "desc": "BOLT - 5/8\" x 1-1/2\" N.C. Hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 21.6,
+   "y": 41.9,
+   "partNo": "92-10",
+   "desc": "WASHER - 5/8\" SAE Lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 25.3,
+   "y": 40.3,
+   "partNo": "129-107",
+   "desc": "NUT - 5/8\" N.C. Hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 13.6,
+   "y": 40.5,
+   "partNo": "C12692",
+   "desc": "PIN - clevis",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 3.6,
+   "y": 44,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 28.6,
+   "y": 48,
+   "partNo": "C11741",
+   "desc": "ROLLER - chute",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 39.1,
+   "y": 49.2,
+   "partNo": "C11742",
+   "desc": "BUSHING - roller",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 39.8,
+   "y": 52.5,
+   "partNo": "111-109",
+   "desc": "BOLT - 1/4\" x 1-1/4\" Rd. Hd. Sq. Neck N.C.",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 39.9,
+   "y": 46,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\" Plain",
+   "reqd": "7"
+  },
+  {
+   "ref": "23",
+   "x": 63.7,
+   "y": 7.3,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\" Plain",
+   "reqd": "7"
+  },
+  {
+   "ref": "23",
+   "x": 60.2,
+   "y": 26.1,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\" Plain",
+   "reqd": "7"
+  },
+  {
+   "ref": "24",
+   "x": 30.7,
+   "y": 42.9,
+   "partNo": "131-2",
+   "desc": "NUT - lock 1/4\" N.C.",
+   "reqd": "6"
+  },
+  {
+   "ref": "24",
+   "x": 56.9,
+   "y": 6.3,
+   "partNo": "131-2",
+   "desc": "NUT - lock 1/4\" N.C.",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 47.9,
+   "y": 12,
+   "partNo": "C11753",
+   "desc": "CHUTE - discharge",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 76,
+   "y": 2.5,
+   "partNo": "C11766",
+   "desc": "DEFLECTOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 46.4,
+   "y": 41.1,
+   "partNo": "132-321",
+   "desc": "PIN - cotter, 3/32\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 90.7,
+   "y": 15.2,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 63 pitches of #41 roller chain - use 3 x B17074 (20 links) + B17077 connector link + B17079 roller link + B17078 offset link (ref 29)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 53,
+   "y": 37.9,
+   "partNo": "115-205",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. Hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 54.2,
+   "y": 33.2,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" Plain",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 83.5,
+   "y": 18.7,
+   "partNo": "C11750",
+   "desc": "LOCK - deflector",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 84.6,
+   "y": 28.4,
+   "partNo": "47-24",
+   "desc": "RIVET - flat hd. 1/8\" x 1/4\" Lg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 30.2,
+   "y": 11.5,
+   "partNo": "C12064",
+   "desc": "BRACKET - control rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 40.5,
+   "y": 13.8,
+   "partNo": "111-362",
+   "desc": "BOLT - 3/8\" x 1\" Rd. Hd. Sq. Neck N.C.",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 52.8,
+   "y": 30.7,
+   "partNo": "131-352",
+   "desc": "NUT - lock, 3/8\" N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 7.3,
+   "y": 75.2,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" Plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 21.6,
+   "y": 22.6,
+   "partNo": "C12053",
+   "desc": "ROD - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 43.1,
+   "y": 37.8,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" Plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 62.5,
+   "y": 31.3,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 45.8,
+   "y": 23.8,
+   "partNo": "C12054",
+   "desc": "LINK - chute control, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 31.7,
+   "y": 33.7,
+   "partNo": "C12055",
+   "desc": "LINK - chute control, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 27.9,
+   "y": 6.9,
+   "partNo": "C12063",
+   "desc": "SPRING - control rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 17.5,
+   "y": 6.1,
+   "partNo": "138-138",
+   "desc": "PIN - roll, 1/4\" x 1-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 9.5,
+   "y": 4,
+   "partNo": "A23685",
+   "desc": "KNOB - control rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 12.5,
+   "y": 60.4,
+   "partNo": "C12068",
+   "desc": "GUIDE - chain",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Model E36S for Case 155 & 195 compact tractors (catalog 991)."
+}

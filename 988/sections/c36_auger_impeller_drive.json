@@ -1,0 +1,326 @@
+{
+ "sectionTitle": "C36/C36R Two-Stage - Auger, Impeller and Drive",
+ "breadcrumb": "C36/C36R Two-Stage - Auger, Impeller and Drive",
+ "catalogLabel": "Catalog 988",
+ "modelNumbers": "Catalog 988 (with 991 & 1236) — Case & Colt Snow Throwers: C36S, CT36S, C48S, CT48S, D36S, SB36, D48S, SB48, E36S, C36 & C36R",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/988/c36_auger_impeller_drive.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "partNo": "13-48",
+   "desc": "Screw-Hex. Head 1/4-20 x 1/2",
+   "reqd": "15"
+  },
+  {
+   "ref": "2",
+   "partNo": "92-4",
+   "desc": "Washer-Split Lock, 1/4",
+   "reqd": "15"
+  },
+  {
+   "ref": "3",
+   "partNo": "C10601",
+   "desc": "Cup-Bearing, Less nuts",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "partNo": "C10602",
+   "desc": "Bearing-Sealed Ball",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "partNo": "C10600",
+   "desc": "Housing-Impeller",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "partNo": "C10603",
+   "desc": "Cup-Bearing, with Nuts",
+   "reqd": "5"
+  },
+  {
+   "ref": "7",
+   "partNo": "129-405",
+   "desc": "Wing Nut-5/16-18",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "partNo": "95-4",
+   "desc": "Washer-Plain, 5/16",
+   "reqd": "11"
+  },
+  {
+   "ref": "9",
+   "partNo": "C10604",
+   "desc": "Guard-Side Chain",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "partNo": "09640-AB",
+   "desc": "Ring-Retaining, Type \"E\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "partNo": "C10605",
+   "desc": "Sprocket-30T 3/4\" Bore",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "partNo": "126-16",
+   "desc": "Key-#9 Woodruff",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "variants": [
+    {
+     "serialNote": "Right",
+     "partNo": "C10606",
+     "desc": "Auger Assembly-Right",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Left",
+     "partNo": "C10607",
+     "desc": "Auger Assembly-Left",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "partNo": "C10626",
+   "desc": "Bolt-Shear, 5/16 x 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "partNo": "131-351",
+   "desc": "Lock Nut-5/16-18",
+   "reqd": "10"
+  },
+  {
+   "ref": "16",
+   "partNo": "C10608",
+   "desc": "Shaft Auger",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "partNo": "NSS",
+   "desc": "Chain - 64 pitches of #41-1/2\" roller chain - use 3 x B17074 (20 links) + 2 x B17077 conn. link + 2 x B17079 roller link",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "partNo": "C10610",
+   "desc": "Impeller",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "partNo": "C10611",
+   "desc": "Shaft-Impeller",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "partNo": "138-136",
+   "desc": "Roll Pins-1/4 x 1-1/4",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "partNo": "C10612",
+   "desc": "Skid-Scoop",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "partNo": "95-5",
+   "desc": "Washer-Plain, 3/8",
+   "reqd": "14"
+  },
+  {
+   "ref": "23",
+   "partNo": "131-352",
+   "desc": "Lock Nut-3/8-16",
+   "reqd": "5"
+  },
+  {
+   "ref": "24",
+   "partNo": "C10613",
+   "desc": "Blade-Scraper",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "partNo": "11-510",
+   "desc": "Bolt-Carriage, 5/16-18 x 5/8",
+   "reqd": "7"
+  },
+  {
+   "ref": "26",
+   "partNo": "C10614",
+   "desc": "Tube-Chain Guard Spacer",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "partNo": "C10615",
+   "desc": "Sprocket-10T 3/4\" Bore",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "partNo": "A20202",
+   "desc": "Ring-Retaining, Type \"E\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "partNo": "13-510",
+   "desc": "Screw-Hex Head 5/16-18 x 5/8",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "partNo": "C10616",
+   "desc": "Sprocket-10T 5/8\" Bore",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "partNo": "NSS",
+   "desc": "Chain - 87 pitches of #41-1/2\" roller chain - use 4 x B17074 (20 links) + 1 x B17076 (6 links) + 1 x B17078 offset link",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "partNo": "C10618",
+   "desc": "Guard-Rear Chain",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "partNo": "187-534",
+   "desc": "Screw-Self-Tapping #10-24 x 1/2",
+   "reqd": "3"
+  },
+  {
+   "ref": "34",
+   "partNo": "01038-FH",
+   "desc": "Ring-Retaining Ext., 5/8",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "partNo": "C10619",
+   "desc": "Sprocket-Gear Box",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "partNo": "193-9",
+   "desc": "Lockwasher-Ext. Tooth 5/16",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "partNo": "13-512",
+   "desc": "Screw-Hex Head 5/16-18 x 3/4",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "partNo": "C10620",
+   "desc": "Clamp-Chute Ring",
+   "reqd": "3"
+  },
+  {
+   "ref": "39",
+   "partNo": "25-105",
+   "desc": "Nut-Hex, 5/16-18",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "partNo": "C10621",
+   "desc": "Chute Assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "partNo": "C10622",
+   "desc": "Deflector-Chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "partNo": "C10623",
+   "desc": "Gear Box",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "partNo": "173-97",
+   "desc": "Screw-Round Head Slotted #10-24 x 1/2",
+   "reqd": "6"
+  },
+  {
+   "ref": "44",
+   "partNo": "11-524",
+   "desc": "Bolt-Carriage, 5/16-18 x 1-1/2",
+   "reqd": "2"
+  },
+  {
+   "ref": "45",
+   "partNo": "C10624",
+   "desc": "Spacer-7/8 O.D. x 3/4 I.D.",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "variants": [
+    {
+     "serialNote": "C36 & CT36",
+     "partNo": "C10510",
+     "desc": "V-Belt-Final Drive C36 & CT36",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "C36R & CT36R",
+     "partNo": "C10511",
+     "desc": "V-Belt-Final Drive C36R & CT36R",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "48",
+   "partNo": "C10627",
+   "desc": "Pulley-Drive 1/2\" O.D. x 3/4\" Bore, for 3-V Belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "57",
+   "partNo": "13-924",
+   "desc": "Cap Screw-Hex Head 9/16-12 x 1-1/2",
+   "reqd": "1"
+  },
+  {
+   "ref": "98",
+   "partNo": "83-56",
+   "desc": "Set Screw, 5/16-18 x 3/8",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Due to image quality, the interactive feature is unavailable for this section.\nModel C36 & C36R two-stage snow blower for Case 130 & 180 compact tractors (catalog 1236).\nRef 13: right auger C10606 / left auger C10607.\nThe C36/C36R parts list is shared by all three C36/C36R sections."
+}

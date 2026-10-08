@@ -1,0 +1,122 @@
+{
+ "sectionTitle": "E36S - Drive Shaft Assembly",
+ "breadcrumb": "E36S - Drive Shaft Assembly",
+ "catalogLabel": "Catalog 988",
+ "modelNumbers": "Catalog 988 (with 991 & 1236) — Case & Colt Snow Throwers: C36S, CT36S, C48S, CT48S, D36S, SB36, D48S, SB48, E36S, C36 & C36R",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/988/e36s_drive_shaft_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 44,
+   "y": 10.7,
+   "partNo": "C12321",
+   "desc": "SHAFT - female half",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 5.3,
+   "y": 27.4,
+   "partNo": "C12313",
+   "desc": "YOKE - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 16,
+   "y": 39.7,
+   "partNo": "C12319",
+   "desc": "KIT - center cross assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29,
+   "y": 54,
+   "partNo": "C12314",
+   "desc": "YOKE - slip",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 21,
+   "y": 43.2,
+   "partNo": "NSS",
+   "desc": "PLUG - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 45.8,
+   "y": 26.3,
+   "partNo": "219-17",
+   "desc": "FITTING - grease",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 28.7,
+   "y": 14.4,
+   "partNo": "219-40",
+   "desc": "FITTING - grease",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 92.2,
+   "y": 51.6,
+   "partNo": "C12322",
+   "desc": "SHAFT - male half",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 54.5,
+   "y": 77.4,
+   "partNo": "C12316",
+   "desc": "YOKE - splined",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 65.2,
+   "y": 85.8,
+   "partNo": "C12319",
+   "desc": "KIT - center cross assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 77.5,
+   "y": 56.8,
+   "partNo": "219-40",
+   "desc": "FITTING - grease",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 72,
+   "y": 92.5,
+   "partNo": "C12313",
+   "desc": "YOKE - gear box end",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 39.1,
+   "y": 60,
+   "partNo": "C12318",
+   "desc": "SEAL - grease",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 43,
+   "y": 66.8,
+   "partNo": "C12315",
+   "desc": "RETAINER - grease seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Model E36S for Case 155 & 195 compact tractors (catalog 991).\nComplete drive shaft assembly: C11767.\nSetscrew 81-66 (one each) used with the ref 2 and ref 12 yokes.\nRef 5 dust plug is NSS.\nAlso listed: C11767 SHAFT - drive assembly (complete); 81-66 SETSCREW (for ref 2 yoke); 81-66 SETSCREW (for ref 12 yoke)"
+}

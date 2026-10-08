@@ -1,0 +1,618 @@
+{
+ "sectionTitle": "C36S/CT36S/C48S/CT48S - Mounting Assembly",
+ "breadcrumb": "C36S/CT36S/C48S/CT48S - Mounting Assembly",
+ "catalogLabel": "Catalog 988",
+ "modelNumbers": "Catalog 988 (with 991 & 1236) — Case & Colt Snow Throwers: C36S, CT36S, C48S, CT48S, D36S, SB36, D48S, SB48, E36S, C36 & C36R",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/988/mounting_assembly_c36s_c48s.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.8,
+   "y": 8.8,
+   "partNo": "11-616",
+   "desc": "BOLT - 3/8 x 1 Rd. Hd. Sq. Neck",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 23.8,
+   "y": 9.4,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 38.1,
+   "y": 12.1,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 57.8,
+   "y": 2.7,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 29.3,
+   "y": 26.5,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 41.1,
+   "y": 35.7,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 65.9,
+   "y": 27.2,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 90.9,
+   "y": 36.8,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 86.6,
+   "y": 18.5,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 38.6,
+   "y": 64.2,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "2",
+   "x": 64.6,
+   "y": 61.5,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8",
+   "reqd": "18"
+  },
+  {
+   "ref": "3",
+   "x": 60.8,
+   "y": 60.9,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 27.5,
+   "y": 60.6,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 41.8,
+   "y": 12.9,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 84.6,
+   "y": 21.2,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 88.3,
+   "y": 35.5,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 27.3,
+   "y": 10.5,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 61,
+   "y": 4.5,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 64.7,
+   "y": 24.9,
+   "partNo": "NSS",
+   "desc": "CHAIN - drive, 76 links of #40 roller chain - use B12470 (50 links) + B12471 (20 links) + B12473 (6 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 35.1,
+   "y": 11,
+   "partNo": "13-620",
+   "desc": "BOLT - 3/8 x 1-1/4 N.C. Hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "4",
+   "x": 47.1,
+   "y": 70.8,
+   "partNo": "13-620",
+   "desc": "BOLT - 3/8 x 1-1/4 N.C. Hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "4",
+   "x": 67.3,
+   "y": 63.3,
+   "partNo": "13-620",
+   "desc": "BOLT - 3/8 x 1-1/4 N.C. Hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "4",
+   "x": 94,
+   "y": 38.9,
+   "partNo": "13-620",
+   "desc": "BOLT - 3/8 x 1-1/4 N.C. Hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "5",
+   "x": 35.3,
+   "y": 29.4,
+   "partNo": "C11099",
+   "desc": "TRUNNION",
+   "reqd": "9"
+  },
+  {
+   "ref": "5",
+   "x": 59.5,
+   "y": 47.9,
+   "partNo": "C11099",
+   "desc": "TRUNNION",
+   "reqd": "9"
+  },
+  {
+   "ref": "5",
+   "x": 45.6,
+   "y": 15.3,
+   "partNo": "C11099",
+   "desc": "TRUNNION",
+   "reqd": "9"
+  },
+  {
+   "ref": "5",
+   "x": 51.1,
+   "y": 67.1,
+   "partNo": "C11099",
+   "desc": "TRUNNION",
+   "reqd": "9"
+  },
+  {
+   "ref": "5",
+   "x": 85.2,
+   "y": 33.2,
+   "partNo": "C11099",
+   "desc": "TRUNNION",
+   "reqd": "9"
+  },
+  {
+   "ref": "6",
+   "x": 47.3,
+   "y": 7.5,
+   "partNo": "13-515",
+   "desc": "BOLT - 3/8 x 1 N.C. Hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "6",
+   "x": 25.6,
+   "y": 23.7,
+   "partNo": "13-515",
+   "desc": "BOLT - 3/8 x 1 N.C. Hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "6",
+   "x": 61.5,
+   "y": 28.2,
+   "partNo": "13-515",
+   "desc": "BOLT - 3/8 x 1 N.C. Hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "6",
+   "x": 52.6,
+   "y": 48.4,
+   "partNo": "13-515",
+   "desc": "BOLT - 3/8 x 1 N.C. Hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "6",
+   "x": 45.8,
+   "y": 43.6,
+   "partNo": "13-515",
+   "desc": "BOLT - 3/8 x 1 N.C. Hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "6",
+   "x": 96.5,
+   "y": 59.9,
+   "partNo": "13-515",
+   "desc": "BOLT - 3/8 x 1 N.C. Hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "6",
+   "x": 90,
+   "y": 17.4,
+   "partNo": "13-515",
+   "desc": "BOLT - 3/8 x 1 N.C. Hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "7",
+   "x": 50.7,
+   "y": 39.9,
+   "partNo": "195-24",
+   "desc": "WASHER - plain 3/8",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 32.2,
+   "y": 27.5,
+   "partNo": "195-24",
+   "desc": "WASHER - plain 3/8",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 38.9,
+   "y": 30.9,
+   "partNo": "C11098",
+   "desc": "ARM - guide",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 42.6,
+   "y": 32.4,
+   "partNo": "C11355",
+   "desc": "BRACKET - lift pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 51.1,
+   "y": 16.2,
+   "partNo": "25-105",
+   "desc": "NUT - 5/16 N.C. Hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 65.4,
+   "y": 6.6,
+   "partNo": "C11063",
+   "desc": "RETAINER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 54.9,
+   "y": 17.7,
+   "partNo": "C11091",
+   "desc": "STUD - belt retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 73,
+   "y": 13.4,
+   "partNo": "C11094",
+   "desc": "CRANK - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 75,
+   "y": 16.1,
+   "partNo": "195-22",
+   "desc": "WASHER - plain 3/8",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 77.6,
+   "y": 18.6,
+   "partNo": "C11095",
+   "desc": "GUIDE - crank",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 79.9,
+   "y": 23.1,
+   "partNo": "C11096",
+   "desc": "SPRING - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 90.3,
+   "y": 29.6,
+   "partNo": "C11097",
+   "desc": "ANCHOR - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 79.3,
+   "y": 32.8,
+   "partNo": "C11093",
+   "desc": "LIFT ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 65.8,
+   "y": 34.6,
+   "partNo": "C11516",
+   "desc": "BRACE - arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 55.5,
+   "y": 46.8,
+   "partNo": "131-508",
+   "desc": "NUT - lock 3/8 N.C. Hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "20",
+   "x": 92.9,
+   "y": 49.9,
+   "partNo": "131-508",
+   "desc": "NUT - lock 3/8 N.C. Hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "20",
+   "x": 89.8,
+   "y": 64.3,
+   "partNo": "131-508",
+   "desc": "NUT - lock 3/8 N.C. Hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "21",
+   "x": 27.4,
+   "y": 45.9,
+   "partNo": "C14082",
+   "desc": "BRACKET - hanger mounting (180, Super \"H\" and Rancher 48\" units)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 58.2,
+   "y": 51.2,
+   "partNo": "13-840",
+   "desc": "BOLT - 1/2 x 2-1/2 N.C. Hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 48.4,
+   "y": 47.9,
+   "partNo": "25-148",
+   "desc": "NUT - jam 1/2 N.C.",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 74.6,
+   "y": 57.7,
+   "partNo": "C11100",
+   "desc": "ARM - stack rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 78.2,
+   "y": 77.3,
+   "partNo": "C11101",
+   "desc": "ROD - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 58,
+   "y": 94.7,
+   "partNo": "C11445",
+   "desc": "NUT - 5/16 stamped",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 53.2,
+   "y": 97.1,
+   "partNo": "C11090",
+   "desc": "KNOB - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 63.5,
+   "y": 77,
+   "partNo": "C11298",
+   "desc": "GROMMET - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 55.1,
+   "y": 74.9,
+   "partNo": "C11103",
+   "desc": "TUBE - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 43.3,
+   "y": 72.4,
+   "partNo": "C11299",
+   "desc": "PIN - clevis",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 49.2,
+   "y": 63.4,
+   "partNo": "C11299",
+   "desc": "PIN - clevis",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 28.2,
+   "y": 54.9,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 33.5,
+   "y": 65.8,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "32",
+   "x": 23.4,
+   "y": 72.8,
+   "partNo": "C11105",
+   "desc": "BAR - support",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 25,
+   "y": 76.3,
+   "partNo": "17-612",
+   "desc": "BOLT - sq. hd. 3/8 x 3/4 N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 35.2,
+   "y": 86.2,
+   "partNo": "C11110",
+   "desc": "COLLAR - lift rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 29.2,
+   "y": 87.1,
+   "partNo": "C11104",
+   "desc": "ROD - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 22.9,
+   "y": 94.9,
+   "partNo": "C10883",
+   "desc": "PIN - safety",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 9.8,
+   "y": 90.6,
+   "partNo": "C11111",
+   "desc": "PIN - clevis",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 8,
+   "y": 81.1,
+   "partNo": "13-812",
+   "desc": "BOLT - 1/2 x 3/4 N.C. Hex (48\" Units)",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 9,
+   "y": 78.3,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2 (48\" Units)",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 8.9,
+   "y": 74.9,
+   "partNo": "95-8",
+   "desc": "WASHER - plain 1/2 (48\" Units)",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 15.1,
+   "y": 70,
+   "partNo": "C11447",
+   "desc": "BRACKET - stop (48\" Units)",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 12.7,
+   "y": 28.8,
+   "partNo": "C11102",
+   "desc": "BRACKET - hanger mtg. (130, deluxe & super 36\" units)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "For Case 130 & 180 and Colt Deluxe, Super, Super H & Rancher tractors (catalog 988).\nRef 21 hanger bracket: 180, Super \"H\" and Rancher 48\" units. Ref 42 hanger bracket (inset): 130, Deluxe & Super 36\" units.\nRefs 38-41: 48\" units only."
+}
