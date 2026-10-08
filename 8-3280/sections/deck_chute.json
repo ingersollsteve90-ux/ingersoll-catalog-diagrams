@@ -1,0 +1,141 @@
+{
+ "sectionTitle": "RM42Y2 Mower - Deck and Chute",
+ "breadcrumb": "RM42Y2 Mower - Deck and Chute",
+ "catalogLabel": "Catalog 8-3280",
+ "modelNumbers": "Catalog 8-3280 — Ingersoll RM42Y2 and RM44YR2 Mowers, SB38Y2 Snowcaster, UB38Y2 Utility Blade and BG42Y2 Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3280/deck_chute.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 88.4,
+   "y": 57.9,
+   "partNo": "C36805",
+   "desc": "DECK - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 37.2,
+   "y": 81,
+   "partNo": "C36802",
+   "desc": "CHUTE - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 56.7,
+   "y": 12.8,
+   "partNo": "C30738",
+   "desc": "COVER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 36.5,
+   "y": 21.6,
+   "variants": [
+    {
+     "serialNote": "R.H.",
+     "partNo": "C30741",
+     "desc": "COVER - end, belt R.H",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H.",
+     "partNo": "C36856",
+     "desc": "COVER - end, belt L.H",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 81.7,
+   "y": 2.6,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" x 1/2\" self-tap",
+   "reqd": "12"
+  },
+  {
+   "ref": "6",
+   "x": 5.7,
+   "y": 71.5,
+   "partNo": "C30744",
+   "desc": "DEFLECTOR - chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 23.4,
+   "y": 59.9,
+   "partNo": "C30766",
+   "desc": "PIN - hinge",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 14.8,
+   "y": 65.6,
+   "partNo": "C30767",
+   "desc": "SPRING - hinge",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 16.9,
+   "y": 57.7,
+   "partNo": "C30768",
+   "desc": "NUT - push",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 77,
+   "y": 67.1,
+   "partNo": "111-217",
+   "desc": "BOLT - 5/16\" x 5/8\" carriage",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 57.3,
+   "y": 62.2,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" flange lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 42.4,
+   "y": 92.8,
+   "partNo": "C33709",
+   "desc": "WHEEL - anti-scalp",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 28.8,
+   "y": 97.5,
+   "partNo": "C16745",
+   "desc": "BOLT - shoulder",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 34.9,
+   "y": 94.1,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 60.5,
+   "y": 84.6,
+   "partNo": "131-938",
+   "desc": "NUT - flange lock",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 4: end belt cover — C30741 R.H., C36856 L.H."
+}

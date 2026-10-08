@@ -1,0 +1,130 @@
+{
+ "sectionTitle": "RM44YR2 Mower - Spindles and Blades",
+ "breadcrumb": "RM44YR2 Mower - Spindles and Blades",
+ "catalogLabel": "Catalog 8-3280",
+ "modelNumbers": "Catalog 8-3280 — Ingersoll RM42Y2 and RM44YR2 Mowers, SB38Y2 Snowcaster, UB38Y2 Utility Blade and BG42Y2 Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3280/spindles_blades_44.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 36.3,
+   "y": 43.7,
+   "partNo": "NSS",
+   "desc": "HOUSING - spindle (use C17666 and (2) C16516)",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 41.5,
+   "y": 27.4,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "2",
+   "x": 75.5,
+   "y": 54.9,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 44.7,
+   "y": 34,
+   "partNo": "C10810",
+   "desc": "SPACER - bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 77.6,
+   "y": 60.7,
+   "partNo": "C25542",
+   "desc": "ADAPTER - blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 42.1,
+   "y": 80.2,
+   "partNo": "C31452",
+   "desc": "WASHER - 3/8\" x 2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 43.3,
+   "y": 86,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\"",
+   "reqd": "15"
+  },
+  {
+   "ref": "6",
+   "x": 91.2,
+   "y": 36,
+   "partNo": "192-21",
+   "desc": "LOCK WASHER - 3/8\"",
+   "reqd": "15"
+  },
+  {
+   "ref": "7",
+   "x": 45.6,
+   "y": 94.7,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/2\" (use 35 ft lb. or torque)",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 83.1,
+   "y": 7.7,
+   "partNo": "C31566",
+   "desc": "SPINDLE - outboard",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 76.7,
+   "y": 21.2,
+   "partNo": "C29431",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 87.4,
+   "y": 72.4,
+   "partNo": "C31571",
+   "desc": "BLADE - 15 - 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 91.5,
+   "y": 24.2,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" - 16 x 3/4\" (use 15 ft lb. of torque)",
+   "reqd": "12"
+  },
+  {
+   "ref": "12",
+   "x": 7.8,
+   "y": 7,
+   "partNo": "C36868",
+   "desc": "SPINDLE - center",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 76.1,
+   "y": 68.6,
+   "partNo": "C25544",
+   "desc": "SHIELD - bearing",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "Ref 1 spindle housing is NSS — use C17666 and (2) C16516.\nRef 7 bolt: torque 35 ft-lb. Ref 11 bolt: torque 15 ft-lb.\nOne spindle stack shown; quantities are for all three spindles."
+}

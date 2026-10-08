@@ -1,0 +1,262 @@
+{
+ "sectionTitle": "RM42Y2 Mower - Mounting Brackets and Axle",
+ "breadcrumb": "RM42Y2 Mower - Mounting Brackets and Axle",
+ "catalogLabel": "Catalog 8-3280",
+ "modelNumbers": "Catalog 8-3280 — Ingersoll RM42Y2 and RM44YR2 Mowers, SB38Y2 Snowcaster, UB38Y2 Utility Blade and BG42Y2 Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3280/mounting_brackets_axle.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 77.3,
+   "y": 34.2,
+   "partNo": "C44796",
+   "desc": "BRACKET - tow",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 87.3,
+   "y": 80.2,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 52.3,
+   "y": 52.7,
+   "partNo": "C15278",
+   "desc": "PIN - latch",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 61.5,
+   "y": 48.6,
+   "partNo": "C10482",
+   "desc": "SPRING - compression",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 90.8,
+   "y": 75.1,
+   "partNo": "C10482",
+   "desc": "SPRING - compression",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 71.5,
+   "y": 54.4,
+   "partNo": "138-2073",
+   "desc": "PIN - spiral 3/16\" x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 35.1,
+   "y": 45.5,
+   "partNo": "C28105",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 3.9,
+   "y": 38.7,
+   "partNo": "C26033",
+   "desc": "LINK - adjusting",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 37.7,
+   "y": 10,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C42342",
+     "desc": "LINK - lift L.H",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C42339",
+     "desc": "LINK - lift R.H",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 55.2,
+   "y": 2.9,
+   "partNo": "C41082",
+   "desc": "ROD - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 49.0,
+   "y": 13.8,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "4",
+   "estimated": true
+  },
+  {
+   "ref": "11",
+   "x": 51.5,
+   "y": 84.9,
+   "partNo": "C36817",
+   "desc": "AXLE - rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 96.5,
+   "y": 73,
+   "partNo": "C20005",
+   "desc": "PIN - height adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 87.8,
+   "y": 64.5,
+   "partNo": "138-96",
+   "desc": "PIN - roll 3/16\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 55.9,
+   "y": 62.5,
+   "partNo": "C26736",
+   "desc": "WHEEL - gauge",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 44.2,
+   "y": 71.8,
+   "partNo": "C16745",
+   "desc": "BOLT - shoulder",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 50.8,
+   "y": 68.7,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "16",
+   "x": 15.7,
+   "y": 30.6,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "16",
+   "x": 43.6,
+   "y": 19.8,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "17",
+   "x": 77.7,
+   "y": 64.6,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 70.9,
+   "y": 80.5,
+   "partNo": "C36823",
+   "desc": "BRACKET - height adjust",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 32.6,
+   "y": 79.9,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" - 16 x 3/4\" carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 34.3,
+   "y": 98.1,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 78.7,
+   "y": 87.8,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 3.8,
+   "y": 46.3,
+   "partNo": "C36838",
+   "desc": "BOLT - \"J\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 3.8,
+   "y": 41.7,
+   "partNo": "131-930",
+   "desc": "NUT - 1/2\" lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 5.3,
+   "y": 34.1,
+   "partNo": "131-930",
+   "desc": "NUT - 1/2\" lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 22.2,
+   "y": 27.6,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 41.9,
+   "y": 4.6,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 48.7,
+   "y": 17.3,
+   "partNo": "C41089",
+   "desc": "PIN - clevis",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 8: lift link — C42342 L.H., C42339 R.H.\nRef 10 cotter pins are not called out on the printed diagram; the dot marks their approximate location."
+}

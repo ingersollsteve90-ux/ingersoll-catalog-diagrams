@@ -1,0 +1,338 @@
+{
+ "sectionTitle": "SB38Y2 Snowblower - Auger and Chute Assembly",
+ "breadcrumb": "SB38Y2 Snowblower - Auger and Chute Assembly",
+ "catalogLabel": "Catalog 8-3280",
+ "modelNumbers": "Catalog 8-3280 — Ingersoll RM42Y2 and RM44YR2 Mowers, SB38Y2 Snowcaster, UB38Y2 Utility Blade and BG42Y2 Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3280/auger_chute.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 81,
+   "y": 28.6,
+   "partNo": "C29875",
+   "desc": "HOUSING - auger 38\" (965 mm)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 75.8,
+   "y": 83.7,
+   "partNo": "C25206",
+   "desc": "AUGER - includes items 4, 9 and 22",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 96.4,
+   "y": 59.7,
+   "partNo": "195-522",
+   "desc": "WASHER - spacer",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 43.7,
+   "y": 92.4,
+   "partNo": "C25840",
+   "desc": "SLEEVE - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 15.4,
+   "y": 95.2,
+   "partNo": "121-226",
+   "desc": "BOLT - 3/8\" x 1\" flange lock NC (use lock tite for installation)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 95.9,
+   "y": 31.5,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 11.9,
+   "y": 47.1,
+   "partNo": "C29877",
+   "desc": "SCREW - chain adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 94.5,
+   "y": 47.2,
+   "partNo": "C17775",
+   "desc": "SKID - shoe",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 36.5,
+   "y": 95.4,
+   "partNo": "C28971",
+   "desc": "BEARING - auger",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 79.6,
+   "y": 50.8,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" NC x 3/4\" carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 67.9,
+   "y": 23.5,
+   "partNo": "C15248",
+   "desc": "CHUTE - discharge",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 92.4,
+   "y": 11.1,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" NC x 1/2\" hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 71.8,
+   "y": 16.8,
+   "partNo": "131-1102",
+   "desc": "NUT - 1/4\" NC hex lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 69.9,
+   "y": 2.6,
+   "partNo": "C16940",
+   "desc": "DEFLECTOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 84.5,
+   "y": 12.2,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" NC x 3/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 67.4,
+   "y": 8.1,
+   "partNo": "C28263",
+   "desc": "WASHER - dished 25/64\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 62.3,
+   "y": 11.1,
+   "partNo": "C22774",
+   "desc": "WING NUT - deflector lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 63.8,
+   "y": 32,
+   "partNo": "C15334",
+   "desc": "BRACKET - chute hold down",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 55.7,
+   "y": 48.7,
+   "partNo": "111-132",
+   "desc": "BOLT - 15/16\" NC x 3/4\" carriage",
+   "reqd": "9"
+  },
+  {
+   "ref": "19",
+   "x": 50.1,
+   "y": 31.3,
+   "partNo": "111-132",
+   "desc": "BOLT - 15/16\" NC x 3/4\" carriage",
+   "reqd": "9"
+  },
+  {
+   "ref": "20",
+   "x": 65.7,
+   "y": 27.2,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex flange lock",
+   "reqd": "9"
+  },
+  {
+   "ref": "20",
+   "x": 70.1,
+   "y": 64.5,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex flange lock",
+   "reqd": "9"
+  },
+  {
+   "ref": "21",
+   "x": 7.2,
+   "y": 45.2,
+   "partNo": "129-163",
+   "desc": "NUT - 3/8\" - 24 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 28.8,
+   "y": 97.9,
+   "partNo": "C25841",
+   "desc": "SHAFT - stub",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 19.6,
+   "y": 71.3,
+   "partNo": "C17878",
+   "desc": "BLADE - scraper",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 30,
+   "y": 33.3,
+   "partNo": "C24640",
+   "desc": "COIL - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 59.2,
+   "y": 24.9,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 53.8,
+   "y": 18,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 15.8,
+   "y": 2.6,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 28.8,
+   "y": 23.5,
+   "partNo": "C24643",
+   "desc": "ROD - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 8.4,
+   "y": 24.6,
+   "partNo": "C24644",
+   "desc": "CRANK - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 33.2,
+   "y": 24.9,
+   "partNo": "132-300",
+   "desc": "PIN - cotter 1/8\" x 7/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 33.5,
+   "y": 17.3,
+   "partNo": "C29684",
+   "desc": "ROD - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 8.2,
+   "y": 2.4,
+   "partNo": "C29663",
+   "desc": "PLATE - lift adapter",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 9.2,
+   "y": 13.6,
+   "partNo": "111-524",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/2\" carriage",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 30.8,
+   "y": 7.8,
+   "partNo": "192-23",
+   "desc": "LOCK WASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 33.3,
+   "y": 5.1,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13 hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 42.2,
+   "y": 23.4,
+   "partNo": "C29685",
+   "desc": "BELLCRANK - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 71.2,
+   "y": 19.7,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 57.2,
+   "y": 15.2,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 29.8,
+   "y": 3,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 2 auger C25206 includes items 4, 9 and 22.\nRef 5 bolt: use thread-locker at installation."
+}
