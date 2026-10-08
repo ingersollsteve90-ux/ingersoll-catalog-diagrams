@@ -1,0 +1,314 @@
+{
+ "sectionTitle": "Door and Rear Window (J-1, J-2)",
+ "breadcrumb": "Door and Rear Window (J-1, J-2)",
+ "catalogLabel": "Catalog B1326",
+ "modelNumbers": "Catalog B1326 — Case J-1, J-2, K-1, K-2 Cabs",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1326/door_rear_window_j1_j2.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 67.3,
+   "y": 82.4,
+   "variants": [
+    {
+     "serialNote": "L.H. J-1 yellow",
+     "partNo": "C19609",
+     "desc": "DOOR - L.H. (J-1) (includes item 17) yellow",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. J-2 yellow",
+     "partNo": "C19593",
+     "desc": "DOOR - L.H. (J-2) (includes item 17) yellow",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. J-1 yellow",
+     "partNo": "C19610",
+     "desc": "DOOR - R.H. (J-1) (includes item 17) yellow",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. J-2 yellow",
+     "partNo": "C19594",
+     "desc": "DOOR - R.H. (J-2) (includes item 17) yellow",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. black — model TBD (C25266)",
+     "partNo": "C25266",
+     "desc": "DOOR - L.H. (includes item 17) black — model (J-1/J-2) TBD",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. black — model TBD (C25267)",
+     "partNo": "C25267",
+     "desc": "DOOR - L.H. (includes item 17) black — model (J-1/J-2) TBD",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. black — model TBD (C25268)",
+     "partNo": "C25268",
+     "desc": "DOOR - R.H. (includes item 17) black — model (J-1/J-2) TBD",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. black — model TBD (C25269)",
+     "partNo": "C25269",
+     "desc": "DOOR - R.H. (includes item 17) black — model (J-1/J-2) TBD",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 57.4,
+   "y": 80.4,
+   "variants": [
+    {
+     "serialNote": "J-1",
+     "partNo": "C19608",
+     "desc": "STRAP - door support, rear (J-1)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "J-2",
+     "partNo": "C19592",
+     "desc": "STRAP - door support, rear (J-2)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 48.3,
+   "y": 73.5,
+   "partNo": "182-518",
+   "desc": "SCREW - #10 - 24 x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 65.7,
+   "y": 70.5,
+   "partNo": "129-17",
+   "desc": "NUT - #10 - 24 hex",
+   "reqd": "18"
+  },
+  {
+   "ref": "4",
+   "x": 82.2,
+   "y": 44.1,
+   "partNo": "129-17",
+   "desc": "NUT - #10 - 24 hex",
+   "reqd": "18"
+  },
+  {
+   "ref": "4",
+   "x": 81.8,
+   "y": 4.6,
+   "partNo": "129-17",
+   "desc": "NUT - #10 - 24 hex",
+   "reqd": "18"
+  },
+  {
+   "ref": "5",
+   "x": 52.4,
+   "y": 64.6,
+   "partNo": "129-402",
+   "desc": "WING NUT - #10 - 24",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 86.6,
+   "y": 56.7,
+   "variants": [
+    {
+     "serialNote": "J-1",
+     "partNo": "C19607",
+     "desc": "STRAP - door support, front (J-1)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "J-2",
+     "partNo": "C19588",
+     "desc": "STRAP - door support, front (J-2)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 70.8,
+   "y": 44.2,
+   "partNo": "C19591",
+   "desc": "ROD - door",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 88.6,
+   "y": 46.3,
+   "partNo": "132-321",
+   "desc": "PIN - cotter - 3/32\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 76.5,
+   "y": 46,
+   "partNo": "C19589",
+   "desc": "CLIP - door slide",
+   "reqd": "10"
+  },
+  {
+   "ref": "10",
+   "x": 69,
+   "y": 61.3,
+   "partNo": "182-516",
+   "desc": "SCREW - #10 - 24 x 1/2\"",
+   "reqd": "16"
+  },
+  {
+   "ref": "10",
+   "x": 80.2,
+   "y": 77.8,
+   "partNo": "182-516",
+   "desc": "SCREW - #10 - 24 x 1/2\"",
+   "reqd": "16"
+  },
+  {
+   "ref": "10",
+   "x": 74.9,
+   "y": 17.1,
+   "partNo": "182-516",
+   "desc": "SCREW - #10 - 24 x 1/2\"",
+   "reqd": "16"
+  },
+  {
+   "ref": "11",
+   "x": 91.5,
+   "y": 73.5,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C19586",
+     "desc": "LATCH - door L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C19587",
+     "desc": "LATCH - door R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 95.2,
+   "y": 71.1,
+   "partNo": "C19595",
+   "desc": "SPRING - latch, door",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 89,
+   "y": 12.3,
+   "partNo": "C19595",
+   "desc": "SPRING - latch, door",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 95.9,
+   "y": 58.9,
+   "partNo": "129-642",
+   "desc": "NUT - acorn #10 - 24",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 92.8,
+   "y": 10.8,
+   "partNo": "129-642",
+   "desc": "NUT - acorn #10 - 24",
+   "reqd": "6"
+  },
+  {
+   "ref": "14",
+   "x": 88.8,
+   "y": 63.1,
+   "partNo": "195-516",
+   "desc": "WASHER - 3/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 31.6,
+   "y": 17.9,
+   "partNo": "C19590",
+   "desc": "WINDOW - rear, plastic",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 43,
+   "y": 24.9,
+   "partNo": "C19598",
+   "desc": "MOLDING - channel, vinyl (16' roll)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 72.4,
+   "y": 74.1,
+   "partNo": "C23864",
+   "desc": "WINDOW - door, plastic",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 22.4,
+   "y": 69.3,
+   "partNo": "C24860",
+   "desc": "KIT - extension, handle (includes refs 19, 20, 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 30.6,
+   "y": 83.6,
+   "partNo": "C10792",
+   "desc": "EYE BOLT - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 36.1,
+   "y": 80.2,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 25.6,
+   "y": 81.3,
+   "partNo": "C24721",
+   "desc": "HANDLE - crank (K80 - K84)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 25.3,
+   "y": 78.7,
+   "partNo": "C25026",
+   "desc": "HANDLE - crank (L80 - L84)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 1 doors include ref 17 window.\nBlack doors C25266/C25267 (L.H.) and C25268/C25269 (R.H.): J-1 vs J-2 fitment to be confirmed.\nRef 18 handle extension kit includes refs 19, 20 and 21. Ref 21 crank handle for K80-K84; ref 22 for L80-L84.\nAlso listed, not shown on diagram: C25696 — KIT - rigid doors and inside chute crank (J-1 with hyd. lift) (Req'd 1); C25697 — KIT - rigid doors and inside chute crank (J-2) (Req'd 1)"
+}

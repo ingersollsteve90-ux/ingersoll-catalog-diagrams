@@ -1,0 +1,400 @@
+{
+ "sectionTitle": "Roof, Front and Rear Frame (K-1, K-2)",
+ "breadcrumb": "Roof, Front and Rear Frame (K-1, K-2)",
+ "catalogLabel": "Catalog B1326",
+ "modelNumbers": "Catalog B1326 — Case J-1, J-2, K-1, K-2 Cabs",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1326/roof_front_rear_frame_k1_k2.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 62.4,
+   "y": 6.2,
+   "partNo": "C25507",
+   "desc": "ROOF",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 81.1,
+   "y": 38.7,
+   "variants": [
+    {
+     "serialNote": "K-1",
+     "partNo": "C25517",
+     "desc": "FRAME - front (K-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K-2",
+     "partNo": "C25518",
+     "desc": "FRAME - front (K-2)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 7.6,
+   "y": 56.4,
+   "variants": [
+    {
+     "serialNote": "K-1",
+     "partNo": "C25508",
+     "desc": "FRAME - rear (K-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K-2",
+     "partNo": "C25509",
+     "desc": "FRAME - rear (K-2)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 46.6,
+   "y": 82.6,
+   "partNo": "C19598",
+   "desc": "MOLDING - channel, vinyl 16' (4.9m)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 72,
+   "y": 24.2,
+   "partNo": "C19598",
+   "desc": "MOLDING - channel, vinyl 16' (4.9m)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 17.9,
+   "y": 3.3,
+   "partNo": "C19598",
+   "desc": "MOLDING - channel, vinyl 16' (4.9m)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 49.9,
+   "y": 58.3,
+   "variants": [
+    {
+     "serialNote": "K-1",
+     "partNo": "C25510",
+     "desc": "PANEL - rear, mounting (K-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K-2",
+     "partNo": "C25511",
+     "desc": "PANEL - rear, mounting (K-2)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 18.4,
+   "y": 83.4,
+   "variants": [
+    {
+     "serialNote": "L.H. K-1",
+     "partNo": "C25512",
+     "desc": "SPACER - L.H. (K-1) (use on older tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. K-1",
+     "partNo": "C25514",
+     "desc": "SPACER - R.H. (K-1) (use on older tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. K-2",
+     "partNo": "C25513",
+     "desc": "SPACER - L.H. (K-2) (use on older tractors)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. K-2",
+     "partNo": "C25515",
+     "desc": "SPACER - R.H. (K-2) (use on older tractors)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 79.5,
+   "y": 27.9,
+   "partNo": "C25516",
+   "desc": "FRAME - door, upper",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 58.2,
+   "y": 43.7,
+   "partNo": "C25228",
+   "desc": "HANDLE - wiper",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 54.1,
+   "y": 60.2,
+   "partNo": "195-2014",
+   "desc": "WASHER - 1/4\" x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 52.1,
+   "y": 76.2,
+   "partNo": "195-2014",
+   "desc": "WASHER - 1/4\" x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 3.8,
+   "y": 26.9,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex",
+   "reqd": "41"
+  },
+  {
+   "ref": "10",
+   "x": 42.7,
+   "y": 16,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex",
+   "reqd": "41"
+  },
+  {
+   "ref": "10",
+   "x": 11.8,
+   "y": 76.1,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex",
+   "reqd": "41"
+  },
+  {
+   "ref": "10",
+   "x": 57.6,
+   "y": 58.5,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex",
+   "reqd": "41"
+  },
+  {
+   "ref": "11",
+   "x": 31.7,
+   "y": 42.8,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 33.8,
+   "y": 64.2,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 54.5,
+   "y": 81.3,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 78.4,
+   "y": 59.7,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 92.5,
+   "y": 85.8,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 88.3,
+   "y": 87.7,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 79.9,
+   "y": 55.9,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 30.2,
+   "y": 65.9,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 29.2,
+   "y": 46.3,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 62.4,
+   "y": 78.3,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "13",
+   "x": 84.1,
+   "y": 88.9,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 68.4,
+   "y": 96.6,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 11.3,
+   "y": 67.1,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 26.4,
+   "y": 67,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 23.5,
+   "y": 49.5,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 68.8,
+   "y": 62.7,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 5.9,
+   "y": 21.3,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 44,
+   "y": 19.8,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "14",
+   "x": 57.2,
+   "y": 56.3,
+   "variants": [
+    {
+     "serialNote": "K-1",
+     "partNo": "113-12",
+     "desc": "BOLT - 1/4\" - 20 x 2-1/2\" hex (K-1), used with item 6 on older tractors",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "K-2",
+     "partNo": "113-14",
+     "desc": "BOLT - 1/4\" - 20 x 2\" (K-2), used with item 6 on older tractors",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 72.9,
+   "y": 79.2,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C25519",
+     "desc": "MOUNT - front L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C25520",
+     "desc": "MOUNT - front R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 60.7,
+   "y": 88.1,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 61.9,
+   "y": 51.1,
+   "partNo": "C19569",
+   "desc": "WIPER - windshield",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 65.6,
+   "y": 41.5,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "Ref 6 spacers and ref 14 bolts are used on older tractors.\nAlso listed, not shown on diagram: 176-425 — SET SCREW - #10 - 24 x 3/16\" (part of ref 8 handle) (Req'd 1)"
+}

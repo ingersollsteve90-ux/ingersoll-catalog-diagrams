@@ -1,0 +1,26 @@
+{
+ "sectionTitle": "Exhaust Extension (J-2, Model 446 Prior to S/N 9728158)",
+ "breadcrumb": "Exhaust Extension (J-2, Model 446 Prior to S/N 9728158)",
+ "catalogLabel": "Catalog B1326",
+ "modelNumbers": "Catalog B1326 — Case J-1, J-2, K-1, K-2 Cabs",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1326/exhaust_extension_j2.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 88.2,
+   "y": 85.1,
+   "partNo": "C22722",
+   "desc": "PIPE - extension, exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 11.2,
+   "y": 64.5,
+   "partNo": "L13452",
+   "desc": "CLAMP ASSEMBLY - pipe, exhaust",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Used on Tractor Model 446 only, prior to S/N 9728158."
+}

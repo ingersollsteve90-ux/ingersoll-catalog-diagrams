@@ -1,0 +1,199 @@
+{
+ "sectionTitle": "Motor Cover and Front Window",
+ "breadcrumb": "Motor Cover and Front Window",
+ "catalogLabel": "Catalog B1326",
+ "modelNumbers": "Catalog B1326 — Case J-1, J-2, K-1, K-2 Cabs",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1326/motor_cover_front_window.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 14.6,
+   "y": 69.18,
+   "variants": [
+    {
+     "serialNote": "J-1 black",
+     "partNo": "C25264",
+     "desc": "COVER - motor (J-1), black",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J-2, K-1, K-2 black",
+     "partNo": "C25521",
+     "desc": "COVER - motor (J-2, K-1, K-2), black",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J-1 yellow",
+     "partNo": "C19605",
+     "desc": "COVER - motor (J-1) yellow",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J-2 yellow",
+     "partNo": "C19584",
+     "desc": "COVER - motor (J-2) shown, yellow",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 37.8,
+   "y": 55.24,
+   "variants": [
+    {
+     "serialNote": "J-1, K-1",
+     "partNo": "C19606",
+     "desc": "STRAP - mounting, motor cover (J-1, K-1) side",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "J-2, K-2",
+     "partNo": "C19585",
+     "desc": "STRAP - mounting, motor cover (J-2, K-2) side",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 82.1,
+   "y": 58.92,
+   "partNo": "182-518",
+   "desc": "SCREW - #10 - 24 x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 56.3,
+   "y": 53.41,
+   "partNo": "129-17",
+   "desc": "NUT - #10 - 24 hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 27.7,
+   "y": 38.22,
+   "partNo": "129-402",
+   "desc": "WING NUT - #10 - 24",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 11.2,
+   "y": 7.93,
+   "partNo": "C19583",
+   "desc": "STRAP - mounting, motor cover (top)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 55.2,
+   "y": 21.19,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\" hex head",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 57.8,
+   "y": 25.93,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 53.9,
+   "y": 28.15,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 31.6,
+   "y": 5.9,
+   "partNo": "129-409",
+   "desc": "WING NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 66,
+   "y": 77.59,
+   "partNo": "C19604",
+   "desc": "SUPPORT - cover, motor (J-1)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 56,
+   "y": 66.56,
+   "partNo": "C19582",
+   "desc": "SUPPORT - cover, motor (J-2, K-1, K-2)",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 76.6,
+   "y": 13.84,
+   "partNo": "C19566",
+   "desc": "MOLDING - rubber, glass seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 91,
+   "y": 50.89,
+   "variants": [
+    {
+     "serialNote": "J-1, K-1",
+     "partNo": "NSS",
+     "desc": "GLASS - windshield, tempered 19-3/4\" x 27-3/8\" x 7/32\" (J-1, K-1) - order from local supplier",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J-2, K-2",
+     "partNo": "NSS",
+     "desc": "GLASS - windshield, tempered 22\" x 27-3/8\" x 7/32\" (J-2, K-2) - order from local supplier",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 24.2,
+   "y": 62.79,
+   "partNo": "32230",
+   "desc": "SPRING - motor cover hold down",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 46.6,
+   "y": 49.83,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\" (K-1, K-2)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 49.3,
+   "y": 75.37,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18 (K-1, K-2)",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 55.2,
+   "y": 70.92,
+   "partNo": "192-20",
+   "desc": "LOCK WASHER - 5/16\" (K-1, K-2)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 14 windshield glass is not serviced (NSS) — order from a local supplier: 19-3/4\" x 27-3/8\" x 7/32\" for J-1/K-1; 22\" x 27-3/8\" x 7/32\" for J-2/K-2.\nRefs 16, 17 and 18 are used on K-1 and K-2 only."
+}

@@ -1,0 +1,260 @@
+{
+ "sectionTitle": "Door, Rear Window and Snowcaster Chute Control (K-1, K-2)",
+ "breadcrumb": "Door, Rear Window and Snowcaster Chute Control (K-1, K-2)",
+ "catalogLabel": "Catalog B1326",
+ "modelNumbers": "Catalog B1326 — Case J-1, J-2, K-1, K-2 Cabs",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1326/door_rear_window_chute_control_k1_k2.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 51.7,
+   "y": 76.7,
+   "variants": [
+    {
+     "serialNote": "L.H. K-1",
+     "partNo": "C25528",
+     "desc": "DOOR - L.H. (K-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. K-2",
+     "partNo": "C25529",
+     "desc": "DOOR - L.H. (K-2)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. K-1",
+     "partNo": "C25530",
+     "desc": "DOOR - R.H. (K-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. K-2",
+     "partNo": "C25531",
+     "desc": "DOOR - R.H. (K-2)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 52.8,
+   "y": 60.1,
+   "partNo": "C23864",
+   "desc": "WINDOW - door, plastic (part of ref 1 door)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 8.3,
+   "y": 27.9,
+   "partNo": "C19590",
+   "desc": "WINDOW - rear, plastic",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 22.6,
+   "y": 37.6,
+   "partNo": "C19598",
+   "desc": "MOLDING - channel, vinyl (16 ft. roll)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 35.2,
+   "y": 63.7,
+   "partNo": "C25527",
+   "desc": "BRACKET - mounting, door",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 79.5,
+   "y": 52.5,
+   "partNo": "C25523",
+   "desc": "HANDLE - inside",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 81.8,
+   "y": 65.3,
+   "partNo": "C25524",
+   "desc": "HANDLE - outside",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 86.1,
+   "y": 64.5,
+   "partNo": "C25525",
+   "desc": "SPACER - handle",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 76.7,
+   "y": 54.3,
+   "partNo": "C25525",
+   "desc": "SPACER - handle",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 93.4,
+   "y": 61.2,
+   "partNo": "C25526",
+   "desc": "SPRING - handle",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 93.5,
+   "y": 52.9,
+   "partNo": "131-1180",
+   "desc": "NUT - lock 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 87.3,
+   "y": 50.5,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 83.3,
+   "y": 51.3,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 89.5,
+   "y": 54.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 74,
+   "y": 65.8,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 73.4,
+   "y": 55.7,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 10.4,
+   "y": 74.8,
+   "variants": [
+    {
+     "serialNote": "K-1",
+     "partNo": "C25462",
+     "desc": "HANDLE - chute control (K-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "K-2",
+     "partNo": "C25463",
+     "desc": "HANDLE - chute control (K-2)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 30.3,
+   "y": 93.5,
+   "partNo": "C25461",
+   "desc": "ROD - chute control (use with L and M snow casters)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 36.4,
+   "y": 82.7,
+   "partNo": "C25698",
+   "desc": "ROD - chute control (use with J and K snow casters)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 12.2,
+   "y": 91.4,
+   "partNo": "C14583",
+   "desc": "BLOCK - joint",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 13.7,
+   "y": 88,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 23,
+   "y": 81,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 14.9,
+   "y": 95,
+   "partNo": "131-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 17,
+   "y": 74.3,
+   "partNo": "131-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 13.7,
+   "y": 75.6,
+   "partNo": "C25464",
+   "desc": "BRACKET - handle mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 5.8,
+   "y": 89.1,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" - 16 x 3/4\" hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 26.7,
+   "y": 76.2,
+   "partNo": "131-1181",
+   "desc": "NUT - 3/8\" - 16 hex",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 2 window is part of the ref 1 door.\nRef 17 rod is used with L and M snowcasters; ref 18 rod with J and K snowcasters."
+}

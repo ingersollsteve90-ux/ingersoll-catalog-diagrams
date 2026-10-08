@@ -1,0 +1,493 @@
+{
+ "sectionTitle": "Roof, Front and Rear Frame (J-1, J-2)",
+ "breadcrumb": "Roof, Front and Rear Frame (J-1, J-2)",
+ "catalogLabel": "Catalog B1326",
+ "modelNumbers": "Catalog B1326 — Case J-1, J-2, K-1, K-2 Cabs",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1326/roof_front_rear_frame_j1_j2.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 62.2,
+   "y": 5.8,
+   "partNo": "C25507",
+   "desc": "ROOF",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 80.9,
+   "y": 38.1,
+   "variants": [
+    {
+     "serialNote": "J-1",
+     "partNo": "C25517",
+     "desc": "FRAME - front (J-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J-2",
+     "partNo": "C25518",
+     "desc": "FRAME - front (J-2) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 8.1,
+   "y": 56.2,
+   "variants": [
+    {
+     "serialNote": "J-1",
+     "partNo": "C25508",
+     "desc": "FRAME - rear (J-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "J-2",
+     "partNo": "C25509",
+     "desc": "FRAME - rear (J-2) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 71.9,
+   "y": 23.4,
+   "partNo": "C19598",
+   "desc": "MOLDING - channel, vinyl, 16' (4.9 m) roll",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 18.1,
+   "y": 3.5,
+   "partNo": "C19598",
+   "desc": "MOLDING - channel, vinyl, 16' (4.9 m) roll",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 28.3,
+   "y": 75.8,
+   "partNo": "C19598",
+   "desc": "MOLDING - channel, vinyl, 16' (4.9 m) roll",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 51.7,
+   "y": 54.3,
+   "partNo": "C19571",
+   "desc": "PANEL - rear, lower",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 32,
+   "y": 84.5,
+   "partNo": "C19602",
+   "desc": "MOUNT - rear, center (J-1)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 56.7,
+   "y": 67.4,
+   "partNo": "C19576",
+   "desc": "MOUNT - rear, center (J-2)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 5.8,
+   "y": 69.1,
+   "variants": [
+    {
+     "serialNote": "L.H. J-1",
+     "partNo": "C19600",
+     "desc": "MOUNT - rear, L.H. (J-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. J-2",
+     "partNo": "C19572",
+     "desc": "MOUNT - rear, L.H. (J-2)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. J-1",
+     "partNo": "C19601",
+     "desc": "MOUNT - rear, R.H. (J-1)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. J-2",
+     "partNo": "C19573",
+     "desc": "MOUNT - rear, R.H. (J-2)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 22.4,
+   "y": 74.1,
+   "variants": [
+    {
+     "serialNote": "L.H. J-2",
+     "partNo": "C19574",
+     "desc": "FILLER - rear, L.H. (J-2)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. J-2",
+     "partNo": "C19575",
+     "desc": "FILLER - rear, R.H. (J-2)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 22.6,
+   "y": 79.7,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex head",
+   "reqd": "41"
+  },
+  {
+   "ref": "10",
+   "x": 4.9,
+   "y": 86.1,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex head",
+   "reqd": "41"
+  },
+  {
+   "ref": "10",
+   "x": 59.7,
+   "y": 78.4,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex head",
+   "reqd": "41"
+  },
+  {
+   "ref": "10",
+   "x": 33.1,
+   "y": 68.9,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex head",
+   "reqd": "41"
+  },
+  {
+   "ref": "10",
+   "x": 4.9,
+   "y": 26.8,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex head",
+   "reqd": "41"
+  },
+  {
+   "ref": "10",
+   "x": 42.7,
+   "y": 15.8,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" hex head",
+   "reqd": "41"
+  },
+  {
+   "ref": "11",
+   "x": 50.6,
+   "y": 70.5,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 12.1,
+   "y": 62.2,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 12.6,
+   "y": 91,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 92.6,
+   "y": 85.2,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 78.3,
+   "y": 59,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "11",
+   "x": 32,
+   "y": 42.6,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20 hex",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 29.2,
+   "y": 45.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 79.6,
+   "y": 54.8,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 72.9,
+   "y": 61.3,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 88.4,
+   "y": 86.7,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 12.1,
+   "y": 88.7,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 22.1,
+   "y": 71.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "12",
+   "x": 46.7,
+   "y": 69.6,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "45"
+  },
+  {
+   "ref": "13",
+   "x": 68.9,
+   "y": 62.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 63.6,
+   "y": 77.6,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 68.9,
+   "y": 96.1,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 84.6,
+   "y": 88,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 37.3,
+   "y": 73.7,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 16.6,
+   "y": 65.1,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 4.6,
+   "y": 74.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 35.6,
+   "y": 63.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 23.7,
+   "y": 48.8,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 6.1,
+   "y": 21.1,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "13",
+   "x": 44,
+   "y": 19.8,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "82"
+  },
+  {
+   "ref": "14",
+   "x": 74.2,
+   "y": 72.4,
+   "partNo": "C19578",
+   "desc": "CATCH - latch, door",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 73.3,
+   "y": 78.5,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C19579",
+     "desc": "MOUNT - front L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C19580",
+     "desc": "MOUNT - front R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 73.8,
+   "y": 95,
+   "partNo": "C19581",
+   "desc": "STRAP - mount, front",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 85.4,
+   "y": 76.5,
+   "partNo": "113-122",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/2\" hex head",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 86.7,
+   "y": 95.9,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18 hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 86.2,
+   "y": 92.5,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 61.3,
+   "y": 50.4,
+   "partNo": "C19569",
+   "desc": "WIPER - windshield",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 65.3,
+   "y": 40.5,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 21.7,
+   "y": 89.3,
+   "partNo": "195-2014",
+   "desc": "WASHER - 1/4\" x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 61.1,
+   "y": 87.3,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 57.2,
+   "y": 44.9,
+   "partNo": "C25228",
+   "desc": "LEVER - wiper",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 6 used on J-1 only; ref 7 and ref 9 used on J-2 only.\nAlso listed, not shown on diagram: 176-425 — SET SCREW - #10 - 24 x 3/16\" (part of ref 24 lever) (Req'd 1)"
+}
