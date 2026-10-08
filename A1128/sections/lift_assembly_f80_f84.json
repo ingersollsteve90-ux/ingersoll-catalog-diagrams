@@ -1,0 +1,218 @@
+{
+  "sectionTitle": "Lift Assembly - F80/F84 (220, 222, 442, 444)",
+  "breadcrumb": "Lift Assembly - F80/F84 (220, 222, 442, 444)",
+  "catalogLabel": "Catalog A1128",
+  "modelNumbers": "Catalog A1128 — Case F80 & F84 Snowcasters (220, 222, 442, 444), E80 & E84 Snowcasters (155, 195)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1128/lift_assembly_f80_f84.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 22,
+      "y": 13,
+      "partNo": "C14646",
+      "desc": "BRACKET - mounting R.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 39.7,
+      "y": 3.9,
+      "partNo": "C14647",
+      "desc": "BRACKET - mounting L.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 27.4,
+      "y": 12,
+      "partNo": "111-362",
+      "desc": "BOLT - 3/8\" x 1\" NC Rd. Hd. Sq. Neck ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "4",
+      "x": 17,
+      "y": 16.7,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "5",
+      "x": 12.4,
+      "y": 19.3,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC Hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "6",
+      "x": 56.4,
+      "y": 75.6,
+      "partNo": "132-34",
+      "desc": "PIN - cotter",
+      "reqd": "2"
+    },
+    {
+      "ref": "7",
+      "x": 14.7,
+      "y": 64.4,
+      "partNo": "113-417",
+      "desc": "BOLT - 1/2\" x 1-1/4\" NC Hex ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "8",
+      "x": 53.1,
+      "y": 82,
+      "partNo": "195-530",
+      "desc": "WASHER - 1/2\" plain",
+      "reqd": "2"
+    },
+    {
+      "ref": "9",
+      "x": 52.7,
+      "y": 53.6,
+      "partNo": "C14632",
+      "desc": "BRACKET - spring anchor",
+      "reqd": "1"
+    },
+    {
+      "ref": "10",
+      "x": 47.9,
+      "y": 38.5,
+      "partNo": "113-602",
+      "desc": "BOLT - 5/8\" x 1\" NC Hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 36.4,
+      "y": 47,
+      "partNo": "192-25",
+      "desc": "LOCKWASHER - 5/8\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 31.2,
+      "y": 49.6,
+      "partNo": "129-107",
+      "desc": "NUT - 5/8\" NC Hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "13",
+      "x": 91.2,
+      "y": 37.6,
+      "partNo": "C14482",
+      "desc": "SPRING - lift",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 56.9,
+      "y": 7.3,
+      "partNo": "C12692",
+      "desc": "PIN - clevis 5/8\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 46.9,
+      "y": 9.1,
+      "partNo": "C10898",
+      "desc": "PIN - safety",
+      "reqd": "3"
+    },
+    {
+      "ref": "15",
+      "x": 33.8,
+      "y": 22.5,
+      "partNo": "C10898",
+      "desc": "PIN - safety",
+      "reqd": "3"
+    },
+    {
+      "ref": "16",
+      "x": 68.1,
+      "y": 22.8,
+      "partNo": "C14635",
+      "desc": "PIN - mounting",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 80.7,
+      "y": 20.2,
+      "partNo": "C14363",
+      "desc": "SPACER - mounting bracket",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 15.9,
+      "y": 39.1,
+      "partNo": "113-424",
+      "desc": "BOLT - 1/2\" x 1\" NC Hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 20.7,
+      "y": 35.3,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" ZP",
+      "reqd": "6"
+    },
+    {
+      "ref": "19",
+      "x": 7.8,
+      "y": 69.6,
+      "partNo": "192-23",
+      "desc": "LOCKWASHER - 1/2\" ZP",
+      "reqd": "6"
+    },
+    {
+      "ref": "20",
+      "x": 51.8,
+      "y": 86,
+      "partNo": "C14413",
+      "desc": "\"J\" BOLT - lift rod",
+      "reqd": "2"
+    },
+    {
+      "ref": "21",
+      "x": 44.2,
+      "y": 96.3,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC Hex ZP",
+      "reqd": "6"
+    },
+    {
+      "ref": "21",
+      "x": 5.2,
+      "y": 85.8,
+      "partNo": "129-105",
+      "desc": "NUT - 1/2\" NC Hex ZP",
+      "reqd": "6"
+    },
+    {
+      "ref": "22",
+      "x": 35.2,
+      "y": 75,
+      "partNo": "C14414",
+      "desc": "LIFT ROD",
+      "reqd": "2"
+    },
+    {
+      "ref": "23",
+      "x": 20.6,
+      "y": 85,
+      "partNo": "C14415",
+      "desc": "LEVER - lift rod",
+      "reqd": "2"
+    }
+  ],
+  "footnotes": "F80 38\" Snowcaster for 220 and 222 tractors; F84 48\" Snowcaster for 442 and 444 tractors.\nRef 23 (lift rod lever) is labeled \"6\" on the printed diagram."
+}

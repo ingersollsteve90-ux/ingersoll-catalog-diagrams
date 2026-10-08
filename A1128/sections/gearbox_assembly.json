@@ -1,0 +1,242 @@
+{
+  "sectionTitle": "Gear Box Assembly",
+  "breadcrumb": "Gear Box Assembly",
+  "catalogLabel": "Catalog A1128",
+  "modelNumbers": "Catalog A1128 — Case F80 & F84 Snowcasters (220, 222, 442, 444), E80 & E84 Snowcasters (155, 195)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1128/gearbox_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 83.1,
+      "y": 16.1,
+      "partNo": "C11850",
+      "desc": "HOUSING - gearbox",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 6.6,
+      "y": 29.8,
+      "partNo": "C11851",
+      "desc": "HOUSING - input bearing",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 10.8,
+      "y": 52.7,
+      "partNo": "C11852",
+      "desc": "HOUSING - output bearing",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 53.1,
+      "y": 4.2,
+      "partNo": "C14605",
+      "desc": "SHAFT - input",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 49.5,
+      "y": 80.9,
+      "partNo": "C14355",
+      "desc": "SHAFT - output for Models F80 and E80 38\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 51.8,
+      "y": 78.7,
+      "partNo": "C14354",
+      "desc": "SHAFT - output for Models F84 and E84 48\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 74.8,
+      "y": 15.7,
+      "partNo": "C11855",
+      "desc": "GEAR - input pinion",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 80.6,
+      "y": 63.2,
+      "partNo": "C11856",
+      "desc": "GEAR - output",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 66.3,
+      "y": 9,
+      "partNo": "B12410",
+      "desc": "CUP - bearing",
+      "reqd": "4"
+    },
+    {
+      "ref": "9",
+      "x": 66.4,
+      "y": 72.1,
+      "partNo": "B12410",
+      "desc": "CUP - bearing",
+      "reqd": "4"
+    },
+    {
+      "ref": "9",
+      "x": 36.3,
+      "y": 42,
+      "partNo": "B12410",
+      "desc": "CUP - bearing",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 70.9,
+      "y": 13.6,
+      "partNo": "B12411",
+      "desc": "CONE - bearing",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 72,
+      "y": 67.6,
+      "partNo": "B12411",
+      "desc": "CONE - bearing",
+      "reqd": "4"
+    },
+    {
+      "ref": "10",
+      "x": 31.4,
+      "y": 42.7,
+      "partNo": "B12411",
+      "desc": "CONE - bearing",
+      "reqd": "4"
+    },
+    {
+      "ref": "11",
+      "x": 4.4,
+      "y": 88.8,
+      "partNo": "C12079",
+      "desc": "OIL SEAL",
+      "reqd": "2"
+    },
+    {
+      "ref": "11",
+      "x": 4.3,
+      "y": 19.1,
+      "partNo": "C12079",
+      "desc": "OIL SEAL",
+      "reqd": "2"
+    },
+    {
+      "ref": "12",
+      "x": 24.3,
+      "y": 48.7,
+      "partNo": "T25683",
+      "desc": "RING - retaining",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 97.4,
+      "y": 55.5,
+      "partNo": "221-841",
+      "desc": "PLUG - housing",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 79.1,
+      "y": 20.9,
+      "partNo": "131-34",
+      "desc": "NUT - gear retaining",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 83.6,
+      "y": 56.2,
+      "partNo": "131-34",
+      "desc": "NUT - gear retaining",
+      "reqd": "2"
+    },
+    {
+      "ref": "15",
+      "x": 55.9,
+      "y": 47.8,
+      "partNo": "126-16",
+      "desc": "KEY - 3/16\" x 3/4\" Woodruff",
+      "reqd": "1"
+    },
+    {
+      "ref": "16",
+      "x": 61.5,
+      "y": 4.3,
+      "partNo": "C14604",
+      "desc": "KEY - 3/16\" x 3/4\" flat",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 15.9,
+      "y": 48.1,
+      "partNo": "T32754",
+      "desc": "GASKET",
+      "reqd": "2"
+    },
+    {
+      "ref": "17",
+      "x": 16.4,
+      "y": 35.5,
+      "partNo": "T32754",
+      "desc": "GASKET",
+      "reqd": "2"
+    },
+    {
+      "ref": "18",
+      "x": 5.4,
+      "y": 53.9,
+      "partNo": "15-412",
+      "desc": "BOLT - 1/4\" x 3/4\" NC Hex",
+      "reqd": "8"
+    },
+    {
+      "ref": "19",
+      "x": 28.8,
+      "y": 47.2,
+      "partNo": "C12077",
+      "desc": "SPACER - bearing",
+      "reqd": "2"
+    },
+    {
+      "ref": "19",
+      "x": 26,
+      "y": 35.1,
+      "partNo": "C12077",
+      "desc": "SPACER - bearing",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 84.4,
+      "y": 13,
+      "partNo": "221-51",
+      "desc": "BUSHING - reducer 1/4\" NPT to 1/8\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 84.4,
+      "y": 6.9,
+      "partNo": "A50096",
+      "desc": "VENT - pressure relief",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "F80 & F84 for 220, 222, 442, 444 tractors; E80 & E84 for 155, 195 compact tractors.\nRefs 5/6: output shaft for 38\" (F80/E80) / 48\" (F84/E84).\nComplete gearbox: C14423 for F84/E84 48\"; C14424 for F80/E80 38\"."
+}

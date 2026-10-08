@@ -1,0 +1,58 @@
+{
+  "sectionTitle": "C14124 Drive Shaft Assembly",
+  "breadcrumb": "C14124 Drive Shaft Assembly",
+  "catalogLabel": "Catalog A1128",
+  "modelNumbers": "Catalog A1128 — Case F80 & F84 Snowcasters (220, 222, 442, 444), E80 & E84 Snowcasters (155, 195)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1128/drive_shaft_c14124.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 14.9,
+      "y": 42.5,
+      "partNo": "C14988",
+      "desc": "YOKE - male",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 28.3,
+      "y": 53.4,
+      "partNo": "C12319",
+      "desc": "KIT - journal assembly",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 71.2,
+      "y": 93.2,
+      "partNo": "C12319",
+      "desc": "KIT - journal assembly",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 54.2,
+      "y": 20.4,
+      "partNo": "219-40",
+      "desc": "FITTING - lube",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 43.9,
+      "y": 69.3,
+      "partNo": "C14987",
+      "desc": "YOKE - center assembly",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 92,
+      "y": 63.5,
+      "partNo": "C14986",
+      "desc": "YOKE - female",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "F80 & F84 for 220, 222, 442, 444 tractors; E80 & E84 for 155, 195 compact tractors."
+}

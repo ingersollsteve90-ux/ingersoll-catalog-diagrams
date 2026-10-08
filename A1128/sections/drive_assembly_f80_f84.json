@@ -1,0 +1,322 @@
+{
+  "sectionTitle": "Drive Assembly - F80/F84 (220, 222, 442, 444)",
+  "breadcrumb": "Drive Assembly - F80/F84 (220, 222, 442, 444)",
+  "catalogLabel": "Catalog A1128",
+  "modelNumbers": "Catalog A1128 — Case F80 & F84 Snowcasters (220, 222, 442, 444), E80 & E84 Snowcasters (155, 195)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1128/drive_assembly_f80_f84.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 9.5,
+      "y": 28.6,
+      "partNo": "NSS",
+      "desc": "PLATE - bearing mounting (order item 27)",
+      "reqd": "2"
+    },
+    {
+      "ref": "1",
+      "x": 71.2,
+      "y": 57.9,
+      "partNo": "NSS",
+      "desc": "PLATE - bearing mounting (order item 27)",
+      "reqd": "2"
+    },
+    {
+      "ref": "2",
+      "x": 19.8,
+      "y": 31.7,
+      "partNo": "C14504",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 32.2,
+      "y": 37.6,
+      "partNo": "C14504",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 54.4,
+      "y": 47.9,
+      "partNo": "C14504",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "2",
+      "x": 66.6,
+      "y": 53.4,
+      "partNo": "C14504",
+      "desc": "FLANGETTE",
+      "reqd": "4"
+    },
+    {
+      "ref": "3",
+      "x": 25.9,
+      "y": 33.3,
+      "partNo": "C14505",
+      "desc": "BEARING - pulley",
+      "reqd": "2"
+    },
+    {
+      "ref": "3",
+      "x": 60.9,
+      "y": 49.6,
+      "partNo": "C14505",
+      "desc": "BEARING - pulley",
+      "reqd": "2"
+    },
+    {
+      "ref": "4",
+      "x": 42.4,
+      "y": 46.2,
+      "partNo": "C14113",
+      "desc": "PULLEY",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 89.3,
+      "y": 66.9,
+      "partNo": "C14116",
+      "desc": "BELT - PTO drive",
+      "reqd": "1"
+    },
+    {
+      "ref": "6",
+      "x": 42.3,
+      "y": 22.4,
+      "partNo": "111-362",
+      "desc": "BOLT - 3/8\" x 1\" NC Rd. Hd. Sq. Neck ZP",
+      "reqd": "4"
+    },
+    {
+      "ref": "7",
+      "x": 37.4,
+      "y": 39.8,
+      "partNo": "111-340",
+      "desc": "BOLT - 3/8\" x 3/4\" NC Rd. Hd. Sq. Neck ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "8",
+      "x": 14.1,
+      "y": 9,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP",
+      "reqd": "8"
+    },
+    {
+      "ref": "8",
+      "x": 78.4,
+      "y": 72.8,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP",
+      "reqd": "8"
+    },
+    {
+      "ref": "9",
+      "x": 10.9,
+      "y": 8.4,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC Hex",
+      "reqd": "9"
+    },
+    {
+      "ref": "9",
+      "x": 82.2,
+      "y": 71.9,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC Hex",
+      "reqd": "9"
+    },
+    {
+      "ref": "10",
+      "x": 4.6,
+      "y": 26.6,
+      "partNo": "113-111",
+      "desc": "BOLT - 5/16\" x 2-1/2\" NC Hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "11",
+      "x": 75.5,
+      "y": 60.1,
+      "partNo": "131-176",
+      "desc": "NUT - lock 5/16\" NC Hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 44,
+      "y": 57.5,
+      "partNo": "C14124",
+      "desc": "SHAFT - drive (Repairs page 15)",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 72.6,
+      "y": 67.3,
+      "partNo": "C14424",
+      "desc": "GEARBOX ASSEMBLY - F80, 38\" Snowcaster (Repairs page 15)",
+      "reqd": "1"
+    },
+    {
+      "ref": "14",
+      "x": 75.3,
+      "y": 67.4,
+      "partNo": "C14423",
+      "desc": "GEARBOX ASSEMBLY - F84, 48\" Snowcaster (Repairs page 15)",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 61.4,
+      "y": 93.6,
+      "partNo": "113-208",
+      "desc": "BOLT - 3/8\" x 1-1/4\" NC Hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 49.9,
+      "y": 60.5,
+      "partNo": "113-14",
+      "desc": "BOLT - 1/4\" x 2\" NC Hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "17",
+      "x": 55.2,
+      "y": 81.8,
+      "partNo": "131-1102",
+      "desc": "NUT - lock 1/4\" NC Hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "18",
+      "x": 44.5,
+      "y": 96.6,
+      "partNo": "C14579",
+      "desc": "SPROCKET - drive",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 34.9,
+      "y": 86.4,
+      "partNo": "83-44",
+      "desc": "SETSCREW - 1/4\" x 1/4\" NC cup point",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 42.4,
+      "y": 83.3,
+      "partNo": "126-19",
+      "desc": "KEY - #11 Woodruff",
+      "reqd": "1"
+    },
+    {
+      "ref": "21",
+      "x": 20.7,
+      "y": 78.8,
+      "partNo": "NSS",
+      "desc": "CHAIN - auger drive 64 pitches #40 roller chain. Use: 1 - B12470 chain 50 links #40; 2 - B12473 chain 6 links each; 1 - B12501 connecting link; 1 - B12503 roller link",
+      "reqd": "1"
+    },
+    {
+      "ref": "22",
+      "x": 27.9,
+      "y": 71.1,
+      "partNo": "B12502",
+      "desc": "LINK - offset #40 roller chain",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 66.1,
+      "y": 65.1,
+      "partNo": "C14606",
+      "desc": "KEY - flat 3/16\" x 1\"",
+      "reqd": "1"
+    },
+    {
+      "ref": "24",
+      "x": 41.2,
+      "y": 10,
+      "partNo": "NSS",
+      "desc": "NUT - belt tension (order item 27)",
+      "reqd": "1"
+    },
+    {
+      "ref": "25",
+      "x": 40.2,
+      "y": 14,
+      "partNo": "C14353",
+      "desc": "LOCK - belt tension",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 38.8,
+      "y": 17.8,
+      "partNo": "NSS",
+      "desc": "SCREW - Adjust (order item 27)",
+      "reqd": "1"
+    },
+    {
+      "ref": "27",
+      "x": 86.7,
+      "y": 14.3,
+      "partNo": "C15558",
+      "desc": "KIT - belt tightner (includes refs 28-32)",
+      "reqd": "1"
+    },
+    {
+      "ref": "28",
+      "x": 54.8,
+      "y": 5.5,
+      "partNo": "113-102",
+      "desc": "BOLT - 5/16\" x 3/4\" NC Hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "29",
+      "x": 57.8,
+      "y": 7.7,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "30",
+      "x": 79.9,
+      "y": 5.5,
+      "partNo": "C15264",
+      "desc": "NUT - belt tension",
+      "reqd": "1"
+    },
+    {
+      "ref": "31",
+      "x": 57.2,
+      "y": 18.6,
+      "partNo": "C15261",
+      "desc": "PLATE - bearing",
+      "reqd": "2"
+    },
+    {
+      "ref": "32",
+      "x": 79.9,
+      "y": 18.5,
+      "partNo": "C15262",
+      "desc": "SCREW - belt tension",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "F80 38\" Snowcaster for 220 and 222 tractors; F84 48\" Snowcaster for 442 and 444 tractors.\nRefs 13/14: gearbox for F80 38\" / F84 48\".\nRef 27 kit C15558 belt tightner includes refs 28-32. Listed for F80 S/N 45701 to S/N 54901 and F84 S/N 46002 to S/N 46257, and used in production on F80 S/N 50701 and after and F84 S/N 50926 and after.\nRef 21 auger drive chain (64 pitches #40) is not sold as one part: order 1 - B12470 chain 50 links, 2 - B12473 chain 6 links, 1 - B12501 connecting link, 1 - B12503 roller link."
+}

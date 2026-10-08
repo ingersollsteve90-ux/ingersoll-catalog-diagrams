@@ -1,0 +1,618 @@
+{
+  "sectionTitle": "Auger Assembly",
+  "breadcrumb": "Auger Assembly",
+  "catalogLabel": "Catalog A1128",
+  "modelNumbers": "Catalog A1128 — Case F80 & F84 Snowcasters (220, 222, 442, 444), E80 & E84 Snowcasters (155, 195)",
+  "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1128/auger_assembly.jpg",
+  "hotspots": [
+    {
+      "ref": "1",
+      "x": 72.8,
+      "y": 43.8,
+      "partNo": "C14396",
+      "desc": "HOUSING - auger 38\" F80 and E80",
+      "reqd": "1"
+    },
+    {
+      "ref": "2",
+      "x": 75.7,
+      "y": 43.9,
+      "partNo": "C14362",
+      "desc": "HOUSING - auger 48\" F84 and E84",
+      "reqd": "1"
+    },
+    {
+      "ref": "3",
+      "x": 55.9,
+      "y": 75.7,
+      "partNo": "C14393",
+      "desc": "AUGER - 38\" F80 and E80",
+      "reqd": "1"
+    },
+    {
+      "ref": "4",
+      "x": 58.6,
+      "y": 75.7,
+      "partNo": "C14382",
+      "desc": "AUGER - 48\" F84 and E84",
+      "reqd": "1"
+    },
+    {
+      "ref": "5",
+      "x": 42.2,
+      "y": 88.6,
+      "partNo": "C14421",
+      "desc": "BEARING - auger",
+      "reqd": "2"
+    },
+    {
+      "ref": "6",
+      "x": 88.7,
+      "y": 25.5,
+      "partNo": "C14572",
+      "desc": "SHAFT - auger mounting 38\" F80 and E80",
+      "reqd": "1"
+    },
+    {
+      "ref": "7",
+      "x": 86,
+      "y": 25.4,
+      "partNo": "C14573",
+      "desc": "SHAFT - auger mounting 48\" F84 and E84",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 93.7,
+      "y": 24.2,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC Hex ZP (2 req'd for F80 and F84)",
+      "reqd": "1"
+    },
+    {
+      "ref": "8",
+      "x": 9.7,
+      "y": 76.9,
+      "partNo": "113-206",
+      "desc": "BOLT - 3/8\" x 3/4\" NC Hex ZP (2 req'd for F80 and F84)",
+      "reqd": "1"
+    },
+    {
+      "ref": "9",
+      "x": 86.6,
+      "y": 57.7,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "9",
+      "x": 69.9,
+      "y": 74,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "9",
+      "x": 49.7,
+      "y": 77.1,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "9",
+      "x": 20.8,
+      "y": 27.4,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "9",
+      "x": 37.2,
+      "y": 19.3,
+      "partNo": "192-21",
+      "desc": "LOCKWASHER - 3/8\" ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "10",
+      "x": 66.9,
+      "y": 74.9,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC Hex ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "10",
+      "x": 56.7,
+      "y": 66.9,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC Hex ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "10",
+      "x": 84.8,
+      "y": 59.5,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC Hex ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "10",
+      "x": 15.3,
+      "y": 28.7,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC Hex ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "10",
+      "x": 32,
+      "y": 16.5,
+      "partNo": "129-103",
+      "desc": "NUT - 3/8\" NC Hex ZP (6 req'd for F80 and F84)",
+      "reqd": "5"
+    },
+    {
+      "ref": "11",
+      "x": 87.2,
+      "y": 65,
+      "partNo": "C14387",
+      "desc": "SKID - auger housing L.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "12",
+      "x": 89.4,
+      "y": 63.7,
+      "partNo": "C14388",
+      "desc": "SKID - auger housing R.H.",
+      "reqd": "1"
+    },
+    {
+      "ref": "13",
+      "x": 94.9,
+      "y": 58.6,
+      "partNo": "111-302",
+      "desc": "BOLT - 3/8\" x 3/4\" Rd. Hd. Sq. Neck ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "14",
+      "x": 81.8,
+      "y": 20.2,
+      "partNo": "C14416",
+      "desc": "CHUTE (also order items 48 and 49)",
+      "reqd": "1"
+    },
+    {
+      "ref": "15",
+      "x": 63.6,
+      "y": 43.7,
+      "partNo": "NSS",
+      "desc": "SCREW - chute holddown (order Kit C 15165)",
+      "reqd": "2"
+    },
+    {
+      "ref": "16",
+      "x": 63.9,
+      "y": 38.7,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" NC Hex ZP",
+      "reqd": "7"
+    },
+    {
+      "ref": "16",
+      "x": 66.7,
+      "y": 47.6,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" NC Hex ZP",
+      "reqd": "7"
+    },
+    {
+      "ref": "16",
+      "x": 66.4,
+      "y": 63.2,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" NC Hex ZP",
+      "reqd": "7"
+    },
+    {
+      "ref": "16",
+      "x": 44.6,
+      "y": 62.7,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4\" NC Hex ZP",
+      "reqd": "7"
+    },
+    {
+      "ref": "17",
+      "x": 62.7,
+      "y": 35.8,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" ZP",
+      "reqd": "5"
+    },
+    {
+      "ref": "17",
+      "x": 51.1,
+      "y": 60.4,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" ZP",
+      "reqd": "5"
+    },
+    {
+      "ref": "17",
+      "x": 68,
+      "y": 60.7,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" ZP",
+      "reqd": "5"
+    },
+    {
+      "ref": "18",
+      "x": 47.8,
+      "y": 5.2,
+      "partNo": "C14597",
+      "desc": "DEFLECTOR",
+      "reqd": "1"
+    },
+    {
+      "ref": "19",
+      "x": 78.1,
+      "y": 25.3,
+      "partNo": "111-340",
+      "desc": "BOLT - 3/8\" x 3/4\" NC Rd. Hd. Sq. Neck",
+      "reqd": "2"
+    },
+    {
+      "ref": "20",
+      "x": 56.8,
+      "y": 18.6,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\" plain ZP",
+      "reqd": "6"
+    },
+    {
+      "ref": "20",
+      "x": 64.3,
+      "y": 70,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\" plain ZP",
+      "reqd": "6"
+    },
+    {
+      "ref": "21",
+      "x": 46.3,
+      "y": 15.4,
+      "partNo": "C14569",
+      "desc": "LEVER - deflector locking",
+      "reqd": "2"
+    },
+    {
+      "ref": "22",
+      "x": 45.7,
+      "y": 38,
+      "partNo": "C14406",
+      "desc": "SPROCKET - discharge",
+      "reqd": "1"
+    },
+    {
+      "ref": "23",
+      "x": 58.8,
+      "y": 33.2,
+      "partNo": "C14582",
+      "desc": "BRACKET - sprocket support",
+      "reqd": "2"
+    },
+    {
+      "ref": "23",
+      "x": 49.5,
+      "y": 23.7,
+      "partNo": "C14582",
+      "desc": "BRACKET - sprocket support",
+      "reqd": "2"
+    },
+    {
+      "ref": "24",
+      "x": 52,
+      "y": 20.4,
+      "partNo": "113-2",
+      "desc": "BOLT - 1/4\" x 5/8\" NC Hex ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "25",
+      "x": 45.1,
+      "y": 22.1,
+      "partNo": "113-3",
+      "desc": "BOLT - 1/4\" x 3/4\" NC Hex ZP",
+      "reqd": "1"
+    },
+    {
+      "ref": "26",
+      "x": 51,
+      "y": 27.4,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\" plain ZP",
+      "reqd": "5"
+    },
+    {
+      "ref": "26",
+      "x": 31.1,
+      "y": 36.4,
+      "partNo": "195-525",
+      "desc": "WASHER - 3/8\" plain ZP",
+      "reqd": "5"
+    },
+    {
+      "ref": "27",
+      "x": 24.8,
+      "y": 33.5,
+      "partNo": "132-320",
+      "desc": "PIN - cotter 3/32\" x 3/4\"",
+      "reqd": "5"
+    },
+    {
+      "ref": "28",
+      "x": 25.9,
+      "y": 30.3,
+      "partNo": "C14583",
+      "desc": "JOINT - block",
+      "reqd": "2"
+    },
+    {
+      "ref": "28",
+      "x": 41.8,
+      "y": 25.6,
+      "partNo": "C14583",
+      "desc": "JOINT - block",
+      "reqd": "2"
+    },
+    {
+      "ref": "29",
+      "x": 38,
+      "y": 40.9,
+      "partNo": "C14410",
+      "desc": "JOINT - link",
+      "reqd": "1"
+    },
+    {
+      "ref": "30",
+      "x": 13,
+      "y": 11.3,
+      "partNo": "C14584",
+      "desc": "CRANK - discharge",
+      "reqd": "1"
+    },
+    {
+      "ref": "30",
+      "x": 39.7,
+      "y": 22.9,
+      "partNo": "C14584",
+      "desc": "CRANK - discharge",
+      "reqd": "1"
+    },
+    {
+      "ref": "31",
+      "x": 17.6,
+      "y": 12.5,
+      "partNo": "C14574",
+      "desc": "BRACKET - crank, long",
+      "reqd": "1"
+    },
+    {
+      "ref": "32",
+      "x": 28,
+      "y": 17.4,
+      "partNo": "C14412",
+      "desc": "BRACKET - crank, short",
+      "reqd": "1"
+    },
+    {
+      "ref": "33",
+      "x": 23.9,
+      "y": 14.6,
+      "partNo": "111-362",
+      "desc": "BOLT - 3/8\" x NC Rd. Hd. Sq. Neck",
+      "reqd": "2"
+    },
+    {
+      "ref": "33",
+      "x": 26.3,
+      "y": 27.4,
+      "partNo": "111-362",
+      "desc": "BOLT - 3/8\" x NC Rd. Hd. Sq. Neck",
+      "reqd": "2"
+    },
+    {
+      "ref": "34",
+      "x": 23,
+      "y": 37.4,
+      "partNo": "C14420",
+      "desc": "FLANGETTE - for bearing C21681",
+      "reqd": "2"
+    },
+    {
+      "ref": "34",
+      "x": 15.9,
+      "y": 40.5,
+      "partNo": "C14420",
+      "desc": "FLANGETTE - for bearing C21681",
+      "reqd": "2"
+    },
+    {
+      "ref": "35",
+      "x": 20.8,
+      "y": 39.8,
+      "partNo": "C21681",
+      "desc": "BEARING",
+      "reqd": "1"
+    },
+    {
+      "ref": "36",
+      "x": 22.4,
+      "y": 54.5,
+      "partNo": "111-202",
+      "desc": "BOLT - 5/16\" x 3/4\" NC Rd. Hd. Sq. Neck",
+      "reqd": "3"
+    },
+    {
+      "ref": "37",
+      "x": 29.5,
+      "y": 39.5,
+      "partNo": "192-20",
+      "desc": "LOCKWASHER - 5/16\" ZP",
+      "reqd": "3"
+    },
+    {
+      "ref": "38",
+      "x": 33.3,
+      "y": 38.9,
+      "partNo": "129-102",
+      "desc": "NUT - 5/16\" NC Hex ZP",
+      "reqd": "3"
+    },
+    {
+      "ref": "39",
+      "x": 13.7,
+      "y": 60.1,
+      "partNo": "C14793",
+      "desc": "BRACKET - chain take up",
+      "reqd": "1"
+    },
+    {
+      "ref": "40",
+      "x": 18.9,
+      "y": 66.2,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" plain ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "40",
+      "x": 7.6,
+      "y": 63.3,
+      "partNo": "195-104",
+      "desc": "WASHER - 3/8\" plain ZP",
+      "reqd": "2"
+    },
+    {
+      "ref": "41",
+      "x": 13,
+      "y": 70.7,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\" NC Hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "41",
+      "x": 10.4,
+      "y": 62.7,
+      "partNo": "131-178",
+      "desc": "NUT - lock 3/8\" NC Hex",
+      "reqd": "2"
+    },
+    {
+      "ref": "42",
+      "x": 11.3,
+      "y": 43.3,
+      "partNo": "178-819",
+      "desc": "SETSCREW - #10 x 3/16\" NF",
+      "reqd": "1"
+    },
+    {
+      "ref": "43",
+      "x": 21.2,
+      "y": 79.7,
+      "partNo": "C15165",
+      "desc": "KIT - chute hold down (used prior to F80 S/N 50701 and F84 S/N 50926)",
+      "reqd": "1"
+    },
+    {
+      "ref": "44",
+      "x": 26.5,
+      "y": 82.7,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4 NC Hex ZP *",
+      "reqd": "4"
+    },
+    {
+      "ref": "44",
+      "x": 27.6,
+      "y": 90.9,
+      "partNo": "129-101",
+      "desc": "NUT - 1/4 NC Hex ZP *",
+      "reqd": "4"
+    },
+    {
+      "ref": "45",
+      "x": 27.5,
+      "y": 85.8,
+      "partNo": "192-19",
+      "desc": "LOCKWASHER - 1/4\" ZP *",
+      "reqd": "2"
+    },
+    {
+      "ref": "46",
+      "x": 29.1,
+      "y": 88.4,
+      "partNo": "A26383",
+      "desc": "WASHER - plain 9/32\" x 1-1/2\" O.D. ZP *",
+      "reqd": "2"
+    },
+    {
+      "ref": "47",
+      "x": 27.5,
+      "y": 93.7,
+      "partNo": "195-518",
+      "desc": "WASHER - plain 9/32\" ZP *",
+      "reqd": "2"
+    },
+    {
+      "ref": "48",
+      "x": 27.3,
+      "y": 96,
+      "partNo": "113-13",
+      "desc": "BOLT - 1/4 x 3/4\" NC Hex ZP *",
+      "reqd": "4"
+    },
+    {
+      "ref": "48",
+      "x": 86,
+      "y": 13.3,
+      "partNo": "113-13",
+      "desc": "BOLT - 1/4 x 3/4\" NC Hex ZP *",
+      "reqd": "4"
+    },
+    {
+      "ref": "49",
+      "x": 73.9,
+      "y": 13.9,
+      "partNo": "131-1102",
+      "desc": "NUT - lock 1/4\"",
+      "reqd": "2"
+    },
+    {
+      "ref": "50",
+      "x": 8,
+      "y": 46.1,
+      "partNo": "C21795",
+      "desc": "COLLAR - locking (includes setscrew)",
+      "reqd": "1"
+    },
+    {
+      "ref": "51",
+      "x": 12.8,
+      "y": 73.8,
+      "partNo": "C15414",
+      "desc": "PLATE - auger end (F80 and F84)",
+      "reqd": "1"
+    }
+  ],
+  "footnotes": "F80 & F84 for 220, 222, 442, 444 tractors; E80 & E84 for 155, 195 compact tractors.\nRefs 1/2, 3/4 and 6/7 are the 38\" (F80/E80) and 48\" (F84/E84) versions of the same part; 11/12 are the L.H./R.H. skids.\n* Refs 44-48 used in production on Model F80 S/N 50701 and after, and Model F84 S/N 50926 and after. Ref 43 kit C15165 is for units prior to those serial numbers.\nAlso listed, not shown on diagram: 321-264 DECAL \"Case\" (1); C12296 DECAL \"Caution\" (2)."
+}
