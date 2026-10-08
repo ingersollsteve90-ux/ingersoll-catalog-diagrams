@@ -1,0 +1,258 @@
+{
+ "sectionTitle": "FM6218 Mower Drive",
+ "breadcrumb": "FM6218 Mower Drive",
+ "catalogLabel": "Catalog 8-3250",
+ "modelNumbers": "Catalog 8-3250 — Ingersoll Attachments for 5012 and 5018 Front Cut Mowers: FM52R, FM4212, FM4218, FM5212, FM5218, FM6218 Mowers; FCSB51 Snowblower; FCUB54 Utility Blade; EDL Electric Deck Lift; VB4252, VB62 Vac Blower; FCBC Barrel Collector; FCMGB Grass Box",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3250/fm6218_mower_drive.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 92.2,
+   "y": 69.9,
+   "partNo": "C41757",
+   "desc": "MOUNT - gear box",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 76.1,
+   "y": 28.4,
+   "partNo": "C37875",
+   "desc": "GUARD - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 87.4,
+   "y": 27.3,
+   "partNo": "C37877",
+   "desc": "ANGLE - gear box mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.3,
+   "y": 53.8,
+   "partNo": "C37929",
+   "desc": "TIGHTENER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 9.4,
+   "y": 57.5,
+   "partNo": "C37945",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 12.4,
+   "y": 63.4,
+   "partNo": "C37946",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 24.1,
+   "y": 74.5,
+   "partNo": "C37947",
+   "desc": "SHAFT - spindle, short",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 55.9,
+   "y": 48.7,
+   "partNo": "C37948",
+   "desc": "SHAFT - spindle, long",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 11.8,
+   "y": 52.8,
+   "partNo": "C37882",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 11.5,
+   "y": 69.5,
+   "partNo": "C37882",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 31.5,
+   "y": 84.6,
+   "partNo": "C37949",
+   "desc": "BLADE",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 9.3,
+   "y": 41.9,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 25.9,
+   "y": 18.8,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 62.7,
+   "y": 4.4,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 61.8,
+   "y": 17.3,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 29.2,
+   "y": 44.8,
+   "partNo": "C37932",
+   "desc": "PULLEY - gear box output",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 70.9,
+   "y": 54.2,
+   "partNo": "C37892",
+   "desc": "PULLEY - gear box input",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 45.3,
+   "y": 23,
+   "partNo": "C37933",
+   "desc": "PULLEY - idler, large",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 19.9,
+   "y": 23.2,
+   "partNo": "C37934",
+   "desc": "PULLEY - idler, small",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 37.8,
+   "y": 15,
+   "partNo": "C38929",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 93,
+   "y": 52.7,
+   "partNo": "C37894",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 95.5,
+   "y": 29.3,
+   "partNo": "C37898",
+   "desc": "GEAR BOX - angle drive (see page 21 for service)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 60,
+   "y": 11.3,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "12"
+  },
+  {
+   "ref": "19",
+   "x": 11.3,
+   "y": 47.3,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "12"
+  },
+  {
+   "ref": "20",
+   "x": 45.8,
+   "y": 54.9,
+   "partNo": "C37901",
+   "desc": "BOLT - 1/4\" - 20 x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 13.2,
+   "y": 27.6,
+   "partNo": "C37899",
+   "desc": "BOLT - 5/16\" - 24 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 11.6,
+   "y": 34.6,
+   "partNo": "C37900",
+   "desc": "WASHER - 5/16\", 10 ga",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 10.9,
+   "y": 87.9,
+   "partNo": "C37886",
+   "desc": "WASHER - blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "24",
+   "x": 12.4,
+   "y": 95,
+   "partNo": "C37557",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "25",
+   "x": 67.4,
+   "y": 26.7,
+   "partNo": "C37771",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 25.3,
+   "y": 51.9,
+   "partNo": "C37937",
+   "desc": "SPACER - idler pulley",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Gear box C37898 service parts: see the Gear Box section."
+}

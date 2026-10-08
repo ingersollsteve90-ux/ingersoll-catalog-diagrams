@@ -1,0 +1,402 @@
+{
+ "sectionTitle": "FM5212 / FM5218 Mower Deck and Attaching Parts",
+ "breadcrumb": "FM5212 / FM5218 Mower Deck and Attaching Parts",
+ "catalogLabel": "Catalog 8-3250",
+ "modelNumbers": "Catalog 8-3250 — Ingersoll Attachments for 5012 and 5018 Front Cut Mowers: FM52R, FM4212, FM4218, FM5212, FM5218, FM6218 Mowers; FCSB51 Snowblower; FCUB54 Utility Blade; EDL Electric Deck Lift; VB4252, VB62 Vac Blower; FCBC Barrel Collector; FCMGB Grass Box",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3250/fm5212_fm5218_mower_deck_attaching_parts.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 34.1,
+   "y": 74.9,
+   "partNo": "C39210",
+   "desc": "DECK - 52\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 91.3,
+   "y": 38.2,
+   "partNo": "C39208",
+   "desc": "CHUTE - foot guard",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 65.8,
+   "y": 55,
+   "partNo": "C39209",
+   "desc": "MOUNT - foot guard",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 49.7,
+   "y": 45.4,
+   "partNo": "C39204",
+   "desc": "COVER - pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 38.7,
+   "y": 48.7,
+   "partNo": "C39203",
+   "desc": "COVER - center",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 26.8,
+   "y": 60.3,
+   "partNo": "C39200",
+   "desc": "COVER - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 29,
+   "y": 85,
+   "partNo": "C37942",
+   "desc": "SHOE - skid",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 62.2,
+   "y": 89.3,
+   "partNo": "C37910",
+   "desc": "ROLLER - anti-scalp",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 67.7,
+   "y": 84.3,
+   "partNo": "C37911",
+   "desc": "SHAFT - roller",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 29,
+   "y": 34.7,
+   "partNo": "C37912",
+   "desc": "BRACKET - gauge wheel mount",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 28,
+   "y": 13.9,
+   "partNo": "C37913",
+   "desc": "MOUNT - gauge wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 10.7,
+   "y": 24.4,
+   "partNo": "C37914",
+   "desc": "FORK",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 11.8,
+   "y": 44.8,
+   "partNo": "C37915",
+   "desc": "AXLE - wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 22.6,
+   "y": 43.2,
+   "partNo": "C37916",
+   "desc": "WHEEL - gauge",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 25.2,
+   "y": 36.4,
+   "partNo": "113-2419",
+   "desc": "BOLT - 1/2\" - 13 x 6-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 41.8,
+   "y": 16.1,
+   "partNo": "C37920",
+   "desc": "BOLT - wing",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 21,
+   "y": 20.6,
+   "partNo": "C37921",
+   "desc": "NUT - gauge wheel handle",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 96.5,
+   "y": 54.2,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit, 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 21.7,
+   "y": 6.9,
+   "partNo": "C37860",
+   "desc": "COLLAR - set",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 22.4,
+   "y": 9.8,
+   "partNo": "C37824",
+   "desc": "BEARING - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 12.1,
+   "y": 18.8,
+   "partNo": "C37824",
+   "desc": "BEARING - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 68.2,
+   "y": 39.4,
+   "partNo": "C37922",
+   "desc": "PIN - \"fas-tatch\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 88.9,
+   "y": 73.8,
+   "partNo": "C29692",
+   "desc": "PIN - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 87.2,
+   "y": 80.5,
+   "partNo": "C29029",
+   "desc": "PIN - cotter, hair",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 26.7,
+   "y": 54.6,
+   "partNo": "C37927",
+   "desc": "SCREW - thumb 1/4\" - 20 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 62.9,
+   "y": 37.3,
+   "partNo": "C37943",
+   "desc": "SCREW - wing 1/4\" - 20 x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 74.1,
+   "y": 35.3,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 86.9,
+   "y": 50.6,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 85.5,
+   "y": 38.4,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 53.1,
+   "y": 42.1,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 72.6,
+   "y": 40.1,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 81,
+   "y": 36.2,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 56.8,
+   "y": 36.5,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 67.2,
+   "y": 47.3,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 8.7,
+   "y": 11.6,
+   "partNo": "C37993",
+   "desc": "FITTING - grease",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 11.7,
+   "y": 3.9,
+   "partNo": "C37756",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 42,
+   "y": 29.4,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "34",
+   "x": 76.8,
+   "y": 86.9,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "34",
+   "x": 44.5,
+   "y": 94.7,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "35",
+   "x": 42.5,
+   "y": 32.5,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "35",
+   "x": 73.2,
+   "y": 85.9,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "35",
+   "x": 48.1,
+   "y": 92.6,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "36",
+   "x": 3.6,
+   "y": 38.7,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 5.2,
+   "y": 48.5,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 80.6,
+   "y": 88.2,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 38.4,
+   "y": 96.3,
+   "partNo": "111-202",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 93.4,
+   "y": 67.4,
+   "partNo": "182-528",
+   "desc": "SCREW - #10 - 32 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 89.6,
+   "y": 65.8,
+   "partNo": "C37598",
+   "desc": "NUT - #10 - 32",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 41.7,
+   "y": 26,
+   "partNo": "111-203",
+   "desc": "BOLT - 5/16\" - 18 x 1\" carriage",
+   "reqd": "6"
+  }
+ ],
+ "footnotes": "Ref 14 gauge wheel C37916 includes tire C37917, rim C37918 and 2 wheel bearings C37872."
+}

@@ -1,0 +1,253 @@
+{
+ "sectionTitle": "FCMGB Grass Box",
+ "breadcrumb": "FCMGB Grass Box",
+ "catalogLabel": "Catalog 8-3250",
+ "modelNumbers": "Catalog 8-3250 — Ingersoll Attachments for 5012 and 5018 Front Cut Mowers: FM52R, FM4212, FM4218, FM5212, FM5218, FM6218 Mowers; FCSB51 Snowblower; FCUB54 Utility Blade; EDL Electric Deck Lift; VB4252, VB62 Vac Blower; FCBC Barrel Collector; FCMGB Grass Box",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3250/fcmgb_grass_box.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 82.1,
+   "y": 45.1,
+   "partNo": "C41763",
+   "desc": "BOX - grass",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 25,
+   "y": 17.5,
+   "partNo": "C38426",
+   "desc": "DOOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 35,
+   "y": 70.2,
+   "partNo": "C41533",
+   "desc": "MOUNT - box",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 86.3,
+   "y": 30.3,
+   "variants": [
+    {
+     "serialNote": "L.H. (shown)",
+     "partNo": "C38897",
+     "desc": "LINKAGE - door L.H. (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C38898",
+     "desc": "LINKAGE - door R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 62.1,
+   "y": 58.6,
+   "partNo": "C38430",
+   "desc": "TUBE",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 28.7,
+   "y": 77.6,
+   "partNo": "C38431",
+   "desc": "PIN - pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 67.2,
+   "y": 71.7,
+   "partNo": "C38432",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 70.5,
+   "y": 80.5,
+   "partNo": "C38419",
+   "desc": "HOSE - 55\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 61.5,
+   "y": 89.9,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 62.8,
+   "y": 48.2,
+   "partNo": "C38433",
+   "desc": "ROPE",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 84.9,
+   "y": 62.4,
+   "partNo": "C38434",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 77.4,
+   "y": 61.6,
+   "partNo": "C37765",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "12",
+   "x": 84.9,
+   "y": 84.9,
+   "partNo": "C37765",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "12",
+   "x": 52.1,
+   "y": 86.8,
+   "partNo": "C37765",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "12",
+   "x": 40.7,
+   "y": 87.8,
+   "partNo": "C37765",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "13",
+   "x": 51.5,
+   "y": 90.3,
+   "partNo": "C37748",
+   "desc": "LOCK WASHER - 5/16\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "13",
+   "x": 79.4,
+   "y": 87.6,
+   "partNo": "C37748",
+   "desc": "LOCK WASHER - 5/16\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "14",
+   "x": 96,
+   "y": 51.6,
+   "partNo": "C38435",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 89.2,
+   "y": 56.8,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 71.5,
+   "y": 92.1,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 53.2,
+   "y": 96.4,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 29.5,
+   "y": 9.8,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "8"
+  },
+  {
+   "ref": "16",
+   "x": 17,
+   "y": 84.2,
+   "partNo": "C38436",
+   "desc": "WASHER - 7/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 10.1,
+   "y": 88.8,
+   "partNo": "C37594",
+   "desc": "PIN - cotter 3/16\" - 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 82.4,
+   "y": 8.3,
+   "partNo": "C38085",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 40.4,
+   "y": 82.3,
+   "partNo": "C38086",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 58.7,
+   "y": 3.9,
+   "partNo": "C37629",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 17.8,
+   "y": 22.7,
+   "partNo": "C37735",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 8.8,
+   "y": 28.1,
+   "partNo": "C39299",
+   "desc": "PIN - door",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

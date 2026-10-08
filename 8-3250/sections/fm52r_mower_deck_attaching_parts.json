@@ -1,0 +1,714 @@
+{
+ "sectionTitle": "FM52R Mower Deck and Attaching Parts",
+ "breadcrumb": "FM52R Mower Deck and Attaching Parts",
+ "catalogLabel": "Catalog 8-3250",
+ "modelNumbers": "Catalog 8-3250 — Ingersoll Attachments for 5012 and 5018 Front Cut Mowers: FM52R, FM4212, FM4218, FM5212, FM5218, FM6218 Mowers; FCSB51 Snowblower; FCUB54 Utility Blade; EDL Electric Deck Lift; VB4252, VB62 Vac Blower; FCBC Barrel Collector; FCMGB Grass Box",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3250/fm52r_mower_deck_attaching_parts.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 93.3,
+   "y": 61.8,
+   "partNo": "C42228",
+   "desc": "DECK - rear discharge 52\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 95.7,
+   "y": 67.8,
+   "partNo": "C37942",
+   "desc": "SHOE - skid L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 15.9,
+   "y": 52,
+   "partNo": "C38073",
+   "desc": "SHOE - skid R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 33.5,
+   "y": 73.5,
+   "partNo": "C37882",
+   "desc": "BEARING - spindle 7/8",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 33.5,
+   "y": 84.4,
+   "partNo": "C37882",
+   "desc": "BEARING - spindle 7/8",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 33.6,
+   "y": 77.1,
+   "partNo": "C37880",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 33.6,
+   "y": 82.1,
+   "partNo": "C37881",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 33.7,
+   "y": 87.4,
+   "partNo": "C38074",
+   "desc": "SHAFT - spindle L.H. rotation",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 31.8,
+   "y": 91.6,
+   "partNo": "C38075",
+   "desc": "BLADE - L.H. rotation",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 44.2,
+   "y": 95.6,
+   "partNo": "C37886",
+   "desc": "WASHER - blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 59.2,
+   "y": 90.1,
+   "partNo": "C37886",
+   "desc": "WASHER - blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 76.7,
+   "y": 87.3,
+   "partNo": "C37886",
+   "desc": "WASHER - blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 54.7,
+   "y": 92.8,
+   "partNo": "C37557",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 76.2,
+   "y": 90.1,
+   "partNo": "C37557",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 68.2,
+   "y": 84.2,
+   "partNo": "C37930",
+   "desc": "BLADE - R.H. rotation",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 65.3,
+   "y": 80.4,
+   "partNo": "C37883",
+   "desc": "SHAFT - spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 15.5,
+   "y": 70.3,
+   "partNo": "C37916",
+   "desc": "WHEEL - gauge",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 19,
+   "y": 68.4,
+   "partNo": "C37915",
+   "desc": "AXLE - gauge wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 22.4,
+   "y": 64.5,
+   "partNo": "C38056",
+   "desc": "BOLT - 1/2\" - 13 x 6-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 12.2,
+   "y": 53,
+   "partNo": "C37914",
+   "desc": "FORK - gauge wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 12.5,
+   "y": 50.3,
+   "partNo": "C37824",
+   "desc": "BEARING - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 12.3,
+   "y": 42.1,
+   "partNo": "C37824",
+   "desc": "BEARING - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 14.4,
+   "y": 48.1,
+   "partNo": "C37913",
+   "desc": "MOUNT - gauge wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 12.1,
+   "y": 39.3,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 17,
+   "y": 38.9,
+   "partNo": "C37920",
+   "desc": "BOLT - wing 3/8\" - 16 x 4-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 26.5,
+   "y": 40.6,
+   "partNo": "C37921",
+   "desc": "NUT - gauge wheel handle 3/8\" - 16",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 30.1,
+   "y": 46.3,
+   "partNo": "C37912",
+   "desc": "BRACKET - gauge wheel mount",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 40,
+   "y": 28.2,
+   "partNo": "C38076",
+   "desc": "SPACER - idler pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 41.9,
+   "y": 32.7,
+   "partNo": "C38077",
+   "desc": "PULLEY - idler 5\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "24",
+   "x": 48.9,
+   "y": 36.4,
+   "partNo": "C38077",
+   "desc": "PULLEY - idler 5\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "24",
+   "x": 63,
+   "y": 43,
+   "partNo": "C38077",
+   "desc": "PULLEY - idler 5\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "25",
+   "x": 42.5,
+   "y": 39.6,
+   "partNo": "C38078",
+   "desc": "PULLEY - spindle 4-1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "25",
+   "x": 80.3,
+   "y": 44.6,
+   "partNo": "C38078",
+   "desc": "PULLEY - spindle 4-1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 62.6,
+   "y": 45.2,
+   "partNo": "C37937",
+   "desc": "SPACER - idler pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 44.4,
+   "y": 29.2,
+   "partNo": "C38079",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 79.5,
+   "y": 46.9,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "9"
+  },
+  {
+   "ref": "29",
+   "x": 79.3,
+   "y": 49.3,
+   "partNo": "C37771",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "30",
+   "x": 56.2,
+   "y": 57.9,
+   "partNo": "C38080",
+   "desc": "TIGHTENER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 60.2,
+   "y": 57.9,
+   "partNo": "C37901",
+   "desc": "BOLT - 1/4\" - 20 x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 27.6,
+   "y": 20.1,
+   "partNo": "C42230",
+   "desc": "COVER - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 37.8,
+   "y": 15.9,
+   "partNo": "C39203",
+   "desc": "COVER - center",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 77,
+   "y": 20.2,
+   "partNo": "C39205",
+   "desc": "MOUNT - gear box",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 81.6,
+   "y": 28.3,
+   "partNo": "C39200",
+   "desc": "COVER - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 79.1,
+   "y": 31.1,
+   "partNo": "C37927",
+   "desc": "SCREW - thumb 1/4\" - 20 x 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "37",
+   "x": 78.7,
+   "y": 18.3,
+   "partNo": "C37892",
+   "desc": "PULLEY - gear box input",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 80.4,
+   "y": 14.1,
+   "partNo": "C37894",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 69.7,
+   "y": 13.1,
+   "partNo": "C37898",
+   "desc": "GEAR BOX - angle drive (see page 21 for service)",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 52,
+   "y": 15.3,
+   "partNo": "C37877",
+   "desc": "ANGLE - gear box mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 63.2,
+   "y": 8.4,
+   "partNo": "C37875",
+   "desc": "GUARD - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 44,
+   "y": 97.3,
+   "partNo": "C38083",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\" L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 68,
+   "y": 33.3,
+   "partNo": "C38083",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\" L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 48.8,
+   "y": 42.6,
+   "partNo": "C37597",
+   "desc": "SCREW - #10 - 32 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "44",
+   "x": 43.2,
+   "y": 44.8,
+   "partNo": "C37598",
+   "desc": "NUT - lock #10 - 32",
+   "reqd": "2"
+  },
+  {
+   "ref": "45",
+   "x": 77.8,
+   "y": 40.6,
+   "partNo": "C37900",
+   "desc": "WASHER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "46",
+   "x": 46.4,
+   "y": 42.5,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 68,
+   "y": 46.8,
+   "partNo": "C38589",
+   "desc": "PIN - clevis 1/2\" x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "48",
+   "x": 87.6,
+   "y": 53.6,
+   "partNo": "C38096",
+   "desc": "PIN - cotter, hair",
+   "reqd": "2"
+  },
+  {
+   "ref": "49",
+   "x": 5.8,
+   "y": 53.2,
+   "partNo": "C37590",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "50",
+   "x": 3.3,
+   "y": 52.3,
+   "partNo": "C37593",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "2"
+  },
+  {
+   "ref": "51",
+   "x": 53.4,
+   "y": 22.6,
+   "partNo": "C38084",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "52",
+   "x": 42.2,
+   "y": 14.4,
+   "partNo": "C38085",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "53",
+   "x": 47.8,
+   "y": 25.3,
+   "partNo": "C37757",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "53",
+   "x": 64.5,
+   "y": 4.2,
+   "partNo": "C37757",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "54",
+   "x": 56.9,
+   "y": 28.6,
+   "partNo": "C38086",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "55",
+   "x": 43,
+   "y": 41.5,
+   "partNo": "C38087",
+   "desc": "BOLT - 7/16\" - 14 x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "56",
+   "x": 47.6,
+   "y": 80.6,
+   "partNo": "C38088",
+   "desc": "LOCKWASHER - 7/16\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "57",
+   "x": 47.1,
+   "y": 82.9,
+   "partNo": "C38089",
+   "desc": "NUT - 7/16\" - 14",
+   "reqd": "12"
+  },
+  {
+   "ref": "58",
+   "x": 37.3,
+   "y": 60.8,
+   "partNo": "C38090",
+   "desc": "BOLT - carriage 5/16\" - 18 x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "59",
+   "x": 80,
+   "y": 79,
+   "partNo": "C37748",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "59",
+   "x": 33.8,
+   "y": 44.9,
+   "partNo": "C37748",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "59",
+   "x": 46.1,
+   "y": 14.5,
+   "partNo": "C37748",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "59",
+   "x": 54.9,
+   "y": 15.3,
+   "partNo": "C37748",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "60",
+   "x": 30.1,
+   "y": 39.8,
+   "partNo": "C37560",
+   "desc": "NUT - 5/16\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "60",
+   "x": 55,
+   "y": 13.7,
+   "partNo": "C37560",
+   "desc": "NUT - 5/16\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "60",
+   "x": 77,
+   "y": 78.7,
+   "partNo": "C37560",
+   "desc": "NUT - 5/16\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "61",
+   "x": 93.7,
+   "y": 79.4,
+   "partNo": "C38091",
+   "desc": "BOLT - carriage 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "62",
+   "x": 52.7,
+   "y": 45.3,
+   "partNo": "C38092",
+   "desc": "BOLT - carriage 3/8\" - 16 x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "63",
+   "x": 33.4,
+   "y": 37.1,
+   "partNo": "C37591",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "63",
+   "x": 49.1,
+   "y": 34.2,
+   "partNo": "C37591",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "63",
+   "x": 58.5,
+   "y": 63.2,
+   "partNo": "C37591",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "64",
+   "x": 33.9,
+   "y": 39.4,
+   "partNo": "C37592",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "3"
+  },
+  {
+   "ref": "64",
+   "x": 50.2,
+   "y": 69,
+   "partNo": "C37592",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "3"
+  },
+  {
+   "ref": "65",
+   "x": 50.1,
+   "y": 30,
+   "partNo": "C38093",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "66",
+   "x": 35.1,
+   "y": 41.6,
+   "partNo": "C38094",
+   "desc": "BOLT - 3/8\" - 16 x 2-1/2",
+   "reqd": "2"
+  },
+  {
+   "ref": "66",
+   "x": 65,
+   "y": 38,
+   "partNo": "C38094",
+   "desc": "BOLT - 3/8\" - 16 x 2-1/2",
+   "reqd": "2"
+  },
+  {
+   "ref": "67",
+   "x": 75.8,
+   "y": 39.2,
+   "partNo": "C37899",
+   "desc": "BOLT - 5/16\" - 24 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "68",
+   "x": 46.2,
+   "y": 53.8,
+   "partNo": "C37734",
+   "desc": "NUT - lock 1/4\" - 20",
+   "reqd": ""
+  },
+  {
+   "ref": "74",
+   "x": 73.3,
+   "y": 2.6,
+   "partNo": "TBD",
+   "desc": "Printed callout with no line in the parts table (not identified)",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Ref 13 gauge wheel C37916 includes tire C37917, rim C37918 and 2 wheel bearings C37872.\nGear box C37898 service parts: see the Gear Box section."
+}

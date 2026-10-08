@@ -1,0 +1,274 @@
+{
+ "sectionTitle": "EDL Electric Deck Lift Kit (optional)",
+ "breadcrumb": "EDL Electric Deck Lift Kit (optional)",
+ "catalogLabel": "Catalog 8-3250",
+ "modelNumbers": "Catalog 8-3250 — Ingersoll Attachments for 5012 and 5018 Front Cut Mowers: FM52R, FM4212, FM4218, FM5212, FM5218, FM6218 Mowers; FCSB51 Snowblower; FCUB54 Utility Blade; EDL Electric Deck Lift; VB4252, VB62 Vac Blower; FCBC Barrel Collector; FCMGB Grass Box",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3250/edl_electric_deck_lift_kit.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 81.6,
+   "y": 31.3,
+   "partNo": "C37529",
+   "desc": "ACTUATOR - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 86.3,
+   "y": 52.7,
+   "partNo": "C39023",
+   "desc": "MOUNT - actuator",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 73.7,
+   "y": 88,
+   "partNo": "C39034",
+   "desc": "ADAPTER - deck lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 71.5,
+   "y": 67.8,
+   "partNo": "C39032",
+   "desc": "NOSE - cable mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 5.9,
+   "y": 52.2,
+   "partNo": "C39314",
+   "desc": "BRACKET - side, cable mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 36.4,
+   "y": 65.1,
+   "partNo": "C38824",
+   "desc": "PULLEY - cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 34.9,
+   "y": 5.5,
+   "partNo": "C38824",
+   "desc": "PULLEY - cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 75.3,
+   "y": 15.5,
+   "partNo": "C37616",
+   "desc": "BOLT - \"U\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 65.3,
+   "y": 71.6,
+   "partNo": "C37616",
+   "desc": "BOLT - \"U\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 68.8,
+   "y": 22.3,
+   "partNo": "C39338",
+   "desc": "CLAMP - cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 42.2,
+   "y": 71.9,
+   "partNo": "C39338",
+   "desc": "CLAMP - cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 49.8,
+   "y": 15.5,
+   "partNo": "C38096",
+   "desc": "BOLT - \"U\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 83.2,
+   "y": 17.5,
+   "partNo": "C39339",
+   "desc": "THIMBLE - cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 62,
+   "y": 76.6,
+   "partNo": "C39339",
+   "desc": "THIMBLE - cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 43.8,
+   "y": 27.2,
+   "partNo": "C37758",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 92,
+   "y": 38.8,
+   "partNo": "C37758",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 31.6,
+   "y": 30.3,
+   "partNo": "C37757",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 92.2,
+   "y": 47.9,
+   "partNo": "C37757",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 77.6,
+   "y": 55.6,
+   "partNo": "C38084",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 27.2,
+   "y": 35.8,
+   "partNo": "C37759",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 17.7,
+   "y": 39.6,
+   "partNo": "C38085",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 84.8,
+   "y": 62.3,
+   "partNo": "C38085",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 79.1,
+   "y": 76,
+   "partNo": "C37750",
+   "desc": "BOLT - 5/16\" - 18 x 2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 52.6,
+   "y": 57.2,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 40.2,
+   "y": 51,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 23.8,
+   "y": 71.5,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 57.5,
+   "y": 95,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 65.5,
+   "y": 91.7,
+   "partNo": "C37748",
+   "desc": "LOCK WASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 18.7,
+   "y": 66.2,
+   "partNo": "C37748",
+   "desc": "LOCK WASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 56.9,
+   "y": 60.4,
+   "partNo": "C37748",
+   "desc": "LOCK WASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 94,
+   "y": 20.2,
+   "partNo": "C38615",
+   "desc": "BOLT - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 75.2,
+   "y": 36.3,
+   "partNo": "C39396",
+   "desc": "NUT - lock 1/2\" - 13",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 80.5,
+   "y": 4.8,
+   "partNo": "C38598",
+   "desc": "CABLE - lift 64\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}
