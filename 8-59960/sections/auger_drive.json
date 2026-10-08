@@ -1,0 +1,254 @@
+{
+ "sectionTitle": "SB52 Snowblower - Auger and Drive Assembly",
+ "breadcrumb": "SB52 Snowblower - Auger and Drive Assembly",
+ "catalogLabel": "Catalog 8-59960",
+ "modelNumbers": "Catalog 8-59960 — Ingersoll SB52 Snowblower (Front Cut Attachments)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-59960/auger_drive.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 8.75,
+   "y": 54.39,
+   "partNo": "C28277",
+   "desc": "FLANGETTE",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 74.77,
+   "y": 18.32,
+   "partNo": "C28277",
+   "desc": "FLANGETTE",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 19.91,
+   "y": 64.72,
+   "partNo": "C28817",
+   "desc": "BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 77.43,
+   "y": 32.73,
+   "partNo": "C28817",
+   "desc": "BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 4.24,
+   "y": 58.99,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16 x 3/4\" NC ZP carriage",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "3",
+   "x": 65.66,
+   "y": 36.92,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16 x 3/4\" NC ZP carriage",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 62.69,
+   "y": 10.14,
+   "variants": [
+    {
+     "serialNote": "G1100, G1250, G1600, G1800, G1890, G1890K, 5012, 5016, 5018",
+     "partNo": "C37894",
+     "desc": "BELT - drive (use on mowers G1100, G1250, G1600, G1800, G1890, G1890K, 5012, 5016, 5018)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "G2000CII, G2018D, 5118D (two-belt drive, 2 req'd)",
+     "partNo": "C37895",
+     "desc": "BELT - drive (use on mower G2000CII), (G2018D, 5118D)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "5020V, G1890V, G1897V, G2090V, G2097V, G2297K",
+     "partNo": "C44241",
+     "desc": "BELT - drive (use on mowers 5020V, G1890V, G1897V, G2090V, G2097V, G2297K)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 14.79,
+   "y": 49.49,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex ZP flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 96.68,
+   "y": 28.13,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC hex ZP flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 7.21,
+   "y": 93.34,
+   "partNo": "121-226",
+   "desc": "BOLT - 3/8\" x 1\" NC hex flange lock (use lock sealant on threads)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 61.16,
+   "y": 28.43,
+   "partNo": "C29581",
+   "desc": "KEY-3/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 17.45,
+   "y": 24.35,
+   "partNo": "C46399",
+   "desc": "CHAIN - auger drive 88 pitches #40 roller chain",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 31.68,
+   "y": 28.23,
+   "partNo": "C28982",
+   "desc": "LINK - connecting #40",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 83.68,
+   "y": 13.1,
+   "partNo": "83-55",
+   "desc": "SCREW - set 5/16\" - 18 x 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 65.56,
+   "y": 23.12,
+   "partNo": "NSS",
+   "desc": "COLLAR - locking (included with item 2)",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 27.38,
+   "y": 62.47,
+   "partNo": "NSS",
+   "desc": "COLLAR - locking (included with item 2)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 32.39,
+   "y": 59.3,
+   "partNo": "C46413",
+   "desc": "SHAFT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 94.32,
+   "y": 14.64,
+   "variants": [
+    {
+     "serialNote": "One-belt drive (shown) - all models except G2000CII, G2018D, 5118D",
+     "partNo": "C46416",
+     "desc": "PULLEY - drive shaft (shown) (for one belt drive) (all models except G2000CII, G2018D, 5118D)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Two-belt drive - G2000CII, G2018D, 5118D",
+     "partNo": "C37893",
+     "desc": "PULLEY - drive shaft (for two belt drive) (use with model G2000CII, G2018D, 5118D)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 40.99,
+   "y": 62.88,
+   "partNo": "C25853",
+   "desc": "AUGER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 35.46,
+   "y": 89.15,
+   "partNo": "C25840",
+   "desc": "SLEEVE - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 27.79,
+   "y": 93.13,
+   "partNo": "C28971",
+   "desc": "BEARING - auger",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 19.5,
+   "y": 96.81,
+   "partNo": "C25841",
+   "desc": "SHAFT - stub",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 89.41,
+   "y": 45.81,
+   "partNo": "195-522",
+   "desc": "WASHER - spacer 3/8\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "19",
+   "x": 30.86,
+   "y": 78.92,
+   "partNo": "C16109",
+   "desc": "SPROCKET - auger (is welded to auger)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 3.42,
+   "y": 51.84,
+   "partNo": "C46417",
+   "desc": "BRACKET-chain adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 12.64,
+   "y": 46.32,
+   "partNo": "114-203",
+   "desc": "BOLT-3/8\"-24x 1-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 8.13,
+   "y": 43.66,
+   "partNo": "129-163",
+   "desc": "NUT - 3/8\" - 24 lock",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 4 drive belt and ref 13 drive-shaft pulley depend on the mower model; two-belt drive models (G2000CII, G2018D, 5118D) use two C37895 belts and pulley C37893.\nRef 11 locking collar is not sold separately; it is included with ref 2 bearing C28817.\nRef 19 sprocket is welded to the auger (ref 14).\nRefs 3 and 18: quantity as required."
+}
