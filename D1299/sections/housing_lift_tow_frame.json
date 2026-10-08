@@ -1,0 +1,197 @@
+{
+ "sectionTitle": "Housing, Lift and Tow Frame",
+ "breadcrumb": "Housing, Lift and Tow Frame",
+ "catalogLabel": "Catalog D1299",
+ "modelNumbers": "Catalog D1299 — Ingersoll L90, M90, N90, P90, R90, S90 and SW38 Lawn Sweepers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1299/housing_lift_tow_frame.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 9.05,
+   "y": 18.78,
+   "partNo": "C28498",
+   "desc": "HOUSING ASSEMBLY - brush (also requires (4) C23602, (8) 187-1036; (8) 192-19 service N90, P90 and R90)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 24.83,
+   "y": 48.51,
+   "partNo": "C23286",
+   "desc": "BRACKET - housing to frame R.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 60.09,
+   "y": 24.72,
+   "partNo": "C23593",
+   "desc": "BRACKET - housing to frame L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 41.61,
+   "y": 45.68,
+   "partNo": "C23339",
+   "desc": "PAN-skid",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 68.78,
+   "y": 20.14,
+   "partNo": "C23601",
+   "desc": "RIVET - 1/4\" x 13/32\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 7.45,
+   "y": 51.92,
+   "variants": [
+    {
+     "serialNote": "Before date code 483",
+     "partNo": "C23348",
+     "desc": "BEARING - pivot, housing (use before date code 483)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Date code 483 and after",
+     "partNo": "C27740",
+     "desc": "BEARING - pivot, housing (use date code 483 and after)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 3.96,
+   "y": 33.89,
+   "partNo": "C23301",
+   "desc": "SPACER - pivot, housing",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 75.27,
+   "y": 12.25,
+   "partNo": "C20005",
+   "desc": "PIN - height adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 76.37,
+   "y": 38.28,
+   "partNo": "C10482",
+   "desc": "SPRING - height adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 93.05,
+   "y": 25.5,
+   "partNo": "138-96",
+   "desc": "PIN - roll, 3/16\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 67.08,
+   "y": 60.41,
+   "partNo": "C23197",
+   "desc": "TUBE - frame, L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 62.18,
+   "y": 65.57,
+   "partNo": "C23198",
+   "desc": "TUBE - frame, R.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 96.84,
+   "y": 86.14,
+   "partNo": "C23200",
+   "desc": "PLATE - hitch",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 89.15,
+   "y": 49.29,
+   "partNo": "113-132",
+   "desc": "BOLT-1/4\"x 1-3/4\" N.C. hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 82.26,
+   "y": 95.99,
+   "partNo": "131-1102",
+   "desc": "NUT-lock, 1/4\" N.C. hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 33.12,
+   "y": 48.32,
+   "partNo": "113-233",
+   "desc": "BOLT - 3/8\" x 1-3/4\" N.C. hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 17.14,
+   "y": 83.8,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 17.44,
+   "y": 89.46,
+   "partNo": "131-1352",
+   "desc": "NUT - lock, 3/8\" N.C. hex flange",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 94.44,
+   "y": 53.87,
+   "partNo": "C10888",
+   "desc": "PIN - hitch",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 77.47,
+   "y": 84.29,
+   "partNo": "C24457",
+   "desc": "REINFORCEMENT - tow bar (only when needed)",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 84.36,
+   "y": 66.84,
+   "partNo": "C24457",
+   "desc": "REINFORCEMENT - tow bar (only when needed)",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 15.14,
+   "y": 69.47,
+   "partNo": "195-2206",
+   "desc": "WASHER - .688\" x 1.25\" (P90, R90, S90, SW38)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 6 pivot bearing: C23348 before date code 483 (has a step on both sides); C27740 date code 483 and after.\nRef 1 housing assembly also requires (4) C23602, (8) 187-1036 and (8) 192-19 for service on N90, P90 and R90.\nRef 20 tow bar reinforcement is used only when needed. Ref 21 washer is used on P90, R90, S90 and SW38."
+}

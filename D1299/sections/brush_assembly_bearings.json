@@ -1,0 +1,98 @@
+{
+ "sectionTitle": "Brush Assembly and Bearings",
+ "breadcrumb": "Brush Assembly and Bearings",
+ "catalogLabel": "Catalog D1299",
+ "modelNumbers": "Catalog D1299 — Ingersoll L90, M90, N90, P90, R90, S90 and SW38 Lawn Sweepers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1299/brush_assembly_bearings.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 68.12,
+   "y": 62.75,
+   "partNo": "C22255",
+   "desc": "BRUSH - sweeper (L90 and M90)",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 35.6,
+   "y": 40.92,
+   "partNo": "C23214",
+   "desc": "HOLDER - brush (L90)",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 37.99,
+   "y": 34.88,
+   "partNo": "138-97",
+   "desc": "PIN - roll (L90)",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 57.28,
+   "y": 23.78,
+   "partNo": "NSS",
+   "desc": "SHAFT - brush (L90)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 43.36,
+   "y": 27.58,
+   "partNo": "132-378",
+   "desc": "PIN - cotter 1/16\" x 1\" (L90)",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 9.84,
+   "y": 70.93,
+   "partNo": "C40716",
+   "desc": "BEARING - shaft, brush (L90, M90, S90, SW38)",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 31.12,
+   "y": 44.63,
+   "partNo": "111-118",
+   "desc": "BOLT - 1/4\" x 1/2\" carriage",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 2.78,
+   "y": 71.52,
+   "partNo": "131-1102",
+   "desc": "NUT - lock 1/4\" N.C. hex (L90, M90)",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 12.53,
+   "y": 48.72,
+   "partNo": "C27501",
+   "desc": "BUSHING - shaft (N90, P90, R90)",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 15.91,
+   "y": 89.25,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" (S90, SW38)",
+   "reqd": "8"
+  },
+  {
+   "ref": "11",
+   "x": 8.05,
+   "y": 95.1,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" - 20 x 1/2\" self-tapping (S90, SW38)",
+   "reqd": "8"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C25055 Brush and Shaft Assembly (M90, N90, P90, R90, S90, SW38), qty 2. The L90 brush and shaft assembly (shown) is NSS — use C25055 qty 1, C25178 qty 6, 138-2071 qty 4, C20036 qty 2 and C25141 qty 2.\nRef 4 brush shaft (L90) is NSS.\nRef 9 bushing: if the brush shaft has worn through the bushing and into the sweeper housing, use C28036 Repair Kit (replaces all four brush shaft bushings)."
+}

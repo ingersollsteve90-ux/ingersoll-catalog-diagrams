@@ -1,0 +1,72 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog D1299",
+ "modelNumbers": "Catalog D1299 — Ingersoll L90, M90, N90, P90, R90, S90 and SW38 Lawn Sweepers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1299/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 12.1,
+   "y": 32.81,
+   "partNo": "321-6379",
+   "desc": "DECAL - \"CASE\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 75.9,
+   "y": 33.49,
+   "variants": [
+    {
+     "serialNote": "P90",
+     "partNo": "C27598",
+     "desc": "DECAL - height adjust (P90)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L90, M90, N90, R90, S90, SW38 (shown)",
+     "partNo": "C33883",
+     "desc": "DECAL - height adjust (L90, M90, N90, R90, S90, SW38) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 64.9,
+   "y": 81.57,
+   "partNo": "NSS",
+   "desc": "DECAL - stripe (R90, S90, SW38) (use C31328 cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 24.4,
+   "y": 55.83,
+   "variants": [
+    {
+     "serialNote": "R90, S90, SW38 (shown)",
+     "partNo": "C27935",
+     "desc": "DECAL - \"hi sweep 38\" (R90, S90, SW38) shown",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "P90",
+     "partNo": "C27196",
+     "desc": "DECAL - \"hi sweep 38\" (P90)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 50.7,
+   "y": 5.6,
+   "partNo": "C31989",
+   "desc": "DECAL - \"INGERSOLL\" (R90, S90, SW38)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 3 stripe decal is NSS — use C31328 cut to length."
+}
