@@ -1,0 +1,514 @@
+{
+ "sectionTitle": "44\" Rotary Mower - Deck, Spindles and Blades (120, 150, 190)",
+ "breadcrumb": "44\" Rotary Mower - Deck, Spindles and Blades (120, 150, 190)",
+ "catalogLabel": "Catalog 976",
+ "modelNumbers": "Catalog 976 — Case 120, 150 and 190 Garden Tractors: Rotary Mowers, Dozer Blades and Dump Cart",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/976/mower_44_120_150_190.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 95.77,
+   "y": 6.39,
+   "partNo": "C10806",
+   "desc": "GUARD - outboard pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 4.43,
+   "y": 25.75,
+   "partNo": "C10806",
+   "desc": "GUARD - outboard pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 95.47,
+   "y": 2.5,
+   "partNo": "187-1014",
+   "desc": "SCREW - 1/4\" x 1/2\" hex head, self-tapping",
+   "reqd": "6"
+  },
+  {
+   "ref": "2",
+   "x": 4.64,
+   "y": 22.46,
+   "partNo": "187-1014",
+   "desc": "SCREW - 1/4\" x 1/2\" hex head, self-tapping",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 39.8,
+   "y": 10.68,
+   "partNo": "25-1112",
+   "desc": "NUT - 3/4\"-16 hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 95.97,
+   "y": 11.88,
+   "partNo": "25-1112",
+   "desc": "NUT - 3/4\"-16 hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 4.84,
+   "y": 28.95,
+   "partNo": "25-1112",
+   "desc": "NUT - 3/4\"-16 hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 95.97,
+   "y": 13.97,
+   "partNo": "C10904",
+   "desc": "PULLEY - outboard spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 4.33,
+   "y": 32.34,
+   "partNo": "C10904",
+   "desc": "PULLEY - outboard spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 95.47,
+   "y": 16.07,
+   "partNo": "126-19",
+   "desc": "KEY - Woodruff #11",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 39.09,
+   "y": 18.57,
+   "partNo": "126-19",
+   "desc": "KEY - Woodruff #11",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 4.84,
+   "y": 34.83,
+   "partNo": "126-19",
+   "desc": "KEY - Woodruff #11",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 95.57,
+   "y": 19.16,
+   "partNo": "C10822",
+   "desc": "WASHER - mower spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 39.49,
+   "y": 20.76,
+   "partNo": "C10822",
+   "desc": "WASHER - mower spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 4.13,
+   "y": 39.43,
+   "partNo": "C10822",
+   "desc": "WASHER - mower spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 41.11,
+   "y": 80.65,
+   "partNo": "C10822",
+   "desc": "WASHER - mower spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 73.95,
+   "y": 80.65,
+   "partNo": "C10822",
+   "desc": "WASHER - mower spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 6.86,
+   "y": 81.55,
+   "partNo": "C10822",
+   "desc": "WASHER - mower spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 39.49,
+   "y": 14.37,
+   "partNo": "C10713",
+   "desc": "PULLEY - center spindle, 2 groove",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 39.29,
+   "y": 26.95,
+   "partNo": "C10919",
+   "desc": "BELT - driven, 3V750",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 95.87,
+   "y": 38.53,
+   "partNo": "C10833",
+   "desc": "DECK - mower, 44\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 95.26,
+   "y": 30.84,
+   "partNo": "A70404",
+   "desc": "DECAL - \"caution-spinning blade\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 3.32,
+   "y": 53.3,
+   "partNo": "A70404",
+   "desc": "DECAL - \"caution-spinning blade\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 74.05,
+   "y": 67.17,
+   "partNo": "C10899",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 41.11,
+   "y": 67.57,
+   "partNo": "C10899",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 7.16,
+   "y": 68.57,
+   "partNo": "C10899",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 41.31,
+   "y": 77.65,
+   "partNo": "C10899",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 73.95,
+   "y": 77.95,
+   "partNo": "C10899",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 6.35,
+   "y": 79.05,
+   "partNo": "C10899",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 73.95,
+   "y": 70.27,
+   "partNo": "C10810",
+   "desc": "SPACER - bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 41.11,
+   "y": 70.47,
+   "partNo": "C10810",
+   "desc": "SPACER - bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 7.16,
+   "y": 71.57,
+   "partNo": "C10810",
+   "desc": "SPACER - bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 41.51,
+   "y": 74.86,
+   "partNo": "C10807",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 6.96,
+   "y": 75.16,
+   "partNo": "C10807",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 73.95,
+   "y": 75.46,
+   "partNo": "C10807",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 41.31,
+   "y": 82.65,
+   "partNo": "C10942",
+   "desc": "WASHER - bearing seal",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 73.64,
+   "y": 82.94,
+   "partNo": "C10942",
+   "desc": "WASHER - bearing seal",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 6.66,
+   "y": 83.74,
+   "partNo": "C10942",
+   "desc": "WASHER - bearing seal",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 41.01,
+   "y": 86.34,
+   "partNo": "C10808",
+   "desc": "SPINDLE - mower blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 6.15,
+   "y": 86.54,
+   "partNo": "C10808",
+   "desc": "SPINDLE - mower blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 73.95,
+   "y": 87.34,
+   "partNo": "C10808",
+   "desc": "SPINDLE - mower blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 40.3,
+   "y": 90.33,
+   "partNo": "C10920",
+   "desc": "BLADE - 15-1/2\" mower",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 74.05,
+   "y": 91.13,
+   "partNo": "C10920",
+   "desc": "BLADE - 15-1/2\" mower",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 6.25,
+   "y": 91.63,
+   "partNo": "C10920",
+   "desc": "BLADE - 15-1/2\" mower",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 53.44,
+   "y": 93.92,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 84.05,
+   "y": 95.02,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 20.8,
+   "y": 95.12,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 53.44,
+   "y": 96.32,
+   "partNo": "115-206",
+   "desc": "BOLT - 3/8\" x 5/8\" N.C. ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 20.9,
+   "y": 97.42,
+   "partNo": "115-206",
+   "desc": "BOLT - 3/8\" x 5/8\" N.C. ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 83.85,
+   "y": 97.52,
+   "partNo": "115-206",
+   "desc": "BOLT - 3/8\" x 5/8\" N.C. ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 63.84,
+   "y": 41.42,
+   "partNo": "115-203",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C.",
+   "reqd": "12"
+  },
+  {
+   "ref": "19",
+   "x": 42.42,
+   "y": 48.01,
+   "partNo": "115-203",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C.",
+   "reqd": "12"
+  },
+  {
+   "ref": "20",
+   "x": 63.94,
+   "y": 43.52,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "12"
+  },
+  {
+   "ref": "20",
+   "x": 42.52,
+   "y": 50.21,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "12"
+  },
+  {
+   "ref": "21",
+   "x": 23.73,
+   "y": 32.14,
+   "partNo": "C10765",
+   "desc": "PULLEY - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 23.43,
+   "y": 42.32,
+   "partNo": "C10814",
+   "desc": "BRACKET - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 39.29,
+   "y": 39.73,
+   "partNo": "C10817",
+   "desc": "BUSHING, idler pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 24.24,
+   "y": 27.95,
+   "partNo": "16-624",
+   "desc": "BOLT - 3/8\" x 1-1/2\" N.F. ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 24.24,
+   "y": 30.04,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 24.24,
+   "y": 37.23,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 41.31,
+   "y": 65.18,
+   "partNo": "11-614",
+   "desc": "BOLT - 3/8\" x 7/8\" - round head, square neck",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 23.83,
+   "y": 39.43,
+   "partNo": "195-522",
+   "desc": "WASHER - 3/8\" SAE plain ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 23.83,
+   "y": 34.83,
+   "partNo": "25-106",
+   "desc": "NUT - 3/8\"-16 N.C. hex",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "For Case 120, 150 and 190 Garden Tractors."
+}

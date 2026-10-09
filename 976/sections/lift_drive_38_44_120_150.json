@@ -1,0 +1,634 @@
+{
+ "sectionTitle": "38\" - 44\" Rotary Mower - Lift and Drive (120, 150)",
+ "breadcrumb": "38\" - 44\" Rotary Mower - Lift and Drive (120, 150)",
+ "catalogLabel": "Catalog 976",
+ "modelNumbers": "Catalog 976 — Case 120, 150 and 190 Garden Tractors: Rotary Mowers, Dozer Blades and Dump Cart",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/976/lift_drive_38_44_120_150.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 75.36,
+   "y": 34.48,
+   "partNo": "C10895",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 81.52,
+   "y": 31.86,
+   "partNo": "C10463",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 67.28,
+   "y": 37.61,
+   "partNo": "C10463",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 85.77,
+   "y": 29.85,
+   "partNo": "C10551",
+   "desc": "BUSHING - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 61.32,
+   "y": 40.43,
+   "partNo": "C10551",
+   "desc": "BUSHING - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 56.16,
+   "y": 42.34,
+   "partNo": "15-896",
+   "desc": "BOLT - 1/2\" x 6\" N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 37.57,
+   "y": 24.61,
+   "partNo": "92-8",
+   "desc": "WASHER - 1/2\" SAE std. lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 90.01,
+   "y": 28.34,
+   "partNo": "92-8",
+   "desc": "WASHER - 1/2\" SAE std. lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 61.82,
+   "y": 52.52,
+   "partNo": "92-8",
+   "desc": "WASHER - 1/2\" SAE std. lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 96.27,
+   "y": 57.76,
+   "partNo": "92-8",
+   "desc": "WASHER - 1/2\" SAE std. lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 34.14,
+   "y": 26.12,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N.C. hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 93.75,
+   "y": 26.42,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N.C. hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 61.72,
+   "y": 50.1,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N.C. hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 96.58,
+   "y": 55.94,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N.C. hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "7",
+   "x": 58.79,
+   "y": 15.54,
+   "partNo": "C10949",
+   "desc": "FRAME - support",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 13.83,
+   "y": 16.65,
+   "partNo": "C10760",
+   "desc": "BELLCRANK - rear lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 41.31,
+   "y": 4.66,
+   "partNo": "C10789",
+   "desc": "LEVER - rear lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 46.56,
+   "y": 2.75,
+   "partNo": "138-2008",
+   "desc": "ROLLPIN - 1/4\" x 1-1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 22.32,
+   "y": 31.36,
+   "partNo": "C10757",
+   "desc": "PULL ROD - rear mower lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 9.08,
+   "y": 32.67,
+   "partNo": "195-522",
+   "desc": "WASHER - 3/8\" SAE plain ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 41.51,
+   "y": 23.0,
+   "partNo": "C10751",
+   "desc": "LEVER - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 44.75,
+   "y": 21.59,
+   "partNo": "115-406",
+   "desc": "BOLT - 1/2\" x 1-1/4\" N.C.",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 62.22,
+   "y": 56.65,
+   "partNo": "132-48",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "15",
+   "x": 96.58,
+   "y": 62.29,
+   "partNo": "132-48",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "15",
+   "x": 3.32,
+   "y": 69.24,
+   "partNo": "132-48",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 31.41,
+   "y": 9.19,
+   "partNo": "C10953",
+   "desc": "PIN - clevis 1/2\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 52.53,
+   "y": 34.79,
+   "partNo": "213-4",
+   "desc": "CLEVIS - 3/8\"-24 SAE",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 52.42,
+   "y": 30.55,
+   "partNo": "25-156",
+   "desc": "NUT - 3/8\"-24 N.F. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 52.42,
+   "y": 32.57,
+   "partNo": "141-4",
+   "desc": "PIN - clevis 3/8\" SAE",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 9.39,
+   "y": 29.45,
+   "partNo": "132-26",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "20",
+   "x": 78.09,
+   "y": 83.65,
+   "partNo": "132-26",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "21",
+   "x": 25.15,
+   "y": 11.71,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 31.21,
+   "y": 38.82,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 61.82,
+   "y": 44.06,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 96.27,
+   "y": 49.5,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 3.42,
+   "y": 57.05,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "7"
+  },
+  {
+   "ref": "22",
+   "x": 31.31,
+   "y": 49.6,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "22",
+   "x": 65.76,
+   "y": 54.94,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "22",
+   "x": 31.01,
+   "y": 58.26,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "22",
+   "x": 65.56,
+   "y": 64.01,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "22",
+   "x": 31.01,
+   "y": 64.61,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "23",
+   "x": 18.68,
+   "y": 14.74,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 44.85,
+   "y": 43.35,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 61.82,
+   "y": 45.97,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 31.21,
+   "y": 46.57,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 79.4,
+   "y": 48.89,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 96.47,
+   "y": 51.71,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 65.76,
+   "y": 52.02,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 61.72,
+   "y": 54.43,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 31.11,
+   "y": 56.25,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 96.58,
+   "y": 59.97,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 65.46,
+   "y": 61.89,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 31.11,
+   "y": 62.59,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 3.53,
+   "y": 63.1,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 3.42,
+   "y": 72.77,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "23",
+   "x": 70.0,
+   "y": 79.82,
+   "partNo": "195-530",
+   "desc": "WASHER - 1/2\" SAE plain ZP",
+   "reqd": "20"
+  },
+  {
+   "ref": "24",
+   "x": 35.55,
+   "y": 67.53,
+   "partNo": "C10804",
+   "desc": "LINK - front mower lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 24.64,
+   "y": 72.57,
+   "partNo": "C10804",
+   "desc": "LINK - front mower lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 31.41,
+   "y": 60.58,
+   "partNo": "C10803",
+   "desc": "LINK - rear mower lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 3.53,
+   "y": 66.62,
+   "partNo": "C10803",
+   "desc": "LINK - rear mower lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 48.28,
+   "y": 41.94,
+   "partNo": "C11344",
+   "desc": "LINK - bottom lift",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 83.14,
+   "y": 46.78,
+   "partNo": "C11344",
+   "desc": "LINK - bottom lift",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 31.21,
+   "y": 51.61,
+   "partNo": "C11344",
+   "desc": "LINK - bottom lift",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 65.76,
+   "y": 57.15,
+   "partNo": "C11344",
+   "desc": "LINK - bottom lift",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 31.11,
+   "y": 42.75,
+   "partNo": "C11345",
+   "desc": "LINK - top lift",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 65.76,
+   "y": 47.78,
+   "partNo": "C11345",
+   "desc": "LINK - top lift",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 61.52,
+   "y": 47.88,
+   "partNo": "C11345",
+   "desc": "LINK - top lift",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 96.47,
+   "y": 53.53,
+   "partNo": "C11345",
+   "desc": "LINK - top lift",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 31.31,
+   "y": 53.93,
+   "partNo": "115-407",
+   "desc": "BOLT - 1/2\" x 1-1/2\" N.C.",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 65.56,
+   "y": 59.47,
+   "partNo": "115-407",
+   "desc": "BOLT - 1/2\" x 1-1/2\" N.C.",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 60.2,
+   "y": 76.2,
+   "partNo": "C10800",
+   "desc": "BOLT - belt tension arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 82.84,
+   "y": 85.26,
+   "partNo": "C10952",
+   "desc": "YOKE - adjustable rod end",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 63.94,
+   "y": 77.3,
+   "partNo": "C10802",
+   "desc": "YOKE - belt tension arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 67.58,
+   "y": 78.61,
+   "partNo": "C10813",
+   "desc": "SPRING - belt tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 67.78,
+   "y": 97.66,
+   "partNo": "C10818",
+   "desc": "PIN - pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 52.42,
+   "y": 91.31,
+   "partNo": "C10897",
+   "desc": "PIN - pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 45.05,
+   "y": 88.39,
+   "partNo": "C10883",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 74.25,
+   "y": 82.04,
+   "partNo": "25-148",
+   "desc": "NUT - 1/2\"-13 N.C. hex",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "Lift and drive parts for the 38\" and 44\" rotary mowers on Case 120 and 150 Garden Tractors."
+}

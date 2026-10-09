@@ -1,0 +1,242 @@
+{
+ "sectionTitle": "44\" Dozer Blade (120, 150)",
+ "breadcrumb": "44\" Dozer Blade (120, 150)",
+ "catalogLabel": "Catalog 976",
+ "modelNumbers": "Catalog 976 — Case 120, 150 and 190 Garden Tractors: Rotary Mowers, Dozer Blades and Dump Cart",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/976/dozer_blade_44_120_150.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 37.78,
+   "y": 39.76,
+   "partNo": "C10850",
+   "desc": "FRAME - dozer",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 31.03,
+   "y": 2.58,
+   "partNo": "C10820",
+   "desc": "PIN - clevis - 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 9.76,
+   "y": 13.35,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 29.01,
+   "y": 13.74,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 46.96,
+   "y": 12.75,
+   "partNo": "C10879",
+   "desc": "LINK - dozer lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 43.33,
+   "y": 10.26,
+   "partNo": "C10821",
+   "desc": "PIN - clevis - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 51.59,
+   "y": 16.24,
+   "partNo": "C10821",
+   "desc": "PIN - clevis - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 57.24,
+   "y": 61.1,
+   "partNo": "132-48",
+   "desc": "PIN - cotter - 1/8\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 26.39,
+   "y": 32.88,
+   "partNo": "C10967",
+   "desc": "BOLT - 3/8\" x 3\" hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 9.96,
+   "y": 22.62,
+   "partNo": "C10966",
+   "desc": "SPRING - extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 13.69,
+   "y": 25.41,
+   "partNo": "C10965",
+   "desc": "PLUG - spring adjustment",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 71.15,
+   "y": 28.4,
+   "partNo": "C10921",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 66.11,
+   "y": 25.61,
+   "partNo": "C10896",
+   "desc": "WASHER - cup",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 62.48,
+   "y": 22.42,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\"-16 N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 49.48,
+   "y": 47.14,
+   "partNo": "C10873",
+   "desc": "WELDMENT - blade pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 57.04,
+   "y": 51.03,
+   "partNo": "15-856",
+   "desc": "BOLT - 1/2\" x 3-1/2\" N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 77.8,
+   "y": 32.69,
+   "partNo": "92-8",
+   "desc": "WASHER - 1/2\" SAE std. lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 75.18,
+   "y": 30.79,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N.C.",
+   "reqd": "5"
+  },
+  {
+   "ref": "16",
+   "x": 53.61,
+   "y": 79.34,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N.C.",
+   "reqd": "5"
+  },
+  {
+   "ref": "17",
+   "x": 40.91,
+   "y": 68.57,
+   "partNo": "141-6",
+   "desc": "PIN - clevis - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 22.76,
+   "y": 75.95,
+   "partNo": "C10870",
+   "desc": "BLADE - 44\" dozer",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 93.43,
+   "y": 77.94,
+   "partNo": "C11049",
+   "desc": "BOLT - 3/8\" x 10\" N.C. ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 53.41,
+   "y": 82.53,
+   "partNo": "C10968",
+   "desc": "SHOE - dozer",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 59.66,
+   "y": 92.7,
+   "partNo": "C10871",
+   "desc": "BLADE - 44\" scraper",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 49.38,
+   "y": 97.38,
+   "partNo": "11-516",
+   "desc": "BOLT - 5/16\" x 1\" round head",
+   "reqd": "9"
+  },
+  {
+   "ref": "23",
+   "x": 22.76,
+   "y": 85.02,
+   "partNo": "92-5",
+   "desc": "WASHER - 5/16\" SAE std. lock",
+   "reqd": "9"
+  },
+  {
+   "ref": "24",
+   "x": 22.56,
+   "y": 82.23,
+   "partNo": "25-105",
+   "desc": "NUT - 5/16\"-18 hex",
+   "reqd": "9"
+  },
+  {
+   "ref": "25",
+   "x": 57.54,
+   "y": 20.02,
+   "partNo": "C10888",
+   "desc": "PIN - locking",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 80.93,
+   "y": 83.43,
+   "partNo": "111-342",
+   "desc": "BOLT - 3/8\" x 1\" - round head, square neck",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "For Case 120 and 150 Garden Tractors."
+}
