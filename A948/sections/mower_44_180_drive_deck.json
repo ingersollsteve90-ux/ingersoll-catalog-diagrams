@@ -1,0 +1,550 @@
+{
+ "sectionTitle": "44\" Rotary Mower - Deck, Drive and Lift (180, Colt Super H, Rancher)",
+ "breadcrumb": "44\" Rotary Mower - Deck, Drive and Lift (180, Colt Super H, Rancher)",
+ "catalogLabel": "Catalog A948",
+ "modelNumbers": "Catalog A948 — Case 38\" and 44\" Rotary Mowers and 44\" Dozer Blade for Case 130 and 180 Garden Tractors and Colt Deluxe, Super, Super H and Rancher Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A948/mower_44_180_drive_deck.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 59.58,
+   "y": 2.84,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 60.23,
+   "y": 7.2,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 60.01,
+   "y": 10.94,
+   "variants": [
+    {
+     "serialNote": "180 and Rancher",
+     "partNo": "A70499",
+     "desc": "BRACKET - belt guard (180 and Rancher) (See C11376) *",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Super H",
+     "partNo": "C12292",
+     "desc": "BRACKET - belt guard (Super H)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 60.23,
+   "y": 13.78,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex ZP (See 115-204) *",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 60.01,
+   "y": 17.42,
+   "partNo": "131-357",
+   "desc": "NUT - 3/4\" N.C. Gripco",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 9.4,
+   "y": 31.5,
+   "partNo": "131-357",
+   "desc": "NUT - 3/4\" N.C. Gripco",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 96.08,
+   "y": 36.77,
+   "partNo": "131-357",
+   "desc": "NUT - 3/4\" N.C. Gripco",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 75.51,
+   "y": 24.51,
+   "partNo": "C11988",
+   "desc": "BELT - drive (58\" inside length) (See C11384) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 59.58,
+   "y": 25.12,
+   "partNo": "A70290",
+   "desc": "PULLEY - spindle (See C11387 for center spindle or C11385 for outer spindles) *",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 9.08,
+   "y": 35.45,
+   "partNo": "A70290",
+   "desc": "PULLEY - spindle (See C11387 for center spindle or C11385 for outer spindles) *",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 59.58,
+   "y": 34.85,
+   "partNo": "A70290",
+   "desc": "PULLEY - spindle (See C11387 for center spindle or C11385 for outer spindles) *",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 95.97,
+   "y": 40.32,
+   "partNo": "A70290",
+   "desc": "PULLEY - spindle (See C11387 for center spindle or C11385 for outer spindles) *",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 96.08,
+   "y": 44.77,
+   "partNo": "A70289",
+   "desc": "KEY - square spindle pulley (See O6073AB) *",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 75.73,
+   "y": 36.47,
+   "partNo": "A70289",
+   "desc": "KEY - square spindle pulley (See O6073AB) *",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 75.19,
+   "y": 27.45,
+   "partNo": "A70289",
+   "desc": "KEY - square spindle pulley (See O6073AB) *",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 9.4,
+   "y": 38.9,
+   "partNo": "A70289",
+   "desc": "KEY - square spindle pulley (See O6073AB) *",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 75.51,
+   "y": 31.81,
+   "variants": [
+    {
+     "serialNote": "180 and Rancher",
+     "partNo": "A70281",
+     "desc": "SPACER - center spindle pulley (180 and Rancher) **",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Super H",
+     "partNo": "C12293",
+     "desc": "SPACER - center spindle pulley (Super H)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 75.19,
+   "y": 41.02,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 95.97,
+   "y": 48.82,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 9.51,
+   "y": 41.94,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 96.29,
+   "y": 26.64,
+   "partNo": "13-48",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "11",
+   "x": 30.51,
+   "y": 19.75,
+   "partNo": "13-48",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "12",
+   "x": 30.72,
+   "y": 22.29,
+   "partNo": "92-4",
+   "desc": "WASHER - 1/4\" SAE std. lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "12",
+   "x": 96.4,
+   "y": 29.58,
+   "partNo": "92-4",
+   "desc": "WASHER - 1/4\" SAE std. lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "13",
+   "x": 96.29,
+   "y": 32.82,
+   "partNo": "A70303",
+   "desc": "GUARD - outboard pulley, L. H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 75.73,
+   "y": 66.24,
+   "partNo": "A70323",
+   "desc": "GUARD - discharge",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 95.0,
+   "y": 60.67,
+   "partNo": "A70404",
+   "desc": "DECAL - caution spinning blades",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 10.27,
+   "y": 97.24,
+   "partNo": "A70404",
+   "desc": "DECAL - caution spinning blades",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 80.79,
+   "y": 67.97,
+   "partNo": "13-412",
+   "desc": "BOLT - 1/4\" x 3/4\" N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 67.76,
+   "y": 72.22,
+   "partNo": "92-4",
+   "desc": "WASHER - 1/4\" SAE std. lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 69.92,
+   "y": 77.99,
+   "partNo": "25-104",
+   "desc": "NUT - 1/4\" N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 77.34,
+   "y": 82.55,
+   "partNo": "A70492",
+   "desc": "DECK - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 52.15,
+   "y": 96.43,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 48.92,
+   "y": 88.93,
+   "partNo": "A70318",
+   "desc": "PIN - lift chain",
+   "reqd": "5"
+  },
+  {
+   "ref": "21",
+   "x": 25.12,
+   "y": 72.52,
+   "partNo": "A70318",
+   "desc": "PIN - lift chain",
+   "reqd": "5"
+  },
+  {
+   "ref": "22",
+   "x": 49.57,
+   "y": 81.44,
+   "variants": [
+    {
+     "serialNote": "180 and Rancher",
+     "partNo": "A70512",
+     "desc": "CHAIN - 9 links (180 and Rancher)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Super H",
+     "partNo": "C12294",
+     "desc": "CHAIN - 8 links (Super H)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "23",
+   "x": 54.63,
+   "y": 88.83,
+   "partNo": "95-6",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "5"
+  },
+  {
+   "ref": "23",
+   "x": 31.58,
+   "y": 69.38,
+   "partNo": "95-6",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "5"
+  },
+  {
+   "ref": "24",
+   "x": 55.27,
+   "y": 77.79,
+   "partNo": "A70176",
+   "desc": "PIN - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 33.85,
+   "y": 68.67,
+   "partNo": "A70176",
+   "desc": "PIN - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 47.63,
+   "y": 65.53,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "25",
+   "x": 59.04,
+   "y": 66.65,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 54.95,
+   "y": 68.57,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 43.75,
+   "y": 64.22,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "27",
+   "x": 36.75,
+   "y": 67.76,
+   "partNo": "131-352",
+   "desc": "NUT - 3/8\" N.C. Gripco",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 49.35,
+   "y": 78.6,
+   "partNo": "131-352",
+   "desc": "NUT - 3/8\" N.C. Gripco",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 45.15,
+   "y": 73.23,
+   "variants": [
+    {
+     "serialNote": "180 and Rancher",
+     "partNo": "A70513",
+     "desc": "CHAIN - 6 links (180 and Rancher)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Super H",
+     "partNo": "C12295",
+     "desc": "CHAIN - 5 links (Super H)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 25.88,
+   "y": 65.94,
+   "partNo": "A70501",
+   "desc": "BRACKET - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 14.25,
+   "y": 77.89,
+   "partNo": "A70508",
+   "desc": "SHAFT - rear lift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 5.96,
+   "y": 80.83,
+   "partNo": "132-50",
+   "desc": "PIN - 1/8\" x 1-1/4\" cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 47.84,
+   "y": 62.6,
+   "partNo": "132-50",
+   "desc": "PIN - 1/8\" x 1-1/4\" cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 47.63,
+   "y": 53.68,
+   "partNo": "A70292",
+   "desc": "BRACKET - idler pulley tightener",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 47.63,
+   "y": 51.66,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 47.3,
+   "y": 48.62,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 47.41,
+   "y": 46.49,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 47.41,
+   "y": 43.15,
+   "partNo": "A70295",
+   "desc": "PULLEY - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 47.41,
+   "y": 40.32,
+   "partNo": "192-25",
+   "desc": "WASHER - 5/8\" SAE std. lock ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 47.41,
+   "y": 37.68,
+   "partNo": "131-356",
+   "desc": "NUT - 5/8\" N.C. Gripco",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 41.38,
+   "y": 43.45,
+   "partNo": "A70504",
+   "desc": "LEVER - rear lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 9.19,
+   "y": 19.75,
+   "partNo": "A70302",
+   "desc": "GUARD - outboard pulley, R. H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 60.01,
+   "y": 27.55,
+   "partNo": "C11945",
+   "desc": "BELT - driven (80\" inside length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 20.71,
+   "y": 75.06,
+   "partNo": "321-848",
+   "desc": "DECAL - \"Case\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "44\" Rotary Mower for the Case 180 Garden Tractor and Colt Super H and Rancher compact tractors.\nRefs 3, 9, 22, 28: different part numbers for the 180 and Rancher vs the Super H.\n* If the mower has modification kit C11633 installed, see the C11633 Modification Kit section for the replacement part.\n** Not used on mowers with modification kit C11633 installed."
+}

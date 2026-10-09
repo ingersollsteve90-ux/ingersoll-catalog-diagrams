@@ -1,0 +1,541 @@
+{
+ "sectionTitle": "38\" Rotary Mower - Deck, Drive and Lift (130, Colt Deluxe, Super)",
+ "breadcrumb": "38\" Rotary Mower - Deck, Drive and Lift (130, Colt Deluxe, Super)",
+ "catalogLabel": "Catalog A948",
+ "modelNumbers": "Catalog A948 — Case 38\" and 44\" Rotary Mowers and 44\" Dozer Blade for Case 130 and 180 Garden Tractors and Colt Deluxe, Super, Super H and Rancher Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A948/mower_38_drive_deck.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 30.01,
+   "y": 3.15,
+   "partNo": "131-352",
+   "desc": "NUT - 3/8\" N.C. Gripco",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 52.51,
+   "y": 66.85,
+   "partNo": "131-352",
+   "desc": "NUT - 3/8\" N.C. Gripco",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 30.36,
+   "y": 76.05,
+   "partNo": "131-352",
+   "desc": "NUT - 3/8\" N.C. Gripco",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 47.99,
+   "y": 2.65,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "2",
+   "x": 55.76,
+   "y": 65.54,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "2",
+   "x": 33.49,
+   "y": 74.53,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "2",
+   "x": 40.33,
+   "y": 71.8,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "2",
+   "x": 62.61,
+   "y": 62.81,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "3",
+   "x": 30.24,
+   "y": 5.38,
+   "partNo": "A70301",
+   "desc": "CHAIN - lift, 3 links",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 51.7,
+   "y": 3.66,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 65.74,
+   "y": 61.39,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 44.05,
+   "y": 70.39,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 30.12,
+   "y": 12.86,
+   "partNo": "A70432",
+   "desc": "BRACKET - belt guard and lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 30.12,
+   "y": 7.9,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 30.01,
+   "y": 10.53,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 30.36,
+   "y": 16.09,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 30.24,
+   "y": 18.82,
+   "partNo": "131-357",
+   "desc": "NUT - 3/4\" N.C. Gripco",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 84.65,
+   "y": 33.99,
+   "partNo": "131-357",
+   "desc": "NUT - 3/4\" N.C. Gripco",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 15.28,
+   "y": 71.5,
+   "partNo": "131-357",
+   "desc": "NUT - 3/4\" N.C. Gripco",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 30.36,
+   "y": 21.55,
+   "variants": [
+    {
+     "serialNote": "Idler brackets A70235 measuring 7-3/4\" at sleeve centers",
+     "partNo": "C11948",
+     "desc": "BELT - drive (59\" inside length) Use with idler brackets A70235 measuring 7-3/4\" at sleeve centers",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Idler brackets A70235 measuring 8-1/4\" at sleeve centers",
+     "partNo": "C11946",
+     "desc": "BELT - drive (60\" inside length) Use with idler brackets A70235 measuring 8-1/4\" at sleeve centers",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 30.36,
+   "y": 25.6,
+   "partNo": "A70291",
+   "desc": "PULLEY - center spindle, 2 groove",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 29.66,
+   "y": 30.05,
+   "partNo": "O6073AB",
+   "desc": "KEY - square center spindle pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 30.12,
+   "y": 32.88,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 85.23,
+   "y": 42.48,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 15.16,
+   "y": 82.02,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 91.26,
+   "y": 23.88,
+   "partNo": "13-48",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "14",
+   "x": 35.35,
+   "y": 60.78,
+   "partNo": "13-48",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 91.38,
+   "y": 26.1,
+   "partNo": "92-4",
+   "desc": "WASHER - 1/4\" SAE std. lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 35.46,
+   "y": 63.61,
+   "partNo": "92-4",
+   "desc": "WASHER - 1/4\" SAE std. lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "16",
+   "x": 91.26,
+   "y": 29.24,
+   "partNo": "A70303",
+   "desc": "GUARD - outboard pulley L. H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 85.0,
+   "y": 36.92,
+   "partNo": "A70290",
+   "desc": "PULLEY - outboard spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 15.28,
+   "y": 75.55,
+   "partNo": "A70290",
+   "desc": "PULLEY - outboard spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 84.76,
+   "y": 39.65,
+   "partNo": "A70289",
+   "desc": "KEY - square outboard spindle pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 15.28,
+   "y": 78.28,
+   "partNo": "A70289",
+   "desc": "KEY - square outboard spindle pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 85.92,
+   "y": 63.21,
+   "partNo": "A70323",
+   "desc": "GUARD - discharge",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 90.68,
+   "y": 61.39,
+   "partNo": "A70404",
+   "desc": "DECAL - caution spinning blades",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 25.48,
+   "y": 97.38,
+   "partNo": "A70404",
+   "desc": "DECAL - caution spinning blades",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 85.81,
+   "y": 69.98,
+   "partNo": "13-412",
+   "desc": "BOLT - 1/4\" x 3/4\" N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 94.16,
+   "y": 81.0,
+   "partNo": "92-4",
+   "desc": "WASHER - 1/4\" SAE std. lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 90.68,
+   "y": 83.13,
+   "partNo": "25-104",
+   "desc": "NUT - 1/4\" N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 71.54,
+   "y": 95.16,
+   "partNo": "A70422",
+   "desc": "DECK - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 71.77,
+   "y": 97.38,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. hex ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 52.51,
+   "y": 74.43,
+   "partNo": "A70318",
+   "desc": "PIN - rear hanger chain to deck",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 37.67,
+   "y": 80.6,
+   "partNo": "A70318",
+   "desc": "PIN - rear hanger chain to deck",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 37.2,
+   "y": 72.92,
+   "partNo": "A70319",
+   "desc": "CHAIN - rear hanger, 4 links",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 59.47,
+   "y": 64.42,
+   "partNo": "A70319",
+   "desc": "CHAIN - rear hanger, 4 links",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 56.23,
+   "y": 73.42,
+   "partNo": "95-6",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 45.09,
+   "y": 77.16,
+   "partNo": "95-6",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 48.22,
+   "y": 76.15,
+   "partNo": "A70176",
+   "desc": "PIN - retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 65.97,
+   "y": 68.97,
+   "partNo": "A70176",
+   "desc": "PIN - retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 42.42,
+   "y": 66.45,
+   "partNo": "A70292",
+   "desc": "BRACKET - idler pulley tightener",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 42.19,
+   "y": 55.73,
+   "partNo": "A70295",
+   "desc": "PULLEY - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 42.54,
+   "y": 53.0,
+   "partNo": "192-25",
+   "desc": "WASHER - 5/8\" SAE std. lock ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 42.54,
+   "y": 50.37,
+   "partNo": "131-356",
+   "desc": "NUT - 5/8\" N.C. Gripco",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 42.54,
+   "y": 58.46,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 42.42,
+   "y": 60.88,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 42.31,
+   "y": 63.72,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 36.27,
+   "y": 65.84,
+   "partNo": "A70302",
+   "desc": "GUARD - outboard pulley R. H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 24.67,
+   "y": 59.06,
+   "partNo": "A70318",
+   "desc": "PIN - pivot arm to deck",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 29.78,
+   "y": 46.32,
+   "partNo": "A70318",
+   "desc": "PIN - pivot arm to deck",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 28.96,
+   "y": 57.65,
+   "partNo": "A70321",
+   "desc": "ARM - pivot R. H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 32.68,
+   "y": 56.13,
+   "partNo": "A70176",
+   "desc": "PIN - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 36.27,
+   "y": 54.62,
+   "partNo": "A70322",
+   "desc": "ARM - pivot L. H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 30.24,
+   "y": 40.56,
+   "partNo": "C11944",
+   "desc": "BELT - driven (66\" inside length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 27.69,
+   "y": 70.49,
+   "partNo": "321-848",
+   "desc": "DECAL - \"Case\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "38\" Rotary Mower for the Case 130 Garden Tractor and Colt Deluxe and Super compact tractors.\nRef 10: two drive belt lengths. Measure the A70235 idler bracket at its sleeve centers: 7-3/4\" uses C11948 (59\"), 8-1/4\" uses C11946 (60\")."
+}

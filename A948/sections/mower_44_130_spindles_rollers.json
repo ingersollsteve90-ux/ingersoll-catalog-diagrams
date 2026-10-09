@@ -1,0 +1,475 @@
+{
+ "sectionTitle": "44\" Rotary Mower - Spindles, Blades and Rollers (130, Colt Deluxe, Super)",
+ "breadcrumb": "44\" Rotary Mower - Spindles, Blades and Rollers (130, Colt Deluxe, Super)",
+ "catalogLabel": "Catalog A948",
+ "modelNumbers": "Catalog A948 — Case 38\" and 44\" Rotary Mowers and 44\" Dozer Blade for Case 130 and 180 Garden Tractors and Colt Deluxe, Super, Super H and Rancher Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A948/mower_44_130_spindles_rollers.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 9.73,
+   "y": 26.03,
+   "partNo": "195-108",
+   "desc": "SPACER - roller",
+   "reqd": "9"
+  },
+  {
+   "ref": "1",
+   "x": 21.01,
+   "y": 6.69,
+   "partNo": "195-108",
+   "desc": "SPACER - roller",
+   "reqd": "9"
+  },
+  {
+   "ref": "1",
+   "x": 65.42,
+   "y": 8.0,
+   "partNo": "195-108",
+   "desc": "SPACER - roller",
+   "reqd": "9"
+  },
+  {
+   "ref": "1",
+   "x": 41.39,
+   "y": 2.76,
+   "partNo": "195-108",
+   "desc": "SPACER - roller",
+   "reqd": "9"
+  },
+  {
+   "ref": "2",
+   "x": 29.93,
+   "y": 4.61,
+   "partNo": "A70524",
+   "desc": "ROLLER - 7\" long",
+   "reqd": "5"
+  },
+  {
+   "ref": "2",
+   "x": 11.73,
+   "y": 10.19,
+   "partNo": "A70524",
+   "desc": "ROLLER - 7\" long",
+   "reqd": "5"
+  },
+  {
+   "ref": "3",
+   "x": 59.96,
+   "y": 9.42,
+   "partNo": "A70306",
+   "desc": "BRACKET - roller mtg. w/shaft, L. H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29.2,
+   "y": 32.37,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C. hex ZP",
+   "reqd": "12"
+  },
+  {
+   "ref": "4",
+   "x": 60.32,
+   "y": 29.64,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C. hex ZP",
+   "reqd": "12"
+  },
+  {
+   "ref": "4",
+   "x": 63.96,
+   "y": 21.44,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C. hex ZP",
+   "reqd": "12"
+  },
+  {
+   "ref": "5",
+   "x": 74.33,
+   "y": 22.42,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "12"
+  },
+  {
+   "ref": "5",
+   "x": 73.61,
+   "y": 30.95,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "12"
+  },
+  {
+   "ref": "5",
+   "x": 41.39,
+   "y": 32.69,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "12"
+  },
+  {
+   "ref": "6",
+   "x": 70.88,
+   "y": 43.51,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 58.5,
+   "y": 49.85,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 58.14,
+   "y": 54.44,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 75.24,
+   "y": 45.37,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" SAE std. lock ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 79.61,
+   "y": 46.24,
+   "partNo": "A70309",
+   "desc": "BAFFLE - blade guard",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 79.43,
+   "y": 51.71,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C. hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 80.52,
+   "y": 57.61,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C. hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 23.01,
+   "y": 64.71,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 52.13,
+   "y": 64.82,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 80.16,
+   "y": 64.93,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 80.52,
+   "y": 77.6,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 52.68,
+   "y": 77.06,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 23.19,
+   "y": 77.49,
+   "partNo": "A70280",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 23.19,
+   "y": 68.86,
+   "partNo": "A70281",
+   "desc": "SPACER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 52.13,
+   "y": 67.77,
+   "partNo": "A70281",
+   "desc": "SPACER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 80.52,
+   "y": 68.75,
+   "partNo": "A70281",
+   "desc": "SPACER - spindle bearing",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 79.98,
+   "y": 74.11,
+   "partNo": "A70279",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 53.22,
+   "y": 73.01,
+   "partNo": "A70279",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 23.38,
+   "y": 73.45,
+   "partNo": "A70279",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 23.38,
+   "y": 80.55,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 52.31,
+   "y": 80.44,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 81.25,
+   "y": 81.43,
+   "partNo": "A70282",
+   "desc": "WASHER - spindle bearing",
+   "reqd": "6"
+  },
+  {
+   "ref": "14",
+   "x": 52.5,
+   "y": 84.49,
+   "partNo": "A70286",
+   "desc": "SPINDLE - mower blade center",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 23.38,
+   "y": 84.27,
+   "partNo": "A70283",
+   "desc": "SPINDLE - mower blade outboard",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 80.52,
+   "y": 85.69,
+   "partNo": "A70283",
+   "desc": "SPINDLE - mower blade outboard",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 23.92,
+   "y": 90.06,
+   "variants": [
+    {
+     "serialNote": "Regular blade",
+     "partNo": "A70317",
+     "desc": "BLADE - 15\" mower (regular) (See C11654)",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "Heavy-grass blade (use in sets of 3)",
+     "partNo": "C11654",
+     "desc": "BLADE - 15\" mower (for use in sets of 3 when cutting high grass under severe conditions)",
+     "reqd": "3"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 52.31,
+   "y": 88.64,
+   "variants": [
+    {
+     "serialNote": "Regular blade",
+     "partNo": "A70317",
+     "desc": "BLADE - 15\" mower (regular) (See C11654)",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "Heavy-grass blade (use in sets of 3)",
+     "partNo": "C11654",
+     "desc": "BLADE - 15\" mower (for use in sets of 3 when cutting high grass under severe conditions)",
+     "reqd": "3"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 80.89,
+   "y": 89.73,
+   "variants": [
+    {
+     "serialNote": "Regular blade",
+     "partNo": "A70317",
+     "desc": "BLADE - 15\" mower (regular) (See C11654)",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "Heavy-grass blade (use in sets of 3)",
+     "partNo": "C11654",
+     "desc": "BLADE - 15\" mower (for use in sets of 3 when cutting high grass under severe conditions)",
+     "reqd": "3"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 43.4,
+   "y": 94.32,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 69.6,
+   "y": 93.01,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 94.9,
+   "y": 94.65,
+   "partNo": "92-6",
+   "desc": "WASHER - 3/8\" SAE std. lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 43.03,
+   "y": 96.72,
+   "partNo": "13-68",
+   "desc": "BOLT - 3/8\" x 1/2\" N.C. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 69.06,
+   "y": 95.41,
+   "partNo": "13-68",
+   "desc": "BOLT - 3/8\" x 1/2\" N.C. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 95.08,
+   "y": 97.27,
+   "partNo": "13-68",
+   "desc": "BOLT - 3/8\" x 1/2\" N.C. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 35.93,
+   "y": 25.05,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C. hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 30.47,
+   "y": 23.84,
+   "partNo": "A70305",
+   "desc": "BRACKET - roller mounting, R. H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 25.92,
+   "y": 22.1,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 21.92,
+   "y": 20.78,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 5.0,
+   "y": 27.78,
+   "partNo": "132-69",
+   "desc": "PIN - 5/32\" x 1\" cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 71.6,
+   "y": 6.03,
+   "partNo": "132-69",
+   "desc": "PIN - 5/32\" x 1\" cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 45.76,
+   "y": 2.76,
+   "partNo": "A70523",
+   "desc": "ROLLER - 5\" long",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "44\" Rotary Mower for the Case 130 Garden Tractor and Colt Deluxe and Super compact tractors.\nRef 16: A70317 is the regular 15\" blade. C11654 is a heavy-grass blade, used in sets of three when cutting high grass under severe conditions."
+}

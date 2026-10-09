@@ -1,0 +1,216 @@
+{
+ "sectionTitle": "Mower Clutch Linkage (130, 180, Colt Deluxe, Super, Super H, Rancher)",
+ "breadcrumb": "Mower Clutch Linkage (130, 180, Colt Deluxe, Super, Super H, Rancher)",
+ "catalogLabel": "Catalog A948",
+ "modelNumbers": "Catalog A948 — Case 38\" and 44\" Rotary Mowers and 44\" Dozer Blade for Case 130 and 180 Garden Tractors and Colt Deluxe, Super, Super H and Rancher Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A948/clutch_linkage.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6.19,
+   "y": 48.85,
+   "variants": [
+    {
+     "serialNote": "Case 130",
+     "partNo": "A70259",
+     "desc": "ROD - lift lever (130)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Case 180",
+     "partNo": "A70491",
+     "desc": "ROD - lift lever (180) (See C11626) *",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "1",
+   "x": 11.08,
+   "y": 60.89,
+   "variants": [
+    {
+     "serialNote": "Case 130",
+     "partNo": "A70259",
+     "desc": "ROD - lift lever (130)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Case 180",
+     "partNo": "A70491",
+     "desc": "ROD - lift lever (180) (See C11626) *",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 14.1,
+   "y": 44.4,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\" plain ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 17.32,
+   "y": 42.04,
+   "partNo": "132-30",
+   "desc": "PIN - cotter 3/32\" x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 84.43,
+   "y": 3.42,
+   "partNo": "A70170",
+   "desc": "GRIP - clutch lever rubber",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 71.43,
+   "y": 10.89,
+   "partNo": "A70413",
+   "desc": "LEVER - clutch (See C11379) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 54.88,
+   "y": 56.44,
+   "partNo": "195-108",
+   "desc": "WASHER - 5/8\" plain ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 50.83,
+   "y": 58.27,
+   "partNo": "A70250",
+   "desc": "PIN - clutch lever retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 73.19,
+   "y": 30.52,
+   "partNo": "A70418",
+   "desc": "SPRING - clutch lever **",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 64.87,
+   "y": 35.1,
+   "partNo": "A70242",
+   "desc": "BRACKET - clutch lever spring **",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 64.87,
+   "y": 21.49,
+   "partNo": "A70245",
+   "desc": "BRACKET - clutch lever catch",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 61.02,
+   "y": 96.62,
+   "partNo": "A70324",
+   "desc": "GUARD - engine pulley belt (See C11381) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 71.11,
+   "y": 64.95,
+   "partNo": "129-107",
+   "desc": "NUT - 5/8\" N.C. hex ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 67.89,
+   "y": 67.17,
+   "partNo": "192-25",
+   "desc": "WASHER - 5/8\" SAE std. lock ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 64.35,
+   "y": 69.14,
+   "partNo": "A70412",
+   "desc": "PULLEY - clutch idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 46.87,
+   "y": 95.05,
+   "partNo": "A70412",
+   "desc": "PULLEY - clutch idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 67.26,
+   "y": 80.79,
+   "partNo": "A70411",
+   "desc": "GUIDE - clutch idler belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 59.98,
+   "y": 72.28,
+   "partNo": "195-103",
+   "desc": "WASHER - 5/16\" plain ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 56.24,
+   "y": 68.74,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" N.C. hex ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 51.66,
+   "y": 71.36,
+   "partNo": "192-20",
+   "desc": "WASHER - 5/16\" SAE std. lock ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 42.5,
+   "y": 84.97,
+   "partNo": "A70235",
+   "desc": "BRACKET - clutch idler (See C11378) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 41.05,
+   "y": 92.96,
+   "partNo": "13-1080",
+   "desc": "BOLT - 5/8\" x 5\" N.C. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 52.59,
+   "y": 92.04,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex ZP (See C11566) *",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Fits Case 130 and 180 Garden Tractors and Colt Deluxe, Super, Super H and Rancher compact tractors.\nRef 1: A70259 for the 130, A70491 for the 180.\n* If the mower has modification kit C11633 installed, see the C11633 Modification Kit section for the replacement part.\n** Not used on mowers with modification kit C11633 installed."
+}

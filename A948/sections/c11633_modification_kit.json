@@ -1,0 +1,418 @@
+{
+ "sectionTitle": "C11633 Modification Kit - 44\" Rotary Mower (180, Rancher)",
+ "breadcrumb": "C11633 Modification Kit - 44\" Rotary Mower (180, Rancher)",
+ "catalogLabel": "Catalog A948",
+ "modelNumbers": "Catalog A948 — Case 38\" and 44\" Rotary Mowers and 44\" Dozer Blade for Case 130 and 180 Garden Tractors and Colt Deluxe, Super, Super H and Rancher Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A948/c11633_modification_kit.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.71,
+   "y": 9.32,
+   "partNo": "C11435",
+   "desc": "PIN - pivot bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 33.69,
+   "y": 32.91,
+   "partNo": "132-310",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "2",
+   "x": 62.86,
+   "y": 2.44,
+   "partNo": "132-310",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "2",
+   "x": 82.21,
+   "y": 21.77,
+   "partNo": "132-310",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "2",
+   "x": 96.49,
+   "y": 15.3,
+   "partNo": "132-310",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "2",
+   "x": 79.17,
+   "y": 92.32,
+   "partNo": "132-310",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "2",
+   "x": 58.31,
+   "y": 12.76,
+   "partNo": "132-310",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "3",
+   "x": 82.21,
+   "y": 11.55,
+   "partNo": "C11375",
+   "desc": "BRACKET - pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 77.14,
+   "y": 10.74,
+   "partNo": "C10821",
+   "desc": "PIN - clevis",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 86.16,
+   "y": 13.37,
+   "partNo": "C11627",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 89.2,
+   "y": 14.79,
+   "partNo": "C11365",
+   "desc": "BRACKET - adjustment",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 92.74,
+   "y": 16.41,
+   "partNo": "195-533",
+   "desc": "WASHER - plain, 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 90.72,
+   "y": 23.09,
+   "partNo": "195-533",
+   "desc": "WASHER - plain, 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 75.83,
+   "y": 97.58,
+   "partNo": "195-533",
+   "desc": "WASHER - plain, 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 26.7,
+   "y": 27.64,
+   "partNo": "195-533",
+   "desc": "WASHER - plain, 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 63.37,
+   "y": 14.49,
+   "partNo": "195-533",
+   "desc": "WASHER - plain, 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 78.16,
+   "y": 21.27,
+   "partNo": "195-533",
+   "desc": "WASHER - plain, 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 81.9,
+   "y": 24.4,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 93.35,
+   "y": 26.94,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 32.38,
+   "y": 27.85,
+   "partNo": "131-165",
+   "desc": "NUT - lock, 1/2\" N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 77.35,
+   "y": 31.39,
+   "partNo": "C11362",
+   "desc": "ROD - push",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 27.31,
+   "y": 20.76,
+   "partNo": "C11626",
+   "desc": "ROD - lift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 18.6,
+   "y": 24.4,
+   "partNo": "C11628",
+   "desc": "STUD - adjustment",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 45.14,
+   "y": 41.0,
+   "partNo": "C11416",
+   "desc": "LINK - push arm bracket",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 10.7,
+   "y": 33.11,
+   "partNo": "C11416",
+   "desc": "LINK - push arm bracket",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 30.35,
+   "y": 36.04,
+   "partNo": "C11373",
+   "desc": "BRACKET - push arm",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 40.38,
+   "y": 44.75,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "7"
+  },
+  {
+   "ref": "15",
+   "x": 56.48,
+   "y": 49.41,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "7"
+  },
+  {
+   "ref": "15",
+   "x": 38.76,
+   "y": 87.46,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "7"
+  },
+  {
+   "ref": "15",
+   "x": 8.57,
+   "y": 85.94,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "7"
+  },
+  {
+   "ref": "16",
+   "x": 46.25,
+   "y": 37.87,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 59.62,
+   "y": 44.75,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 38.76,
+   "y": 89.69,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 55.27,
+   "y": 42.22,
+   "partNo": "C11376",
+   "desc": "GUARD - drive belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 27.92,
+   "y": 43.03,
+   "partNo": "115-204",
+   "desc": "BOLT - 3/8\" x 1\" N.C. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 57.8,
+   "y": 55.28,
+   "partNo": "115-204",
+   "desc": "BOLT - 3/8\" x 1\" N.C. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 52.43,
+   "y": 56.29,
+   "partNo": "C11387",
+   "desc": "PULLEY - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 41.09,
+   "y": 51.33,
+   "partNo": "O6073AB",
+   "desc": "KEY - square, 1-1/2\" long",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 69.55,
+   "y": 51.43,
+   "partNo": "C11385",
+   "desc": "PULLEY - mower deck",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 80.18,
+   "y": 74.81,
+   "partNo": "C11379",
+   "desc": "LEVER - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 57.7,
+   "y": 80.07,
+   "partNo": "C11378",
+   "desc": "BRACKET - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 60.84,
+   "y": 90.5,
+   "partNo": "C11566",
+   "desc": "BOLT - clamp",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 41.19,
+   "y": 78.96,
+   "partNo": "C11566",
+   "desc": "BOLT - clamp",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 51.72,
+   "y": 72.08,
+   "partNo": "C11428",
+   "desc": "SPINDLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 17.08,
+   "y": 62.77,
+   "partNo": "C11374",
+   "desc": "BRACKET - roller mounting (Not furnished in kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 9.79,
+   "y": 67.73,
+   "partNo": "C11381",
+   "desc": "GUARD - engine pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 5.23,
+   "y": 72.48,
+   "partNo": "C11386",
+   "desc": "PULLEY - engine",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 13.64,
+   "y": 83.52,
+   "partNo": "C10312",
+   "desc": "SPACER - fan (short)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 3.61,
+   "y": 87.87,
+   "partNo": "115-201",
+   "desc": "BOLT - 3/8\"-16 x 1-1/2\" hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 86.06,
+   "y": 38.98,
+   "partNo": "C11384",
+   "desc": "BELT - mower drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 66.41,
+   "y": 72.38,
+   "partNo": "A70170",
+   "desc": "GRIP - clutch lever",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Modification kit C11633 for the 44\" Rotary Mower on the Case 180 and Rancher. These parts replace the parts marked * in the 180 mower and clutch linkage sections.\nRef 26 (C11374 roller mounting bracket) is not furnished in the kit.\nRef 32 (A70170 clutch lever grip) has no callout circle on the printed diagram. Its dot is placed at the top of the clutch lever (ref 22), where the grip fits."
+}
