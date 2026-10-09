@@ -1,0 +1,155 @@
+{
+ "sectionTitle": "Hydraulic Motor — Danfoss",
+ "breadcrumb": "Hydraulic Motor — Danfoss",
+ "catalogLabel": "Catalog 8-3291",
+ "modelNumbers": "Catalog 8-3291 — Ingersoll HS24H, HS24W, AHS24H and AHS24W Chipper Shredders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3291/hydraulic_motor_danfoss.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6,
+   "y": 6,
+   "partNo": "NSS",
+   "desc": "MOTOR - hydraulic",
+   "reqd": "1",
+   "estimated": true
+  },
+  {
+   "ref": "2",
+   "x": 44.9,
+   "y": 92.3,
+   "partNo": "NSS",
+   "desc": "BODY - motor, drive end",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 72.5,
+   "y": 93.1,
+   "partNo": "NSS",
+   "desc": "PIN - dowel",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 65.6,
+   "y": 12.5,
+   "partNo": "NSS",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 28.4,
+   "y": 52.1,
+   "partNo": "C40807",
+   "desc": "RING - retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 33.8,
+   "y": 86.8,
+   "partNo": "C40808",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 29.5,
+   "y": 90.3,
+   "partNo": "C40809",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 27.7,
+   "y": 75.4,
+   "partNo": "C40810",
+   "desc": "SCREW - socket head 5/16\" - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 21.3,
+   "y": 75.8,
+   "partNo": "C40811",
+   "desc": "SCREW - socket head 3/8\" - 16",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 93.2,
+   "y": 37,
+   "partNo": "NSS",
+   "desc": "BEARING",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 49.4,
+   "y": 6,
+   "partNo": "C40813",
+   "desc": "SEAL-ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 58,
+   "y": 93.7,
+   "partNo": "NSS",
+   "desc": "PLATE - gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 29.7,
+   "y": 21.4,
+   "partNo": "C40815",
+   "desc": "SEAL - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 32.1,
+   "y": 68.2,
+   "partNo": "NSS",
+   "desc": "SEAL - load",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 90.8,
+   "y": 58.9,
+   "partNo": "NSS",
+   "desc": "SHAFT AND GEAR - driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 15.1,
+   "y": 26.3,
+   "partNo": "C40818",
+   "desc": "KEY - square 3/16\" x 1.12\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 91.1,
+   "y": 80.7,
+   "partNo": "NSS",
+   "desc": "COVER - rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 6.7,
+   "y": 49.6,
+   "partNo": "NSS",
+   "desc": "SHAFT AND GEAR - drive",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 1 complete motor is not sold separately: HS24W and HS24H use kit C46212; AHS24W and AHS24H use kit C46215.\nAlso listed, not shown on diagram: C40820 PLUG - small (2), C40822 PLUG - large (1).\nAlso listed: C40821 CARTRIDGE - check (1)."
+}

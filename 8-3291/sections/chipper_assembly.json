@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Chipper Assembly",
+ "breadcrumb": "Chipper Assembly",
+ "catalogLabel": "Catalog 8-3291",
+ "modelNumbers": "Catalog 8-3291 — Ingersoll HS24H, HS24W, AHS24H and AHS24W Chipper Shredders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3291/chipper_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.2,
+   "y": 4.7,
+   "partNo": "C34557",
+   "desc": "PLATE - chipper side",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 18.6,
+   "y": 71,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 81.7,
+   "y": 15.1,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 3,
+   "y": 63.7,
+   "partNo": "131-178",
+   "desc": "NUT - lock 3/8\" - 16",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 34.3,
+   "y": 50.5,
+   "partNo": "131-176",
+   "desc": "NUT - lock 5/16\" - 18",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 26.4,
+   "y": 59.5,
+   "partNo": "C34580",
+   "desc": "PLATE - chipper cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 23.5,
+   "y": 24.6,
+   "partNo": "C37358",
+   "desc": "HOPPER - chipper",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 73,
+   "y": 61.7,
+   "partNo": "C34569",
+   "desc": "DISC - chipper",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 56.8,
+   "y": 65.4,
+   "partNo": "C34570",
+   "desc": "BUSHING",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 83.4,
+   "y": 84.2,
+   "partNo": "C34571",
+   "desc": "KNIFE",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 62.8,
+   "y": 96.1,
+   "partNo": "C34572",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 25.3,
+   "y": 44.4,
+   "partNo": "C37020",
+   "desc": "PIN - chipper cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 10.2,
+   "y": 58.6,
+   "partNo": "C34574",
+   "desc": "BEARING",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 3.1,
+   "y": 80.9,
+   "partNo": "C34576",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 76,
+   "y": 49.3,
+   "partNo": "C34576",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 52.3,
+   "y": 54.9,
+   "partNo": "C34577",
+   "desc": "SCREW - set 3/8\" - 16 x 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 70.2,
+   "y": 84.4,
+   "partNo": "164-40",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 63,
+   "y": 83,
+   "partNo": "C34578",
+   "desc": "SCREW - socket head 1/4\" - 20 x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 42.7,
+   "y": 86.1,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 37.1,
+   "y": 93.7,
+   "partNo": "131-1102",
+   "desc": "NUT - lock 1/4\" - 20",
+   "reqd": "3"
+  },
+  {
+   "ref": "20",
+   "x": 15.4,
+   "y": 91.2,
+   "partNo": "C34579",
+   "desc": "SCREW - sheet metal #6 - 32 x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 7.2,
+   "y": 79.6,
+   "partNo": "195-2134",
+   "desc": "WASHER - 1-3/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 73.5,
+   "y": 53,
+   "partNo": "195-2134",
+   "desc": "WASHER - 1-3/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 15.6,
+   "y": 53,
+   "partNo": "C29029",
+   "desc": "PIN - hair",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 21 washer is shown at both of its locations; the diagram marks one as the alternate location."
+}

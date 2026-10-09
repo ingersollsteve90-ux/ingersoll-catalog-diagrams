@@ -1,0 +1,418 @@
+{
+ "sectionTitle": "Body, Hopper and Shredder Hammers",
+ "breadcrumb": "Body, Hopper and Shredder Hammers",
+ "catalogLabel": "Catalog 8-3291",
+ "modelNumbers": "Catalog 8-3291 — Ingersoll HS24H, HS24W, AHS24H and AHS24W Chipper Shredders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3291/body_hopper_shredder_hammers.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48,
+   "y": 11.9,
+   "partNo": "C34556",
+   "desc": "ROTOR - hammer",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 16.1,
+   "y": 3.5,
+   "partNo": "C37363",
+   "desc": "HOPPER",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 4.6,
+   "y": 62.4,
+   "partNo": "C34557",
+   "desc": "PLATE - chipper side",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 13,
+   "y": 96,
+   "partNo": "C34558",
+   "desc": "PLATE - drive side",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 3.9,
+   "y": 71.9,
+   "partNo": "C34559",
+   "desc": "SCROLL",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 19.5,
+   "y": 52.8,
+   "partNo": "C37354",
+   "desc": "SCREEN - 1\" standard",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 31,
+   "y": 54.6,
+   "partNo": "C37356",
+   "desc": "PLATE - baffle",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 35,
+   "y": 56.7,
+   "partNo": "C34560",
+   "desc": "PLATE - top",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 95.7,
+   "y": 50.9,
+   "partNo": "C34561",
+   "desc": "ROD - hammer",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 94.2,
+   "y": 64.2,
+   "partNo": "C34561",
+   "desc": "ROD - hammer",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 37.4,
+   "y": 43.3,
+   "partNo": "C34562",
+   "desc": "HAMMER",
+   "reqd": "24"
+  },
+  {
+   "ref": "11",
+   "x": 42.4,
+   "y": 30,
+   "partNo": "C34563",
+   "desc": "SPACER - 7/8'",
+   "reqd": "20"
+  },
+  {
+   "ref": "11",
+   "x": 51.3,
+   "y": 27.4,
+   "partNo": "C34563",
+   "desc": "SPACER - 7/8'",
+   "reqd": "20"
+  },
+  {
+   "ref": "11",
+   "x": 58.6,
+   "y": 43.5,
+   "partNo": "C34563",
+   "desc": "SPACER - 7/8'",
+   "reqd": "20"
+  },
+  {
+   "ref": "11",
+   "x": 65.3,
+   "y": 16.5,
+   "partNo": "C34563",
+   "desc": "SPACER - 7/8'",
+   "reqd": "20"
+  },
+  {
+   "ref": "11",
+   "x": 68.2,
+   "y": 40.7,
+   "partNo": "C34563",
+   "desc": "SPACER - 7/8'",
+   "reqd": "20"
+  },
+  {
+   "ref": "11",
+   "x": 82,
+   "y": 29.5,
+   "partNo": "C34563",
+   "desc": "SPACER - 7/8'",
+   "reqd": "20"
+  },
+  {
+   "ref": "11",
+   "x": 89.6,
+   "y": 20.2,
+   "partNo": "C34563",
+   "desc": "SPACER - 7/8'",
+   "reqd": "20"
+  },
+  {
+   "ref": "11",
+   "x": 72.5,
+   "y": 6.5,
+   "partNo": "C34563",
+   "desc": "SPACER - 7/8'",
+   "reqd": "20"
+  },
+  {
+   "ref": "12",
+   "x": 69.9,
+   "y": 21.2,
+   "partNo": "C34564",
+   "desc": "SPACER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 78.3,
+   "y": 25.6,
+   "partNo": "C34564",
+   "desc": "SPACER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 61.6,
+   "y": 56.5,
+   "partNo": "C34564",
+   "desc": "SPACER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 32.2,
+   "y": 31.8,
+   "partNo": "C34564",
+   "desc": "SPACER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 44.9,
+   "y": 44.4,
+   "partNo": "C34565",
+   "desc": "SPACER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 49.3,
+   "y": 48.1,
+   "partNo": "C34565",
+   "desc": "SPACER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 62.2,
+   "y": 13.7,
+   "partNo": "C34565",
+   "desc": "SPACER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 86.5,
+   "y": 34.4,
+   "partNo": "C34565",
+   "desc": "SPACER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 42.8,
+   "y": 76.1,
+   "partNo": "C34566",
+   "desc": "SPACER - body",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 55.2,
+   "y": 71.9,
+   "partNo": "C37355",
+   "desc": "ROD - screen and baffle",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 57.7,
+   "y": 84.7,
+   "partNo": "C34567",
+   "desc": "ROD - tie, body",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 26.3,
+   "y": 95.8,
+   "partNo": "C34567",
+   "desc": "ROD - tie, body",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 44,
+   "y": 96,
+   "partNo": "C34568",
+   "desc": "BEARING - drive side",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 13.2,
+   "y": 50.3,
+   "partNo": "C37367",
+   "desc": "DAMPENER - vibration",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 34.2,
+   "y": 8.4,
+   "partNo": "C37366",
+   "desc": "FASTENER - push",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 27.9,
+   "y": 74.7,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 17.2,
+   "y": 82.8,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "21",
+   "x": 9.3,
+   "y": 89.1,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "22",
+   "x": 27.7,
+   "y": 47.4,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 25.4,
+   "y": 70.5,
+   "partNo": "113-122",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 47.1,
+   "y": 91.2,
+   "partNo": "131-178",
+   "desc": "NUT - lock 3/8\" - 16",
+   "reqd": "5"
+  },
+  {
+   "ref": "25",
+   "x": 20.6,
+   "y": 93.7,
+   "partNo": "131-176",
+   "desc": "NUT-lock 5/16\"-18",
+   "reqd": "12"
+  },
+  {
+   "ref": "25",
+   "x": 3.6,
+   "y": 81.7,
+   "partNo": "131-176",
+   "desc": "NUT-lock 5/16\"-18",
+   "reqd": "12"
+  },
+  {
+   "ref": "25",
+   "x": 13.2,
+   "y": 37.2,
+   "partNo": "131-176",
+   "desc": "NUT-lock 5/16\"-18",
+   "reqd": "12"
+  },
+  {
+   "ref": "26",
+   "x": 78.5,
+   "y": 61.4,
+   "partNo": "C34573",
+   "desc": "PIN - groove",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 88.5,
+   "y": 54.4,
+   "partNo": "C34573",
+   "desc": "PIN - groove",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 90.3,
+   "y": 44.4,
+   "partNo": "C34573",
+   "desc": "PIN - groove",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 95.3,
+   "y": 37.5,
+   "partNo": "C34573",
+   "desc": "PIN - groove",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 52,
+   "y": 65.6,
+   "partNo": "C16450",
+   "desc": "PIN - cotter, hair",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 2.9,
+   "y": 30.3,
+   "partNo": "C37364",
+   "desc": "GUARD - flex, hopper",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 33.1,
+   "y": 88.1,
+   "partNo": "C37357",
+   "desc": "PLATE - cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 43.9,
+   "y": 86.7,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

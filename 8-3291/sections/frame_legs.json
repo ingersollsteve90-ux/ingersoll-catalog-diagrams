@@ -1,0 +1,85 @@
+{
+ "sectionTitle": "Frame and Legs — HS24H, AHS24H",
+ "breadcrumb": "Frame and Legs — HS24H, AHS24H",
+ "catalogLabel": "Catalog 8-3291",
+ "modelNumbers": "Catalog 8-3291 — Ingersoll HS24H, HS24W, AHS24H and AHS24W Chipper Shredders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3291/frame_legs.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 63.6,
+   "y": 17.7,
+   "partNo": "C37179",
+   "desc": "FRAME - hitch",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 27.6,
+   "y": 94.4,
+   "variants": [
+    {
+     "serialNote": "Rear leg (shown)",
+     "partNo": "C37184",
+     "desc": "LEG - rear (shown)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Front leg",
+     "partNo": "C37182",
+     "desc": "LEG - front",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 24,
+   "y": 37,
+   "partNo": "C37186",
+   "desc": "BRACKET - mounting, rear leg L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 13.6,
+   "y": 33,
+   "partNo": "113-118",
+   "desc": "BOLT - 5/16\" - 18 x 5/8\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "5",
+   "x": 29.4,
+   "y": 43.7,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "7"
+  },
+  {
+   "ref": "6",
+   "x": 44.7,
+   "y": 30.4,
+   "partNo": "C37368",
+   "desc": "CAP - tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 5,
+   "y": 67.7,
+   "partNo": "C32214",
+   "desc": "PIN - clevis",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 26.1,
+   "y": 74.6,
+   "partNo": "C16450",
+   "desc": "PIN - hair",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": ""
+}
