@@ -1,0 +1,242 @@
+{
+ "sectionTitle": "F70 Rotary Tiller Hydraulic Control Valve",
+ "breadcrumb": "F70 Rotary Tiller Hydraulic Control Valve",
+ "catalogLabel": "Catalog B1189",
+ "modelNumbers": "Catalog B1189 — Case F70, H70 and J70 Rotary Tillers for Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1189/f70_hydraulic_control_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6.89,
+   "y": 70.25,
+   "partNo": "C14772",
+   "desc": "VALVE - tiller control",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 72.43,
+   "y": 89.25,
+   "partNo": "C11891",
+   "desc": "SEAL - U-cup",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 50.78,
+   "y": 68.91,
+   "partNo": "C11891",
+   "desc": "SEAL - U-cup",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 76.7,
+   "y": 67.57,
+   "partNo": "132-6",
+   "desc": "PIN - cotter 1/16\" x 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 61.46,
+   "y": 81.71,
+   "partNo": "36627",
+   "desc": "PIN - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 76.89,
+   "y": 93.74,
+   "partNo": "C14651",
+   "desc": "BRACKET - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 94.95,
+   "y": 79.13,
+   "partNo": "71-410",
+   "desc": "SCREW - 1/4\" x 5/8\" NC fillister head",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 91.65,
+   "y": 79.03,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 21.75,
+   "y": 44.17,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 48.54,
+   "y": 77.5,
+   "partNo": "NSS",
+   "desc": "BODY AND SPOOL ASSEMBLY (Order C14772)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 29.22,
+   "y": 23.36,
+   "partNo": "C11895",
+   "desc": "ADAPTER - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 24.66,
+   "y": 20.01,
+   "partNo": "95-4",
+   "desc": "WASHER - plain 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 20.97,
+   "y": 18.01,
+   "partNo": "75-48",
+   "desc": "SCREW - 1/4\" x 1/2\" rd. hd. machine",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 16.5,
+   "y": 10.65,
+   "partNo": "C11893",
+   "desc": "BONNET - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 6.89,
+   "y": 31.95,
+   "partNo": "C11901",
+   "desc": "PIN - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 6.89,
+   "y": 38.25,
+   "partNo": "C11892",
+   "desc": "SPRING - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 6.5,
+   "y": 44.27,
+   "partNo": "C11886",
+   "desc": "WASHER - detent spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 6.6,
+   "y": 50.86,
+   "partNo": "C11887",
+   "desc": "CAP - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 4.95,
+   "y": 23.36,
+   "partNo": "169-108",
+   "desc": "SCREW - bonnet 8-32 x 2-1/4\" fillister head",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 80.97,
+   "y": 28.7,
+   "partNo": "C14280",
+   "desc": "LEVER - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 80.87,
+   "y": 70.91,
+   "partNo": "221-842",
+   "desc": "PLUG - relief 3/8\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 82.43,
+   "y": 48.19,
+   "partNo": "195-515",
+   "desc": "WASHER - relief",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 77.96,
+   "y": 44.27,
+   "partNo": "O4458CS",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 74.47,
+   "y": 40.07,
+   "partNo": "C14327",
+   "desc": "SPACER - no relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 70.29,
+   "y": 38.73,
+   "partNo": "211-11",
+   "desc": "BALL - relief 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 67.38,
+   "y": 33.38,
+   "partNo": "C11896",
+   "desc": "SEAT - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 63.2,
+   "y": 32.91,
+   "partNo": "A27891",
+   "desc": "\"O\" RING - relief seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 80.58,
+   "y": 10.65,
+   "partNo": "A37247",
+   "desc": "KNOB - hand throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 91.75,
+   "y": 66.24,
+   "partNo": "C12127",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 8 body and spool assembly is not sold separately; order C14772 (ref 1, complete valve)."
+}

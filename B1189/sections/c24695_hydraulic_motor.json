@@ -1,0 +1,210 @@
+{
+ "sectionTitle": "C24695 Hydraulic Motor",
+ "breadcrumb": "C24695 Hydraulic Motor",
+ "catalogLabel": "Catalog B1189",
+ "modelNumbers": "Catalog B1189 — Case F70, H70 and J70 Rotary Tillers for Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1189/c24695_hydraulic_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 18.84,
+   "y": 11.17,
+   "partNo": "C24695",
+   "desc": "MOTOR - hydraulic drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 95.33,
+   "y": 50.87,
+   "partNo": "166-528",
+   "desc": "SCREW - 5/16\" - 24 NF, 12 pt. flange",
+   "reqd": "7"
+  },
+  {
+   "ref": "3",
+   "x": 67.66,
+   "y": 67.09,
+   "partNo": "S221680",
+   "desc": "GEROLER ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 56.41,
+   "y": 20.29,
+   "partNo": "S94546",
+   "desc": "COUPLING - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 69.99,
+   "y": 60.97,
+   "partNo": "S108176",
+   "desc": "SPACER - coupling, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 88.05,
+   "y": 56.02,
+   "partNo": "S108178",
+   "desc": "CAP - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 44.95,
+   "y": 82.23,
+   "partNo": "S108184",
+   "desc": "PLATE - spacer",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 8.46,
+   "y": 43.4,
+   "partNo": "H315721",
+   "desc": "PLATE - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 20.11,
+   "y": 40.58,
+   "partNo": "S108186",
+   "desc": "RACE - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 43.3,
+   "y": 26.8,
+   "partNo": "C24696",
+   "desc": "SHAFT - output",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 30.1,
+   "y": 92.91,
+   "partNo": "S108188",
+   "desc": "HOUSING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 23.99,
+   "y": 37.86,
+   "partNo": "S108189",
+   "desc": "BEARING - thrust, needle",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 66.31,
+   "y": 74.76,
+   "partNo": "166-524",
+   "desc": "SCREW - 5/16\" - 24 NF, 12 pt. flange",
+   "reqd": "11"
+  },
+  {
+   "ref": "13",
+   "x": 8.07,
+   "y": 68.64,
+   "partNo": "166-524",
+   "desc": "SCREW - 5/16\" - 24 NF, 12 pt. flange",
+   "reqd": "11"
+  },
+  {
+   "ref": "14",
+   "x": 62.04,
+   "y": 78.06,
+   "partNo": "192-22",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "15",
+   "x": 39.91,
+   "y": 83.59,
+   "partNo": "C13965",
+   "desc": "SEAL - \"O\" ring 3\" x 1/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 16.32,
+   "y": 43.4,
+   "partNo": "S108190",
+   "desc": "SEAL - shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 6.62,
+   "y": 95.73,
+   "partNo": "A30825",
+   "desc": "SEAL - \"O\" ring 1/2\" x 1/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 39.23,
+   "y": 61.75,
+   "partNo": "S94563",
+   "desc": "SEAL - \"O\" ring 3.775 x .070",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 78.24,
+   "y": 60.97,
+   "partNo": "S94563",
+   "desc": "SEAL - \"O\" ring 3.775 x .070",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 27.97,
+   "y": 36.12,
+   "partNo": "A17528",
+   "desc": "SEAL - \"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 4.48,
+   "y": 50.49,
+   "partNo": "H757559",
+   "desc": "SEAL - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 23.6,
+   "y": 92.14,
+   "partNo": "A72034",
+   "desc": "PLUG - housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 85.52,
+   "y": 36.7,
+   "partNo": "S108180",
+   "desc": "PLUG ASSEMBLY - includes \"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 36.12,
+   "y": 28.54,
+   "partNo": "126-24",
+   "desc": "KEY - Woodruff 1\" x 1/4\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Char-Lynn No. 103-1267-007.\nAlso listed, not shown on diagram: A70128 GASKET - hyd. motor to tiller housing (1)."
+}

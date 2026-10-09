@@ -1,0 +1,346 @@
+{
+ "sectionTitle": "Rotary Tiller Assembly",
+ "breadcrumb": "Rotary Tiller Assembly",
+ "catalogLabel": "Catalog B1189",
+ "modelNumbers": "Catalog B1189 — Case F70, H70 and J70 Rotary Tillers for Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1189/rotary_tiller_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 44.71,
+   "y": 53.2,
+   "partNo": "C14668",
+   "desc": "SHAFT - tiller (Includes sprocket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 47.21,
+   "y": 63.59,
+   "partNo": "C14100",
+   "desc": "HOUSING - tiller, right hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 84.98,
+   "y": 38.06,
+   "partNo": "C14101",
+   "desc": "HOUSING - tiller, left hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 44.62,
+   "y": 44.56,
+   "partNo": "NSS",
+   "desc": "CHAIN - roller, 56 links No. 50 (F70 and H70). Order: B12474 (50 links), B12477 (6 links), B12505 connecting link, B12506 offset link",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 75.28,
+   "y": 61.17,
+   "partNo": "C12523",
+   "desc": "SPROCKET - drive No. 50, 11 tooth (w/setscrew) (F70 and H70)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 68.55,
+   "y": 40.19,
+   "partNo": "C12515",
+   "desc": "GASKET - tiller housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 19.44,
+   "y": 62.52,
+   "partNo": "C10405",
+   "desc": "BEARING - tiller shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 23.76,
+   "y": 71.55,
+   "partNo": "B18329",
+   "desc": "COLLAR - w/setscrew",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 33.66,
+   "y": 73.98,
+   "partNo": "113-219",
+   "desc": "BOLT - 3/8\" x 2\" NC hex ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 67.59,
+   "y": 54.56,
+   "partNo": "132-47",
+   "desc": "PIN - cotter",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 58.17,
+   "y": 45.44,
+   "partNo": "C21660",
+   "desc": "PIN - clevis 7/16\" x 2-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 87.67,
+   "y": 54.95,
+   "partNo": "C14070",
+   "desc": "BEARING - needle, motor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 55.38,
+   "y": 66.7,
+   "partNo": "C14107",
+   "desc": "BEARING - needle, motor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 41.74,
+   "y": 74.95,
+   "partNo": "221-43",
+   "desc": "PLUG - housing 3/8\" NPT slotted headless",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 92.67,
+   "y": 55.34,
+   "partNo": "61-612",
+   "desc": "CAP SCREW - 3/8\" x 3/4\" NC socket head",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 20.11,
+   "y": 37.38,
+   "partNo": "C14917",
+   "desc": "SHIELD - tiller",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 55.96,
+   "y": 35.44,
+   "partNo": "C11451",
+   "desc": "BRACKET - angle mounting",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 48.37,
+   "y": 25.63,
+   "partNo": "111-517",
+   "desc": "BOLT - 1/2\" x 1\" rd. hd. square neck NC ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 59.03,
+   "y": 29.42,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 55.38,
+   "y": 90.29,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 59.71,
+   "y": 88.35,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\" ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 55.0,
+   "y": 29.61,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\" ZP",
+   "reqd": "6"
+  },
+  {
+   "ref": "21",
+   "x": 65.38,
+   "y": 31.26,
+   "partNo": "C14568",
+   "desc": "PIN - drawbar",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 65.76,
+   "y": 35.73,
+   "partNo": "C14637",
+   "desc": "HITCH - tiller",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 27.51,
+   "y": 50.68,
+   "partNo": "C12528",
+   "desc": "TINE - retarding",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 33.95,
+   "y": 50.58,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" x 1-1/4\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 19.44,
+   "y": 57.38,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 22.61,
+   "y": 54.95,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "27",
+   "x": 14.54,
+   "y": 11.55,
+   "partNo": "C14672",
+   "desc": "DRAG - tiller shield",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 51.35,
+   "y": 15.83,
+   "partNo": "C14918",
+   "desc": "SHIELD - extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 42.5,
+   "y": 11.75,
+   "partNo": "C14623",
+   "desc": "DRAG - extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 10.21,
+   "y": 29.13,
+   "partNo": "195-524",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 10.21,
+   "y": 32.04,
+   "partNo": "132-308",
+   "desc": "PIN - cotter 3/32\" x 3/4\" ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 37.12,
+   "y": 4.27,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" x 3/4\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 29.43,
+   "y": 19.61,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "33",
+   "x": 65.18,
+   "y": 25.73,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "34",
+   "x": 35.97,
+   "y": 17.57,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex ZP",
+   "reqd": "5"
+  },
+  {
+   "ref": "34",
+   "x": 71.62,
+   "y": 25.83,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex ZP",
+   "reqd": "5"
+  },
+  {
+   "ref": "35",
+   "x": 57.59,
+   "y": 19.22,
+   "partNo": "111-202",
+   "desc": "BOLT - 5/16\" x 3/4\" Rd. Hd. square neck",
+   "reqd": "3"
+  },
+  {
+   "ref": "36",
+   "x": 80.18,
+   "y": 71.46,
+   "partNo": "113-440",
+   "desc": "BOLT - 1/2\" x 4-1/4\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 24.53,
+   "y": 88.16,
+   "partNo": "C22613",
+   "desc": "SPROCKET - drive No. 50, 13 tooth (w/setscrew) (J70)",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 26.74,
+   "y": 81.36,
+   "partNo": "NSS",
+   "desc": "CHAIN - roller, 57 links No. 50 (J70). Order: B12474 (50 links, incl. connector), O2032FH (7 links, incl. connector), B12505 connector, B12506 offset",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Sprocket: ref 5 (11 tooth) on F70 and H70; ref 37 (13 tooth) on J70. Chain: ref 4 (56 links) on F70 and H70; ref 38 (57 links) on J70. Neither chain is sold as one part; order the pieces listed in its description.\nAlso listed, not shown on diagram: 321-4381 DECAL - \"Warning Spinning Blade\" (1); 321-1571 DECAL - \"CASE\" (1).\nOther No. 50 roller chain parts: B12507 LINK - roller; B12508 LOCK SPRING CLIPS (pkg. of 25)."
+}

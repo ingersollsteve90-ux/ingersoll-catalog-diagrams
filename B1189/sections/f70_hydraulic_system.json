@@ -1,0 +1,258 @@
+{
+ "sectionTitle": "F70 Tiller Hydraulic System",
+ "breadcrumb": "F70 Tiller Hydraulic System",
+ "catalogLabel": "Catalog B1189",
+ "modelNumbers": "Catalog B1189 — Case F70, H70 and J70 Rotary Tillers for Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1189/f70_hydraulic_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 30.94,
+   "y": 44.47,
+   "partNo": "C14781",
+   "desc": "MOTOR - hydraulic (repairs: see F70 Rotary Tiller Hydraulic Motor)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 18.17,
+   "y": 50.97,
+   "partNo": "A70128",
+   "desc": "GASKET - hydraulic motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 11.89,
+   "y": 15.24,
+   "partNo": "C14676",
+   "desc": "HOSE - hydraulic motor to valve tubes",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 21.37,
+   "y": 27.77,
+   "partNo": "218-5251",
+   "desc": "ADAPTER - union 7/8\" \"O\" ring x 1/2\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 14.4,
+   "y": 40.19,
+   "partNo": "218-5251",
+   "desc": "ADAPTER - union 7/8\" \"O\" ring x 1/2\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "4A",
+   "x": 23.69,
+   "y": 33.88,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING - 5/8\" for 218-5251 fitting",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 51.06,
+   "y": 16.12,
+   "partNo": "C16463",
+   "desc": "HOSE - pump to valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 64.7,
+   "y": 36.99,
+   "partNo": "C14588",
+   "desc": "TUBE - tractor valve to tiller valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 62.38,
+   "y": 56.02,
+   "partNo": "C14587",
+   "desc": "TUBE - tiller valve to motor tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 48.65,
+   "y": 58.35,
+   "partNo": "C14586",
+   "desc": "TUBE - tiller valve to motor tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 92.76,
+   "y": 37.57,
+   "partNo": "218-445",
+   "desc": "FITTING - straight (1/2\" NPT x 5/8\" tube)",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 76.31,
+   "y": 33.88,
+   "partNo": "218-494",
+   "desc": "ELBOW - 90° 3/4\" NPT x 5/8\" tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 91.31,
+   "y": 22.33,
+   "partNo": "218-494",
+   "desc": "ELBOW - 90° 3/4\" NPT x 5/8\" tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 19.43,
+   "y": 21.65,
+   "partNo": "218-911",
+   "desc": "UNION - adapter 1/2\" NPT x 1/2\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 44.49,
+   "y": 15.34,
+   "partNo": "C14889",
+   "desc": "BRACKET - tube lower",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 30.07,
+   "y": 31.36,
+   "partNo": "C14890",
+   "desc": "BRACKET - tube upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 36.26,
+   "y": 15.63,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 43.13,
+   "y": 26.12,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 44.2,
+   "y": 19.22,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 33.75,
+   "y": 62.82,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" NC hex ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 35.1,
+   "y": 65.83,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 35.39,
+   "y": 83.98,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 25.53,
+   "y": 86.02,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "8"
+  },
+  {
+   "ref": "19",
+   "x": 28.04,
+   "y": 68.35,
+   "partNo": "C14279",
+   "desc": "SUPPORT - tiller valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 25.43,
+   "y": 70.39,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 36.75,
+   "y": 87.38,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 22.62,
+   "y": 72.23,
+   "partNo": "C14520",
+   "desc": "BRACKET - valve mounting (used on Model 444 only)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 88.02,
+   "y": 24.17,
+   "partNo": "C14772",
+   "desc": "VALVE - tiller control (repairs: see F70 Rotary Tiller Hydraulic Control Valve)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 23.2,
+   "y": 80.87,
+   "partNo": "195-524",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "5"
+  },
+  {
+   "ref": "24",
+   "x": 32.88,
+   "y": 67.38,
+   "partNo": "195-524",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "5"
+  },
+  {
+   "ref": "25",
+   "x": 38.0,
+   "y": 81.65,
+   "partNo": "KO234380",
+   "desc": "BOLT - special 3/8\" x 1-13/32\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 22 valve mounting bracket is used on Model 444 only."
+}

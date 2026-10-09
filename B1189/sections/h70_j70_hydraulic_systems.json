@@ -1,0 +1,61 @@
+{
+ "sectionTitle": "H70 and J70 Tiller Hydraulic Systems",
+ "breadcrumb": "H70 and J70 Tiller Hydraulic Systems",
+ "catalogLabel": "Catalog B1189",
+ "modelNumbers": "Catalog B1189 — Case F70, H70 and J70 Rotary Tillers for Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1189/h70_j70_hydraulic_systems.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 91.13,
+   "y": 66.9,
+   "variants": [
+    {
+     "serialNote": "C24695 motor",
+     "partNo": "C24695",
+     "desc": "MOTOR - hydraulic drive (repairs: see C24695 Hydraulic Motor)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "C17288 motor (not sold, order C24695)",
+     "partNo": "NSS",
+     "desc": "MOTOR - hydraulic drive, C17288 (repairs: see H70 and J70 Hydraulic Motor C17288)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 9.34,
+   "y": 10.76,
+   "partNo": "C14676",
+   "desc": "HOSE - hyd. motor to valve tubes",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 55.05,
+   "y": 48.95,
+   "partNo": "218-5251",
+   "desc": "FITTINGS - union 7/8\" \"O\" ring x 1/2\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 63.24,
+   "y": 54.2,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING - 5/8\" for 218-5251 fitting",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 76.85,
+   "y": 21.36,
+   "partNo": "218-911",
+   "desc": "FITTING - union 1/2\" NPT x 1/2\" NPT (H70)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Ref 1: the earlier C17288 motor is not sold separately; order C24695. Ref 5 union fittings are used on the H70."
+}
