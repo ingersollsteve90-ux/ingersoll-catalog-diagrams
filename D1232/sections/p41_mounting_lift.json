@@ -1,0 +1,210 @@
+{
+ "sectionTitle": "P41 Rotary Mower - Mounting and Lift Assembly",
+ "breadcrumb": "P41 Rotary Mower - Mounting and Lift Assembly",
+ "catalogLabel": "Catalog D1232",
+ "modelNumbers": "Catalog D1232 — Ingersoll J41, K41, L41, M41, N41, P41 Rotary Mowers, J81-R81 Snowcasters, G51, H51, J51 Utility Blade and B96 Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1232/p41_mounting_lift.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 30.6,
+   "y": 24.4,
+   "partNo": "C26093",
+   "desc": "FRAME - suspension",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 78.1,
+   "y": 15.5,
+   "partNo": "C26092",
+   "desc": "PAD - foot",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 93.6,
+   "y": 35.8,
+   "partNo": "C15278",
+   "desc": "PIN - latch",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 81.5,
+   "y": 34.8,
+   "partNo": "C10482",
+   "desc": "SPRING - compression",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 95.5,
+   "y": 48.5,
+   "partNo": "138-2073",
+   "desc": "PIN - roll 3/16\" x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 47.2,
+   "y": 7.4,
+   "partNo": "C25872",
+   "desc": "LINK - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 56.9,
+   "y": 15.6,
+   "partNo": "C25871",
+   "desc": "BOLT - \"J\", lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 52.1,
+   "y": 53.8,
+   "partNo": "131-1181",
+   "desc": "NUT - lock 3/8\" - 16 hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 10.1,
+   "y": 48.2,
+   "partNo": "C19088",
+   "desc": "BOLT - \"J\" leveling",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 10.8,
+   "y": 28.7,
+   "partNo": "131-1182",
+   "desc": "NUT - lock 1/2\" - 13 hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 9.4,
+   "y": 43.8,
+   "partNo": "131-1182",
+   "desc": "NUT - lock 1/2\" - 13 hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 10.1,
+   "y": 38.3,
+   "partNo": "C26033",
+   "desc": "LINK - adjust",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 5.1,
+   "y": 50.5,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 38.5,
+   "y": 53.1,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 20.2,
+   "y": 55.2,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 27.4,
+   "y": 54.4,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 68.1,
+   "y": 3.4,
+   "partNo": "141-4",
+   "desc": "PIN - clevis 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 33.5,
+   "y": 14.4,
+   "partNo": "C16450",
+   "desc": "PIN - hair",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 40.6,
+   "y": 10.6,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 80.2,
+   "y": 93.1,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 32.6,
+   "y": 57.4,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 4.7,
+   "y": 60.9,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 55.9,
+   "y": 3.8,
+   "partNo": "C27231",
+   "desc": "BRACKET - lift adaptor *",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 62.7,
+   "y": 15,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1 grade 5 *",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 72,
+   "y": 6.6,
+   "partNo": "131-1181",
+   "desc": "NUT - lock 3/8\" - 16 *",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Required to mount mower on tractors S/N and after: 108 - 14031940; 110 - 14032840; 116 - all"
+}

@@ -1,0 +1,269 @@
+{
+ "sectionTitle": "N81, P81, R81 Snowcaster - Auger and Chute Assembly",
+ "breadcrumb": "N81, P81, R81 Snowcaster - Auger and Chute Assembly",
+ "catalogLabel": "Catalog D1232",
+ "modelNumbers": "Catalog D1232 — Ingersoll J41, K41, L41, M41, N41, P41 Rotary Mowers, J81-R81 Snowcasters, G51, H51, J51 Utility Blade and B96 Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1232/npr81_auger_chute.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.4,
+   "y": 55.3,
+   "variants": [
+    {
+     "serialNote": "P81, R81",
+     "partNo": "C27087",
+     "desc": "HOUSING - auger 32\" (P81, R81) shown",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N81",
+     "partNo": "NSS",
+     "desc": "HOUSING - auger 32\" (N81) use C27087 and (2) 113-102",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 92.5,
+   "y": 62,
+   "partNo": "C25206",
+   "desc": "AUGER - includes items 4, 9 and 22",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 95.8,
+   "y": 65.4,
+   "partNo": "195-522",
+   "desc": "WASHER - spacer",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 55.9,
+   "y": 91.9,
+   "partNo": "C25840",
+   "desc": "SLEEVE - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 41.4,
+   "y": 97.3,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" NC x 1\" hex (use lock tite for installation)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 86,
+   "y": 54.4,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 84.9,
+   "y": 63.1,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 62.9,
+   "y": 63.7,
+   "partNo": "C17775",
+   "desc": "SKID",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 51.5,
+   "y": 93.2,
+   "partNo": "C28971",
+   "desc": "BEARING - auger",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 74.4,
+   "y": 67.3,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" NC x 1\" rd. hd. square neck",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 73.2,
+   "y": 19.3,
+   "partNo": "C15248",
+   "desc": "CHUTE",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 76.7,
+   "y": 15.4,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" NC x 1/2\" hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 54.5,
+   "y": 16.9,
+   "partNo": "131-1102",
+   "desc": "LOCKNUT - 1/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 45.2,
+   "y": 6,
+   "partNo": "C16940",
+   "desc": "DEFLECTOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 72.3,
+   "y": 10.7,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" NC x 3/4\" rd. hd. square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 57,
+   "y": 15.1,
+   "partNo": "C28263",
+   "desc": "WASHER - dished 25/64\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 44.7,
+   "y": 10.5,
+   "partNo": "C22774",
+   "desc": "WING NUT - deflector lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 80.1,
+   "y": 25.9,
+   "partNo": "C15334",
+   "desc": "BRACKET - chute hold down",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 48.8,
+   "y": 37.3,
+   "partNo": "111-202",
+   "desc": "BOLT - 5/16\" NC x 3/4\" rd. hd. square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 85.8,
+   "y": 32.4,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 63.5,
+   "y": 32.9,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 83.8,
+   "y": 30,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "21",
+   "x": 61.1,
+   "y": 34.3,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 45.7,
+   "y": 95.4,
+   "partNo": "C25841",
+   "desc": "SHAFT - stub",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 25.6,
+   "y": 74.6,
+   "partNo": "C25842",
+   "desc": "HUB - auger (N81)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 31,
+   "y": 43.5,
+   "partNo": "C24640",
+   "desc": "COIL - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 80.9,
+   "y": 56.5,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 40.1,
+   "y": 88.5,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 23.6,
+   "y": 39.8,
+   "partNo": "C24643",
+   "desc": "ROD - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 10.3,
+   "y": 33.9,
+   "partNo": "C24705",
+   "desc": "CRANK - chute control",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 33.2,
+   "y": 34.6,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

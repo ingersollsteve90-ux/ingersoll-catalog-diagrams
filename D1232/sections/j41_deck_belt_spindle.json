@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "J41 Rotary Mower - Deck, Belt and Spindle Assembly",
+ "breadcrumb": "J41 Rotary Mower - Deck, Belt and Spindle Assembly",
+ "catalogLabel": "Catalog D1232",
+ "modelNumbers": "Catalog D1232 — Ingersoll J41, K41, L41, M41, N41, P41 Rotary Mowers, J81-R81 Snowcasters, G51, H51, J51 Utility Blade and B96 Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1232/j41_deck_belt_spindle.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 88.3,
+   "y": 47.9,
+   "partNo": "C18905",
+   "desc": "DECK - mower 34\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 46.4,
+   "y": 30.3,
+   "partNo": "C17155",
+   "desc": "SPINDLE ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 14.1,
+   "y": 33.3,
+   "partNo": "C17155",
+   "desc": "SPINDLE ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 51.3,
+   "y": 37.2,
+   "partNo": "C15272",
+   "desc": "WASHER - spring",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 18,
+   "y": 40.2,
+   "partNo": "C15272",
+   "desc": "WASHER - spring",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 73.8,
+   "y": 41.4,
+   "partNo": "C28972",
+   "desc": "WASHER - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 19.4,
+   "y": 45.4,
+   "partNo": "C28972",
+   "desc": "WASHER - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 74.3,
+   "y": 44.4,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 18,
+   "y": 49.1,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 74.8,
+   "y": 73.5,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 42.2,
+   "y": 81.9,
+   "partNo": "C28971",
+   "desc": "BEARING - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 74.3,
+   "y": 77.2,
+   "partNo": "C16719",
+   "desc": "WASHER - special, spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 40.2,
+   "y": 85.1,
+   "partNo": "C16719",
+   "desc": "WASHER - special, spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 76.4,
+   "y": 80.6,
+   "partNo": "NSS",
+   "desc": "ADAPTER - spindle (use C25542 and C25544)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 40.6,
+   "y": 87.4,
+   "partNo": "NSS",
+   "desc": "ADAPTER - spindle (use C25542 and C25544)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 83.2,
+   "y": 83.1,
+   "partNo": "C24797",
+   "desc": "BLADE - 17-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 47.1,
+   "y": 88.7,
+   "partNo": "C24797",
+   "desc": "BLADE - 17-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 52.4,
+   "y": 85.3,
+   "partNo": "195-2037",
+   "desc": "WASHER - 7/16\" x 2\" OD",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 19.5,
+   "y": 91.3,
+   "partNo": "195-2037",
+   "desc": "WASHER - 7/16\" x 2\" OD",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 52.4,
+   "y": 88.3,
+   "partNo": "192-6",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 20.4,
+   "y": 93.9,
+   "partNo": "192-6",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 53.1,
+   "y": 91.4,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8 x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 21.3,
+   "y": 96.8,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8 x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 94.6,
+   "y": 27.8,
+   "partNo": "C17083",
+   "desc": "BELT - mower drive",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

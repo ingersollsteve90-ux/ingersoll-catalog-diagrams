@@ -1,0 +1,451 @@
+{
+ "sectionTitle": "J81-R81 Snowcaster - Mounting Components and Drive Assembly",
+ "breadcrumb": "J81-R81 Snowcaster - Mounting Components and Drive Assembly",
+ "catalogLabel": "Catalog D1232",
+ "modelNumbers": "Catalog D1232 — Ingersoll J41, K41, L41, M41, N41, P41 Rotary Mowers, J81-R81 Snowcasters, G51, H51, J51 Utility Blade and B96 Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/D1232/j_r81_mounting_drive.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 40.9,
+   "y": 46.6,
+   "variants": [
+    {
+     "serialNote": "J81, K81, L81, M81",
+     "partNo": "C15375",
+     "desc": "ROD - lift (J81, K81, L81, M81) shown",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "N81, P81, R81",
+     "partNo": "C27085",
+     "desc": "ROD - lift (N81, P81, R81)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 52.7,
+   "y": 48.7,
+   "partNo": "195-549",
+   "desc": "WASHER - 7/8\" ZP",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 47.8,
+   "y": 50.1,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 3/32\" x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 12.1,
+   "y": 37,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 77.4,
+   "y": 28.4,
+   "variants": [
+    {
+     "serialNote": "J81, K81",
+     "partNo": "C19824",
+     "desc": "PULLEY - 6\" (J81, K81)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L81, M81, N81, P81, R81",
+     "partNo": "C19731",
+     "desc": "PULLEY - 6\" (L81, M81, N81, P81, R81)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 88.3,
+   "y": 33.5,
+   "variants": [
+    {
+     "serialNote": "J81, K81",
+     "partNo": "138-2073",
+     "desc": "PIN - roll 3/16\" x 1-1/4\" (J81, K81)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L81, M81, N81, P81, R81",
+     "partNo": "138-2040",
+     "desc": "PIN - roll 1/4\" x 1-1/2\" (L81, M81, N81, P81, R81)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 27.1,
+   "y": 20.2,
+   "partNo": "C15671",
+   "desc": "SPRING - idler arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 25.2,
+   "y": 7.2,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 5.1,
+   "y": 31.6,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 25.1,
+   "y": 4.2,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex, ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 3.8,
+   "y": 18.7,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex, ZP",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 49.2,
+   "y": 38.3,
+   "partNo": "C15288",
+   "desc": "BRACKET - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 52.2,
+   "y": 34.1,
+   "partNo": "C10482",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 56.4,
+   "y": 29.4,
+   "partNo": "C15278",
+   "desc": "PIN - latch",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 47.9,
+   "y": 24.9,
+   "partNo": "138-2073",
+   "desc": "PIN - roll 3/16\" x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 7.8,
+   "y": 12.3,
+   "partNo": "C15296",
+   "desc": "ARM - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 43.1,
+   "y": 2.9,
+   "partNo": "C15329",
+   "desc": "PULLEY - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 35.3,
+   "y": 20.3,
+   "partNo": "C15329",
+   "desc": "PULLEY - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 24.8,
+   "y": 16.5,
+   "partNo": "113-219",
+   "desc": "BOLT - 3/8\" x 2\" NC hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 42.6,
+   "y": 24.7,
+   "partNo": "113-219",
+   "desc": "BOLT - 3/8\" x 2\" NC hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 28.7,
+   "y": 11.2,
+   "partNo": "C15343",
+   "desc": "PULLEY - idler 4-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 67.5,
+   "y": 19,
+   "partNo": "C15672",
+   "desc": "PULLEY - idler 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 35,
+   "y": 45,
+   "partNo": "141-56",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 27.5,
+   "y": 35.3,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 24.3,
+   "y": 90.2,
+   "variants": [
+    {
+     "serialNote": "J81 and K81",
+     "partNo": "C15386",
+     "desc": "FLANGETTE - (J81 and K81)",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "L81, M81, N81, P81, R81",
+     "partNo": "C28277",
+     "desc": "FLANGETTE - (L81, M81, N81, P81, R81)",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "22",
+   "x": 19.8,
+   "y": 77.9,
+   "variants": [
+    {
+     "serialNote": "L81, M81, N81, P81, R81",
+     "partNo": "C28871",
+     "desc": "BEARING - 3/4\" (L81, M81, N81, P81, R81)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "J81 and K81",
+     "partNo": "C15385",
+     "desc": "BEARING - includes collar and setscrew (J81 and K81)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "23",
+   "x": 9.2,
+   "y": 85.1,
+   "variants": [
+    {
+     "serialNote": "J81, K81",
+     "partNo": "111-108",
+     "desc": "BOLT - 1/4\" x 3/4\" NC rd. hd. square neck (J81, K81)",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "L81, M81, N81, P81, R81",
+     "partNo": "111-202",
+     "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage (L81, M81, N81, P81, R81)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "24",
+   "x": 62.7,
+   "y": 5.2,
+   "partNo": "C23950",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 28.3,
+   "y": 88.2,
+   "variants": [
+    {
+     "serialNote": "J81, K81",
+     "partNo": "192-19",
+     "desc": "LOCKWASHER - 1/4\" ZP (J81, K81)",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "L81, M81, N81, P81, R81",
+     "partNo": "192-20",
+     "desc": "LOCKWASHER - 5/16\" (L81, M81, N81, P81, R81)",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "26",
+   "x": 31.4,
+   "y": 87.4,
+   "variants": [
+    {
+     "serialNote": "J81, K81",
+     "partNo": "129-101",
+     "desc": "NUT - 1/4\" NC hex, ZP (J81, K81)",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "L81, M81, N81, P81, R81",
+     "partNo": "129-102",
+     "desc": "NUT - 5/16\" - 18 (L81, M81, N81, P81, R81)",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "27",
+   "x": 47.7,
+   "y": 79.1,
+   "variants": [
+    {
+     "serialNote": "J81, K81",
+     "partNo": "C19821",
+     "desc": "SHAFT ASSEMBLY - drive (J81, K81)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L81, M81, N81, P81, R81",
+     "partNo": "C25186",
+     "desc": "SHAFT ASSEMBLY - drive (L81, M81, N81, P81, R81)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 24.1,
+   "y": 57.5,
+   "partNo": "C18775",
+   "desc": "CHAIN - auger drive, 82 pitches, #35 roller chain",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 19.8,
+   "y": 74.2,
+   "partNo": "C18775",
+   "desc": "CHAIN - auger drive, 82 pitches, #35 roller chain",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 19.4,
+   "y": 59.9,
+   "partNo": "C28805",
+   "desc": "LINK - offset, #35 roller chain",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 53,
+   "y": 85.8,
+   "partNo": "C15330",
+   "desc": "SPROCKET - 18T (includes setscrew) used prior to S/N H30473",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 57,
+   "y": 84.9,
+   "partNo": "83-44",
+   "desc": "SETSCREW - 1/4\" NC socket head",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 75.4,
+   "y": 88,
+   "partNo": "C15331",
+   "desc": "SHAFT - drive (used prior to S/N H30473)",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 66.5,
+   "y": 82.7,
+   "partNo": "126-16",
+   "desc": "KEY - 3/16\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 83.1,
+   "y": 88.1,
+   "partNo": "C15293",
+   "desc": "PULLEY - 6\" (used prior to S/N H30473)",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 83.7,
+   "y": 83.2,
+   "partNo": "178-858",
+   "desc": "SETSCREW - 5/16\" x 3/8\" NC socket head cup point",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 26.1,
+   "y": 92.8,
+   "partNo": "C29024",
+   "desc": "COLLAR - locking (L81, M81, N81, P81, R81)",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 17.4,
+   "y": 93.5,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "",
+   "partNo": "C28645",
+   "desc": "CONNECTOR LINK - #35",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 30, 32, 34: used prior to S/N H30473."
+}
