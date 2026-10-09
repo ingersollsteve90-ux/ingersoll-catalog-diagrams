@@ -1,0 +1,312 @@
+{
+ "sectionTitle": "Impellor and Hydraulic Motor",
+ "breadcrumb": "Impellor and Hydraulic Motor",
+ "catalogLabel": "Catalog 8-2963",
+ "modelNumbers": "Catalog 8-2963 — Ingersoll B98, B98-3 and B98-B Hydraulic Blowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2963/impellor_hydraulic_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 45.4,
+   "y": 12.9,
+   "partNo": "C28392",
+   "desc": "IMPELLOR - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 36,
+   "y": 47.2,
+   "partNo": "C28215",
+   "desc": "KEY - 3/16\" square x 5/8\" impeller",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 62.8,
+   "y": 47.8,
+   "partNo": "83-46",
+   "desc": "SET SCREW - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 22.2,
+   "y": 44.3,
+   "variants": [
+    {
+     "serialNote": "Before S/N (B98 BF15296, B98-3 BK10982, B98B CA21505)",
+     "partNo": "NSS",
+     "desc": "MOTOR - hydraulic (use C33127 kit)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N and after",
+     "partNo": "C33107",
+     "desc": "MOTOR - hydraulic",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 37.3,
+   "y": 52.7,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 23,
+   "y": 76.2,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 70.9,
+   "y": 14,
+   "partNo": "129-163",
+   "desc": "NUT - 3/8\" - 24 (torque to 20-25 ft. lb.)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 60.3,
+   "y": 14.4,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 64.6,
+   "y": 12.1,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 36.2,
+   "y": 63.7,
+   "partNo": "218-5203",
+   "desc": "FITTING - 90° swivel 3/4\" - 16 \"O\" ring x 1/2\" pipe (inlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 29.9,
+   "y": 60.2,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING - fitting",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 7.3,
+   "y": 56.1,
+   "partNo": "218-5201",
+   "desc": "FITTING - 90° swivel 7/8\" - 14 \"O\" ring x 1/2\" pipe (outlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 17,
+   "y": 47.7,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING - fitting",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 27,
+   "y": 23.7,
+   "variants": [
+    {
+     "serialNote": "B98-B",
+     "partNo": "C28320",
+     "desc": "HOSE - hydraulic (B98-B)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "B98, B98-3",
+     "partNo": "C28398",
+     "desc": "HOSE - hydraulic (B98, B98-3)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 85.6,
+   "y": 11.8,
+   "partNo": "C29882",
+   "desc": "TUBE - extension (B98-B)",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 11.5,
+   "y": 69.8,
+   "partNo": "218-5053",
+   "desc": "FITTING - 3/16\" - 20 straight x 7/16\" - 20, 37° flare",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 72,
+   "y": 51.8,
+   "partNo": "C33202",
+   "desc": "HOSE - return, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 76.7,
+   "y": 82.9,
+   "partNo": "C33202",
+   "desc": "HOSE - return, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 24.4,
+   "y": 85.7,
+   "partNo": "C33203",
+   "desc": "HOSE - return, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 86.4,
+   "y": 41.9,
+   "partNo": "C22947",
+   "desc": "TIE - nylon",
+   "reqd": "3"
+  },
+  {
+   "ref": "20",
+   "x": 61.1,
+   "y": 65.8,
+   "partNo": "C27713",
+   "desc": "COUPLING - male",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 55.2,
+   "y": 60.8,
+   "partNo": "C27714",
+   "desc": "COUPLING - female",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 53.2,
+   "y": 86.1,
+   "partNo": "C27715",
+   "desc": "PLUG - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 60.2,
+   "y": 95.1,
+   "partNo": "C27716",
+   "desc": "CAP - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 95.1,
+   "y": 57.9,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 11/16\" x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 73.8,
+   "y": 65.2,
+   "partNo": "NSS",
+   "desc": "HOSE - hydraulic 4\" (use C29697 cut to length)",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 95.4,
+   "y": 87.3,
+   "partNo": "NSS",
+   "desc": "HOSE - hydraulic 4\" (use C29697 cut to length)",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 93.7,
+   "y": 72.1,
+   "partNo": "C33204",
+   "desc": "TEE - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 86.9,
+   "y": 58.8,
+   "partNo": "218-980",
+   "desc": "FITTING - 90° swivel",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 45.5,
+   "y": 96.9,
+   "partNo": "C33125",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "partNo": "NSS",
+   "desc": "TRIM - strip 4\" (use C33274 cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 49.8,
+   "y": 90.7,
+   "partNo": "113-132",
+   "desc": "BOLT - 1/4\" - 20 x 1-3/4\" (use if req. to mount tube clamp)",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 47.2,
+   "y": 93.3,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\" (use if req. to mount tube clamp)",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" - 16 x 3/4\" carriage (use in PTO bracket to prevent reverse handle operation)",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock (use in PTO bracket to prevent reverse handle operation)",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C33127",
+   "desc": "KIT - hydraulic motor with case drain (includes motor; refs 16-31 are its contents)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 4 hydraulic motor: before S/N the motor is not sold separately (use kit C33127); S/N and after use C33107. S/N breaks: B98 BF15296, B98-3 BK10982, B98B CA21505.\nRefs 16-31 are contents of C33127 KIT - hydraulic motor with case drain (includes motor).\nRef 29 TRIM - strip 4\" is not called out on the diagram; it is not sold separately - use C33274 cut to length.\nAlso listed, not shown: 111-340 BOLT 3/8\"-16 x 3/4\" carriage and 131-938 NUT 3/8\"-16 flange lock, used in the PTO bracket to prevent reverse handle operation."
+}

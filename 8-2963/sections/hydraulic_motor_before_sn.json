@@ -1,0 +1,140 @@
+{
+ "sectionTitle": "Hydraulic Motor (before S/N)",
+ "breadcrumb": "Hydraulic Motor (before S/N)",
+ "catalogLabel": "Catalog 8-2963",
+ "modelNumbers": "Catalog 8-2963 — Ingersoll B98, B98-3 and B98-B Hydraulic Blowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2963/hydraulic_motor_before_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 15.9,
+   "y": 21.4,
+   "partNo": "C33292",
+   "desc": "BEARING - needle",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 37.3,
+   "y": 26,
+   "partNo": "C33292",
+   "desc": "BEARING - needle",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 47.7,
+   "y": 20,
+   "partNo": "C33293",
+   "desc": "BEARING - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 42.3,
+   "y": 20.7,
+   "partNo": "NSS",
+   "desc": "RING - snap 1/2\" external",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 85.8,
+   "y": 33.3,
+   "partNo": "C28215",
+   "desc": "KEY - square 3/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 26.7,
+   "y": 23.7,
+   "partNo": "126-6",
+   "desc": "KEY - woodruff 1/8\" x 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 71.5,
+   "y": 34.7,
+   "partNo": "NSS",
+   "desc": "SHAFT - hydraulic motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 65.6,
+   "y": 31.4,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - internal",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 60.7,
+   "y": 19.8,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - external",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 65.7,
+   "y": 61.1,
+   "partNo": "NSS",
+   "desc": "RETAINER - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 66,
+   "y": 69.7,
+   "partNo": "NSS",
+   "desc": "RING - snap 1-1/8\" internal",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 33.5,
+   "y": 21.4,
+   "partNo": "NSS",
+   "desc": "GASKET - body .00050\" (silver)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "12",
+   "x": 33.5,
+   "y": 16.3,
+   "partNo": "NSS",
+   "desc": "GASKET - body .00075\" (gold)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "13",
+   "x": 33.4,
+   "y": 9.5,
+   "partNo": "NSS",
+   "desc": "GASKET - body .00100\" (amber)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "",
+   "partNo": "NSS",
+   "desc": "MOTOR - hydraulic (use C33127 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C33303",
+   "desc": "KIT - shaft repair (includes refs 3-6)",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C33304",
+   "desc": "KIT - seal (includes refs 7-13)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Use before S/N: B98 BF15296, B98-3 BK10982, B98B CA21505.\nThe complete motor is not sold separately - use kit C33127.\nC33303 KIT - shaft repair includes refs 3-6. C33304 KIT - seal includes refs 7-13."
+}
