@@ -1,0 +1,250 @@
+{
+ "sectionTitle": "D40R Grader Blade (195, T-90)",
+ "breadcrumb": "D40R Grader Blade (195, T-90)",
+ "catalogLabel": "Catalog A1060",
+ "modelNumbers": "Catalog A1060 — Case Model E Rotary Mowers, D40 Grader Blades and C50/E50 Dump Carts (155, 195, T-90)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1060/d40r_grader_blade.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 36.2,
+   "y": 40.8,
+   "partNo": "C10850",
+   "desc": "FRAME - grader",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 29.6,
+   "y": 2.8,
+   "partNo": "C10820",
+   "desc": "PIN - clevis - 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 9.9,
+   "y": 13.5,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 27.8,
+   "y": 14.2,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 44.4,
+   "y": 13.2,
+   "partNo": "C12887",
+   "desc": "LINK - grader lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 40.8,
+   "y": 10.8,
+   "partNo": "C10821",
+   "desc": "PIN - clevis - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 48.5,
+   "y": 16.8,
+   "partNo": "C10821",
+   "desc": "PIN - clevis - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 25,
+   "y": 18.7,
+   "partNo": "132-48",
+   "desc": "PIN - cotter - 1/8\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 58.1,
+   "y": 59.8,
+   "partNo": "132-48",
+   "desc": "PIN - cotter - 1/8\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 25.1,
+   "y": 33.9,
+   "partNo": "C10967",
+   "desc": "BOLT - 3/8\" x 3\" hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 9.7,
+   "y": 23.2,
+   "partNo": "C10966",
+   "desc": "SPRING - extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 13.6,
+   "y": 26.3,
+   "partNo": "C10965",
+   "desc": "PLUG - spring adjustment",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 67.1,
+   "y": 29,
+   "partNo": "C10921",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 62.4,
+   "y": 25.9,
+   "partNo": "C10896",
+   "desc": "WASHER - cup",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 58.8,
+   "y": 23.1,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\"-16 N. C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 46.9,
+   "y": 47.8,
+   "partNo": "C10873",
+   "desc": "WELDMENT - blade pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 53.4,
+   "y": 51.6,
+   "partNo": "15-856",
+   "desc": "BOLT - 1/2\" x 3-1/2\" N. C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 73.2,
+   "y": 33.2,
+   "partNo": "92-8",
+   "desc": "WASHER - 1/2\" SAE std. lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 70.5,
+   "y": 31.4,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N. C.",
+   "reqd": "5"
+  },
+  {
+   "ref": "16",
+   "x": 54.9,
+   "y": 78.4,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N. C.",
+   "reqd": "5"
+  },
+  {
+   "ref": "17",
+   "x": 43.1,
+   "y": 67.4,
+   "partNo": "141-56",
+   "desc": "PIN - clevis - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 25.9,
+   "y": 75.4,
+   "partNo": "C10881",
+   "desc": "BLADE - 50\" grader",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 91.6,
+   "y": 76.7,
+   "partNo": "C11049",
+   "desc": "BOLT - 3/8\" x 10\" N. C. ZP",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 55.1,
+   "y": 81.8,
+   "partNo": "C10968",
+   "desc": "SHOE - grader",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 60.9,
+   "y": 92.3,
+   "partNo": "C10878",
+   "desc": "BLADE - 50\" scraper",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 51,
+   "y": 97.3,
+   "partNo": "11-516",
+   "desc": "BOLT - 5/16\" x 1\" round head",
+   "reqd": "10"
+  },
+  {
+   "ref": "23",
+   "x": 26.3,
+   "y": 84.1,
+   "partNo": "92-5",
+   "desc": "WASHER - 5/16\" SAE std. lock",
+   "reqd": "10"
+  },
+  {
+   "ref": "24",
+   "x": 26.3,
+   "y": 81.3,
+   "partNo": "25-105",
+   "desc": "NUT - 5/16\"-18 hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "25",
+   "x": 54.4,
+   "y": 20.7,
+   "partNo": "C10888",
+   "desc": "PIN - locking",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 80.7,
+   "y": 82.2,
+   "partNo": "111-342",
+   "desc": "BOLT - 3/8\" x 1\" - round head, square neck",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

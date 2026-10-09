@@ -1,0 +1,802 @@
+{
+ "sectionTitle": "E44 Rotary Mower - Deck, Lift and Drive (155)",
+ "breadcrumb": "E44 Rotary Mower - Deck, Lift and Drive (155)",
+ "catalogLabel": "Catalog A1060",
+ "modelNumbers": "Catalog A1060 — Case Model E Rotary Mowers, D40 Grader Blades and C50/E50 Dump Carts (155, 195, T-90)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1060/e44_lift_drive.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 37.5,
+   "y": 89.7,
+   "partNo": "C12169",
+   "desc": "DECK - mower E-44",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 34.1,
+   "y": 21.2,
+   "partNo": "C13594",
+   "desc": "COVER - front deck belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 74.8,
+   "y": 63.1,
+   "partNo": "C10822",
+   "desc": "WASHER - mower spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 17.1,
+   "y": 79.6,
+   "partNo": "C10822",
+   "desc": "WASHER - mower spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 17.5,
+   "y": 75.4,
+   "partNo": "126-19",
+   "desc": "KEY - Woodruff #11",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 68.3,
+   "y": 62.4,
+   "partNo": "126-19",
+   "desc": "KEY - Woodruff #11",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 84.8,
+   "y": 63.1,
+   "partNo": "126-19",
+   "desc": "KEY - Woodruff #11",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 56.2,
+   "y": 67.8,
+   "partNo": "126-19",
+   "desc": "KEY - Woodruff #11",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 55.4,
+   "y": 58.9,
+   "partNo": "C12252",
+   "desc": "PULLEY - mower drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 87.3,
+   "y": 59.1,
+   "partNo": "C12253",
+   "desc": "PULLEY - mower deck",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 15.9,
+   "y": 71.1,
+   "partNo": "C12253",
+   "desc": "PULLEY - mower deck",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 69.5,
+   "y": 65,
+   "partNo": "C12253",
+   "desc": "PULLEY - mower deck",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 17.3,
+   "y": 64.1,
+   "partNo": "131-172",
+   "desc": "NUT - Gripco 3/4\"-16 Hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 84.6,
+   "y": 56,
+   "partNo": "131-172",
+   "desc": "NUT - Gripco 3/4\"-16 Hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 57.3,
+   "y": 52,
+   "partNo": "131-172",
+   "desc": "NUT - Gripco 3/4\"-16 Hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 55.7,
+   "y": 63.3,
+   "partNo": "C12251",
+   "desc": "PULLEY - deck idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 52.6,
+   "y": 67.5,
+   "partNo": "C12183",
+   "desc": "BRACKET - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 43.9,
+   "y": 27.6,
+   "partNo": "C12225",
+   "desc": "FRAME - mower lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 66.7,
+   "y": 22.7,
+   "partNo": "C12230",
+   "desc": "BELLCRANK - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 39.8,
+   "y": 43.6,
+   "partNo": "C12259",
+   "desc": "LEVER - front lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 72.7,
+   "y": 33.3,
+   "partNo": "138-2002",
+   "desc": "PIN - spirol roll 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 68.3,
+   "y": 47.4,
+   "partNo": "C12250",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 79.7,
+   "y": 54.1,
+   "partNo": "C12254",
+   "desc": "LEVER - belt tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 81.1,
+   "y": 45.6,
+   "partNo": "C12249",
+   "desc": "SPACER - idler pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 64.9,
+   "y": 48.8,
+   "partNo": "C12249",
+   "desc": "SPACER - idler pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 54.5,
+   "y": 42.5,
+   "partNo": "C10463",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 86.7,
+   "y": 46,
+   "partNo": "C10463",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 85.2,
+   "y": 42.5,
+   "partNo": "C12264",
+   "desc": "BUSHING - idler pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 52.2,
+   "y": 44.9,
+   "partNo": "C12264",
+   "desc": "BUSHING - idler pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 89.8,
+   "y": 42.7,
+   "partNo": "C12255",
+   "desc": "BRACKET - pivot L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 44.8,
+   "y": 44.9,
+   "partNo": "C12256",
+   "desc": "BRACKET - pivot R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 61.9,
+   "y": 37.3,
+   "partNo": "C12236",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 74.8,
+   "y": 52.9,
+   "partNo": "C12236",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 84.8,
+   "y": 26.1,
+   "partNo": "113-258",
+   "desc": "BOLT - 3/8\" x 6\" N.C. Hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 41.4,
+   "y": 47.1,
+   "partNo": "113-257",
+   "desc": "BOLT - 3/8\" x 2-1/2\" N.C. Hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 53.8,
+   "y": 54,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "24",
+   "x": 75.6,
+   "y": 34.4,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "24",
+   "x": 92.2,
+   "y": 27.1,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 49.2,
+   "y": 55.6,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. Hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 77.5,
+   "y": 32.3,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. Hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 95.4,
+   "y": 26.1,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. Hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 70.2,
+   "y": 34.9,
+   "partNo": "C12242",
+   "desc": "ROD - belt adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 45.2,
+   "y": 41.6,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "27",
+   "x": 8.3,
+   "y": 37.3,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "27",
+   "x": 18.4,
+   "y": 40.9,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "27",
+   "x": 53.2,
+   "y": 31.5,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "27",
+   "x": 44,
+   "y": 36.1,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "27",
+   "x": 62.6,
+   "y": 21.6,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "27",
+   "x": 53.6,
+   "y": 16.1,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "28",
+   "x": 73.7,
+   "y": 36.9,
+   "partNo": "C12239",
+   "desc": "NUT - adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 41.8,
+   "y": 23.2,
+   "partNo": "C11985",
+   "desc": "ROD - front to rear lift L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 57.2,
+   "y": 21.9,
+   "partNo": "C10952",
+   "desc": "YOKE",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 22.3,
+   "y": 32.9,
+   "partNo": "C10952",
+   "desc": "YOKE",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 26.8,
+   "y": 35.1,
+   "partNo": "141-6",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 49.9,
+   "y": 27.4,
+   "partNo": "141-6",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 34.8,
+   "y": 33.2,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "32",
+   "x": 9.5,
+   "y": 28.4,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "32",
+   "x": 53.3,
+   "y": 19,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "32",
+   "x": 73.4,
+   "y": 16.3,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "32",
+   "x": 79.8,
+   "y": 16.7,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "32",
+   "x": 77.9,
+   "y": 29.7,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "32",
+   "x": 64.8,
+   "y": 34.1,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "32",
+   "x": 30.2,
+   "y": 46.4,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "32",
+   "x": 71.9,
+   "y": 92.7,
+   "partNo": "195-530",
+   "desc": "WASHER - plain 1/2\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "33",
+   "x": 16.2,
+   "y": 30.4,
+   "partNo": "C12513",
+   "desc": "ROD - front to rear lift R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 70.9,
+   "y": 20.3,
+   "partNo": "C12267",
+   "desc": "LINK - bottom lift L.H.",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 65.7,
+   "y": 31.5,
+   "partNo": "C12267",
+   "desc": "LINK - bottom lift L.H.",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 33.7,
+   "y": 45.1,
+   "partNo": "C11984",
+   "desc": "LINK - center lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 29.8,
+   "y": 34.5,
+   "partNo": "C11984",
+   "desc": "LINK - center lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 80.4,
+   "y": 27.1,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\" x 7/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 16.8,
+   "y": 43.4,
+   "partNo": "C10821",
+   "desc": "PIN - clevis 1/2\" x 7/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 18.6,
+   "y": 23.4,
+   "partNo": "C12278",
+   "desc": "GUARD - deck belt R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 55,
+   "y": 6.9,
+   "partNo": "C12279",
+   "desc": "GUARD - deck belt L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 54.8,
+   "y": 11.1,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" x 1/2\" Self-tapping Hex Head",
+   "reqd": "10"
+  },
+  {
+   "ref": "40",
+   "x": 35.6,
+   "y": 49.2,
+   "partNo": "C12218",
+   "desc": "BRACKET - mower mounting R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 90.6,
+   "y": 39.7,
+   "partNo": "C12219",
+   "desc": "BRACKET - mower mounting L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 88.9,
+   "y": 26,
+   "partNo": "111-362",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C. Rd. Hd. Sq. Neck",
+   "reqd": "4"
+  },
+  {
+   "ref": "43",
+   "x": 76.7,
+   "y": 16.2,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "6"
+  },
+  {
+   "ref": "43",
+   "x": 95,
+   "y": 41.3,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "6"
+  },
+  {
+   "ref": "43",
+   "x": 51,
+   "y": 29.9,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "6"
+  },
+  {
+   "ref": "43",
+   "x": 57.5,
+   "y": 41.4,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "6"
+  },
+  {
+   "ref": "43",
+   "x": 76.8,
+   "y": 90.9,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "6"
+  },
+  {
+   "ref": "44",
+   "x": 59.1,
+   "y": 93.1,
+   "partNo": "C12327",
+   "desc": "ROD - adjusting lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 88.6,
+   "y": 91.1,
+   "partNo": "131-165",
+   "desc": "NUT - 1/2\" N.C. Gripco",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 85.1,
+   "y": 18.1,
+   "partNo": "C12329",
+   "desc": "ROD - lift link",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 58.8,
+   "y": 96,
+   "partNo": "C12571",
+   "desc": "SLEEVE - lift link",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 74.1,
+   "y": 56.5,
+   "partNo": "C14982",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 53.2,
+   "y": 60.8,
+   "partNo": "195-522",
+   "desc": "WASHER - plain 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "49",
+   "x": 37.4,
+   "y": 69.5,
+   "partNo": "195-522",
+   "desc": "WASHER - plain 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "50",
+   "x": 52.3,
+   "y": 57.5,
+   "partNo": "131-178",
+   "desc": "NUT - 3/8\" N.C. Gripco",
+   "reqd": "2"
+  },
+  {
+   "ref": "50",
+   "x": 40.6,
+   "y": 64.3,
+   "partNo": "131-178",
+   "desc": "NUT - 3/8\" N.C. Gripco",
+   "reqd": "2"
+  },
+  {
+   "ref": "51",
+   "x": 37.2,
+   "y": 73.1,
+   "partNo": "111-317",
+   "desc": "BOLT - 3/8\" x 7/8\" N.C. Rd. Hd. Sq. Neck",
+   "reqd": "1"
+  },
+  {
+   "ref": "52",
+   "x": 37.2,
+   "y": 55.5,
+   "partNo": "C10919",
+   "desc": "BELT - mower deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 14.6,
+   "y": 9.4,
+   "partNo": "C12519",
+   "desc": "DECAL - no step",
+   "reqd": "2"
+  },
+  {
+   "ref": "54",
+   "x": 28.8,
+   "y": 89.9,
+   "partNo": "A70404",
+   "desc": "DECAL - caution",
+   "reqd": "2"
+  },
+  {
+   "ref": "55",
+   "x": 30.7,
+   "y": 87.2,
+   "partNo": "C12664",
+   "desc": "DECAL - ASA safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "56",
+   "x": 13.9,
+   "y": 39,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" N.C. Hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "56",
+   "x": 46.5,
+   "y": 24.7,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" N.C. Hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "57",
+   "x": 18.4,
+   "y": 51.1,
+   "partNo": "C14265",
+   "desc": "PIN - clevis 1/2\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}
