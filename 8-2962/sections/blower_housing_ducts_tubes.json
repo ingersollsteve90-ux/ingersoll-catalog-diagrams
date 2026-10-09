@@ -1,0 +1,181 @@
+{
+ "sectionTitle": "Blower Housing, Ducts and Tubes",
+ "breadcrumb": "Blower Housing, Ducts and Tubes",
+ "catalogLabel": "Catalog 8-2962",
+ "modelNumbers": "Catalog 8-2962 — Ingersoll B98, B98-3 and B98-B Hydraulic Blowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-2962/blower_housing_ducts_tubes.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 44.4,
+   "y": 47.1,
+   "partNo": "C28387",
+   "desc": "HOUSING - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 4.4,
+   "y": 42.2,
+   "partNo": "C28396",
+   "desc": "PLATE - motor mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 12.7,
+   "y": 62.7,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "16"
+  },
+  {
+   "ref": "3",
+   "x": 40.2,
+   "y": 59.3,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "16"
+  },
+  {
+   "ref": "3",
+   "x": 51,
+   "y": 21.5,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "16"
+  },
+  {
+   "ref": "3",
+   "x": 37.1,
+   "y": 93.6,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "16"
+  },
+  {
+   "ref": "4",
+   "x": 60.4,
+   "y": 37.4,
+   "variants": [
+    {
+     "serialNote": "B98, B98-3 (shown)",
+     "partNo": "C28405",
+     "desc": "DUCT - blower inlet (B98, B98-3) shown",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "B98-B",
+     "partNo": "C29890",
+     "desc": "DUCT - blower inlet (B98-B)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 81.4,
+   "y": 76,
+   "partNo": "C28408",
+   "desc": "BOOT - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 65.5,
+   "y": 60.8,
+   "partNo": "C30266",
+   "desc": "CHUTE - blower intake 45\" to 48\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 72.5,
+   "y": 17.4,
+   "partNo": "C30266",
+   "desc": "CHUTE - blower intake 45\" to 48\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 24.7,
+   "y": 31.1,
+   "partNo": "214-277",
+   "desc": "CLAMP - chute, worm drive",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "7",
+   "x": 61.7,
+   "y": 22.1,
+   "partNo": "214-277",
+   "desc": "CLAMP - chute, worm drive",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "8",
+   "x": 40.5,
+   "y": 14.7,
+   "partNo": "NSS",
+   "desc": "CHUTE - blower discharge (use C30266)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 38,
+   "y": 10.4,
+   "partNo": "NSS",
+   "desc": "CHUTE - blower discharge (use C30266)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 57.6,
+   "y": 96.7,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 60.3,
+   "y": 78.4,
+   "partNo": "C28413",
+   "desc": "CLAMP - chute",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "10",
+   "x": 8.1,
+   "y": 12.1,
+   "partNo": "C28413",
+   "desc": "CLAMP - chute",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "11",
+   "x": 54.7,
+   "y": 85.4,
+   "partNo": "C28411",
+   "desc": "BAFFLE - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 22.4,
+   "y": 62,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 27.3,
+   "y": 59.6,
+   "partNo": "195-2175",
+   "desc": "WASHER - .344\" x 1.25\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Ref 4 blower inlet duct: C28405 for B98 and B98-3 (shown); C29890 for B98-B.\nRef 8 discharge chute is NSS - use C30266."
+}
