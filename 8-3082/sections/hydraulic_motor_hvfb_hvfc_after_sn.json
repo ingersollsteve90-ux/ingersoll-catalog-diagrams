@@ -1,0 +1,140 @@
+{
+ "sectionTitle": "Hydraulic Motor (HVFB, HVFC) (S/N and after)",
+ "breadcrumb": "Hydraulic Motor (HVFB, HVFC) (S/N and after)",
+ "catalogLabel": "Catalog 8-3082",
+ "modelNumbers": "Catalog 8-3082 — Ingersoll HVFB, HVFC, AHVFB and AHVFC Hydraulic Vacuums",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3082/hydraulic_motor_hvfb_hvfc_after_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 15.4,
+   "y": 15.1,
+   "partNo": "C33292",
+   "desc": "BEARING - needle",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 37.3,
+   "y": 14.4,
+   "partNo": "C33292",
+   "desc": "BEARING - needle",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 51.3,
+   "y": 9.8,
+   "partNo": "C33293",
+   "desc": "BEARING - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 85.9,
+   "y": 34,
+   "partNo": "C28215",
+   "desc": "KEY - square 3/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 23.3,
+   "y": 18.4,
+   "partNo": "126-6",
+   "desc": "KEY - woodruff 1/8\" x 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 69.7,
+   "y": 34.7,
+   "partNo": "NSS",
+   "desc": "SHAFT - hydraulic motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 41.4,
+   "y": 23.3,
+   "partNo": "NSS",
+   "desc": "RING - snap 1/2\" external",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 61,
+   "y": 66.3,
+   "partNo": "NSS",
+   "desc": "RING - snap 1-1/8\" internal",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 66.6,
+   "y": 60.2,
+   "partNo": "C33282",
+   "desc": "SEAL - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 54.2,
+   "y": 91.2,
+   "partNo": "NSS",
+   "desc": "SPACER - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 45.2,
+   "y": 14.2,
+   "partNo": "NSS",
+   "desc": "SPACER - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 32.3,
+   "y": 21.9,
+   "partNo": "NSS",
+   "desc": "GASKET - body .00050\" (silver)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "12",
+   "x": 32.4,
+   "y": 15.6,
+   "partNo": "NSS",
+   "desc": "GASKET - body .00075\" (gold)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "13",
+   "x": 32.3,
+   "y": 9.5,
+   "partNo": "NSS",
+   "desc": "GASKET - body .00100\" (amber)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "",
+   "partNo": "C33108",
+   "desc": "MOTOR - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C33301",
+   "desc": "KIT - shaft repair",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C33302",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Use S/N HVFB 016077, HVFC 016510 and after.\nMotor C33108. Refs 3-6 come in shaft repair kit C33301; refs 7-13 in seal kit C33302."
+}

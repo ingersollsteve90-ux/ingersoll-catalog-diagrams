@@ -1,0 +1,109 @@
+{
+ "sectionTitle": "Cart Enclosure (HVFC, AHVFC)",
+ "breadcrumb": "Cart Enclosure (HVFC, AHVFC)",
+ "catalogLabel": "Catalog 8-3082",
+ "modelNumbers": "Catalog 8-3082 — Ingersoll HVFB, HVFC, AHVFB and AHVFC Hydraulic Vacuums",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3082/cart_enclosure.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 75.7,
+   "y": 84.5,
+   "partNo": "C32345",
+   "desc": "PANEL - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 15.3,
+   "y": 84,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C28418",
+     "desc": "PANEL - side L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C28419",
+     "desc": "PANEL - side R.H. (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 51,
+   "y": 42.9,
+   "partNo": "C32414",
+   "desc": "TAILGATE",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 32.9,
+   "y": 94.4,
+   "partNo": "C28420",
+   "desc": "CHANNEL - support",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 78,
+   "y": 34.8,
+   "partNo": "C30102",
+   "desc": "COVER - cart",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 62.2,
+   "y": 78.3,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "15"
+  },
+  {
+   "ref": "6",
+   "x": 27,
+   "y": 76.7,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "15"
+  },
+  {
+   "ref": "7",
+   "x": 28.2,
+   "y": 62.4,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "15"
+  },
+  {
+   "ref": "7",
+   "x": 58.4,
+   "y": 63.2,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "15"
+  },
+  {
+   "ref": "8",
+   "x": 51.4,
+   "y": 58.3,
+   "partNo": "C28414",
+   "desc": "DEFLECTOR - debris",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 9.9,
+   "y": 43.8,
+   "partNo": "C33274",
+   "desc": "TRIM - strip",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": ""
+}

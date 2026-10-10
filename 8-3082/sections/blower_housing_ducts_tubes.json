@@ -1,0 +1,192 @@
+{
+ "sectionTitle": "Blower Housing, Ducts and Tubes",
+ "breadcrumb": "Blower Housing, Ducts and Tubes",
+ "catalogLabel": "Catalog 8-3082",
+ "modelNumbers": "Catalog 8-3082 — Ingersoll HVFB, HVFC, AHVFB and AHVFC Hydraulic Vacuums",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3082/blower_housing_ducts_tubes.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 51.3,
+   "y": 34.6,
+   "partNo": "C32334",
+   "desc": "HOUSING - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.5,
+   "y": 28.7,
+   "partNo": "C28396",
+   "desc": "PLATE - motor mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 95.6,
+   "y": 42.4,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "16"
+  },
+  {
+   "ref": "3",
+   "x": 84.6,
+   "y": 49.8,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "16"
+  },
+  {
+   "ref": "3",
+   "x": 34.4,
+   "y": 59.3,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "16"
+  },
+  {
+   "ref": "4",
+   "x": 32.7,
+   "y": 51.3,
+   "partNo": "C29890",
+   "desc": "DUCT - blower inlet",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 41.3,
+   "y": 79.7,
+   "partNo": "C32341",
+   "desc": "BOOT - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 21.6,
+   "y": 62,
+   "partNo": "C30266",
+   "desc": "TUBE - blower intake 45\" to 48\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 27.6,
+   "y": 34.8,
+   "partNo": "214-277",
+   "desc": "CLAMP - chute, worm drive",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "7",
+   "x": 60.5,
+   "y": 30.9,
+   "partNo": "214-277",
+   "desc": "CLAMP - chute, worm drive",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "8",
+   "x": 75,
+   "y": 10.7,
+   "partNo": "NSS",
+   "desc": "TUBE - blower discharge (use C30266)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 72.9,
+   "y": 89.2,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 36.6,
+   "y": 74.2,
+   "variants": [
+    {
+     "serialNote": "Shown",
+     "partNo": "C28413",
+     "desc": "CLAMP - chute (shown)",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "With adjusting knob",
+     "partNo": "C46359",
+     "desc": "CLAMP - chute, with adjusting knob",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 40.5,
+   "y": 10.8,
+   "variants": [
+    {
+     "serialNote": "Shown",
+     "partNo": "C28413",
+     "desc": "CLAMP - chute (shown)",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "With adjusting knob",
+     "partNo": "C46359",
+     "desc": "CLAMP - chute, with adjusting knob",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 75.6,
+   "y": 75.2,
+   "partNo": "C32342",
+   "desc": "BAFFLE - mower",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 59.7,
+   "y": 60,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 64.7,
+   "y": 57.8,
+   "partNo": "195-2175",
+   "desc": "WASHER - .344\" x 1.25\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 61,
+   "y": 82.4,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 57.5,
+   "y": 81.5,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 50.4,
+   "y": 82.2,
+   "partNo": "C32994",
+   "desc": "SUPPORT - discharge chute",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

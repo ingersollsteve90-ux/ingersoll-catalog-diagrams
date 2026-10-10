@@ -1,0 +1,226 @@
+{
+ "sectionTitle": "Impellor and Hydraulic Motor (AHVFB, AHVFC)",
+ "breadcrumb": "Impellor and Hydraulic Motor (AHVFB, AHVFC)",
+ "catalogLabel": "Catalog 8-3082",
+ "modelNumbers": "Catalog 8-3082 — Ingersoll HVFB, HVFC, AHVFB and AHVFC Hydraulic Vacuums",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3082/impellor_hydraulic_motor_ahvfc_ahvfb.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 16.1,
+   "y": 43.6,
+   "partNo": "C42102",
+   "desc": "IMPELLOR - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 17.9,
+   "y": 16.7,
+   "partNo": "C43446",
+   "desc": "KEY - 3/16\" square x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 10.3,
+   "y": 9.7,
+   "partNo": "61-46",
+   "desc": "SCREW - 1/4\" - 20 x 3/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 38.4,
+   "y": 8.5,
+   "partNo": "C42099",
+   "desc": "MOTOR - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 30.6,
+   "y": 26.1,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 48.7,
+   "y": 10.8,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 81.8,
+   "y": 81.3,
+   "partNo": "113-118",
+   "desc": "BOLT - 5/16\" - 18 x 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 65.9,
+   "y": 80.9,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 77.4,
+   "y": 67.5,
+   "partNo": "C42139",
+   "desc": "BRACKET - anchor",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 48.4,
+   "y": 18.8,
+   "partNo": "218-5203",
+   "desc": "FITTING - 90 deg swivel 3/4\" - 16 \"O\" ring x 1/2\" pipe (inlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 44.7,
+   "y": 18.2,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 23.5,
+   "y": 5.1,
+   "partNo": "218-5201",
+   "desc": "FITTING - 90 deg swivel 7/8\" - 14 \"O\" ring x 1/2\" pipe (outlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 29.1,
+   "y": 7.8,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 71.3,
+   "y": 90.8,
+   "partNo": "C40641",
+   "desc": "CAP - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 53.6,
+   "y": 85.5,
+   "partNo": "C40642",
+   "desc": "PLUG - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 62.9,
+   "y": 61.2,
+   "partNo": "C42138",
+   "desc": "HOSE - hydraulic 44\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 26.7,
+   "y": 66.3,
+   "partNo": "C42138",
+   "desc": "HOSE - hydraulic 44\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 31.7,
+   "y": 30.8,
+   "partNo": "218-5053",
+   "desc": "FITTING - 7/16\" - 20 x 7/16\" - 20, 37 deg flare",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 67.4,
+   "y": 23,
+   "partNo": "218-483",
+   "desc": "FITTING - 90 deg elbow",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 56.2,
+   "y": 29.3,
+   "partNo": "C33114",
+   "desc": "HOSE - case drain, motor to coupling 50\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 82.2,
+   "y": 46.2,
+   "partNo": "C33404",
+   "desc": "CAP/PLUG - dust",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 57.9,
+   "y": 73.2,
+   "partNo": "C37188",
+   "desc": "COUPLING - female",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 76.2,
+   "y": 23,
+   "partNo": "C41044",
+   "desc": "COUPLING - female, case drain",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 83.1,
+   "y": 74.5,
+   "partNo": "C37187",
+   "desc": "COUPLING - male",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 93.9,
+   "y": 24.5,
+   "partNo": "217-1062",
+   "desc": "FITTING - tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 94.7,
+   "y": 36.9,
+   "partNo": "217-1225",
+   "desc": "FITTING - 90 deg elbow",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 83.3,
+   "y": 25.9,
+   "partNo": "C41043",
+   "desc": "COUPLING - male, case drain",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

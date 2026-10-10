@@ -1,0 +1,278 @@
+{
+ "sectionTitle": "Impellor and Hydraulic Motor (HVFB, HVFC)",
+ "breadcrumb": "Impellor and Hydraulic Motor (HVFB, HVFC)",
+ "catalogLabel": "Catalog 8-3082",
+ "modelNumbers": "Catalog 8-3082 — Ingersoll HVFB, HVFC, AHVFB and AHVFC Hydraulic Vacuums",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3082/impellor_hydraulic_motor_hvfc_hvfb.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 23.2,
+   "y": 74.6,
+   "partNo": "C28392",
+   "desc": "IMPELLOR - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 24.7,
+   "y": 37.3,
+   "partNo": "C28215",
+   "desc": "KEY - 3/16\" square x 5/8\" impeller",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 18.2,
+   "y": 26.6,
+   "partNo": "83-46",
+   "desc": "SET SCREW - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 43.1,
+   "y": 25.6,
+   "variants": [
+    {
+     "serialNote": "Before S/N (HVFB 016077, HVFC 016510)",
+     "partNo": "NSS",
+     "desc": "MOTOR - hydraulic (use C33126 kit)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N and after (HVFB 016077, HVFC 016510)",
+     "partNo": "C33108",
+     "desc": "MOTOR - hydraulic",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 35.9,
+   "y": 50.1,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 51.9,
+   "y": 29,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 4.3,
+   "y": 76.2,
+   "partNo": "129-163",
+   "desc": "NUT - 3/8\" - 24 (torque to 20-25 ft. lb.)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 13.7,
+   "y": 66.6,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 8.7,
+   "y": 73.1,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 52.3,
+   "y": 40.6,
+   "partNo": "218-5203",
+   "desc": "FITTING - 90 deg swivel 3/4\" - 16 \"O\" ring x 1/2\" pipe (inlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 48.8,
+   "y": 38.5,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING - fitting",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 29.5,
+   "y": 20.2,
+   "partNo": "218-5201",
+   "desc": "FITTING - 90 deg swivel 7/8\" - 14 \"O\" ring x 1/2\" pipe (outlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 34.4,
+   "y": 24.7,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING - fitting",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 82,
+   "y": 33.5,
+   "partNo": "C28320",
+   "desc": "HOSE - hydraulic 42\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 90.8,
+   "y": 6.6,
+   "partNo": "C29882",
+   "desc": "TUBE - extension",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 69.2,
+   "y": 25.3,
+   "partNo": "C32347",
+   "desc": "HOSE - hydraulic 44\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 35.7,
+   "y": 61.6,
+   "partNo": "218-5053",
+   "desc": "FITTING - 7/16\" - 20 x 7/16\" - 20, 37 deg flare",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 80.6,
+   "y": 68.6,
+   "variants": [
+    {
+     "serialNote": "Return manifold to coupling",
+     "partNo": "C33113",
+     "desc": "HOSE - return manifold to coupling",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Return manifold to travel valve",
+     "partNo": "C33864",
+     "desc": "HOSE - return manifold to travel valve",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 49.2,
+   "y": 67,
+   "partNo": "C33114",
+   "desc": "HOSE - motor to coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 55.6,
+   "y": 89.1,
+   "partNo": "C22947",
+   "desc": "TIE - nylon",
+   "reqd": "3"
+  },
+  {
+   "ref": "21",
+   "x": 77.1,
+   "y": 65.7,
+   "partNo": "C27713",
+   "desc": "COUPLING - male",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 67,
+   "y": 57.5,
+   "partNo": "C27714",
+   "desc": "COUPLING - female",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 79.3,
+   "y": 47.9,
+   "partNo": "NSS",
+   "desc": "PLUG - dust (use C33404)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 61.3,
+   "y": 80.8,
+   "partNo": "NSS",
+   "desc": "CAP - dust (use C33404)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 94.4,
+   "y": 57.5,
+   "partNo": "218-5172",
+   "desc": "FITTING - 45 deg 9/16\" - 18 x 9/16\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 83.9,
+   "y": 49.9,
+   "partNo": "C33115",
+   "desc": "TUBE - travel valve to heat exchanger",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 59,
+   "y": 58.4,
+   "partNo": "218-483",
+   "desc": "FITTING - 90 deg 9/16\" flare x 1/4\" - 18 NPTF",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 70.6,
+   "y": 96.6,
+   "partNo": "C33125",
+   "desc": "CLAMP - hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 81.1,
+   "y": 88.9,
+   "partNo": "113-132",
+   "desc": "BOLT - 1/4\" - 20 x 1-3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 77.7,
+   "y": 92.6,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C33126",
+   "desc": "KIT - hydraulic motor with case drain",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 4 hydraulic motor: before S/N (HVFB 016077, HVFC 016510) the motor is not sold separately - use kit C33126; S/N and after use C33108.\nKit C33126 (hydraulic motor with case drain) is listed in the table without a ref number."
+}
