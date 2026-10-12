@@ -1,0 +1,429 @@
+{
+ "sectionTitle": "Engine Block Assembly",
+ "breadcrumb": "Engine Block Assembly",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/engine_block.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 82.8,
+   "y": 14.7,
+   "partNo": "C29927",
+   "desc": "BLOCK ASSEMBLY - short",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 85.7,
+   "y": 12.4,
+   "partNo": "NSS",
+   "desc": "BLOCK - cylinder, stripped",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 47.5,
+   "y": 16.8,
+   "partNo": "C29814",
+   "desc": "BUSHING - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 44,
+   "y": 16.8,
+   "partNo": "BR294606",
+   "desc": "SEAL - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 74.5,
+   "y": 44.3,
+   "partNo": "BR231055",
+   "desc": "BUSHING - governor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 47.6,
+   "y": 46.5,
+   "partNo": "C27236",
+   "desc": "KEY - flywheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 94.7,
+   "y": 63,
+   "partNo": "BR392718",
+   "desc": "BRACKET ASSEMBLY - governor gear & oil slinger",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 81.1,
+   "y": 48.1,
+   "partNo": "BR280005",
+   "desc": "TUBE - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 71.6,
+   "y": 53.1,
+   "partNo": "C29775",
+   "desc": "CRANKSHAFT",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 88.3,
+   "y": 80.4,
+   "partNo": "BR392548",
+   "desc": "OIL PAN ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 46.4,
+   "y": 95,
+   "partNo": "BR295963",
+   "desc": "BUSHING - oil pan",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 42.8,
+   "y": 94.7,
+   "partNo": "C25709",
+   "desc": "SEAL - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 87.7,
+   "y": 75.5,
+   "variants": [
+    {
+     "serialNote": "1/64\" (0.40 mm)",
+     "partNo": "BR27750",
+     "desc": "GASKET - oil pan 1/64\" (0.40 mm)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".005\" (0.13 mm)",
+     "partNo": "BR27876",
+     "desc": "GASKET - oil pan .005\" (0.13 mm)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".009\" (.023 mm)",
+     "partNo": "BR27877",
+     "desc": "GASKET - oil pan .009\" (.023 mm)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 87.5,
+   "y": 85.9,
+   "partNo": "NSS",
+   "desc": "SCREW - oil pan mtg. (use 113-120 and 192-20)",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 17.5,
+   "y": 79,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "C30397",
+     "desc": "PISTON ASSEMBLY - standard",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".010\" oversize",
+     "partNo": "C30398",
+     "desc": "PISTON ASSEMBLY - .010\" (.025 mm) oversize (includes rings)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".020\" oversize",
+     "partNo": "C30399",
+     "desc": "PISTON ASSEMBLY - .020\" (0.51 mm) oversize (includes rings)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".030\" oversize",
+     "partNo": "C30400",
+     "desc": "PISTON ASSEMBLY - .030\" (0.76 mm) oversize (includes rings)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 11.1,
+   "y": 80.4,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "C29776",
+     "desc": "RING SET - standard",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".010\" oversize",
+     "partNo": "C30401",
+     "desc": "RING SET - .010\" (0.25 mm) oversize",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".020\" oversize",
+     "partNo": "C30402",
+     "desc": "RING SET - .020\" (0.51 mm) oversize",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".030\" oversize",
+     "partNo": "C30403",
+     "desc": "RING SET - .030\" (0.76 mm) oversize",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 31.1,
+   "y": 83.6,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "BR295840",
+     "desc": "PIN ASSEMBLY - piston standard (includes locks)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".005\" oversize",
+     "partNo": "BR295841",
+     "desc": "PIN ASSEMBLY - piston, .005\" (0.13 mm) oversize (includes locks)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 33.7,
+   "y": 89.7,
+   "partNo": "BR68546",
+   "desc": "LOCK - piston pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 43.4,
+   "y": 49.4,
+   "partNo": "BR270430",
+   "desc": "GASKET - cylinder head",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 10.6,
+   "y": 54,
+   "partNo": "BR390402",
+   "desc": "CONNECTING ROD ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 13.2,
+   "y": 48.2,
+   "partNo": "BR222114",
+   "desc": "LOCK - connecting rod bolt",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 34.2,
+   "y": 44.8,
+   "partNo": "BR92659",
+   "desc": "BOLT - connecting rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 81,
+   "y": 25.1,
+   "partNo": "C27350",
+   "desc": "GASKET - valve cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 29.2,
+   "y": 76,
+   "partNo": "C30404",
+   "desc": "VALVE - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 40.7,
+   "y": 74.1,
+   "partNo": "BR93630",
+   "desc": "LOCK - exhaust valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 46.6,
+   "y": 72.7,
+   "partNo": "BR292260",
+   "desc": "ROTATOR - exhaust valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 28.3,
+   "y": 59.1,
+   "partNo": "BR261055",
+   "desc": "VALVE - intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 46.2,
+   "y": 53.6,
+   "partNo": "BR221596",
+   "desc": "KEEPER - intake valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 34.1,
+   "y": 57.7,
+   "partNo": "BR65906",
+   "desc": "SPRING - intake valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 34.6,
+   "y": 74.7,
+   "partNo": "BR26828",
+   "desc": "SPRING - exhaust valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 50.6,
+   "y": 52.7,
+   "partNo": "BR260933",
+   "desc": "TAPPET - valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 74.4,
+   "y": 58.7,
+   "partNo": "BR211689",
+   "desc": "CAMSHAFT",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 16.8,
+   "y": 16.1,
+   "partNo": "BR222636",
+   "desc": "BAFFLE - cylinder head",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 5.6,
+   "y": 43.2,
+   "variants": [
+    {
+     "serialNote": "3\" long",
+     "partNo": "BR93723",
+     "desc": "BOLT - cylinder head, 3\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2-21/32\" long",
+     "partNo": "BR93211",
+     "desc": "BOLT - cylinder head, 2-21/32\"",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "36",
+   "x": 37.2,
+   "y": 13.4,
+   "partNo": "BR222830",
+   "desc": "BAFFLE - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 29.5,
+   "y": 13.1,
+   "partNo": "NSS",
+   "desc": "SCREW - baffle mtg. (use 163-18 and 192-18)",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 22.9,
+   "y": 14.6,
+   "partNo": "BR212286",
+   "desc": "HEAD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 79.5,
+   "y": 52.9,
+   "partNo": "187-1508",
+   "desc": "SCREW - sems",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 80.6,
+   "y": 28.7,
+   "partNo": "BR391406",
+   "desc": "BREATHER - crankcase",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 36.5,
+   "y": 5.1,
+   "partNo": "BR221760",
+   "desc": "GUIDE - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 39.3,
+   "y": 79.3,
+   "partNo": "C33644",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4 self-tapping",
+   "reqd": "4"
+  },
+  {
+   "ref": "",
+   "partNo": "BR299577",
+   "desc": "GASKET SET - includes items 13, 19, 23 and carburetor mounting gasket",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "For the complete engine order C33643 (Briggs & Stratton 193707, Type 4012).\nAlso listed, not shown on diagram: BR299577 gasket set (includes items 13, 19, 23 and the carburetor mounting gasket)."
+}

@@ -1,0 +1,50 @@
+{
+ "sectionTitle": "Choke and Throttle Control",
+ "breadcrumb": "Choke and Throttle Control",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/choke_throttle_control.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 76.8,
+   "y": 21.8,
+   "partNo": "C33647",
+   "desc": "CONTROL - choke/throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64.9,
+   "y": 14.5,
+   "partNo": "182-559",
+   "desc": "SCREW - No. 10 - 24 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 87.9,
+   "y": 31.6,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - No. 10",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 88.5,
+   "y": 78.7,
+   "partNo": "129-17",
+   "desc": "NUT - No. 10 - 24",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 35.8,
+   "y": 36.6,
+   "partNo": "C15540",
+   "desc": "HANDLE - control",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

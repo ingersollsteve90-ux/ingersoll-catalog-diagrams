@@ -1,0 +1,248 @@
+{
+ "sectionTitle": "BG30 Bagger",
+ "breadcrumb": "BG30 Bagger",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/bg30_bagger.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.5,
+   "y": 59.3,
+   "partNo": "C29061",
+   "desc": "BRACKET - mounting L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 25.5,
+   "y": 71.4,
+   "partNo": "C29059",
+   "desc": "BRACKET - mounting R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 31.4,
+   "y": 54.6,
+   "partNo": "131-911",
+   "desc": "NUT - flange 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 24.8,
+   "y": 50.7,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 38.1,
+   "y": 67.1,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 56.4,
+   "y": 67.7,
+   "partNo": "131-176",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "9"
+  },
+  {
+   "ref": "5",
+   "x": 8.4,
+   "y": 65.6,
+   "partNo": "131-176",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "9"
+  },
+  {
+   "ref": "5",
+   "x": 94.4,
+   "y": 73.5,
+   "partNo": "131-176",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "9"
+  },
+  {
+   "ref": "6",
+   "x": 40.9,
+   "y": 45.4,
+   "partNo": "C28436",
+   "desc": "BRACKET - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 20.9,
+   "y": 57.1,
+   "partNo": "C28434",
+   "desc": "FRAME - support",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 26.2,
+   "y": 3.5,
+   "partNo": "C29870",
+   "desc": "COVER - bagger",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 34.1,
+   "y": 25.3,
+   "partNo": "C24610",
+   "desc": "SEAL - chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 54.5,
+   "y": 22.5,
+   "partNo": "C29871",
+   "desc": "HINGE - cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 55.3,
+   "y": 18.9,
+   "partNo": "151-88",
+   "desc": "RIVET - 3/16\" x 5/16\"",
+   "reqd": "17"
+  },
+  {
+   "ref": "12",
+   "x": 25.5,
+   "y": 67.8,
+   "partNo": "C25114",
+   "desc": "SPRING WASHER - Belleville",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 28.2,
+   "y": 64.9,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 20.4,
+   "y": 69.2,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "14",
+   "x": 83.6,
+   "y": 73.4,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "15",
+   "x": 66.2,
+   "y": 29,
+   "partNo": "C28438",
+   "desc": "BAG",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 66.7,
+   "y": 25.8,
+   "partNo": "C28439",
+   "desc": "REINFORCEMENT - bag",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 69.4,
+   "y": 21,
+   "partNo": "C28440",
+   "desc": "TUBE - connector",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 77.3,
+   "y": 53.4,
+   "partNo": "C28492",
+   "desc": "CHUTE - extension, lower",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 84.6,
+   "y": 61.6,
+   "partNo": "C24514",
+   "desc": "PLATE - chute mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 91.2,
+   "y": 52.9,
+   "partNo": "C24492",
+   "desc": "PIN ASSEMBLY - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 86.5,
+   "y": 57,
+   "partNo": "111-202",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 62.4,
+   "y": 36.4,
+   "partNo": "C28448",
+   "desc": "CHUTE - extension, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 33,
+   "y": 93.5,
+   "partNo": "321-4447",
+   "desc": "DECAL - \"Spinning Blade\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 60.4,
+   "y": 93.1,
+   "partNo": "C31086",
+   "desc": "DECAL - \"Flying Debris\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 88.1,
+   "y": 93.2,
+   "partNo": "321-4446",
+   "desc": "DECAL - \"Flying Debris\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C30985",
+   "desc": "DECAL - \"INGERSOLL\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C30985 \"INGERSOLL\" decal.\nB93 Rear Stand Kit: C29061 mounting bracket L.H., C29059 mounting bracket R.H., 4x 113-102 bolt 5/16\" - 18 x 3/4\", 4x 131-176 nut 5/16\" - 18."
+}

@@ -1,0 +1,82 @@
+{
+ "sectionTitle": "Oil Drain and Fill",
+ "breadcrumb": "Oil Drain and Fill",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/oil_drain_fill.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 81.1,
+   "y": 13.6,
+   "partNo": "187-1037",
+   "desc": "SCREW - clamp mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 94.8,
+   "y": 47.6,
+   "partNo": "BR222502",
+   "desc": "CLAMP - oil filler tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 72,
+   "y": 15,
+   "partNo": "BR391840",
+   "desc": "DIPSTICK - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 90,
+   "y": 85.7,
+   "partNo": "BR68838",
+   "desc": "SEAL - filler tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 88.9,
+   "y": 65.3,
+   "partNo": "BR280133",
+   "desc": "TUBE - oil filler",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 69.1,
+   "y": 24.9,
+   "partNo": "BR270920",
+   "desc": "SEAL - filler cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 31.1,
+   "y": 48.5,
+   "partNo": "217-1016",
+   "desc": "ELBOW - 90° street",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 24.8,
+   "y": 40.6,
+   "partNo": "C33757",
+   "desc": "NIPPLE - pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 10.5,
+   "y": 61,
+   "partNo": "218-5154",
+   "desc": "PLUG - oil drain",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

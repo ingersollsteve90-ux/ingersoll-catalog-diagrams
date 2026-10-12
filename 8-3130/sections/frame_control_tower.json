@@ -1,0 +1,74 @@
+{
+ "sectionTitle": "Frame and Control Tower",
+ "breadcrumb": "Frame and Control Tower",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/frame_control_tower.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 38.4,
+   "y": 7.4,
+   "partNo": "C33592",
+   "desc": "FRAME - main",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 84.8,
+   "y": 25.6,
+   "partNo": "C33638",
+   "desc": "TOWER - control",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 75.2,
+   "y": 59.3,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 78.8,
+   "y": 10.2,
+   "partNo": "C33641",
+   "desc": "PLATE - crown",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 65.2,
+   "y": 8.9,
+   "partNo": "C33642",
+   "desc": "PANEL - tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 54.8,
+   "y": 22.8,
+   "partNo": "187-1334",
+   "desc": "SCREW - No. 8 - 18 x 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 95.5,
+   "y": 85.3,
+   "partNo": "C29146",
+   "desc": "TRIM - channel and seat support",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 48,
+   "y": 45.6,
+   "partNo": "C29147",
+   "desc": "TRIM - channel",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

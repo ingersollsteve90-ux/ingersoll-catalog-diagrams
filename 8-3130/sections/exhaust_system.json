@@ -1,0 +1,74 @@
+{
+ "sectionTitle": "Exhaust System",
+ "breadcrumb": "Exhaust System",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/exhaust_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 35.8,
+   "y": 85.9,
+   "partNo": "BR391313",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 34.1,
+   "y": 14.8,
+   "partNo": "BR221885",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 61.5,
+   "y": 25.1,
+   "partNo": "BR222263",
+   "desc": "LOCK - bolt",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 70.1,
+   "y": 41.7,
+   "partNo": "C27237",
+   "desc": "BOLT - muffler",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 87.8,
+   "y": 38.7,
+   "partNo": "C29258",
+   "desc": "DEFLECTOR - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 71.4,
+   "y": 83.2,
+   "partNo": "187-1041",
+   "desc": "SCREW - special",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 14.6,
+   "y": 71.9,
+   "partNo": "NSS",
+   "desc": "SCREW - (use 22-412 and 195-18)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 18.3,
+   "y": 18.8,
+   "partNo": "C24340",
+   "desc": "GASKET - exhaust",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

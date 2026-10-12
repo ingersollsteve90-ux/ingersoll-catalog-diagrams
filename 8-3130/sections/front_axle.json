@@ -1,0 +1,189 @@
+{
+ "sectionTitle": "Front Axle",
+ "breadcrumb": "Front Axle",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/front_axle.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 92.4,
+   "y": 12.1,
+   "partNo": "C33611",
+   "desc": "AXLE - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 66.1,
+   "y": 34.9,
+   "partNo": "C28646",
+   "desc": "BUSHING - axle pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 71.9,
+   "y": 38.4,
+   "partNo": "113-410",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 64.8,
+   "y": 11.6,
+   "partNo": "131-1182",
+   "desc": "NUT - lock 1/2\" - 13 hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 39,
+   "y": 31.4,
+   "partNo": "C25846",
+   "desc": "BUSHING - flange",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 43.5,
+   "y": 18.1,
+   "partNo": "C28226",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 18.4,
+   "y": 83.4,
+   "partNo": "C28226",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 46.8,
+   "y": 77.6,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C31332",
+     "desc": "SPINDLE - left hand",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C31333",
+     "desc": "SPINDLE - right hand (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 69.3,
+   "y": 55.1,
+   "partNo": "C26333",
+   "desc": "BALL JOINT - L.H. thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 21.6,
+   "y": 64.9,
+   "partNo": "C26332",
+   "desc": "BALL JOINT - R.H. thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 56.5,
+   "y": 64.2,
+   "partNo": "129-289",
+   "desc": "NUT - jam 3/8\" - 24 hex, L.H. thead",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 45.5,
+   "y": 70,
+   "partNo": "129-163",
+   "desc": "NUT - jam 3/8\" - 24 hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 25.3,
+   "y": 52.3,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 70.6,
+   "y": 44.5,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 69.1,
+   "y": 62.3,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 hex flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 37.7,
+   "y": 90.9,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 hex flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 52,
+   "y": 67.8,
+   "partNo": "C23964",
+   "desc": "TIE ROD",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 47.7,
+   "y": 8.8,
+   "partNo": "C28232",
+   "desc": "RING - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 82.4,
+   "y": 7.4,
+   "partNo": "219-17",
+   "desc": "FITTING - lubrication",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 76.5,
+   "y": 3.9,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 7.1,
+   "y": 92.1,
+   "partNo": "132-49",
+   "desc": "PIN - cotter 1/8\" x 1-1/8\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

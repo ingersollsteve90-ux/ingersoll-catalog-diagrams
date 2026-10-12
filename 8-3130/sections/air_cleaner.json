@@ -1,0 +1,72 @@
+{
+ "sectionTitle": "Air Cleaner",
+ "breadcrumb": "Air Cleaner",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/air_cleaner.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 87.4,
+   "y": 53.8,
+   "partNo": "BR270528",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 34,
+   "y": 26.9,
+   "partNo": "C26358",
+   "desc": "CUP - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 56.5,
+   "y": 33.8,
+   "partNo": "C29782",
+   "desc": "SCREEN - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 78.4,
+   "y": 70.6,
+   "partNo": "C29781",
+   "desc": "SPACER - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 12.9,
+   "y": 19.8,
+   "partNo": "BR93622",
+   "desc": "SCREW - air cleaner (long)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 72.4,
+   "y": 19,
+   "partNo": "BR93323",
+   "desc": "SCREW - air cleaner (short)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 31.2,
+   "y": 87.4,
+   "partNo": "BR270539",
+   "desc": "GASKET - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "BR390379",
+   "desc": "AIR CLEANER ASSEMBLY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: BR390379 air cleaner assembly (items 1-4)."
+}

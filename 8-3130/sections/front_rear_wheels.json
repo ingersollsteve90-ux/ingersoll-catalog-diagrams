@@ -1,0 +1,66 @@
+{
+ "sectionTitle": "Front and Rear Wheels",
+ "breadcrumb": "Front and Rear Wheels",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/front_rear_wheels.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 63.2,
+   "y": 50,
+   "partNo": "C30908",
+   "desc": "WHEEL - front assembly",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 55.9,
+   "y": 68.1,
+   "partNo": "C24503",
+   "desc": "BUSHING - wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 93.7,
+   "y": 67.4,
+   "partNo": "C24503",
+   "desc": "BUSHING - wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 75.4,
+   "y": 37.4,
+   "partNo": "219-10",
+   "desc": "FITTING - lube 1/4\" - 28 taper",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 46,
+   "y": 76,
+   "partNo": "C26526",
+   "desc": "CAP - hub, plastic",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 6.1,
+   "y": 31.4,
+   "partNo": "C26526",
+   "desc": "CAP - hub, plastic",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 11.7,
+   "y": 11.1,
+   "partNo": "C30910",
+   "desc": "WHEEL - rear",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Obtain tires at your local tire dealer."
+}

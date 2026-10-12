@@ -1,0 +1,42 @@
+{
+ "sectionTitle": "Engine Counterweight",
+ "breadcrumb": "Engine Counterweight",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/engine_counterweight.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 87.1,
+   "y": 21.6,
+   "partNo": "C29816",
+   "desc": "LINK - counterweight",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 23.3,
+   "y": 25.4,
+   "partNo": "C29817",
+   "desc": "COUNTERWEIGHT ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 15.7,
+   "y": 61.6,
+   "partNo": "C29818",
+   "desc": "PIN - counterweight",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 66.3,
+   "y": 73.9,
+   "partNo": "C29819",
+   "desc": "BOLT - counterweight",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

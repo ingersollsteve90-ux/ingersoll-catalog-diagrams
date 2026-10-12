@@ -1,0 +1,122 @@
+{
+ "sectionTitle": "Mower Height and Lift Control",
+ "breadcrumb": "Mower Height and Lift Control",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/mower_height_lift_control.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 7.5,
+   "y": 76,
+   "partNo": "C33677",
+   "desc": "ROD - push",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 8.5,
+   "y": 33,
+   "partNo": "C33676",
+   "desc": "SPACER - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 54.3,
+   "y": 27.3,
+   "partNo": "195-2063",
+   "desc": "WASHER",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 5.9,
+   "y": 52.3,
+   "partNo": "C15564",
+   "desc": "SPRING - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 21.2,
+   "y": 11.1,
+   "partNo": "C14525",
+   "desc": "BUTTON - push",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 65.5,
+   "y": 14.1,
+   "partNo": "131-938",
+   "desc": "NUT - lock 3/8\" - 16 hex flange",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 80.8,
+   "y": 45.8,
+   "partNo": "131-938",
+   "desc": "NUT - lock 3/8\" - 16 hex flange",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 38.5,
+   "y": 40.5,
+   "partNo": "C33636",
+   "desc": "SHAFT - lift pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 93.3,
+   "y": 16.2,
+   "partNo": "C24528",
+   "desc": "ARM - lift (L.H. side mounts in reverse)",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 73.4,
+   "y": 7.4,
+   "partNo": "138-2071",
+   "desc": "PIN - spirol",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 82.2,
+   "y": 38.6,
+   "partNo": "C24522",
+   "desc": "LINK - lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 66.5,
+   "y": 48.9,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 60,
+   "y": 51.1,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 80.2,
+   "y": 55.3,
+   "partNo": "C24314",
+   "desc": "BOLT - \"J\" link adjust",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

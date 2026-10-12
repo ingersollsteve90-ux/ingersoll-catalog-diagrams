@@ -1,0 +1,170 @@
+{
+ "sectionTitle": "Fuel Tank",
+ "breadcrumb": "Fuel Tank",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/fuel_tank.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.8,
+   "y": 14.9,
+   "partNo": "C34161",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 56.4,
+   "y": 8.1,
+   "partNo": "C34160",
+   "desc": "CAP - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 89.8,
+   "y": 14.6,
+   "partNo": "C34164",
+   "desc": "STRAP ASSEMBLY - fuel tank R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 6.2,
+   "y": 31.9,
+   "partNo": "C34165",
+   "desc": "STRAP ASSEMBLY - fuel tank L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 16.4,
+   "y": 55.8,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 93.1,
+   "y": 41.4,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 24.2,
+   "y": 61,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 86.5,
+   "y": 52.8,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 10,
+   "y": 50.2,
+   "partNo": "129-504",
+   "desc": "NUT - square 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 78.8,
+   "y": 47.7,
+   "partNo": "129-504",
+   "desc": "NUT - square 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 87,
+   "y": 63.3,
+   "partNo": "C34162",
+   "desc": "BRACKET - fuel tank R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 28.2,
+   "y": 65.4,
+   "partNo": "C34163",
+   "desc": "BRACKET - fuel tank L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 65.9,
+   "y": 65.1,
+   "partNo": "BR93535",
+   "desc": "BOLT",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 64.2,
+   "y": 72.6,
+   "partNo": "BR93804",
+   "desc": "BOLT",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 63.1,
+   "y": 90.9,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel (use C28937 cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 80.6,
+   "y": 92.3,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "13",
+   "x": 46.7,
+   "y": 91.9,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "14",
+   "x": 76,
+   "y": 72.6,
+   "partNo": "C34166",
+   "desc": "SHIELD - heat, fuel hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 32.1,
+   "y": 82.1,
+   "partNo": "C10678",
+   "desc": "CONNECTOR - hose 90°",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 49.8,
+   "y": 69.3,
+   "partNo": "C24689",
+   "desc": "CLIP - hose",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

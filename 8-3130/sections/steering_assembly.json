@@ -1,0 +1,106 @@
+{
+ "sectionTitle": "Steering Assembly",
+ "breadcrumb": "Steering Assembly",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/steering_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 8.6,
+   "y": 25.4,
+   "partNo": "C24100",
+   "desc": "WHEEL - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 25,
+   "y": 43,
+   "partNo": "138-143",
+   "desc": "PIN - steering wheel to shaft 1/4\" x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 62,
+   "y": 32.6,
+   "partNo": "C33741",
+   "desc": "WASHER - 5/8\" nylon",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 44.6,
+   "y": 56.3,
+   "partNo": "C33613",
+   "desc": "SHAFT - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 85.4,
+   "y": 76.7,
+   "partNo": "C27501",
+   "desc": "BUSHING - flange, bronze",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 47.6,
+   "y": 65.4,
+   "partNo": "C24179",
+   "desc": "GEAR - sector, steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 18.8,
+   "y": 86,
+   "partNo": "C24182",
+   "desc": "BUSHING - flange, bronze",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 39.2,
+   "y": 94.7,
+   "partNo": "C24200",
+   "desc": "PIN - pivot, sector gear (service part)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 27.1,
+   "y": 97.2,
+   "partNo": "132-49",
+   "desc": "PIN - cotter 1/8\" x 1-1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 83.9,
+   "y": 39.6,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 90.8,
+   "y": 30.3,
+   "partNo": "C23602",
+   "desc": "BEARING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 82.9,
+   "y": 21.8,
+   "partNo": "C33732",
+   "desc": "SCREW - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

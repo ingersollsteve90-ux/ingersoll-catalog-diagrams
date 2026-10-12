@@ -1,0 +1,141 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 51.2,
+   "y": 50.6,
+   "partNo": "C33701",
+   "desc": "DECAL - operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 12.4,
+   "y": 47.6,
+   "partNo": "C33585",
+   "desc": "DECAL - clutch/brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 35.4,
+   "y": 39,
+   "partNo": "C33581",
+   "desc": "DECAL - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 72.9,
+   "y": 39.6,
+   "partNo": "C33582",
+   "desc": "DECAL - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 87.8,
+   "y": 39.2,
+   "partNo": "C33586",
+   "desc": "DECAL - attachment drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 60.7,
+   "y": 88.2,
+   "partNo": "C33587",
+   "desc": "DECAL - mower height adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 11.6,
+   "y": 59.8,
+   "partNo": "C33583",
+   "desc": "DECAL - shift pattern",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 88.4,
+   "y": 60.9,
+   "partNo": "C33584",
+   "desc": "DECAL - travel control",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 55.2,
+   "y": 39.4,
+   "partNo": "C26936",
+   "desc": "DECAL - chain lubrication",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 17,
+   "y": 89.1,
+   "partNo": "C31087",
+   "desc": "DECAL - \"Danger\" spinning blade",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 13.1,
+   "y": 39.6,
+   "partNo": "C12519",
+   "desc": "DECAL - \"No Step\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 84.2,
+   "y": 86.7,
+   "partNo": "C31086",
+   "desc": "DECAL - \"Danger\" flying debris",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 51.5,
+   "y": 26.3,
+   "partNo": "C33822",
+   "desc": "DECAL - tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 28.4,
+   "y": 27.9,
+   "variants": [
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C33823",
+     "desc": "DECAL - side R.H. (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H.",
+     "partNo": "C33824",
+     "desc": "DECAL - side L.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 50.3,
+   "y": 2.3,
+   "partNo": "C30539",
+   "desc": "MEDALLION - logo",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

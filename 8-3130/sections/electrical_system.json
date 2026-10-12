@@ -1,0 +1,130 @@
+{
+ "sectionTitle": "Electrical System",
+ "breadcrumb": "Electrical System",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/electrical_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 59.7,
+   "y": 62.2,
+   "partNo": "C33692",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 18.7,
+   "y": 5.8,
+   "partNo": "C33694",
+   "desc": "CABLE - battery positive to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 23.3,
+   "y": 41,
+   "partNo": "C33744",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 28.4,
+   "y": 39.9,
+   "partNo": "C30937",
+   "desc": "CONNECTOR - switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 68.3,
+   "y": 78.5,
+   "partNo": "C30275",
+   "desc": "SWITCH - interlock",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 96,
+   "y": 71.9,
+   "partNo": "C30275",
+   "desc": "SWITCH - interlock",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 56.1,
+   "y": 29.2,
+   "partNo": "C30267",
+   "desc": "SWITCH - ignition (includes key and hardware)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 16,
+   "y": 44.7,
+   "partNo": "C33024",
+   "desc": "SOLENOID - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 58.3,
+   "y": 15.4,
+   "partNo": "C31213",
+   "desc": "BATTERY - 12 volt, 32 amp, 230 CCA",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 18.5,
+   "y": 75.1,
+   "partNo": "C27264",
+   "desc": "STARTER - 12 volt (repairs page 15)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 10.6,
+   "y": 56.8,
+   "partNo": "C33693",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 73.9,
+   "y": 26.2,
+   "partNo": "C24460",
+   "desc": "CONNECTOR - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 58,
+   "y": 75.2,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - interlock switch",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 86.6,
+   "y": 69.6,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - interlock switch",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 22.3,
+   "y": 22.2,
+   "partNo": "C33695",
+   "desc": "CABLE - battery negative",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

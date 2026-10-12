@@ -1,0 +1,294 @@
+{
+ "sectionTitle": "Carburetor",
+ "breadcrumb": "Carburetor",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/carburetor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 56.7,
+   "y": 22.5,
+   "partNo": "BR292681",
+   "desc": "VALVE - idle (includes spring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 68.7,
+   "y": 53.2,
+   "partNo": "BR93499",
+   "desc": "SCREW - throttle and choke valve mounting",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 21.2,
+   "y": 14.5,
+   "partNo": "BR93499",
+   "desc": "SCREW - throttle and choke valve mounting",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 34.8,
+   "y": 5.8,
+   "partNo": "182-87",
+   "desc": "SCREW - No. 8-32 x 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 28.7,
+   "y": 9.2,
+   "partNo": "BR26157",
+   "desc": "SPRING - throttle adjustment",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 41.1,
+   "y": 10.5,
+   "partNo": "138-251",
+   "desc": "PIN - throttle stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 28.7,
+   "y": 54.8,
+   "partNo": "BR230896",
+   "desc": "PIN - float hinge",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 16.7,
+   "y": 17.4,
+   "partNo": "BR222010",
+   "desc": "VALVE - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 54.2,
+   "y": 85.6,
+   "partNo": "C29779",
+   "desc": "VALVE - needle",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 20.1,
+   "y": 41.8,
+   "partNo": "41-24",
+   "desc": "PLUG - welch",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 7.4,
+   "y": 36.2,
+   "partNo": "BR211682",
+   "desc": "VENTURI",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 51.4,
+   "y": 50.4,
+   "partNo": "BR221986",
+   "desc": "VALVE - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 77.2,
+   "y": 47.7,
+   "partNo": "C30453",
+   "desc": "SHAFT AND LEVER - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 27.5,
+   "y": 14.2,
+   "partNo": "BR211712",
+   "desc": "STOP - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 57.1,
+   "y": 55.7,
+   "partNo": "BR299707",
+   "desc": "FLOAT - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 20.1,
+   "y": 62.6,
+   "partNo": "C27254",
+   "desc": "VALVE - fuel inlet",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 57.6,
+   "y": 60.8,
+   "partNo": "BR221995",
+   "desc": "BOWL - float",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 47.9,
+   "y": 45.9,
+   "partNo": "BR270511",
+   "desc": "GASKET - float bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 54.4,
+   "y": 72.2,
+   "partNo": "BR222014",
+   "desc": "WASHER - float bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 17.9,
+   "y": 30.8,
+   "partNo": "BR390684",
+   "desc": "SHAFT AND LEVER - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 45.6,
+   "y": 6.4,
+   "partNo": "BR299740",
+   "desc": "NOZZLE - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 52.8,
+   "y": 66.9,
+   "partNo": "C29780",
+   "desc": "SCREW - nozzle",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 78.5,
+   "y": 85.6,
+   "partNo": "C27243",
+   "desc": "LINK - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 6.7,
+   "y": 19.4,
+   "partNo": "BR261116",
+   "desc": "SPRING - choke return",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 11.5,
+   "y": 28.8,
+   "partNo": "BR270382",
+   "desc": "WASHER - choke shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 16.7,
+   "y": 80.1,
+   "partNo": "BR222027",
+   "desc": "BRACKET - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 13.6,
+   "y": 90.5,
+   "partNo": "187-1510",
+   "desc": "SCREW - mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 36.4,
+   "y": 84.7,
+   "partNo": "187-1510",
+   "desc": "SCREW - mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 85.8,
+   "y": 36.6,
+   "partNo": "BR270824",
+   "desc": "GASKET - carburetor mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 80.6,
+   "y": 21.3,
+   "partNo": "BR93357",
+   "desc": "SCREW - mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 73,
+   "y": 43,
+   "partNo": "C30405",
+   "desc": "SEAL - throttle shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 72.7,
+   "y": 72.2,
+   "partNo": "C27267",
+   "desc": "VALVE - fuel shut off",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 89.5,
+   "y": 76.5,
+   "partNo": "C27266",
+   "desc": "HANDLE - fuel shut off",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 85.7,
+   "y": 59.9,
+   "partNo": "C30427",
+   "desc": "CONNECTOR fuel pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C33323",
+   "desc": "CARBURETOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C27255",
+   "desc": "KIT - carburetor overhaul (includes 1, 6, 8, 9, 15, 17, 18, 20, and 21)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C33323 carburetor (complete); C27255 carburetor overhaul kit (includes items 1, 6, 8, 9, 15, 17, 18, 20 and 21)."
+}

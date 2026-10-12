@@ -1,0 +1,514 @@
+{
+ "sectionTitle": "Transmission (C33655, Peerless 700-047)",
+ "breadcrumb": "Transmission (C33655, Peerless 700-047)",
+ "catalogLabel": "Catalog 8-3130",
+ "modelNumbers": "Catalog 8-3130 — Ingersoll 808 Riding Lawnmower and BG30 Grass Bagger",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3130/transmission.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 66.2,
+   "y": 67.2,
+   "partNo": "C34137",
+   "desc": "CASE - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 41.5,
+   "y": 7.8,
+   "partNo": "C34138",
+   "desc": "COVER - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 69.3,
+   "y": 38.3,
+   "partNo": "C34139",
+   "desc": "SHAFT - output & brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 14.7,
+   "y": 29.4,
+   "partNo": "C34140",
+   "desc": "GEAR - spur (19 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 22.5,
+   "y": 32.7,
+   "partNo": "C27555",
+   "desc": "GEAR - spur (22 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 41.4,
+   "y": 25.4,
+   "partNo": "C28657",
+   "desc": "GEAR - spur (25 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 50.7,
+   "y": 28.7,
+   "partNo": "C28658",
+   "desc": "GEAR - spur (30 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 58.8,
+   "y": 32.7,
+   "partNo": "C27557",
+   "desc": "GEAR - spur (37 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 82.4,
+   "y": 44.9,
+   "partNo": "C28659",
+   "desc": "COLLAR - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 86.5,
+   "y": 47.3,
+   "partNo": "C28665",
+   "desc": "SPROCKET (18 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 60.4,
+   "y": 54.9,
+   "partNo": "C28655",
+   "desc": "SPROCKET (9 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 48.2,
+   "y": 49.6,
+   "partNo": "C34141",
+   "desc": "SHAFT - counter",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 27.9,
+   "y": 60.5,
+   "partNo": "C27558",
+   "desc": "GEAR - bevel (42 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13A",
+   "x": 24.3,
+   "y": 58,
+   "partNo": "C27554",
+   "desc": "GEAR - spur (12 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 19.2,
+   "y": 56.2,
+   "partNo": "C28660",
+   "desc": "GEAR - spur (20 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 17.6,
+   "y": 51.9,
+   "partNo": "C28661",
+   "desc": "GEAR - spur (25 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 11.6,
+   "y": 50.5,
+   "partNo": "C27556",
+   "desc": "GEAR - spur (28 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 7.8,
+   "y": 49,
+   "partNo": "C34142",
+   "desc": "GEAR - spur (31 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 35,
+   "y": 89.4,
+   "partNo": "C28651",
+   "desc": "SHAFT - input",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 34.7,
+   "y": 61.4,
+   "partNo": "C28652",
+   "desc": "BEVEL PINION - input",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 14.7,
+   "y": 13.5,
+   "partNo": "C34143",
+   "desc": "SPROCKET (8 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 95.6,
+   "y": 51.6,
+   "partNo": "C27563",
+   "desc": "DISK, brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 84.2,
+   "y": 76.9,
+   "partNo": "C19356",
+   "desc": "LEVER - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 76.2,
+   "y": 73.5,
+   "partNo": "C34144",
+   "desc": "HOLDER - brake pad",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 68.7,
+   "y": 69.8,
+   "partNo": "C19353",
+   "desc": "PAD, brake",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 71.8,
+   "y": 72.1,
+   "partNo": "C19354",
+   "desc": "PLATE, brake pad",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 71.8,
+   "y": 88.7,
+   "partNo": "C28650",
+   "desc": "PIN, dowel",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 66.3,
+   "y": 58.5,
+   "partNo": "C28653",
+   "desc": "BUSHING - flanged",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 18.2,
+   "y": 15.3,
+   "partNo": "C28653",
+   "desc": "BUSHING - flanged",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 7.7,
+   "y": 32.5,
+   "partNo": "C28653",
+   "desc": "BUSHING - flanged",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 92.6,
+   "y": 50.2,
+   "partNo": "C28653",
+   "desc": "BUSHING - flanged",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 81.6,
+   "y": 61.7,
+   "partNo": "C28668",
+   "desc": "CHAIN, roller (no. 41 chain, 24 links)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 63.3,
+   "y": 56.5,
+   "partNo": "C19345",
+   "desc": "RACE, thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "29",
+   "x": 89.6,
+   "y": 48.2,
+   "partNo": "C19345",
+   "desc": "RACE, thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "29",
+   "x": 11.1,
+   "y": 33.2,
+   "partNo": "C19345",
+   "desc": "RACE, thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "29",
+   "x": 35.9,
+   "y": 94.4,
+   "partNo": "C19345",
+   "desc": "RACE, thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "29",
+   "x": 34.8,
+   "y": 63.8,
+   "partNo": "C19345",
+   "desc": "RACE, thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "30",
+   "x": 35.2,
+   "y": 79.8,
+   "partNo": "C28649",
+   "desc": "BEARING - needle",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 12.2,
+   "y": 11.8,
+   "partNo": "C34145",
+   "desc": "RING, retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 35.9,
+   "y": 96.6,
+   "partNo": "C19347",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 21.3,
+   "y": 16.8,
+   "partNo": "C28663",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 34.3,
+   "y": 58.5,
+   "partNo": "C19352",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 47.8,
+   "y": 46.2,
+   "partNo": "C34146",
+   "desc": "ROD & FORK ASSY. - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 92.3,
+   "y": 80.5,
+   "partNo": "C34147",
+   "desc": "SCREW - hex hd. taptite, 1/4\" - 20 x 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "36",
+   "x": 30.8,
+   "y": 14,
+   "partNo": "C34147",
+   "desc": "SCREW - hex hd. taptite, 1/4\" - 20 x 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "37",
+   "x": 66.6,
+   "y": 50.7,
+   "partNo": "C28666",
+   "desc": "KEY",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 75.3,
+   "y": 41.7,
+   "partNo": "C28666",
+   "desc": "KEY",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 94.5,
+   "y": 84.6,
+   "partNo": "C19358",
+   "desc": "NUT - lock 5/16\" - 24",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 87.6,
+   "y": 78.6,
+   "partNo": "C19357",
+   "desc": "WASHER - flat, 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 58,
+   "y": 9.6,
+   "partNo": "C28667",
+   "desc": "BALL, steel - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 61.6,
+   "y": 9.6,
+   "partNo": "C34148",
+   "desc": "SCREW - set, 3/8\" - 16 x 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 63.7,
+   "y": 16,
+   "partNo": "C28654",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 43.5,
+   "y": 27.4,
+   "partNo": "C28664",
+   "desc": "WASHER - thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "43",
+   "x": 53.5,
+   "y": 30.2,
+   "partNo": "C28664",
+   "desc": "WASHER - thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "43",
+   "x": 62.5,
+   "y": 34.5,
+   "partNo": "C28664",
+   "desc": "WASHER - thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "43",
+   "x": 20.2,
+   "y": 30.5,
+   "partNo": "C28664",
+   "desc": "WASHER - thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "43",
+   "x": 24.6,
+   "y": 34.5,
+   "partNo": "C28664",
+   "desc": "WASHER - thrust",
+   "reqd": "5"
+  },
+  {
+   "ref": "44",
+   "x": 35.8,
+   "y": 84.7,
+   "partNo": "C28648",
+   "desc": "RING - square cut",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 45.3,
+   "y": 2.9,
+   "partNo": "C34149",
+   "desc": "SEAL - square cut",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 89.3,
+   "y": 80,
+   "partNo": "C28821",
+   "desc": "BRACKET - brake lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 52,
+   "y": 4.9,
+   "partNo": "C27588",
+   "desc": "PLUG - threaded",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 53.1,
+   "y": 86.8,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" (mounting)",
+   "reqd": "4"
+  },
+  {
+   "ref": "49",
+   "x": 53.2,
+   "y": 82.5,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "C33655 transmission, Peerless model 700-047."
+}
