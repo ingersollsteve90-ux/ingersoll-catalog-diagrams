@@ -1,0 +1,173 @@
+{
+ "sectionTitle": "D100 Backhoe Buckets",
+ "breadcrumb": "D100 Backhoe Buckets",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_buckets.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.87,
+   "y": 22.83,
+   "variants": [
+    {
+     "serialNote": "12\" (305 mm) bucket",
+     "partNo": "H905158",
+     "desc": "BUCKET ASSEMBLY - 12\" (305 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "16\" (406 mm) bucket",
+     "partNo": "H905166",
+     "desc": "BUCKET ASSEMBLY - 16\" (406 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "20\" (508 mm) bucket",
+     "partNo": "H905174",
+     "desc": "BUCKET ASSEMBLY - 20\" (508 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "24\" (610 mm) bucket",
+     "partNo": "H905182",
+     "desc": "BUCKET ASSEMBLY - 24\" (610 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "36\" (914 mm) bucket",
+     "partNo": "H905190",
+     "desc": "BUCKET ASSEMBLY - 36\" (914 mm) machinery item",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 40.75,
+   "y": 3.8,
+   "partNo": "H050823",
+   "desc": "BUSHING - cylinder pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 22.46,
+   "y": 31.78,
+   "partNo": "H056184",
+   "desc": "BUSHING - bucket hinge",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 37.11,
+   "y": 62.42,
+   "partNo": "H036657",
+   "desc": "SHANK - tooth",
+   "reqd": "4/5/7"
+  },
+  {
+   "ref": "5",
+   "x": 26.17,
+   "y": 67.33,
+   "partNo": "T41166",
+   "desc": "POINT - tooth",
+   "reqd": "4/5/7"
+  },
+  {
+   "ref": "6",
+   "x": 68.36,
+   "y": 57.9,
+   "variants": [
+    {
+     "serialNote": "12\" (305 mm) bellhole bucket",
+     "partNo": "H905109",
+     "desc": "BUCKET ASSEMBLY - 12\" (305 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "18\" (457 mm) bellhole bucket",
+     "partNo": "H905117",
+     "desc": "BUCKET ASSEMBLY - 18\" (457 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "22\" (559 mm) bellhole bucket",
+     "partNo": "H905125",
+     "desc": "BUCKET ASSEMBLY - 22\" (559 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "36\" (914 mm) bellhole bucket",
+     "partNo": "H905133",
+     "desc": "BUCKET ASSEMBLY - 36\" (914 mm) machinery item",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 93.22,
+   "y": 46.91,
+   "partNo": "H050823",
+   "desc": "BUSHING - cylinder pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 73.93,
+   "y": 72.83,
+   "partNo": "H056184",
+   "desc": "BUSHING - cylinder hinge",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 41.03,
+   "y": 74.17,
+   "partNo": "H061283",
+   "desc": "SHANK - tooth",
+   "reqd": "4/5/7"
+  },
+  {
+   "ref": "10",
+   "x": 25.14,
+   "y": 80.05,
+   "partNo": "T41166",
+   "desc": "POINT - tooth",
+   "reqd": "4/5/7"
+  },
+  {
+   "ref": "11",
+   "x": 45.46,
+   "y": 81.39,
+   "variants": [
+    {
+     "serialNote": "12\" bellhole bucket",
+     "partNo": "H061424",
+     "desc": "BLADE - cutting",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "18\" bellhole bucket",
+     "partNo": "H061432",
+     "desc": "BLADE - cutting",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "22\" bellhole bucket",
+     "partNo": "H061440",
+     "desc": "BLADE - cutting",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "36\" bellhole bucket",
+     "partNo": "H061459",
+     "desc": "BLADE - cutting",
+     "reqd": "1"
+    }
+   ]
+  }
+ ],
+ "footnotes": ""
+}

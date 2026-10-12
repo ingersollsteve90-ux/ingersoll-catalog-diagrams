@@ -1,0 +1,234 @@
+{
+ "sectionTitle": "D130 Mounting Frame and Seat - 380 CK Loader Backhoe",
+ "breadcrumb": "D130 Mounting Frame and Seat - 380 CK Loader Backhoe",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_mounting_frame_380ck.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 83.59,
+   "y": 69.85,
+   "partNo": "D81310",
+   "desc": "FRAME - backhoe mounting, see the \"D130 Main Frame, Stabilizer and Mast - 380 CK\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64.15,
+   "y": 15.1,
+   "partNo": "D76067",
+   "desc": "FRAME - backhoe seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 67.2,
+   "y": 5.38,
+   "partNo": "T40366",
+   "desc": "SEAT - backhoe, see the \"Backhoe Seat\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 37.07,
+   "y": 31.37,
+   "partNo": "T42308",
+   "desc": "PIN",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 33.82,
+   "y": 28.0,
+   "partNo": "A30338",
+   "desc": "PIN - lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 13.46,
+   "y": 76.2,
+   "partNo": "D75984",
+   "desc": "ARM - backhoe mount, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 72.6,
+   "y": 86.02,
+   "partNo": "D75985",
+   "desc": "ARM - backhoe mount, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 45.42,
+   "y": 94.11,
+   "partNo": "192-25",
+   "desc": "WASHER - flat, 5/8\", plated",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 49.49,
+   "y": 95.95,
+   "partNo": "113-620",
+   "desc": "HHCS - 5/8\" - 11 NC x 2-1/4\", plated",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 19.06,
+   "y": 50.92,
+   "partNo": "D76007",
+   "desc": "BRACKET - LH, arm mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 21.81,
+   "y": 50.92,
+   "partNo": "D76008",
+   "desc": "BRACKET - RH arm mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 29.64,
+   "y": 59.31,
+   "partNo": "113-427",
+   "desc": "HHCS - 1/2\" - 13 NC x 3-1/4\", plated",
+   "reqd": "12"
+  },
+  {
+   "ref": "13",
+   "x": 25.47,
+   "y": 57.78,
+   "partNo": "192-23",
+   "desc": "WASHER - lock, 1/2\", plated",
+   "reqd": "12"
+  },
+  {
+   "ref": "14",
+   "x": 10.41,
+   "y": 56.65,
+   "partNo": "113-925",
+   "desc": "HHCS - 1\" - 8 NC x 3\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 4.91,
+   "y": 69.55,
+   "partNo": "113-926",
+   "desc": "HHCS - 1\" - 8 NC x 4\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 55.4,
+   "y": 64.12,
+   "partNo": "113-907",
+   "desc": "HHCS - 1\" - 8 NC x 3-1/4\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 47.15,
+   "y": 74.56,
+   "partNo": "129-100",
+   "desc": "NUT - hex, self lock, 1\" - 8 NC, plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 37.07,
+   "y": 83.16,
+   "partNo": "129-100",
+   "desc": "NUT - hex, self lock, 1\" - 8 NC, plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 33.51,
+   "y": 60.95,
+   "partNo": "129-100",
+   "desc": "NUT - hex, self lock, 1\" - 8 NC, plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 28.73,
+   "y": 40.89,
+   "partNo": "129-100",
+   "desc": "NUT - hex, self lock, 1\" - 8 NC, plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "19",
+   "x": 25.57,
+   "y": 47.34,
+   "partNo": "D76554",
+   "desc": "LINK - RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 28.63,
+   "y": 47.13,
+   "partNo": "D76555",
+   "desc": "LINK - LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 36.57,
+   "y": 54.09,
+   "partNo": "D75978",
+   "desc": "ROD - tension",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 43.18,
+   "y": 50.41,
+   "partNo": "129-110",
+   "desc": "NUT - hex, 1\" - 8 NC, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 41.66,
+   "y": 46.93,
+   "partNo": "D37732",
+   "desc": "WASHER - hardened",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 30.46,
+   "y": 42.43,
+   "partNo": "D37732",
+   "desc": "WASHER - hardened",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 85.12,
+   "y": 5.07,
+   "partNo": "321-3997",
+   "desc": "DECAL - warning, do not enter or exit",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 64.05,
+   "y": 45.29,
+   "partNo": "D43403",
+   "desc": "TRIM - rubber",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,213 @@
+{
+ "sectionTitle": "D130 H583070 Swing Cylinder",
+ "breadcrumb": "D130 H583070 Swing Cylinder",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_h583070_swing_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 29.18,
+   "y": 21.59,
+   "partNo": "H120345",
+   "desc": "TUBE - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 9.14,
+   "y": 67.93,
+   "variants": [
+    {
+     "serialNote": "uses 138-127 roll pin",
+     "partNo": "H120337",
+     "desc": "PLUG - hex head, uses 138-127 roll pin",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "uses tube and ring",
+     "partNo": "H374157",
+     "desc": "PLUG - hex head, uses tube and ring",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2A",
+   "x": 8.93,
+   "y": 89.72,
+   "partNo": "H363903",
+   "desc": "TUBE",
+   "reqd": "1"
+  },
+  {
+   "ref": "2B",
+   "x": 13.02,
+   "y": 84.4,
+   "partNo": "H758011",
+   "desc": "RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 4.73,
+   "y": 72.33,
+   "partNo": "138-127",
+   "desc": "PIN - roll, 1/4\" x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 12.29,
+   "y": 64.76,
+   "partNo": "H120329",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 15.12,
+   "y": 62.61,
+   "partNo": "211-311",
+   "desc": "BALL - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 16.27,
+   "y": 72.33,
+   "partNo": "131-1141",
+   "desc": "NUT - hex self lock, 1-1/8\" - 12 NF, plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 24.46,
+   "y": 62.81,
+   "partNo": "H252825",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 45.23,
+   "y": 51.15,
+   "partNo": "H756049",
+   "desc": "O-RING - piston, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 33.48,
+   "y": 56.16,
+   "partNo": "H252833",
+   "desc": "RING - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 36.63,
+   "y": 53.3,
+   "partNo": "G10389",
+   "desc": "O-RING - piston, large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 39.14,
+   "y": 50.64,
+   "partNo": "H120188",
+   "desc": "RING - backup, piston *",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 47.43,
+   "y": 44.5,
+   "partNo": "A27996",
+   "desc": "O-RING - gland, large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 49.84,
+   "y": 42.97,
+   "partNo": "H745760",
+   "desc": "RING - backup, large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 67.05,
+   "y": 29.97,
+   "partNo": "A30916",
+   "desc": "O-RING - gland, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 69.78,
+   "y": 27.72,
+   "partNo": "T31052",
+   "desc": "RING - backup, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 72.93,
+   "y": 25.57,
+   "partNo": "A41785",
+   "desc": "WIPER - rod *",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 75.97,
+   "y": 19.64,
+   "partNo": "H052761",
+   "desc": "RING - retaining, gland *",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 81.95,
+   "y": 11.66,
+   "partNo": "H745794",
+   "desc": "NUT - ring style, gland retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 60.55,
+   "y": 33.86,
+   "partNo": "H120360",
+   "desc": "GLAND - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 74.92,
+   "y": 77.95,
+   "partNo": "H120352",
+   "desc": "ROD - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 91.81,
+   "y": 64.14,
+   "partNo": "219-1",
+   "desc": "GREASE FITTING - straight, 1/8\" NPT",
+   "reqd": "3"
+  },
+  {
+   "ref": "21",
+   "x": 39.14,
+   "y": 7.57,
+   "partNo": "219-1",
+   "desc": "GREASE FITTING - straight, 1/8\" NPT",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: H586263.\nAlso listed, not shown on diagram: H583070 CYLINDER - swing, 12-1/4\" (311 mm) stroke x 3\" (76 mm) dia (2)."
+}

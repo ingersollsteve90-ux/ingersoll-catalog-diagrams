@@ -1,0 +1,442 @@
+{
+ "sectionTitle": "D100 Hydraulic Lines - Boom, Dipper and Bucket (S/N P1520301 and After)",
+ "breadcrumb": "D100 Hydraulic Lines - Boom, Dipper and Bucket (S/N P1520301 and After)",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_lines_boom_dipper_bucket_after_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 10.25,
+   "y": 56.42,
+   "partNo": "",
+   "desc": "VALVE - control, see the D100 control valve sections",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 13.43,
+   "y": 54.95,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 18.48,
+   "y": 61.25,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 21.88,
+   "y": 67.54,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 24.3,
+   "y": 42.69,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 30.44,
+   "y": 10.39,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 58.66,
+   "y": 30.21,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 89.06,
+   "y": 29.68,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 95.54,
+   "y": 30.1,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 35.38,
+   "y": 34.72,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 42.19,
+   "y": 38.39,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "2",
+   "x": 84.45,
+   "y": 85.05,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "12"
+  },
+  {
+   "ref": "3",
+   "x": 37.91,
+   "y": 44.05,
+   "partNo": "H268516",
+   "desc": "HOSE - lower valve port to dipper cylinder, 56\" (1422 mm) long, if used",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 31.87,
+   "y": 55.69,
+   "partNo": "H268516",
+   "desc": "HOSE - lower valve port to dipper cylinder, 56\" (1422 mm) long, if used",
+   "reqd": "1"
+  },
+  {
+   "ref": "3A",
+   "x": 26.82,
+   "y": 13.12,
+   "partNo": "H357855",
+   "desc": "HOSE - lower valve port to dipper cylinder, 75\" (1905 mm) long, if used",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 28.58,
+   "y": 55.9,
+   "partNo": "H268524",
+   "desc": "HOSE - upper valve port to dipper cylinder, 58\" (1473 mm) long",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 30.22,
+   "y": 39.86,
+   "partNo": "H268524",
+   "desc": "HOSE - upper valve port to dipper cylinder, 58\" (1473 mm) long",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 21.44,
+   "y": 52.23,
+   "partNo": "H268557",
+   "desc": "HOSE - upper valve ports, 38\" (965 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 36.15,
+   "y": 60.62,
+   "partNo": "H268557",
+   "desc": "HOSE - upper valve ports, 38\" (965 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 24.96,
+   "y": 53.91,
+   "partNo": "H268540",
+   "desc": "HOSE - lower valve ports 35\" (889 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 35.93,
+   "y": 62.61,
+   "partNo": "H268540",
+   "desc": "HOSE - lower valve ports 35\" (889 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 36.15,
+   "y": 68.48,
+   "partNo": "H052548",
+   "desc": "SPRING - hose retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 20.56,
+   "y": 76.55,
+   "partNo": "H052548",
+   "desc": "SPRING - hose retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 21.88,
+   "y": 73.51,
+   "partNo": "H052571",
+   "desc": "CLAMP - spring retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 22.21,
+   "y": 75.09,
+   "partNo": "113-3",
+   "desc": "HHCS - 1/4\" - 20 NC x 3/4\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 64.04,
+   "y": 67.75,
+   "partNo": "113-3",
+   "desc": "HHCS - 1/4\" - 20 NC x 3/4\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 62.06,
+   "y": 66.38,
+   "partNo": "H051763",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 43.07,
+   "y": 59.15,
+   "partNo": "H051763",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 50.2,
+   "y": 60.93,
+   "partNo": "192-19",
+   "desc": "WASHER - lock, 1/4\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 46.36,
+   "y": 64.18,
+   "partNo": "129-101",
+   "desc": "NUT - hex, 1/4\" - 20 NC, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 60.3,
+   "y": 70.68,
+   "partNo": "113-121",
+   "desc": "HHCS - 5/16\" - 18 NC x 2\", plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 63.05,
+   "y": 72.05,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 65.79,
+   "y": 73.51,
+   "partNo": "H052589",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 75.89,
+   "y": 78.76,
+   "partNo": "H051748",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 85.22,
+   "y": 17.94,
+   "partNo": "H593392",
+   "desc": "TUBE - at boom cylinder",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 87.53,
+   "y": 17.52,
+   "partNo": "H593384",
+   "desc": "TUBE - to bucket cylinder, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 84.67,
+   "y": 16.05,
+   "partNo": "H593376",
+   "desc": "TUBE - to bucket cylinder, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 73.04,
+   "y": 19.2,
+   "partNo": "113-121",
+   "desc": "HHCS - 5/16\" - 18 NC x 2\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 76.11,
+   "y": 20.04,
+   "partNo": "129-101",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 88.19,
+   "y": 27.17,
+   "partNo": "H051755",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 65.57,
+   "y": 26.33,
+   "partNo": "H244921",
+   "desc": "HOSE - at boom cylinder, 15\" (381 mm) long",
+   "reqd": "1-2"
+  },
+  {
+   "ref": "23A",
+   "x": 32.2,
+   "y": 37.44,
+   "partNo": "H268540",
+   "desc": "HOSE - at boom cylinder, 35\" (889 mm) long, if used",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 92.69,
+   "y": 10.81,
+   "partNo": "H268565",
+   "desc": "HOSE - at bucket cylinder, 42\" (1067 mm) long",
+   "reqd": "1-2"
+  },
+  {
+   "ref": "24A",
+   "x": 84.01,
+   "y": 80.64,
+   "partNo": "H357863",
+   "desc": "HOSE - at bucket cylinder, 61\" (1549 mm) long, if used",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 75.67,
+   "y": 3.89,
+   "partNo": "113-4",
+   "desc": "HHCS - 1/4\" - 20 NC x 1\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 77.98,
+   "y": 5.15,
+   "partNo": "192-19",
+   "desc": "WASHER - lock, 1/4\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 79.95,
+   "y": 6.3,
+   "partNo": "H276758",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 91.92,
+   "y": 13.12,
+   "partNo": "H276758",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 85.0,
+   "y": 42.27,
+   "partNo": "",
+   "desc": "CYLINDER - boom, dipper and buckets, see the D100 boom, dipper arm and bucket cylinder sections",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 19.58,
+   "y": 32.73,
+   "partNo": "",
+   "desc": "CYLINDER - boom, dipper and buckets, see the D100 boom, dipper arm and bucket cylinder sections",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 23.2,
+   "y": 16.58,
+   "partNo": "",
+   "desc": "CYLINDER - boom, dipper and buckets, see the D100 boom, dipper arm and bucket cylinder sections",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 48.56,
+   "y": 23.81,
+   "partNo": "",
+   "desc": "CYLINDER - boom, dipper and buckets, see the D100 boom, dipper arm and bucket cylinder sections",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 42.41,
+   "y": 40.8,
+   "partNo": "",
+   "desc": "CYLINDER - boom, dipper and buckets, see the D100 boom, dipper arm and bucket cylinder sections",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 84.01,
+   "y": 74.14,
+   "partNo": "",
+   "desc": "CYLINDER - boom, dipper and buckets, see the D100 boom, dipper arm and bucket cylinder sections",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": ""
+}

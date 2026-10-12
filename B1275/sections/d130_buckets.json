@@ -1,0 +1,114 @@
+{
+ "sectionTitle": "D130 Backhoe Buckets",
+ "breadcrumb": "D130 Backhoe Buckets",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_buckets.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 61.53,
+   "y": 20.43,
+   "variants": [
+    {
+     "serialNote": "16\" (406 mm) bucket",
+     "partNo": "H909036",
+     "desc": "BUCKET - 16\" (406 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "20\" (508 mm) bucket",
+     "partNo": "H909044",
+     "desc": "BUCKET - 20\" (508 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "24\" (610 mm) bucket",
+     "partNo": "H909051",
+     "desc": "BUCKET - 24\" (610 mm) machinery item",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 25.19,
+   "y": 30.15,
+   "partNo": "H036640",
+   "desc": "BUSHING - step",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 44.44,
+   "y": 66.16,
+   "partNo": "H059055",
+   "desc": "SHANK - tooth",
+   "reqd": "4/5"
+  },
+  {
+   "ref": "4",
+   "x": 33.32,
+   "y": 71.28,
+   "partNo": "T41166",
+   "desc": "POINT - tooth",
+   "reqd": "4/5"
+  },
+  {
+   "ref": "5",
+   "x": 59.47,
+   "y": 66.06,
+   "variants": [
+    {
+     "serialNote": "12\" (305 mm) bellhole bucket",
+     "partNo": "H909077",
+     "desc": "BUCKET - 12\" (305 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "18\" (457 mm) bellhole bucket",
+     "partNo": "H909085",
+     "desc": "BUCKET - 18\" (457 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "22\" (559 mm) bellhole bucket",
+     "partNo": "H909093",
+     "desc": "BUCKET - 22\" (559 mm) machinery item",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "36\" (914 mm) bellhole bucket",
+     "partNo": "H909101",
+     "desc": "BUCKET - 36\" (914 mm) machinery item",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 68.74,
+   "y": 72.1,
+   "partNo": "H036640",
+   "desc": "BUSHING - step",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 36.93,
+   "y": 75.37,
+   "partNo": "H061283",
+   "desc": "SHANK - tooth",
+   "reqd": "4/5/7"
+  },
+  {
+   "ref": "8",
+   "x": 26.63,
+   "y": 80.18,
+   "partNo": "T41166",
+   "desc": "POINT - tooth",
+   "reqd": "4/5/7"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,114 @@
+{
+ "sectionTitle": "D100 Mounting Frame and Seat - Model 1830 Uni-Loader",
+ "breadcrumb": "D100 Mounting Frame and Seat - Model 1830 Uni-Loader",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_mounting_frame_1830.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 49.47,
+   "y": 51.02,
+   "partNo": "D63919",
+   "desc": "FRAME - backhoe mounting, see the \"D100 Main Frame, Stabilizer and King Post\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6.47,
+   "y": 63.81,
+   "partNo": "T40685",
+   "desc": "PIN - frame attaching",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 9.96,
+   "y": 49.59,
+   "partNo": "T40222",
+   "desc": "PIN - hair, cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 12.56,
+   "y": 52.87,
+   "partNo": "132-159",
+   "desc": "PIN - cotter, 1/4\" x 3\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 38.18,
+   "y": 91.14,
+   "partNo": "D60674",
+   "desc": "MOUNT - backhoe, hook",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 39.65,
+   "y": 86.12,
+   "partNo": "113-410",
+   "desc": "HHCS - 1/2\" - 13 NC x 1-1/2\", plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 28.7,
+   "y": 91.96,
+   "partNo": "92-8",
+   "desc": "WASHER - lock, 1/2\", plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 24.64,
+   "y": 92.88,
+   "partNo": "129-105",
+   "desc": "NUT - hex, 1/2\" - 13 NC, plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 40.89,
+   "y": 29.02,
+   "partNo": "D63445",
+   "desc": "POST - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 39.2,
+   "y": 11.01,
+   "partNo": "D56576",
+   "desc": "SEAT - operators, see the \"Backhoe Seat\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 70.23,
+   "y": 28.82,
+   "partNo": "D63533",
+   "desc": "SAFETY STOP - for loader lift cylinders",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 90.55,
+   "y": 34.96,
+   "partNo": "D63534",
+   "desc": "PIN - stop retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 95.06,
+   "y": 28.31,
+   "partNo": "136-159",
+   "desc": "PIN - hair, cotter",
+   "reqd": "8"
+  }
+ ],
+ "footnotes": ""
+}

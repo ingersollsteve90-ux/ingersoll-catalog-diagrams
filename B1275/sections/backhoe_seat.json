@@ -1,0 +1,221 @@
+{
+ "sectionTitle": "Backhoe Seat (D100 and D130)",
+ "breadcrumb": "Backhoe Seat (D100 and D130)",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/backhoe_seat.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 9.81,
+   "y": 70.3,
+   "partNo": "NSS",
+   "desc": "SHELL - T40366 seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 12.99,
+   "y": 22.64,
+   "partNo": "D53696",
+   "desc": "CUSHION - back, T40366 seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 30.26,
+   "y": 36.99,
+   "partNo": "D53697",
+   "desc": "CUSHION - bottom, T40366 seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29.54,
+   "y": 74.71,
+   "partNo": "193-545",
+   "desc": "SCREW - with internal tooth lockwasher, 1/4\" - 20 NC x 3/4\" plated",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 29.65,
+   "y": 79.33,
+   "variants": [
+    {
+     "serialNote": "1/2\" (13 mm) spring, if used",
+     "partNo": "D53344",
+     "desc": "SPRING - adjuster return 1/2\" (13 mm) long, if used",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "1-11/16\" (43 mm) spring, if used",
+     "partNo": "D55954",
+     "desc": "SPRING - adjuster return, 1-11/16\" (43 mm) long, if used",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 11.96,
+   "y": 95.38,
+   "partNo": "D53585",
+   "desc": "SLIDE - seat, adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 14.64,
+   "y": 83.85,
+   "partNo": "D53586",
+   "desc": "SLIDE - seat, non-adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 35.09,
+   "y": 91.97,
+   "partNo": "114-101",
+   "desc": "HHCS - 5/16\" - 24 NF x 7/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 35.71,
+   "y": 58.46,
+   "partNo": "95-5",
+   "desc": "WASHER - flat, 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 35.71,
+   "y": 55.85,
+   "partNo": "131-31",
+   "desc": "NUT - hex self lock, 5/16\" - 24 NF",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 22.24,
+   "y": 95.28,
+   "partNo": "25-115",
+   "desc": "NUT - hex, 5/16\" - 24 NF, if used",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 24.92,
+   "y": 95.89,
+   "partNo": "25-105",
+   "desc": "NUT - hex, 5/16\" - 18 NC, if used",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 22.86,
+   "y": 92.98,
+   "partNo": "92-5",
+   "desc": "WASHER - lock, 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 62.44,
+   "y": 69.8,
+   "partNo": "NSS",
+   "desc": "SHELL - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 51.85,
+   "y": 4.47,
+   "partNo": "D53583",
+   "desc": "CUSHION - back",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 88.65,
+   "y": 27.25,
+   "partNo": "D53584",
+   "desc": "CUSHION - bottom",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 48.97,
+   "y": 51.33,
+   "partNo": "193-545",
+   "desc": "SCREW - with internal lockwasher, 1/4\" - 20 NC x 3/4\", plated",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 88.96,
+   "y": 79.43,
+   "partNo": "D55954",
+   "desc": "SPRING - return, adjuster",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 71.28,
+   "y": 94.98,
+   "partNo": "D53585",
+   "desc": "SLIDE - seat, adjuster",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 59.15,
+   "y": 87.26,
+   "partNo": "D53586",
+   "desc": "SLIDE - seat, non-adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 94.41,
+   "y": 91.77,
+   "partNo": "114-101",
+   "desc": "HHCS - 5/16\" - 24 NF x 7/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 94.51,
+   "y": 57.56,
+   "partNo": "95-5",
+   "desc": "WASHER - flat, 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 94.82,
+   "y": 55.45,
+   "partNo": "131-31",
+   "desc": "NUT - hex, self lock, 5/16\" - 24 NF",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 81.97,
+   "y": 95.79,
+   "partNo": "92-5",
+   "desc": "WASHER - lock, 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 81.97,
+   "y": 93.08,
+   "partNo": "25-115",
+   "desc": "NUT - hex, 5/16\" - 24 NF",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: T40366 SEAT ASSEMBLY - complete, backhoe operator's (1); D56576 SEAT ASSEMBLY (1)."
+}

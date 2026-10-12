@@ -1,0 +1,514 @@
+{
+ "sectionTitle": "D100 Hydraulic Lines - Swing, Stabilizer and Controls (S/N P1520301 and After)",
+ "breadcrumb": "D100 Hydraulic Lines - Swing, Stabilizer and Controls (S/N P1520301 and After)",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_lines_swing_stabilizer_after_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 60.0,
+   "y": 66.43,
+   "partNo": "",
+   "desc": "VALVE - control, see the D100 control valve sections",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 33.22,
+   "y": 80.84,
+   "partNo": "H514588",
+   "desc": "PLATE - valve mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 20.21,
+   "y": 80.94,
+   "partNo": "113-335",
+   "desc": "HHCS - 7/16\" - 14 NC x 3/4\", plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 21.83,
+   "y": 79.9,
+   "partNo": "192-22",
+   "desc": "WASHER - lock, 7/16\", plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 23.87,
+   "y": 79.06,
+   "partNo": "195-529",
+   "desc": "WASHER - flat, 7/16\", plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 18.71,
+   "y": 71.44,
+   "partNo": "113-208",
+   "desc": "HHCS - 3/8\" - 16 NC x 1-1/4\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 18.49,
+   "y": 73.53,
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 19.35,
+   "y": 75.62,
+   "partNo": "95-525",
+   "desc": "WASHER - flat, 3/8\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 9.57,
+   "y": 55.05,
+   "partNo": "138-98",
+   "desc": "PIN - roll, 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 4.41,
+   "y": 50.56,
+   "partNo": "",
+   "desc": "WASHER - flat",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 41.93,
+   "y": 71.02,
+   "partNo": "",
+   "desc": "WASHER - flat",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 6.77,
+   "y": 52.02,
+   "partNo": "H050716",
+   "desc": "SPACER - lever",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 39.46,
+   "y": 69.77,
+   "partNo": "H050716",
+   "desc": "SPACER - lever",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 15.16,
+   "y": 48.15,
+   "partNo": "H191908",
+   "desc": "SPACER - lever",
+   "reqd": "5"
+  },
+  {
+   "ref": "12",
+   "x": 19.89,
+   "y": 50.56,
+   "partNo": "H191908",
+   "desc": "SPACER - lever",
+   "reqd": "5"
+  },
+  {
+   "ref": "12",
+   "x": 25.16,
+   "y": 53.79,
+   "partNo": "H191908",
+   "desc": "SPACER - lever",
+   "reqd": "5"
+  },
+  {
+   "ref": "12",
+   "x": 30.0,
+   "y": 56.19,
+   "partNo": "H191908",
+   "desc": "SPACER - lever",
+   "reqd": "5"
+  },
+  {
+   "ref": "12",
+   "x": 33.12,
+   "y": 66.01,
+   "partNo": "H191908",
+   "desc": "SPACER - lever",
+   "reqd": "5"
+  },
+  {
+   "ref": "13",
+   "x": 36.56,
+   "y": 75.93,
+   "partNo": "H050914",
+   "desc": "SHAFT - lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 18.17,
+   "y": 59.01,
+   "partNo": "H169318",
+   "desc": "PIN - clevis, 1/4\" x 51/64\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 19.03,
+   "y": 62.77,
+   "partNo": "H035279",
+   "desc": "PIN - clevis, 3/16\" x 57/64\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "18",
+   "x": 17.96,
+   "y": 61.0,
+   "partNo": "132-5",
+   "desc": "PIN - cotter, 1/16\" x 1/2\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "19",
+   "x": 28.71,
+   "y": 61.83,
+   "partNo": "H219006",
+   "desc": "LINKS - lever",
+   "reqd": "12"
+  },
+  {
+   "ref": "20",
+   "x": 7.74,
+   "y": 37.5,
+   "partNo": "187-1069",
+   "desc": "SCREW - self-tapping, 5/16\" - 18 NC x 3/4\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 9.57,
+   "y": 36.35,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 9.25,
+   "y": 27.06,
+   "partNo": "H050880",
+   "desc": "COVER - valve linkage",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 40.53,
+   "y": 16.62,
+   "partNo": "H102749",
+   "desc": "DECAL - backhoe control",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 68.81,
+   "y": 60.89,
+   "partNo": "218-5107",
+   "desc": "FITTING - 90°, adjustable",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 86.12,
+   "y": 23.2,
+   "partNo": "218-5107",
+   "desc": "FITTING - 90°, adjustable",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 63.11,
+   "y": 63.09,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 83.22,
+   "y": 24.55,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 67.2,
+   "y": 69.04,
+   "partNo": "H593475",
+   "desc": "TUBE - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 91.5,
+   "y": 40.01,
+   "partNo": "H593467",
+   "desc": "TUBE - pressure",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 71.39,
+   "y": 39.8,
+   "partNo": "218-5059",
+   "desc": "FITTING - straight, male",
+   "reqd": "6"
+  },
+  {
+   "ref": "28",
+   "x": 73.01,
+   "y": 45.02,
+   "partNo": "218-5059",
+   "desc": "FITTING - straight, male",
+   "reqd": "6"
+  },
+  {
+   "ref": "28",
+   "x": 67.09,
+   "y": 41.37,
+   "partNo": "218-5059",
+   "desc": "FITTING - straight, male",
+   "reqd": "6"
+  },
+  {
+   "ref": "29",
+   "x": 59.46,
+   "y": 44.39,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 65.26,
+   "y": 45.75,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 65.37,
+   "y": 49.93,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 76.34,
+   "y": 54.52,
+   "partNo": "H593418",
+   "desc": "TUBE - lower valve port to swing cylinder, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 42.9,
+   "y": 36.88,
+   "partNo": "H593400",
+   "desc": "TUBE - upper valve port to swing cylinder, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 40.43,
+   "y": 43.04,
+   "partNo": "218-465",
+   "desc": "FITTING - straight, male",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 83.65,
+   "y": 69.04,
+   "partNo": "218-465",
+   "desc": "FITTING - straight, male",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 40.53,
+   "y": 46.07,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 83.65,
+   "y": 70.92,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 70.86,
+   "y": 88.88,
+   "partNo": "H514125",
+   "desc": "CYLINDER - swing, see the \"D100 H514125 Swing Cylinder and H514117 Stabilizer Cylinder\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 62.79,
+   "y": 49.41,
+   "partNo": "H593442",
+   "desc": "TUBE - lower valve port to stabilizer cylinder, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 72.36,
+   "y": 54.52,
+   "partNo": "H593459",
+   "desc": "TUBE - lower valve port to stabilizer cylinder, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 62.04,
+   "y": 57.55,
+   "partNo": "H593426",
+   "desc": "TUBE - upper valve port to stabilizer cylinder, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 70.53,
+   "y": 62.88,
+   "partNo": "H593434",
+   "desc": "TUBE - upper valve port to stabilizer cylinder, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 87.09,
+   "y": 52.54,
+   "partNo": "H268532",
+   "desc": "HOSE - hydraulic, stabilizer cylinder, 10\" (254 mm)",
+   "reqd": "4"
+  },
+  {
+   "ref": "39",
+   "x": 49.03,
+   "y": 30.4,
+   "partNo": "H268532",
+   "desc": "HOSE - hydraulic, stabilizer cylinder, 10\" (254 mm)",
+   "reqd": "4"
+  },
+  {
+   "ref": "40",
+   "x": 91.61,
+   "y": 54.63,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "4"
+  },
+  {
+   "ref": "40",
+   "x": 41.29,
+   "y": 26.96,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "4"
+  },
+  {
+   "ref": "41",
+   "x": 95.58,
+   "y": 53.27,
+   "partNo": "H514117",
+   "desc": "CYLINDER - stabilizer, see the \"D100 H514125 Swing Cylinder and H514117 Stabilizer Cylinder\" section",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 30.0,
+   "y": 30.4,
+   "partNo": "H514117",
+   "desc": "CYLINDER - stabilizer, see the \"D100 H514125 Swing Cylinder and H514117 Stabilizer Cylinder\" section",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 19.78,
+   "y": 27.69,
+   "partNo": "H275255",
+   "desc": "BELLCRANK - lever",
+   "reqd": "6"
+  },
+  {
+   "ref": "43",
+   "x": 17.42,
+   "y": 19.65,
+   "partNo": "129-143",
+   "desc": "NUT - hex lock, 3/8\" - 16 NC",
+   "reqd": "12"
+  },
+  {
+   "ref": "43",
+   "x": 17.42,
+   "y": 7.64,
+   "partNo": "129-143",
+   "desc": "NUT - hex lock, 3/8\" - 16 NC",
+   "reqd": "12"
+  },
+  {
+   "ref": "44",
+   "x": 30.21,
+   "y": 14.43,
+   "partNo": "H191924",
+   "desc": "LEVER - stabilizer control",
+   "reqd": "2"
+  },
+  {
+   "ref": "45",
+   "x": 17.63,
+   "y": 14.22,
+   "partNo": "H191916",
+   "desc": "LEVER - boom, dipper, bucket and swing control",
+   "reqd": "4"
+  },
+  {
+   "ref": "46",
+   "x": 27.85,
+   "y": 4.19,
+   "partNo": "A14051",
+   "desc": "KNOB - lever",
+   "reqd": "6"
+  },
+  {
+   "ref": "47",
+   "x": 52.68,
+   "y": 81.78,
+   "partNo": "321-3054",
+   "desc": "DECAL - warning",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

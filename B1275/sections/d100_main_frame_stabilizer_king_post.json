@@ -1,0 +1,408 @@
+{
+ "sectionTitle": "D100 Main Frame, Stabilizer and King Post",
+ "breadcrumb": "D100 Main Frame, Stabilizer and King Post",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_main_frame_stabilizer_king_post.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 11.25,
+   "y": 77.91,
+   "partNo": "",
+   "desc": "MAIN FRAME ASSEMBLY - see the D100 mounting frame sections",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 29.06,
+   "y": 55.33,
+   "partNo": "113-248",
+   "desc": "HHCS - 3/8\" - 16 NC x 2-3/4\", plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "3",
+   "x": 63.77,
+   "y": 45.57,
+   "partNo": "NSS",
+   "desc": "BLOCK - swing cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 62.46,
+   "y": 39.46,
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\", plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 65.8,
+   "y": 39.26,
+   "partNo": "129-103",
+   "desc": "NUT - hex, 3/8\" - 16 NC, plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "6",
+   "x": 43.84,
+   "y": 54.52,
+   "partNo": "H747170",
+   "desc": "BEARING - king post",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 6.7,
+   "y": 50.96,
+   "partNo": "H308726",
+   "desc": "FOOT REST - RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 8.12,
+   "y": 51.97,
+   "partNo": "H308726",
+   "desc": "FOOT REST - LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 14.49,
+   "y": 50.25,
+   "partNo": "187-1069",
+   "desc": "SCREW - self-tapping, 5/16\" - 18 NC x 3/4\", plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 11.46,
+   "y": 48.82,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "8"
+  },
+  {
+   "ref": "11",
+   "x": 37.56,
+   "y": 41.8,
+   "partNo": "F62235",
+   "desc": "SNAP RING",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 34.53,
+   "y": 43.33,
+   "partNo": "H050831",
+   "desc": "PIN - stabilizer cylinder, closed end",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 19.15,
+   "y": 10.57,
+   "partNo": "H052068",
+   "desc": "SPACER - stabilizer cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 29.77,
+   "y": 5.69,
+   "partNo": "H052068",
+   "desc": "SPACER - stabilizer cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 29.06,
+   "y": 33.05,
+   "partNo": "H514554",
+   "desc": "STABILIZER - tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 28.15,
+   "y": 17.29,
+   "partNo": "H514117",
+   "desc": "CYLINDER - stabilizer, see the \"D100 H514125 Swing Cylinder and H514117 Stabilizer Cylinder\" section",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 30.89,
+   "y": 43.12,
+   "partNo": "H051870",
+   "desc": "PIN - stabilizer",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 27.45,
+   "y": 47.5,
+   "partNo": "132-48",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 25.22,
+   "y": 95.1,
+   "partNo": "132-48",
+   "desc": "PIN - cotter, 1/8\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 34.23,
+   "y": 90.32,
+   "partNo": "H031161",
+   "desc": "PIN - stabilizer pad to stabilizer",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 13.28,
+   "y": 81.47,
+   "partNo": "H514562",
+   "desc": "PLATE - LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 15.71,
+   "y": 81.88,
+   "partNo": "H514570",
+   "desc": "PLATE - RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 9.84,
+   "y": 89.1,
+   "partNo": "A30338",
+   "desc": "PIN - lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 14.09,
+   "y": 96.32,
+   "partNo": "NSS",
+   "desc": "SPIKE - stabilizer",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 58.82,
+   "y": 58.99,
+   "partNo": "H050377",
+   "desc": "GUIDE - rack, swing cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 33.82,
+   "y": 62.96,
+   "partNo": "131-1171",
+   "desc": "NUT - hex, self lock, 5/8\" - 18 NF, plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 41.21,
+   "y": 66.83,
+   "partNo": "195-541",
+   "desc": "WASHER - flat, 5/8\", plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 85.02,
+   "y": 63.16,
+   "partNo": "H514125",
+   "desc": "CYLINDER - swing, see the \"D100 H514125 Swing Cylinder and H514117 Stabilizer Cylinder\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 67.82,
+   "y": 73.03,
+   "partNo": "H050724",
+   "desc": "HOUSING - lower mast",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 82.6,
+   "y": 56.55,
+   "partNo": "113-650",
+   "desc": "HHCS - 5/8\" - 11 NC x 6-1/2\", plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 81.79,
+   "y": 68.35,
+   "partNo": "113-604",
+   "desc": "HHCS - 5/8\" - 11 NC x 2\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 35.24,
+   "y": 76.49,
+   "partNo": "195-541",
+   "desc": "WASHER - flat, 5/8\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 32.51,
+   "y": 78.52,
+   "partNo": "129-107",
+   "desc": "NUT - hex, 5/8\" - 11 NC, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "32",
+   "x": 77.94,
+   "y": 12.2,
+   "partNo": "H514380",
+   "desc": "COVER - gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 62.36,
+   "y": 7.42,
+   "partNo": "113-208",
+   "desc": "HHCS - 3/8\" - 16 NC x 1-1/4\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "34",
+   "x": 62.86,
+   "y": 9.56,
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "35",
+   "x": 63.27,
+   "y": 11.18,
+   "partNo": "195-525",
+   "desc": "WASHER - flat, 3/8\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "36",
+   "x": 78.85,
+   "y": 23.9,
+   "partNo": "H050369",
+   "desc": "GEAR - swing",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 80.27,
+   "y": 29.39,
+   "partNo": "H514596",
+   "desc": "KING POST - swing tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 87.96,
+   "y": 41.8,
+   "partNo": "H056192",
+   "desc": "BUSHING - post",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 66.4,
+   "y": 50.75,
+   "partNo": "H747170",
+   "desc": "BEARING - mast",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 78.45,
+   "y": 72.73,
+   "partNo": "192-311",
+   "desc": "WASHER - lock, bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 78.14,
+   "y": 77.1,
+   "partNo": "131-1037",
+   "desc": "NUT - lock, bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 95.75,
+   "y": 44.45,
+   "partNo": "H625756",
+   "desc": "BUMPER - cushion",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 92.41,
+   "y": 54.21,
+   "partNo": "113-424",
+   "desc": "HHCS - 1/2\" - 13 NC x 1\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "44",
+   "x": 87.86,
+   "y": 52.79,
+   "partNo": "195-533",
+   "desc": "WASHER - flat, 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "45",
+   "x": 78.65,
+   "y": 50.86,
+   "partNo": "192-23",
+   "desc": "WASHER - lock, 1/2\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "46",
+   "x": 75.92,
+   "y": 50.45,
+   "partNo": "129-105",
+   "desc": "NUT - hex, 1/2\" - 13 NC, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "47",
+   "x": 88.36,
+   "y": 37.43,
+   "partNo": "219-8",
+   "desc": "GREASE FITTING - straight, 1/4\" - 28 NF taper",
+   "reqd": "2"
+  },
+  {
+   "ref": "36A",
+   "partNo": "178-53",
+   "desc": "SCREW - set, 3/8\" - 16 NC x 3/8\", swing gear, not shown",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: H907683 KIT - stabilizer spike (1).\nListed but not drawn on this diagram: ref 36A (see parts list)."
+}

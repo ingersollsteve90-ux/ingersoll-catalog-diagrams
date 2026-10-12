@@ -1,0 +1,272 @@
+{
+ "sectionTitle": "D100 H514125 Swing Cylinder and H514117 Stabilizer Cylinder",
+ "breadcrumb": "D100 H514125 Swing Cylinder and H514117 Stabilizer Cylinder",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_h514125_swing_h514117_stabilizer_cylinders.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 24.27,
+   "y": 63.03,
+   "partNo": "H053009",
+   "desc": "BARREL ASSEMBLY - tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 84.97,
+   "y": 34.7,
+   "partNo": "H053009",
+   "desc": "BARREL ASSEMBLY - tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 60.72,
+   "y": 24.99,
+   "partNo": "H053017",
+   "desc": "ROD - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 61.38,
+   "y": 46.13,
+   "partNo": "H743591",
+   "desc": "O-RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 43.88,
+   "y": 54.33,
+   "partNo": "H743591",
+   "desc": "O-RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 46.32,
+   "y": 53.72,
+   "partNo": "H745596",
+   "desc": "WASHER - backup *",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 59.39,
+   "y": 46.84,
+   "partNo": "H745596",
+   "desc": "WASHER - backup *",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 57.06,
+   "y": 47.55,
+   "partNo": "H215202",
+   "desc": "SEAL - dust *",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 48.42,
+   "y": 51.6,
+   "partNo": "H215202",
+   "desc": "SEAL - dust *",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 88.74,
+   "y": 10.22,
+   "partNo": "H053025",
+   "desc": "VALVE ASSEMBLY - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 85.75,
+   "y": 11.84,
+   "partNo": "A27365",
+   "desc": "O-RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 82.87,
+   "y": 2.33,
+   "partNo": "H053033",
+   "desc": "VALVE ASSEMBLY - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 78.44,
+   "y": 4.76,
+   "partNo": "A27365",
+   "desc": "O-RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 41.0,
+   "y": 64.34,
+   "partNo": "H052654",
+   "desc": "HEAD AND TUBE - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 60.6,
+   "y": 54.94,
+   "partNo": "NSS",
+   "desc": "WASHER - backup *",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 80.1,
+   "y": 67.48,
+   "partNo": "NSS",
+   "desc": "WASHER - backup *",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 64.26,
+   "y": 53.92,
+   "partNo": "A7156",
+   "desc": "O-RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 74.56,
+   "y": 70.01,
+   "partNo": "A7156",
+   "desc": "O-RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 34.24,
+   "y": 89.64,
+   "partNo": "H052662",
+   "desc": "TUBE - outer",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 52.96,
+   "y": 84.58,
+   "partNo": "H052688",
+   "desc": "ROD - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 56.17,
+   "y": 78.21,
+   "partNo": "131-1121",
+   "desc": "NUT - hex self lock, 5/8\" - 18 NF",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 66.03,
+   "y": 72.74,
+   "partNo": "F62114",
+   "desc": "SEAL - O-ring *",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 71.79,
+   "y": 71.83,
+   "partNo": "H052670",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 64.59,
+   "y": 75.17,
+   "variants": [
+    {
+     "serialNote": "leather, use H754614 for service",
+     "partNo": "H754614",
+     "desc": "WASHER - backup, leather, use H754614 for service",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "rubber",
+     "partNo": "H754614",
+     "desc": "WASHER - backup, rubber *",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 60.16,
+   "y": 76.89,
+   "variants": [
+    {
+     "serialNote": "leather, use H754614 for service",
+     "partNo": "H754614",
+     "desc": "WASHER - backup, leather, use H754614 for service",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "rubber",
+     "partNo": "H754614",
+     "desc": "WASHER - backup, rubber *",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 62.27,
+   "y": 76.28,
+   "partNo": "D38755",
+   "desc": "O-RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 83.87,
+   "y": 66.06,
+   "partNo": "H052696",
+   "desc": "GLAND - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 90.84,
+   "y": 61.82,
+   "partNo": "A7623",
+   "desc": "O-RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 93.17,
+   "y": 60.5,
+   "partNo": "NSS",
+   "desc": "WASHER - backup *",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 95.39,
+   "y": 59.08,
+   "partNo": "H746297",
+   "desc": "SEAL - oil, rod wiper *",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: H053041, H052704.\nAlso listed, not shown on diagram: H514125 CYLINDER - swing, 8\" (203 mm) stroke (1); H514117 CYLINDER - stabilizer, 12\" (305 mm) stroke (2)."
+}

@@ -1,0 +1,394 @@
+{
+ "sectionTitle": "D130 Hydraulic Lines - Swing, Stabilizer and Controls (Before S/N Q2720171)",
+ "breadcrumb": "D130 Hydraulic Lines - Swing, Stabilizer and Controls (Before S/N Q2720171)",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_lines_swing_stabilizer_before_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.31,
+   "y": 14.07,
+   "partNo": "H050930",
+   "desc": "LEVER - stabilizer control",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 40.02,
+   "y": 3.95,
+   "partNo": "H050922",
+   "desc": "LEVER - swing, boom, dipper arm and bucket control",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 61.62,
+   "y": 16.3,
+   "partNo": "H050922",
+   "desc": "LEVER - swing, boom, dipper arm and bucket control",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 78.18,
+   "y": 42.73,
+   "partNo": "H110262",
+   "desc": "SHAFT - lever pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.78,
+   "y": 21.67,
+   "partNo": "H026468",
+   "desc": "SPACER - levers",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 61.11,
+   "y": 35.64,
+   "partNo": "H026468",
+   "desc": "SPACER - levers",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 48.05,
+   "y": 29.36,
+   "partNo": "95-9",
+   "desc": "WASHER - flat, 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 36.42,
+   "y": 23.29,
+   "partNo": "138-2002",
+   "desc": "PIN - roll, spiral, 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 68.21,
+   "y": 28.35,
+   "partNo": "H035279",
+   "desc": "PIN - clevis",
+   "reqd": "12"
+  },
+  {
+   "ref": "8",
+   "x": 71.81,
+   "y": 21.46,
+   "partNo": "132-5",
+   "desc": "PIN - cotter, 1/16\" x 1/2\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "9",
+   "x": 73.76,
+   "y": 24.5,
+   "partNo": "H110254",
+   "desc": "LINK - lever to valve",
+   "reqd": "12"
+  },
+  {
+   "ref": "10",
+   "x": 86.1,
+   "y": 27.84,
+   "partNo": "187-1069",
+   "desc": "SCREW - self-tapping, 5/16\" - 18 NC x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 86.31,
+   "y": 33.21,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 83.22,
+   "y": 24.1,
+   "partNo": "H110247",
+   "desc": "PANEL - cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 64.4,
+   "y": 44.14,
+   "partNo": "H528893",
+   "desc": "BRACKET - valve mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 45.78,
+   "y": 40.5,
+   "partNo": "192-23",
+   "desc": "WASHER - lock, 1/2\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 45.89,
+   "y": 42.73,
+   "partNo": "129-125",
+   "desc": "NUT - hex, 1/2\" - 13 NC, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 43.21,
+   "y": 77.05,
+   "partNo": "113-335",
+   "desc": "HHCS - 7/16\" - 14 NC x 3/4\", plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 47.84,
+   "y": 74.72,
+   "partNo": "192-22",
+   "desc": "WASHER - lock, 7/16\", plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 56.27,
+   "y": 74.72,
+   "partNo": "H528844",
+   "desc": "VALVE - control, see the \"D130 H528844 Backhoe Control Valve\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 66.25,
+   "y": 62.77,
+   "partNo": "218-5201",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 53.6,
+   "y": 55.38,
+   "partNo": "218-5201",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 50.21,
+   "y": 56.19,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 62.65,
+   "y": 64.19,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 64.3,
+   "y": 58.01,
+   "partNo": "218-5058",
+   "desc": "FITTING - straight, male",
+   "reqd": "6"
+  },
+  {
+   "ref": "22",
+   "x": 54.42,
+   "y": 57.3,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 88.98,
+   "y": 72.69,
+   "partNo": "H112607",
+   "desc": "HOSE - valve to stabilizer and cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 36.01,
+   "y": 36.75,
+   "partNo": "H112607",
+   "desc": "HOSE - valve to stabilizer and cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 87.44,
+   "y": 70.06,
+   "partNo": "S99941",
+   "desc": "GROMMET - rubber",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 38.99,
+   "y": 48.19,
+   "partNo": "S99941",
+   "desc": "GROMMET - rubber",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 81.89,
+   "y": 53.36,
+   "partNo": "218-5392",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 86.0,
+   "y": 83.53,
+   "partNo": "218-5392",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 34.98,
+   "y": 49.51,
+   "partNo": "218-5392",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 36.73,
+   "y": 25.92,
+   "partNo": "218-5392",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 85.69,
+   "y": 53.66,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 89.4,
+   "y": 84.13,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 30.04,
+   "y": 45.26,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 34.57,
+   "y": 24.5,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 94.95,
+   "y": 59.84,
+   "partNo": "",
+   "desc": "CYLINDER - stabilizer, see the D130 stabilizer cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 21.82,
+   "y": 39.18,
+   "partNo": "",
+   "desc": "CYLINDER - stabilizer, see the D130 stabilizer cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 35.39,
+   "y": 62.16,
+   "partNo": "H112581",
+   "desc": "HOSE - valve to swing cylinder, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 81.37,
+   "y": 77.55,
+   "partNo": "H112599",
+   "desc": "HOSE - valve to swing cylinder, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 76.13,
+   "y": 80.49,
+   "partNo": "218-921",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 32.51,
+   "y": 55.99,
+   "partNo": "218-921",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 71.81,
+   "y": 85.35,
+   "partNo": "",
+   "desc": "CYLINDER - swing, see the D130 swing cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 14.1,
+   "y": 50.72,
+   "partNo": "",
+   "desc": "CYLINDER - swing, see the D130 swing cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 93.31,
+   "y": 8.61,
+   "partNo": "H102749",
+   "desc": "DECAL - control levers",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 8.86,
+   "y": 28.75,
+   "partNo": "321-3054",
+   "desc": "DECAL - warning",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

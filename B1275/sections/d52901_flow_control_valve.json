@@ -1,0 +1,146 @@
+{
+ "sectionTitle": "D52901 Flow Control Valve",
+ "breadcrumb": "D52901 Flow Control Valve",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d52901_flow_control_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 90.4,
+   "y": 57.56,
+   "partNo": "NSS",
+   "desc": "BODY - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 19.3,
+   "y": 85.89,
+   "partNo": "221-849",
+   "desc": "PLUG - socket head, 1/8\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 59.8,
+   "y": 96.07,
+   "partNo": "D54275",
+   "desc": "PLUG - special, solid",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 67.3,
+   "y": 85.99,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 73.5,
+   "y": 17.55,
+   "partNo": "D54270",
+   "desc": "PLUG - special, hollow",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 71.3,
+   "y": 23.7,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 67.3,
+   "y": 26.62,
+   "partNo": "D54271",
+   "desc": "SHIM - spring",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "8",
+   "x": 64.0,
+   "y": 29.34,
+   "partNo": "D54273",
+   "desc": "GUIDE - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 66.5,
+   "y": 33.88,
+   "partNo": "D54272",
+   "desc": "SPRING - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 68.5,
+   "y": 40.93,
+   "partNo": "D54274",
+   "desc": "SPOOL - floating",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 12.5,
+   "y": 4.14,
+   "partNo": "D54188",
+   "desc": "KNOB - flow control valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 70.0,
+   "y": 7.97,
+   "partNo": "178-859",
+   "desc": "SCREW - set, socket head, #10 - 32 NF x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 17.6,
+   "y": 17.15,
+   "partNo": "D54189",
+   "desc": "PLUG - special",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 15.1,
+   "y": 26.22,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 18.0,
+   "y": 29.34,
+   "partNo": "R12509",
+   "desc": "RING - backup",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 17.8,
+   "y": 31.86,
+   "partNo": "D54268",
+   "desc": "SEAL - needle",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 18.5,
+   "y": 42.65,
+   "partNo": "D54269",
+   "desc": "NEEDLE - valve",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: D52901 VALVE - flow control, Gresen #CFDA-50 (1)."
+}

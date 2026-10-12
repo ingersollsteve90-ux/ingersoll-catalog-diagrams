@@ -1,0 +1,162 @@
+{
+ "sectionTitle": "D130 G100905 Swing Cylinder",
+ "breadcrumb": "D130 G100905 Swing Cylinder",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_g100905_swing_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 44.7,
+   "y": 15.48,
+   "partNo": "G100906",
+   "desc": "TUBE",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 61.2,
+   "y": 39.73,
+   "partNo": "NSS",
+   "desc": "GLAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 83.65,
+   "y": 33.34,
+   "partNo": "NSS",
+   "desc": "RING - center bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 90.0,
+   "y": 30.09,
+   "partNo": "D95142",
+   "desc": "WIPER - rod *",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 76.68,
+   "y": 36.18,
+   "partNo": "G34302",
+   "desc": "BEARING - center *",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 50.85,
+   "y": 46.12,
+   "partNo": "D36969",
+   "desc": "SEAL - rod (** see G100776 service option) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 38.85,
+   "y": 48.86,
+   "partNo": "A30095",
+   "desc": "O-RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 41.83,
+   "y": 46.93,
+   "partNo": "G32122",
+   "desc": "RING - backup *",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 67.35,
+   "y": 35.16,
+   "partNo": "187-1031",
+   "desc": "SCREW - self tapping, #8 - 32 NC x 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 58.53,
+   "y": 80.92,
+   "partNo": "G100912",
+   "desc": "ROD - piston, 1-1/2\" (38 mm)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 58.02,
+   "y": 3.61,
+   "partNo": "G100912",
+   "desc": "ROD - piston, 1-1/2\" (38 mm)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 22.35,
+   "y": 56.16,
+   "partNo": "G33747",
+   "desc": "PISTON",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 33.22,
+   "y": 51.19,
+   "partNo": "G32034",
+   "desc": "RING - backup *",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 13.84,
+   "y": 59.51,
+   "partNo": "G100449",
+   "desc": "RING - wear *",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 29.22,
+   "y": 52.41,
+   "partNo": "A28318",
+   "desc": "O-RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 4.82,
+   "y": 67.22,
+   "partNo": "28-1232",
+   "desc": "HHCS - 3/4\" - 16 NF x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 9.33,
+   "y": 64.48,
+   "partNo": "G32317",
+   "desc": "WASHER - hardened",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 19.28,
+   "y": 29.68,
+   "partNo": "A43250",
+   "desc": "VALVE - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 84.88,
+   "y": 63.26,
+   "partNo": "219-1",
+   "desc": "GREASE FITTING - straight, 1/8\" NPT",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: G34656.\nAlso listed, not shown on diagram: G100905 CYLINDER - swing, 12-3/4\" (324 mm) stroke x 3\" (76 mm) ID (2); G34328 GLAND ASSEMBLY (1); G100776 SEAL - rod, service option - extreme heat or cold (**) (1)."
+}

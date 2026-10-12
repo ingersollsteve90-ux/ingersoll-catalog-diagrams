@@ -1,0 +1,208 @@
+{
+ "sectionTitle": "D130 Mounting Frame and Seat - 1500 Series, 1530B, 1700 Series, 150M, 170, 180, 190 Uni-Loaders",
+ "breadcrumb": "D130 Mounting Frame and Seat - 1500 Series, 1530B, 1700 Series, 150M, 170, 180, 190 Uni-Loaders",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_mounting_frame_1500_1700.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.68,
+   "y": 10.01,
+   "partNo": "T40722",
+   "desc": "FRAME - backhoe mounting, used before tractor sn 9813301, service with T41550 frame and (2) T42308 pins, see the D130 main frame, stabilizer and mast sections",
+   "reqd": "1"
+  },
+  {
+   "ref": "1A",
+   "x": 51.79,
+   "y": 80.26,
+   "variants": [
+    {
+     "serialNote": "S/N 9813301 and after, without flow control valve",
+     "partNo": "T41550",
+     "desc": "FRAME - backhoe mounting. Used tractor sn 9813301 and after without flow control valve, service with T42647 frame, see the D130 main frame, stabilizer and mast sections",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 9813301 and after, with flow control valve",
+     "partNo": "T42647",
+     "desc": "FRAME - backhoe mounting, used tractor sn 9813301 and after with flow control valve, see the D130 main frame, stabilizer and mast sections",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 90.36,
+   "y": 35.76,
+   "partNo": "T40735",
+   "desc": "PIN - T40722 frame attaching",
+   "reqd": "2"
+  },
+  {
+   "ref": "2A",
+   "x": 85.79,
+   "y": 82.16,
+   "partNo": "T42308",
+   "desc": "PIN - T41550 and T42647 frame attaching",
+   "reqd": "2"
+  },
+  {
+   "ref": "2B",
+   "x": 95.03,
+   "y": 21.63,
+   "partNo": "T40732",
+   "desc": "PIN - T40722 frame to backhoe, upper",
+   "reqd": "2"
+  },
+  {
+   "ref": "2C",
+   "x": 39.01,
+   "y": 14.42,
+   "partNo": "T40733",
+   "desc": "PIN - T40722 frame to backhoe, lower",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 95.64,
+   "y": 25.54,
+   "partNo": "T40222",
+   "desc": "PIN - hair, cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 89.24,
+   "y": 74.55,
+   "partNo": "T40222",
+   "desc": "PIN - hair, cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 92.19,
+   "y": 24.24,
+   "partNo": "132-15",
+   "desc": "PIN - cotter, 1/4\" dia x 3\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 91.78,
+   "y": 10.31,
+   "partNo": "132-15",
+   "desc": "PIN - cotter, 1/4\" dia x 3\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 41.85,
+   "y": 3.7,
+   "partNo": "132-15",
+   "desc": "PIN - cotter, 1/4\" dia x 3\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 78.69,
+   "y": 70.34,
+   "partNo": "132-15",
+   "desc": "PIN - cotter, 1/4\" dia x 3\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "5",
+   "x": 29.06,
+   "y": 87.67,
+   "variants": [
+    {
+     "serialNote": "1530B with self-leveling loader and all 1700 series",
+     "partNo": "D55131",
+     "desc": "SAFETY STOP - for loader lift cylinders, 1530B models with self-leveling loader and all 1700 series models",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "150M, 170, 180, 190, 1526, 1530, 1537 and 1530B without self-leveling loader",
+     "partNo": "T41551",
+     "desc": "SAFETY STOP - loader lift cylinders, all 150M, 170, 180, 190 1526, 1530, 1537 models and 1530B models without self-leveling loader",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 15.16,
+   "y": 96.79,
+   "partNo": "T41554",
+   "desc": "PIN - safety stop",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 19.42,
+   "y": 88.17,
+   "partNo": "136-164",
+   "desc": "PIN - hair, cotter",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 27.03,
+   "y": 61.92,
+   "partNo": "T41530",
+   "desc": "PLATE - seat base",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 26.62,
+   "y": 53.3,
+   "partNo": "13-820",
+   "desc": "HHCS - 1/2\" - 13 NC x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 15.36,
+   "y": 58.31,
+   "partNo": "92-8",
+   "desc": "WASHER - lock, 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 12.62,
+   "y": 58.91,
+   "partNo": "25-108",
+   "desc": "NUT - hex, 1/2\" - 13 NC",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 12.72,
+   "y": 41.48,
+   "partNo": "T40691",
+   "desc": "FRAME - backhoe seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 27.84,
+   "y": 16.02,
+   "partNo": "T40366",
+   "desc": "SEAT - backhoe, see the \"Backhoe Seat\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 41.85,
+   "y": 79.36,
+   "partNo": "T41758",
+   "desc": "HOOK - backhoe mounting, welded to uni-loader main frame",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": ""
+}

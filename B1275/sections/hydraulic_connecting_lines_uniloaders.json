@@ -1,0 +1,419 @@
+{
+ "sectionTitle": "Backhoe Hydraulic Connecting Lines - Uni-Loaders",
+ "breadcrumb": "Backhoe Hydraulic Connecting Lines - Uni-Loaders",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/hydraulic_connecting_lines_uniloaders.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 52.85,
+   "y": 55.95,
+   "partNo": "T41332",
+   "desc": "COUPLING - quick disconnect, male",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 4.64,
+   "y": 55.53,
+   "partNo": "T41332",
+   "desc": "COUPLING - quick disconnect, male",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 71.92,
+   "y": 47.11,
+   "variants": [
+    {
+     "serialNote": "1500 and 1700 series uni-loader 48\" (1219 mm) long",
+     "partNo": "D52898",
+     "desc": "HOSE ASSEMBLY - 1500 and 1700 series uni-loader 48\" (1219 mm) long",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1845 uni-loader",
+     "partNo": "D73091",
+     "desc": "HOSE ASSEMBLY - 1845 uni-loader",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 23.2,
+   "y": 47.0,
+   "variants": [
+    {
+     "serialNote": "1500 and 1700 series uni-loader 48\" (1219 mm) long",
+     "partNo": "D52898",
+     "desc": "HOSE ASSEMBLY - 1500 and 1700 series uni-loader 48\" (1219 mm) long",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1845 uni-loader",
+     "partNo": "D73091",
+     "desc": "HOSE ASSEMBLY - 1845 uni-loader",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 32.08,
+   "y": 34.67,
+   "partNo": "218-485",
+   "desc": "FITTING - male, 90°",
+   "reqd": "1-2"
+  },
+  {
+   "ref": "3",
+   "x": 80.19,
+   "y": 39.91,
+   "partNo": "218-485",
+   "desc": "FITTING - male, 90°",
+   "reqd": "1-2"
+  },
+  {
+   "ref": "3",
+   "x": 58.2,
+   "y": 24.29,
+   "partNo": "218-485",
+   "desc": "FITTING - male, 90°",
+   "reqd": "1-2"
+  },
+  {
+   "ref": "4",
+   "x": 65.36,
+   "y": 36.31,
+   "partNo": "D52901",
+   "desc": "VALVE ASSEMBLY - flow control, Cessna, see its flow control valve section",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 30.16,
+   "y": 31.69,
+   "partNo": "D52901",
+   "desc": "VALVE ASSEMBLY - flow control, Cessna, see its flow control valve section",
+   "reqd": "1"
+  },
+  {
+   "ref": "4A",
+   "x": 38.03,
+   "y": 40.22,
+   "partNo": "D64103",
+   "desc": "VALVE ASSEMBLY - flow control, Char-Lynn, see its flow control valve section, use D52901 for service",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 36.21,
+   "y": 30.56,
+   "variants": [
+    {
+     "serialNote": "3/8\" - 16 NC x 2-1/4\", D52901 valve",
+     "partNo": "13-636",
+     "desc": "HHCS - 3/8\" - 16 NC x 2-1/4\", D52901 valve",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\" - 20 NC x 3-1/4\", D64103 valve",
+     "partNo": "13-452",
+     "desc": "HHCS - 1/4\" - 20 NC x 3-1/4\", D64103 valve",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 79.99,
+   "y": 35.59,
+   "variants": [
+    {
+     "serialNote": "3/8\" - 16 NC x 2-1/4\", D52901 valve",
+     "partNo": "13-636",
+     "desc": "HHCS - 3/8\" - 16 NC x 2-1/4\", D52901 valve",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\" - 20 NC x 3-1/4\", D64103 valve",
+     "partNo": "13-452",
+     "desc": "HHCS - 1/4\" - 20 NC x 3-1/4\", D64103 valve",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 56.28,
+   "y": 42.79,
+   "variants": [
+    {
+     "serialNote": "3/8\" - 16 NC x 2-1/4\", D52901 valve",
+     "partNo": "13-636",
+     "desc": "HHCS - 3/8\" - 16 NC x 2-1/4\", D52901 valve",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\" - 20 NC x 3-1/4\", D64103 valve",
+     "partNo": "13-452",
+     "desc": "HHCS - 1/4\" - 20 NC x 3-1/4\", D64103 valve",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 65.56,
+   "y": 42.58,
+   "variants": [
+    {
+     "serialNote": "3/8\"",
+     "partNo": "92-6",
+     "desc": "WASHER - lock, 3/8\"",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\"",
+     "partNo": "92-4",
+     "desc": "WASHER - lock, 1/4\"",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 42.06,
+   "y": 50.09,
+   "variants": [
+    {
+     "serialNote": "3/8\"",
+     "partNo": "92-6",
+     "desc": "WASHER - lock, 3/8\"",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\"",
+     "partNo": "92-4",
+     "desc": "WASHER - lock, 1/4\"",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 17.85,
+   "y": 42.06,
+   "variants": [
+    {
+     "serialNote": "3/8\"",
+     "partNo": "92-6",
+     "desc": "WASHER - lock, 3/8\"",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\"",
+     "partNo": "92-4",
+     "desc": "WASHER - lock, 1/4\"",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 13.52,
+   "y": 38.47,
+   "variants": [
+    {
+     "serialNote": "3/8\" - 16 NC",
+     "partNo": "25-106",
+     "desc": "NUT - hex, 3/8\" - 16 NC",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\" - 20 NC",
+     "partNo": "25-104",
+     "desc": "NUT - hex, 1/4\" - 20 NC",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 39.74,
+   "y": 51.11,
+   "variants": [
+    {
+     "serialNote": "3/8\" - 16 NC",
+     "partNo": "25-106",
+     "desc": "NUT - hex, 3/8\" - 16 NC",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\" - 20 NC",
+     "partNo": "25-104",
+     "desc": "NUT - hex, 1/4\" - 20 NC",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 61.53,
+   "y": 39.4,
+   "variants": [
+    {
+     "serialNote": "3/8\" - 16 NC",
+     "partNo": "25-106",
+     "desc": "NUT - hex, 3/8\" - 16 NC",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1/4\" - 20 NC",
+     "partNo": "25-104",
+     "desc": "NUT - hex, 1/4\" - 20 NC",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "7A",
+   "x": 44.38,
+   "y": 49.37,
+   "partNo": "D34089",
+   "desc": "SPACER - D64103 valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 57.29,
+   "y": 27.58,
+   "partNo": "218-555",
+   "desc": "TEE - male",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 9.88,
+   "y": 27.27,
+   "partNo": "218-555",
+   "desc": "TEE - male",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 17.25,
+   "y": 23.37,
+   "partNo": "D52899",
+   "desc": "HOSE - flow control valve to backhoe valve, 25\" (635 mm) long",
+   "reqd": "1-2"
+  },
+  {
+   "ref": "9",
+   "x": 91.18,
+   "y": 37.03,
+   "partNo": "D52899",
+   "desc": "HOSE - flow control valve to backhoe valve, 25\" (635 mm) long",
+   "reqd": "1-2"
+  },
+  {
+   "ref": "10",
+   "x": 65.66,
+   "y": 18.84,
+   "partNo": "D52900",
+   "desc": "HOSE - flow control valve to backhoe valve, 17\" (432 mm) long, D130 backhoe only",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 28.95,
+   "y": 21.41,
+   "partNo": "218-435",
+   "desc": "FITTING - male, straight, D100 backhoe only",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 41.66,
+   "y": 27.68,
+   "partNo": "218-465",
+   "desc": "FITTING - male-female, straight, D100 backhoe only",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 64.66,
+   "y": 80.61,
+   "partNo": "D65045",
+   "desc": "HOSE - tractor to backhoe valve, 40\" (1016 mm) long",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 77.47,
+   "y": 85.95,
+   "partNo": "D65044",
+   "desc": "HOSE - tractor to backhoe valve, 50\" (1270 mm) long",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 58.5,
+   "y": 90.16,
+   "partNo": "T41332",
+   "desc": "COUPLING - quick disconnect, male",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 64.56,
+   "y": 82.35,
+   "partNo": "T41534",
+   "desc": "HOSE - tractor to D100 backhoe, 45-1/2\" (1156 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 12.91,
+   "y": 81.32,
+   "partNo": "T41534",
+   "desc": "HOSE - tractor to D100 backhoe, 45-1/2\" (1156 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 24.51,
+   "y": 87.39,
+   "partNo": "T41547",
+   "desc": "HOSE - tractor to D130 backhoe, 58\" (1473 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 77.87,
+   "y": 87.59,
+   "partNo": "T41547",
+   "desc": "HOSE - tractor to D130 backhoe, 58\" (1473 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 58.7,
+   "y": 91.6,
+   "partNo": "T41332",
+   "desc": "COUPLING - quick disconnect, male",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 4.34,
+   "y": 91.39,
+   "partNo": "T41332",
+   "desc": "COUPLING - quick disconnect, male",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,251 @@
+{
+ "sectionTitle": "D100 H514109 Boom, Dipper Arm and Bucket Cylinder",
+ "breadcrumb": "D100 H514109 Boom, Dipper Arm and Bucket Cylinder",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_h514109_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 5.3,
+   "y": 55.84,
+   "partNo": "H052712",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 16.81,
+   "y": 34.22,
+   "partNo": "A29197",
+   "desc": "O-RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 81.12,
+   "y": 6.54,
+   "partNo": "A29197",
+   "desc": "O-RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 19.09,
+   "y": 32.78,
+   "partNo": "H754622",
+   "desc": "WASHER - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 78.42,
+   "y": 7.67,
+   "partNo": "H754622",
+   "desc": "WASHER - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 44.71,
+   "y": 22.53,
+   "partNo": "H052720",
+   "desc": "TUBE - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 62.45,
+   "y": 38.83,
+   "partNo": "H052738",
+   "desc": "TUBE - cylinder, barrel",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 20.86,
+   "y": 77.98,
+   "partNo": "131-1141",
+   "desc": "NUT - hex self lock, 1-1/8\" - 12 NF, plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 35.79,
+   "y": 71.73,
+   "partNo": "A27355",
+   "desc": "O-RING - small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 31.33,
+   "y": 73.37,
+   "partNo": "H052746",
+   "desc": "PISTON",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 39.01,
+   "y": 70.19,
+   "variants": [
+    {
+     "serialNote": "leather, use H754614 for service",
+     "partNo": "H745588",
+     "desc": "WASHER - backup, leather, use H754614 for service",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "rubber",
+     "partNo": "H754614",
+     "desc": "WASHER - backup, rubber *",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 46.37,
+   "y": 66.71,
+   "variants": [
+    {
+     "serialNote": "leather, use H754614 for service",
+     "partNo": "H745588",
+     "desc": "WASHER - backup, leather, use H754614 for service",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "rubber",
+     "partNo": "H754614",
+     "desc": "WASHER - backup, rubber *",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 42.74,
+   "y": 68.55,
+   "partNo": "D38755",
+   "desc": "O-RING - large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 71.27,
+   "y": 55.84,
+   "partNo": "A30097",
+   "desc": "O-RING - gland, large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 73.76,
+   "y": 54.71,
+   "partNo": "L14340",
+   "desc": "WASHER - backup, gland",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 60.48,
+   "y": 60.86,
+   "partNo": "H052753",
+   "desc": "GLAND - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 79.67,
+   "y": 52.46,
+   "partNo": "A30916",
+   "desc": "O-RING - gland, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 82.26,
+   "y": 51.64,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, gland *",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 90.46,
+   "y": 47.95,
+   "partNo": "H052761",
+   "desc": "RING - lock, gland *",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 86.52,
+   "y": 49.39,
+   "variants": [
+    {
+     "serialNote": "rod wiper, use A41785 seal for service",
+     "partNo": "H052779",
+     "desc": "SEAL - dust, rod wiper, use A41785 seal for service",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "rod wiper",
+     "partNo": "A41785",
+     "desc": "SEAL - dust, rod wiper *",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 94.92,
+   "y": 46.11,
+   "partNo": "H745794",
+   "desc": "NUT - gland, ring style",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 74.38,
+   "y": 76.65,
+   "partNo": "H052787",
+   "desc": "ROD - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 90.98,
+   "y": 58.4,
+   "partNo": "219-13",
+   "desc": "FITTING - grease, straight, 3/16\" driven",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 9.03,
+   "y": 38.32,
+   "partNo": "219-13",
+   "desc": "FITTING - grease, straight, 3/16\" driven",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 8.51,
+   "y": 54.3,
+   "partNo": "H215269",
+   "desc": "WASHER - .030\" (0.76 mm) thick",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "22",
+   "x": 11.11,
+   "y": 53.38,
+   "partNo": "H215277",
+   "desc": "WASHER - .058\" (1.47 mm) thick",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: H052795.\nAlso listed, not shown on diagram: H514109 CYLINDER - boom, dipper arm and bucket, 3\" (76 mm) ID x 15\" (381 mm) stroke (3)."
+}

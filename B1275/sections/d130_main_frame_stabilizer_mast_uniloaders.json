@@ -1,0 +1,498 @@
+{
+ "sectionTitle": "D130 Main Frame, Stabilizer and Mast - Uni-Loaders",
+ "breadcrumb": "D130 Main Frame, Stabilizer and Mast - Uni-Loaders",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_main_frame_stabilizer_mast_uniloaders.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 31.26,
+   "y": 72.24,
+   "partNo": "",
+   "desc": "FRAME - main, see the D130 mounting frame sections",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 61.17,
+   "y": 62.82,
+   "partNo": "H077024",
+   "desc": "BUSHING - stabilizer",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 58.53,
+   "y": 76.98,
+   "partNo": "H077024",
+   "desc": "BUSHING - stabilizer",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 67.45,
+   "y": 12.6,
+   "partNo": "H747170",
+   "desc": "BEARING - upper swing",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 57.52,
+   "y": 35.29,
+   "partNo": "H079285",
+   "desc": "PIN - stabilizer cylinder to frame",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 56.2,
+   "y": 39.26,
+   "partNo": "132-349",
+   "desc": "PIN - cotter, 1/4\" x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 66.84,
+   "y": 58.36,
+   "partNo": "",
+   "desc": "CYLINDER - stabilizer, see the D130 stabilizer cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 63.5,
+   "y": 85.71,
+   "partNo": "H070623",
+   "desc": "PIN - stabilizer cylinder to stabilizer",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 64.41,
+   "y": 81.92,
+   "partNo": "132-355",
+   "desc": "PIN - cotter, 3/8\" x 2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 62.99,
+   "y": 93.27,
+   "partNo": "H109777",
+   "desc": "PIN - stabilizer mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 59.14,
+   "y": 91.34,
+   "partNo": "132-314",
+   "desc": "PIN - cotter, 3/8\" x 2-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 76.58,
+   "y": 82.51,
+   "partNo": "H529503",
+   "desc": "STABILIZER - welded on stabilizer foot",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 35.11,
+   "y": 42.66,
+   "partNo": "H110270",
+   "desc": "U-BOLT - 5/16\" - 24 NF",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 35.51,
+   "y": 32.57,
+   "partNo": "H110270",
+   "desc": "U-BOLT - 5/16\" - 24 NF",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 9.86,
+   "y": 37.81,
+   "partNo": "131-176",
+   "desc": "NUT - hex self lock, 5/16\" - 24 NF",
+   "reqd": "8"
+  },
+  {
+   "ref": "14",
+   "x": 5.91,
+   "y": 40.04,
+   "partNo": "",
+   "desc": "CYLINDER - swing, see the D130 swing cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 50.82,
+   "y": 42.56,
+   "partNo": "",
+   "desc": "CYLINDER - swing, see the D130 swing cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 37.95,
+   "y": 31.02,
+   "partNo": "113-207",
+   "desc": "HHCS - 3/8\" - 16 NC x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15A",
+   "x": 37.85,
+   "y": 43.44,
+   "partNo": "131-1181",
+   "desc": "NUT - hex, self lock, 3/8\" - 16 NC",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 49.81,
+   "y": 30.73,
+   "partNo": "H194977",
+   "desc": "PLATE - cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 82.97,
+   "y": 28.69,
+   "partNo": "H529511",
+   "desc": "MAST - swing tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 89.46,
+   "y": 26.95,
+   "partNo": "H036640",
+   "desc": "BUSHING - swing cylinder pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 87.63,
+   "y": 33.83,
+   "partNo": "H035865",
+   "desc": "BUSHING - boom pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 65.22,
+   "y": 29.56,
+   "partNo": "H035865",
+   "desc": "BUSHING - boom pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 62.48,
+   "y": 36.45,
+   "partNo": "164-211",
+   "desc": "BOLT - socket head, flat, 3/4\" - 10 NC x 2-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 35.31,
+   "y": 54.29,
+   "partNo": "192-27",
+   "desc": "WASHER - lock, 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 33.59,
+   "y": 55.75,
+   "partNo": "129-148",
+   "desc": "NUT - hex, 3/4\" - 10 NC",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 78.4,
+   "y": 49.83,
+   "partNo": "113-728",
+   "desc": "HHCS - 3/4\" - 16 NF x 6-1/2\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 37.24,
+   "y": 65.54,
+   "partNo": "92-12",
+   "desc": "WASHER - lock, 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 31.26,
+   "y": 63.02,
+   "partNo": "129-128",
+   "desc": "NUT - hex, 3/4\" - 16 NF",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 76.07,
+   "y": 44.5,
+   "partNo": "NSS",
+   "desc": "MOUNT - mast",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 74.75,
+   "y": 40.62,
+   "partNo": "H747170",
+   "desc": "BEARING - mast",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 73.94,
+   "y": 51.67,
+   "partNo": "H035766",
+   "desc": "BUSHING - step",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 65.02,
+   "y": 52.25,
+   "partNo": "192-311",
+   "desc": "WASHER - lock, external star",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 74.25,
+   "y": 55.36,
+   "partNo": "131-1037",
+   "desc": "NUT - lock, bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 89.46,
+   "y": 6.78,
+   "partNo": "H109678",
+   "desc": "PIN - swing cylinder to links",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 77.0,
+   "y": 3.67,
+   "partNo": "H109678",
+   "desc": "PIN - swing cylinder to links",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 94.42,
+   "y": 7.74,
+   "partNo": "132-355",
+   "desc": "PIN - cotter, 3/8\" x 2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "32",
+   "x": 74.04,
+   "y": 5.81,
+   "partNo": "132-355",
+   "desc": "PIN - cotter, 3/8\" x 2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "33",
+   "x": 85.3,
+   "y": 6.0,
+   "partNo": "H111575",
+   "desc": "LINK - straight, swing cylinder to mast",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 87.73,
+   "y": 21.71,
+   "partNo": "H111575",
+   "desc": "LINK - straight, swing cylinder to mast",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 89.96,
+   "y": 16.19,
+   "partNo": "H111583",
+   "desc": "LINK - offset, swing cylinder to mast",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 94.12,
+   "y": 16.67,
+   "partNo": "H111583",
+   "desc": "LINK - offset, swing cylinder to mast",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 76.07,
+   "y": 12.41,
+   "partNo": "H076851",
+   "desc": "PIN - links to mast",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 77.9,
+   "y": 16.38,
+   "partNo": "D33805",
+   "desc": "PIN - lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 82.05,
+   "y": 17.44,
+   "partNo": "219-8",
+   "desc": "GREASE FITTING - straight, 1/4\" - 28 NF taper",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 89.46,
+   "y": 9.88,
+   "partNo": "219-8",
+   "desc": "GREASE FITTING - straight, 1/4\" - 28 NF taper",
+   "reqd": "4"
+  },
+  {
+   "ref": "38",
+   "x": 91.69,
+   "y": 44.69,
+   "partNo": "H095877",
+   "desc": "BOLT - drilled head",
+   "reqd": "4"
+  },
+  {
+   "ref": "39",
+   "x": 95.74,
+   "y": 39.26,
+   "partNo": "391-620",
+   "desc": "WIRE - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 89.35,
+   "y": 43.72,
+   "partNo": "H035980",
+   "desc": "BUSHING - step, rubber",
+   "reqd": "4"
+  },
+  {
+   "ref": "41",
+   "x": 94.02,
+   "y": 36.54,
+   "partNo": "H625731",
+   "desc": "BUMPER - rubber",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 90.47,
+   "y": 77.66,
+   "partNo": "H533638",
+   "desc": "STABILIZER - leg",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 87.22,
+   "y": 57.11,
+   "partNo": "H218263",
+   "desc": "PIN - pivot, uses cotter pin",
+   "reqd": "4"
+  },
+  {
+   "ref": "44",
+   "x": 81.34,
+   "y": 55.45,
+   "partNo": "132-152",
+   "desc": "PIN - cotter, 1/4\" x 1-3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "45",
+   "x": 89.66,
+   "y": 60.4,
+   "partNo": "H533646",
+   "desc": "PLATE - stabilizer leg",
+   "reqd": "2"
+  },
+  {
+   "ref": "46",
+   "x": 88.44,
+   "y": 50.12,
+   "partNo": "H050690",
+   "desc": "PIN - pivot, uses keeper pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "47",
+   "x": 95.13,
+   "y": 54.1,
+   "partNo": "H313981",
+   "desc": "PIN - keeper",
+   "reqd": "2"
+  },
+  {
+   "ref": "48",
+   "x": 94.42,
+   "y": 56.13,
+   "partNo": "H044875",
+   "desc": "SPACER - keeper pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "49",
+   "x": 95.74,
+   "y": 49.44,
+   "partNo": "113-208",
+   "desc": "HHCS - 3/8\" - 16 NC x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "50",
+   "x": 93.61,
+   "y": 58.36,
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "51",
+   "x": 88.24,
+   "y": 58.76,
+   "partNo": "129-103",
+   "desc": "NUT - hex, 3/8\" - 16 NC",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: H528877 MOUNT - lower mast support (1)."
+}

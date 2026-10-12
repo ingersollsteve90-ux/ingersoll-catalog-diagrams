@@ -1,0 +1,162 @@
+{
+ "sectionTitle": "D64103 Flow Control Valve",
+ "breadcrumb": "D64103 Flow Control Valve",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d64103_flow_control_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 89.66,
+   "y": 17.7,
+   "partNo": "178-413",
+   "desc": "SCREW - set, Allen, #10 - 24 NC x 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 77.71,
+   "y": 10.2,
+   "partNo": "D70641",
+   "desc": "DISC - control, includes pointer",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 55.76,
+   "y": 23.3,
+   "partNo": "178-413",
+   "desc": "SCREW - set, Allen, #10 - 24 NC x 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 79.97,
+   "y": 39.5,
+   "partNo": "D70642",
+   "desc": "ROD - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 52.56,
+   "y": 36.3,
+   "partNo": "D70637",
+   "desc": "VALVE - needle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 76.47,
+   "y": 47.6,
+   "partNo": "L31330",
+   "desc": "RING - backup",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 76.88,
+   "y": 50.8,
+   "partNo": "A30825",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 51.43,
+   "y": 45.9,
+   "partNo": "NSS",
+   "desc": "POINTER - use D70641",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 87.91,
+   "y": 53.1,
+   "partNo": "D70639",
+   "desc": "STOP",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 87.6,
+   "y": 59.2,
+   "partNo": "D70638",
+   "desc": "SPRING - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 50.6,
+   "y": 94.7,
+   "partNo": "D70636",
+   "desc": "PLUG - hex head, special",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 21.85,
+   "y": 5.1,
+   "partNo": "D70636",
+   "desc": "PLUG - hex head, special",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 49.67,
+   "y": 88.0,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 22.36,
+   "y": 13.1,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 24.53,
+   "y": 22.2,
+   "partNo": "D70635",
+   "desc": "SPRING - spool",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 22.36,
+   "y": 32.7,
+   "partNo": "D70634",
+   "desc": "SPOOL - floating",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 9.69,
+   "y": 45.3,
+   "partNo": "NSS",
+   "desc": "BODY - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 81.83,
+   "y": 76.8,
+   "partNo": "218-5154",
+   "desc": "PLUG - hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 73.07,
+   "y": 69.1,
+   "partNo": "218-5004",
+   "desc": "O-RING",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: D64103 VALVE - flow control, Char-Lynn (1)."
+}

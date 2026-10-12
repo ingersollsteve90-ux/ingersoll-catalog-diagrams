@@ -1,0 +1,370 @@
+{
+ "sectionTitle": "D130 Hydraulic Lines - Boom, Dipper and Bucket (Before S/N Q2720171)",
+ "breadcrumb": "D130 Hydraulic Lines - Boom, Dipper and Bucket (Before S/N Q2720171)",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_lines_boom_dipper_bucket_before_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 4.6,
+   "y": 58.42,
+   "partNo": "H528844",
+   "desc": "VALVE - control, see the \"D130 H528844 Backhoe Control Valve\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 13.09,
+   "y": 56.41,
+   "partNo": "218-5059",
+   "desc": "FITTING - straight, male",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 8.75,
+   "y": 59.12,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 18.24,
+   "y": 56.12,
+   "partNo": "H528323",
+   "desc": "HOSE - at valve, upper ports",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 26.02,
+   "y": 56.71,
+   "partNo": "H528323",
+   "desc": "HOSE - at valve, upper ports",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 20.67,
+   "y": 58.92,
+   "partNo": "H528331",
+   "desc": "HOSE - at valve, lower ports",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 19.56,
+   "y": 67.95,
+   "partNo": "H528331",
+   "desc": "HOSE - at valve, lower ports",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 25.72,
+   "y": 67.04,
+   "partNo": "H528331",
+   "desc": "HOSE - at valve, lower ports",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 63.11,
+   "y": 84.49,
+   "partNo": "H529412",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 57.45,
+   "y": 80.28,
+   "partNo": "113-104",
+   "desc": "HHCS - 5/16\" - 18 NC x 1-1/4\", plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 58.97,
+   "y": 82.19,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 72.61,
+   "y": 67.25,
+   "partNo": "113-104",
+   "desc": "HHCS - 5/16\" - 18 NC x 1-1/4\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 69.57,
+   "y": 65.84,
+   "partNo": "195-521",
+   "desc": "WASHER - flat, 5/16\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 67.45,
+   "y": 64.54,
+   "partNo": "",
+   "desc": "CLAMP - tubes",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 65.74,
+   "y": 63.63,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 63.61,
+   "y": 63.03,
+   "partNo": "129-102",
+   "desc": "NUT - hex, 5/16\" - 18 NC, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 48.25,
+   "y": 59.12,
+   "partNo": "H528711",
+   "desc": "TUBE - to dipper arm cylinder, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 40.47,
+   "y": 65.74,
+   "partNo": "H528703",
+   "desc": "TUBE - to dipper arm cylinder, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 33.2,
+   "y": 49.29,
+   "partNo": "H112615",
+   "desc": "HOSE - at dipper arm cylinder, 9-1/2\" (241 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 37.85,
+   "y": 38.36,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 39.97,
+   "y": 44.48,
+   "partNo": "",
+   "desc": "CYLINDER - boom and dipper arm, see the D130 boom and dipper arm cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 60.99,
+   "y": 52.8,
+   "partNo": "H528695",
+   "desc": "TUBE - to boom cylinder, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 53.0,
+   "y": 53.2,
+   "partNo": "H528687",
+   "desc": "TUBE - to boom cylinder, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 72.3,
+   "y": 54.81,
+   "partNo": "113-104",
+   "desc": "HHCS - 5/16\" - 18 NC x 1-1/4\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 69.98,
+   "y": 53.9,
+   "partNo": "195-521",
+   "desc": "WASHER - flat, 5/16\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 66.85,
+   "y": 53.3,
+   "partNo": "H045468",
+   "desc": "CLAMP - tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 68.36,
+   "y": 46.49,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 64.42,
+   "y": 51.8,
+   "partNo": "129-102",
+   "desc": "NUT - hex, 5/16\" - 18 NC, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 59.17,
+   "y": 31.44,
+   "partNo": "H080283",
+   "desc": "HOSE - at boom cylinder, 14\" (356 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 52.5,
+   "y": 34.35,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 61.39,
+   "y": 12.39,
+   "partNo": "187-1070",
+   "desc": "SCREW - self-tapping, 5/16\" - 18 NC x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 63.31,
+   "y": 14.8,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 66.75,
+   "y": 16.3,
+   "partNo": "H059345",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 79.58,
+   "y": 32.74,
+   "partNo": "H528737",
+   "desc": "TUBE - to bucket cylinder, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 66.64,
+   "y": 24.62,
+   "partNo": "H528729",
+   "desc": "TUBE - to bucket cylinder, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 95.54,
+   "y": 10.58,
+   "partNo": "H115725",
+   "desc": "HOSE - at bucket cylinder, 39\" (991 mm) long",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 92.01,
+   "y": 20.81,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 89.38,
+   "y": 42.58,
+   "partNo": "",
+   "desc": "CYLINDER - bucket, see the \"D130 H530493 / H630285 Bucket Cylinder\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 93.12,
+   "y": 10.28,
+   "partNo": "113-103",
+   "desc": "HHCS - 5/16\" - 18 NC x 1\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 94.63,
+   "y": 4.57,
+   "partNo": "195-521",
+   "desc": "WASHER - flat, 5/16\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "38",
+   "x": 81.5,
+   "y": 8.48,
+   "partNo": "H111468",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 83.52,
+   "y": 6.27,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "40",
+   "x": 80.89,
+   "y": 3.77,
+   "partNo": "129-102",
+   "desc": "NUT - hex, 5/16\" - 18 NC, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "41",
+   "x": 5.92,
+   "y": 74.27,
+   "partNo": "H052548",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 4.6,
+   "y": 80.28,
+   "partNo": "H052571",
+   "desc": "CLAMP",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

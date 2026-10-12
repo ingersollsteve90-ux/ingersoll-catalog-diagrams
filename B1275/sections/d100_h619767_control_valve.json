@@ -1,0 +1,546 @@
+{
+ "sectionTitle": "D100 H619767 Control Valve (Compact Loaders)",
+ "breadcrumb": "D100 H619767 Control Valve (Compact Loaders)",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_h619767_control_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 47.11,
+   "y": 5.3,
+   "partNo": "H619767",
+   "desc": "VALVE - control",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 47.42,
+   "y": 50.06,
+   "partNo": "H745752",
+   "desc": "O-RING - middle size",
+   "reqd": "14"
+  },
+  {
+   "ref": "5",
+   "x": 46.28,
+   "y": 61.55,
+   "partNo": "H745752",
+   "desc": "O-RING - middle size",
+   "reqd": "14"
+  },
+  {
+   "ref": "5",
+   "x": 78.51,
+   "y": 63.27,
+   "partNo": "H745752",
+   "desc": "O-RING - middle size",
+   "reqd": "14"
+  },
+  {
+   "ref": "5",
+   "x": 69.94,
+   "y": 74.54,
+   "partNo": "H745752",
+   "desc": "O-RING - middle size",
+   "reqd": "14"
+  },
+  {
+   "ref": "6",
+   "x": 76.14,
+   "y": 71.32,
+   "partNo": "F62114",
+   "desc": "O-RING - small",
+   "reqd": "7"
+  },
+  {
+   "ref": "6",
+   "x": 46.28,
+   "y": 57.79,
+   "partNo": "F62114",
+   "desc": "O-RING - small",
+   "reqd": "7"
+  },
+  {
+   "ref": "7",
+   "x": 48.86,
+   "y": 54.47,
+   "partNo": "A32180",
+   "desc": "O-RING - large",
+   "reqd": "7"
+  },
+  {
+   "ref": "7",
+   "x": 79.96,
+   "y": 68.21,
+   "partNo": "A32180",
+   "desc": "O-RING - large",
+   "reqd": "7"
+  },
+  {
+   "ref": "7A",
+   "x": 71.18,
+   "y": 64.34,
+   "partNo": "H210849",
+   "desc": "WASHER - backup",
+   "reqd": ""
+  },
+  {
+   "ref": "7A",
+   "x": 39.57,
+   "y": 50.06,
+   "partNo": "H210849",
+   "desc": "WASHER - backup",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 54.34,
+   "y": 45.88,
+   "partNo": "NSS",
+   "desc": "BODY - relief valve",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 54.24,
+   "y": 50.82,
+   "partNo": "A27365",
+   "desc": "O-RING",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 42.15,
+   "y": 88.71,
+   "partNo": "H052837",
+   "desc": "PLUG - dipper section",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 42.56,
+   "y": 83.56,
+   "partNo": "A27365",
+   "desc": "O-RING - H644450 and H351791 valve",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 56.4,
+   "y": 86.99,
+   "partNo": "NSS",
+   "desc": "BODY - relief - H644450 and H351791 valve",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 54.03,
+   "y": 78.51,
+   "partNo": "A27365",
+   "desc": "O-RING - H644450 and H351791 valve",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 89.88,
+   "y": 56.4,
+   "partNo": "NSS",
+   "desc": "BODY - relief",
+   "reqd": ""
+  },
+  {
+   "ref": "15",
+   "x": 89.57,
+   "y": 60.05,
+   "partNo": "A27365",
+   "desc": "O-RING - large",
+   "reqd": ""
+  },
+  {
+   "ref": "16",
+   "x": 89.36,
+   "y": 62.62,
+   "partNo": "G32626",
+   "desc": "WASHER - backup",
+   "reqd": ""
+  },
+  {
+   "ref": "17",
+   "x": 89.05,
+   "y": 65.52,
+   "partNo": "A7982",
+   "desc": "O-RING - small",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 89.46,
+   "y": 84.63,
+   "partNo": "H052852",
+   "desc": "INLET AND OUTLET SECTION - valve",
+   "reqd": ""
+  },
+  {
+   "ref": "19",
+   "x": 54.34,
+   "y": 30.74,
+   "partNo": "H060178",
+   "desc": "ORIFICE - swing section",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 60.43,
+   "y": 31.71,
+   "partNo": "H052878",
+   "desc": "ORIFICE - boom section, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 47.62,
+   "y": 23.23,
+   "partNo": "H513630",
+   "desc": "BOOM AND DIPPER ARM SECTION - valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 73.14,
+   "y": 35.04,
+   "partNo": "H513630",
+   "desc": "BOOM AND DIPPER ARM SECTION - valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 73.04,
+   "y": 56.61,
+   "partNo": "NSS",
+   "desc": "BODY - valve section",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 69.11,
+   "y": 45.56,
+   "partNo": "NSS",
+   "desc": "SPOOL - valve section",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 66.74,
+   "y": 93.54,
+   "partNo": "NSS",
+   "desc": "END - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 39.57,
+   "y": 75.94,
+   "partNo": "H052886",
+   "desc": "CHECK - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 46.8,
+   "y": 73.25,
+   "partNo": "FH730374",
+   "desc": "SPRING - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 50.41,
+   "y": 72.18,
+   "partNo": "FH730366",
+   "desc": "PLUNGER - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 67.77,
+   "y": 77.98,
+   "partNo": "H052902",
+   "desc": "RETAINER - spring, deep",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 67.67,
+   "y": 81.09,
+   "partNo": "H052928",
+   "desc": "SPRING - spool return",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 67.46,
+   "y": 86.99,
+   "partNo": "H047555",
+   "desc": "SPACER - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 67.36,
+   "y": 90.97,
+   "partNo": "F59116",
+   "desc": "RETAINER - spring, shallow",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 66.53,
+   "y": 96.33,
+   "partNo": "A27804",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 42.46,
+   "y": 75.72,
+   "partNo": "16905",
+   "desc": "O-RING - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 45.14,
+   "y": 74.0,
+   "partNo": "H746883",
+   "desc": "WASHER - backup, check",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 53.72,
+   "y": 56.08,
+   "partNo": "A27365",
+   "desc": "O-RING - relief valves and plug",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 53.2,
+   "y": 73.9,
+   "partNo": "A27365",
+   "desc": "O-RING - relief valves and plug",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 53.62,
+   "y": 53.82,
+   "partNo": "A44179",
+   "desc": "WASHER - backup, relief valve and plug",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 53.31,
+   "y": 76.26,
+   "partNo": "A44179",
+   "desc": "WASHER - backup, relief valve and plug",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 68.8,
+   "y": 53.71,
+   "partNo": "F37887",
+   "desc": "O-RING - spool, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 68.18,
+   "y": 75.94,
+   "partNo": "A7982",
+   "desc": "O-RING - spool, lower",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 53.2,
+   "y": 25.91,
+   "partNo": "H513648",
+   "desc": "BUCKET, STABILIZER AND SWING SECTION - valve",
+   "reqd": "4"
+  },
+  {
+   "ref": "40",
+   "x": 68.18,
+   "y": 31.92,
+   "partNo": "H513648",
+   "desc": "BUCKET, STABILIZER AND SWING SECTION - valve",
+   "reqd": "4"
+  },
+  {
+   "ref": "41",
+   "x": 42.56,
+   "y": 42.23,
+   "partNo": "NSS",
+   "desc": "BODY - valve section",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 38.64,
+   "y": 31.49,
+   "partNo": "NSS",
+   "desc": "SPOOL - valve section",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 36.67,
+   "y": 79.05,
+   "partNo": "NSS",
+   "desc": "END - valve spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 8.06,
+   "y": 63.16,
+   "partNo": "H052886",
+   "desc": "CHECK - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 16.74,
+   "y": 59.62,
+   "partNo": "FH730374",
+   "desc": "SPRING - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 19.32,
+   "y": 58.33,
+   "partNo": "FH730366",
+   "desc": "PLUNGER - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 36.98,
+   "y": 64.77,
+   "partNo": "H052902",
+   "desc": "RETAINER - spring, deep",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 36.78,
+   "y": 67.35,
+   "partNo": "H052928",
+   "desc": "SPRING - spool return",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 36.47,
+   "y": 70.78,
+   "partNo": "H047555",
+   "desc": "SPACER - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "50",
+   "x": 36.16,
+   "y": 76.26,
+   "partNo": "F59116",
+   "desc": "RETAINER - spring, shallow",
+   "reqd": "1"
+  },
+  {
+   "ref": "51",
+   "x": 35.95,
+   "y": 82.27,
+   "partNo": "A27804",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "52",
+   "x": 10.85,
+   "y": 61.77,
+   "partNo": "16905",
+   "desc": "O-RING - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 13.84,
+   "y": 60.59,
+   "partNo": "H746883",
+   "desc": "WASHER - backup, check",
+   "reqd": "1"
+  },
+  {
+   "ref": "54",
+   "x": 38.22,
+   "y": 39.54,
+   "partNo": "F37887",
+   "desc": "O-RING - spool, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "55",
+   "x": 37.09,
+   "y": 62.41,
+   "partNo": "A7982",
+   "desc": "O-RING - spool, lower",
+   "reqd": "1"
+  },
+  {
+   "ref": "57",
+   "x": 77.58,
+   "y": 92.15,
+   "partNo": "218-5157",
+   "desc": "PLUG - hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "58",
+   "x": 81.92,
+   "y": 90.64,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "partNo": "H052803",
+   "desc": "OUTLET SECTION - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "partNo": "H052811",
+   "desc": "BOLT - section retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "56",
+   "partNo": "221-1842",
+   "desc": "PLUG - hex socket, if used",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: H052969, H052985, H052951, H052977.\nAlso listed, not shown on diagram: H351791 VALVE - relief, boom section, top; H052829 VALVE - relief, dipper section, top; H644450 VALVE - relief, boom section, bottom; H226415 VALVE - relief, outlet section 644 and 646; H629980 VALVE - relief, inlet and outlet section, 646; H120089 KIT - seal, H120121 and H629980 valves.\nListed but not drawn on this diagram: ref 2; ref 3; ref 4; ref 56 (see parts list)."
+}

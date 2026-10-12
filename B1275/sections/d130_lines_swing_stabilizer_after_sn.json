@@ -1,0 +1,540 @@
+{
+ "sectionTitle": "D130 Hydraulic Lines - Swing, Stabilizer and Controls (S/N Q2720171 and After)",
+ "breadcrumb": "D130 Hydraulic Lines - Swing, Stabilizer and Controls (S/N Q2720171 and After)",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_lines_swing_stabilizer_after_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.71,
+   "y": 12.01,
+   "partNo": "H050930",
+   "desc": "LEVER - stabilizer control",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 39.42,
+   "y": 4.2,
+   "partNo": "H050922",
+   "desc": "LEVER - swing, boom, dipper arm and bucket control",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 59.88,
+   "y": 16.27,
+   "partNo": "H050922",
+   "desc": "LEVER - swing, boom, dipper arm and bucket control",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 80.24,
+   "y": 43.05,
+   "partNo": "H110262",
+   "desc": "SHAFT - lever pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.99,
+   "y": 20.13,
+   "partNo": "H026468",
+   "desc": "SPACER - levers",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 60.79,
+   "y": 34.03,
+   "partNo": "H026468",
+   "desc": "SPACER - levers",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 47.48,
+   "y": 26.72,
+   "partNo": "95-9",
+   "desc": "WASHER - flat, 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 37.61,
+   "y": 21.75,
+   "partNo": "138-2002",
+   "desc": "PIN - roll, spiral, 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 70.96,
+   "y": 22.16,
+   "partNo": "H035279",
+   "desc": "PIN - clevis",
+   "reqd": "12"
+  },
+  {
+   "ref": "8",
+   "x": 70.86,
+   "y": 19.52,
+   "partNo": "132-5",
+   "desc": "PIN - cotter, 1/16\" x 1/2\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "9",
+   "x": 73.58,
+   "y": 23.17,
+   "partNo": "H110254",
+   "desc": "LINK - lever to valve",
+   "reqd": "12"
+  },
+  {
+   "ref": "10",
+   "x": 87.09,
+   "y": 27.63,
+   "partNo": "187-1069",
+   "desc": "SCREW - self-tapping, 5/16\" - 18 NC x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 85.98,
+   "y": 31.08,
+   "partNo": "192-20",
+   "desc": "WASHER - lock, 5/16\", plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 82.35,
+   "y": 23.58,
+   "variants": [
+    {
+     "serialNote": "uni-loaders",
+     "partNo": "H110247",
+     "desc": "PANEL - cover, uni-loaders",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "380 CK",
+     "partNo": "H334391",
+     "desc": "PANEL - cover, 380 CK",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 63.71,
+   "y": 43.16,
+   "variants": [
+    {
+     "serialNote": "Uni-Loaders",
+     "partNo": "H528893",
+     "desc": "BRACKET - valve mounting, uni-loaders",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "380 CK",
+     "partNo": "H625186",
+     "desc": "BRACKET - valve mount, 380CK",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 46.68,
+   "y": 39.6,
+   "partNo": "192-23",
+   "desc": "WASHER - lock, 1/2\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 46.88,
+   "y": 42.34,
+   "partNo": "129-125",
+   "desc": "NUT - hex, 1/2\" - 13 NC, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 45.37,
+   "y": 76.33,
+   "partNo": "113-335",
+   "desc": "HHCS - 7/16\" - 14 NC x 3/4\", plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 47.48,
+   "y": 74.7,
+   "partNo": "192-22",
+   "desc": "WASHER - lock, 7/16\", plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 56.25,
+   "y": 75.31,
+   "partNo": "H528844",
+   "desc": "VALVE - control, see the \"D130 H528844 Backhoe Control Valve\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 66.33,
+   "y": 62.23,
+   "partNo": "218-5201",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 54.13,
+   "y": 54.31,
+   "partNo": "218-5201",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 50.3,
+   "y": 55.33,
+   "partNo": "281-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 63.1,
+   "y": 63.95,
+   "partNo": "281-5007",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 64.51,
+   "y": 57.26,
+   "partNo": "218-5058",
+   "desc": "FITTING - straight, male",
+   "reqd": "6"
+  },
+  {
+   "ref": "22",
+   "x": 54.54,
+   "y": 56.85,
+   "partNo": "218-5006",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 76.41,
+   "y": 59.18,
+   "variants": [
+    {
+     "serialNote": "uni-loaders",
+     "partNo": "H112607",
+     "desc": "HOSE - valve to stabilizer cylinder, uni-loaders",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "380CK",
+     "partNo": "H356758",
+     "desc": "HOSE - valve to stabilizer cylinder, 380CK",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "23",
+   "x": 36.9,
+   "y": 34.33,
+   "variants": [
+    {
+     "serialNote": "uni-loaders",
+     "partNo": "H112607",
+     "desc": "HOSE - valve to stabilizer cylinder, uni-loaders",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "380CK",
+     "partNo": "H356758",
+     "desc": "HOSE - valve to stabilizer cylinder, 380CK",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "24",
+   "x": 39.72,
+   "y": 47.82,
+   "partNo": "H114272",
+   "desc": "GROMMET - rubber",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 87.49,
+   "y": 69.83,
+   "partNo": "H114272",
+   "desc": "GROMMET - rubber",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 35.79,
+   "y": 48.53,
+   "partNo": "218-5392",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 36.4,
+   "y": 24.29,
+   "partNo": "218-5392",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 81.04,
+   "y": 51.27,
+   "partNo": "218-5392",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 86.59,
+   "y": 84.44,
+   "partNo": "218-5392",
+   "desc": "FITTING - adjustable, 90°",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 31.16,
+   "y": 43.87,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 34.58,
+   "y": 22.56,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 84.27,
+   "y": 52.49,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 90.11,
+   "y": 84.24,
+   "partNo": "218-5005",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 26.32,
+   "y": 24.19,
+   "partNo": "",
+   "desc": "CYLINDER - stabilizer, see the D130 stabilizer cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 94.85,
+   "y": 57.36,
+   "partNo": "",
+   "desc": "CYLINDER - stabilizer, see the D130 stabilizer cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 37.3,
+   "y": 53.5,
+   "variants": [
+    {
+     "serialNote": "Cessna cylinder, Uni-Loaders",
+     "partNo": "H112581",
+     "desc": "HOSE - valve to Cessna swing cylinder, LH, uni-loaders",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Cessna cylinder, 380 CK",
+     "partNo": "H356741",
+     "desc": "HOSE - valve to Cessna swing cylinder, LH, 380CK",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Case cylinder (female ends)",
+     "partNo": "H357921",
+     "desc": "HOSE - valve to Case swing cylinder, LH, female ends, not shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 78.02,
+   "y": 51.27,
+   "variants": [
+    {
+     "serialNote": "Cessna cylinder, Uni-Loaders",
+     "partNo": "H112599",
+     "desc": "HOSE - valve to Cessna swing cylinder, RH, uni-loaders",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Case cylinder (female ends)",
+     "partNo": "H357913",
+     "desc": "HOSE - valve to Case swing cylinder, RH, female ends, not shown",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Cessna cylinder, 380 CK",
+     "partNo": "H356758",
+     "desc": "HOSE - valve to Cessna swing cylinder, RH, 380CK",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 33.07,
+   "y": 63.24,
+   "variants": [
+    {
+     "serialNote": "pipe threads, if used",
+     "partNo": "218-921",
+     "desc": "FITTING - adjustable, 90°, pipe threads, if used",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "includes O-ring",
+     "partNo": "218-5392",
+     "desc": "FITTING - adjustable, 90°, includes O-ring",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 77.41,
+   "y": 80.08,
+   "variants": [
+    {
+     "serialNote": "pipe threads, if used",
+     "partNo": "218-921",
+     "desc": "FITTING - adjustable, 90°, pipe threads, if used",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "includes O-ring",
+     "partNo": "218-5392",
+     "desc": "FITTING - adjustable, 90°, includes O-ring",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 33.47,
+   "y": 55.23,
+   "partNo": "218-5005",
+   "desc": "O-RING - part of 218-5392 or 218-5128 fittings only",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 76.61,
+   "y": 71.96,
+   "partNo": "218-5005",
+   "desc": "O-RING - part of 218-5392 or 218-5128 fittings only",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 16.24,
+   "y": 60.7,
+   "partNo": "",
+   "desc": "CYLINDER - swing, see the D130 swing cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 70.06,
+   "y": 87.49,
+   "partNo": "",
+   "desc": "CYLINDER - swing, see the D130 swing cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 90.52,
+   "y": 5.82,
+   "partNo": "H102749",
+   "desc": "DECAL - control levers",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 92.43,
+   "y": 12.22,
+   "partNo": "321-3054",
+   "desc": "DECAL - warning",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 4.55,
+   "y": 30.27,
+   "partNo": "321-3994",
+   "desc": "DECAL - Important",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 4.75,
+   "y": 39.91,
+   "partNo": "321-4130",
+   "desc": "DECAL - Caution",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 95.55,
+   "y": 16.68,
+   "partNo": "321-1572",
+   "desc": "DECAL - Case",
+   "reqd": "1"
+  },
+  {
+   "ref": "30A",
+   "partNo": "218-5128",
+   "desc": "FITTING - adjustable, 90°, male ends, if used, not shown, includes O-ring",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Listed but not drawn on this diagram: ref 30A (see parts list)."
+}

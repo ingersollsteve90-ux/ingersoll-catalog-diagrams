@@ -1,0 +1,162 @@
+{
+ "sectionTitle": "D100 G100936 Boom, Dipper Arm and Bucket Cylinder",
+ "breadcrumb": "D100 G100936 Boom, Dipper Arm and Bucket Cylinder",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_g100936_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 73.94,
+   "y": 83.25,
+   "partNo": "G100937",
+   "desc": "TUBE - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 92.0,
+   "y": 46.73,
+   "partNo": "NSS",
+   "desc": "GLAND - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 18.02,
+   "y": 51.5,
+   "partNo": "NSS",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 22.53,
+   "y": 49.47,
+   "partNo": "D95142",
+   "desc": "WIPER - piston rod *",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 11.55,
+   "y": 54.64,
+   "partNo": "G34302",
+   "desc": "BEARING - center *",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 81.33,
+   "y": 48.96,
+   "partNo": "D36969",
+   "desc": "SEAL - piston rod (** see G100776 service option) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 66.65,
+   "y": 56.98,
+   "partNo": "A30095",
+   "desc": "O-RING - gland *",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 73.94,
+   "y": 53.93,
+   "partNo": "G32122",
+   "desc": "RING - backup *",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 88.61,
+   "y": 57.28,
+   "partNo": "187-1031",
+   "desc": "SCREW - self tapping, no. 8 - 32 NC x 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 60.91,
+   "y": 31.21,
+   "partNo": "G101357",
+   "desc": "ROD - piston, 1-1/2\" (38 mm) OD",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 35.26,
+   "y": 70.47,
+   "partNo": "G100442",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 52.29,
+   "y": 63.57,
+   "partNo": "G102288",
+   "desc": "SEAL - piston *",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 43.67,
+   "y": 66.11,
+   "partNo": "G100444",
+   "desc": "RING - backup *",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 59.99,
+   "y": 60.42,
+   "partNo": "G100449",
+   "desc": "RING - wear *",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 25.2,
+   "y": 74.93,
+   "partNo": "G100449",
+   "desc": "RING - wear *",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 9.19,
+   "y": 78.89,
+   "partNo": "28-1232",
+   "desc": "BOLT - hex, 3/4\" - 16 NF x 2\", grade 8",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 16.89,
+   "y": 76.05,
+   "partNo": "G32317",
+   "desc": "WASHER - hardened",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 28.79,
+   "y": 96.64,
+   "partNo": "219-36",
+   "desc": "GREASE FITTING - 45°, 1/8\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 80.51,
+   "y": 8.58,
+   "partNo": "219-36",
+   "desc": "GREASE FITTING - 45°, 1/8\" NPT",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: G102404.\nAlso listed, not shown on diagram: G100936 CYLINDER - boom, dipper arm and bucket, 3\" (76 mm) ID x 14-5/8\" (371 mm) stroke (3); G34328 GLAND ASSEMBLY - cylinder (1); G100776 SEAL - piston rod, service option - severe heat or cold (**) (1)."
+}

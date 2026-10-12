@@ -1,0 +1,186 @@
+{
+ "sectionTitle": "D130 G34174 Boom and Dipper Arm Cylinder",
+ "breadcrumb": "D130 G34174 Boom and Dipper Arm Cylinder",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_g34174_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 13.81,
+   "y": 42.12,
+   "partNo": "L30443",
+   "desc": "RING - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 87.63,
+   "y": 7.0,
+   "partNo": "L30443",
+   "desc": "RING - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 89.16,
+   "y": 6.08,
+   "partNo": "16905",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 11.98,
+   "y": 42.73,
+   "partNo": "16905",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 5.75,
+   "y": 46.11,
+   "partNo": "G34480",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 9.93,
+   "y": 34.03,
+   "partNo": "83-44",
+   "desc": "SCREW - hex socket, cut point, 1/4\" 20 NC x 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 37.81,
+   "y": 20.82,
+   "partNo": "G34183",
+   "desc": "TUBE - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 44.03,
+   "y": 31.88,
+   "partNo": "G34175",
+   "desc": "TUBE - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 12.08,
+   "y": 71.09,
+   "partNo": "28-1232",
+   "desc": "HHCS - 3/4\" - 16 NF x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 17.79,
+   "y": 68.74,
+   "partNo": "G32317",
+   "desc": "WASHER - hardened",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 31.27,
+   "y": 58.6,
+   "partNo": "G33747",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 22.08,
+   "y": 63.11,
+   "partNo": "G100449",
+   "desc": "RING - wear *",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 40.05,
+   "y": 54.2,
+   "partNo": "G32034",
+   "desc": "RING - backup *",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 37.5,
+   "y": 55.84,
+   "partNo": "A28318",
+   "desc": "O-RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 58.63,
+   "y": 44.68,
+   "partNo": "NSS",
+   "desc": "GLAND AND BEARING - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 46.38,
+   "y": 51.13,
+   "partNo": "A30095",
+   "desc": "O-RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 49.14,
+   "y": 49.39,
+   "partNo": "G32122",
+   "desc": "RING - backup *",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 71.7,
+   "y": 40.58,
+   "partNo": "D36969",
+   "desc": "SEAL - rod *",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 76.2,
+   "y": 38.12,
+   "partNo": "D95142",
+   "desc": "WIPER - rod *",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 63.74,
+   "y": 41.5,
+   "partNo": "187-1031",
+   "desc": "SCREW - self tapping, #8 - 32 NC x 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 56.8,
+   "y": 79.38,
+   "partNo": "G34179",
+   "desc": "ROD - piston, 1-1/2\" (38 mm) dia",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 95.49,
+   "y": 48.26,
+   "partNo": "219-1",
+   "desc": "GREASE FITTING - straight, 1/8\" NPT",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: G32269.\nAlso listed, not shown on diagram: G34174 CYLINDER - boom and dipper arm, 24\" (610 mm) stroke x 3\" (76 mm) ID tube (2); G34328 GLAND ASSEMBLY - cylinder (1)."
+}

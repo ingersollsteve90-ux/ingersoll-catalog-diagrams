@@ -1,0 +1,234 @@
+{
+ "sectionTitle": "D130 H630293 Boom and Dipper Arm Cylinder",
+ "breadcrumb": "D130 H630293 Boom and Dipper Arm Cylinder",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_h630293_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 11.36,
+   "y": 37.01,
+   "partNo": "A30097",
+   "desc": "O-RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 94.71,
+   "y": 5.81,
+   "partNo": "A30097",
+   "desc": "O-RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 13.38,
+   "y": 35.88,
+   "partNo": "H752212",
+   "desc": "WASHER - backup *",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 92.27,
+   "y": 6.94,
+   "partNo": "H752212",
+   "desc": "WASHER - backup *",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 49.58,
+   "y": 17.58,
+   "partNo": "H120170",
+   "desc": "TUBE - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 14.91,
+   "y": 69.64,
+   "partNo": "F8236",
+   "desc": "WASHER - .005\" (0.13 mm) thick",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "5",
+   "x": 17.34,
+   "y": 69.02,
+   "partNo": "H162974",
+   "desc": "WASHER - .015 (0.38 mm) thick",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "6",
+   "x": 19.16,
+   "y": 68.0,
+   "partNo": "H746172",
+   "desc": "WASHER - .030\" (0.76 mm) thick",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "7",
+   "x": 50.6,
+   "y": 29.95,
+   "partNo": "H120154",
+   "desc": "TUBE - cylinder, barrel assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 12.78,
+   "y": 87.64,
+   "partNo": "131-371",
+   "desc": "NUT - hex self lock, 1-1/8\" - 12 NF",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 22.0,
+   "y": 83.75,
+   "partNo": "H120147",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "9A",
+   "x": 49.28,
+   "y": 70.35,
+   "partNo": "H352989",
+   "desc": "WASHER - spacer",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 26.16,
+   "y": 78.54,
+   "partNo": "A27355",
+   "desc": "O-RING - piston, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 34.27,
+   "y": 78.03,
+   "partNo": "H120188",
+   "desc": "RING - backup, piston *",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 43.3,
+   "y": 73.73,
+   "partNo": "H120188",
+   "desc": "RING - backup, piston *",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 39.65,
+   "y": 75.37,
+   "partNo": "G10389",
+   "desc": "O-RING - piston, large *",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 30.82,
+   "y": 79.36,
+   "partNo": "G10389",
+   "desc": "O-RING - piston, large *",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 58.51,
+   "y": 66.06,
+   "partNo": "H052753",
+   "desc": "GLAND - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 73.21,
+   "y": 56.34,
+   "partNo": "A30916",
+   "desc": "O-RING - gland, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 75.14,
+   "y": 55.73,
+   "partNo": "T31052",
+   "desc": "RING - backup, gland, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 67.23,
+   "y": 61.76,
+   "partNo": "A27996",
+   "desc": "O-RING - gland, large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 70.47,
+   "y": 60.54,
+   "partNo": "H745760",
+   "desc": "RING - backup, gland, large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 83.15,
+   "y": 53.07,
+   "partNo": "H052761",
+   "desc": "RING - retaining, gland *",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 78.58,
+   "y": 54.09,
+   "partNo": "A41785",
+   "desc": "WIPER - rod *",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 88.72,
+   "y": 41.71,
+   "partNo": "H745794",
+   "desc": "NUT - ring style, gland retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 59.93,
+   "y": 78.54,
+   "partNo": "H120162",
+   "desc": "ROD - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 4.56,
+   "y": 50.72,
+   "partNo": "219-1",
+   "desc": "GREASE FITTING - straight, 1/8\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 95.52,
+   "y": 48.98,
+   "partNo": "219-1",
+   "desc": "GREASE FITTING - straight, 1/8\" NPT",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: H632851.\nAlso listed, not shown on diagram: H630293 CYLINDER - boom and dipper arm, 23-13/16\" (609 mm) stroke and 3\" (76 mm) ID dia. (2)."
+}

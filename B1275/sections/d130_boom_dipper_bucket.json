@@ -1,0 +1,434 @@
+{
+ "sectionTitle": "D130 Boom, Dipper Arm and Bucket",
+ "breadcrumb": "D130 Boom, Dipper Arm and Bucket",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d130_boom_dipper_bucket.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 7.8,
+   "y": 87.12,
+   "partNo": "",
+   "desc": "MAST - swing tower, see the D130 main frame, stabilizer and mast sections",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 35.0,
+   "y": 93.8,
+   "partNo": "H109652",
+   "desc": "PIN - boom mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 12.7,
+   "y": 72.85,
+   "partNo": "H109793",
+   "desc": "PIN - boom cylinder to mast",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 4.5,
+   "y": 76.9,
+   "partNo": "H313981",
+   "desc": "PIN - keeper",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 5.5,
+   "y": 70.83,
+   "partNo": "113-209",
+   "desc": "HHCS - 3/8\" - 16 NC x 1-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 7.4,
+   "y": 78.21,
+   "partNo": "H053793",
+   "desc": "SPACER - keeper pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 23.4,
+   "y": 75.18,
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 25.9,
+   "y": 76.29,
+   "partNo": "129-103",
+   "desc": "NUT - hex, 3/8\" - 16 NC",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 46.2,
+   "y": 71.94,
+   "partNo": "H528547",
+   "desc": "BOOM - backhoe",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 24.3,
+   "y": 85.5,
+   "partNo": "H122309",
+   "desc": "BUSHING - boom pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 39.1,
+   "y": 86.71,
+   "partNo": "H122309",
+   "desc": "BUSHING - boom pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 63.9,
+   "y": 22.26,
+   "partNo": "H122309",
+   "desc": "BUSHING - dipper arm pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 76.8,
+   "y": 29.34,
+   "partNo": "H122309",
+   "desc": "BUSHING - dipper arm pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 34.3,
+   "y": 68.3,
+   "partNo": "H120683",
+   "desc": "PIN - transport lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 26.0,
+   "y": 72.55,
+   "partNo": "A70250",
+   "desc": "PIN - hair",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 37.8,
+   "y": 31.97,
+   "partNo": "",
+   "desc": "CYLINDER - boom and dipper arm, see the D130 boom and dipper arm cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 21.6,
+   "y": 57.88,
+   "partNo": "",
+   "desc": "CYLINDER - boom and dipper arm, see the D130 boom and dipper arm cylinder sections",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 56.6,
+   "y": 57.67,
+   "partNo": "H050690",
+   "desc": "PIN - boom and dipper arm cylinder mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 65.0,
+   "y": 63.75,
+   "partNo": "114-203",
+   "desc": "HHCS - 3/8\" - 24 NF x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 59.9,
+   "y": 59.5,
+   "partNo": "H313981",
+   "desc": "PIN - keeper",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 49.7,
+   "y": 55.75,
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 47.6,
+   "y": 53.93,
+   "partNo": "129-123",
+   "desc": "NUT - hex, 3/8\" - 24 NF",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 73.8,
+   "y": 9.21,
+   "partNo": "H109801",
+   "desc": "PIN - dipper cylinder mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 72.6,
+   "y": 1.11,
+   "partNo": "114-201",
+   "desc": "HHCS - 3/8\" - 24 NF x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 75.9,
+   "y": 2.02,
+   "partNo": "H313981",
+   "desc": "PIN - keeper",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 86.6,
+   "y": 4.86,
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 87.5,
+   "y": 10.52,
+   "partNo": "129-123",
+   "desc": "NUT - hex, 3/8\" - 24 NF",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 56.9,
+   "y": 14.27,
+   "partNo": "H109819",
+   "desc": "PIN - dipper arm pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 53.6,
+   "y": 3.95,
+   "partNo": "114-216",
+   "desc": "HHCS - 3/8\" - 24 NF x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 56.6,
+   "y": 5.06,
+   "partNo": "H313981",
+   "desc": "PIN - keeper",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 58.3,
+   "y": 6.37,
+   "partNo": "H053793",
+   "desc": "SPACER - keeper pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 76.7,
+   "y": 21.86,
+   "partNo": "192-21",
+   "desc": "WASHER - lock, 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 79.1,
+   "y": 17.0,
+   "partNo": "129-123",
+   "desc": "NUT - hex, 3/8\" - 24 NF",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 87.9,
+   "y": 42.5,
+   "partNo": "H529420",
+   "desc": "DIPPER ARM",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 92.7,
+   "y": 2.63,
+   "partNo": "H050823",
+   "desc": "BUSHING - step, bucket cylinder pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 85.3,
+   "y": 52.51,
+   "partNo": "H036640",
+   "desc": "BUSHING - step, bucket pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 70.8,
+   "y": 56.66,
+   "partNo": "H036640",
+   "desc": "BUSHING - step, bucket pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 95.6,
+   "y": 25.4,
+   "partNo": "H050690",
+   "desc": "PIN - bucket cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 91.2,
+   "y": 11.53,
+   "partNo": "132-314",
+   "desc": "PIN - cotter, 3/8\" x 2-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 88.5,
+   "y": 31.16,
+   "partNo": "",
+   "desc": "CYLINDER - bucket, see the \"D130 H530493 / H630285 Bucket Cylinder\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 94.9,
+   "y": 59.8,
+   "partNo": "H079285",
+   "desc": "PIN - bucket cylinder to bucket",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 93.3,
+   "y": 56.97,
+   "partNo": "132-313",
+   "desc": "PIN - cotter, 1/4\" x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 64.4,
+   "y": 49.28,
+   "partNo": "H109827",
+   "desc": "PIN - bucket mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 68.2,
+   "y": 54.84,
+   "partNo": "132-314",
+   "desc": "PIN - cotter, 3/8\" x 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 79.4,
+   "y": 59.6,
+   "partNo": "H110114",
+   "desc": "SLEEVE - grease",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 66.2,
+   "y": 67.69,
+   "partNo": "",
+   "desc": "BUCKET - backhoe, see the \"D130 Backhoe Buckets\" section",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 72.4,
+   "y": 59.5,
+   "partNo": "219-8",
+   "desc": "GREASE FITTING - straight, 1/4\" - 28 NF taper",
+   "reqd": "3"
+  },
+  {
+   "ref": "43",
+   "x": 68.3,
+   "y": 18.92,
+   "partNo": "219-8",
+   "desc": "GREASE FITTING - straight, 1/4\" - 28 NF taper",
+   "reqd": "3"
+  },
+  {
+   "ref": "43",
+   "x": 30.4,
+   "y": 90.46,
+   "partNo": "219-8",
+   "desc": "GREASE FITTING - straight, 1/4\" - 28 NF taper",
+   "reqd": "3"
+  },
+  {
+   "ref": "44",
+   "x": 28.3,
+   "y": 13.15,
+   "partNo": "321-3198",
+   "desc": "DECAL - D130",
+   "reqd": "2"
+  },
+  {
+   "ref": "45",
+   "x": 17.6,
+   "y": 49.98,
+   "partNo": "321-3182",
+   "desc": "DECAL - Case, LH",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 17.7,
+   "y": 32.88,
+   "partNo": "321-3183",
+   "desc": "DECAL - Case, RH",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 50.9,
+   "y": 88.43,
+   "partNo": "321-3885",
+   "desc": "DECAL - warning, craning",
+   "reqd": ""
+  }
+ ],
+ "footnotes": ""
+}

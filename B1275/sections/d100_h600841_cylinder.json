@@ -1,0 +1,186 @@
+{
+ "sectionTitle": "D100 H600841 Boom, Dipper Arm and Bucket Cylinder",
+ "breadcrumb": "D100 H600841 Boom, Dipper Arm and Bucket Cylinder",
+ "catalogLabel": "Catalog B1275",
+ "modelNumbers": "Catalog B1275 — Case D100 and D130 Backhoes for Uni-Loaders, Compact Loaders and the 380 CK Loader Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1275/d100_h600841_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 5.29,
+   "y": 58.35,
+   "partNo": "H286013",
+   "desc": "SPRING - manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 17.67,
+   "y": 35.99,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 78.48,
+   "y": 7.04,
+   "partNo": "218-5007",
+   "desc": "O-RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 19.6,
+   "y": 34.96,
+   "partNo": "H745620",
+   "desc": "RING - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 75.64,
+   "y": 8.17,
+   "partNo": "H745620",
+   "desc": "RING - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 44.67,
+   "y": 23.42,
+   "partNo": "NSS",
+   "desc": "TUBE - hydraulic, manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 7.42,
+   "y": 46.91,
+   "partNo": "219-1",
+   "desc": "FITTING - grease, straight, 1/8\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 95.43,
+   "y": 55.67,
+   "partNo": "219-1",
+   "desc": "FITTING - grease, straight, 1/8\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 61.63,
+   "y": 41.97,
+   "partNo": "H602508",
+   "desc": "TUBE - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 21.32,
+   "y": 82.45,
+   "partNo": "131-370",
+   "desc": "NUT - hex self lock, 1/4\" - 28 NF",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 34.83,
+   "y": 75.35,
+   "partNo": "R15366",
+   "desc": "O-RING - piston, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 31.17,
+   "y": 78.33,
+   "partNo": "H223073",
+   "desc": "PISTON",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 39.39,
+   "y": 74.01,
+   "partNo": "H754614",
+   "desc": "WASHER - backup *",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 46.4,
+   "y": 71.12,
+   "partNo": "H754614",
+   "desc": "WASHER - backup *",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 42.24,
+   "y": 73.18,
+   "partNo": "D38755",
+   "desc": "O-RING - piston, large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 56.45,
+   "y": 66.07,
+   "partNo": "A27996",
+   "desc": "O-RING - gland, large *",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 65.18,
+   "y": 61.75,
+   "partNo": "H223081",
+   "desc": "GLAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 86.4,
+   "y": 52.17,
+   "partNo": "H223263",
+   "desc": "RING - lock, gland retaining *",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 72.69,
+   "y": 58.35,
+   "partNo": "T13224",
+   "desc": "O-RING - gland, small *",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 75.33,
+   "y": 57.32,
+   "partNo": "H745687",
+   "desc": "WASHER - backup *",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 79.39,
+   "y": 55.15,
+   "partNo": "H222935",
+   "desc": "WIPER - rod *",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 63.45,
+   "y": 84.51,
+   "partNo": "H602516",
+   "desc": "ROD - 1-1/2\" (38 mm) dia.",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Part of the seal kit: H587485.\nAlso listed, not shown on diagram: H600841 CYLINDER - boom, dipper arm and bucket, 15\" (381 mm) stroke (3); H602607 KIT - manifold (1)."
+}
