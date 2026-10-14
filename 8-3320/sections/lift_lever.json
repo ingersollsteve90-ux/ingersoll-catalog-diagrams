@@ -1,0 +1,144 @@
+{
+ "sectionTitle": "Lift Lever",
+ "breadcrumb": "Lift Lever",
+ "catalogLabel": "Catalog 8-3320",
+ "modelNumbers": "Catalog 8-3320 — Ingersoll Model 5018CD and 5020V Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3320/lift_lever.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 43,
+   "y": 86,
+   "partNo": "C44942",
+   "desc": "LEVER - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 95.6,
+   "y": 23,
+   "partNo": "C44948",
+   "desc": "PIVOT - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 12.5,
+   "y": 42.8,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 22.5,
+   "y": 24.9,
+   "partNo": "C44949",
+   "desc": "EXTENSION - lift lever, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 41.6,
+   "y": 24.9,
+   "partNo": "C42895",
+   "desc": "BUSHING",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 4.3,
+   "y": 82.1,
+   "partNo": "C44952",
+   "desc": "BRACKET - lever lock down",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 93.3,
+   "y": 7.4,
+   "partNo": "111-132",
+   "desc": "BOLT - carriage 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 51.9,
+   "y": 44,
+   "variants": [
+    {
+     "serialNote": "5/8\" allen head",
+     "partNo": "C42056",
+     "desc": "SCREW - 5/16\" - 18 x 5/8\" allen head",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "3/4\"",
+     "partNo": "C44959",
+     "desc": "SCREW - 5/16\" - 18 x 3/4\"",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 12.4,
+   "y": 64.9,
+   "variants": [
+    {
+     "serialNote": "5/8\" allen head",
+     "partNo": "C42056",
+     "desc": "SCREW - 5/16\" - 18 x 5/8\" allen head",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "3/4\"",
+     "partNo": "C44959",
+     "desc": "SCREW - 5/16\" - 18 x 3/4\"",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 95.1,
+   "y": 33.3,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 53.5,
+   "y": 80.3,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 12.6,
+   "y": 93.3,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 38.4,
+   "y": 45.4,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 77.6,
+   "y": 20,
+   "partNo": "C45120",
+   "desc": "SPRING - torsion",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

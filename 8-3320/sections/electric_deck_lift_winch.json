@@ -1,0 +1,205 @@
+{
+ "sectionTitle": "Electric Deck Lift - Winch Style",
+ "breadcrumb": "Electric Deck Lift - Winch Style",
+ "catalogLabel": "Catalog 8-3320",
+ "modelNumbers": "Catalog 8-3320 — Ingersoll Model 5018CD and 5020V Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3320/electric_deck_lift_winch.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 41,
+   "y": 76.7,
+   "variants": [
+    {
+     "serialNote": "Bolt",
+     "partNo": "113-207",
+     "desc": "BOLT - 3/8\" - 16 x 1\"",
+     "reqd": "6"
+    },
+    {
+     "serialNote": "Socket head screw",
+     "partNo": "C44489",
+     "desc": "SCREW - 3/8\" - 16 x 1\" socket head",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 21.9,
+   "y": 66.1,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "3",
+   "x": 9.2,
+   "y": 52.6,
+   "partNo": "C43967",
+   "desc": "MOUNT - winch",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 13.9,
+   "y": 84,
+   "partNo": "NSS",
+   "desc": "WINCH - deck lift (order complete kit from wholegoods)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 61.7,
+   "y": 74.2,
+   "partNo": "C43375",
+   "desc": "CABLE (winch)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 53.9,
+   "y": 53.5,
+   "partNo": "C43992",
+   "desc": "PIN - cable keeper (winch)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 39.1,
+   "y": 9.5,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 19.2,
+   "y": 25.6,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "8",
+   "x": 38.8,
+   "y": 33.3,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "9",
+   "x": 14.2,
+   "y": 20.7,
+   "partNo": "C43962",
+   "desc": "COVER - solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 13.9,
+   "y": 9.6,
+   "partNo": "C43964",
+   "desc": "GROMMET - 1\" x 7/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 44.1,
+   "y": 27.9,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 14.8,
+   "y": 37,
+   "partNo": "C43963",
+   "desc": "MOUNT - solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 73.9,
+   "y": 93.5,
+   "partNo": "113-219",
+   "desc": "BOLT - 3/8\" - 16 x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 46.7,
+   "y": 88.1,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 66.3,
+   "y": 85.6,
+   "partNo": "C43961",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 50.4,
+   "y": 94.9,
+   "partNo": "C43960",
+   "desc": "STRAP - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 56.9,
+   "y": 5.8,
+   "partNo": "C43412",
+   "desc": "DECAL - \"Power Lift\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 5.1,
+   "y": 73.7,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 77,
+   "y": 54.6,
+   "partNo": "C44361",
+   "desc": "ARM - trip",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 80.6,
+   "y": 42.1,
+   "partNo": "C44364",
+   "desc": "MOUNT - trip arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 84.2,
+   "y": 64.9,
+   "partNo": "C44367",
+   "desc": "PIN - pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 84.1,
+   "y": 58.6,
+   "partNo": "132-6",
+   "desc": "PIN - cotter 1/16\" x 5/8\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,245 @@
+{
+ "sectionTitle": "Engine and Attaching Parts (5018CD) - Briggs & Stratton",
+ "breadcrumb": "Engine and Attaching Parts (5018CD) - Briggs & Stratton",
+ "catalogLabel": "Catalog 8-3320",
+ "modelNumbers": "Catalog 8-3320 — Ingersoll Model 5018CD and 5020V Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3320/engine_attaching_5018cd.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 83.7,
+   "y": 51.1,
+   "partNo": "C41674",
+   "desc": "ENGINE - Briggs & Stratton model 422447, Spec. 1277 (18 hp) (5018CD)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 18.6,
+   "y": 7.3,
+   "partNo": "C37533",
+   "desc": "DUCT - air (use before S/N 14178235)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 57.9,
+   "y": 71.9,
+   "partNo": "221-1413",
+   "desc": "ELBOW - street 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 70.7,
+   "y": 66.2,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 70.7,
+   "y": 73.5,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 48.4,
+   "y": 71.2,
+   "partNo": "C37546",
+   "desc": "PLUG - pipe 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 76.9,
+   "y": 29.4,
+   "partNo": "C37537",
+   "desc": "SHAFT - stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 81.9,
+   "y": 24.5,
+   "partNo": "C41015",
+   "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 96.5,
+   "y": 35.5,
+   "partNo": "C37539",
+   "desc": "PULLEY - drive (use C32199 set screw)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 79.8,
+   "y": 62.5,
+   "partNo": "C32455",
+   "desc": "RETAINER - starter cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 50.1,
+   "y": 89.4,
+   "partNo": "221-411",
+   "desc": "ELBOW - street 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 39.2,
+   "y": 92.4,
+   "partNo": "C37531",
+   "desc": "UNIT - oil sending",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 65.8,
+   "y": 79.4,
+   "partNo": "C42240",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 72.4,
+   "y": 9,
+   "partNo": "C37543",
+   "desc": "PRECLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 72.2,
+   "y": 18.7,
+   "partNo": "C37544",
+   "desc": "FILTER - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 23.2,
+   "y": 33,
+   "partNo": "C34374",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 11.7,
+   "y": 12.6,
+   "partNo": "121-21",
+   "desc": "BOLT - 1/4\" - 20 flange lock",
+   "reqd": "7"
+  },
+  {
+   "ref": "18",
+   "x": 16.9,
+   "y": 71.9,
+   "variants": [
+    {
+     "serialNote": "Choke cable",
+     "partNo": "C37819",
+     "desc": "CABLE - choke",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Throttle cable",
+     "partNo": "C37820",
+     "desc": "CABLE - throttle",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 5.2,
+   "y": 71.5,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 89.5,
+   "y": 42.4,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 85.3,
+   "y": 45.4,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 36.3,
+   "y": 47.5,
+   "partNo": "C45077",
+   "desc": "DUCT - air (use S/N 14178235 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 33.9,
+   "y": 40.2,
+   "partNo": "C45078",
+   "desc": "DEFLECTOR - air, front (use S/N 14178235 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 5.6,
+   "y": 28.9,
+   "partNo": "C45078",
+   "desc": "DEFLECTOR - air, front (use S/N 14178235 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 38.6,
+   "y": 52.7,
+   "partNo": "C45079",
+   "desc": "DEFLECTOR - air, rear (use S/N 14178235 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 43.9,
+   "y": 58.4,
+   "partNo": "187-1328",
+   "desc": "BOLT - #8 - 18 x 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 42.4,
+   "y": 5,
+   "partNo": "C33444",
+   "desc": "DEFLECTOR - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 47.1,
+   "y": 23.1,
+   "partNo": "187-1041",
+   "desc": "SCREW - #8 - 32 x 3/8\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "See your local engine distributor for internal engine parts and warranty."
+}

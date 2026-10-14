@@ -1,0 +1,616 @@
+{
+ "sectionTitle": "Base Assembly",
+ "breadcrumb": "Base Assembly",
+ "catalogLabel": "Catalog 8-3320",
+ "modelNumbers": "Catalog 8-3320 — Ingersoll Model 5018CD and 5020V Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3320/base_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 32.8,
+   "y": 54.7,
+   "variants": [
+    {
+     "serialNote": "5018CD",
+     "partNo": "C45924",
+     "desc": "BASE - 5018CD",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "5020V",
+     "partNo": "C46081",
+     "desc": "BASE - 5020V",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 44.2,
+   "y": 47.4,
+   "partNo": "C37575",
+   "desc": "ARM - deck lift R.H. (5018CD)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 91.9,
+   "y": 48.1,
+   "partNo": "C37574",
+   "desc": "ARM - front L.H. (5018CD)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 66.4,
+   "y": 57,
+   "partNo": "C37573",
+   "desc": "ARM - front R.H. (5018CD)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 66.5,
+   "y": 67.6,
+   "partNo": "C37578",
+   "desc": "PIN - cross bar",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 82.8,
+   "y": 60.3,
+   "partNo": "C37579",
+   "desc": "BAR - cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 62.2,
+   "y": 51.4,
+   "partNo": "C37577",
+   "desc": "TUBE - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 45.9,
+   "y": 42,
+   "partNo": "C37583",
+   "desc": "LOCK - forward nose down",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 14.7,
+   "y": 2.9,
+   "partNo": "C37603",
+   "desc": "TUBE - drive idler (5018CD)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 18.5,
+   "y": 42.5,
+   "partNo": "C37576",
+   "desc": "BUSHING - deck lift arm (3/8\" long)",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 34.4,
+   "y": 36.7,
+   "partNo": "C37576",
+   "desc": "BUSHING - deck lift arm (3/8\" long)",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 60.9,
+   "y": 23.3,
+   "partNo": "C37576",
+   "desc": "BUSHING - deck lift arm (3/8\" long)",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 41.7,
+   "y": 33.8,
+   "partNo": "C37586",
+   "desc": "BUSHING - pivot (1/2\" long)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 66.8,
+   "y": 39.7,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 76.1,
+   "y": 24.1,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 13,
+   "y": 51.2,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 67.3,
+   "y": 49.1,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 25.4,
+   "y": 48.6,
+   "partNo": "113-441",
+   "desc": "BOLT - 1/2\" - 13 x 2-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 73.4,
+   "y": 29,
+   "partNo": "113-210",
+   "desc": "BOLT - 3/8\" - 16 x 3\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 21.4,
+   "y": 48.4,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 36.8,
+   "y": 35.3,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 43.3,
+   "y": 27.8,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 68,
+   "y": 28,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 77.3,
+   "y": 47.1,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 92.7,
+   "y": 43.7,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 68.6,
+   "y": 83.9,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 56.1,
+   "y": 60.5,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "16",
+   "x": 17.9,
+   "y": 49.5,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "16",
+   "x": 47.9,
+   "y": 33.2,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "16",
+   "x": 71.5,
+   "y": 26.8,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "16",
+   "x": 74.3,
+   "y": 48.4,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "16",
+   "x": 63.6,
+   "y": 49,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "17",
+   "x": 80.4,
+   "y": 31.3,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 87.3,
+   "y": 34.1,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 28.2,
+   "y": 9.5,
+   "partNo": "131-938",
+   "desc": "NUT - flange lock 3/8\" - 16",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 48.1,
+   "y": 25.8,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 96.5,
+   "y": 42.9,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 51.2,
+   "y": 61.9,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 72,
+   "y": 82.5,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 22.6,
+   "y": 18.9,
+   "partNo": "C37595",
+   "desc": "SPRING - idler tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 17.6,
+   "y": 13.4,
+   "partNo": "C38864",
+   "desc": "PULLEY - idler (5018CD)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 23.3,
+   "y": 27.5,
+   "partNo": "182-553",
+   "desc": "SCREW - machine #10 - 32 x 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 29.5,
+   "y": 19.2,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 36.8,
+   "y": 22.5,
+   "partNo": "193-1000",
+   "desc": "NUT - lock #10 - 32",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 64.3,
+   "y": 38.1,
+   "partNo": "C38594",
+   "desc": "ARM - deck lift L.H. (5018CD)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 83.7,
+   "y": 70.7,
+   "partNo": "131-71",
+   "desc": "NUT - lock 1/4\" - 20",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 92.9,
+   "y": 36.6,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "5"
+  },
+  {
+   "ref": "28",
+   "x": 76.7,
+   "y": 29.8,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "5"
+  },
+  {
+   "ref": "28",
+   "x": 24.9,
+   "y": 9.7,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "5"
+  },
+  {
+   "ref": "29",
+   "x": 69.6,
+   "y": 34.1,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "29",
+   "x": 10.8,
+   "y": 16.3,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "30",
+   "x": 4.9,
+   "y": 10.9,
+   "partNo": "113-213",
+   "desc": "BOLT - 3/8\" - 16 x 2-1/4\" (5018CD)",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 85.1,
+   "y": 65.7,
+   "partNo": "C37815",
+   "desc": "SPRING - lift assist",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 73.7,
+   "y": 67.9,
+   "partNo": "C37816",
+   "desc": "CABLE - lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 73.2,
+   "y": 74.6,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "34",
+   "x": 47.9,
+   "y": 72.1,
+   "variants": [
+    {
+     "serialNote": "R.H. (5020V)",
+     "partNo": "C44250",
+     "desc": "ARM - deck R.H. (5020V)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. (5020V)",
+     "partNo": "C45099",
+     "desc": "ARM - deck L.H. (5020V)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "35",
+   "x": 40.9,
+   "y": 88.2,
+   "partNo": "C45095",
+   "desc": "ARM - idler (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 45,
+   "y": 84.8,
+   "partNo": "C27501",
+   "desc": "BEARING - flange (5020V)",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 36.1,
+   "y": 89.6,
+   "partNo": "C27501",
+   "desc": "BEARING - flange (5020V)",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 30.6,
+   "y": 93.6,
+   "partNo": "C25370",
+   "desc": "PULLEY - \"V\" idler (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 25.6,
+   "y": 85.8,
+   "partNo": "C45102",
+   "desc": "BUSHING - pulley (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 13.9,
+   "y": 83.1,
+   "partNo": "C45121",
+   "desc": "PULLEY - idler, flat (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 3.2,
+   "y": 88.4,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 9,
+   "y": 85.2,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 76.9,
+   "y": 91,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 32.5,
+   "y": 78.2,
+   "partNo": "113-219",
+   "desc": "BOLT - 3/8\" - 16 x 2\" (5020V)",
+   "reqd": "2"
+  },
+  {
+   "ref": "44",
+   "x": 29.2,
+   "y": 76.1,
+   "partNo": "C44242",
+   "desc": "SPRING - extension (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 24,
+   "y": 72.1,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\" (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 27.6,
+   "y": 69.2,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 80.4,
+   "y": 89.4,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "48",
+   "x": 15.5,
+   "y": 97.5,
+   "partNo": "131-1182",
+   "desc": "NUT - 1/2\" - 13 lock (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 18.9,
+   "y": 88.8,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\" (5020V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "50",
+   "x": 63.3,
+   "y": 92.7,
+   "partNo": "C44403",
+   "desc": "GUARD - belt (5020V)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Refs 2-4, 9, 22, 26 and 30 are 5018CD only; refs 34-39, 41, 43-46 and 48-50 are 5020V only."
+}

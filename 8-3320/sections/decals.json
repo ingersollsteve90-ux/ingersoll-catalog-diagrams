@@ -1,0 +1,147 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog 8-3320",
+ "modelNumbers": "Catalog 8-3320 — Ingersoll Model 5018CD and 5020V Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3320/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 15.9,
+   "y": 26.9,
+   "variants": [
+    {
+     "serialNote": "R.H.",
+     "partNo": "C39527",
+     "desc": "DECAL - front side R.H. (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H.",
+     "partNo": "C39528",
+     "desc": "DECAL - front side L.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 49,
+   "y": 2.8,
+   "variants": [
+    {
+     "serialNote": "L.H. 5018CD",
+     "partNo": "C46060",
+     "desc": "DECAL - rear side L.H. (5018CD)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. 5018CD",
+     "partNo": "C46061",
+     "desc": "DECAL - rear side R.H. (5018CD) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 50.4,
+   "y": 68.3,
+   "partNo": "C40954",
+   "desc": "DECAL - instrument panel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 12.8,
+   "y": 56,
+   "partNo": "C37464",
+   "desc": "MEDALLION - \"Ingersoll\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 50.2,
+   "y": 55.7,
+   "partNo": "C37495",
+   "desc": "DECAL - operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 4.3,
+   "y": 36,
+   "partNo": "C37496",
+   "desc": "DECAL - caution interlock",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 86,
+   "y": 32.6,
+   "partNo": "C37502",
+   "desc": "DECAL - unlock/lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 85.5,
+   "y": 47,
+   "partNo": "C37498",
+   "desc": "DECAL - run/park",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 16.3,
+   "y": 41.4,
+   "partNo": "C37500",
+   "desc": "DECAL - danger carbon monoxide",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 68.7,
+   "y": 39.3,
+   "partNo": "C38807",
+   "desc": "DECAL - lubrication",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 66.7,
+   "y": 52.2,
+   "partNo": "C37504",
+   "desc": "DECAL - clean cooler",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 88.6,
+   "y": 56.7,
+   "partNo": "C44340",
+   "desc": "DECAL - \"WARNING\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 49.8,
+   "y": 13.6,
+   "variants": [
+    {
+     "serialNote": "L.H. 5020V",
+     "partNo": "C46068",
+     "desc": "DECAL - rear side L.H. (5020V)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. 5020V",
+     "partNo": "C46069",
+     "desc": "DECAL - rear side R.H. (5020V) shown",
+     "reqd": "1"
+    }
+   ]
+  }
+ ],
+ "footnotes": ""
+}

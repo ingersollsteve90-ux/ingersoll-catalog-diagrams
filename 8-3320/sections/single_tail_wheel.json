@@ -1,0 +1,82 @@
+{
+ "sectionTitle": "Single Tail Wheel",
+ "breadcrumb": "Single Tail Wheel",
+ "catalogLabel": "Catalog 8-3320",
+ "modelNumbers": "Catalog 8-3320 — Ingersoll Model 5018CD and 5020V Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3320/single_tail_wheel.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.2,
+   "y": 79.8,
+   "partNo": "C37854",
+   "desc": "AXLE - wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 65,
+   "y": 66.1,
+   "partNo": "C37855",
+   "desc": "WHEEL ASSEMBLY - tail",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 68.6,
+   "y": 39.1,
+   "partNo": "C37859",
+   "desc": "FORK - tail wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 57.9,
+   "y": 10.1,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 58.8,
+   "y": 17.9,
+   "partNo": "C37861",
+   "desc": "SPACER - tail wheel fork",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 7.9,
+   "y": 47.3,
+   "partNo": "113-452",
+   "desc": "BOLT - 1/2\" - 13 x 9-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 38.6,
+   "y": 5.5,
+   "partNo": "85-58",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 86.9,
+   "y": 87.4,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 93.5,
+   "y": 94.1,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C44499 BEARING - wheel (part of C37855 wheel assembly); C37857 TIRE - 16 x 6.50 - 8 (part of C37855 wheel assembly); C37858 RIM - 8\" (includes bearings) (part of C37855 wheel assembly); 219-92 FITTING - grease 90° 1/4\" - 28 self tap (caster pivot)."
+}
