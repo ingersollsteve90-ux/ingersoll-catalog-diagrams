@@ -1,0 +1,184 @@
+{
+ "sectionTitle": "Gear Box - Superior",
+ "breadcrumb": "Gear Box - Superior",
+ "catalogLabel": "Catalog G101",
+ "modelNumbers": "Catalog G101 — Grazer 52\" and 62\" Mower Decks (G1652, 0052-T, 52A/52AC, 0052TCSS/TCII, G1862, 0062-T, 62TCSS/TCII) and MK52/MK62 Mulching Kits",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G101/gear_box_superior.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 43.3,
+   "y": 92.8,
+   "partNo": "C42924",
+   "desc": "SHAFT - pinion, with gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 91.9,
+   "y": 24.0,
+   "partNo": "C42923",
+   "desc": "SHAFT - cross, with gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 89.6,
+   "y": 8.6,
+   "partNo": "C42917",
+   "desc": "HOUSING - with tapped holes",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 94.2,
+   "y": 7.7,
+   "partNo": "C42927",
+   "desc": "HOUSING - with thru holes (not shown)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 76.1,
+   "y": 60.9,
+   "partNo": "C42918",
+   "desc": "CUP - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 27.4,
+   "y": 64.4,
+   "partNo": "C42918",
+   "desc": "CUP - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 24.4,
+   "y": 58.6,
+   "partNo": "C42918",
+   "desc": "CUP - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 19.3,
+   "y": 81.6,
+   "partNo": "C42918",
+   "desc": "CUP - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 17.3,
+   "y": 57.4,
+   "partNo": "C42921",
+   "desc": "CONE - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 31.9,
+   "y": 68.1,
+   "partNo": "C42921",
+   "desc": "CONE - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 31.5,
+   "y": 79.5,
+   "partNo": "C42921",
+   "desc": "CONE - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 81.1,
+   "y": 53.7,
+   "partNo": "C42921",
+   "desc": "CONE - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 29.4,
+   "y": 89.5,
+   "partNo": "C42919",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 78.6,
+   "y": 8.4,
+   "partNo": "C42920",
+   "desc": "PLUG - pipe 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 27.2,
+   "y": 9.5,
+   "partNo": "C42920",
+   "desc": "PLUG - pipe 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 23.5,
+   "y": 15.3,
+   "partNo": "C42922",
+   "desc": "SEAL - shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 38.7,
+   "y": 86.2,
+   "partNo": "C42922",
+   "desc": "SEAL - shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 5.4,
+   "y": 51.1,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 1\" input shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 35.7,
+   "y": 13.7,
+   "partNo": "C42928",
+   "desc": "PIPE - vent",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 92.4,
+   "y": 15.1,
+   "partNo": "C42925",
+   "desc": "CAP - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 75.0,
+   "y": 79.2,
+   "partNo": "C28215",
+   "desc": "KEY - 3/16\" x 5/8\" output shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "partNo": "C42926",
+   "desc": "BOLT - 5/16\" x 1\" socket head (not shown)",
+   "reqd": "8"
+  }
+ ],
+ "footnotes": "Refs 4 and 12 are printed \"not shown\" in the parts list."
+}

@@ -1,0 +1,285 @@
+{
+ "sectionTitle": "62\" Mower Drive - 62TCSS, 62TCII (1992 and After)",
+ "breadcrumb": "62\" Mower Drive - 62TCSS, 62TCII (1992 and After)",
+ "catalogLabel": "Catalog G101",
+ "modelNumbers": "Catalog G101 — Grazer 52\" and 62\" Mower Decks (G1652, 0052-T, 52A/52AC, 0052TCSS/TCII, G1862, 0062-T, 62TCSS/TCII) and MK52/MK62 Mulching Kits",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G101/mower_drive_62tcss_62tcii_1992.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 92.8,
+   "y": 68.44,
+   "partNo": "C41757",
+   "desc": "MOUNT - gear box",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 75.8,
+   "y": 27.48,
+   "partNo": "C37875",
+   "desc": "GUARD - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 87.4,
+   "y": 25.58,
+   "partNo": "C37877",
+   "desc": "ANGLE - gear box mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.8,
+   "y": 53.23,
+   "partNo": "C37929",
+   "desc": "TIGHTENER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 9.1,
+   "y": 55.13,
+   "partNo": "C37945",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 12.6,
+   "y": 61.36,
+   "partNo": "C37946",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 24.0,
+   "y": 72.59,
+   "partNo": "C44132",
+   "desc": "SHAFT - spindle, short (use S/N 013306063 (62TCSS) / 013307056 (62TCII) and after)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 55.9,
+   "y": 47.01,
+   "partNo": "C44134",
+   "desc": "SHAFT - spindle, long (use S/N 013306063 (62TCSS) / 013307056 (62TCII) and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 11.8,
+   "y": 67.41,
+   "partNo": "C42786",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 11.4,
+   "y": 51.68,
+   "partNo": "C42786",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 31.7,
+   "y": 82.27,
+   "partNo": "C44138",
+   "desc": "BLADE (use S/N 013306063 (62TCSS) / 013307056 (62TCII) and after)",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 62.2,
+   "y": 5.36,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 61.7,
+   "y": 17.11,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 9.5,
+   "y": 41.31,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 25.9,
+   "y": 18.32,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 29.3,
+   "y": 43.73,
+   "partNo": "C37932",
+   "desc": "PULLEY - gear box output",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 70.9,
+   "y": 52.2,
+   "partNo": "C37892",
+   "desc": "PULLEY - gear box input",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 45.5,
+   "y": 22.3,
+   "partNo": "C37933",
+   "desc": "PULLEY - idler, large",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 19.8,
+   "y": 22.99,
+   "partNo": "C37934",
+   "desc": "PULLEY - idler, small",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 37.3,
+   "y": 14.69,
+   "partNo": "C38929",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 92.6,
+   "y": 51.33,
+   "partNo": "C37894",
+   "desc": "BELT - drive (1800SS, 1800KSS, 1890, 1890K)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 95.7,
+   "y": 28.35,
+   "variants": [
+    {
+     "serialNote": "Curtis model",
+     "partNo": "C37898",
+     "desc": "GEAR BOX - angle drive (see page 83 for service) (Curtis model)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Superior model",
+     "partNo": "C42775",
+     "desc": "GEAR BOX - angle drive (see page 83 for service) (Superior model)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 60.4,
+   "y": 11.23,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "12"
+  },
+  {
+   "ref": "19",
+   "x": 11.7,
+   "y": 46.32,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "12"
+  },
+  {
+   "ref": "20",
+   "x": 46.0,
+   "y": 53.41,
+   "partNo": "C37901",
+   "desc": "BOLT - 1/4\" - 20 x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 13.6,
+   "y": 27.14,
+   "partNo": "C39386",
+   "desc": "BOLT - 5/16\" - 24 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 12.2,
+   "y": 34.57,
+   "partNo": "C37900",
+   "desc": "WASHER - 5/16\", 10 ga",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 11.7,
+   "y": 85.55,
+   "partNo": "TBD",
+   "desc": "Callout 23 is on the drawing but has no row in the printed table (the 52in page lists ref 23 as C37886 WASHER - blade, use before S/N)",
+   "reqd": ""
+  },
+  {
+   "ref": "24",
+   "x": 12.7,
+   "y": 92.64,
+   "partNo": "113-268",
+   "desc": "BOLT - 3/8\" - 16 x 1\" (also requires 131-1216 locknut)",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 66.7,
+   "y": 26.1,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 25.5,
+   "y": 49.43,
+   "partNo": "C37937",
+   "desc": "SPACER - idler pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 4.4,
+   "y": 60.32,
+   "partNo": "C37951",
+   "desc": "HOUSING ASSEMBLY - spindle (includes ref. 5, 6, 9)",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 27.6,
+   "y": 63.43,
+   "partNo": "219-20",
+   "desc": "FITTING - grease 1/4\" - 28",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "Some parts change at S/N 013306063 (62TCSS) / 013307056 (62TCII) (noted on each part)."
+}

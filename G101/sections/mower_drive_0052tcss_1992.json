@@ -1,0 +1,520 @@
+{
+ "sectionTitle": "52\" Mower Drive - 0052TCSS, 0052TCII (1992 and After)",
+ "breadcrumb": "52\" Mower Drive - 0052TCSS, 0052TCII (1992 and After)",
+ "catalogLabel": "Catalog G101",
+ "modelNumbers": "Catalog G101 — Grazer 52\" and 62\" Mower Decks (G1652, 0052-T, 52A/52AC, 0052TCSS/TCII, G1862, 0062-T, 62TCSS/TCII) and MK52/MK62 Mulching Kits",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G101/mower_drive_0052tcss_1992.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 63.02,
+   "y": 68.7,
+   "partNo": "C39205",
+   "desc": "MOUNT - gear box",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64.76,
+   "y": 43.03,
+   "variants": [
+    {
+     "serialNote": "1800SS, 1800KSS, 1890, 1890K",
+     "partNo": "C37875",
+     "desc": "GUARD - belt (1800SS, 1800KSS, 1890, 1890K)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "2000",
+     "partNo": "C37876",
+     "desc": "GUARD - belt (2000)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 84.18,
+   "y": 27.18,
+   "partNo": "C37877",
+   "desc": "ANGLE - gear box mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.88,
+   "y": 52.47,
+   "partNo": "C37929",
+   "desc": "TIGHTENER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 13.05,
+   "y": 59.64,
+   "partNo": "C37880",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 22.96,
+   "y": 60.4,
+   "partNo": "C37881",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 23.9,
+   "y": 70.4,
+   "variants": [
+    {
+     "serialNote": "use before S/N 013306046",
+     "partNo": "C37883",
+     "desc": "SHAFT - spindle, short (use before S/N 013306046)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "use S/N 013306046 and after",
+     "partNo": "C44128",
+     "desc": "SHAFT - spindle, short (use S/N 013306046 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 56.45,
+   "y": 44.73,
+   "variants": [
+    {
+     "serialNote": "use before S/N 013306046",
+     "partNo": "C37884",
+     "desc": "SHAFT - spindle, long (use before S/N 013306046)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "use S/N 013306046 and after",
+     "partNo": "C44130",
+     "desc": "SHAFT - spindle, long (use S/N 013306046 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 11.71,
+   "y": 65.12,
+   "partNo": "C42786",
+   "desc": "BEARING - spindle (use before S/N 013306046)",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 23.9,
+   "y": 53.04,
+   "partNo": "C42786",
+   "desc": "BEARING - spindle (use before S/N 013306046)",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 28.99,
+   "y": 93.24,
+   "variants": [
+    {
+     "serialNote": "before S/N 013306046",
+     "partNo": "C37930",
+     "desc": "BLADE - mower",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "use S/N 013306046 and after",
+     "partNo": "C44136",
+     "desc": "BLADE - mower (use S/N 013306046 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 11.31,
+   "y": 39.83,
+   "partNo": "C37931",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 27.78,
+   "y": 20.95,
+   "partNo": "C37931",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 57.66,
+   "y": 6.79,
+   "partNo": "C37931",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 57.52,
+   "y": 18.31,
+   "partNo": "C37931",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 26.85,
+   "y": 39.83,
+   "partNo": "C37932",
+   "desc": "PULLEY - gear box output",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 67.3,
+   "y": 50.96,
+   "variants": [
+    {
+     "serialNote": "1800SS, 1800KSS, 1890, 1890K, 1890V",
+     "partNo": "C37892",
+     "desc": "PULLEY - gear box input (1800SS, 1800KSS, 1890, 1890K, 1890V)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "2000",
+     "partNo": "C37893",
+     "desc": "PULLEY - gear box input (2000)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 42.92,
+   "y": 24.54,
+   "partNo": "C37933",
+   "desc": "PULLEY - idler, large",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 18.54,
+   "y": 26.42,
+   "partNo": "C37934",
+   "desc": "PULLEY - idler, small",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 41.98,
+   "y": 14.16,
+   "partNo": "C37935",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 83.51,
+   "y": 62.1,
+   "variants": [
+    {
+     "serialNote": "1800SS, 1800KSS, 1890, 1890K",
+     "partNo": "C37894",
+     "desc": "BELT - drive (1800SS, 1800KSS, 1890, 1890K)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "2000",
+     "partNo": "C37895",
+     "desc": "BELT - drive (2000)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1890V",
+     "partNo": "C44241",
+     "desc": "BELT - drive (1890V)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 94.23,
+   "y": 32.84,
+   "variants": [
+    {
+     "serialNote": "Curtis model",
+     "partNo": "C37898",
+     "desc": "GEAR BOX - angle drive (see page 83 for repairs) (Curtis model)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Superior model",
+     "partNo": "C42775",
+     "desc": "GEAR BOX - angle drive (repairs page 83) (Superior model)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 55.92,
+   "y": 13.78,
+   "partNo": "C37888",
+   "desc": "SPACER - washer",
+   "reqd": "12"
+  },
+  {
+   "ref": "19",
+   "x": 12.51,
+   "y": 45.68,
+   "partNo": "C37888",
+   "desc": "SPACER - washer",
+   "reqd": "12"
+  },
+  {
+   "ref": "20",
+   "x": 44.53,
+   "y": 52.47,
+   "partNo": "C37901",
+   "desc": "BOLT - 1/4\" - 20 x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 12.38,
+   "y": 29.82,
+   "partNo": "C39386",
+   "desc": "BOLT - 5/16\" - 24 x 3/4\" lock",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 12.11,
+   "y": 36.05,
+   "partNo": "C37900",
+   "desc": "WASHER - 5/16\" - 10 ga.",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 11.71,
+   "y": 83.24,
+   "partNo": "C37886",
+   "desc": "WASHER - blade (use before S/N 013306046)",
+   "reqd": "3"
+  },
+  {
+   "ref": "24",
+   "x": 15.59,
+   "y": 91.54,
+   "variants": [
+    {
+     "serialNote": "use before S/N 013306046",
+     "partNo": "C37557",
+     "desc": "BOLT - 3/8\" - 24 x 1-1/4\" (use before S/N 013306046)",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "use S/N 013306046 and after",
+     "partNo": "113-268",
+     "desc": "BOLT - 3/8\" - 16 x 1\" (also required 131-1216 locknut) (use S/N 013306046 and after)",
+     "reqd": "6"
+    }
+   ]
+  },
+  {
+   "ref": "25",
+   "x": 61.81,
+   "y": 25.1,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 29.39,
+   "y": 44.36,
+   "partNo": "C37937",
+   "desc": "SPACER - idler pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 5.95,
+   "y": 59.27,
+   "partNo": "113-312",
+   "desc": "BOLT - 7/16\" - 14 x 1-1/4\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "28",
+   "x": 5.81,
+   "y": 52.85,
+   "partNo": "192-22",
+   "desc": "LOCKWASHER - 7/16\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "29",
+   "x": 5.81,
+   "y": 47.19,
+   "partNo": "129-104",
+   "desc": "NUT - 7/16\" - 14",
+   "reqd": "12"
+  },
+  {
+   "ref": "30",
+   "x": 19.21,
+   "y": 20.38,
+   "partNo": "113-257",
+   "desc": "BOLT - 3/8\" - 16 x 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 43.46,
+   "y": 34.16,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 27.52,
+   "y": 52.66,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 32.74,
+   "y": 43.22,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 28.99,
+   "y": 48.89,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 31.13,
+   "y": 17.36,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 31.53,
+   "y": 12.27,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 48.28,
+   "y": 43.03,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 41.18,
+   "y": 59.27,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" - 16 x 1\" carriage",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 69.31,
+   "y": 24.16,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 74.27,
+   "y": 26.24,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "37",
+   "x": 86.99,
+   "y": 47.38,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "38",
+   "x": 79.09,
+   "y": 24.16,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 81.5,
+   "y": 46.81,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 62.88,
+   "y": 32.09,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 63.02,
+   "y": 36.81,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 10.1,
+   "y": 61.15,
+   "partNo": "C37902",
+   "desc": "HOUSING ASSEMBLY - spindle (includes ref. 5, 6, 9)",
+   "reqd": "3"
+  },
+  {
+   "ref": "43",
+   "x": 27.52,
+   "y": 61.34,
+   "partNo": "219-20",
+   "desc": "FITTING - grease 1/4\" - 28",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "Some parts change at S/N 013306046 (noted on each part)."
+}

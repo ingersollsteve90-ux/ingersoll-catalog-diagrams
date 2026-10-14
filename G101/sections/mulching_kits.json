@@ -1,0 +1,242 @@
+{
+ "sectionTitle": "Mulching Kits - MK52-2B, MK52-1B, MK62-2B, MK62-1B",
+ "breadcrumb": "Mulching Kits - MK52-2B, MK52-1B, MK62-2B, MK62-1B",
+ "catalogLabel": "Catalog G101",
+ "modelNumbers": "Catalog G101 — Grazer 52\" and 62\" Mower Decks (G1652, 0052-T, 52A/52AC, 0052TCSS/TCII, G1862, 0062-T, 62TCSS/TCII) and MK52/MK62 Mulching Kits",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G101/mulching_kits.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 33.5,
+   "y": 95.8,
+   "variants": [
+    {
+     "serialNote": "MK52-1B",
+     "partNo": "C45238",
+     "desc": "CAP - end (MK52-2B) (MK52-1B)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "MK62-1B",
+     "partNo": "C45512",
+     "desc": "CAP - end (MK62-2B) (MK62-1B) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 11.8,
+   "y": 66.68,
+   "partNo": "C37505",
+   "desc": "BREAKER - 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 24.0,
+   "y": 64.88,
+   "partNo": "182-528",
+   "desc": "SCREW - #10 - 32 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 9.8,
+   "y": 63.87,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 44.7,
+   "y": 70.98,
+   "partNo": "C37494",
+   "desc": "DECAL - \"Danger\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 15.3,
+   "y": 95.1,
+   "partNo": "C37956",
+   "desc": "SHOE - skid",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 4.5,
+   "y": 82.29,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 6.4,
+   "y": 72.88,
+   "partNo": "192-20",
+   "desc": "WASHER - lock 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 11.1,
+   "y": 71.28,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 6.5,
+   "y": 58.37,
+   "variants": [
+    {
+     "serialNote": "MK52-1B",
+     "partNo": "C45240",
+     "desc": "BAFFLE - R.H. (MK52-2B) (MK52-1B)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "MK62-1B",
+     "partNo": "C45516",
+     "desc": "BAFFLE - R.H. (MK62-2B) (MK62-1B) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 16.8,
+   "y": 29.15,
+   "variants": [
+    {
+     "serialNote": "18\"",
+     "partNo": "C45248",
+     "desc": "BLADE - MK52-2B (18\")",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "18\"",
+     "partNo": "C45901",
+     "desc": "BLADE - MK52-1B (18\")",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "21.5\"",
+     "partNo": "C45511",
+     "desc": "BLADE - MK62-2B (21.5\") shown",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "21.5\"",
+     "partNo": "C46050",
+     "desc": "BLADE - MK62-1B (21.5\")",
+     "reqd": "3"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 67.5,
+   "y": 20.54,
+   "variants": [
+    {
+     "serialNote": "MK52-1B",
+     "partNo": "C45244",
+     "desc": "BAFFLE - L.H. (MK52-2B) (MK52-1B)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "MK62-1B",
+     "partNo": "C45519",
+     "desc": "BAFFLE - L.H. (MK62-2B) (MK62-1B) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 29.4,
+   "y": 33.35,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 62.9,
+   "y": 37.76,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "14",
+   "x": 46.2,
+   "y": 30.15,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 95.7,
+   "y": 5.23,
+   "partNo": "C42056",
+   "desc": "SCREW - 5/16\" x 18 x 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 49.3,
+   "y": 36.76,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\" x 5/8\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "17",
+   "x": 49.7,
+   "y": 52.97,
+   "partNo": "195-103",
+   "desc": "WASHER - 3/8\" x 7/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 39.4,
+   "y": 28.05,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "18",
+   "x": 45.1,
+   "y": 57.27,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "18",
+   "x": 80.7,
+   "y": 47.66,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "18",
+   "x": 86.2,
+   "y": 10.34,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "11"
+  }
+ ],
+ "footnotes": ""
+}
