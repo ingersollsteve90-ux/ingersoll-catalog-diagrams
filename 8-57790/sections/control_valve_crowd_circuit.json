@@ -1,0 +1,346 @@
+{
+ "sectionTitle": "Control Valve Section - Crowd Circuit",
+ "breadcrumb": "Control Valve Section - Crowd Circuit",
+ "catalogLabel": "Catalog 8-57790",
+ "modelNumbers": "Catalog 8-57790 — Ameriquip Backhoe Model 80A",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-57790/control_valve_crowd_circuit.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 8.1,
+   "y": 29.4,
+   "partNo": "NSS",
+   "desc": "7/16\" Steel Ball (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 94.2,
+   "y": 71.2,
+   "partNo": "132-320",
+   "desc": "Handle Pin Cotter, 3/32 x 3/4",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 91.6,
+   "y": 34.3,
+   "partNo": "NSS",
+   "desc": "Shim, .040\" Thick (not sold separately - order complete section or cartridge)",
+   "reqd": "as required"
+  },
+  {
+   "ref": "4",
+   "x": 93.4,
+   "y": 34.4,
+   "partNo": "NSS",
+   "desc": "Shim, .020\" Thick (not sold separately - order complete section or cartridge)",
+   "reqd": "as required"
+  },
+  {
+   "ref": "5",
+   "x": 95.1,
+   "y": 34.6,
+   "partNo": "NSS",
+   "desc": "Shim, .010\" Thick (not sold separately - order complete section or cartridge)",
+   "reqd": "as required"
+  },
+  {
+   "ref": "6",
+   "x": 94.2,
+   "y": 83.1,
+   "partNo": "NSS",
+   "desc": "Machine Screw and Lockwasher (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 8.1,
+   "y": 86.8,
+   "partNo": "NSS",
+   "desc": "Bonnet Screw (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 7.6,
+   "y": 71.5,
+   "partNo": "NSS",
+   "desc": "Stop Collar (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 7.7,
+   "y": 65.3,
+   "partNo": "NSS",
+   "desc": "Spool Collar (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 7.5,
+   "y": 62.2,
+   "partNo": "NSS",
+   "desc": "Bonnet (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 7.5,
+   "y": 67.9,
+   "partNo": "NSS",
+   "desc": "Spool Assembly Screw (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 7.7,
+   "y": 83.7,
+   "partNo": "NSS",
+   "desc": "Spool Assembly Screw Lockwasher (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 7.8,
+   "y": 20.8,
+   "partNo": "NSS",
+   "desc": "O-Ring Seal (Inner) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 94.4,
+   "y": 19.4,
+   "partNo": "NSS",
+   "desc": "O-Ring Seal (Inner) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 94.3,
+   "y": 28.3,
+   "partNo": "NSS",
+   "desc": "O-Ring Seal (Outer) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 7.4,
+   "y": 32.9,
+   "partNo": "NSS",
+   "desc": "O-Ring Seal (Outer) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 7.5,
+   "y": 23.8,
+   "partNo": "NSS",
+   "desc": "Back-Up Washer (Inner) (not sold separately - order seal kit (see notes))",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 94.8,
+   "y": 22.4,
+   "partNo": "NSS",
+   "desc": "Back-Up Washer (Inner) (not sold separately - order seal kit (see notes))",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 7.2,
+   "y": 35.9,
+   "partNo": "NSS",
+   "desc": "Back-Up Washer (Outer) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 94.7,
+   "y": 31.3,
+   "partNo": "NSS",
+   "desc": "Back-Up Washer (Outer) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 7.7,
+   "y": 41.7,
+   "partNo": "NSS",
+   "desc": "Anti-Cavitation Check Body (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 7.5,
+   "y": 26.7,
+   "partNo": "NSS",
+   "desc": "Check Ball Retainer (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 94.6,
+   "y": 74.4,
+   "partNo": "C42678",
+   "desc": "Handle Clevis Pin, 1/4 Dia x 7/8",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 94.7,
+   "y": 43.6,
+   "partNo": "NSS",
+   "desc": "Spring (2201 - 3000 PSI Crack) (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 94.2,
+   "y": 16.4,
+   "partNo": "NSS",
+   "desc": "Check Spring (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 7.1,
+   "y": 17.8,
+   "partNo": "NSS",
+   "desc": "Check Spring (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 94.9,
+   "y": 49.9,
+   "partNo": "NSS",
+   "desc": "Relief Cap (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 94.9,
+   "y": 47.2,
+   "partNo": "NSS",
+   "desc": "Relief Poppet (not sold separately - order seal kit (see notes))",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 94.7,
+   "y": 25.5,
+   "partNo": "NSS",
+   "desc": "Piston Ring (not sold separately - order seal kit (see notes))",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 94.7,
+   "y": 40.6,
+   "partNo": "NSS",
+   "desc": "Relief Body (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 94.5,
+   "y": 37.7,
+   "partNo": "NSS",
+   "desc": "O-Ring Seal (not sold separately - order seal kit (see notes))",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 94.7,
+   "y": 53.5,
+   "partNo": "NSS",
+   "desc": "O-Ring Seal (not sold separately - order seal kit (see notes))",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 7.3,
+   "y": 38.7,
+   "partNo": "NSS",
+   "desc": "O-Ring Seal (not sold separately - order seal kit (see notes))",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 7.3,
+   "y": 14.4,
+   "partNo": "NSS",
+   "desc": "Steel Check (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 94.3,
+   "y": 12.9,
+   "partNo": "NSS",
+   "desc": "Steel Check (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 54.1,
+   "y": 89.4,
+   "partNo": "NSS",
+   "desc": "Back-Up Washer (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 94.7,
+   "y": 86.5,
+   "partNo": "C42665",
+   "desc": "Seal Plate Retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 54,
+   "y": 92.6,
+   "partNo": "C42666",
+   "desc": "Seal Retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 7.5,
+   "y": 80.6,
+   "partNo": "NSS",
+   "desc": "Centering Spring (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 53.8,
+   "y": 86.4,
+   "partNo": "NSS",
+   "desc": "Spool O-Ring Seal (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 33.1,
+   "y": 89.6,
+   "partNo": "NSS",
+   "desc": "Center Section Housing (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 33.1,
+   "y": 92.3,
+   "partNo": "NSS",
+   "desc": "Four-Way Spool (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Parts marked NOT SOLD SEP. are serviced as part of the complete valve section, the relief or check cartridge, the seal kit, or the spool positioner kit listed below.\nAlso listed, not shown on diagram:\n- C42650 Control Valve Section - Crowd Circuit, consisting of above listed parts. NOTE - one heavy duty seal plate retainer kit C42885 (not shown) must be added and bolted over seal plate retainer (29) to complete crowd section\n- C42663 Control Valve Section Seal Kit - Crowd Circuit, consisting of: 32 (qty 2), 13 (qty 2), 14 (qty 2), 15 (qty 4), 16 (qty 2), 26 (qty 2), pressure section seal (qty 2), and exhaust section seal (qty 2)\n- C42664 Spool Seal Kit; consisting of: 32 (qty 2) and 28 (qty 2)\n- C42658 Relief Cartridge (2500 PSI), as shown\n- C42662 Relief Cartridge Seal Kit; consisting of: 13 (qty 1), 14 (qty 1), 15 (qty 2), 16 (qty 1), and 26 (qty 2)\n- C42656 Poppet Seal Kit, consisting of: 23 (qty 1) and 24 (qty 1)\n- C42659 Anti-Cavitation Check Cartridge, as shown\n- C42662 Anti-Cavitation Check Seal Kit, same as Relief Cartridge Seal Kit listed above\n- C42648 Spring Centered Spool Positioner Kit, as shown"
+}

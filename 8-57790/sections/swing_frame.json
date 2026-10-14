@@ -1,0 +1,306 @@
+{
+ "sectionTitle": "Swing Frame and Attaching Parts",
+ "breadcrumb": "Swing Frame and Attaching Parts",
+ "catalogLabel": "Catalog 8-57790",
+ "modelNumbers": "Catalog 8-57790 — Ameriquip Backhoe Model 80A",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-57790/swing_frame.jpg",
+ "hotspots": [
+  {
+   "ref": "38",
+   "x": 71.9,
+   "y": 85.2,
+   "partNo": "C42637",
+   "desc": "Hydraulic Cylinder - Swing",
+   "reqd": ""
+  },
+  {
+   "ref": "39",
+   "x": 34.4,
+   "y": 11.5,
+   "partNo": "114-104",
+   "desc": "Bolt, 5/16 NF x 1\"",
+   "reqd": ""
+  },
+  {
+   "ref": "40",
+   "x": 52.2,
+   "y": 3.8,
+   "partNo": "114-100",
+   "desc": "Bolt, 5/16 NF x 1-1/4",
+   "reqd": ""
+  },
+  {
+   "ref": "40",
+   "x": 23.6,
+   "y": 51.2,
+   "partNo": "114-100",
+   "desc": "Bolt, 5/16 NF x 1-1/4",
+   "reqd": ""
+  },
+  {
+   "ref": "41",
+   "x": 45.2,
+   "y": 64.3,
+   "partNo": "114-200",
+   "desc": "Bolt, 3/8 NF x 1\"",
+   "reqd": ""
+  },
+  {
+   "ref": "42",
+   "x": 40,
+   "y": 25.8,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "42",
+   "x": 52.5,
+   "y": 18.6,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "42",
+   "x": 58.1,
+   "y": 30.4,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "43",
+   "x": 45.4,
+   "y": 66.2,
+   "partNo": "192-21",
+   "desc": "Lockwasher, 3/8",
+   "reqd": ""
+  },
+  {
+   "ref": "44",
+   "x": 60.4,
+   "y": 65.6,
+   "partNo": "C42643",
+   "desc": "Machine Bushing, 1-1/2 OD x 1\" ID x 18 GA",
+   "reqd": ""
+  },
+  {
+   "ref": "44",
+   "x": 41.8,
+   "y": 82.6,
+   "partNo": "C42643",
+   "desc": "Machine Bushing, 1-1/2 OD x 1\" ID x 18 GA",
+   "reqd": ""
+  },
+  {
+   "ref": "44",
+   "x": 59.8,
+   "y": 96.3,
+   "partNo": "C42643",
+   "desc": "Machine Bushing, 1-1/2 OD x 1\" ID x 18 GA",
+   "reqd": ""
+  },
+  {
+   "ref": "45",
+   "x": 42,
+   "y": 76.5,
+   "partNo": "132-349",
+   "desc": "Cotter Pin, 1/4 x 1-1/2",
+   "reqd": ""
+  },
+  {
+   "ref": "45",
+   "x": 62.7,
+   "y": 72.1,
+   "partNo": "132-349",
+   "desc": "Cotter Pin, 1/4 x 1-1/2",
+   "reqd": ""
+  },
+  {
+   "ref": "45",
+   "x": 61.4,
+   "y": 90.8,
+   "partNo": "132-349",
+   "desc": "Cotter Pin, 1/4 x 1-1/2",
+   "reqd": ""
+  },
+  {
+   "ref": "46",
+   "x": 26.9,
+   "y": 17.7,
+   "partNo": "C42644",
+   "desc": "Cotter Pin, 5/16 x 2-1/2",
+   "reqd": ""
+  },
+  {
+   "ref": "47",
+   "x": 57.7,
+   "y": 53.9,
+   "partNo": "C42673",
+   "desc": "Bronze Bearing, 1-1/4 OD x 1\" ID x 1\"",
+   "reqd": ""
+  },
+  {
+   "ref": "47",
+   "x": 59.8,
+   "y": 61,
+   "partNo": "C42673",
+   "desc": "Bronze Bearing, 1-1/4 OD x 1\" ID x 1\"",
+   "reqd": ""
+  },
+  {
+   "ref": "48",
+   "x": 14.8,
+   "y": 68.1,
+   "partNo": "C42680",
+   "desc": "Quick Release Pin - Long",
+   "reqd": ""
+  },
+  {
+   "ref": "49",
+   "x": 33.1,
+   "y": 54.3,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "49",
+   "x": 61.5,
+   "y": 49.7,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "49",
+   "x": 61,
+   "y": 39.8,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "49",
+   "x": 85.5,
+   "y": 77.2,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "49",
+   "x": 55.6,
+   "y": 85.8,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "50",
+   "x": 45.6,
+   "y": 68.4,
+   "partNo": "C42697",
+   "desc": "Pin Retainer - Small",
+   "reqd": ""
+  },
+  {
+   "ref": "51",
+   "x": 52.7,
+   "y": 56.1,
+   "partNo": "C42703",
+   "desc": "Thrust Washer",
+   "reqd": ""
+  },
+  {
+   "ref": "51",
+   "x": 53.5,
+   "y": 21.7,
+   "partNo": "C42703",
+   "desc": "Thrust Washer",
+   "reqd": ""
+  },
+  {
+   "ref": "52",
+   "x": 29.8,
+   "y": 34.9,
+   "partNo": "C42729",
+   "desc": "Swing Frame Assembly (includes items 47 & 60)",
+   "reqd": ""
+  },
+  {
+   "ref": "53",
+   "x": 42,
+   "y": 78.6,
+   "partNo": "C42705",
+   "desc": "Swing Link Weldment",
+   "reqd": ""
+  },
+  {
+   "ref": "53",
+   "x": 42,
+   "y": 89.3,
+   "partNo": "C42705",
+   "desc": "Swing Link Weldment",
+   "reqd": ""
+  },
+  {
+   "ref": "55",
+   "x": 25.4,
+   "y": 36.2,
+   "partNo": "C42710",
+   "desc": "Hose Retainer",
+   "reqd": ""
+  },
+  {
+   "ref": "56",
+   "x": 54,
+   "y": 15.4,
+   "partNo": "C42711",
+   "desc": "Hose Bracket",
+   "reqd": ""
+  },
+  {
+   "ref": "57",
+   "x": 53.8,
+   "y": 7.4,
+   "partNo": "C42712",
+   "desc": "Hose Strap",
+   "reqd": ""
+  },
+  {
+   "ref": "58",
+   "x": 31.2,
+   "y": 21.3,
+   "partNo": "C42717",
+   "desc": "Pin, 1\" Diameter x 5-1/2",
+   "reqd": ""
+  },
+  {
+   "ref": "59",
+   "x": 45.2,
+   "y": 70.9,
+   "partNo": "C42719",
+   "desc": "Pin, 1\" Diameter x 4-1/8",
+   "reqd": ""
+  },
+  {
+   "ref": "60",
+   "x": 39.7,
+   "y": 56,
+   "partNo": "C42674",
+   "desc": "Bronze Bushing, 1-3/4 OD x 1-1/2 ID x 1\"",
+   "reqd": ""
+  },
+  {
+   "ref": "60",
+   "x": 61,
+   "y": 20,
+   "partNo": "C42674",
+   "desc": "Bronze Bushing, 1-3/4 OD x 1-1/2 ID x 1\"",
+   "reqd": ""
+  }
+ ],
+ "footnotes": ""
+}

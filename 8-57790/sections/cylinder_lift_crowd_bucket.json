@@ -1,0 +1,149 @@
+{
+ "sectionTitle": "Hydraulic Cylinder - Lift and Crowd (C42636), Bucket (C42635)",
+ "breadcrumb": "Hydraulic Cylinder - Lift and Crowd (C42636), Bucket (C42635)",
+ "catalogLabel": "Catalog 8-57790",
+ "modelNumbers": "Catalog 8-57790 — Ameriquip Backhoe Model 80A",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-57790/cylinder_lift_crowd_bucket.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 45.1,
+   "y": 44.6,
+   "partNo": "C42638",
+   "desc": "Lock Nut, 3/4 NF Nyloc",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 26.1,
+   "y": 74.6,
+   "partNo": "NSS",
+   "desc": "Oil Seal, 1-1/4 OD x 1\" ID (not sold separately - order Seal Repair Kit C42749)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 61,
+   "y": 71.7,
+   "partNo": "NSS",
+   "desc": "O-Ring, 1\" OD x 3/4 ID (not sold separately - order Seal Repair Kit C42749)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 4.6,
+   "y": 56.7,
+   "partNo": "NSS",
+   "desc": "O-Ring, 2\" OD x 1-3/4 ID (not sold separately - order Seal Repair Kit C42749)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 7.4,
+   "y": 61.4,
+   "partNo": "NSS",
+   "desc": "Back-Up Ring, 2\" OD x 1-3/4 ID (not sold separately - order Seal Repair Kit C42749)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 66.6,
+   "y": 57.5,
+   "partNo": "NSS",
+   "desc": "Back-Up Ring, 1\" OD x 3/4 ID (not sold separately - order Seal Repair Kit C42749)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 16.5,
+   "y": 67.7,
+   "partNo": "NSS",
+   "desc": "Packing Assembly, 1-3/8 OD x 1\" ID (not sold separately - order Seal Repair Kit C42749)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 53.9,
+   "y": 53,
+   "partNo": "NSS",
+   "desc": "Packing Assembly, 2\" OD x 1-1/2 ID (not sold separately - order Seal Repair Kit C42749)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 48.4,
+   "y": 46.5,
+   "partNo": "NSS",
+   "desc": "Wear Ring, 2\" OD x 1-3/4 ID x 3/8 (not sold separately - order Seal Repair Kit C42749)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 72.1,
+   "y": 63,
+   "partNo": "C42748",
+   "desc": "Piston Washer",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 22.9,
+   "y": 71.2,
+   "partNo": "C42737",
+   "desc": "Gland Nut",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 51.1,
+   "y": 50.3,
+   "partNo": "C42747",
+   "desc": "Piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 25,
+   "y": 8.1,
+   "partNo": "C42751",
+   "desc": "Cylinder Tube Weldment",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 48.3,
+   "y": 91,
+   "variants": [
+    {
+     "serialNote": "Lift and Crowd cylinder C42636",
+     "partNo": "C42752",
+     "desc": "Piston Rod Weldment",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Bucket cylinder C42635",
+     "partNo": "C42746",
+     "desc": "Piston Rod Weldment",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "23",
+   "x": 59.7,
+   "y": 54.7,
+   "partNo": "C42743",
+   "desc": "Piston Spacer, with O-Ring and Back-Ups",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 10.8,
+   "y": 65.6,
+   "partNo": "C42750",
+   "desc": "Gland, with O-Ring, Back-Up, and Packing",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Seals, O-rings, back-up rings and packings are serviced only in the Seal Repair Kit (C42749), which includes all packings, wear rings, O-rings, back-up rings and wipers for one cylinder.\nIMPORTANT: Replace the cylinder nut any time it must be removed. Torque the nut to 200 lb.-ft.\nAlso listed, not shown on diagram:\n- C42636 Complete Cylinder - Lift and Crowd\n- C42635 Complete Cylinder - Bucket\n- C42749 Seal Repair Kit (includes all Packings, Wear Rings, O-Rings, Back-Up Rings, and Wipers for one cylinder)"
+}

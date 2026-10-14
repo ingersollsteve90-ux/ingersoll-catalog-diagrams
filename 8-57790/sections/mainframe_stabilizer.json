@@ -1,0 +1,330 @@
+{
+ "sectionTitle": "Mainframe, Stabilizers and Attaching Parts",
+ "breadcrumb": "Mainframe, Stabilizers and Attaching Parts",
+ "catalogLabel": "Catalog 8-57790",
+ "modelNumbers": "Catalog 8-57790 — Ameriquip Backhoe Model 80A",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-57790/mainframe_stabilizer.jpg",
+ "hotspots": [
+  {
+   "ref": "77",
+   "x": 70.4,
+   "y": 57.1,
+   "partNo": "C42634",
+   "desc": "Hydraulic Cylinder - Stabilizer",
+   "reqd": ""
+  },
+  {
+   "ref": "78",
+   "x": 14.4,
+   "y": 74.6,
+   "partNo": "114-100",
+   "desc": "Bolt, 5/16 NF x 1-1/4",
+   "reqd": ""
+  },
+  {
+   "ref": "79",
+   "x": 35.4,
+   "y": 4,
+   "partNo": "114-409",
+   "desc": "Bolt, 1/2 NF x 1\"",
+   "reqd": ""
+  },
+  {
+   "ref": "79",
+   "x": 36,
+   "y": 27.4,
+   "partNo": "114-409",
+   "desc": "Bolt, 1/2 NF x 1\"",
+   "reqd": ""
+  },
+  {
+   "ref": "80",
+   "x": 73.2,
+   "y": 96.3,
+   "partNo": "113-606",
+   "desc": "Bolt, 5/8 NC x 1-1/4 Gr 5",
+   "reqd": ""
+  },
+  {
+   "ref": "81",
+   "x": 92.1,
+   "y": 78.2,
+   "partNo": "129-107",
+   "desc": "Nut, 5/8 NC",
+   "reqd": ""
+  },
+  {
+   "ref": "82",
+   "x": 18.3,
+   "y": 72.7,
+   "partNo": "192-20",
+   "desc": "Lockwasher, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "83",
+   "x": 35,
+   "y": 7,
+   "partNo": "192-80",
+   "desc": "Lockwasher, 1/2 Shakeproof",
+   "reqd": ""
+  },
+  {
+   "ref": "83",
+   "x": 36.3,
+   "y": 24.7,
+   "partNo": "192-80",
+   "desc": "Lockwasher, 1/2 Shakeproof",
+   "reqd": ""
+  },
+  {
+   "ref": "84",
+   "x": 92.9,
+   "y": 80.7,
+   "partNo": "192-25",
+   "desc": "Lockwasher, 5/8",
+   "reqd": ""
+  },
+  {
+   "ref": "85",
+   "x": 23.4,
+   "y": 71.3,
+   "partNo": "195-521",
+   "desc": "Flat Washer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "86",
+   "x": 35.2,
+   "y": 13.6,
+   "partNo": "195-533",
+   "desc": "Flat Washer, 1/2 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "87",
+   "x": 47,
+   "y": 46.7,
+   "partNo": "195-541",
+   "desc": "Flat Washer, 5/8 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "88",
+   "x": 10,
+   "y": 11.8,
+   "partNo": "C42642",
+   "desc": "Machine Bushing, 2-1/4 OD x 1-1/2 ID x 16 GA",
+   "reqd": ""
+  },
+  {
+   "ref": "90",
+   "x": 56.1,
+   "y": 44.4,
+   "partNo": "132-312",
+   "desc": "Cotter Pin, 3/16 x 1-1/4",
+   "reqd": ""
+  },
+  {
+   "ref": "90",
+   "x": 91.9,
+   "y": 69,
+   "partNo": "132-312",
+   "desc": "Cotter Pin, 3/16 x 1-1/4",
+   "reqd": ""
+  },
+  {
+   "ref": "91",
+   "x": 38.7,
+   "y": 37.9,
+   "partNo": "132-349",
+   "desc": "Cotter Pin, 1/4 x 1-1/2",
+   "reqd": ""
+  },
+  {
+   "ref": "93",
+   "x": 63.8,
+   "y": 30.2,
+   "partNo": "C42675",
+   "desc": "Foot Pad - Large",
+   "reqd": ""
+  },
+  {
+   "ref": "94",
+   "x": 72.1,
+   "y": 37.8,
+   "partNo": "C42676",
+   "desc": "Foot Pad - Small",
+   "reqd": ""
+  },
+  {
+   "ref": "95",
+   "x": 31.9,
+   "y": 34,
+   "partNo": "C42679",
+   "desc": "Quick Release Pin - Short",
+   "reqd": ""
+  },
+  {
+   "ref": "96",
+   "x": 31.2,
+   "y": 67.2,
+   "partNo": "C42682",
+   "desc": "Bumper",
+   "reqd": ""
+  },
+  {
+   "ref": "97",
+   "x": 47.8,
+   "y": 54.2,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "97",
+   "x": 71.5,
+   "y": 64.3,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "98",
+   "x": 36.3,
+   "y": 9.8,
+   "partNo": "C42698",
+   "desc": "Pin Retainer - Large",
+   "reqd": ""
+  },
+  {
+   "ref": "98",
+   "x": 35,
+   "y": 21.9,
+   "partNo": "C42698",
+   "desc": "Pin Retainer - Large",
+   "reqd": ""
+  },
+  {
+   "ref": "99",
+   "x": 63.2,
+   "y": 85.2,
+   "partNo": "C42700",
+   "desc": "Stabilizer Pad",
+   "reqd": ""
+  },
+  {
+   "ref": "100",
+   "x": 47.5,
+   "y": 42.4,
+   "partNo": "C42701",
+   "desc": "Pin, 1\" Diameter x 4-1/4",
+   "reqd": ""
+  },
+  {
+   "ref": "101",
+   "x": 81.1,
+   "y": 75.5,
+   "partNo": "C42704",
+   "desc": "Pin, 5/8 Dia. x 4-15/16",
+   "reqd": ""
+  },
+  {
+   "ref": "102",
+   "x": 8.8,
+   "y": 60.2,
+   "partNo": "C42734",
+   "desc": "Mainframe Weldment",
+   "reqd": ""
+  },
+  {
+   "ref": "103",
+   "x": 49.1,
+   "y": 73.2,
+   "partNo": "C42735",
+   "desc": "Stabilizer Weldment",
+   "reqd": ""
+  },
+  {
+   "ref": "104",
+   "x": 66.4,
+   "y": 92.6,
+   "partNo": "C42708",
+   "desc": "Stabilizer Shoe",
+   "reqd": ""
+  },
+  {
+   "ref": "105",
+   "x": 86.2,
+   "y": 46.3,
+   "partNo": "C42709",
+   "desc": "Stabilizer Shield",
+   "reqd": ""
+  },
+  {
+   "ref": "106",
+   "x": 10.3,
+   "y": 19,
+   "partNo": "C42713",
+   "desc": "Main Pivot Shaft",
+   "reqd": ""
+  },
+  {
+   "ref": "107",
+   "x": 53.1,
+   "y": 49.9,
+   "partNo": "C42721",
+   "desc": "Pin, 5/8 Dia. x 5-5/8",
+   "reqd": ""
+  },
+  {
+   "ref": "108",
+   "x": 84.2,
+   "y": 64.3,
+   "partNo": "C42718",
+   "desc": "Pin, 5/8 Dia. x 3-7/8",
+   "reqd": ""
+  },
+  {
+   "ref": "109",
+   "x": 42.9,
+   "y": 83.1,
+   "partNo": "C42732",
+   "desc": "Pin, 5/8 Dia. x 5-5/8",
+   "reqd": ""
+  },
+  {
+   "ref": "110",
+   "x": 60.6,
+   "y": 53,
+   "partNo": "219-37",
+   "desc": "Grease Fitting, 45°",
+   "reqd": ""
+  },
+  {
+   "ref": "111",
+   "x": 20.4,
+   "y": 77.1,
+   "partNo": "114-101",
+   "desc": "Bolt, 5/16 NF x 7/8 Gr. 5",
+   "reqd": ""
+  },
+  {
+   "ref": "112",
+   "x": 32.2,
+   "y": 72.6,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "113",
+   "x": 21.5,
+   "y": 83.7,
+   "partNo": "C42720",
+   "desc": "Pin Retainer - Small",
+   "reqd": ""
+  }
+ ],
+ "footnotes": ""
+}

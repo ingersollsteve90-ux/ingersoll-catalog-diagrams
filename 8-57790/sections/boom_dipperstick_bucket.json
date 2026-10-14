@@ -1,0 +1,645 @@
+{
+ "sectionTitle": "Boom, Dipperstick and Bucket",
+ "breadcrumb": "Boom, Dipperstick and Bucket",
+ "catalogLabel": "Catalog 8-57790",
+ "modelNumbers": "Catalog 8-57790 — Ameriquip Backhoe Model 80A",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-57790/boom_dipperstick_bucket.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 17.2,
+   "y": 34.1,
+   "partNo": "C42635",
+   "desc": "Hydraulic Cylinder - Bucket",
+   "reqd": ""
+  },
+  {
+   "ref": "2",
+   "x": 68.6,
+   "y": 13.3,
+   "partNo": "C42636",
+   "desc": "Hydraulic Cylinder - Boom/Dipperstick",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 3.6,
+   "y": 9.3,
+   "partNo": "114-102",
+   "desc": "Bolt, 5/16 NF x 3/4",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 76.2,
+   "y": 37.3,
+   "partNo": "114-102",
+   "desc": "Bolt, 5/16 NF x 3/4",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 46.3,
+   "y": 14.7,
+   "partNo": "114-102",
+   "desc": "Bolt, 5/16 NF x 3/4",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 63.3,
+   "y": 97.4,
+   "partNo": "114-101",
+   "desc": "Bolt, 5/16 NF x 7/8",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 55.5,
+   "y": 57.4,
+   "partNo": "114-101",
+   "desc": "Bolt, 5/16 NF x 7/8",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 46.2,
+   "y": 22.6,
+   "partNo": "114-101",
+   "desc": "Bolt, 5/16 NF x 7/8",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 96.1,
+   "y": 56.9,
+   "partNo": "114-200",
+   "desc": "Bolt, 3/8 NF x 1\"",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 85,
+   "y": 38.7,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 12.5,
+   "y": 13.5,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 19.9,
+   "y": 15.9,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 56.3,
+   "y": 32.1,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 60.3,
+   "y": 32.3,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 41.1,
+   "y": 11.5,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 92.1,
+   "y": 50.8,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 22.6,
+   "y": 49.8,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 30,
+   "y": 82.4,
+   "partNo": "131-1169",
+   "desc": "Locknut, 5/16 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 76.7,
+   "y": 59.6,
+   "partNo": "131-1133",
+   "desc": "Locknut, 3/8 NF",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 90.7,
+   "y": 39.4,
+   "partNo": "195-521",
+   "desc": "Flat Washer, 5/16 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 69.8,
+   "y": 38.5,
+   "partNo": "195-521",
+   "desc": "Flat Washer, 5/16 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 44.1,
+   "y": 12.3,
+   "partNo": "195-521",
+   "desc": "Flat Washer, 5/16 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 7,
+   "y": 12,
+   "partNo": "195-521",
+   "desc": "Flat Washer, 5/16 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 38.7,
+   "y": 20.7,
+   "partNo": "195-521",
+   "desc": "Flat Washer, 5/16 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 37.5,
+   "y": 57.4,
+   "partNo": "195-521",
+   "desc": "Flat Washer, 5/16 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 54.4,
+   "y": 94.5,
+   "partNo": "195-521",
+   "desc": "Flat Washer, 5/16 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 90.9,
+   "y": 55.3,
+   "partNo": "195-525",
+   "desc": "Flat Washer, 3/8 SAE",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 35.8,
+   "y": 26.3,
+   "partNo": "C42643",
+   "desc": "Machine Bushing, 1-1/2 OD x 1\" ID x 18 GA",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 71.9,
+   "y": 29.6,
+   "partNo": "C42643",
+   "desc": "Machine Bushing, 1-1/2 OD x 1\" ID x 18 GA",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 86.3,
+   "y": 48.4,
+   "partNo": "C42643",
+   "desc": "Machine Bushing, 1-1/2 OD x 1\" ID x 18 GA",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 85.9,
+   "y": 60.4,
+   "partNo": "C42643",
+   "desc": "Machine Bushing, 1-1/2 OD x 1\" ID x 18 GA",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 45.1,
+   "y": 13.4,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 43.6,
+   "y": 21.5,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 74.6,
+   "y": 40.1,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 93.5,
+   "y": 44,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 54.1,
+   "y": 63.1,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 48.9,
+   "y": 57.1,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 5.1,
+   "y": 11,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 56.3,
+   "y": 96.4,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 73.2,
+   "y": 94.7,
+   "partNo": "C42720",
+   "desc": "Retainer, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 67.9,
+   "y": 75.2,
+   "partNo": "C42681",
+   "desc": "Bucket Tooth and Shank",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 68.9,
+   "y": 72.3,
+   "partNo": "C28530",
+   "desc": "Bucket Tooth Only",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 51.4,
+   "y": 30.4,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 53.1,
+   "y": 18.8,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 91.5,
+   "y": 17.8,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 49.6,
+   "y": 3.7,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 84,
+   "y": 7.2,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 15.6,
+   "y": 19.8,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 16.9,
+   "y": 39.3,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 7.8,
+   "y": 42.7,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 20.2,
+   "y": 46.1,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 6.9,
+   "y": 55.6,
+   "partNo": "219-10",
+   "desc": "Grease Fitting",
+   "reqd": ""
+  },
+  {
+   "ref": "15",
+   "x": 93.9,
+   "y": 55.8,
+   "partNo": "C42697",
+   "desc": "Pin Retainer - Small",
+   "reqd": ""
+  },
+  {
+   "ref": "16",
+   "x": 17.2,
+   "y": 59.2,
+   "partNo": "C42699",
+   "desc": "Bucket Link Weldment",
+   "reqd": ""
+  },
+  {
+   "ref": "17",
+   "x": 39.4,
+   "y": 47.7,
+   "partNo": "C42706",
+   "desc": "Guide Link Weldment",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 48.8,
+   "y": 51.3,
+   "partNo": "C42702",
+   "desc": "Pin, 1\" Dia. x 7-3/8",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 38.3,
+   "y": 65.4,
+   "partNo": "C42702",
+   "desc": "Pin, 1\" Dia. x 7-3/8",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 66.7,
+   "y": 86.4,
+   "partNo": "C42702",
+   "desc": "Pin, 1\" Dia. x 7-3/8",
+   "reqd": ""
+  },
+  {
+   "ref": "20",
+   "x": 54.1,
+   "y": 33.2,
+   "partNo": "C42710",
+   "desc": "Hose Retainer",
+   "reqd": ""
+  },
+  {
+   "ref": "21",
+   "x": 92.8,
+   "y": 52.5,
+   "partNo": "C42712",
+   "desc": "Hose Strap",
+   "reqd": ""
+  },
+  {
+   "ref": "22",
+   "x": 88.6,
+   "y": 62,
+   "partNo": "C42714",
+   "desc": "Pin, 1\" Dia. x 8-3/16",
+   "reqd": ""
+  },
+  {
+   "ref": "23",
+   "x": 45.6,
+   "y": 19,
+   "partNo": "C42715",
+   "desc": "Pin, 1\" Dia. x 6-7/8",
+   "reqd": ""
+  },
+  {
+   "ref": "24",
+   "x": 39,
+   "y": 28.1,
+   "partNo": "C42716",
+   "desc": "Pin, 1\" Dia. x 5-5/8",
+   "reqd": ""
+  },
+  {
+   "ref": "24",
+   "x": 96.5,
+   "y": 46.3,
+   "partNo": "C42716",
+   "desc": "Pin, 1\" Dia. x 5-5/8",
+   "reqd": ""
+  },
+  {
+   "ref": "24",
+   "x": 18.3,
+   "y": 2.9,
+   "partNo": "C42716",
+   "desc": "Pin, 1\" Dia. x 5-5/8",
+   "reqd": ""
+  },
+  {
+   "ref": "25",
+   "x": 63.8,
+   "y": 51.3,
+   "partNo": "C42730",
+   "desc": "Boom Weldment",
+   "reqd": ""
+  },
+  {
+   "ref": "26",
+   "x": 33.6,
+   "y": 31,
+   "partNo": "C42731",
+   "desc": "Dipperstick Weldment",
+   "reqd": ""
+  },
+  {
+   "ref": "27",
+   "x": 59.9,
+   "y": 81.3,
+   "variants": [
+    {
+     "serialNote": "9 inch",
+     "partNo": "C42583",
+     "desc": "Bucket Complete - 9 inch",
+     "reqd": ""
+    },
+    {
+     "serialNote": "13 inch",
+     "partNo": "C42584",
+     "desc": "Bucket Complete - 13 inch",
+     "reqd": ""
+    },
+    {
+     "serialNote": "16 inch",
+     "partNo": "C42585",
+     "desc": "Bucket Complete - 16 inch",
+     "reqd": ""
+    },
+    {
+     "serialNote": "19 inch",
+     "partNo": "C42586",
+     "desc": "Bucket Complete - 19 inch",
+     "reqd": ""
+    },
+    {
+     "serialNote": "24 inch",
+     "partNo": "C42587",
+     "desc": "Bucket Complete - 24 inch",
+     "reqd": ""
+    },
+    {
+     "serialNote": "36 inch",
+     "partNo": "C42588",
+     "desc": "Bucket Complete - 36 inch",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 5.2,
+   "y": 39.3,
+   "partNo": "111-132",
+   "desc": "Carriage Bolt, 5/16 NC x 3/4",
+   "reqd": ""
+  },
+  {
+   "ref": "29",
+   "x": 5.6,
+   "y": 37.8,
+   "partNo": "129-102",
+   "desc": "Nut, 5/16 NC",
+   "reqd": ""
+  },
+  {
+   "ref": "30",
+   "x": 5.6,
+   "y": 36.5,
+   "partNo": "192-20",
+   "desc": "Lockwasher, 5/16",
+   "reqd": ""
+  },
+  {
+   "ref": "31",
+   "x": 4.8,
+   "y": 26.3,
+   "partNo": "C31725",
+   "desc": "SMV Socket",
+   "reqd": ""
+  },
+  {
+   "ref": "32",
+   "x": 17.5,
+   "y": 30.1,
+   "partNo": "214-260",
+   "desc": "Hose Clamp",
+   "reqd": ""
+  },
+  {
+   "ref": "33",
+   "x": 6.6,
+   "y": 23.1,
+   "partNo": "C31526",
+   "desc": "SMV Socket Mount",
+   "reqd": ""
+  },
+  {
+   "ref": "34",
+   "x": 76.3,
+   "y": 31.1,
+   "partNo": "C42733",
+   "desc": "Pin, 1\" Dia. x 6\"",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Ref 27: bucket available in 9, 13, 16, 19, 24 and 36 inch widths."
+}

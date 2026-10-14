@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Control Valve Section - Bucket, Swing and Stabilizer Circuits",
+ "breadcrumb": "Control Valve Section - Bucket, Swing and Stabilizer Circuits",
+ "catalogLabel": "Catalog 8-57790",
+ "modelNumbers": "Catalog 8-57790 — Ameriquip Backhoe Model 80A",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-57790/control_valve_bucket_swing_stabilizer.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 95.7,
+   "y": 73,
+   "partNo": "132-320",
+   "desc": "Handle Pin Cotter, 3/32 x 3/4",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 95.9,
+   "y": 85.2,
+   "partNo": "NSS",
+   "desc": "Machine Screw and Lockwasher (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 7.3,
+   "y": 87,
+   "partNo": "NSS",
+   "desc": "Bonnet Screw (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 7.9,
+   "y": 71.4,
+   "partNo": "NSS",
+   "desc": "Stop Collar (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 7.7,
+   "y": 65.8,
+   "partNo": "NSS",
+   "desc": "Spool Collar (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 7.9,
+   "y": 62.3,
+   "partNo": "NSS",
+   "desc": "Bonnet (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 7.7,
+   "y": 68.4,
+   "partNo": "NSS",
+   "desc": "Spool Assembly Screw (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 7.5,
+   "y": 84.1,
+   "partNo": "NSS",
+   "desc": "Spool Assembly Screw Lockwasher (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 9.5,
+   "y": 19.5,
+   "partNo": "NSS",
+   "desc": "Check Plug O-Ring Seal (Inner) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 9.1,
+   "y": 32.2,
+   "partNo": "NSS",
+   "desc": "Check Plug O-Ring Seal (Outer) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 8.6,
+   "y": 23.2,
+   "partNo": "NSS",
+   "desc": "Back-Up Washer (Inner) (not sold separately - order seal kit (see notes))",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 8.7,
+   "y": 35.2,
+   "partNo": "NSS",
+   "desc": "Back-Up Washer (Outer) (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 96.4,
+   "y": 75.8,
+   "partNo": "C42678",
+   "desc": "Handle Clevis Pin, 1/4 Dia x 7/8",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 9.3,
+   "y": 16.5,
+   "partNo": "NSS",
+   "desc": "Lift Check Spring (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 9.1,
+   "y": 41.4,
+   "partNo": "NSS",
+   "desc": "Lift Check Plug O-Ring Seal (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 9.1,
+   "y": 13.8,
+   "partNo": "NSS",
+   "desc": "Lift Check Poppet (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 54.6,
+   "y": 90.6,
+   "partNo": "NSS",
+   "desc": "Back-Up Washer (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 9.5,
+   "y": 38.2,
+   "partNo": "NSS",
+   "desc": "Lift Check Plug (not sold separately - order complete section or cartridge)",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 95.6,
+   "y": 88.6,
+   "partNo": "C42665",
+   "desc": "Seal Plate Retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 54.4,
+   "y": 93.3,
+   "partNo": "C42666",
+   "desc": "Seal Retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 7.1,
+   "y": 80.7,
+   "partNo": "NSS",
+   "desc": "Centering Spring (not sold separately - order C42648 Spring Centered Spool Positioner Kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 54.8,
+   "y": 87.4,
+   "partNo": "NSS",
+   "desc": "Spool O-Ring Seal (not sold separately - order seal kit (see notes))",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 32.5,
+   "y": 90.2,
+   "partNo": "NSS",
+   "desc": "Center Section Housing (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 32.5,
+   "y": 93.3,
+   "partNo": "NSS",
+   "desc": "Four-Way Spool (not sold separately - order complete section or cartridge)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Parts marked NOT SOLD SEP. are serviced as part of the complete valve section, the relief or check cartridge, the seal kit, or the spool positioner kit listed below.\nAlso listed, not shown on diagram:\n- C42651 Control Valve Section - Actuate (Bucket), Swing, and Stabilizer Circuits, consisting of above listed parts. NOTE - Two Orifice Plates C42657 must be added to complete Swing Section. Also, one heavy duty seal plate retainer kit C42885 (not shown) must be added and bolted over seal plate retainer (19) to complete bucket or swing sections (not required on stabilizer section)\n- C42663 Control Valve Section Seal Kit - Actuate (Bucket), Swing, and Stabilizer Circuits, consisting of: 22 (qty 2), 9 (qty 2), 10 (qty 2), 11 (qty 4), 12 (qty 2), 15 (qty 2), pressure section seal (qty 2), and exhaust section seal (qty 2)\n- C42664 Spool Seal Kit; consisting of: 22 (qty 2) and 17 (qty 2)\n- C42660 Check Cartridge, as shown\n- C42662 Check Cartridge Seal Kit; consisting of: 9 (qty 1), 10 (qty 1), 11 (qty 2), 12 (qty 1), and 15 (qty 2)\n- C42648 Spring Centered Spool Positioner Kit, as shown"
+}
