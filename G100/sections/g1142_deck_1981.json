@@ -1,0 +1,354 @@
+{
+ "sectionTitle": "G1142 Mower Deck (1981)",
+ "breadcrumb": "G1142 Mower Deck (1981)",
+ "catalogLabel": "Catalog G100",
+ "modelNumbers": "Catalog G100 — Grazer 42\" Mower Decks for 11 hp and 12 hp-and-up Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G100/g1142_deck_1981.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 73.4,
+   "y": 64.4,
+   "partNo": "300-0000",
+   "desc": "MOWER DECK",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 68.4,
+   "y": 33.5,
+   "partNo": "300-0001",
+   "desc": "COVER (SMALL)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 36.8,
+   "y": 36.5,
+   "partNo": "300-0002",
+   "desc": "COVER (LARGE)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 5,
+   "y": 45.9,
+   "partNo": "300-0003",
+   "desc": "FOOT GUARD",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 54.8,
+   "y": 23.4,
+   "partNo": "300-0004",
+   "desc": "GEAR BOX MOUNT",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 27.3,
+   "y": 24.1,
+   "partNo": "300-0005",
+   "desc": "DECK MOUNT",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 59.4,
+   "y": 4.7,
+   "partNo": "300-0006",
+   "desc": "BELT GUARD",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 28.4,
+   "y": 34.3,
+   "partNo": "300-0007",
+   "desc": "GAGE WHEEL MOUNT",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 52,
+   "y": 54.6,
+   "partNo": "300-0009",
+   "desc": "BRACKET, GAGE WHEEL MOUNT",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 31.8,
+   "y": 42.4,
+   "partNo": "300-0009",
+   "desc": "BRACKET, GAGE WHEEL MOUNT",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 10.8,
+   "y": 64.4,
+   "partNo": "300-0010",
+   "desc": "FORK, GAGE WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 31.5,
+   "y": 69.5,
+   "partNo": "300-0011",
+   "desc": "AXLE, GAGE WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 11.4,
+   "y": 73.1,
+   "partNo": "NSS",
+   "desc": "GAGE WHEEL BOLT (no part number printed)",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 85.6,
+   "y": 36,
+   "partNo": "300-0012",
+   "desc": "DECK LIFT ARM",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 65.5,
+   "y": 24.7,
+   "partNo": "300-0012",
+   "desc": "DECK LIFT ARM",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 80.8,
+   "y": 42.9,
+   "partNo": "300-0013",
+   "desc": "BUSHING, DECK LIFT ARM",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 88.4,
+   "y": 17.6,
+   "partNo": "300-0014",
+   "desc": "CROSSBAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 43.6,
+   "y": 56.2,
+   "partNo": "300-0015",
+   "desc": "BELT TIGHTENER",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 53.9,
+   "y": 46.8,
+   "partNo": "300-0016",
+   "desc": "SPACER, IDLER",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 53.9,
+   "y": 14.9,
+   "partNo": "900-2504",
+   "desc": "PULLEY, GEAR BOX (IN-PUT)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 54.8,
+   "y": 38.9,
+   "partNo": "900-2505",
+   "desc": "PULLEY, GEAR BOX (OUT-PUT)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 44.7,
+   "y": 44.6,
+   "partNo": "900-2501",
+   "desc": "PULLEY, IDLER",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 68.6,
+   "y": 43.8,
+   "partNo": "900-2506",
+   "desc": "PULLEY, SPINDLE",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 67.6,
+   "y": 36.9,
+   "partNo": "300-0017",
+   "desc": "WASHER, SPINDLE",
+   "reqd": "3"
+  },
+  {
+   "ref": "24",
+   "x": 71.1,
+   "y": 47.3,
+   "partNo": "900-3504",
+   "desc": "BEARING SPINDLE",
+   "reqd": "6"
+  },
+  {
+   "ref": "24",
+   "x": 71.1,
+   "y": 75.4,
+   "partNo": "900-3504",
+   "desc": "BEARING SPINDLE",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 71.3,
+   "y": 72.7,
+   "partNo": "300-0018",
+   "desc": "SPACER SPINDLE",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 72.1,
+   "y": 68.1,
+   "partNo": "300-0019",
+   "desc": "HOUSING SPINDLE",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 71.8,
+   "y": 79.2,
+   "partNo": "300-0020",
+   "desc": "SHAFT SPINDLE",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 78,
+   "y": 87.4,
+   "partNo": "900-5517",
+   "desc": "BLADE",
+   "reqd": "3"
+  },
+  {
+   "ref": "29",
+   "x": 52.8,
+   "y": 79.4,
+   "partNo": "300-0021",
+   "desc": "KEY SPINDLE",
+   "reqd": "3"
+  },
+  {
+   "ref": "30",
+   "x": 36.9,
+   "y": 81.7,
+   "partNo": "900-3001",
+   "desc": "BELT, DECK",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 61.5,
+   "y": 11,
+   "partNo": "900-3002",
+   "desc": "BELT, DRIVE",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 76.6,
+   "y": 9.9,
+   "partNo": "900-5518",
+   "desc": "CABLE, DECK",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 82,
+   "y": 50,
+   "partNo": "900-5519",
+   "desc": "PINS, DECK",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 76.4,
+   "y": 48.5,
+   "partNo": "900-5520",
+   "desc": "HAIR PIN",
+   "reqd": "6"
+  },
+  {
+   "ref": "34",
+   "x": 21.1,
+   "y": 52.1,
+   "partNo": "900-5520",
+   "desc": "HAIR PIN",
+   "reqd": "6"
+  },
+  {
+   "ref": "34",
+   "x": 21.8,
+   "y": 33.7,
+   "partNo": "900-5520",
+   "desc": "HAIR PIN",
+   "reqd": "6"
+  },
+  {
+   "ref": "35",
+   "x": 16.9,
+   "y": 38.5,
+   "partNo": "900-5521",
+   "desc": "PINS, GAGE WHEEL",
+   "reqd": "4"
+  },
+  {
+   "ref": "35",
+   "x": 20.1,
+   "y": 45.8,
+   "partNo": "900-5521",
+   "desc": "PINS, GAGE WHEEL",
+   "reqd": "4"
+  },
+  {
+   "ref": "36",
+   "x": 17.8,
+   "y": 76,
+   "partNo": "900-4007",
+   "desc": "GAGE WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 38.7,
+   "y": 12,
+   "partNo": "900-5526",
+   "desc": "GEAR BOX",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 66,
+   "y": 16.5,
+   "partNo": "300-0022",
+   "desc": "CROSS BAR PIN",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "G1142 42\" deck, 1981 (G1142 mower)."
+}

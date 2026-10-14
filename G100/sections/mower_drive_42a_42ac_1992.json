@@ -1,0 +1,296 @@
+{
+ "sectionTitle": "Mower Drive - 42A, 42AC (1992 and After)",
+ "breadcrumb": "Mower Drive - 42A, 42AC (1992 and After)",
+ "catalogLabel": "Catalog G100",
+ "modelNumbers": "Catalog G100 — Grazer 42\" Mower Decks for 11 hp and 12 hp-and-up Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G100/mower_drive_42a_42ac_1992.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 76,
+   "y": 80.5,
+   "variants": [
+    {
+     "serialNote": "Before S/N 09-08-0945",
+     "partNo": "C38063",
+     "desc": "MOUNT - gear box (use before S/N 09-08-0945)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 09-08-0945 and after",
+     "partNo": "C41269",
+     "desc": "MOUNT - gear box (use S/N 09-08-0945 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 65.9,
+   "y": 47.2,
+   "partNo": "C37875",
+   "desc": "GUARD - belt (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 74.6,
+   "y": 37.8,
+   "partNo": "C37877",
+   "desc": "ANGLE - gear box mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 49.5,
+   "y": 47.9,
+   "partNo": "C37878",
+   "desc": "TIGHTENER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 38.5,
+   "y": 55.6,
+   "partNo": "C37879",
+   "desc": "TIGHTENER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 21.2,
+   "y": 56.8,
+   "variants": [
+    {
+     "serialNote": "Housing assembly (includes refs 7, 8, 30)",
+     "partNo": "C37902",
+     "desc": "HOUSING ASSEMBLY - spindle (includes ref. 7, 8, 30)",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "Housing only",
+     "partNo": "C37880",
+     "desc": "HOUSING - spindle",
+     "reqd": "3"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 25,
+   "y": 62.6,
+   "partNo": "C37881",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 24,
+   "y": 51,
+   "partNo": "C42786",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "8",
+   "x": 24,
+   "y": 66.4,
+   "partNo": "C42786",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 25.3,
+   "y": 72.4,
+   "partNo": "C37883",
+   "desc": "SHAFT - spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 62,
+   "y": 35.1,
+   "partNo": "C37884",
+   "desc": "SHAFT - spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 17.7,
+   "y": 82,
+   "partNo": "C38036",
+   "desc": "BLADE",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 24,
+   "y": 88.5,
+   "partNo": "C37886",
+   "desc": "WASHER - blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 27,
+   "y": 96.1,
+   "partNo": "114-201",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 22.7,
+   "y": 43.1,
+   "partNo": "C37887",
+   "desc": "PULLEY - spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 62.7,
+   "y": 25.2,
+   "partNo": "C37887",
+   "desc": "PULLEY - spindle",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 62.8,
+   "y": 29.5,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "9"
+  },
+  {
+   "ref": "16",
+   "x": 35,
+   "y": 24.9,
+   "partNo": "C37889",
+   "desc": "PULLEY - spindle, double",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 42.4,
+   "y": 31.4,
+   "partNo": "C37890",
+   "desc": "PULLEY - gear box output",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 43.9,
+   "y": 45.4,
+   "partNo": "C41658",
+   "desc": "HUB - pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 37.6,
+   "y": 45.6,
+   "partNo": "C37891",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 52.8,
+   "y": 37,
+   "partNo": "C37891",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 57.7,
+   "y": 64.9,
+   "partNo": "C37892",
+   "desc": "PULLEY - gear box input",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 76,
+   "y": 64.5,
+   "partNo": "C37894",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 44.3,
+   "y": 22.4,
+   "partNo": "C37896",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 25.8,
+   "y": 36.7,
+   "partNo": "C37897",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 82.4,
+   "y": 46.2,
+   "partNo": "C44917",
+   "desc": "GEAR BOX - see page 53 for repairs",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 27,
+   "y": 22.4,
+   "partNo": "114-102",
+   "desc": "BOLT - 5/16\" - 24 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 24,
+   "y": 29.2,
+   "partNo": "C37900",
+   "desc": "WASHER - 5/16\", 10 ga.",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 42,
+   "y": 67.6,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "28",
+   "x": 44.5,
+   "y": 52.4,
+   "partNo": "C37901",
+   "desc": "BOLT - 1/4\" - 20 x 4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 63.5,
+   "y": 16.8,
+   "partNo": "C38037",
+   "desc": "PULLEY - spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 39.2,
+   "y": 62.4,
+   "partNo": "219-20",
+   "desc": "FITTING - grease 1/4\" - 28",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "42A and 42AC decks, 1992 and after (G1250, G1600 and G1800CD mowers)."
+}
