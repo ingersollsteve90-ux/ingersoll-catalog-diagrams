@@ -1,0 +1,646 @@
+{
+ "sectionTitle": "Body - All Chain Drives (1986 Through 1988)",
+ "breadcrumb": "Body - All Chain Drives (1986 Through 1988)",
+ "catalogLabel": "Catalog G104",
+ "modelNumbers": "Catalog G104 — Grazer Chain-Drive Grounds Mowers: G1142, G1642, G1652, G1852, G1862 and the G1100, G1600 and G1800 Series",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G104/body_all_chain_1986_1988.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.4,
+   "y": 64.9,
+   "partNo": "201-0000",
+   "desc": "Body",
+   "reqd": ""
+  },
+  {
+   "ref": "2",
+   "x": 25.6,
+   "y": 71.7,
+   "partNo": "900-2026",
+   "desc": "Lamp",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 2.3,
+   "y": 87.4,
+   "partNo": "201-0008",
+   "desc": "Fender R.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 31.5,
+   "y": 92.4,
+   "partNo": "201-0007",
+   "desc": "Fender L.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 13,
+   "y": 66.5,
+   "partNo": "900-2025",
+   "desc": "Bulb",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 60.2,
+   "y": 26.3,
+   "partNo": "201-0004",
+   "desc": "Lid",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 77.3,
+   "y": 16.5,
+   "partNo": "201-0009",
+   "desc": "Back Cover",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 18.7,
+   "y": 75.4,
+   "partNo": "900-2024",
+   "desc": "Lens",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 24.2,
+   "y": 43.3,
+   "partNo": "200-0007",
+   "desc": "Guard Rail",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 29.7,
+   "y": 18.3,
+   "partNo": "200-0008",
+   "desc": "Lid Prop",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 47.6,
+   "y": 31.1,
+   "partNo": "200-0009",
+   "desc": "Steering Lever",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 36.1,
+   "y": 35.2,
+   "partNo": "200-0010",
+   "desc": "Bearing Block, Steering Lever",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 54.8,
+   "y": 38.4,
+   "partNo": "200-0010",
+   "desc": "Bearing Block, Steering Lever",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 51.4,
+   "y": 32.2,
+   "partNo": "900-5500",
+   "desc": "Handle Grip",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 14,
+   "y": 6.8,
+   "partNo": "900-5500",
+   "desc": "Handle Grip",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 28,
+   "y": 35.4,
+   "partNo": "201-0010",
+   "desc": "Lever Lock",
+   "reqd": ""
+  },
+  {
+   "ref": "15",
+   "x": 27.4,
+   "y": 23.8,
+   "partNo": "200-0012",
+   "desc": "Latch, Lever Lock",
+   "reqd": ""
+  },
+  {
+   "ref": "16",
+   "x": 24.7,
+   "y": 36.7,
+   "partNo": "900-5501",
+   "desc": "Spring, Lever Lock",
+   "reqd": ""
+  },
+  {
+   "ref": "17",
+   "x": 45.8,
+   "y": 42.2,
+   "partNo": "200-0013",
+   "desc": "Steering cable end",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 50.7,
+   "y": 41.7,
+   "partNo": "200-0014",
+   "desc": "Bushing, cable end",
+   "reqd": ""
+  },
+  {
+   "ref": "19",
+   "x": 67.7,
+   "y": 32,
+   "partNo": "900-5502",
+   "desc": "Steering cable",
+   "reqd": ""
+  },
+  {
+   "ref": "20",
+   "x": 63.9,
+   "y": 37,
+   "partNo": "900-5503",
+   "desc": "Clamp, steering cable",
+   "reqd": ""
+  },
+  {
+   "ref": "20",
+   "x": 74.1,
+   "y": 27.5,
+   "partNo": "900-5503",
+   "desc": "Clamp, steering cable",
+   "reqd": ""
+  },
+  {
+   "ref": "21",
+   "x": 27.4,
+   "y": 7.3,
+   "partNo": "201-0011",
+   "desc": "Brake lever lock",
+   "reqd": ""
+  },
+  {
+   "ref": "22",
+   "x": 96.8,
+   "y": 48.3,
+   "partNo": "230-0002",
+   "desc": "Tail Weight",
+   "reqd": ""
+  },
+  {
+   "ref": "23",
+   "x": 31.5,
+   "y": 28,
+   "partNo": "900-5562",
+   "desc": "Spring",
+   "reqd": ""
+  },
+  {
+   "ref": "24",
+   "x": 44,
+   "y": 30.4,
+   "partNo": "900-2029",
+   "desc": "Safety Switch",
+   "reqd": ""
+  },
+  {
+   "ref": "25",
+   "x": 66,
+   "y": 16.2,
+   "partNo": "900-2001",
+   "desc": "Seat Switch",
+   "reqd": ""
+  },
+  {
+   "ref": "26",
+   "x": 42.5,
+   "y": 9.3,
+   "variants": [
+    {
+     "serialNote": "Standard seat",
+     "partNo": "900-5506",
+     "desc": "Seat",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Deluxe seat",
+     "partNo": "900-5597",
+     "desc": "Delux Seat",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "27",
+   "x": 56.8,
+   "y": 50.6,
+   "partNo": "900-2037",
+   "desc": "Electric Clutch Relay",
+   "reqd": ""
+  },
+  {
+   "ref": "28",
+   "x": 82,
+   "y": 84.6,
+   "partNo": "230-0004",
+   "desc": "Dual Tail Wheel Axle",
+   "reqd": ""
+  },
+  {
+   "ref": "29",
+   "x": 36.9,
+   "y": 44.4,
+   "variants": [
+    {
+     "serialNote": "18HP Kohler",
+     "partNo": "900-5605",
+     "desc": "Throttle Cable (18HP Kohler)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "11HP Briggs",
+     "partNo": "900-5595",
+     "desc": "Throttle Cable (11HP Briggs)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Standard",
+     "partNo": "900-5507",
+     "desc": "Throttle Cable",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 42.8,
+   "y": 43.7,
+   "variants": [
+    {
+     "serialNote": "18HP Kohler",
+     "partNo": "900-5606",
+     "desc": "Choke Cable (18HP Kohler)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "11HP Briggs",
+     "partNo": "900-5596",
+     "desc": "Choke Cable (11HP Briggs)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Standard",
+     "partNo": "900-5508",
+     "desc": "Choke Cable",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 55.3,
+   "y": 66.6,
+   "partNo": "900-5509",
+   "desc": "Rubber Body Mount",
+   "reqd": ""
+  },
+  {
+   "ref": "32",
+   "x": 60.3,
+   "y": 64.4,
+   "partNo": "200-0015",
+   "desc": "Body Mount Washer",
+   "reqd": ""
+  },
+  {
+   "ref": "33",
+   "x": 79.2,
+   "y": 72.4,
+   "partNo": "230-0005",
+   "desc": "Dual Tail Wheel Mt.",
+   "reqd": ""
+  },
+  {
+   "ref": "34",
+   "x": 90,
+   "y": 53.2,
+   "variants": [
+    {
+     "serialNote": "1600/1800",
+     "partNo": "210-0001",
+     "desc": "Tail Wheel Fork (1600)(1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "230-0001",
+     "desc": "Tail Wheel Fork (1600C)(1800C)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1100/1250",
+     "partNo": "200-0016",
+     "desc": "Tail Wheel Fork (1100)(1250)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Dual tail wheel",
+     "partNo": "230-0007",
+     "desc": "Dual Tail Wheel Fork",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "35",
+   "x": 85.9,
+   "y": 71.4,
+   "variants": [
+    {
+     "serialNote": "1600/1800",
+     "partNo": "900-4014",
+     "desc": "Tail Wheel Assy. (1600)(1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "900-4017",
+     "desc": "Tail Wheel Assy. (1600C)(1800C)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1100/1250",
+     "partNo": "900-4004",
+     "desc": "Tail Wheel Assy. (1100)(1250)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "No model given",
+     "partNo": "900-4010",
+     "desc": "Tail Wheel Assy.",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "36",
+   "x": 93.2,
+   "y": 68.6,
+   "variants": [
+    {
+     "serialNote": "1600/1800",
+     "partNo": "200-0017A",
+     "desc": "Tail Wheel Axle (1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "230-0017",
+     "desc": "Tail Wheel Axle (1600C-1800C)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1100/1250 and dual tail wheel",
+     "partNo": "200-0017",
+     "desc": "Tail Wheel Axle (1100-1250), Dual Tail Wheel Axle",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "37",
+   "x": 89.4,
+   "y": 47.9,
+   "partNo": "900-3503",
+   "desc": "Tail Wheel Fork Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "37",
+   "x": 75.1,
+   "y": 37.5,
+   "partNo": "900-3503",
+   "desc": "Tail Wheel Fork Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "37",
+   "x": 72.6,
+   "y": 84.2,
+   "partNo": "900-3503",
+   "desc": "Tail Wheel Fork Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "38",
+   "x": 75.7,
+   "y": 34.4,
+   "partNo": "900-5510",
+   "desc": "Set Collar",
+   "reqd": ""
+  },
+  {
+   "ref": "39",
+   "x": 76.7,
+   "y": 55.8,
+   "partNo": "230-0006",
+   "desc": "Dual Tail Wheel Tube Block",
+   "reqd": ""
+  },
+  {
+   "ref": "40",
+   "x": 90.2,
+   "y": 37.1,
+   "partNo": "900-5533",
+   "desc": "Fuel Tank",
+   "reqd": ""
+  },
+  {
+   "ref": "41",
+   "x": 68.2,
+   "y": 87,
+   "partNo": "230-0008",
+   "desc": "Pivot Axle",
+   "reqd": ""
+  },
+  {
+   "ref": "42",
+   "x": 86.2,
+   "y": 39.7,
+   "partNo": "900-5513",
+   "desc": "Fuel Tank Valve",
+   "reqd": ""
+  },
+  {
+   "ref": "43",
+   "x": 84.6,
+   "y": 44.8,
+   "partNo": "900-5514",
+   "desc": "Fuel Filter",
+   "reqd": ""
+  },
+  {
+   "ref": "44",
+   "x": 85.9,
+   "y": 42.6,
+   "partNo": "900-5515",
+   "desc": "Fuel Hose",
+   "reqd": ""
+  },
+  {
+   "ref": "45",
+   "x": 82,
+   "y": 23,
+   "partNo": "900-2004",
+   "desc": "Battery",
+   "reqd": ""
+  },
+  {
+   "ref": "46",
+   "x": 89.4,
+   "y": 13.8,
+   "partNo": "200-0019",
+   "desc": "Hold Down",
+   "reqd": ""
+  },
+  {
+   "ref": "47",
+   "x": 48.4,
+   "y": 48.8,
+   "partNo": "900-2005",
+   "desc": "Solenoid",
+   "reqd": ""
+  },
+  {
+   "ref": "48",
+   "x": 91.2,
+   "y": 7.4,
+   "partNo": "900-5522",
+   "desc": "Dzus Fastener",
+   "reqd": ""
+  },
+  {
+   "ref": "49",
+   "x": 34.4,
+   "y": 71.8,
+   "partNo": "900-5516",
+   "desc": "Deck Spring",
+   "reqd": ""
+  },
+  {
+   "ref": "50",
+   "x": 79.5,
+   "y": 64.5,
+   "partNo": "900-3505",
+   "desc": "Tail Wheel Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "50",
+   "x": 94.6,
+   "y": 71.3,
+   "partNo": "900-3505",
+   "desc": "Tail Wheel Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "51",
+   "x": 60.3,
+   "y": 16.2,
+   "partNo": "900-5523",
+   "desc": "Seat Spacer",
+   "reqd": ""
+  },
+  {
+   "ref": "52",
+   "x": 92.5,
+   "y": 26.8,
+   "partNo": "900-5561",
+   "desc": "Fuel Tank Cap",
+   "reqd": ""
+  },
+  {
+   "ref": "53",
+   "x": 81.3,
+   "y": 45.7,
+   "partNo": "900-5525",
+   "desc": "Fuel Line Clamp",
+   "reqd": ""
+  },
+  {
+   "ref": "54",
+   "x": 77.2,
+   "y": 18.8,
+   "partNo": "200-0021",
+   "desc": "Battery Post Protector",
+   "reqd": ""
+  },
+  {
+   "ref": "55",
+   "x": 14.9,
+   "y": 18.7,
+   "partNo": "900-2028",
+   "desc": "Clutch Switch",
+   "reqd": ""
+  },
+  {
+   "ref": "56",
+   "x": 8.9,
+   "y": 19.1,
+   "partNo": "900-2027",
+   "desc": "Light Switch",
+   "reqd": ""
+  },
+  {
+   "ref": "57",
+   "x": 14.2,
+   "y": 36.1,
+   "partNo": "900-2003",
+   "desc": "Ignition Switch",
+   "reqd": ""
+  },
+  {
+   "ref": "58",
+   "x": 8.5,
+   "y": 36.4,
+   "partNo": "900-2023",
+   "desc": "Hour Meter",
+   "reqd": ""
+  },
+  {
+   "ref": "59",
+   "x": 18.9,
+   "y": 36.5,
+   "partNo": "900-2002",
+   "desc": "Amp Meter",
+   "reqd": ""
+  },
+  {
+   "ref": "60",
+   "x": 24.2,
+   "y": 19.9,
+   "partNo": "201-0006",
+   "desc": "Dash Board",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "All chain-drive models, 1986 through 1988."
+}

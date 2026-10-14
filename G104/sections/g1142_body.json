@@ -1,0 +1,490 @@
+{
+ "sectionTitle": "G1142 Body Assembly",
+ "breadcrumb": "G1142 Body Assembly",
+ "catalogLabel": "Catalog G104",
+ "modelNumbers": "Catalog G104 — Grazer Chain-Drive Grounds Mowers: G1142, G1642, G1652, G1852, G1862 and the G1100, G1600 and G1800 Series",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G104/g1142_body.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 3.3,
+   "y": 69.9,
+   "partNo": "200-0000",
+   "desc": "BODY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 80.2,
+   "y": 42.9,
+   "partNo": "200-0000C",
+   "desc": "FUEL TANK MOUNT",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 14.7,
+   "y": 90.3,
+   "partNo": "200-0001",
+   "desc": "FENDER RIGHT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 45.9,
+   "y": 93.8,
+   "partNo": "200-0002",
+   "desc": "FENDER LEFT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 53.4,
+   "y": 71.8,
+   "partNo": "200-0003",
+   "desc": "EXHAUST SHIELD",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 44.7,
+   "y": 27.9,
+   "partNo": "200-0004",
+   "desc": "LID",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 63.8,
+   "y": 16.6,
+   "partNo": "200-0005",
+   "desc": "BACK COVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 18,
+   "y": 49.3,
+   "partNo": "200-0006",
+   "desc": "DASH BOARD",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 6.2,
+   "y": 48,
+   "partNo": "200-0007",
+   "desc": "GUARD RAIL",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 10.9,
+   "y": 20,
+   "partNo": "200-0008",
+   "desc": "LID PROP",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 30.9,
+   "y": 33.4,
+   "partNo": "200-0009",
+   "desc": "STEERING LEVER",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 19,
+   "y": 38.2,
+   "partNo": "200-0010",
+   "desc": "BEARING BLOCK, STEERING LEVER",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 39.4,
+   "y": 41.2,
+   "partNo": "200-0010",
+   "desc": "BEARING BLOCK, STEERING LEVER",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 36,
+   "y": 33.7,
+   "partNo": "900-5500",
+   "desc": "HANDLE GRIP",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 14.7,
+   "y": 55.1,
+   "partNo": "900-5500",
+   "desc": "HANDLE GRIP",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 9.8,
+   "y": 38.2,
+   "partNo": "200-0020",
+   "desc": "LEVER LOCK",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 9.4,
+   "y": 26,
+   "partNo": "200-0012",
+   "desc": "LATCH, LEVER LOCK",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 5.3,
+   "y": 37.8,
+   "partNo": "900-5501",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 29.8,
+   "y": 45.4,
+   "partNo": "200-0013",
+   "desc": "STEERING CABLE END",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 35.5,
+   "y": 45.1,
+   "partNo": "200-0014",
+   "desc": "BUSHING STEERING CABLE END",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 54.4,
+   "y": 33.7,
+   "partNo": "900-5502",
+   "desc": "STEERING CABLE",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 60.4,
+   "y": 28.4,
+   "partNo": "900-5503",
+   "desc": "CLAMP, STEERING CABLE",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 49.8,
+   "y": 39.3,
+   "partNo": "900-5503",
+   "desc": "CLAMP, STEERING CABLE",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 58.8,
+   "y": 21.5,
+   "partNo": "900-5504",
+   "desc": "CLEVES, STEERING CABLE",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 65.1,
+   "y": 22.1,
+   "partNo": "900-5505",
+   "desc": "CLEVES PIN, STEERING CABLE",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 13.5,
+   "y": 30.8,
+   "partNo": "900-5501",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 27.3,
+   "y": 32.7,
+   "partNo": "900-2000",
+   "desc": "SWITCH, SAFETY",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 49.8,
+   "y": 41.9,
+   "partNo": "900-2000",
+   "desc": "SWITCH, SAFETY",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 49.6,
+   "y": 17.4,
+   "partNo": "900-2001",
+   "desc": "SWITCH, SEAT",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 26.3,
+   "y": 10,
+   "partNo": "900-5506",
+   "desc": "SEAT",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 20,
+   "y": 43.4,
+   "partNo": "900-2002",
+   "desc": "AMP. GAGE",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 8.5,
+   "y": 46,
+   "partNo": "900-2003",
+   "desc": "SWITCH STARTER",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 21.5,
+   "y": 49.8,
+   "partNo": "900-5507",
+   "desc": "THROTTLE CABLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 30.4,
+   "y": 56.2,
+   "partNo": "900-5508",
+   "desc": "CHOKE CABLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 41.2,
+   "y": 67.6,
+   "partNo": "900-5509",
+   "desc": "RUBBER BODY MOUNTS",
+   "reqd": "8"
+  },
+  {
+   "ref": "32",
+   "x": 39.8,
+   "y": 64.2,
+   "partNo": "200-0015",
+   "desc": "BODY MOUNT WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "33",
+   "x": 39,
+   "y": 57.8,
+   "partNo": "NSS",
+   "desc": "BODY BOLTS (no part number printed)",
+   "reqd": "4"
+  },
+  {
+   "ref": "34",
+   "x": 78.2,
+   "y": 56.6,
+   "partNo": "200-0016",
+   "desc": "TAIL WHEEL FORK",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 75,
+   "y": 74.5,
+   "partNo": "900-4004",
+   "desc": "TAIL WHEEL ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 83.3,
+   "y": 71.1,
+   "partNo": "200-0017",
+   "desc": "AXLE TAIL WHEEL",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 62.3,
+   "y": 39.5,
+   "partNo": "900-3503",
+   "desc": "BEARING, TAIL WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 78.2,
+   "y": 51.1,
+   "partNo": "900-3503",
+   "desc": "BEARING, TAIL WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 62.5,
+   "y": 36.8,
+   "partNo": "900-5510",
+   "desc": "SET COLLAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 82.4,
+   "y": 61.8,
+   "partNo": "NSS",
+   "desc": "BOLT, TAIL WHEEL (no part number printed)",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 78.8,
+   "y": 38.3,
+   "partNo": "900-5512",
+   "desc": "FUEL TANK",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 74.1,
+   "y": 27,
+   "partNo": "200-0018",
+   "desc": "STRAPS, FUEL TANK",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 75,
+   "y": 40.8,
+   "partNo": "900-5513",
+   "desc": "VALVE, FUEL TANK",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 73.5,
+   "y": 47.2,
+   "partNo": "900-5514",
+   "desc": "FURL FILTER",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 74.5,
+   "y": 43.9,
+   "partNo": "900-5515",
+   "desc": "FUEL HOSE",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 69.3,
+   "y": 24.2,
+   "partNo": "900-2004",
+   "desc": "BATTERY",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 77.3,
+   "y": 13.6,
+   "partNo": "200-0019",
+   "desc": "HOLD DOWN, BATTERY",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 42.7,
+   "y": 52.5,
+   "partNo": "900-2005",
+   "desc": "SOLENOID",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 78.9,
+   "y": 5.4,
+   "partNo": "900-5522",
+   "desc": "DZUS, FASTENER",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 17.9,
+   "y": 81.4,
+   "partNo": "900-5516",
+   "desc": "DECK SPRING",
+   "reqd": "2"
+  },
+  {
+   "ref": "50",
+   "x": 67.6,
+   "y": 67.7,
+   "partNo": "900-3505",
+   "desc": "BEARING, TAIL WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "50",
+   "x": 84.4,
+   "y": 73.9,
+   "partNo": "900-3505",
+   "desc": "BEARING, TAIL WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "51",
+   "x": 44.6,
+   "y": 16.9,
+   "partNo": "900-5523",
+   "desc": "SPACER, SEAT",
+   "reqd": "4"
+  },
+  {
+   "ref": "52",
+   "x": 64.5,
+   "y": 26.3,
+   "partNo": "900-5524",
+   "desc": "CAP FUEL TANK",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 70.2,
+   "y": 49.2,
+   "partNo": "900-5525",
+   "desc": "CLAMP FUEL LINE",
+   "reqd": "4"
+  },
+  {
+   "ref": "54",
+   "x": 64,
+   "y": 19.3,
+   "partNo": "200-0021",
+   "desc": "BATTERY POST PROTECTOR",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Grazer G1142 (chain drive).\nAlso listed, not shown on diagram: 900-4005 RIM, TAIL WHEEL (part of 900-4004 tail wheel assembly); 900-4006 TIRE, TAIL WHEEL (part of 900-4004 tail wheel assembly)."
+}

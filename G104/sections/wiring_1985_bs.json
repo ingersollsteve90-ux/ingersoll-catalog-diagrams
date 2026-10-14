@@ -1,0 +1,205 @@
+{
+ "sectionTitle": "Wiring Diagram - Briggs & Stratton (1985)",
+ "breadcrumb": "Wiring Diagram - Briggs & Stratton (1985)",
+ "catalogLabel": "Catalog G104",
+ "modelNumbers": "Catalog G104 — Grazer Chain-Drive Grounds Mowers: G1142, G1642, G1652, G1852, G1862 and the G1100, G1600 and G1800 Series",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G104/wiring_1985_bs.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 22.8,
+   "y": 4,
+   "partNo": "900-2014",
+   "desc": "LIGHT (2 each)",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 75.3,
+   "y": 2.5,
+   "partNo": "900-2014",
+   "desc": "LIGHT (2 each)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 34.4,
+   "y": 4.9,
+   "partNo": "900-2030",
+   "desc": "WIRE (red, to lights)",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 59.4,
+   "y": 10.9,
+   "partNo": "900-2028",
+   "desc": "CLUTCH SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 56,
+   "y": 17.9,
+   "partNo": "900-2027",
+   "desc": "LIGHT SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 83.7,
+   "y": 23.5,
+   "partNo": "900-5581",
+   "desc": "ELECTRIC CLUTCH",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 52.4,
+   "y": 25.8,
+   "partNo": "900-2003",
+   "desc": "IGNITION SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 26.4,
+   "y": 22.8,
+   "partNo": "900-2022",
+   "desc": "15 AMP FUSE",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 38.5,
+   "y": 34.9,
+   "partNo": "900-2002",
+   "desc": "AMP METER",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 55.8,
+   "y": 35.1,
+   "partNo": "900-2023",
+   "desc": "HOUR METER",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 75.1,
+   "y": 39.7,
+   "partNo": "900-2029",
+   "desc": "SAFETY SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 6.6,
+   "y": 40.4,
+   "partNo": "900-2033",
+   "desc": "DECK LIFT MOTOR",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 1.6,
+   "y": 64.7,
+   "partNo": "900-2020",
+   "desc": "DECK LIFT SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 20.7,
+   "y": 61.2,
+   "partNo": "NSS",
+   "desc": "30 AMP FUSE (no part number printed) (no part number printed)",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 32.7,
+   "y": 52.6,
+   "partNo": "NSS",
+   "desc": "30 AMP FUSE (no part number printed) (no part number printed)",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 51.1,
+   "y": 60.7,
+   "partNo": "900-2001",
+   "desc": "SEAT SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "15",
+   "x": 58,
+   "y": 63,
+   "partNo": "900-2037",
+   "desc": "RELAY",
+   "reqd": ""
+  },
+  {
+   "ref": "16",
+   "x": 87.5,
+   "y": 63,
+   "partNo": "900-2029",
+   "desc": "PARK BRAKE SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "17",
+   "x": 30.4,
+   "y": 74.9,
+   "partNo": "900-2005",
+   "desc": "SOLENOID",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 81.6,
+   "y": 74.4,
+   "variants": [
+    {
+     "serialNote": "FE18 & FE18C",
+     "partNo": "900-2011",
+     "desc": "WIRE, SOLENOID (FE18 & FE18C)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "FE11",
+     "partNo": "900-2012",
+     "desc": "WIRE, SOLENOID (FE11)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 20.1,
+   "y": 81.8,
+   "partNo": "900-2010",
+   "desc": "WIRE, BATTERY TO SOLENOID",
+   "reqd": ""
+  },
+  {
+   "ref": "20",
+   "x": 71.1,
+   "y": 81.8,
+   "partNo": "900-2004",
+   "desc": "BATTERY",
+   "reqd": ""
+  },
+  {
+   "ref": "21",
+   "x": 68.6,
+   "y": 86.8,
+   "partNo": "900-2009",
+   "desc": "GROUND WIRE",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Briggs & Stratton models, 1985 (1100, 1600, 1800, 1600C and 1800C).\nThe printed diagram labels parts by name; callout numbers were added for this interactive catalog.\nAlso listed, not shown on diagram: 900-2034 WIRING HARNESS (1100, 1600, 1800, 1600C & 1800C); 900-2036 EXTENDED KILL WIRE (required on 1100)."
+}

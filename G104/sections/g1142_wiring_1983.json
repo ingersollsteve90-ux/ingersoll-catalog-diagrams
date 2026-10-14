@@ -1,0 +1,173 @@
+{
+ "sectionTitle": "G1142 Electrical Components and Wiring Schematic (1983)",
+ "breadcrumb": "G1142 Electrical Components and Wiring Schematic (1983)",
+ "catalogLabel": "Catalog G104",
+ "modelNumbers": "Catalog G104 — Grazer Chain-Drive Grounds Mowers: G1142, G1642, G1652, G1852, G1862 and the G1100, G1600 and G1800 Series",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G104/g1142_wiring_1983.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 36.1,
+   "y": 9.4,
+   "partNo": "900-0014",
+   "desc": "HEAD LAMP",
+   "reqd": ""
+  },
+  {
+   "ref": "2",
+   "x": 28,
+   "y": 18.6,
+   "partNo": "900-0015",
+   "desc": "TOGGLE SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 28,
+   "y": 25.7,
+   "partNo": "900-2007",
+   "desc": "FUSE",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 21.8,
+   "y": 51.2,
+   "partNo": "900-2007",
+   "desc": "FUSE",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 58.9,
+   "y": 17.5,
+   "partNo": "900-2003",
+   "desc": "IGNITION SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 80.5,
+   "y": 13.1,
+   "partNo": "900-2016",
+   "desc": "HOUR METER",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 82.9,
+   "y": 21.6,
+   "partNo": "900-2017",
+   "desc": "CAPACITOR",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 42.8,
+   "y": 26.5,
+   "partNo": "900-2018",
+   "desc": "RECTIFIER",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 57.2,
+   "y": 24,
+   "partNo": "900-2002",
+   "desc": "AMP METER",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 79.8,
+   "y": 27.8,
+   "partNo": "900-2000",
+   "desc": "SAFETY SWITCH (steering lever and blade clutch)",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 27.7,
+   "y": 57.4,
+   "partNo": "900-2000",
+   "desc": "SAFETY SWITCH (steering lever and blade clutch)",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 45.2,
+   "y": 56.8,
+   "partNo": "900-2001",
+   "desc": "SEAT SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 17.3,
+   "y": 45.4,
+   "partNo": "900-2019",
+   "desc": "DECK LIFT MOTOR",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 18.5,
+   "y": 74.9,
+   "partNo": "900-2020",
+   "desc": "THREE POSITION - TWO POLE SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 66.6,
+   "y": 72,
+   "partNo": "900-2005",
+   "desc": "SOLENOID",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 62.8,
+   "y": 88.1,
+   "partNo": "900-2004",
+   "desc": "BATTERY",
+   "reqd": ""
+  },
+  {
+   "ref": "15",
+   "x": 73.3,
+   "y": 52.8,
+   "variants": [
+    {
+     "serialNote": "Twin models",
+     "partNo": "900-2011",
+     "desc": "WIRE, SOLENOID TO STARTER (twin models)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Single models",
+     "partNo": "900-2012",
+     "desc": "WIRE, SOLENOID TO STARTER (single models)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 65.6,
+   "y": 80.1,
+   "partNo": "900-2010",
+   "desc": "WIRE, BATTERY TO SOLENOID (single and twin models)",
+   "reqd": ""
+  },
+  {
+   "ref": "17",
+   "x": 72.2,
+   "y": 96.9,
+   "partNo": "900-2009",
+   "desc": "GROUND WIRE (single and twin models)",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Used on the G1142 and on the G1642, G1652, G1852 and G1862 (1983).\nThe printed diagram labels parts by name; callout numbers were added for this interactive catalog.\nAlso listed, not shown on diagram: 900-2008 COMPLETE WIRE HARNESS, NOT INCLUDING ACCESSORY (single models); 900-2013 COMPLETE WIRE HARNESS, NOT INCLUDING ACCESSORY (twin models)."
+}

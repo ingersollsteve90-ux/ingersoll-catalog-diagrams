@@ -1,0 +1,434 @@
+{
+ "sectionTitle": "G1142 Base Assembly (1981)",
+ "breadcrumb": "G1142 Base Assembly (1981)",
+ "catalogLabel": "Catalog G104",
+ "modelNumbers": "Catalog G104 — Grazer Chain-Drive Grounds Mowers: G1142, G1642, G1652, G1852, G1862 and the G1100, G1600 and G1800 Series",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G104/g1142_base_1981.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 14.9,
+   "y": 40.6,
+   "partNo": "100-0000",
+   "desc": "BASE",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 67.4,
+   "y": 50.5,
+   "partNo": "901-1500",
+   "desc": "SPROCKET, TRANSMISSION",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 64.3,
+   "y": 54.3,
+   "partNo": "901-1501",
+   "desc": "SPROCKET, PRIMARY DRIVE",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 62.5,
+   "y": 73.8,
+   "partNo": "901-1502",
+   "desc": "SPROCKET, FINAL DRIVE",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 67.2,
+   "y": 65.6,
+   "partNo": "900-1000",
+   "desc": "CHAIN, FINAL DRIVE",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 72.6,
+   "y": 55.8,
+   "partNo": "900-1001",
+   "desc": "CHAIN, PRIMARY DRIVE",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 52.4,
+   "y": 70.7,
+   "partNo": "100-0001",
+   "desc": "AXLE, DRIVE WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 60.2,
+   "y": 55.8,
+   "partNo": "900-3500",
+   "desc": "SHORT BEARING, IDLER SPROCKET",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 48.9,
+   "y": 61.9,
+   "partNo": "100-0002",
+   "desc": "SHAFT, IDLER SPROCKET",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 85.5,
+   "y": 82,
+   "partNo": "900-5510",
+   "desc": "SET COLLAR, DRIVE WHEEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 59.9,
+   "y": 49.3,
+   "partNo": "900-4508",
+   "desc": "TRANSMISSION KEY",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 66.4,
+   "y": 72.2,
+   "partNo": "900-3501",
+   "desc": "BEARING DRIVE WHEEL",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 87,
+   "y": 58.9,
+   "partNo": "900-3501",
+   "desc": "BEARING DRIVE WHEEL",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 80.9,
+   "y": 55.5,
+   "partNo": "900-4000",
+   "desc": "DRIVE WHEEL ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 77.3,
+   "y": 54.3,
+   "partNo": "900-5511",
+   "desc": "SET COLLAR",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 72.7,
+   "y": 45.1,
+   "partNo": "901-4506",
+   "desc": "ARM, TRANSMISSION LEFT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 42.9,
+   "y": 43.2,
+   "partNo": "901-4507",
+   "desc": "ARM, TRANSMISSION RIGHT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 40.5,
+   "y": 32.3,
+   "partNo": "900-4500",
+   "desc": "FAN, TRANSMISSION RIGHT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 47.7,
+   "y": 40.5,
+   "partNo": "900-4501",
+   "desc": "FAN, TRANSMISSION LEFT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 33.1,
+   "y": 33,
+   "partNo": "900-2500",
+   "desc": "TRANSMISSION PULLEY",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 44.6,
+   "y": 47.8,
+   "partNo": "900-2500",
+   "desc": "TRANSMISSION PULLEY",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 35.9,
+   "y": 60.6,
+   "partNo": "901-4502",
+   "desc": "LARGE TRANSMISSION WASHER LEFT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 43.6,
+   "y": 35.7,
+   "partNo": "901-4503",
+   "desc": "SMALL TRANSMISSION WASHER RIGHT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 50.8,
+   "y": 43.3,
+   "partNo": "900-4504",
+   "desc": "LEFT-HAND TRANSMISSION",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 25.1,
+   "y": 39.1,
+   "partNo": "900-4505",
+   "desc": "RIGHT-HAND TRANSMISSION",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 39.5,
+   "y": 63.9,
+   "partNo": "900-2501",
+   "desc": "IDLER PULLEY",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 23.3,
+   "y": 60.5,
+   "partNo": "900-2501",
+   "desc": "IDLER PULLEY",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 83.9,
+   "y": 30.8,
+   "partNo": "100-0003",
+   "desc": "BELT ADJUSTER BOLT",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 18,
+   "y": 21,
+   "partNo": "100-0003",
+   "desc": "BELT ADJUSTER BOLT",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 71.5,
+   "y": 28.9,
+   "partNo": "100-0004",
+   "desc": "FIRST BUSHING DECK LINKAGE",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 45.6,
+   "y": 32.2,
+   "partNo": "100-0004",
+   "desc": "FIRST BUSHING DECK LINKAGE",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 28.4,
+   "y": 23.3,
+   "partNo": "100-0004",
+   "desc": "FIRST BUSHING DECK LINKAGE",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 26.6,
+   "y": 35.9,
+   "partNo": "100-0004",
+   "desc": "FIRST BUSHING DECK LINKAGE",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 67.4,
+   "y": 38.2,
+   "partNo": "100-0005",
+   "desc": "SECOND BUSHING DECK LINKAGE",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 15,
+   "y": 34.9,
+   "partNo": "100-0005",
+   "desc": "SECOND BUSHING DECK LINKAGE",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 42.5,
+   "y": 27.5,
+   "partNo": "100-0006",
+   "desc": "DECK LINKAGE RIGHT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 51.6,
+   "y": 31.2,
+   "partNo": "100-0007",
+   "desc": "DECK LINKAGE LEFT-HAND",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 50.3,
+   "y": 15.5,
+   "partNo": "100-0008",
+   "desc": "LEVER DECK LINKAGE",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 32.7,
+   "y": 14,
+   "partNo": "100-0009",
+   "desc": "BEARING, DECK LINKAGE LEVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 17.2,
+   "y": 97.3,
+   "partNo": "900-5000",
+   "desc": "BRIGGS & STRATTON 11 H.P.",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 37.7,
+   "y": 94.7,
+   "partNo": "100-0010",
+   "desc": "BELT RETAINER",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 30.7,
+   "y": 93,
+   "partNo": "900-2502",
+   "desc": "ENGINE PULLEY (DOUBLE)",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 47.6,
+   "y": 92.1,
+   "partNo": "100-0011",
+   "desc": "AIR DUCT",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 62.1,
+   "y": 94.8,
+   "partNo": "100-0012",
+   "desc": "HEAT SHIELD",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 13.6,
+   "y": 93.5,
+   "partNo": "100-0013",
+   "desc": "SHAFT, ENGINE",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 5.7,
+   "y": 89.9,
+   "partNo": "900-2503",
+   "desc": "ENGINE PULLEY (SINGLE)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 82.7,
+   "y": 10,
+   "partNo": "900-5500",
+   "desc": "HANDLE GRIP",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 69.5,
+   "y": 64.4,
+   "partNo": "900-3502",
+   "desc": "LONG BEARING IDLER SPROCKET",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 6.7,
+   "y": 66.6,
+   "partNo": "100-0014",
+   "desc": "KEY STOCK",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 43.4,
+   "y": 76.2,
+   "partNo": "100-0014",
+   "desc": "KEY STOCK",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 43.6,
+   "y": 89.1,
+   "partNo": "900-3000",
+   "desc": "BELT, TRANSMISSION",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 14.3,
+   "y": 65.6,
+   "partNo": "100-0015",
+   "desc": "SPACER, IDLER PULLEY",
+   "reqd": "2"
+  },
+  {
+   "ref": "44",
+   "x": 55.5,
+   "y": 64.9,
+   "partNo": "100-0016",
+   "desc": "BOLT BAR",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Grazer G1142 (chain drive), 1981.\nAlso listed, not shown on diagram: 900-1002 MASTER LINKS #40 CHAIN; 900-4001 RIM, DRIVE WHEEL (part of 900-4000 drive wheel assembly); 900-4002 TIRE, DRIVE WHEEL (part of 900-4000 drive wheel assembly)."
+}

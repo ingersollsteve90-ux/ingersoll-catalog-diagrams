@@ -1,0 +1,74 @@
+{
+ "sectionTitle": "G1142 Electrical Components and Wiring Schematic (1981-1982)",
+ "breadcrumb": "G1142 Electrical Components and Wiring Schematic (1981-1982)",
+ "catalogLabel": "Catalog G104",
+ "modelNumbers": "Catalog G104 — Grazer Chain-Drive Grounds Mowers: G1142, G1642, G1652, G1852, G1862 and the G1100, G1600 and G1800 Series",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G104/g1142_wiring_1981_1982.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 57.9,
+   "y": 5.2,
+   "partNo": "900-2003",
+   "desc": "IGNITION SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "2",
+   "x": 57.2,
+   "y": 13.5,
+   "partNo": "900-2002",
+   "desc": "AMP METER",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 65.1,
+   "y": 17.6,
+   "partNo": "900-2000",
+   "desc": "SAFETY SWITCH (steering lever and blade clutch)",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 23.2,
+   "y": 51.2,
+   "partNo": "900-2000",
+   "desc": "SAFETY SWITCH (steering lever and blade clutch)",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 59.8,
+   "y": 44.9,
+   "partNo": "900-2007",
+   "desc": "FUSE",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 34.2,
+   "y": 50.5,
+   "partNo": "900-2001",
+   "desc": "SEAT SWITCH",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 66.3,
+   "y": 67.6,
+   "partNo": "900-2005",
+   "desc": "SOLENOID",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 46.8,
+   "y": 82.9,
+   "partNo": "900-2004",
+   "desc": "BATTERY",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Used on the G1142 (1981-1982) and on the G1642, G1652, G1852 and G1862 (1982).\nThe printed diagram labels parts by name; callout numbers were added for this interactive catalog."
+}

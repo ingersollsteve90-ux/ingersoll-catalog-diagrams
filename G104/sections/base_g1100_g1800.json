@@ -1,0 +1,681 @@
+{
+ "sectionTitle": "Base - G1100, G1600, G1800 Series (Chain Drive)",
+ "breadcrumb": "Base - G1100, G1600, G1800 Series (Chain Drive)",
+ "catalogLabel": "Catalog G104",
+ "modelNumbers": "Catalog G104 — Grazer Chain-Drive Grounds Mowers: G1142, G1642, G1652, G1852, G1862 and the G1100, G1600 and G1800 Series",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G104/base_g1100_g1800.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 16.7,
+   "y": 31.3,
+   "partNo": "111-0000G",
+   "desc": "Base",
+   "reqd": ""
+  },
+  {
+   "ref": "2",
+   "x": 70.1,
+   "y": 43.9,
+   "partNo": "901-1505",
+   "desc": "Sprocket w/Disc Brake",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 73.9,
+   "y": 55.5,
+   "variants": [
+    {
+     "serialNote": "1100/1250/1600/1800",
+     "partNo": "901-1501",
+     "desc": "Primary Drive Sprocket (1100-1250-1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "901-1504",
+     "desc": "Primary Drive Sprocket (1600C-1800C)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 63.9,
+   "y": 65.5,
+   "variants": [
+    {
+     "serialNote": "1100/1250/1600/1800",
+     "partNo": "901-1502",
+     "desc": "Final Drive Sprocket (1100-1250-1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "901-1503",
+     "desc": "Final Drive Sprocket (1600C-1800C)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 70.6,
+   "y": 55.6,
+   "variants": [
+    {
+     "serialNote": "1100/1250/1600/1800",
+     "partNo": "900-1007",
+     "desc": "Final Drive Chain (1100-1250-1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "900-1010",
+     "desc": "Final Drive Chain (1600C-1800C)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 67.4,
+   "y": 46.5,
+   "variants": [
+    {
+     "serialNote": "1100/1250/1600/1800",
+     "partNo": "900-1008",
+     "desc": "Primary Drive Chain (1100-1250-1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "900-1012",
+     "desc": "Primary Drive Chain (1600C-1800C)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 53.9,
+   "y": 61.3,
+   "variants": [
+    {
+     "serialNote": "1100/1250/1600/1800",
+     "partNo": "100-0001",
+     "desc": "Drive Wheel Axle (1100-1250-1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "120-0001",
+     "desc": "Drive Wheel Axle (1600C-1800C)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 64.6,
+   "y": 47.3,
+   "partNo": "900-3500",
+   "desc": "Short Idler Sprocket Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 51.6,
+   "y": 47.3,
+   "partNo": "100-0002",
+   "desc": "Idler Sprocket Shaft",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 95.9,
+   "y": 67.8,
+   "partNo": "900-5510",
+   "desc": "Drive Axle Set Collar",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 64.7,
+   "y": 41.3,
+   "partNo": "900-4508",
+   "desc": "Transmission Key",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 68.4,
+   "y": 62.5,
+   "partNo": "900-3501",
+   "desc": "Drive Wheel Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 97.2,
+   "y": 53.9,
+   "partNo": "900-3501",
+   "desc": "Drive Wheel Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 91.2,
+   "y": 50.3,
+   "variants": [
+    {
+     "serialNote": "1100/1250",
+     "partNo": "900-4011",
+     "desc": "Drive Wheel Assembly (1100-1250)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600/1800",
+     "partNo": "900-4012",
+     "desc": "Drive Wheel Assembly (1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "900-4013",
+     "desc": "Drive Wheel Assembly (1600C-1800C)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 88.2,
+   "y": 45.3,
+   "partNo": "100-0017",
+   "desc": "Support Collar",
+   "reqd": ""
+  },
+  {
+   "ref": "15",
+   "x": 71,
+   "y": 39.9,
+   "partNo": "901-4506",
+   "desc": "Transmission Arm L.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "16",
+   "x": 44.9,
+   "y": 33,
+   "partNo": "901-4507",
+   "desc": "Transmission Arm R.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "17",
+   "x": 42.6,
+   "y": 24.6,
+   "partNo": "900-4500",
+   "desc": "Transmission Fan R.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 50,
+   "y": 33.8,
+   "partNo": "900-4501",
+   "desc": "Transmission Fan L.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "19",
+   "x": 39.1,
+   "y": 49,
+   "partNo": "900-2500",
+   "desc": "Transmission Pulley",
+   "reqd": ""
+  },
+  {
+   "ref": "19",
+   "x": 36.5,
+   "y": 24.2,
+   "partNo": "900-2500",
+   "desc": "Transmission Pulley",
+   "reqd": ""
+  },
+  {
+   "ref": "20",
+   "x": 73,
+   "y": 66,
+   "variants": [
+    {
+     "serialNote": "1100/1250/1600/1800",
+     "partNo": "900-4009",
+     "desc": "Wheel Hub (1100-1250-1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C/1800C",
+     "partNo": "900-4010",
+     "desc": "Wheel Hub (1600C-1800C)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 46,
+   "y": 28,
+   "partNo": "901-4509",
+   "desc": "Transmission Washer",
+   "reqd": ""
+  },
+  {
+   "ref": "22",
+   "x": 55,
+   "y": 34.4,
+   "partNo": "900-4504",
+   "desc": "Transmission L.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "23",
+   "x": 22.6,
+   "y": 29.3,
+   "partNo": "900-4505",
+   "desc": "Transmission R.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "24",
+   "x": 32.1,
+   "y": 46.6,
+   "partNo": "900-2501",
+   "desc": "Idler Pulley",
+   "reqd": ""
+  },
+  {
+   "ref": "25",
+   "x": 50.3,
+   "y": 94.2,
+   "partNo": "101-0001",
+   "desc": "11 HP Adapter Plate",
+   "reqd": ""
+  },
+  {
+   "ref": "26",
+   "x": 55.4,
+   "y": 77.2,
+   "partNo": "900-5582",
+   "desc": "Clutch Brake",
+   "reqd": ""
+  },
+  {
+   "ref": "27",
+   "x": 59.2,
+   "y": 89.8,
+   "partNo": "900-5583",
+   "desc": "Clutch Armature",
+   "reqd": ""
+  },
+  {
+   "ref": "28",
+   "x": 65.1,
+   "y": 89.8,
+   "partNo": "900-5584",
+   "desc": "Clutch Rotor",
+   "reqd": ""
+  },
+  {
+   "ref": "29",
+   "x": 71.4,
+   "y": 77,
+   "partNo": "900-5585",
+   "desc": "Clutch Coil",
+   "reqd": ""
+  },
+  {
+   "ref": "30",
+   "x": 73.5,
+   "y": 81,
+   "partNo": "111-0020",
+   "desc": "Clutch Retainer",
+   "reqd": ""
+  },
+  {
+   "ref": "31",
+   "x": 64.6,
+   "y": 76.9,
+   "partNo": "900-5586",
+   "desc": "Clutch Spring",
+   "reqd": ""
+  },
+  {
+   "ref": "32",
+   "x": 28.9,
+   "y": 93.8,
+   "variants": [
+    {
+     "serialNote": "B&S 11 HP",
+     "partNo": "900-5000",
+     "desc": "Briggs/Stratton 11 HP",
+     "reqd": ""
+    },
+    {
+     "serialNote": "B&S 12.5 HP",
+     "partNo": "900-5003",
+     "desc": "Briggs/Stratton 12.5 HP",
+     "reqd": ""
+    },
+    {
+     "serialNote": "B&S 16 HP",
+     "partNo": "900-5001",
+     "desc": "Briggs/Stratton 16 HP",
+     "reqd": ""
+    },
+    {
+     "serialNote": "B&S 18 HP",
+     "partNo": "900-5002",
+     "desc": "Briggs/Stratton 18 HP",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Kohler 18 HP",
+     "partNo": "900-5004",
+     "desc": "Kohler 18 HP",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "33",
+   "x": 90,
+   "y": 13.8,
+   "partNo": "111-0004",
+   "desc": "Brake Cross Rod Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "34",
+   "x": 51,
+   "y": 89.6,
+   "partNo": "900-2527",
+   "desc": "Transmission Drive Pulley",
+   "reqd": ""
+  },
+  {
+   "ref": "35",
+   "x": 79.7,
+   "y": 76.9,
+   "variants": [
+    {
+     "serialNote": "1100",
+     "partNo": "101-0002",
+     "desc": "Air Duct (1100)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1250/1600/1800/1600C/1800C",
+     "partNo": "111-0001",
+     "desc": "Air Duct (1250-1600-1800-1600C-1800C)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "18HP Kohler",
+     "partNo": "111-0027",
+     "desc": "Air Duct (18HP Kohler)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "36",
+   "x": 43.5,
+   "y": 9.2,
+   "partNo": "111-0017",
+   "desc": "Brake Cross Rod",
+   "reqd": ""
+  },
+  {
+   "ref": "37",
+   "x": 19.2,
+   "y": 88.1,
+   "partNo": "100-0013",
+   "desc": "Shaft (Briggs Only)",
+   "reqd": ""
+  },
+  {
+   "ref": "38",
+   "x": 11.4,
+   "y": 90,
+   "variants": [
+    {
+     "serialNote": "Briggs Only",
+     "partNo": "900-2503",
+     "desc": "Engine Pulley (Briggs Only)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Kohler Only",
+     "partNo": "900-2509",
+     "desc": "Engine Pulley (Kohler Only)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "39",
+   "x": 38.2,
+   "y": 16.5,
+   "partNo": "111-0007",
+   "desc": "Caliper Rod",
+   "reqd": ""
+  },
+  {
+   "ref": "39",
+   "x": 96.7,
+   "y": 23.6,
+   "partNo": "111-0007",
+   "desc": "Caliper Rod",
+   "reqd": ""
+  },
+  {
+   "ref": "40",
+   "x": 76.4,
+   "y": 47.3,
+   "partNo": "900-3502",
+   "desc": "Long Idler Sprocket Bearing",
+   "reqd": ""
+  },
+  {
+   "ref": "41",
+   "x": 22.9,
+   "y": 78.3,
+   "partNo": "100-0014",
+   "desc": "Key Stock",
+   "reqd": ""
+  },
+  {
+   "ref": "42",
+   "x": 28.6,
+   "y": 25.2,
+   "partNo": "900-3000",
+   "desc": "Transmission Belt",
+   "reqd": ""
+  },
+  {
+   "ref": "43",
+   "x": 60.6,
+   "y": 4.7,
+   "partNo": "111-0016",
+   "desc": "Brake Rod",
+   "reqd": ""
+  },
+  {
+   "ref": "44",
+   "x": 58.7,
+   "y": 54.8,
+   "partNo": "100-0016",
+   "desc": "Bolt Bar",
+   "reqd": ""
+  },
+  {
+   "ref": "45",
+   "x": 87.3,
+   "y": 25.3,
+   "partNo": "900-5587",
+   "desc": "Brake Caliper",
+   "reqd": ""
+  },
+  {
+   "ref": "46",
+   "x": 80.6,
+   "y": 35.8,
+   "partNo": "900-5567",
+   "desc": "Brake Pad",
+   "reqd": ""
+  },
+  {
+   "ref": "47",
+   "x": 94.2,
+   "y": 31.2,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "900-5565",
+     "desc": "Caliper Lever L.H.",
+     "reqd": ""
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "900-5567",
+     "desc": "Caliper Lever R.H.",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "48",
+   "x": 97.6,
+   "y": 35.4,
+   "partNo": "111-0014",
+   "desc": "Caliper Rod Collar",
+   "reqd": ""
+  },
+  {
+   "ref": "49",
+   "x": 96.1,
+   "y": 40.2,
+   "partNo": "900-5568",
+   "desc": "Caliper Spring",
+   "reqd": ""
+  },
+  {
+   "ref": "50",
+   "x": 75.1,
+   "y": 24.4,
+   "partNo": "900-5588",
+   "desc": "Caliper Bracket",
+   "reqd": ""
+  },
+  {
+   "ref": "51",
+   "x": 23,
+   "y": 14,
+   "partNo": "111-0019",
+   "desc": "Spring Loaded Idler Mount",
+   "reqd": ""
+  },
+  {
+   "ref": "52",
+   "x": 21.4,
+   "y": 22.5,
+   "partNo": "900-5580",
+   "desc": "Spring",
+   "reqd": ""
+  },
+  {
+   "ref": "53",
+   "x": 14,
+   "y": 64.1,
+   "partNo": "111-0023",
+   "desc": "Forward Nose Down Lock",
+   "reqd": ""
+  },
+  {
+   "ref": "54",
+   "x": 17.4,
+   "y": 58.4,
+   "partNo": "300-0013",
+   "desc": "Bushing, Long",
+   "reqd": ""
+  },
+  {
+   "ref": "55",
+   "x": 4.4,
+   "y": 54.5,
+   "partNo": "300-0013-S",
+   "desc": "Bushing, Short",
+   "reqd": ""
+  },
+  {
+   "ref": "55",
+   "x": 14.9,
+   "y": 41.3,
+   "partNo": "300-0013-S",
+   "desc": "Bushing, Short",
+   "reqd": ""
+  },
+  {
+   "ref": "56",
+   "x": 47.8,
+   "y": 64,
+   "partNo": "111-0024",
+   "desc": "Electric Clutch Stop",
+   "reqd": ""
+  },
+  {
+   "ref": "57",
+   "x": 57.3,
+   "y": 28.5,
+   "partNo": "900-2029",
+   "desc": "Park Brake Switch",
+   "reqd": ""
+  },
+  {
+   "ref": "58",
+   "x": 21.2,
+   "y": 49.4,
+   "partNo": "111-0032",
+   "desc": "Oil Filter Mount (Kohler Only)",
+   "reqd": ""
+  },
+  {
+   "ref": "59",
+   "x": 23.1,
+   "y": 70.5,
+   "partNo": "111-0030",
+   "desc": "Spacer (Kohler Only)",
+   "reqd": ""
+  },
+  {
+   "ref": "60",
+   "x": 62.2,
+   "y": 94.4,
+   "partNo": "900-5604",
+   "desc": "3/8\" Elbow",
+   "reqd": ""
+  },
+  {
+   "ref": "61",
+   "x": 15.7,
+   "y": 71.8,
+   "partNo": "900-5603",
+   "desc": "Oil Filter (Kohler Only)",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Grazer G1100, G1600C, G1800, G1800C, G1800CH, G1800CK, G1800CN, G1800CNK, G1800CHK, and G1600 before S/N 02-09-0248 (chain drive)."
+}
