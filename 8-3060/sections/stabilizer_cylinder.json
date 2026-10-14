@@ -1,0 +1,144 @@
+{
+ "sectionTitle": "Stabilizer Cylinder",
+ "breadcrumb": "Stabilizer Cylinder",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/stabilizer_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 80.42,
+   "y": 87.13,
+   "partNo": "C31705",
+   "desc": "CYLINDER - hydraulic 2\" x 14-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 12.9,
+   "y": 24.41,
+   "partNo": "C31784",
+   "desc": "COLLAR - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "3A",
+   "x": 24.76,
+   "y": 22.63,
+   "partNo": "NSS",
+   "desc": "SEAL - rod, static",
+   "reqd": "1"
+  },
+  {
+   "ref": "3B",
+   "x": 22.39,
+   "y": 51.47,
+   "partNo": "NSS",
+   "desc": "RING - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "3C",
+   "x": 39.54,
+   "y": 46.33,
+   "partNo": "NSS",
+   "desc": "O - RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "3D",
+   "x": 50.22,
+   "y": 41.71,
+   "partNo": "NSS",
+   "desc": "SEAL - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "3E",
+   "x": 56.8,
+   "y": 38.99,
+   "partNo": "NSS",
+   "desc": "SEAL - gland, static",
+   "reqd": "1"
+  },
+  {
+   "ref": "3F",
+   "x": 81.06,
+   "y": 31.23,
+   "partNo": "NSS",
+   "desc": "SEAL - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "3G",
+   "x": 89.91,
+   "y": 28.08,
+   "partNo": "NSS",
+   "desc": "WIPER - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 50.22,
+   "y": 12.98,
+   "partNo": "C31794",
+   "desc": "ROD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 87.54,
+   "y": 13.71,
+   "partNo": "219-10",
+   "desc": "FITTING - grease 1/4-28 tapered thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 34.58,
+   "y": 89.22,
+   "partNo": "219-10",
+   "desc": "FITTING - grease 1/4-28 tapered thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 12.9,
+   "y": 56.08,
+   "partNo": "C31789",
+   "desc": "NUT - lock 7/8\" NC",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 29.51,
+   "y": 47.8,
+   "partNo": "C31790",
+   "desc": "PISTON - hydraulic cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 67.47,
+   "y": 34.69,
+   "partNo": "C31792",
+   "desc": "GUIDE - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 54.42,
+   "y": 66.78,
+   "partNo": "NSS",
+   "desc": "BARREL - cylinder (order complete cylinder)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "partNo": "C31786",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Refs 3A-3G are included in seal kit C31786 (ref 3) and are not sold separately.\nRef 9 barrel: order the complete cylinder."
+}

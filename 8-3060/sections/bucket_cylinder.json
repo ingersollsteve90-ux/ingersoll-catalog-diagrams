@@ -1,0 +1,152 @@
+{
+ "sectionTitle": "Bucket Cylinder",
+ "breadcrumb": "Bucket Cylinder",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/bucket_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 74.69,
+   "y": 86.97,
+   "partNo": "C31728",
+   "desc": "CYLINDER - hydraulic 2\" x 16-3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 12.32,
+   "y": 29.58,
+   "partNo": "C31784",
+   "desc": "COLLAR - locking",
+   "reqd": "1"
+  },
+  {
+   "ref": "3A",
+   "x": 22.84,
+   "y": 26.85,
+   "partNo": "NSS",
+   "desc": "SEAL - rod, static",
+   "reqd": "1"
+  },
+  {
+   "ref": "3B",
+   "x": 21.23,
+   "y": 53.67,
+   "partNo": "NSS",
+   "desc": "RING - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "3C",
+   "x": 37.12,
+   "y": 48.11,
+   "partNo": "NSS",
+   "desc": "O - RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "3D",
+   "x": 42.81,
+   "y": 45.81,
+   "partNo": "NSS",
+   "desc": "SEAL - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "3E",
+   "x": 56.44,
+   "y": 53.14,
+   "partNo": "NSS",
+   "desc": "SEAL - gland, static",
+   "reqd": "1"
+  },
+  {
+   "ref": "3F",
+   "x": 71.25,
+   "y": 34.6,
+   "partNo": "NSS",
+   "desc": "SEAL - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "3G",
+   "x": 80.7,
+   "y": 32.2,
+   "partNo": "NSS",
+   "desc": "WIPER - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "3H",
+   "x": 63.85,
+   "y": 50.21,
+   "partNo": "TBD",
+   "desc": "SEAL KIT MEMBER - not listed in the printed parts table (see seal kit C31786)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 43.34,
+   "y": 18.06,
+   "partNo": "C31787",
+   "desc": "ROD - cylinder 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 28.85,
+   "y": 75.87,
+   "partNo": "219-10",
+   "desc": "FITTING - grease 1/4\" - 28 taper thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 77.26,
+   "y": 3.92,
+   "partNo": "219-10",
+   "desc": "FITTING - grease 1/4\" - 28 taper thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 14.04,
+   "y": 59.01,
+   "partNo": "C31789",
+   "desc": "NUT - lock 7/8 \"NC",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 27.14,
+   "y": 50.52,
+   "partNo": "C31790",
+   "desc": "PISTON - hydraulic cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 62.45,
+   "y": 37.64,
+   "partNo": "C31792",
+   "desc": "GLAND - hydraulic cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 49.14,
+   "y": 68.54,
+   "partNo": "NSS",
+   "desc": "BARREL - cylinder (order complete cylinder)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "partNo": "C31786",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Refs 3A-3G are included in seal kit C31786 (ref 3) and are not sold separately. Ref 3H is called out on the diagram but not listed in the parts table.\nRef 9 barrel: order the complete cylinder."
+}

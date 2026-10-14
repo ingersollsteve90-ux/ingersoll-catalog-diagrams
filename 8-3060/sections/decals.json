@@ -1,0 +1,72 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 11.17,
+   "y": 51.95,
+   "partNo": "NSS",
+   "desc": "DECAL - transport lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 16.96,
+   "y": 32.36,
+   "partNo": "NSS",
+   "desc": "DECAL - backhoe controls",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 36.37,
+   "y": 53.9,
+   "partNo": "NSS",
+   "desc": "DECAL - stabilizer controls",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 50.31,
+   "y": 3.25,
+   "partNo": "NSS",
+   "desc": "DECAL - operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 49.79,
+   "y": 88.45,
+   "partNo": "C29694",
+   "desc": "DECAL - \"Ingersoll\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 77.16,
+   "y": 31.75,
+   "partNo": "C32167",
+   "desc": "DECAL - hose routing",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 51.34,
+   "y": 69.58,
+   "partNo": "C32373",
+   "desc": "DECAL - \"Important\" operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C31818",
+   "desc": "DECAL SET",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Decal set C31818 includes refs 1-4, which are not sold separately."
+}

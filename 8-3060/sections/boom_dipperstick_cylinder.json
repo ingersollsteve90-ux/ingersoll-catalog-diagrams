@@ -1,0 +1,160 @@
+{
+ "sectionTitle": "Boom and Dipperstick Cylinder",
+ "breadcrumb": "Boom and Dipperstick Cylinder",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/boom_dipperstick_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 67.32,
+   "y": 87.22,
+   "partNo": "C31721",
+   "desc": "CYLINDER - hydraulic 2-1/2\" x 16-3/4 *",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 33.74,
+   "y": 19.68,
+   "partNo": "C31796",
+   "desc": "ROD - hydraulic cylinder 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 70.41,
+   "y": 5.04,
+   "partNo": "219-10",
+   "desc": "FITTING - 1/4\"-28 tapered thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 23.32,
+   "y": 73.63,
+   "partNo": "219-10",
+   "desc": "FITTING - 1/4\"-28 tapered thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "4A",
+   "x": 8.12,
+   "y": 33.69,
+   "partNo": "NSS",
+   "desc": "SEAL - rod, static",
+   "reqd": "1"
+  },
+  {
+   "ref": "4B",
+   "x": 17.48,
+   "y": 53.76,
+   "partNo": "NSS",
+   "desc": "RING - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "4C",
+   "x": 34.06,
+   "y": 46.55,
+   "partNo": "NSS",
+   "desc": "O - RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "4D",
+   "x": 41.07,
+   "y": 43.62,
+   "partNo": "NSS",
+   "desc": "SEAL - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "4E",
+   "x": 50.53,
+   "y": 52.4,
+   "partNo": "NSS",
+   "desc": "SEAL - gland, static",
+   "reqd": "1"
+  },
+  {
+   "ref": "4F",
+   "x": 66.05,
+   "y": 33.27,
+   "partNo": "NSS",
+   "desc": "SEAL - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "4G",
+   "x": 72.64,
+   "y": 30.34,
+   "partNo": "NSS",
+   "desc": "WIPER - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "4H",
+   "x": 84.65,
+   "y": 67.04,
+   "partNo": "NSS",
+   "desc": "WIRE - lock (not used)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4J",
+   "x": 57.76,
+   "y": 49.06,
+   "partNo": "NSS",
+   "desc": "RING - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 6.63,
+   "y": 59.2,
+   "partNo": "C31789",
+   "desc": "NUT - 7/8\" NC lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 23.43,
+   "y": 50.31,
+   "partNo": "C31799",
+   "desc": "PISTON - hydraulic cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 54.36,
+   "y": 36.2,
+   "partNo": "C31801",
+   "desc": "GLAND - hydraulic cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 41.71,
+   "y": 67.98,
+   "partNo": "NSS",
+   "desc": "BARREL - cylinder (order complete cylinder)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 77.0,
+   "y": 27.0,
+   "partNo": "C31803",
+   "desc": "RETAINER - hydraulic cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "partNo": "C31798",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Service cylinders have 2 straight grease fittings.\nRefs 4A-4J are included in seal kit C31798 (ref 4) and are not sold separately. 4H lock wire is not used.\nRef 8 barrel: order the complete cylinder."
+}

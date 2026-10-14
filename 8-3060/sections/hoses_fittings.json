@@ -1,0 +1,402 @@
+{
+ "sectionTitle": "Hoses and Fittings",
+ "breadcrumb": "Hoses and Fittings",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/hoses_fittings.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6.65,
+   "y": 47.71,
+   "partNo": "C31740",
+   "desc": "CONNECTOR",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 66.47,
+   "y": 3.77,
+   "partNo": "C31740",
+   "desc": "CONNECTOR",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 95.62,
+   "y": 64.44,
+   "partNo": "C31740",
+   "desc": "CONNECTOR",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 70.59,
+   "y": 88.75,
+   "partNo": "C31740",
+   "desc": "CONNECTOR",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 72.45,
+   "y": 24.75,
+   "partNo": "C31741",
+   "desc": "CONNECTOR - 9/16\" x 1/4\" male restrictor",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 52.47,
+   "y": 9.9,
+   "partNo": "C31742",
+   "desc": "FITTING - 9/16\"-18 x 1/4 NPT 90°",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 89.44,
+   "y": 12.7,
+   "partNo": "C31742",
+   "desc": "FITTING - 9/16\"-18 x 1/4 NPT 90°",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 94.59,
+   "y": 40.13,
+   "partNo": "C31742",
+   "desc": "FITTING - 9/16\"-18 x 1/4 NPT 90°",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 61.02,
+   "y": 81.9,
+   "partNo": "C31742",
+   "desc": "FITTING - 9/16\"-18 x 1/4 NPT 90°",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 23.02,
+   "y": 45.74,
+   "partNo": "C31742",
+   "desc": "FITTING - 9/16\"-18 x 1/4 NPT 90°",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 56.8,
+   "y": 50.0,
+   "partNo": "C31742",
+   "desc": "FITTING - 9/16\"-18 x 1/4 NPT 90°",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 42.9,
+   "y": 88.23,
+   "partNo": "C31743",
+   "desc": "TIE - hose 7\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 38.67,
+   "y": 56.55,
+   "partNo": "C31744",
+   "desc": "FITTING - 9/16\" x 1/4\" NPT 90o (1/16\" restriction)",
+   "reqd": "1"
+  },
+  {
+   "ref": "A",
+   "x": 9.12,
+   "y": 58.62,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "A",
+   "x": 20.65,
+   "y": 49.48,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "A",
+   "x": 78.83,
+   "y": 15.19,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "B",
+   "x": 76.15,
+   "y": 22.78,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "B",
+   "x": 9.74,
+   "y": 61.53,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "B",
+   "x": 17.77,
+   "y": 62.26,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "C",
+   "x": 13.14,
+   "y": 62.47,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "C",
+   "x": 23.13,
+   "y": 51.04,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "C",
+   "x": 41.35,
+   "y": 62.88,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "D",
+   "x": 13.65,
+   "y": 65.48,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "D",
+   "x": 20.14,
+   "y": 64.96,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "D",
+   "x": 53.5,
+   "y": 45.43,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "E",
+   "x": 17.67,
+   "y": 65.79,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "E",
+   "x": 25.91,
+   "y": 52.91,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "E",
+   "x": 9.33,
+   "y": 49.9,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "F",
+   "x": 18.08,
+   "y": 67.87,
+   "partNo": "C31747",
+   "desc": "HOSE - female 9/16\" - 18 flare x 50\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "F",
+   "x": 22.71,
+   "y": 66.31,
+   "partNo": "C31747",
+   "desc": "HOSE - female 9/16\" - 18 flare x 50\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "F",
+   "x": 19.21,
+   "y": 42.62,
+   "partNo": "C31747",
+   "desc": "HOSE - female 9/16\" - 18 flare x 50\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "G",
+   "x": 22.51,
+   "y": 69.12,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "G",
+   "x": 28.69,
+   "y": 55.4,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "G",
+   "x": 69.26,
+   "y": 84.91,
+   "partNo": "C31746",
+   "desc": "HOSE - female 9/16\" - 18 flare x 49\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "H",
+   "x": 22.4,
+   "y": 72.23,
+   "partNo": "C31747",
+   "desc": "HOSE - female 9/16\" - 18 flare x 50\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "H",
+   "x": 25.29,
+   "y": 68.39,
+   "partNo": "C31747",
+   "desc": "HOSE - female 9/16\" - 18 flare x 50\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "H",
+   "x": 59.99,
+   "y": 87.92,
+   "partNo": "C31747",
+   "desc": "HOSE - female 9/16\" - 18 flare x 50\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "J",
+   "x": 30.85,
+   "y": 57.17,
+   "partNo": "C31748",
+   "desc": "HOSE - female 9/16\" - 18 flare x 124\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "J",
+   "x": 26.11,
+   "y": 72.23,
+   "partNo": "C31748",
+   "desc": "HOSE - female 9/16\" - 18 flare x 124\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "J",
+   "x": 94.79,
+   "y": 32.44,
+   "partNo": "C31748",
+   "desc": "HOSE - female 9/16\" - 18 flare x 124\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "K",
+   "x": 27.55,
+   "y": 69.95,
+   "partNo": "C31749",
+   "desc": "HOSE - female 9/16\" - 18 flare x 139\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "K",
+   "x": 26.83,
+   "y": 75.66,
+   "partNo": "C31749",
+   "desc": "HOSE - female 9/16\" - 18 flare x 139\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "K",
+   "x": 96.54,
+   "y": 58.42,
+   "partNo": "C31749",
+   "desc": "HOSE - female 9/16\" - 18 flare x 139\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "L",
+   "x": 33.32,
+   "y": 58.83,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "L",
+   "x": 31.57,
+   "y": 76.29,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "L",
+   "x": 56.8,
+   "y": 6.16,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "M",
+   "x": 29.72,
+   "y": 72.65,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "M",
+   "x": 32.7,
+   "y": 79.4,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "M",
+   "x": 64.0,
+   "y": 5.95,
+   "partNo": "C31745",
+   "desc": "HOSE - female 9/16\" - 18 flare x 99\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Hoses are lettered A through M (no I). Each hose letter appears at the valve end, on the hose and at the cylinder end."
+}

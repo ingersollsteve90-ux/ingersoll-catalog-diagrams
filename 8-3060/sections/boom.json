@@ -1,0 +1,130 @@
+{
+ "sectionTitle": "Boom Assembly",
+ "breadcrumb": "Boom Assembly",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/boom.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 24.67,
+   "y": 13.67,
+   "partNo": "C31721",
+   "desc": "CYLINDER - hydraulic 2-1/2\" x 16-3/4\" (see Boom and Dipperstick Cylinder section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 73.25,
+   "y": 22.91,
+   "partNo": "C31721",
+   "desc": "CYLINDER - hydraulic 2-1/2\" x 16-3/4\" (see Boom and Dipperstick Cylinder section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 43.56,
+   "y": 86.65,
+   "partNo": "C31812",
+   "desc": "BOOM - backhoe",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 45.12,
+   "y": 25.85,
+   "partNo": "C31723",
+   "desc": "CLAMP - hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 60.59,
+   "y": 79.09,
+   "partNo": "C31704",
+   "desc": "PIN - pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 85.08,
+   "y": 57.56,
+   "partNo": "C31704",
+   "desc": "PIN - pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 22.29,
+   "y": 61.55,
+   "partNo": "132-6",
+   "desc": "PIN - cotter 1/16\" x 5/8\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "10",
+   "x": 64.53,
+   "y": 14.3,
+   "partNo": "132-6",
+   "desc": "PIN - cotter 1/16\" x 5/8\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "11",
+   "x": 94.12,
+   "y": 17.97,
+   "partNo": "219-10",
+   "desc": "FITTING - grease 1/4\" -28 tapered thread",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "12",
+   "x": 4.02,
+   "y": 88.64,
+   "partNo": "219-57",
+   "desc": "FITTING - grease 1/4\" -28 tapered thread 90°",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "12",
+   "x": 36.71,
+   "y": 43.59,
+   "partNo": "219-57",
+   "desc": "FITTING - grease 1/4\" -28 tapered thread 90°",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "13",
+   "x": 50.42,
+   "y": 29.52,
+   "partNo": "131-934",
+   "desc": "NUT-1/4\" NC lock, flanged",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "14",
+   "x": 35.68,
+   "y": 36.56,
+   "partNo": "113-17",
+   "desc": "BOLT - 1/4\" NC x 1-1/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "15",
+   "x": 24.36,
+   "y": 47.27,
+   "partNo": "C31717",
+   "desc": "PIN - clevis 1/4\" x 1-7/8\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "15",
+   "x": 57.06,
+   "y": 6.0,
+   "partNo": "C31717",
+   "desc": "PIN - clevis 1/4\" x 1-7/8\"",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": ""
+}

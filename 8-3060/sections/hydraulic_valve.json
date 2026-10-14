@@ -1,0 +1,210 @@
+{
+ "sectionTitle": "Hydraulic Valve Assembly",
+ "breadcrumb": "Hydraulic Valve Assembly",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/hydraulic_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.25,
+   "y": 91.04,
+   "partNo": "C31692",
+   "desc": "VALVE - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 23.95,
+   "y": 40.97,
+   "partNo": "C31750",
+   "desc": "KIT - repair, section seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 50.51,
+   "y": 54.72,
+   "partNo": "C31750",
+   "desc": "KIT - repair, section seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 59.68,
+   "y": 66.52,
+   "partNo": "C31751",
+   "desc": "VALVE - check",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 48.87,
+   "y": 31.12,
+   "partNo": "C31752",
+   "desc": "VALVE - dampening (2000 psi)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 23.03,
+   "y": 18.4,
+   "partNo": "C31752",
+   "desc": "VALVE - dampening (2000 psi)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 70.69,
+   "y": 15.83,
+   "partNo": "C31753",
+   "desc": "VALVE - dampening (2500 psi)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 83.66,
+   "y": 76.16,
+   "partNo": "C31754",
+   "desc": "VALVE - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 27.56,
+   "y": 90.84,
+   "partNo": "C31755",
+   "desc": "CONTROL - spool position",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 80.78,
+   "y": 38.3,
+   "partNo": "C31756",
+   "desc": "BRACKET - lever",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 51.85,
+   "y": 65.49,
+   "partNo": "C31757",
+   "desc": "CONTROL - spool position",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 59.06,
+   "y": 60.16,
+   "partNo": "C31758",
+   "desc": "KIT - repair, spool",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 75.02,
+   "y": 43.13,
+   "partNo": "C31758",
+   "desc": "KIT - repair, spool",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 92.0,
+   "y": 55.75,
+   "partNo": "C31759",
+   "desc": "NUT - 8mm x 1.25 mm",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 87.27,
+   "y": 54.92,
+   "partNo": "C31760",
+   "desc": "ROD - tie 8 mm x 1.25mm x 276mm",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 76.87,
+   "y": 62.21,
+   "partNo": "C31761",
+   "desc": "INLET SECTION - valve (complete)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 67.3,
+   "y": 59.64,
+   "partNo": "C31762",
+   "desc": "DIPPERSTICK SECTION - valve (includes spool and reliefs)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 33.12,
+   "y": 52.77,
+   "partNo": "C31763",
+   "desc": "BUCKET OR STABILIZER SECTION - valve (includes spool and reliefs)",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 23.64,
+   "y": 50.41,
+   "partNo": "C31764",
+   "desc": "SWING SECTION - valve (includes spool and reliefs)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 13.76,
+   "y": 42.61,
+   "partNo": "C31765",
+   "desc": "RETURN SECTION - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 38.88,
+   "y": 30.4,
+   "partNo": "C31766",
+   "desc": "VALVE - dampening (3500 psi)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 36.72,
+   "y": 35.74,
+   "partNo": "C31767",
+   "desc": "BOOM SECTION - valve (includes spool and reliefs)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 21.59,
+   "y": 31.74,
+   "partNo": "C31768",
+   "desc": "VALVE - dampening (2500psi)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 57.82,
+   "y": 33.48,
+   "partNo": "NSS",
+   "desc": "SPOOL - boom section (order complete section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 92.0,
+   "y": 36.05,
+   "partNo": "NSS",
+   "desc": "SPOOL - valve (order complete section)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 1 is the complete valve. Refs 21 and 22 (spools) are not sold separately - order the complete valve section."
+}

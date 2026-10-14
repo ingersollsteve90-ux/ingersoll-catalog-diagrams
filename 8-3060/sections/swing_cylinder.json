@@ -1,0 +1,152 @@
+{
+ "sectionTitle": "Swing Cylinder",
+ "breadcrumb": "Swing Cylinder",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/swing_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 81.9,
+   "y": 91.59,
+   "partNo": "C31695",
+   "desc": "CYLINDER - hydraulic, swing",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 24.31,
+   "y": 17.68,
+   "partNo": "C31779",
+   "desc": "ROD - tie 7/16\" NF x 16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "3A",
+   "x": 88.11,
+   "y": 73.06,
+   "partNo": "NSS",
+   "desc": "WIPER - rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "3A",
+   "x": 15.96,
+   "y": 53.47,
+   "partNo": "NSS",
+   "desc": "WIPER - rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "3B",
+   "x": 81.15,
+   "y": 76.01,
+   "partNo": "NSS",
+   "desc": "SEAL - rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "3B",
+   "x": 22.92,
+   "y": 50.32,
+   "partNo": "NSS",
+   "desc": "SEAL - rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "3C",
+   "x": 60.49,
+   "y": 85.27,
+   "partNo": "NSS",
+   "desc": "SEAL - gland, static",
+   "reqd": "2"
+  },
+  {
+   "ref": "3C",
+   "x": 46.79,
+   "y": 40.0,
+   "partNo": "NSS",
+   "desc": "SEAL - gland, static",
+   "reqd": "2"
+  },
+  {
+   "ref": "3D",
+   "x": 69.59,
+   "y": 55.16,
+   "partNo": "NSS",
+   "desc": "O - RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "3E",
+   "x": 80.19,
+   "y": 51.68,
+   "partNo": "NSS",
+   "desc": "SEAL - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "3F",
+   "x": 46.25,
+   "y": 72.74,
+   "partNo": "NSS",
+   "desc": "RING - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "3F",
+   "x": 39.83,
+   "y": 44.31,
+   "partNo": "NSS",
+   "desc": "RING - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 11.03,
+   "y": 35.36,
+   "partNo": "NSS",
+   "desc": "NUT - 7/16\" NF hex (obtain locally)",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 72.37,
+   "y": 82.53,
+   "partNo": "C31781",
+   "desc": "GUIDE - rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 34.69,
+   "y": 48.0,
+   "partNo": "C31781",
+   "desc": "GUIDE - rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 69.38,
+   "y": 29.47,
+   "partNo": "C31782",
+   "desc": "BARREL - cylinder 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 49.25,
+   "y": 62.74,
+   "partNo": "C31783",
+   "desc": "ROD - cylinder 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "partNo": "C31780",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Refs 3A-3F are included in seal kit C31780 (ref 3) and are not sold separately.\nParts marked \"obtain locally\" are standard hardware - purchase locally."
+}

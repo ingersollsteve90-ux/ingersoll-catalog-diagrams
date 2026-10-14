@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Valve Controls",
+ "breadcrumb": "Valve Controls",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/valve_controls.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 10.92,
+   "y": 12.76,
+   "partNo": "C31769",
+   "desc": "HANDLE ASSEMBLY - stabilizer",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 11.23,
+   "y": 32.43,
+   "partNo": "C31770",
+   "desc": "GRIP - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 31.54,
+   "y": 29.08,
+   "partNo": "C31771",
+   "desc": "KIT - link",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 24.12,
+   "y": 73.01,
+   "partNo": "C31772",
+   "desc": "CONNECTOR - 9/16\"- 18 to 0-ring",
+   "reqd": "12"
+  },
+  {
+   "ref": "4",
+   "x": 42.37,
+   "y": 88.18,
+   "partNo": "C31772",
+   "desc": "CONNECTOR - 9/16\"- 18 to 0-ring",
+   "reqd": "12"
+  },
+  {
+   "ref": "4",
+   "x": 56.29,
+   "y": 91.32,
+   "partNo": "C31772",
+   "desc": "CONNECTOR - 9/16\"- 18 to 0-ring",
+   "reqd": "12"
+  },
+  {
+   "ref": "5",
+   "x": 27.32,
+   "y": 71.45,
+   "partNo": "218-5005",
+   "desc": "O-Ring - 7/16\" ID x 3/32\" wall",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "6",
+   "x": 26.9,
+   "y": 84.73,
+   "partNo": "NSS",
+   "desc": "FITTING - 9/16\" -18 swivel nut elbow (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 83.1,
+   "y": 12.76,
+   "partNo": "C31773",
+   "desc": "GRIP - handle",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 82.89,
+   "y": 28.14,
+   "partNo": "C31774",
+   "desc": "HANDLE - control",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 84.03,
+   "y": 52.72,
+   "partNo": "C31775",
+   "desc": "ARM - handle",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 83.31,
+   "y": 62.45,
+   "partNo": "C31776",
+   "desc": "BALLJOINT - male stud",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 67.12,
+   "y": 67.05,
+   "partNo": "C31777",
+   "desc": "BALLJOINT",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 77.84,
+   "y": 76.26,
+   "partNo": "C31778",
+   "desc": "CLIP - connector",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 67.84,
+   "y": 79.71,
+   "partNo": "NSS",
+   "desc": "NUT - lock #8-32 NC (obtain locally)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "31",
+   "x": 81.35,
+   "y": 85.46,
+   "partNo": "C31814",
+   "desc": "BOLT - #8 - 32 x 1\" socket head",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "32",
+   "x": 78.97,
+   "y": 72.07,
+   "partNo": "NSS",
+   "desc": "NUT - 1/4\" NF (obtain locally)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "32",
+   "x": 68.56,
+   "y": 49.48,
+   "partNo": "NSS",
+   "desc": "NUT - 1/4\" NF (obtain locally)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "33",
+   "x": 66.29,
+   "y": 57.74,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "34",
+   "x": 70.52,
+   "y": 84.0,
+   "partNo": "NSS",
+   "desc": "BOLT - 1/4\" NF x 1-1/4\" full thread Grade 5 (obtain locally)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "35",
+   "x": 86.91,
+   "y": 65.48,
+   "partNo": "129-123",
+   "desc": "NUT - 3/8\" NF",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "35",
+   "x": 94.13,
+   "y": 70.92,
+   "partNo": "129-123",
+   "desc": "NUT - 3/8\" NF",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "36",
+   "x": 82.89,
+   "y": 78.24,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "37",
+   "x": 84.03,
+   "y": 48.33,
+   "partNo": "129-163",
+   "desc": "NUT - 3/8\" NF jam",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": "Refs 2 and 3 are components of stabilizer handle assembly C31769 (ref 1).\nParts marked \"obtain locally\" are standard hardware - purchase locally."
+}

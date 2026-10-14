@@ -1,0 +1,355 @@
+{
+ "sectionTitle": "Dipperstick and Bucket",
+ "breadcrumb": "Dipperstick and Bucket",
+ "catalogLabel": "Catalog 8-3060",
+ "modelNumbers": "Catalog 8-3060 — Woods BH750WD Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3060/dipperstick_bucket.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 64.27,
+   "y": 5.62,
+   "partNo": "C31725",
+   "desc": "SOCKET - SMV emblem",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 63.86,
+   "y": 10.37,
+   "partNo": "C31726",
+   "desc": "BRACKET - socket",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 54.52,
+   "y": 15.94,
+   "partNo": "C31727",
+   "desc": "PIN - pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 97.03,
+   "y": 42.36,
+   "partNo": "C31727",
+   "desc": "PIN - pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 47.84,
+   "y": 26.36,
+   "partNo": "C31728",
+   "desc": "CYLINDER - hydraulic 2\" x 16-3/4\" (see Bucket Cylinder section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 63.76,
+   "y": 32.76,
+   "partNo": "C31706",
+   "desc": "CLAMP - hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 88.09,
+   "y": 53.2,
+   "partNo": "C31712",
+   "desc": "PIN - boom pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 55.75,
+   "y": 77.56,
+   "partNo": "C31730",
+   "desc": "PIN - pivot",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 75.46,
+   "y": 72.19,
+   "partNo": "C31730",
+   "desc": "PIN - pivot",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 69.51,
+   "y": 67.75,
+   "partNo": "C31731",
+   "desc": "LINK - pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 32.96,
+   "y": 42.05,
+   "partNo": "C31731",
+   "desc": "LINK - pivot",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 32.03,
+   "y": 82.1,
+   "variants": [
+    {
+     "serialNote": "12\" bucket",
+     "partNo": "NSS",
+     "desc": "BUCKET - 12\" heavy duty (order from whole goods)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "16\" bucket",
+     "partNo": "NSS",
+     "desc": "BUCKET - 16\" heavy duty (order from whole goods)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "18\" bucket",
+     "partNo": "NSS",
+     "desc": "BUCKET - 18\" heavy duty (order from whole goods)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 12.22,
+   "y": 56.5,
+   "partNo": "C31735",
+   "desc": "SLEEVE - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 16.32,
+   "y": 42.16,
+   "partNo": "C31735",
+   "desc": "SLEEVE - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 20.74,
+   "y": 44.01,
+   "partNo": "C31735",
+   "desc": "SLEEVE - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 26.8,
+   "y": 28.84,
+   "partNo": "C31735",
+   "desc": "SLEEVE - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 35.83,
+   "y": 44.22,
+   "partNo": "C31736",
+   "desc": "ARM - bucket",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 57.08,
+   "y": 40.81,
+   "partNo": "C31737",
+   "desc": "DIPPERSTICK",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 3.49,
+   "y": 85.09,
+   "partNo": "C31738",
+   "desc": "SHANK AND TOOTH ASSEMBLY - 2/0",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "14",
+   "x": 7.8,
+   "y": 89.22,
+   "partNo": "C31739",
+   "desc": "TOOTH - bucket 2/0",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "15",
+   "x": 86.14,
+   "y": 29.36,
+   "partNo": "TBD",
+   "desc": "DECAL - dipperstick (not listed in the printed parts table)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 70.33,
+   "y": 47.32,
+   "partNo": "TBD",
+   "desc": "DECAL - dipperstick (not listed in the printed parts table)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 73.2,
+   "y": 20.79,
+   "partNo": "C31724",
+   "desc": "CLAMP - hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 86.55,
+   "y": 47.01,
+   "partNo": "132-329",
+   "desc": "PIN-cotter 1/16\" x 3/4",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "25",
+   "x": 95.79,
+   "y": 35.76,
+   "partNo": "132-329",
+   "desc": "PIN-cotter 1/16\" x 3/4",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "25",
+   "x": 49.49,
+   "y": 8.92,
+   "partNo": "132-329",
+   "desc": "PIN-cotter 1/16\" x 3/4",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "26",
+   "x": 44.04,
+   "y": 51.75,
+   "partNo": "219-10",
+   "desc": "FITTING - grease 1/4\" -28 tapered thread",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "26",
+   "x": 48.36,
+   "y": 65.38,
+   "partNo": "219-10",
+   "desc": "FITTING - grease 1/4\" -28 tapered thread",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "27",
+   "x": 64.99,
+   "y": 36.89,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" NC flange lock",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "28",
+   "x": 66.02,
+   "y": 26.78,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" NC x 1/2\" Grade 5",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "29",
+   "x": 84.29,
+   "y": 41.54,
+   "partNo": "NSS",
+   "desc": "PIN - clevis 1/4\" x 1-7/8\" (obtain locally)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "29",
+   "x": 90.35,
+   "y": 31.32,
+   "partNo": "NSS",
+   "desc": "PIN - clevis 1/4\" x 1-7/8\" (obtain locally)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "29",
+   "x": 58.21,
+   "y": 7.99,
+   "partNo": "NSS",
+   "desc": "PIN - clevis 1/4\" x 1-7/8\" (obtain locally)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "30",
+   "x": 72.49,
+   "y": 3.97,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" NC flange lock",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "31",
+   "x": 60.58,
+   "y": 2.93,
+   "partNo": "NSS",
+   "desc": "Bolt - carriage 5/16\" NC x 1/2\" (obtain locally)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "32",
+   "x": 8.93,
+   "y": 38.65,
+   "partNo": "138-2054",
+   "desc": "PIN - spirol 5/16\" x 1-3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "32",
+   "x": 21.25,
+   "y": 36.38,
+   "partNo": "138-2054",
+   "desc": "PIN - spirol 5/16\" x 1-3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "32",
+   "x": 9.03,
+   "y": 49.38,
+   "partNo": "138-2054",
+   "desc": "PIN - spirol 5/16\" x 1-3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "32",
+   "x": 19.61,
+   "y": 26.26,
+   "partNo": "138-2054",
+   "desc": "PIN - spirol 5/16\" x 1-3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "33",
+   "x": 38.29,
+   "y": 35.03,
+   "partNo": "195-2115",
+   "desc": "WASHER - 1\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "33",
+   "x": 63.76,
+   "y": 53.72,
+   "partNo": "195-2115",
+   "desc": "WASHER - 1\"",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": "Ref 9 bucket (12\", 16\" or 18\" heavy duty) is not sold separately - order from whole goods.\nRef 13 shank and tooth assembly includes ref 14 tooth.\nRefs 15 and 16 are dipperstick decals called out on the diagram but not listed in the parts table.\nParts marked \"obtain locally\" are standard hardware - purchase locally."
+}
