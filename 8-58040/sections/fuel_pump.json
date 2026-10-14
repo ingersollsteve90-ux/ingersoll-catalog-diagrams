@@ -1,0 +1,147 @@
+{
+ "sectionTitle": "Fuel Pump",
+ "breadcrumb": "Fuel Pump",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/fuel_pump.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 4.14,
+   "y": 15.56,
+   "partNo": "C43604",
+   "desc": "PUMP - fuel",
+   "reqd": "1",
+   "estimated": true
+  },
+  {
+   "ref": "2",
+   "x": 33.7,
+   "y": 30.4,
+   "partNo": "NSS",
+   "desc": "BODY - upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 78.74,
+   "y": 71.18,
+   "partNo": "P130516080",
+   "desc": "BODY - lower",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 46.54,
+   "y": 83.13,
+   "partNo": "P130516081",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 45.92,
+   "y": 92.38,
+   "partNo": "P130516082",
+   "desc": "PLUNGER",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 70.89,
+   "y": 96.24,
+   "partNo": "P130516085",
+   "desc": "PIN",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 40.01,
+   "y": 50.45,
+   "partNo": "P130516088",
+   "desc": "PIN",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 27.28,
+   "y": 64.91,
+   "partNo": "P130516083",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 20.35,
+   "y": 69.73,
+   "partNo": "P131226180",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 7.3,
+   "y": 81.11,
+   "partNo": "P130516086",
+   "desc": "LEVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 70.28,
+   "y": 54.69,
+   "partNo": "P130516087",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 48.37,
+   "y": 45.15,
+   "partNo": "P130516084",
+   "desc": "DIAPHRAGM",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 34.61,
+   "y": 16.04,
+   "partNo": "P130516090",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 33.49,
+   "y": 22.5,
+   "partNo": "P130516089",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 92.49,
+   "y": 6.98,
+   "partNo": "P130516092",
+   "desc": "BOLT",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 93.62,
+   "y": 11.12,
+   "partNo": "P130516069",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 34.41,
+   "y": 8.81,
+   "partNo": "P130516091",
+   "desc": "SCREW",
+   "reqd": "6"
+  }
+ ],
+ "footnotes": "Ref 1: Whole fuel pump assembly - no printed circle; dot placed beside the assembly (estimate)."
+}

@@ -1,0 +1,329 @@
+{
+ "sectionTitle": "62\" Mower Drive",
+ "breadcrumb": "62\" Mower Drive",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/mower_drive_62.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 92.13,
+   "y": 71.66,
+   "partNo": "C41757",
+   "desc": "MOUNT - gearbox",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 76.44,
+   "y": 28.72,
+   "partNo": "C37876",
+   "desc": "GUARD - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 87.39,
+   "y": 27.67,
+   "partNo": "C37877",
+   "desc": "ANGLE - gear box mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.19,
+   "y": 54.66,
+   "partNo": "C37929",
+   "desc": "TIGHTENER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 8.73,
+   "y": 56.75,
+   "partNo": "C37945",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 11.98,
+   "y": 62.45,
+   "partNo": "C37946",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 23.24,
+   "y": 74.89,
+   "variants": [
+    {
+     "serialNote": "Before S/N (62TCSS 013306063, 62TCII 013307056)",
+     "partNo": "C37947",
+     "desc": "SHAFT - spindle, short",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "S/N and after (62TCSS 013306063, 62TCII 013307056)",
+     "partNo": "C44132",
+     "desc": "SHAFT - spindle, short",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 56.01,
+   "y": 48.38,
+   "variants": [
+    {
+     "serialNote": "Before S/N (62TCSS 013306063, 62TCII 013307056)",
+     "partNo": "C37948",
+     "desc": "SHAFT - spindle, long",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N and after (62TCSS 013306063, 62TCII 013307056)",
+     "partNo": "C44134",
+     "desc": "SHAFT - spindle, long",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 11.59,
+   "y": 69.29,
+   "partNo": "C42786",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 11.49,
+   "y": 52.28,
+   "partNo": "C42786",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 31.33,
+   "y": 85.15,
+   "variants": [
+    {
+     "serialNote": "Before S/N (62TCSS 013306063, 62TCII 013307056)",
+     "partNo": "C37949",
+     "desc": "BLADE",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "S/N and after (62TCSS 013306063, 62TCII 013307056)",
+     "partNo": "C44138",
+     "desc": "BLADE",
+     "reqd": "3"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 9.71,
+   "y": 41.54,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 26.3,
+   "y": 17.41,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 62.32,
+   "y": 17.7,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 62.91,
+   "y": 4.68,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 29.36,
+   "y": 44.01,
+   "partNo": "C37932",
+   "desc": "PULLEY - gear box output",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 71.4,
+   "y": 54.75,
+   "partNo": "C37893",
+   "desc": "PULLEY - gear box input",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 46.04,
+   "y": 23.11,
+   "partNo": "C37933",
+   "desc": "PULLEY - idler, large",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 20.37,
+   "y": 22.92,
+   "partNo": "C37934",
+   "desc": "PULLEY - idler, small",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 38.04,
+   "y": 14.66,
+   "partNo": "C38929",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 93.22,
+   "y": 52.47,
+   "partNo": "C38566",
+   "desc": "BELT - drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 96.18,
+   "y": 30.05,
+   "variants": [
+    {
+     "serialNote": "Curtis model",
+     "partNo": "C37898",
+     "desc": "GEAR BOX - angle drive (see page 83 for service) (Curtis model)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Superior model",
+     "partNo": "C42775",
+     "desc": "GEAR BOX - angle drive (see page 83 for service) (Superior model)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 11.69,
+   "y": 46.77,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "12"
+  },
+  {
+   "ref": "19",
+   "x": 61.24,
+   "y": 11.62,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "12"
+  },
+  {
+   "ref": "20",
+   "x": 46.33,
+   "y": 54.94,
+   "partNo": "C37901",
+   "desc": "BOLT - 1/4\" - 20 x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 14.16,
+   "y": 26.53,
+   "partNo": "C39386",
+   "desc": "BOLT - 5/16\" - 24 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 12.08,
+   "y": 33.94,
+   "partNo": "C37900",
+   "desc": "WASHER - 5/16\", 10 gage",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 11.0,
+   "y": 88.19,
+   "partNo": "C37886",
+   "desc": "WASHER - blade",
+   "reqd": "3"
+  },
+  {
+   "ref": "24",
+   "x": 11.59,
+   "y": 95.03,
+   "variants": [
+    {
+     "serialNote": "Before S/N (62TCSS 013306063, 62TCII 013307056)",
+     "partNo": "C37557",
+     "desc": "BOLT - 3/8\" - 24 x 1-1/4\"",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "S/N and after (62TCSS 013306063, 62TCII 013307056)",
+     "partNo": "113-268",
+     "desc": "BOLT - 3/8\" - 16 x 1\" (also requires 131-1216 locknut)",
+     "reqd": "6"
+    }
+   ]
+  },
+  {
+   "ref": "25",
+   "x": 67.06,
+   "y": 26.44,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 25.8,
+   "y": 50.95,
+   "partNo": "C37937",
+   "desc": "SPACER - idler pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 3.5,
+   "y": 60.93,
+   "partNo": "C37951",
+   "desc": "HOUSING ASSEMBLY - spindle (includes ref. 5, 6, 9)",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 26.99,
+   "y": 65.3,
+   "partNo": "219-20",
+   "desc": "FITTING - grease 1/4\" - 28",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "62TCSS: * before S/N 013306063, ** S/N 013306063 and after. 62TCII: * before S/N 013307056, ** S/N 013307056 and after."
+}

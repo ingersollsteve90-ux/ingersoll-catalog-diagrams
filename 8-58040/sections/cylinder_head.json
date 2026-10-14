@@ -1,0 +1,205 @@
+{
+ "sectionTitle": "Cylinder Head",
+ "breadcrumb": "Cylinder Head",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/cylinder_head.jpg",
+ "hotspots": [
+  {
+   "ref": "2",
+   "x": 89.83,
+   "y": 37.05,
+   "partNo": "P111086030",
+   "desc": "HEAD - cylinder (includes ref. 15, 16, 17 and 24)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 47.76,
+   "y": 92.7,
+   "partNo": "P120166280",
+   "desc": "VALVE - inlet",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 47.66,
+   "y": 27.8,
+   "partNo": "P120406080",
+   "desc": "SEAL",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 47.06,
+   "y": 21.58,
+   "partNo": "P198217070",
+   "desc": "SPRING",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 47.76,
+   "y": 11.16,
+   "partNo": "P120186100",
+   "desc": "CAP",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 50.83,
+   "y": 5.62,
+   "partNo": "P120226080",
+   "desc": "RETAINERS",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 65.52,
+   "y": 91.53,
+   "partNo": "P120176290",
+   "desc": "VALVE - exhaust",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 64.43,
+   "y": 81.8,
+   "partNo": "P110136290",
+   "desc": "INSERT",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 61.25,
+   "y": 23.04,
+   "partNo": "P120406080",
+   "desc": "SEAL",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 60.26,
+   "y": 17.68,
+   "partNo": "P198217070",
+   "desc": "SPRING",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 60.46,
+   "y": 9.41,
+   "partNo": "P120186100",
+   "desc": "CAP",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 56.59,
+   "y": 4.74,
+   "partNo": "P120226080",
+   "desc": "RETAINERS",
+   "reqd": "6"
+  },
+  {
+   "ref": "15",
+   "x": 70.78,
+   "y": 15.93,
+   "partNo": "P198466070",
+   "desc": "PLUG",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 41.21,
+   "y": 12.53,
+   "partNo": "P198466070",
+   "desc": "PLUG",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 89.83,
+   "y": 46.39,
+   "partNo": "P198466070",
+   "desc": "PLUG",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 29.59,
+   "y": 59.33,
+   "partNo": "P064200022",
+   "desc": "PLUG",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 91.22,
+   "y": 23.13,
+   "partNo": "P064200022",
+   "desc": "PLUG",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 12.03,
+   "y": 44.44,
+   "partNo": "P195816200",
+   "desc": "PLATE - lifting",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 5.58,
+   "y": 55.14,
+   "partNo": "P011310816",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 80.41,
+   "y": 12.53,
+   "partNo": "P111136340",
+   "desc": "SCREW",
+   "reqd": "11"
+  },
+  {
+   "ref": "21",
+   "x": 38.63,
+   "y": 31.5,
+   "partNo": "P111136350",
+   "desc": "SCREW",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 94.89,
+   "y": 55.24,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "C43611",
+     "desc": "GASKET",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "0.5mm oversize",
+     "partNo": "P111147390",
+     "desc": "GASKET - (0.5mm oversize)",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "24",
+   "x": 91.22,
+   "y": 76.36,
+   "partNo": "P064200018",
+   "desc": "PLUG - included in cylinder head kit",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: P111016911 KIT - cylinder head."
+}

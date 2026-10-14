@@ -1,0 +1,298 @@
+{
+ "sectionTitle": "Flywheel, Crankshaft, Pistons and Rings",
+ "breadcrumb": "Flywheel, Crankshaft, Pistons and Rings",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/flywheel_crankshaft_pistons_rings.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 27.09,
+   "y": 35.2,
+   "partNo": "P115236020",
+   "desc": "KIT - crankshaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 73.52,
+   "y": 30.33,
+   "partNo": "NSS",
+   "desc": "CRANKSHAFT",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 30.74,
+   "y": 36.95,
+   "partNo": "P115276210",
+   "desc": "GEAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 45.16,
+   "y": 43.47,
+   "partNo": "P030509020",
+   "desc": "KEY",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 69.27,
+   "y": 40.07,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "P198586030",
+     "desc": "KIT - bearing (standard)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "0.25mm undersize",
+     "partNo": "P198586034",
+     "desc": "KIT - bearing (0.25mm undersize)",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.50mm undersize",
+     "partNo": "P198586037",
+     "desc": "KIT - bearing (0.50mm undersize)",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 61.07,
+   "y": 19.42,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "P198586060",
+     "desc": "KIT - bearing (standard)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "0.25mm undersize",
+     "partNo": "P198586064",
+     "desc": "KIT - bearing (0.25mm undersize)",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.50mm undersize",
+     "partNo": "P198586067",
+     "desc": "KIT - bearing (0.50mm undersize)",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 30.25,
+   "y": 2.27,
+   "partNo": "P115026240",
+   "desc": "ROD - connecting",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 25.51,
+   "y": 12.31,
+   "partNo": "NSS",
+   "desc": "ROD",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 24.52,
+   "y": 19.51,
+   "partNo": "NSS",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 22.64,
+   "y": 10.65,
+   "partNo": "P198517325",
+   "desc": "BUSHING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 38.05,
+   "y": 12.01,
+   "partNo": "P115176130",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 28.47,
+   "y": 20.88,
+   "partNo": "P020109103",
+   "desc": "NUT",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 50.0,
+   "y": 2.57,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "P115017090",
+     "desc": "KIT - piston (standard)",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "0.50mm oversize",
+     "partNo": "P115017100",
+     "desc": "KIT - piston (0.50mm oversize)",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 77.57,
+   "y": 8.9,
+   "partNo": "NSS",
+   "desc": "PISTON ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 55.34,
+   "y": 5.39,
+   "partNo": "NSS",
+   "desc": "PISTON",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 43.88,
+   "y": 6.95,
+   "partNo": "P115326260",
+   "desc": "PIN",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 47.54,
+   "y": 5.0,
+   "partNo": "P036500019",
+   "desc": "CIRCLIP",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 47.04,
+   "y": 14.55,
+   "partNo": "P036500019",
+   "desc": "CIRCLIP",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 64.03,
+   "y": 5.49,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "P115107400",
+     "desc": "KIT - rings (standard)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "0.50mm oversize",
+     "partNo": "P115107410",
+     "desc": "KIT - rings (0.50mm oversize)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "20",
+   "x": 94.06,
+   "y": 79.12,
+   "partNo": "P115357260",
+   "desc": "FLYWHEEL",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 78.95,
+   "y": 84.87,
+   "partNo": "P115376150",
+   "desc": "RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 94.16,
+   "y": 55.45,
+   "partNo": "P010109330",
+   "desc": "SCREW",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 42.1,
+   "y": 73.08,
+   "partNo": "C",
+   "desc": "45367 PULLEY",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 3.28,
+   "y": 91.2,
+   "partNo": "P020800018",
+   "desc": "NUT",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 10.09,
+   "y": 87.79,
+   "partNo": "P026200018",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 51.39,
+   "y": 70.16,
+   "partNo": "P034100508",
+   "desc": "KEY",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 28.96,
+   "y": 78.34,
+   "partNo": "C",
+   "desc": "45369 PULLEY - engine",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 16.32,
+   "y": 85.55,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4",
+   "reqd": "3"
+  },
+  {
+   "ref": "29",
+   "x": 22.74,
+   "y": 83.02,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": ""
+}

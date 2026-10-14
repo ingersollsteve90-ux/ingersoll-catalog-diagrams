@@ -1,0 +1,353 @@
+{
+ "sectionTitle": "Cylinder Block",
+ "breadcrumb": "Cylinder Block",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/cylinder_block.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.79,
+   "y": 3.0,
+   "partNo": "P110006670",
+   "desc": "BLOCK - cylinder, short",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 12.2,
+   "y": 78.45,
+   "partNo": "P064200015",
+   "desc": "PLUG",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 86.91,
+   "y": 59.81,
+   "partNo": "P064200040",
+   "desc": "PLUG",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 81.04,
+   "y": 40.58,
+   "partNo": "P064200040",
+   "desc": "PLUG",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 39.39,
+   "y": 80.88,
+   "partNo": "P064200040",
+   "desc": "PLUG",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 18.06,
+   "y": 74.08,
+   "partNo": "P198466050",
+   "desc": "PLUG",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 7.85,
+   "y": 59.52,
+   "partNo": "P198466010",
+   "desc": "PLUG",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 7.35,
+   "y": 65.92,
+   "partNo": "P198466070",
+   "desc": "PLUG",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 7.55,
+   "y": 73.11,
+   "partNo": "P165296160",
+   "desc": "SHAFT",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 4.92,
+   "y": 63.4,
+   "partNo": "P198517090",
+   "desc": "BUSHING",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 33.83,
+   "y": 80.0,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "P198517300",
+     "desc": "BUSHING - standard",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "0.25 mm undersize",
+     "partNo": "P198517304",
+     "desc": "BUSHING - 0.25 mm undersize",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.50 mm undersize",
+     "partNo": "P198517307",
+     "desc": "BUSHING - 0.50 mm undersize",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 91.66,
+   "y": 56.21,
+   "partNo": "P040106203",
+   "desc": "BEARING - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 94.79,
+   "y": 50.58,
+   "partNo": "P064100045",
+   "desc": "PLUG",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 10.78,
+   "y": 57.28,
+   "partNo": "P042303015",
+   "desc": "BUSHING",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 22.01,
+   "y": 47.77,
+   "partNo": "P030500512",
+   "desc": "DOWEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 18.47,
+   "y": 52.33,
+   "partNo": "P030500616",
+   "desc": "DOWEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 88.32,
+   "y": 47.48,
+   "partNo": "P030500820",
+   "desc": "DOWEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 34.74,
+   "y": 43.69,
+   "partNo": "P030309005",
+   "desc": "PIN",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 21.5,
+   "y": 43.2,
+   "partNo": "P012100620",
+   "desc": "STUD",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 10.89,
+   "y": 54.08,
+   "partNo": "P012100635",
+   "desc": "STUD",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 6.13,
+   "y": 68.35,
+   "partNo": "P012100660",
+   "desc": "STUD",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 61.03,
+   "y": 94.18,
+   "partNo": "P110156220",
+   "desc": "HOLDER",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 35.86,
+   "y": 86.61,
+   "partNo": "NSS",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 38.18,
+   "y": 91.75,
+   "partNo": "NSS",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 53.75,
+   "y": 92.72,
+   "partNo": "P030500612",
+   "desc": "DOWEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 43.54,
+   "y": 81.27,
+   "partNo": "P010810840",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 75.79,
+   "y": 88.84,
+   "partNo": "P110156230",
+   "desc": "HOLDER",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 59.21,
+   "y": 74.66,
+   "partNo": "NSS",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 66.38,
+   "y": 89.32,
+   "partNo": "NSS",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 70.13,
+   "y": 87.38,
+   "partNo": "P030500612",
+   "desc": "DOWEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 62.54,
+   "y": 69.91,
+   "partNo": "P010810840",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 90.75,
+   "y": 82.62,
+   "partNo": "P110156240",
+   "desc": "HOLDER",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 89.23,
+   "y": 71.07,
+   "partNo": "NSS",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 83.97,
+   "y": 82.53,
+   "partNo": "NSS",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 89.74,
+   "y": 75.44,
+   "partNo": "P030500612",
+   "desc": "DOWEL",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 72.85,
+   "y": 70.78,
+   "partNo": "P010810840",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 40.71,
+   "y": 97.48,
+   "partNo": "P011310850",
+   "desc": "SCREW",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 66.28,
+   "y": 92.43,
+   "partNo": "P011310850",
+   "desc": "SCREW",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 79.83,
+   "y": 86.9,
+   "partNo": "P010700845",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 25.44,
+   "y": 81.85,
+   "partNo": "P036509005",
+   "desc": "CIRCLIP",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "partNo": "P064200018",
+   "desc": "PLUG",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "NOTE: FOR COMPLETE ENGINE ORDER C42982\nRef 41 is listed in the parts table but not called out on the diagram."
+}

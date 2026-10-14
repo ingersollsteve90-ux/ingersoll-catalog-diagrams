@@ -1,0 +1,233 @@
+{
+ "sectionTitle": "Fuel Injection System",
+ "breadcrumb": "Fuel Injection System",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/fuel_injection_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 58.45,
+   "y": 49.62,
+   "partNo": "P131017390",
+   "desc": "PUMP - injection (repairs page 23)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 54.61,
+   "y": 35.47,
+   "partNo": "P131236280",
+   "desc": "SCREW",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 63.08,
+   "y": 43.26,
+   "partNo": "P025100006",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 62.29,
+   "y": 52.69,
+   "variants": [
+    {
+     "serialNote": "0.2mm",
+     "partNo": "P131437310",
+     "desc": "SHIM - 0.2mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.3mm",
+     "partNo": "P131437320",
+     "desc": "SHIM - 0.3mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.4mm",
+     "partNo": "P131437330",
+     "desc": "SHIM - 0.4mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.5mm",
+     "partNo": "P131437340",
+     "desc": "SHIM - 0.5mm",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 63.17,
+   "y": 37.97,
+   "partNo": "P011300620",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 25.75,
+   "y": 43.65,
+   "partNo": "P023100006",
+   "desc": "NUT",
+   "reqd": "6"
+  },
+  {
+   "ref": "8",
+   "x": 19.94,
+   "y": 61.26,
+   "partNo": "P131046160",
+   "desc": "SCREW",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 11.66,
+   "y": 63.76,
+   "partNo": "P023109002",
+   "desc": "NUT",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 4.18,
+   "y": 69.72,
+   "partNo": "P025100010",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 38.75,
+   "y": 66.36,
+   "partNo": "P198236030",
+   "desc": "WIRE",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 52.44,
+   "y": 89.93,
+   "partNo": "P010109270",
+   "desc": "SCREW",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 47.81,
+   "y": 93.01,
+   "partNo": "P023109002",
+   "desc": "NUT",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 39.24,
+   "y": 95.7,
+   "partNo": "P025100010",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 49.88,
+   "y": 12.76,
+   "partNo": "P131507010",
+   "desc": "PIPE - injection (No. 1 cylinder)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 62.29,
+   "y": 7.76,
+   "partNo": "P131507020",
+   "desc": "PIPE - injection (No. 2 cylinder)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 74.3,
+   "y": 3.43,
+   "partNo": "P131507030",
+   "desc": "PIPE - injection (No. 3 cylinder)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 28.9,
+   "y": 25.56,
+   "partNo": "P199106020",
+   "desc": "DAMPER",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 55.89,
+   "y": 26.81,
+   "partNo": "P199106020",
+   "desc": "DAMPER",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 27.42,
+   "y": 19.21,
+   "partNo": "P010100625",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 57.66,
+   "y": 31.43,
+   "partNo": "P023100006",
+   "desc": "NUT",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 87.5,
+   "y": 29.02,
+   "partNo": "P131406340",
+   "desc": "ATOMIZER - fuel (repairs page 23)",
+   "reqd": "3"
+  },
+  {
+   "ref": "24",
+   "x": 89.97,
+   "y": 36.05,
+   "partNo": "P131426200",
+   "desc": "GASKET",
+   "reqd": "3"
+  },
+  {
+   "ref": "25",
+   "x": 90.65,
+   "y": 39.8,
+   "partNo": "P111316280",
+   "desc": "INSERT",
+   "reqd": "3"
+  },
+  {
+   "ref": "26",
+   "x": 89.87,
+   "y": 45.96,
+   "partNo": "P198996090",
+   "desc": "SEAL",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 83.37,
+   "y": 14.3,
+   "partNo": "P131606260",
+   "desc": "PIPE",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

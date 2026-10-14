@@ -1,0 +1,227 @@
+{
+ "sectionTitle": "Atomizer",
+ "breadcrumb": "Atomizer",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/atomizer.jpg",
+ "hotspots": [
+  {
+   "ref": "25",
+   "x": 93.96,
+   "y": 13.58,
+   "partNo": "P131446069",
+   "desc": "NUT",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 82.49,
+   "y": 19.41,
+   "partNo": "P131426210",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 70.1,
+   "y": 25.24,
+   "partNo": "P131446065",
+   "desc": "BODY",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 57.51,
+   "y": 36.51,
+   "variants": [
+    {
+     "serialNote": "0.90mm",
+     "partNo": "P131437250",
+     "desc": "SHIM - 0.90mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.925mm",
+     "partNo": "P131437251",
+     "desc": "SHIM - 0.925mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.95mm",
+     "partNo": "P131437252",
+     "desc": "SHIM - 0.95mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.975mm",
+     "partNo": "P131437253",
+     "desc": "SHIM - 0.975mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.00mm",
+     "partNo": "P131437254",
+     "desc": "SHIM - 1.00mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.025mm",
+     "partNo": "P131437255",
+     "desc": "SHIM - 1.025mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.05mm",
+     "partNo": "P131437256",
+     "desc": "SHIM - 1.05mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.075mm",
+     "partNo": "P131437257",
+     "desc": "SHIM - 1.075mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.10mm",
+     "partNo": "P131437258",
+     "desc": "SHIM - 1.10mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.125mm",
+     "partNo": "P131437259",
+     "desc": "SHIM - 1.125mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.15mm",
+     "partNo": "P131437260",
+     "desc": "SHIM - 1.15mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.175mm",
+     "partNo": "P131437261",
+     "desc": "SHIM - 1.175mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.20mm",
+     "partNo": "P131437262",
+     "desc": "SHIM - 1.20mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.225mm",
+     "partNo": "P131437263",
+     "desc": "SHIM - 1.225mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.250mm",
+     "partNo": "P131437264",
+     "desc": "SHIM - 1.250mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.275mm",
+     "partNo": "P131437265",
+     "desc": "SHIM - 1.275mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.30mm",
+     "partNo": "P131437266",
+     "desc": "SHIM - 1.30mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.325mm",
+     "partNo": "P131437267",
+     "desc": "SHIM - 1.325mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.35mm",
+     "partNo": "P131437268",
+     "desc": "SHIM - 1.35mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.375mm",
+     "partNo": "P131437269",
+     "desc": "SHIM - 1.375mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.40mm",
+     "partNo": "P131437270",
+     "desc": "SHIM - 1.40mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.425mm",
+     "partNo": "P131437271",
+     "desc": "SHIM - 1.425mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.45mm",
+     "partNo": "P131437272",
+     "desc": "SHIM - 1.45mm",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 51.32,
+   "y": 42.94,
+   "partNo": "P131446066",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 42.69,
+   "y": 45.8,
+   "partNo": "P131446070",
+   "desc": "PIN",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 34.97,
+   "y": 48.97,
+   "partNo": "P131446068",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 27.05,
+   "y": 55.98,
+   "partNo": "P131416150",
+   "desc": "NOZZLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 15.68,
+   "y": 60.33,
+   "partNo": "P131446067",
+   "desc": "NUT",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 5.94,
+   "y": 69.13,
+   "partNo": "TBD",
+   "desc": "Not listed in the printed parts table (part number not yet identified)",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: P131406340 ATOMIZER.\nRef 34 is called out on the diagram but has no row in the printed parts table."
+}

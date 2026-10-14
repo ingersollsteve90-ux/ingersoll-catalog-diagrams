@@ -1,0 +1,58 @@
+{
+ "sectionTitle": "Tachometer",
+ "breadcrumb": "Tachometer",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/tachometer.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 17.91,
+   "y": 86.64,
+   "partNo": "P120076070",
+   "desc": "SHAFT",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 18.42,
+   "y": 36.99,
+   "partNo": "P199566651",
+   "desc": "PLATE",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 10.28,
+   "y": 46.79,
+   "partNo": "P011310612",
+   "desc": "SCREW",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 5.8,
+   "y": 60.17,
+   "partNo": "P010700610",
+   "desc": "SCREW",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 52.1,
+   "y": 7.23,
+   "partNo": "P199376230",
+   "desc": "CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 30.94,
+   "y": 10.82,
+   "partNo": "P120996060",
+   "desc": "SEAL",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,184 @@
+{
+ "sectionTitle": "Gear Box (Superior)",
+ "breadcrumb": "Gear Box (Superior)",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/gear_box_superior.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 43.0,
+   "y": 93.7,
+   "partNo": "C42924",
+   "desc": "SHAFT - pinion, with gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 91.98,
+   "y": 22.78,
+   "partNo": "C42923",
+   "desc": "SHAFT - cross, with gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 90.06,
+   "y": 6.87,
+   "partNo": "C42917",
+   "desc": "HOUSING - with tapped holes",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 95.13,
+   "y": 6.87,
+   "partNo": "C42927",
+   "desc": "HOUSING with thru holes (not shown)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 74.74,
+   "y": 60.88,
+   "partNo": "C42918",
+   "desc": "CUP - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 23.53,
+   "y": 58.39,
+   "partNo": "C42918",
+   "desc": "CUP - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 27.59,
+   "y": 64.56,
+   "partNo": "C42918",
+   "desc": "CUP - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 19.38,
+   "y": 81.77,
+   "partNo": "C42918",
+   "desc": "CUP - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 80.73,
+   "y": 52.82,
+   "partNo": "C42921",
+   "desc": "CONE - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 16.84,
+   "y": 56.8,
+   "partNo": "C42921",
+   "desc": "CONE - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 30.63,
+   "y": 67.64,
+   "partNo": "C42921",
+   "desc": "CONE - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 30.63,
+   "y": 80.28,
+   "partNo": "C42921",
+   "desc": "CONE - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 29.41,
+   "y": 89.33,
+   "partNo": "C42919",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 27.69,
+   "y": 7.96,
+   "partNo": "C42920",
+   "desc": "PLUG - pipe 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 79.81,
+   "y": 5.87,
+   "partNo": "C42920",
+   "desc": "PLUG - pipe 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 23.23,
+   "y": 13.73,
+   "partNo": "C42922",
+   "desc": "SEAL - shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 39.35,
+   "y": 86.54,
+   "partNo": "C42922",
+   "desc": "SEAL - shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 5.89,
+   "y": 49.54,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 1\" input shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 34.99,
+   "y": 12.83,
+   "partNo": "C42928",
+   "desc": "PIPE - vent",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 92.29,
+   "y": 14.23,
+   "partNo": "C42925",
+   "desc": "CAP - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 75.45,
+   "y": 79.18,
+   "partNo": "C28215",
+   "desc": "KEY - 3/16\" x 5/8\" output shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "partNo": "C42926",
+   "desc": "BOLT - 5/16\" x 1\" socket head (not shown)",
+   "reqd": "8"
+  }
+ ],
+ "footnotes": "Ref 12 is listed in the parts table but not called out on the diagram.\nAlso listed, not shown on diagram: NSS GEAR BOX - (use C44917 for service)."
+}

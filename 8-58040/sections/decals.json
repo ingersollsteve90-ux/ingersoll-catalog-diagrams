@@ -1,0 +1,209 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 80.4,
+   "y": 16.68,
+   "partNo": "C44589",
+   "desc": "DECAL - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 18.3,
+   "y": 3.17,
+   "partNo": "C45466",
+   "desc": "DECAL - side, rear",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 66.61,
+   "y": 2.59,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C43947",
+     "desc": "DECAL - logo L.H",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H",
+     "partNo": "C43948",
+     "desc": "DECAL - logo R.H",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 51.84,
+   "y": 14.44,
+   "partNo": "C37464",
+   "desc": "MEDALLION - \"Ingersoll\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 34.04,
+   "y": 79.82,
+   "partNo": "C43410",
+   "desc": "DECAL - \"Diesel\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 78.05,
+   "y": 53.59,
+   "partNo": "C45163",
+   "desc": "DECAL - instrument panel",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 24.66,
+   "y": 28.82,
+   "partNo": "C37495",
+   "desc": "DECAL - operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 6.37,
+   "y": 41.65,
+   "partNo": "C37496",
+   "desc": "DECAL - \"CAUTION\" interlock",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 44.41,
+   "y": 33.1,
+   "partNo": "C37502",
+   "desc": "DECAL - unlock/lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 34.43,
+   "y": 21.24,
+   "partNo": "C37498",
+   "desc": "DECAL - run/park",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 32.38,
+   "y": 55.54,
+   "partNo": "C37503",
+   "desc": "DECAL - \"CAUTION\" hydraulic lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 81.28,
+   "y": 94.69,
+   "partNo": "C37500",
+   "desc": "DECAL - \"DANGER\" carbon monoxide",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 76.68,
+   "y": 28.72,
+   "partNo": "C38807",
+   "desc": "DECAL - lubrication",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 29.74,
+   "y": 42.42,
+   "partNo": "C37499",
+   "desc": "DECAL - hydraulic oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 17.91,
+   "y": 90.61,
+   "partNo": "C37497",
+   "desc": "DECAL - diesel fuel only",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 68.17,
+   "y": 90.22,
+   "partNo": "C43091",
+   "desc": "DECAL - anti-freeze",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 45.58,
+   "y": 90.9,
+   "partNo": "C43092",
+   "desc": "DECAL - ether",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 27.69,
+   "y": 20.76,
+   "partNo": "C44340",
+   "desc": "DECAL - \"WARNING\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 15.46,
+   "y": 60.2,
+   "partNo": "C37491",
+   "desc": "DECAL - \"WHIRLING BLADES\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 11.84,
+   "y": 47.86,
+   "partNo": "C37492",
+   "desc": "DECAL - \"CAUTION\" discharge",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 41.38,
+   "y": 66.42,
+   "partNo": "C37493",
+   "desc": "DECAL - \"CAUTION\" grass chute",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 16.93,
+   "y": 73.22,
+   "partNo": "C37494",
+   "desc": "DECAL - \"DANGER\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "partNo": "C43970",
+   "desc": "DECAL - rear R.H. (not shown)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "partNo": "C43971",
+   "desc": "DECAL - rear L.H. (not shown)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 6 is listed in the parts table but not called out on the diagram."
+}

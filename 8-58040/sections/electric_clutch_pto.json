@@ -1,0 +1,130 @@
+{
+ "sectionTitle": "Electric Clutch (PTO)",
+ "breadcrumb": "Electric Clutch (PTO)",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/electric_clutch_pto.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 36.22,
+   "y": 57.23,
+   "partNo": "C37569",
+   "desc": "CLUTCH - electric",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 70.67,
+   "y": 66.81,
+   "partNo": "C37549",
+   "desc": "BRAKE - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 78.88,
+   "y": 66.81,
+   "partNo": "C37570",
+   "desc": "ARMATURE - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 83.85,
+   "y": 94.48,
+   "partNo": "C37551",
+   "desc": "ROTOR - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 84.86,
+   "y": 65.44,
+   "partNo": "C37552",
+   "desc": "KIT - spring and nut (3 each)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 94.59,
+   "y": 67.49,
+   "partNo": "C37553",
+   "desc": "COIL - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 42.4,
+   "y": 5.22,
+   "partNo": "C45357",
+   "desc": "BRACKET - clutch stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 17.87,
+   "y": 39.92,
+   "partNo": "C31615",
+   "desc": "WASHER - .47\" x 1.75\" x 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 52.33,
+   "y": 37.97,
+   "partNo": "C13716",
+   "desc": "WASHER - thrust 1\" x 1.5\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 12.1,
+   "y": 44.91,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 68.55,
+   "y": 31.32,
+   "partNo": "C44009",
+   "desc": "ADAPTER - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 23.75,
+   "y": 10.11,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 15.95,
+   "y": 15.19,
+   "partNo": "814-8016",
+   "desc": "BOLT - M8 - 1.25 x16",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 5.31,
+   "y": 51.27,
+   "partNo": "114-201",
+   "desc": "BOLT - 3/8\" -24 x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 55.88,
+   "y": 14.7,
+   "partNo": "C42828",
+   "desc": "SCREW - M10 - 1.25 x 34",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": ""
+}

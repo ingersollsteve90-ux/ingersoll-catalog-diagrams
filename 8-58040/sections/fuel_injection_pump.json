@@ -1,0 +1,277 @@
+{
+ "sectionTitle": "Fuel Injection Pump",
+ "breadcrumb": "Fuel Injection Pump",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/fuel_injection_pump.jpg",
+ "hotspots": [
+  {
+   "ref": "2",
+   "x": 87.66,
+   "y": 66.75,
+   "partNo": "P131296665",
+   "desc": "HOUSING",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 94.26,
+   "y": 26.72,
+   "partNo": "P131196130",
+   "desc": "HOLDER",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 62.05,
+   "y": 11.55,
+   "partNo": "P131226170",
+   "desc": "\"O\" RING",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 58.39,
+   "y": 18.89,
+   "partNo": "P131176430",
+   "desc": "SPRING",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 58.5,
+   "y": 24.27,
+   "partNo": "P131186050",
+   "desc": "GASKET",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 59.0,
+   "y": 30.15,
+   "partNo": "P131156160",
+   "desc": "VALVE",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 74.25,
+   "y": 38.27,
+   "partNo": "P131116410",
+   "desc": "ELEMENT",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 6.17,
+   "y": 54.42,
+   "partNo": "P131296951",
+   "desc": "SLEEVE",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 5.66,
+   "y": 61.76,
+   "partNo": "P131296620",
+   "desc": "SEAT",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 7.08,
+   "y": 69.49,
+   "partNo": "P131176440",
+   "desc": "SPRING",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 6.47,
+   "y": 78.0,
+   "partNo": "P131296621",
+   "desc": "SEAT",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 5.66,
+   "y": 85.25,
+   "variants": [
+    {
+     "serialNote": "1.85mm",
+     "partNo": "P131296622",
+     "desc": "PLATE - shim 1.85mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.90mm",
+     "partNo": "P131296623",
+     "desc": "PLATE - shim 1.90mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1.95mm",
+     "partNo": "P131296624",
+     "desc": "PLATE - shim 1.95mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.00mm",
+     "partNo": "P131296625",
+     "desc": "PLATE - shim 2.00mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.05mm",
+     "partNo": "P131296626",
+     "desc": "PLATE - shim 2.05mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.10mm",
+     "partNo": "P131296627",
+     "desc": "PLATE - shim 2.10mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.15mm",
+     "partNo": "P131296628",
+     "desc": "PLATE - shim 2.15mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.20mm",
+     "partNo": "P131296629",
+     "desc": "PLATE - shim 2.20mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.25mm",
+     "partNo": "P131296630",
+     "desc": "PLATE - shim 2.25mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.30mm",
+     "partNo": "P131296631",
+     "desc": "PLATE - shim 2.30mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.35mm",
+     "partNo": "P131296632",
+     "desc": "PLATE - shim 2.35mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.40mm",
+     "partNo": "P131296633",
+     "desc": "PLATE - shim 2.40mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.45mm",
+     "partNo": "P131296634",
+     "desc": "PLATE - shim 2.45mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2.50mm",
+     "partNo": "P131296635",
+     "desc": "PLATE - shim 2.50mm",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 24.25,
+   "y": 85.54,
+   "partNo": "P131256120",
+   "desc": "TAPPET",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 39.7,
+   "y": 39.54,
+   "partNo": "P131296636",
+   "desc": "RACK",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 23.44,
+   "y": 31.03,
+   "partNo": "P131296650",
+   "desc": "BRACKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 10.94,
+   "y": 27.11,
+   "partNo": "P131136320",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 38.99,
+   "y": 22.02,
+   "partNo": "P131236190",
+   "desc": "BOLT",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 56.77,
+   "y": 51.68,
+   "partNo": "P131426180",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 52.91,
+   "y": 27.8,
+   "partNo": "P131426180",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 46.51,
+   "y": 39.44,
+   "partNo": "P131246130",
+   "desc": "NIPPLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 94.26,
+   "y": 17.13,
+   "partNo": "P131296662",
+   "desc": "PLATE",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 90.81,
+   "y": 5.09,
+   "partNo": "P131136330",
+   "desc": "SCREW",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 45.69,
+   "y": 70.76,
+   "partNo": "P131296651",
+   "desc": "PIN",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: P131017390 PUMP - fuel injection."
+}

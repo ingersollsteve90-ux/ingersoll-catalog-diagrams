@@ -1,0 +1,250 @@
+{
+ "sectionTitle": "Steering",
+ "breadcrumb": "Steering",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 14.08,
+   "y": 17.76,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 49.19,
+   "y": 51.04,
+   "partNo": "C37840",
+   "desc": "BRACKET - lever lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 63.13,
+   "y": 42.33,
+   "partNo": "C37841",
+   "desc": "LATCH - lever lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 30.67,
+   "y": 61.71,
+   "partNo": "C42895",
+   "desc": "BUSHING - steering cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 15.5,
+   "y": 45.76,
+   "partNo": "C37842",
+   "desc": "BLOCK - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 36.77,
+   "y": 5.43,
+   "partNo": "C44915",
+   "desc": "LEVER - steering",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 12.45,
+   "y": 39.69,
+   "partNo": "111-114",
+   "desc": "BOLT - 1/4\" - 20 x 1-1/2\" carriage",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 8.99,
+   "y": 48.11,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 21.41,
+   "y": 71.7,
+   "partNo": "C37713",
+   "desc": "BRACKET - steering cable end",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 56.21,
+   "y": 74.64,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "10",
+   "x": 75.54,
+   "y": 52.12,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "10",
+   "x": 16.52,
+   "y": 54.86,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "11",
+   "x": 6.75,
+   "y": 79.92,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 64.35,
+   "y": 77.47,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 42.47,
+   "y": 90.2,
+   "partNo": "C37718",
+   "desc": "CLAMP - cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 54.58,
+   "y": 48.01,
+   "partNo": "C37837",
+   "desc": "SPRING - lever lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 28.63,
+   "y": 83.35,
+   "partNo": "C42359",
+   "desc": "BOLT - 1/4\" - 20 x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 32.29,
+   "y": 93.33,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "15",
+   "x": 67.81,
+   "y": 69.94,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "15",
+   "x": 93.55,
+   "y": 74.64,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "16",
+   "x": 34.33,
+   "y": 79.53,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 52.44,
+   "y": 83.35,
+   "partNo": "C43180",
+   "desc": "CABLE - steering",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 27.41,
+   "y": 71.89,
+   "partNo": "193-1001",
+   "desc": "NUT - 1/4\" - 28\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 6.75,
+   "y": 56.72,
+   "partNo": "193-1001",
+   "desc": "NUT - 1/4\" - 28\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 93.55,
+   "y": 81.29,
+   "partNo": "C33218",
+   "desc": "CLAMP",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 72.29,
+   "y": 88.83,
+   "partNo": "C45387",
+   "desc": "STOP - brake lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 93.15,
+   "y": 95.0,
+   "partNo": "113-1",
+   "desc": "BOLT- 1/4\" - 20 x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 90.09,
+   "y": 64.85,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 13.06,
+   "y": 72.68,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 18.35,
+   "y": 76.98,
+   "partNo": "195-520",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

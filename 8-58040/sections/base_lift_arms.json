@@ -1,0 +1,266 @@
+{
+ "sectionTitle": "Base and Lift Arms",
+ "breadcrumb": "Base and Lift Arms",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/base_lift_arms.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 45.11,
+   "y": 6.35,
+   "partNo": "C45207",
+   "desc": "BASE",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 71.11,
+   "y": 64.17,
+   "partNo": "C37600",
+   "desc": "BAR - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 49.71,
+   "y": 74.98,
+   "partNo": "C37578",
+   "desc": "PIN - lift bar",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 38.27,
+   "y": 74.98,
+   "partNo": "C37577",
+   "desc": "TUBE - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 21.08,
+   "y": 54.83,
+   "partNo": "195-106",
+   "desc": "WASHER - .56\" x 1.38\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 92.51,
+   "y": 49.96,
+   "partNo": "195-106",
+   "desc": "WASHER - .56\" x 1.38\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 69.84,
+   "y": 53.95,
+   "partNo": "195-106",
+   "desc": "WASHER - .56\" x 1.38\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 34.85,
+   "y": 90.26,
+   "partNo": "195-106",
+   "desc": "WASHER - .56\" x 1.38\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 68.08,
+   "y": 13.65,
+   "partNo": "195-106",
+   "desc": "WASHER - .56\" x 1.38\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 97.0,
+   "y": 40.23,
+   "partNo": "132-310",
+   "desc": "PIN - cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 27.23,
+   "y": 96.11,
+   "partNo": "132-310",
+   "desc": "PIN - cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 48.73,
+   "y": 64.37,
+   "partNo": "C37815",
+   "desc": "SPRING - deck lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 62.7,
+   "y": 43.44,
+   "partNo": "C38996",
+   "desc": "ARM - deck lift, rear L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 49.61,
+   "y": 51.23,
+   "partNo": "C39006",
+   "desc": "ARM - deck lift, rear R.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 44.33,
+   "y": 62.32,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\"-13 x1-1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 57.72,
+   "y": 56.39,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\"-13 x1-1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 5.25,
+   "y": 56.09,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\"-13 x1-1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 81.17,
+   "y": 11.51,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\"-13 x1-1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 64.17,
+   "y": 15.79,
+   "partNo": "C37576",
+   "desc": "BUSHING - .38\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 24.98,
+   "y": 51.13,
+   "partNo": "C37576",
+   "desc": "BUSHING - .38\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 72.08,
+   "y": 11.12,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 36.12,
+   "y": 62.71,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 15.21,
+   "y": 57.85,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 66.61,
+   "y": 55.8,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 73.36,
+   "y": 31.47,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 12.48,
+   "y": 81.31,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 42.18,
+   "y": 85.01,
+   "partNo": "C37573",
+   "desc": "ARM - deck lift, front R.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 89.87,
+   "y": 57.85,
+   "partNo": "C37574",
+   "desc": "ARM - deck lift, front, L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 89.09,
+   "y": 39.74,
+   "partNo": "113-241",
+   "desc": "BOLT - 3/8\" - 16 x 3\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 21.96,
+   "y": 86.76,
+   "partNo": "113-241",
+   "desc": "BOLT - 3/8\" - 16 x 3\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 79.9,
+   "y": 34.68,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 16.78,
+   "y": 84.72,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

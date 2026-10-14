@@ -1,0 +1,194 @@
+{
+ "sectionTitle": "Fuel System (Engine)",
+ "breadcrumb": "Fuel System (Engine)",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/fuel_system_engine.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 94.29,
+   "y": 68.91,
+   "partNo": "C45468",
+   "desc": "BRACKET - fuel filter mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 94.39,
+   "y": 30.38,
+   "partNo": "P011310816",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 71.83,
+   "y": 27.0,
+   "partNo": "C45470",
+   "desc": "HOSE - fuel (pump to filter) 5.5\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 56.02,
+   "y": 14.91,
+   "partNo": "P198346020",
+   "desc": "CLAMP-hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 83.11,
+   "y": 15.28,
+   "partNo": "P198346020",
+   "desc": "CLAMP-hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 68.2,
+   "y": 47.53,
+   "partNo": "P198346020",
+   "desc": "CLAMP-hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 48.87,
+   "y": 72.85,
+   "partNo": "P198346020",
+   "desc": "CLAMP-hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 57.63,
+   "y": 63.66,
+   "partNo": "C42988",
+   "desc": "HOSE - filter to injection pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 28.52,
+   "y": 35.35,
+   "partNo": "P130306041",
+   "desc": "FILTER ASSEMBLY - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 29.93,
+   "y": 19.03,
+   "partNo": "NSS",
+   "desc": "HEAD",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 13.92,
+   "y": 38.35,
+   "partNo": "C43597",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 14.02,
+   "y": 45.56,
+   "partNo": "C43444",
+   "desc": "ELEMENT - fuel filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 24.4,
+   "y": 40.13,
+   "partNo": "P130336031",
+   "desc": "CONTAINER",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 20.17,
+   "y": 81.56,
+   "partNo": "P130446090",
+   "desc": "RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 4.86,
+   "y": 20.16,
+   "partNo": "P130446080",
+   "desc": "PLUG",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 11.1,
+   "y": 11.16,
+   "partNo": "P130326120",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 4.86,
+   "y": 48.1,
+   "partNo": "113-111",
+   "desc": "BOLT - 5/16\" - 18 x 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 46.45,
+   "y": 49.5,
+   "partNo": "C43604",
+   "desc": "PUMP - fuel (repairs below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 51.08,
+   "y": 61.78,
+   "partNo": "P130996070",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 65.69,
+   "y": 33.1,
+   "partNo": "P011140616",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 45.75,
+   "y": 32.25,
+   "partNo": "P198486840",
+   "desc": "CONNECTOR",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 8.89,
+   "y": 46.41,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 3.65,
+   "y": 28.97,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

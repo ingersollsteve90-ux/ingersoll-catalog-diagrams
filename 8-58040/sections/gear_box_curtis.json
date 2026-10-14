@@ -1,0 +1,266 @@
+{
+ "sectionTitle": "Gear Box (Curtis)",
+ "breadcrumb": "Gear Box (Curtis)",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/gear_box_curtis.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 44.9,
+   "y": 93.04,
+   "partNo": "C37959",
+   "desc": "HOUSING - half",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 66.22,
+   "y": 20.9,
+   "partNo": "C37959",
+   "desc": "HOUSING - half",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 84.05,
+   "y": 22.47,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 24.19,
+   "y": 30.74,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 72.8,
+   "y": 30.84,
+   "partNo": "C37960",
+   "desc": "SHAFT - input",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 10.14,
+   "y": 44.22,
+   "partNo": "C37961",
+   "desc": "BEARING - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 43.61,
+   "y": 12.14,
+   "partNo": "221-84",
+   "desc": "BUSHING - pipe 1/4\" x 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 44.31,
+   "y": 42.65,
+   "partNo": "C37963",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 4.46,
+   "y": 41.47,
+   "partNo": "C37963",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 37.83,
+   "y": 35.17,
+   "partNo": "C37964",
+   "desc": "GEAR - output shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 20.1,
+   "y": 70.11,
+   "partNo": "C37965",
+   "desc": "SHAFT - output",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 80.27,
+   "y": 55.15,
+   "partNo": "C37966",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 57.46,
+   "y": 39.79,
+   "partNo": "C37966",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 20.2,
+   "y": 32.9,
+   "partNo": "C37966",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 24.09,
+   "y": 13.61,
+   "partNo": "C37967",
+   "desc": "LOCKWASHER",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 69.81,
+   "y": 13.12,
+   "partNo": "C37967",
+   "desc": "LOCKWASHER",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 24.19,
+   "y": 25.52,
+   "partNo": "C37967",
+   "desc": "LOCKWASHER",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 20.6,
+   "y": 85.86,
+   "partNo": "C37967",
+   "desc": "LOCKWASHER",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 39.73,
+   "y": 90.68,
+   "partNo": "C37967",
+   "desc": "LOCKWASHER",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 73.09,
+   "y": 82.22,
+   "partNo": "C37967",
+   "desc": "LOCKWASHER",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 70.01,
+   "y": 92.75,
+   "partNo": "C37968",
+   "desc": "CAP SCREW - allen head",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 29.37,
+   "y": 95.31,
+   "partNo": "C37968",
+   "desc": "CAP SCREW - allen head",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 24.39,
+   "y": 21.09,
+   "partNo": "C37968",
+   "desc": "CAP SCREW - allen head",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 24.58,
+   "y": 7.9,
+   "partNo": "C37968",
+   "desc": "CAP SCREW - allen head",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 69.61,
+   "y": 8.2,
+   "partNo": "C37968",
+   "desc": "CAP SCREW - allen head",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 57.85,
+   "y": 95.8,
+   "partNo": "219-23",
+   "desc": "FITTING - grease 1/4\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 14.82,
+   "y": 40.29,
+   "partNo": "C37969",
+   "desc": "SEAL - shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 51.88,
+   "y": 42.85,
+   "partNo": "C37969",
+   "desc": "SEAL - shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 67.62,
+   "y": 59.87,
+   "partNo": "C37970",
+   "desc": "GEAR - input shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 95.91,
+   "y": 39.3,
+   "partNo": "C37971",
+   "desc": "PLUG - expansion",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 44.21,
+   "y": 7.02,
+   "partNo": "221-441",
+   "desc": "ELBOW - Street 1/8\" x 900",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 58.45,
+   "y": 4.06,
+   "partNo": "C28241",
+   "desc": "VALVE - relief",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C44917 GEARBOX; C37975 GREASE - synthetic, cartridge."
+}

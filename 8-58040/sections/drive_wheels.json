@@ -1,0 +1,141 @@
+{
+ "sectionTitle": "Drive Wheels",
+ "breadcrumb": "Drive Wheels",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/drive_wheels.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 65.77,
+   "y": 59.93,
+   "partNo": "C45277",
+   "desc": "MOUNT - caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 84.22,
+   "y": 40.52,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C45485",
+     "desc": "BRAKE - caliper L.H",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H",
+     "partNo": "C45486",
+     "desc": "BRAKE - caliper R.H",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 89.69,
+   "y": 69.53,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 94.15,
+   "y": 51.58,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 90.2,
+   "y": 44.99,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 40.74,
+   "y": 21.61,
+   "partNo": "C37611",
+   "desc": "DISC - brake",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 54.93,
+   "y": 18.21,
+   "partNo": "C45274",
+   "desc": "AXLE - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 79.96,
+   "y": 7.54,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\" (axle mounting)",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 80.57,
+   "y": 21.8,
+   "partNo": "131-930",
+   "desc": "NUT - 1/2\" - 13 flange lock (axle mounting)",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 58.68,
+   "y": 68.27,
+   "partNo": "C44847",
+   "desc": "HUB - mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 28.78,
+   "y": 92.62,
+   "partNo": "132-337",
+   "desc": "PIN - cotter 1/8\" x 1-3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 11.65,
+   "y": 80.59,
+   "partNo": "C37628",
+   "desc": "NUT - hub",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 8.71,
+   "y": 40.04,
+   "partNo": "NSS",
+   "desc": "WHEEL ASSEMBLY - 20 x 10-10",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 5.37,
+   "y": 68.07,
+   "partNo": "C44848",
+   "desc": "BOLT - lug 1/2\" - 20 x 1\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "15",
+   "x": 71.95,
+   "y": 68.46,
+   "partNo": "C37627",
+   "desc": "PUCKS - brake (1 pair)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C44850 RIM."
+}

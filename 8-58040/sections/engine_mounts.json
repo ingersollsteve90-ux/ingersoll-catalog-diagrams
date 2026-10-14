@@ -1,0 +1,50 @@
+{
+ "sectionTitle": "Engine Mounts",
+ "breadcrumb": "Engine Mounts",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/engine_mounts.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 42.71,
+   "y": 89.58,
+   "partNo": "C45303",
+   "desc": "BRACKET - engine mount",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 14.8,
+   "y": 64.97,
+   "partNo": "814-10025",
+   "desc": "BOLT - M10 x 1.5 x 25",
+   "reqd": "16"
+  },
+  {
+   "ref": "3",
+   "x": 30.32,
+   "y": 48.47,
+   "partNo": "192-22",
+   "desc": "LOCKWASHER - 7/16\"",
+   "reqd": "16"
+  },
+  {
+   "ref": "4",
+   "x": 84.37,
+   "y": 9.91,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 40.94,
+   "y": 31.48,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": ""
+}

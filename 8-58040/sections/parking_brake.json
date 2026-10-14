@@ -1,0 +1,226 @@
+{
+ "sectionTitle": "Parking Brake",
+ "breadcrumb": "Parking Brake",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/parking_brake.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 12.95,
+   "y": 33.46,
+   "partNo": "C45370",
+   "desc": "LEVER - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 22.59,
+   "y": 49.43,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 65.23,
+   "y": 24.15,
+   "partNo": "C45387",
+   "desc": "STOP - lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 60.35,
+   "y": 21.31,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 57.51,
+   "y": 6.81,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 72.13,
+   "y": 27.29,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 62.69,
+   "y": 40.32,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 32.74,
+   "y": 8.87,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 57.11,
+   "y": 14.26,
+   "partNo": "C45432",
+   "desc": "ARM - actuator",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 40.36,
+   "y": 59.23,
+   "partNo": "C45375",
+   "desc": "ROD - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 61.88,
+   "y": 74.71,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 38.22,
+   "y": 27.97,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 5.23,
+   "y": 17.98,
+   "partNo": "111-111",
+   "desc": "BOLT - 1/4\" - 20 x 1\" carriage",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 68.48,
+   "y": 85.98,
+   "partNo": "C45324",
+   "desc": "SHAFT - cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 89.18,
+   "y": 55.11,
+   "partNo": "187-1036",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\" flange",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 72.13,
+   "y": 61.38,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 28.89,
+   "y": 92.44,
+   "partNo": "C45503",
+   "desc": "BAR - brake link",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 33.35,
+   "y": 89.5,
+   "partNo": "195-525",
+   "desc": "WASHER - .40\" x .81\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 36.5,
+   "y": 71.97,
+   "partNo": "132-321",
+   "desc": "PIN - cotter 1/8\" -1",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 18.53,
+   "y": 74.9,
+   "partNo": "C42895",
+   "desc": "BUSHING",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 5.54,
+   "y": 84.21,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 20.05,
+   "y": 89.41,
+   "partNo": "195-102",
+   "desc": "WASHER - .31\" x .75\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 24.11,
+   "y": 70.59,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 15.79,
+   "y": 4.95,
+   "partNo": "113-118",
+   "desc": "BOLT - 5/16\" - 18 x 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 14.67,
+   "y": 11.61,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 57.11,
+   "y": 70.1,
+   "partNo": "C45501",
+   "desc": "CLEVIS - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 55.99,
+   "y": 63.44,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 18 flange lock",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

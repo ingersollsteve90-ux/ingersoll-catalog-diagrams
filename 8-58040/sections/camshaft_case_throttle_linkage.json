@@ -1,0 +1,314 @@
+{
+ "sectionTitle": "Camshaft Case and Throttle Linkage",
+ "breadcrumb": "Camshaft Case and Throttle Linkage",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/camshaft_case_throttle_linkage.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 97.85,
+   "y": 55.82,
+   "partNo": "P125046140",
+   "desc": "LEVER ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 73.72,
+   "y": 56.99,
+   "partNo": "NSS",
+   "desc": "LEVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 75.2,
+   "y": 63.64,
+   "partNo": "P036800008",
+   "desc": "CIRCLIP",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 61.8,
+   "y": 69.79,
+   "partNo": "P026200010",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 62.69,
+   "y": 50.44,
+   "partNo": "P125406071",
+   "desc": "LEVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 85.34,
+   "y": 31.98,
+   "partNo": "NSS",
+   "desc": "LINK",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 64.66,
+   "y": 56.01,
+   "partNo": "NSS",
+   "desc": "PIN",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 48.71,
+   "y": 43.31,
+   "partNo": "P198217110",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 89.38,
+   "y": 18.29,
+   "partNo": "P031100004",
+   "desc": "PIN",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 69.19,
+   "y": 16.44,
+   "partNo": "P198216731",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 57.47,
+   "y": 31.58,
+   "partNo": "P125156170",
+   "desc": "ARM",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 48.71,
+   "y": 32.07,
+   "partNo": "P052100070",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 45.06,
+   "y": 29.53,
+   "partNo": "P036800008",
+   "desc": "CIRCLIP",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 35.81,
+   "y": 13.6,
+   "partNo": "P125416020",
+   "desc": "LEVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 38.37,
+   "y": 17.61,
+   "partNo": "P010110630",
+   "desc": "SCREW",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 31.57,
+   "y": 33.54,
+   "partNo": "P023100006",
+   "desc": "NUT",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 17.49,
+   "y": 52.59,
+   "partNo": "P125116130",
+   "desc": "SHAFT",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 14.73,
+   "y": 50.54,
+   "partNo": "P052100030",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 11.78,
+   "y": 48.59,
+   "partNo": "P036800005",
+   "desc": "CIRCLIP",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 14.83,
+   "y": 39.3,
+   "partNo": "P125976120",
+   "desc": "STAY",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 12.76,
+   "y": 24.84,
+   "partNo": "P011300616",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 5.28,
+   "y": 51.42,
+   "partNo": "P010109264",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 9.22,
+   "y": 46.24,
+   "partNo": "P023100006",
+   "desc": "NUT",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 17.49,
+   "y": 27.28,
+   "partNo": "P125176080",
+   "desc": "LEVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 30.0,
+   "y": 36.67,
+   "partNo": "P198216760",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 27.14,
+   "y": 28.16,
+   "partNo": "P026200008",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 26.45,
+   "y": 25.13,
+   "partNo": "P020300008",
+   "desc": "NUT",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 16.9,
+   "y": 22.4,
+   "partNo": "P020300008",
+   "desc": "NUT",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 45.75,
+   "y": 95.79,
+   "partNo": "P125156180",
+   "desc": "ARM",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 41.52,
+   "y": 84.65,
+   "partNo": "P052100050",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 43.19,
+   "y": 88.26,
+   "partNo": "P036800006",
+   "desc": "CIPCLIP",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 18.18,
+   "y": 44.39,
+   "partNo": "P165206360",
+   "desc": "PLATE",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 10.99,
+   "y": 64.91,
+   "partNo": "P165996420",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 7.84,
+   "y": 67.15,
+   "partNo": "P010110850",
+   "desc": "SCREW",
+   "reqd": "4"
+  },
+  {
+   "ref": "40",
+   "x": 6.06,
+   "y": 86.01,
+   "partNo": "P023100008",
+   "desc": "NUT",
+   "reqd": "4"
+  },
+  {
+   "ref": "41",
+   "x": 17.19,
+   "y": 60.31,
+   "partNo": "P185206082",
+   "desc": "SOLENOID - fuel shut off",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 48.31,
+   "y": 4.03,
+   "partNo": "P185206082",
+   "desc": "SOLENOID - fuel shut off",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 43.29,
+   "y": 11.55,
+   "partNo": "P025100016",
+   "desc": "WASHER",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

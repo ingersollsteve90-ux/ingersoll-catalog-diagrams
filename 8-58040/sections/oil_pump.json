@@ -1,0 +1,129 @@
+{
+ "sectionTitle": "Oil Pump",
+ "breadcrumb": "Oil Pump",
+ "catalogLabel": "Catalog 8-58040",
+ "modelNumbers": "Catalog 8-58040 — Ingersoll Model 5118D Front Cut Tractor (Diesel)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-58040/oil_pump.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 27.5,
+   "y": 38.22,
+   "partNo": "P165026110",
+   "desc": "GEAR ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 36.52,
+   "y": 57.51,
+   "partNo": "P198216821",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 4.7,
+   "y": 62.16,
+   "partNo": "P140166130",
+   "desc": "ROTOR",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 68.45,
+   "y": 73.85,
+   "partNo": "P140116140",
+   "desc": "COVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 61.66,
+   "y": 74.8,
+   "variants": [
+    {
+     "serialNote": "0.10mm",
+     "partNo": "P199286150",
+     "desc": "SHIM - 0.10mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.15mm",
+     "partNo": "P199286160",
+     "desc": "SHIM - 0.15mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.20mm",
+     "partNo": "P199286170",
+     "desc": "SHIM - 0.20mm",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "0.50mm",
+     "partNo": "P199286180",
+     "desc": "SHIM - 0.50mm",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 40.07,
+   "y": 86.01,
+   "partNo": "P198216720",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 30.44,
+   "y": 93.05,
+   "partNo": "P199236540",
+   "desc": "COLLAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 23.75,
+   "y": 95.71,
+   "partNo": "P036800010",
+   "desc": "CIRCLIP",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 53.55,
+   "y": 30.8,
+   "partNo": "P199266180",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 41.08,
+   "y": 4.2,
+   "partNo": "P140036120",
+   "desc": "VALVE",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 51.22,
+   "y": 11.13,
+   "partNo": "P052100150",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 80.4,
+   "y": 77.84,
+   "partNo": "P140186010",
+   "desc": "KIT - repair",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}
