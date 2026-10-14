@@ -1,0 +1,144 @@
+{
+ "sectionTitle": "Lift Lever (5016 S/N 14178249 and after, 5018 S/N 14175540 and after)",
+ "breadcrumb": "Lift Lever (5016 S/N 14178249 and after, 5018 S/N 14175540 and after)",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/lift_lever.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 42.5,
+   "y": 85.3,
+   "partNo": "C44942",
+   "desc": "LEVER - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 95.5,
+   "y": 23,
+   "partNo": "C44948",
+   "desc": "PIVOT - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 13,
+   "y": 42.3,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 22.8,
+   "y": 25.3,
+   "partNo": "C44949",
+   "desc": "EXTENSION - lift lever, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 41,
+   "y": 24,
+   "partNo": "C42895",
+   "desc": "BUSHING",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 4.3,
+   "y": 82.5,
+   "partNo": "C44952",
+   "desc": "BRACKET - lever lock down",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 92.7,
+   "y": 7.4,
+   "partNo": "111-132",
+   "desc": "BOLT - carriage 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 51.9,
+   "y": 44.2,
+   "variants": [
+    {
+     "serialNote": "5/8\" allen head",
+     "partNo": "C42056",
+     "desc": "SCREW - 5/16\" - 18 x 5/8\" allen head",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "3/4\"",
+     "partNo": "C44959",
+     "desc": "SCREW - 5/16\" - 18 x 3/4\"",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 12.2,
+   "y": 64.2,
+   "variants": [
+    {
+     "serialNote": "5/8\" allen head",
+     "partNo": "C42056",
+     "desc": "SCREW - 5/16\" - 18 x 5/8\" allen head",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "3/4\"",
+     "partNo": "C44959",
+     "desc": "SCREW - 5/16\" - 18 x 3/4\"",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 52.8,
+   "y": 80.9,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 94.9,
+   "y": 33.5,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 12.4,
+   "y": 92.8,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 38.3,
+   "y": 45.6,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 77.7,
+   "y": 20,
+   "partNo": "C45120",
+   "desc": "SPRING - torsion",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Lift lever applies to 5016 S/N 14178249 and after, and 5018 S/N 14175540 and after."
+}

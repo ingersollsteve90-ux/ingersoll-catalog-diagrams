@@ -1,0 +1,88 @@
+{
+ "sectionTitle": "Baffles and Shrouds (5018)",
+ "breadcrumb": "Baffles and Shrouds (5018)",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/baffles_shrouds_5018.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 86.4,
+   "y": 23.5,
+   "variants": [
+    {
+     "serialNote": "Before engine S/N 1835500016",
+     "partNo": "C43463",
+     "desc": "DUCT - air, #1 side (use before engine serial no. 1835500016)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "After engine S/N 1835500006",
+     "partNo": "C43464",
+     "desc": "DUCT - air, #1 side (use after engine serial no. 1835500006)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 60.2,
+   "y": 6,
+   "partNo": "C43589",
+   "desc": "COVER - air duct",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 15.7,
+   "y": 13.7,
+   "partNo": "C43590",
+   "desc": "DUCT - air, #2 side",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 95.3,
+   "y": 45.8,
+   "variants": [
+    {
+     "serialNote": "Before engine S/N 1835500016",
+     "partNo": "C43465",
+     "desc": "BAFFLE - #1 cylinder head (use before engine serial no. 1835500016)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "After engine S/N 1835500006",
+     "partNo": "C43466",
+     "desc": "BAFFLE - #1 cylinder head (use after engine serial no. 1835500006)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 29.2,
+   "y": 72.1,
+   "partNo": "C43452",
+   "desc": "SCREW - 1/4\" - 20 x 7/16\" self-tap",
+   "reqd": "23"
+  },
+  {
+   "ref": "6",
+   "x": 5,
+   "y": 61.9,
+   "partNo": "C43467",
+   "desc": "BAFFLE - #2 cylinder head",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 37.2,
+   "y": 58.1,
+   "partNo": "C43468",
+   "desc": "HOUSING - blower",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

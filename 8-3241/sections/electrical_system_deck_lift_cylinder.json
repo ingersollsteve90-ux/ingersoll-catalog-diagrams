@@ -1,0 +1,75 @@
+{
+ "sectionTitle": "Electrical System (Deck Lift) - Cylinder Style",
+ "breadcrumb": "Electrical System (Deck Lift) - Cylinder Style",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/electrical_system_deck_lift_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 26.5,
+   "y": 87.4,
+   "partNo": "C45705",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 28.8,
+   "y": 14.3,
+   "partNo": "C45775",
+   "desc": "SWITCH",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 22.2,
+   "y": 13.3,
+   "partNo": "C45780",
+   "desc": "NUT - 15/32\" - 32 with boot (switch mounting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 16.5,
+   "y": 75.1,
+   "variants": [
+    {
+     "serialNote": "Fuse holder",
+     "partNo": "C30261",
+     "desc": "HOLDER - fuse",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Fuse",
+     "partNo": "C30260",
+     "desc": "FUSE - 30 amp",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 62.7,
+   "y": 47.8,
+   "partNo": "C24813",
+   "desc": "CONNECTOR - wire harness",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 68.6,
+   "y": 49,
+   "partNo": "C31948",
+   "desc": "CONNECTOR - lift actuator",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "partNo": "C44495",
+   "desc": "DECAL - lift switch",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Ref 4 (lift switch decal) is listed but not called out on the diagram."
+}

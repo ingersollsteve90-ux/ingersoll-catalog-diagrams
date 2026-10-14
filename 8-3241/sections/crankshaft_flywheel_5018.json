@@ -1,0 +1,123 @@
+{
+ "sectionTitle": "Crankshaft and Flywheel (5018)",
+ "breadcrumb": "Crankshaft and Flywheel (5018)",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/crankshaft_flywheel_5018.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 56.8,
+   "y": 35.3,
+   "partNo": "C43543",
+   "desc": "FLYWHEEL",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 52.9,
+   "y": 57.6,
+   "partNo": "C32917",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 56.5,
+   "y": 60.6,
+   "partNo": "28-620",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 62.1,
+   "y": 46.9,
+   "partNo": "C43544",
+   "desc": "KEY - 3/16\" square, 7/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 59.6,
+   "y": 75.3,
+   "partNo": "C32920",
+   "desc": "FAN",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 76.9,
+   "y": 61.8,
+   "partNo": "C32919",
+   "desc": "SPACER",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 72.4,
+   "y": 75.3,
+   "partNo": "121-21",
+   "desc": "SCREW - 1/4\" - 20 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 87.7,
+   "y": 94.4,
+   "partNo": "C43545",
+   "desc": "SCREEN - grass",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 83.5,
+   "y": 85.3,
+   "partNo": "C43546",
+   "desc": "SCREW - 3/8\" - 16 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 78,
+   "y": 82,
+   "partNo": "KO235945",
+   "desc": "SHAFT - stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 33.5,
+   "y": 20.7,
+   "partNo": "C43524",
+   "desc": "CRANKSHAFT - 1\" x 2-3/4\" stub end",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 10.9,
+   "y": 6,
+   "variants": [
+    {
+     "serialNote": ".119\"/.122\"",
+     "partNo": "C43525",
+     "desc": "WASHER - thrust .119\"/.122\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": ".128\"/.131\"",
+     "partNo": "C43526",
+     "desc": "WASHER - thrust .128\"/.131\"",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".137\"/.140\"",
+     "partNo": "C43527",
+     "desc": "WASHER - thrust .137\"/.140\"",
+     "reqd": "UAR"
+    }
+   ]
+  }
+ ],
+ "footnotes": ""
+}

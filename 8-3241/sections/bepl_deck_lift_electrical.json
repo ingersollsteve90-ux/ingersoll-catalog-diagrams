@@ -1,0 +1,213 @@
+{
+ "sectionTitle": "BEPL Electric Deck Lift - Electrical Assembly",
+ "breadcrumb": "BEPL Electric Deck Lift - Electrical Assembly",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/bepl_deck_lift_electrical.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 40.5,
+   "y": 31.7,
+   "partNo": "C33024",
+   "desc": "SOLENOID - 12V",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 95.8,
+   "y": 60.8,
+   "partNo": "C33024",
+   "desc": "SOLENOID - 12V",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 39.6,
+   "y": 8.8,
+   "partNo": "C43966",
+   "desc": "STRAP",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 69.9,
+   "y": 85.5,
+   "partNo": "C43966",
+   "desc": "STRAP",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 59.9,
+   "y": 21.3,
+   "partNo": "C43983",
+   "desc": "BREAKER - 40 amp, 12V",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 88.2,
+   "y": 60.7,
+   "partNo": "C43983",
+   "desc": "BREAKER - 40 amp, 12V",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 60.0,
+   "y": 10.7,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 50.9,
+   "y": 69.0,
+   "partNo": "C43969",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 52.5,
+   "y": 2.4,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 52.9,
+   "y": 7.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 55.1,
+   "y": 39.1,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 40.8,
+   "y": 21.2,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 42.0,
+   "y": 5.9,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 56.8,
+   "y": 30.6,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 87.3,
+   "y": 28.9,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange",
+   "reqd": "10"
+  },
+  {
+   "ref": "10",
+   "x": 71.8,
+   "y": 39.5,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 84.0,
+   "y": 35.0,
+   "partNo": "C43965",
+   "desc": "BRACKET - switch",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 79.3,
+   "y": 13.1,
+   "partNo": "C33744",
+   "desc": "SWITCH - limit",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 79.8,
+   "y": 49.3,
+   "partNo": "C33744",
+   "desc": "SWITCH - limit",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 29.9,
+   "y": 20.7,
+   "partNo": "C43985",
+   "desc": "SWITCH - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 55.4,
+   "y": 92.7,
+   "partNo": "C43985",
+   "desc": "SWITCH - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 17.1,
+   "y": 9.1,
+   "variants": [
+    {
+     "serialNote": "Early production",
+     "partNo": "NSS",
+     "desc": "PLATE - switch identification (early production)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Current production",
+     "partNo": "C44495",
+     "desc": "DECAL - switch identification (current production)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 30.8,
+   "y": 5.8,
+   "partNo": "C44471",
+   "desc": "NUT - 15/32\" - 32, switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 25.3,
+   "y": 17.7,
+   "partNo": "195-529",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

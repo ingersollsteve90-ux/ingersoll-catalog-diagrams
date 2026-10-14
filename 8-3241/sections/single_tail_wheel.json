@@ -1,0 +1,126 @@
+{
+ "sectionTitle": "Single Tail Wheel",
+ "breadcrumb": "Single Tail Wheel",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/single_tail_wheel.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 70.3,
+   "y": 78.8,
+   "variants": [
+    {
+     "serialNote": "5012, 5016",
+     "partNo": "C38027",
+     "desc": "AXLE - wheel (5012, 5016)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "5018",
+     "partNo": "C37854",
+     "desc": "AXLE - wheel (5018)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 64.8,
+   "y": 66.9,
+   "variants": [
+    {
+     "serialNote": "5012, 5016",
+     "partNo": "C38028",
+     "desc": "WHEEL ASSEMBLY - tail (5012, 5016)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "5018",
+     "partNo": "C37855",
+     "desc": "WHEEL ASSEMBLY - tail (5018)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 68.5,
+   "y": 38.8,
+   "variants": [
+    {
+     "serialNote": "5012, 5016",
+     "partNo": "C39015",
+     "desc": "FORK - tail wheel (5012, 5016)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "5018",
+     "partNo": "C37859",
+     "desc": "FORK - tail wheel (5018)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 58.4,
+   "y": 10.2,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 58.4,
+   "y": 17.2,
+   "partNo": "C37861",
+   "desc": "SPACER - tail wheel fork",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 7.4,
+   "y": 47.6,
+   "variants": [
+    {
+     "serialNote": "5012, 5016",
+     "partNo": "C38055",
+     "desc": "BOLT - 1/2\" - 13 x 8-1/2\" (5012, 5016)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "5018",
+     "partNo": "113-452",
+     "desc": "BOLT - 1/2\" - 13 x 9-1/2\" (5018)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 38.9,
+   "y": 5.1,
+   "partNo": "85-58",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 86.6,
+   "y": 86.7,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 93.7,
+   "y": 94.5,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C42624 BEARING - wheel (5012, 5016); C38029 TIRE - 15 x 6.00 - 6 (5012, 5016); C38232 RIM - 6\" (5012, 5016) (includes bearings); C42624 BEARING - wheel (5018); C37857 TIRE - 15 x 6.50 - 8 (5018); C37858 RIM - 8\" (5018) (includes bearings); 219-92 FITTING - grease 90° 1/4\" - 28 self tap (caster pivot)."
+}

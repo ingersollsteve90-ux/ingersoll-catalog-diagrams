@@ -1,0 +1,105 @@
+{
+ "sectionTitle": "Piston, Rings and Connecting Rod (5018)",
+ "breadcrumb": "Piston, Rings and Connecting Rod (5018)",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/piston_rings_connecting_rod_5018.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 77.1,
+   "y": 46.5,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "C43566",
+     "desc": "ROD - connecting (std.)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".010\" undersize",
+     "partNo": "C43567",
+     "desc": "ROD - connecting (.010\" undersize)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 19,
+   "y": 65.1,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "C43568",
+     "desc": "PISTON AND RINGS (std)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".003\" oversize",
+     "partNo": "C43569",
+     "desc": "PISTON AND RINGS (.003\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".010\" oversize",
+     "partNo": "C43570",
+     "desc": "PISTON AND RINGS (.010\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".020\" oversize",
+     "partNo": "C43571",
+     "desc": "PISTON AND RINGS (.020\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".030\" oversize",
+     "partNo": "C43572",
+     "desc": "PISTON AND RINGS (.030\" oversize)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 53.9,
+   "y": 76.9,
+   "partNo": "C43573",
+   "desc": "RETAINER - piston pin",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 47.6,
+   "y": 37,
+   "variants": [
+    {
+     "serialNote": "Standard and .003\"",
+     "partNo": "C43574",
+     "desc": "RING SET - std. and .003\" undersize",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".010\"",
+     "partNo": "C43575",
+     "desc": "RING SET - .010\" undersize",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".020\"",
+     "partNo": "C43576",
+     "desc": "RING SET - .020\" undersize",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".030\"",
+     "partNo": "C43577",
+     "desc": "RING SET - .030\" undersize",
+     "reqd": "2"
+    }
+   ]
+  }
+ ],
+ "footnotes": ""
+}

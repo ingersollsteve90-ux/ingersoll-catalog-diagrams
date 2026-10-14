@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Electrical System (5016, 5018 S/N 14175541 and after)",
+ "breadcrumb": "Electrical System (5016, 5018 S/N 14175541 and after)",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/electrical_system_sn_14175541_after.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 58.9,
+   "y": 41.9,
+   "partNo": "C45539",
+   "desc": "HARNESS - wire, alternator and magneto",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 42.8,
+   "y": 55.4,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit, 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 22.8,
+   "y": 17.3,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 47.2,
+   "y": 4.6,
+   "partNo": "C31937",
+   "desc": "SWITCH - PTO (also use C31619 Cap)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 47.1,
+   "y": 21.4,
+   "partNo": "C43044",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 47,
+   "y": 35,
+   "partNo": "C30267",
+   "desc": "SWITCH - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 20.5,
+   "y": 28.7,
+   "partNo": "C29413",
+   "desc": "AMMETER",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 79,
+   "y": 20.6,
+   "partNo": "C42929",
+   "desc": "METER - hour",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 51,
+   "y": 16,
+   "partNo": "C45536",
+   "desc": "LIGHT - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 21.4,
+   "y": 94,
+   "partNo": "C45537",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 34,
+   "y": 83.1,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 38.9,
+   "y": 92.7,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 21.5,
+   "y": 69,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 60.3,
+   "y": 68,
+   "partNo": "C44261",
+   "desc": "WIRE - starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 23.4,
+   "y": 59.7,
+   "partNo": "C37511",
+   "desc": "CLUTCH - PTO",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 20.1,
+   "y": 75.2,
+   "partNo": "C37528",
+   "desc": "CABLE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 34.8,
+   "y": 25.5,
+   "partNo": "C44075",
+   "desc": "WIRE - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 61.7,
+   "y": 72.9,
+   "partNo": "C33024",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 37.8,
+   "y": 70.4,
+   "partNo": "C37523",
+   "desc": "CABLE - battery positive to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 53,
+   "y": 52.6,
+   "partNo": "C37531",
+   "desc": "SWITCH - oil light",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 18.6,
+   "y": 41.1,
+   "partNo": "C41643",
+   "desc": "WIRE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 63.3,
+   "y": 51.7,
+   "partNo": "C42240",
+   "desc": "HARNESS - oil pressure switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 50.2,
+   "y": 75.8,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 38.5,
+   "y": 75.4,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to 5016, 5018 S/N 14175541 and after.\nAlso listed, not shown on diagram: C45535 HARNESS - wire, main; C22573 LENS - headlight; C37508 BULB - headlight; C37509 RECEPTICAL; C14304 GASKET - headlight; C44469 NUT - 1/2\" - 27 (Black) PTO switch retaining; C32407 KEY - ignition; C32397 CAP - nut, ignition switch; 193-63 LOCKWASHER - 5/8\"; C32396 NUT - 5/8\" - 32 ignition switch; 182-525 SCREW - #10 - 32 x 3/8\" (safety switch mount); 192-18 LOCKWASHER - 3/16\" (safety switch mount); 193-1000 NUT - #10 - 32 Lock (safety switch mount); 182-528 SCREW - #10 - 32 x 1/2\" (safety switch mount); 113-3 BOLT - 1/4\" - 20 x 3/4\" (solenoid mounting); 131-934 NUT - 1/4\" - 20 (solenoid mounting); 192-19 LOCKWASHER - 1/4\" (solenoid studs); 129-101 NUT - 1/4\" - 20 (solenoid studs)."
+}

@@ -1,0 +1,349 @@
+{
+ "sectionTitle": "Wiring Diagram (5012 All; 5016, 5018 before S/N 14175541)",
+ "breadcrumb": "Wiring Diagram (5012 All; 5016, 5018 before S/N 14175541)",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/wiring_diagram_before_sn_14175541.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 66.3,
+   "y": 19.7,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit, 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 78.6,
+   "y": 3.8,
+   "partNo": "NSS",
+   "desc": "HEADLIGHT - (use C32178 and C44075)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 40.0,
+   "y": 3.5,
+   "partNo": "NSS",
+   "desc": "HEADLIGHT - (use C32178 and C44075)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 12.7,
+   "y": 22.3,
+   "partNo": "NSS",
+   "desc": "HEADLIGHT - (use C32178 and C44075)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 76.1,
+   "y": 27.5,
+   "partNo": "C37511",
+   "desc": "CLUTCH - PTO, electric",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 45.3,
+   "y": 18.0,
+   "partNo": "C31937",
+   "desc": "SWITCH - PTO (also see nut and cap below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 45.1,
+   "y": 22.3,
+   "partNo": "C37514",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 53.0,
+   "y": 67.2,
+   "partNo": "C37515",
+   "desc": "RELAY",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 50.5,
+   "y": 33.1,
+   "partNo": "C24145",
+   "desc": "SWITCH - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 38.4,
+   "y": 35.6,
+   "partNo": "C37517",
+   "desc": "AMMETER",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 61.2,
+   "y": 30.9,
+   "partNo": "C37518",
+   "desc": "METER - hour",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 56.7,
+   "y": 38.6,
+   "partNo": "C37519",
+   "desc": "LIGHT - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 39.0,
+   "y": 59.9,
+   "partNo": "C37520",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 68.8,
+   "y": 37.1,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety (enlarge mounting hole if required)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 72.6,
+   "y": 63.8,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety (enlarge mounting hole if required)",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 49.5,
+   "y": 84.4,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 69.3,
+   "y": 91.1,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 36.0,
+   "y": 75.6,
+   "partNo": "C37523",
+   "desc": "WIRE - starter",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 47.7,
+   "y": 88.3,
+   "partNo": "C37528",
+   "desc": "CABLE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 56.8,
+   "y": 5.1,
+   "variants": [
+    {
+     "serialNote": "Early production (female terminals)",
+     "partNo": "C37525",
+     "desc": "WIRE - headlight (with female terminals) early production",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "2 male spade terminals",
+     "partNo": "C44075",
+     "desc": "WIRE - headlight (with 2 male spade terminals)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 30.6,
+   "y": 77.5,
+   "partNo": "C37526",
+   "desc": "SOLENOID - starting",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 19.6,
+   "y": 80.3,
+   "partNo": "C37523",
+   "desc": "WIRE - battery positive to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 14.8,
+   "y": 42.7,
+   "partNo": "C37529",
+   "desc": "ACTUATOR - electric lift (model EDL) (for model BEPL see the BEPL Electric Deck Lift sections)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 9.3,
+   "y": 59.4,
+   "partNo": "C37530",
+   "desc": "SWITCH - deck lift (model EDL) (for model BEPL see the BEPL Electric Deck Lift sections)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 46.0,
+   "y": 55.9,
+   "partNo": "C37531",
+   "desc": "SWITCH - oil light",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 5.0,
+   "y": 16.4,
+   "partNo": "C37507",
+   "desc": "LENS - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 13.6,
+   "y": 16.0,
+   "partNo": "C37508",
+   "desc": "BULB - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 13.2,
+   "y": 18.8,
+   "partNo": "C37509",
+   "desc": "RECEPTICAL - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 8.3,
+   "y": 17.3,
+   "partNo": "C37510",
+   "desc": "GASKET - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 11.1,
+   "y": 8.1,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 18.4,
+   "y": 8.4,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 85.8,
+   "y": 82.1,
+   "partNo": "C37983",
+   "desc": "BRACKET - battery hold down",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 67.6,
+   "y": 84.7,
+   "partNo": "C38677",
+   "desc": "BOLT - 1/4\" - 20 x 7\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 67.8,
+   "y": 88.0,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 87.8,
+   "y": 84.0,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 90.9,
+   "y": 85.6,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "32",
+   "x": 94.1,
+   "y": 88.6,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "32",
+   "x": 93.2,
+   "y": 91.3,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "33",
+   "x": 82.9,
+   "y": 96.5,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 93.8,
+   "y": 94.8,
+   "partNo": "NSS",
+   "desc": "PROTECTOR - battery post (use C24069 rubber boot)",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 42.0,
+   "y": 61.7,
+   "partNo": "C41643",
+   "desc": "WIRE - ground",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to 5012 (all) and 5016, 5018 before S/N 14175541.\nAlso listed, not shown on diagram: C42241 HARNESS - wire; C44469 NUT - 1/2\" - 27 (PTO switch); C31619 CAP - PTO switch; 113-3 BOLT - 1/4\" - 20 x 3/4\" (relay mounting); 192-19 LOCKWASHER - 1/4\" (relay mounting); 121-101 NUT - 1/4\" - 20 (relay mounting); 193-63 WASHER - 5/8\" lock (ignition switch); C32396 NUT - 5/8\" - 32 (ignition switch); C32407 KEY - ignition (ignition switch); C32397 CAP - nut (ignition switch); 113-3 BOLT - 1/4\" - 20 x 3/4\" (solenoid and relay mounting); 192-19 LOCKWASHER - 1/4\" (solenoid and relay mounting); 129-101 NUT - 1/4\" - 20 (solenoid and relay mounting); 192-20 LOCKWASHER - 5/16\" (solenoid studs); 129-102 NUT - 5/16\" - 18 (solenoid studs); 192-18 LOCKWASHER - 3/16\" (solenoid studs); 129-37 NUT - #10 - 32 (solenoid studs); 129-6 NUT - #8 - 32 (solenoid studs)."
+}

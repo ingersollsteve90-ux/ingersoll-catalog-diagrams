@@ -1,0 +1,470 @@
+{
+ "sectionTitle": "Drive Assembly R.H. (5018)",
+ "breadcrumb": "Drive Assembly R.H. (5018)",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/drive_assembly_rh_5018.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 58.9,
+   "y": 67.4,
+   "partNo": "C37729",
+   "desc": "TRANSMISSION - ZT",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 35.1,
+   "y": 55.2,
+   "partNo": "C37730",
+   "desc": "BAND - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 38.1,
+   "y": 68.3,
+   "partNo": "C37731",
+   "desc": "DRUM - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34,
+   "y": 69.1,
+   "partNo": "C37732",
+   "desc": "RING - snap",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 26.2,
+   "y": 62.2,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 28.4,
+   "y": 51.7,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 21,
+   "y": 59.2,
+   "partNo": "C37733",
+   "desc": "ROD - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 15.7,
+   "y": 56.6,
+   "partNo": "C37724",
+   "desc": "COLLAR - brake rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 19.4,
+   "y": 45.3,
+   "partNo": "131-71",
+   "desc": "NUT - lock 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 5.8,
+   "y": 49.5,
+   "partNo": "131-71",
+   "desc": "NUT - lock 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 12.1,
+   "y": 54.2,
+   "partNo": "C37725",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 8.5,
+   "y": 52.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 54.1,
+   "y": 37.4,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 83.9,
+   "y": 38.9,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 59.3,
+   "y": 27.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "11",
+   "x": 55.3,
+   "y": 45.8,
+   "partNo": "C37736",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 49.4,
+   "y": 47.8,
+   "partNo": "C37737",
+   "desc": "RING - snap",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 58.4,
+   "y": 54.1,
+   "partNo": "C37738",
+   "desc": "GEAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 62.3,
+   "y": 52.2,
+   "partNo": "C37739",
+   "desc": "BEARING",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 65.9,
+   "y": 50.3,
+   "partNo": "C37740",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 3.9,
+   "y": 95.2,
+   "partNo": "C37657",
+   "desc": "NUT - lug 1/2\" - 20",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 69.8,
+   "y": 51.4,
+   "partNo": "C45399",
+   "desc": "PUMP - hydro R.H. (also use C45408 before S/N 14175499)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 76.6,
+   "y": 52.8,
+   "partNo": "C37742",
+   "desc": "LEVER - transmission dump (use before S/N 14175495) shown",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 86.5,
+   "y": 50.5,
+   "partNo": "C37743",
+   "desc": "BRACKET - dump lever stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 84,
+   "y": 53.5,
+   "partNo": "C37744",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 88.9,
+   "y": 47.4,
+   "partNo": "C37745",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 66.1,
+   "y": 29,
+   "partNo": "NSS",
+   "desc": "ARM - transmission (see C43293 Steering Cable Kit section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 88.4,
+   "y": 40,
+   "partNo": "C37747",
+   "desc": "BOLT - dump valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 78.2,
+   "y": 34.8,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 40.8,
+   "y": 48.7,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 38.1,
+   "y": 50.4,
+   "partNo": "129-103",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 27.9,
+   "y": 95.7,
+   "partNo": "C37763",
+   "desc": "WHEEL ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 81.4,
+   "y": 37.3,
+   "partNo": "113-120",
+   "desc": "BOLT - 5/16\" - 18 x 1-3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 75.3,
+   "y": 38.8,
+   "partNo": "113-134",
+   "desc": "BOLT - 5/16\" - 18 x 7-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 91,
+   "y": 44.9,
+   "partNo": "C37591",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 96.1,
+   "y": 41,
+   "partNo": "C37592",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 69.1,
+   "y": 31.6,
+   "partNo": "C37752",
+   "desc": "KEY - 5 x 5 x 25 mm",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 77.6,
+   "y": 30.2,
+   "variants": [
+    {
+     "serialNote": "Before S/N 14175513",
+     "partNo": "NSS",
+     "desc": "PULLEY - 4\" OD x 15 mm ID (use C45272)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 14175513 and after",
+     "partNo": "C45272",
+     "desc": "PULLEY - 4\" OD x 15 mm ID (also use C32199 set screw)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "33",
+   "x": 83,
+   "y": 21.8,
+   "partNo": "C37754",
+   "desc": "ADAPTER -",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 73,
+   "y": 21.2,
+   "partNo": "C37755",
+   "desc": "ADAPTER - 90°",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 57.1,
+   "y": 41.8,
+   "partNo": "C37756",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 60.4,
+   "y": 24.2,
+   "partNo": "C37757",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 64.7,
+   "y": 22.3,
+   "partNo": "131-1102",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "3"
+  },
+  {
+   "ref": "37",
+   "x": 44,
+   "y": 33,
+   "partNo": "131-1102",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "3"
+  },
+  {
+   "ref": "38",
+   "x": 49.5,
+   "y": 20.8,
+   "partNo": "C37616",
+   "desc": "CLAMP - cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 55.4,
+   "y": 23.3,
+   "partNo": "C37615",
+   "desc": "BUSHING - cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 50.6,
+   "y": 40.7,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 55.4,
+   "y": 29,
+   "partNo": "C37614",
+   "desc": "BRACKET - cable end",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 51.6,
+   "y": 34.3,
+   "partNo": "193-1000",
+   "desc": "NUT - lock #10 - 32",
+   "reqd": "4"
+  },
+  {
+   "ref": "43",
+   "x": 44.7,
+   "y": 20.8,
+   "partNo": "NSS",
+   "desc": "CABLE - steering 58\" (see C43293 Steering Cable Kit section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 63.3,
+   "y": 9.6,
+   "partNo": "C37761",
+   "desc": "BELT - pump drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 90.6,
+   "y": 23.3,
+   "partNo": "C45273",
+   "desc": "BOLT - M6 - 1.0 x 12m flange",
+   "reqd": "2"
+  },
+  {
+   "ref": "46",
+   "x": 84.7,
+   "y": 34.1,
+   "variants": [
+    {
+     "serialNote": "5/8\" x 1\"",
+     "partNo": "195-2063",
+     "desc": "WASHER - 5/8\" x 1\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "5/8\" x 1\" x .020\"",
+     "partNo": "C25178",
+     "desc": "WASHER - 5/8\" x 1\" x .020\"",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "47",
+   "x": 89.3,
+   "y": 29.1,
+   "partNo": "195-520",
+   "desc": "WASHER - 5/16\" x 7/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "partNo": "C45166",
+   "desc": "LEVER - transmission dump R.H. (use S/N 14175495 and after)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "See the C43293 Steering Cable Kit section for the steering cable kit.\nRef 48 (R.H. transmission dump lever, S/N 14175495 and after) is listed but not called out on the diagram; ref 18 is the earlier lever.\nAlso listed, not shown on diagram: C37652 TIRE - 18 x 9.50 - 8; C37656 RIM - wheel."
+}

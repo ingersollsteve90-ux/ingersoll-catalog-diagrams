@@ -1,0 +1,106 @@
+{
+ "sectionTitle": "Camshaft and Valve (5018)",
+ "breadcrumb": "Camshaft and Valve (5018)",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/camshaft_valve_5018.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 88.4,
+   "y": 7.2,
+   "partNo": "C43477",
+   "desc": "CAMSHAFT",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64,
+   "y": 23.5,
+   "partNo": "C43478",
+   "desc": "TAPPET",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 82.5,
+   "y": 41.6,
+   "partNo": "C43478",
+   "desc": "TAPPET",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 52.4,
+   "y": 36.3,
+   "partNo": "C24884",
+   "desc": "KIT - retainer",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 66.1,
+   "y": 53,
+   "partNo": "C24884",
+   "desc": "KIT - retainer",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 49,
+   "y": 71.6,
+   "partNo": "C43479",
+   "desc": "SPRING - intake valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 38.5,
+   "y": 80.9,
+   "partNo": "C43480",
+   "desc": "SEAL - intake valve stem",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 25.2,
+   "y": 91.1,
+   "partNo": "C43481",
+   "desc": "VALVE - intake",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 9.4,
+   "y": 70.6,
+   "partNo": "C43482",
+   "desc": "VALVE - exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 29.1,
+   "y": 50.5,
+   "partNo": "C43483",
+   "desc": "SPRING - exhaust valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 38.7,
+   "y": 43,
+   "partNo": "KO230020",
+   "desc": "ROTATOR - exhaust valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 59.6,
+   "y": 61.3,
+   "partNo": "C43484",
+   "desc": "RETAINER - intake valve spring",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

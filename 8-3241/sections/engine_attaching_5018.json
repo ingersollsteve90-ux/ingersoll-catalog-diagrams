@@ -1,0 +1,224 @@
+{
+ "sectionTitle": "Engine and Attaching Parts (5018) - Kohler",
+ "breadcrumb": "Engine and Attaching Parts (5018) - Kohler",
+ "catalogLabel": "Catalog 8-3241",
+ "modelNumbers": "Catalog 8-3241 — Ingersoll Model 5012, 5016 and 5018 Front Cut Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3241/engine_attaching_5018.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 81.4,
+   "y": 46.5,
+   "partNo": "C41676",
+   "desc": "ENGINE - Kohler Model M18QS, Spec. No. 24532 (18 hp)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 41.2,
+   "y": 48.9,
+   "partNo": "C42050",
+   "desc": "DUCT - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 84.6,
+   "y": 61.2,
+   "variants": [
+    {
+     "serialNote": "Before S/N 14175549",
+     "partNo": "C42055",
+     "desc": "CLAMP - pipe (use before S/N 14175549)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 14175549 and after",
+     "partNo": "C45755",
+     "desc": "CLAMP - muffler 1-1/2\" (use S/N 14175549 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 88.9,
+   "y": 68.0,
+   "partNo": "C45684",
+   "desc": "PIPE - rear exhaust (also use C45755 before S/N 14175549)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 29.2,
+   "y": 34.3,
+   "partNo": "121-21",
+   "desc": "BOLT - 1/4\" - 20 flange lock",
+   "reqd": "7"
+  },
+  {
+   "ref": "6",
+   "x": 81.8,
+   "y": 11.0,
+   "partNo": "C37536",
+   "desc": "BRACKET - wire standoff",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 67.6,
+   "y": 79.9,
+   "partNo": "C37563",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 80.8,
+   "y": 20.9,
+   "partNo": "C37538",
+   "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 88.6,
+   "y": 19.7,
+   "partNo": "C37564",
+   "desc": "PULLEY - drive (includes 83-46 set screw)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 78.4,
+   "y": 59.8,
+   "partNo": "C37540",
+   "desc": "RETAINER - starter wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 28.5,
+   "y": 25.8,
+   "partNo": "C37541",
+   "desc": "ELBOW - street 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 38.6,
+   "y": 19.3,
+   "partNo": "C37531",
+   "desc": "UNIT - oil sending",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 21.9,
+   "y": 9.3,
+   "partNo": "C42240",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 70.5,
+   "y": 6.0,
+   "partNo": "C37566",
+   "desc": "PRECLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 71.3,
+   "y": 15.0,
+   "partNo": "C37567",
+   "desc": "FILTER - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 15.0,
+   "y": 50.5,
+   "partNo": "C37568",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 19.8,
+   "y": 50.7,
+   "partNo": "C37546",
+   "desc": "PLUG - pipe 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 23.6,
+   "y": 42.3,
+   "partNo": "221-376",
+   "desc": "ELBOW - pipe 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 29.8,
+   "y": 44.2,
+   "partNo": "C37548",
+   "desc": "NIPPLE - pipe 3/8\" x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 72.3,
+   "y": 63.7,
+   "partNo": "113-122",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 62.1,
+   "y": 94.8,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 15.0,
+   "y": 68.3,
+   "variants": [
+    {
+     "serialNote": "Choke cable",
+     "partNo": "C37819",
+     "desc": "CABLE - choke",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Throttle cable",
+     "partNo": "C37820",
+     "desc": "CABLE - throttle",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "23",
+   "x": 3.5,
+   "y": 69.9,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 44.5,
+   "y": 22.0,
+   "partNo": "C40893",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}
