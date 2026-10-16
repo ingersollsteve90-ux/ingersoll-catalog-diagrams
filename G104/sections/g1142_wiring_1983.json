@@ -9,128 +9,128 @@
    "ref": "1",
    "x": 36.1,
    "y": 9.4,
-   "partNo": "900-0014",
-   "desc": "HEAD LAMP",
+   "partNo": "G9000014",
+   "desc": "HEAD LAMP (catalog no. 900-0014)",
    "reqd": ""
   },
   {
    "ref": "2",
    "x": 28,
    "y": 18.6,
-   "partNo": "900-0015",
-   "desc": "TOGGLE SWITCH",
+   "partNo": "G9000015",
+   "desc": "TOGGLE SWITCH (catalog no. 900-0015)",
    "reqd": ""
   },
   {
    "ref": "3",
    "x": 28,
    "y": 25.7,
-   "partNo": "900-2007",
-   "desc": "FUSE",
+   "partNo": "G9002007",
+   "desc": "FUSE (catalog no. 900-2007)",
    "reqd": ""
   },
   {
    "ref": "3",
    "x": 21.8,
    "y": 51.2,
-   "partNo": "900-2007",
-   "desc": "FUSE",
+   "partNo": "G9002007",
+   "desc": "FUSE (catalog no. 900-2007)",
    "reqd": ""
   },
   {
    "ref": "4",
    "x": 58.9,
    "y": 17.5,
-   "partNo": "900-2003",
-   "desc": "IGNITION SWITCH",
+   "partNo": "G9002003",
+   "desc": "IGNITION SWITCH (catalog no. 900-2003)",
    "reqd": ""
   },
   {
    "ref": "5",
    "x": 80.5,
    "y": 13.1,
-   "partNo": "900-2016",
-   "desc": "HOUR METER",
+   "partNo": "G9002016",
+   "desc": "HOUR METER (catalog no. 900-2016)",
    "reqd": ""
   },
   {
    "ref": "6",
    "x": 82.9,
    "y": 21.6,
-   "partNo": "900-2017",
-   "desc": "CAPACITOR",
+   "partNo": "G9002017",
+   "desc": "CAPACITOR (catalog no. 900-2017)",
    "reqd": ""
   },
   {
    "ref": "7",
    "x": 42.8,
    "y": 26.5,
-   "partNo": "900-2018",
-   "desc": "RECTIFIER",
+   "partNo": "G9002018",
+   "desc": "RECTIFIER (catalog no. 900-2018)",
    "reqd": ""
   },
   {
    "ref": "8",
    "x": 57.2,
    "y": 24,
-   "partNo": "900-2002",
-   "desc": "AMP METER",
+   "partNo": "G9002002",
+   "desc": "AMP METER (catalog no. 900-2002)",
    "reqd": ""
   },
   {
    "ref": "9",
    "x": 79.8,
    "y": 27.8,
-   "partNo": "900-2000",
-   "desc": "SAFETY SWITCH (steering lever and blade clutch)",
+   "partNo": "G9002000",
+   "desc": "SAFETY SWITCH (steering lever and blade clutch) (catalog no. 900-2000)",
    "reqd": ""
   },
   {
    "ref": "9",
    "x": 27.7,
    "y": 57.4,
-   "partNo": "900-2000",
-   "desc": "SAFETY SWITCH (steering lever and blade clutch)",
+   "partNo": "G9002000",
+   "desc": "SAFETY SWITCH (steering lever and blade clutch) (catalog no. 900-2000)",
    "reqd": ""
   },
   {
    "ref": "10",
    "x": 45.2,
    "y": 56.8,
-   "partNo": "900-2001",
-   "desc": "SEAT SWITCH",
+   "partNo": "G9002001",
+   "desc": "SEAT SWITCH (catalog no. 900-2001)",
    "reqd": ""
   },
   {
    "ref": "11",
    "x": 17.3,
    "y": 45.4,
-   "partNo": "900-2019",
-   "desc": "DECK LIFT MOTOR",
+   "partNo": "G9002019",
+   "desc": "DECK LIFT MOTOR (catalog no. 900-2019)",
    "reqd": ""
   },
   {
    "ref": "12",
    "x": 18.5,
    "y": 74.9,
-   "partNo": "900-2020",
-   "desc": "THREE POSITION - TWO POLE SWITCH",
+   "partNo": "G9002020",
+   "desc": "THREE POSITION - TWO POLE SWITCH (catalog no. 900-2020)",
    "reqd": ""
   },
   {
    "ref": "13",
    "x": 66.6,
    "y": 72,
-   "partNo": "900-2005",
-   "desc": "SOLENOID",
+   "partNo": "G9002005",
+   "desc": "SOLENOID (catalog no. 900-2005)",
    "reqd": ""
   },
   {
    "ref": "14",
    "x": 62.8,
    "y": 88.1,
-   "partNo": "900-2004",
-   "desc": "BATTERY",
+   "partNo": "G9002004",
+   "desc": "BATTERY (catalog no. 900-2004)",
    "reqd": ""
   },
   {
@@ -140,14 +140,14 @@
    "variants": [
     {
      "serialNote": "Twin models",
-     "partNo": "900-2011",
-     "desc": "WIRE, SOLENOID TO STARTER (twin models)",
+     "partNo": "G9002011",
+     "desc": "WIRE, SOLENOID TO STARTER (twin models) (catalog no. 900-2011)",
      "reqd": ""
     },
     {
      "serialNote": "Single models",
-     "partNo": "900-2012",
-     "desc": "WIRE, SOLENOID TO STARTER (single models)",
+     "partNo": "G9002012",
+     "desc": "WIRE, SOLENOID TO STARTER (single models) (catalog no. 900-2012)",
      "reqd": ""
     }
    ]
@@ -156,16 +156,16 @@
    "ref": "16",
    "x": 65.6,
    "y": 80.1,
-   "partNo": "900-2010",
-   "desc": "WIRE, BATTERY TO SOLENOID (single and twin models)",
+   "partNo": "G9002010",
+   "desc": "WIRE, BATTERY TO SOLENOID (single and twin models) (catalog no. 900-2010)",
    "reqd": ""
   },
   {
    "ref": "17",
    "x": 72.2,
    "y": 96.9,
-   "partNo": "900-2009",
-   "desc": "GROUND WIRE (single and twin models)",
+   "partNo": "G9002009",
+   "desc": "GROUND WIRE (single and twin models) (catalog no. 900-2009)",
    "reqd": ""
   }
  ],
