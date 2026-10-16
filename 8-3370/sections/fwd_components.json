@@ -1,0 +1,293 @@
+{
+ "sectionTitle": "4WD Components",
+ "breadcrumb": "4WD Components",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/fwd_components.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 87.9,
+   "y": 67.8,
+   "variants": [
+    {
+     "serialNote": "7020",
+     "partNo": "C48023",
+     "desc": "PLATE - skid (7020)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "7020BH (shown)",
+     "partNo": "C48024",
+     "desc": "PLATE - skid (7020BH) (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 24.3,
+   "y": 15.0,
+   "partNo": "C47661",
+   "desc": "MOTOR - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 38.0,
+   "y": 32.0,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 34.0,
+   "y": 29.2,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 60.3,
+   "y": 50.7,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 80.7,
+   "y": 47.6,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 38.6,
+   "y": 13.7,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 54.7,
+   "y": 21.4,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 64.9,
+   "y": 15.5,
+   "partNo": "C31966",
+   "desc": "HOSE - hydraulic 20\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 72.5,
+   "y": 25.3,
+   "partNo": "C47572",
+   "desc": "DIFFERENTIAL - bi-directional",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 82.2,
+   "y": 53.1,
+   "variants": [
+    {
+     "serialNote": "7020",
+     "partNo": "113-207",
+     "desc": "BOLT - 3/8\" - 16 x 1\" (7020)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "7020BH",
+     "partNo": "113-209",
+     "desc": "BOLT - 3/8\" - 16 x 1-1/2\" (7020BH)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 67.8,
+   "y": 55.5,
+   "variants": [
+    {
+     "serialNote": "7020",
+     "partNo": "113-219",
+     "desc": "BOLT - 3/8\" - 16 x 2\" (7020)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "7020BH",
+     "partNo": "113-213",
+     "desc": "BOLT - 3/8\" - 16 x 2-1/4\" (7020BH)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 45.4,
+   "y": 32.0,
+   "partNo": "C48026",
+   "desc": "SHAFT - differential drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 63.6,
+   "y": 22.8,
+   "partNo": "113-121",
+   "desc": "BOLT - 5/16\" - 18 x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 53.1,
+   "y": 33.9,
+   "partNo": "131-176",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 8.7,
+   "y": 71.1,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\" (7020)",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 84.8,
+   "y": 22.6,
+   "partNo": "C24653",
+   "desc": "HOSE - vent",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 94.7,
+   "y": 24.2,
+   "partNo": "C22947",
+   "desc": "TIE - cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 5.2,
+   "y": 73.1,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" - 13 x 1\" (7020)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 6.6,
+   "y": 80.7,
+   "partNo": "113-730",
+   "desc": "BOLT - 3/4\" - 10 x 2-3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "17",
+   "x": 35.8,
+   "y": 96.0,
+   "partNo": "113-730",
+   "desc": "BOLT - 3/4\" - 10 x 2-3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "18",
+   "x": 26.1,
+   "y": 85.6,
+   "partNo": "131-C3",
+   "desc": "NUT - 3/4\" - 10",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "18",
+   "x": 45.2,
+   "y": 92.3,
+   "partNo": "131-C3",
+   "desc": "NUT - 3/4\" - 10",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "19",
+   "x": 40.6,
+   "y": 94.4,
+   "variants": [
+    {
+     "serialNote": ".032\"",
+     "partNo": "C14201",
+     "desc": "WASHER - spacer (.032\")",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": ".105\"",
+     "partNo": "C23301",
+     "desc": "WASHER - spacer (.105\")",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": ".135\"",
+     "partNo": "195-545",
+     "desc": "WASHER - spacer (.135\")",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "20",
+   "x": 36.2,
+   "y": 43.5,
+   "partNo": "C48031",
+   "desc": "SHAFT - wheel drive (also includes ref. 22, 23, 24)",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 69.9,
+   "y": 48.4,
+   "partNo": "C48025",
+   "desc": "SPACER - differential",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 22.1,
+   "y": 52.1,
+   "partNo": "25-2310",
+   "desc": "NUT - 5/8\" - 16 slotted",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 27.1,
+   "y": 49.6,
+   "partNo": "195-108",
+   "desc": "WASHER - .69\" x 1.75\" x .135\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 16.0,
+   "y": 53.9,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C48257 SEAL - Shaft (1); C47959 GASKET - differential (1); C47956 BOOT - drive shaft (1); C47957 CLAMP - boot, 1\" (1); C47958 CLAMP - boot, 3.1\" (1).",
+ "dotSizePct": 3.32
+}

@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "Main Hydraulic Pump, Coupling and Mount (7020 Loader)",
+ "breadcrumb": "Main Hydraulic Pump, Coupling and Mount (7020 Loader)",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/main_pump_7020.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 73.1,
+   "y": 11.1,
+   "partNo": "C47559",
+   "desc": "MOUNT - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 81.3,
+   "y": 62.4,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 53.3,
+   "y": 38.7,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 91.2,
+   "y": 26.3,
+   "partNo": "113-310",
+   "desc": "BOLT - 7/16\" - 14 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 87.4,
+   "y": 23.9,
+   "partNo": "192-22",
+   "desc": "LOCKWASHER - 7/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 46.5,
+   "y": 29.1,
+   "partNo": "C47794",
+   "desc": "COUPLING - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 47.3,
+   "y": 6.0,
+   "partNo": "C28321",
+   "desc": "KEY - 1/4\" x 1/4\" x 3/4\" (engine shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 56.1,
+   "y": 6.2,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 60.0,
+   "y": 14.0,
+   "partNo": "126-13",
+   "desc": "KEY - 3/16\" x 5/8\" woodruff carbon (pump shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 94.9,
+   "y": 38.2,
+   "partNo": "C32170",
+   "desc": "PUMP - hydraulic, double (Loader Tractors Only)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 55.8,
+   "y": 83.9,
+   "partNo": "C32955",
+   "desc": "KIT - seal (main pump section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 85.8,
+   "y": 93.8,
+   "partNo": "C33110",
+   "desc": "SEAL - shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 81.4,
+   "y": 69.1,
+   "partNo": "NSS",
+   "desc": "SEAL - \"V\" (\"V\" side towards cover)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 72.8,
+   "y": 88.7,
+   "partNo": "NSS",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 74.9,
+   "y": 64.7,
+   "partNo": "NSS",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 66.6,
+   "y": 84.2,
+   "partNo": "NSS",
+   "desc": "PLATE - wear (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 59.4,
+   "y": 52.5,
+   "partNo": "NSS",
+   "desc": "PLATE - thrust (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 55.5,
+   "y": 50.2,
+   "partNo": "C33111",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 69.2,
+   "y": 59.8,
+   "partNo": "C33111",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 16.3,
+   "y": 56.4,
+   "partNo": "C32956",
+   "desc": "KIT - seal (secondary pump section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 42.0,
+   "y": 40.9,
+   "partNo": "NSS",
+   "desc": "SEAL - \"V\" (\"V\" side towards body)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 31.3,
+   "y": 59.8,
+   "partNo": "NSS",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 36.2,
+   "y": 37.5,
+   "partNo": "NSS",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 24.6,
+   "y": 55.5,
+   "partNo": "NSS",
+   "desc": "PLATE - wear (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 30.0,
+   "y": 32.6,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 19.1,
+   "y": 24.5,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: NSS SEAL - shaft (not used) (1).",
+ "dotSizePct": 3.53
+}

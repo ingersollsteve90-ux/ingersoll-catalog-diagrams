@@ -1,0 +1,91 @@
+{
+ "sectionTitle": "Manual Pump (Power Steering)",
+ "breadcrumb": "Manual Pump (Power Steering)",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/manual_pump_power_steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 73.5,
+   "y": 93.6,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 85.2,
+   "y": 74.2,
+   "partNo": "NSS",
+   "desc": "SEAL - face",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 37.4,
+   "y": 13.9,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 36.2,
+   "y": 8.3,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 26.2,
+   "y": 28.9,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 55.2,
+   "y": 22.7,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 74.7,
+   "y": 37.3,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 91.5,
+   "y": 49.2,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 12.2,
+   "y": 8.3,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 35.4,
+   "y": 37.4,
+   "partNo": "NSS",
+   "desc": "SEAL - commutator",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C46447 PUMP - steering, manual, five port (shown) (1); C46453 KIT - seal (for five port steering pump) (1).",
+ "dotSizePct": 2.91
+}

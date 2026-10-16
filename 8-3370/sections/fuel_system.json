@@ -1,0 +1,115 @@
+{
+ "sectionTitle": "Fuel System (Tractor)",
+ "breadcrumb": "Fuel System (Tractor)",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/fuel_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 32.5,
+   "y": 65.2,
+   "partNo": "C26521",
+   "desc": "FITTING - hose 1/8\" - 27 NPTF",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 55.4,
+   "y": 53.8,
+   "partNo": "C28962",
+   "desc": "RETAINER - fuel line",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 50.6,
+   "y": 76.4,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel line, long (use C28937 cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 52.7,
+   "y": 20.9,
+   "partNo": "C32089",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 42.0,
+   "y": 5.3,
+   "partNo": "C11529",
+   "desc": "CAP - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 82.0,
+   "y": 94.6,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel line, short (use C28937 cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 84.9,
+   "y": 23.2,
+   "partNo": "C23527",
+   "desc": "LINER - tank",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 10.9,
+   "y": 71.4,
+   "partNo": "C47205",
+   "desc": "CUSHION - fuel tank",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 36.9,
+   "y": 68.9,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 63.1,
+   "y": 84.7,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 75.1,
+   "y": 91.5,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 91.2,
+   "y": 65.8,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 76.4,
+   "y": 73.4,
+   "partNo": "C31978",
+   "desc": "FILTER - fuel",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.81
+}

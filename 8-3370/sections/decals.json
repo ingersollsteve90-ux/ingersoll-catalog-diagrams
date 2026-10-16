@@ -1,0 +1,177 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 24.8,
+   "y": 3.8,
+   "partNo": "C34747",
+   "desc": "DECAL - instrument panel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 66.8,
+   "y": 30.2,
+   "partNo": "C47606",
+   "desc": "DECAL - \"7020\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 45.5,
+   "y": 77.2,
+   "partNo": "C46326",
+   "desc": "DECAL - \"Warning\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 42.6,
+   "y": 45.0,
+   "partNo": "C14539",
+   "desc": "DECAL - oil, hydraulic reservoir",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 42.6,
+   "y": 52.5,
+   "partNo": "C14066",
+   "desc": "DECAL - gasoline",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 23.0,
+   "y": 46.4,
+   "partNo": "C47937",
+   "desc": "DECAL - \"FWD\" switch (current production) (switch with separate warning light)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 10.4,
+   "y": 76.9,
+   "partNo": "C34775",
+   "desc": "DECAL - travel control",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 45.0,
+   "y": 36.8,
+   "partNo": "C47147",
+   "desc": "DECAL - range selector",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 78.5,
+   "y": 4.5,
+   "partNo": "C46958",
+   "desc": "DECAL - \"Important\" hose routing (7020BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 79.6,
+   "y": 58.3,
+   "partNo": "C34750",
+   "desc": "DECAL - fuse",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 40.2,
+   "y": 66.6,
+   "variants": [
+    {
+     "serialNote": "Loader arms and backhoe",
+     "partNo": "C34769",
+     "desc": "DECAL - \"INGERSOLL\" loader arms and backhoe",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "Front skid pan and back of seat",
+     "partNo": "C32093",
+     "desc": "DECAL - \"INGERSOLL\" front skid pan and back of seat",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 16.5,
+   "y": 39.6,
+   "partNo": "C34749",
+   "desc": "DECAL - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 82.0,
+   "y": 79.8,
+   "partNo": "C34777",
+   "desc": "DECAL - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 26.1,
+   "y": 60.3,
+   "variants": [
+    {
+     "serialNote": "Red and black, 7020BH",
+     "partNo": "C34772",
+     "desc": "DECAL - stripe (red and black) (7020BH)",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "Silver and black, 7020",
+     "partNo": "C34773",
+     "desc": "DECAL - stripe (silver and black) (7020)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 69.5,
+   "y": 61.7,
+   "partNo": "C34184",
+   "desc": "DECAL - flag",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 31.2,
+   "y": 46.8,
+   "partNo": "NSS*",
+   "desc": "DECAL - \"FWD\" use with illuminated switch (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 9.4,
+   "y": 46.9,
+   "partNo": "C37197",
+   "desc": "DECAL - steering wheel center",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 72.6,
+   "y": 46.1,
+   "partNo": "C47757",
+   "desc": "DECAL - FWD",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "* Use C47937 decal and modify to fit.",
+ "dotSizePct": 2.36
+}

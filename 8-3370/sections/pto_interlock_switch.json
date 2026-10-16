@@ -1,0 +1,91 @@
+{
+ "sectionTitle": "PTO Inter-Lock Switch Assembly (7020 Loader)",
+ "breadcrumb": "PTO Inter-Lock Switch Assembly (7020 Loader)",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/pto_interlock_switch.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 60.0,
+   "y": 21.2,
+   "partNo": "187-1328",
+   "desc": "SCREW - #8 - 18 x 3/8\" self tap",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 42.5,
+   "y": 65.5,
+   "partNo": "C30275",
+   "desc": "SWITCH - neutral inter-lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 36.6,
+   "y": 8.9,
+   "partNo": "C33696",
+   "desc": "SCREW - #4 - 40 x 1-1/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 65.9,
+   "y": 75.1,
+   "partNo": "C33697",
+   "desc": "NUT - #4 - 40",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 93.2,
+   "y": 50.1,
+   "partNo": "C37198",
+   "desc": "CAM - switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 75.0,
+   "y": 35.4,
+   "partNo": "C44029",
+   "desc": "RETAINER - switch lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 45.9,
+   "y": 23.9,
+   "partNo": "C47307",
+   "desc": "BRACKET - switch mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 6.7,
+   "y": 13.9,
+   "partNo": "113-2",
+   "desc": "BOLT - 1/4\" - 20 x 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 11.3,
+   "y": 76.6,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 13.4,
+   "y": 91.0,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.8
+}

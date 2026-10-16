@@ -1,0 +1,227 @@
+{
+ "sectionTitle": "Hydraulic Power Steering System",
+ "breadcrumb": "Hydraulic Power Steering System",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/hydraulic_power_steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.0,
+   "y": 62.4,
+   "partNo": "218-5058",
+   "desc": "FITTING - 3/8\" tube x 3/4\" - 16 straight (includes \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 54.4,
+   "y": 55.7,
+   "partNo": "C46524",
+   "desc": "TUBE - steering to loader valve (in)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 58.8,
+   "y": 49.8,
+   "partNo": "C46525",
+   "desc": "TUBE - steering (in) to relief valve tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 6.0,
+   "y": 15.9,
+   "partNo": "C47106",
+   "desc": "WHEEL - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 24.5,
+   "y": 10.3,
+   "partNo": "C47107",
+   "desc": "CAP - steering wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 24.3,
+   "y": 15.9,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 66.6,
+   "y": 12.2,
+   "partNo": "C46447",
+   "desc": "PUMP - steering, five port (repairs: see the Manual Pump (Power Steering) section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 52.1,
+   "y": 6.7,
+   "partNo": "C27991",
+   "desc": "NUT - 5/16\" - 24 acorn, black",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 87.2,
+   "y": 66.0,
+   "partNo": "218-5105",
+   "desc": "FITTING - 90° elbow, adjustable 3/8\" tube x 9/18\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 95.8,
+   "y": 70.9,
+   "partNo": "218-5105",
+   "desc": "FITTING - 90° elbow, adjustable 3/8\" tube x 9/18\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 85.9,
+   "y": 80.6,
+   "partNo": "218-5005",
+   "desc": "\"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 94.5,
+   "y": 79.1,
+   "partNo": "218-5005",
+   "desc": "\"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 61.9,
+   "y": 63.3,
+   "partNo": "C32399",
+   "desc": "HOSE - steering pump (L.T.) to cylinder, 25\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 71.4,
+   "y": 50.2,
+   "partNo": "C32125",
+   "desc": "HOSE - steering pump (R.T.) to cylinder, 31\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 93.4,
+   "y": 83.8,
+   "partNo": "C32027",
+   "desc": "CYLINDER - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 72.7,
+   "y": 80.6,
+   "partNo": "113-601",
+   "desc": "BOLT - 5/8\" - 11 x 3\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 71.2,
+   "y": 88.5,
+   "partNo": "192-25",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 71.8,
+   "y": 94.5,
+   "partNo": "129-107",
+   "desc": "NUT - 5/8\" - 11",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 50.1,
+   "y": 18.4,
+   "partNo": "195-C2",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 47.1,
+   "y": 23.7,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 43.2,
+   "y": 30.6,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 39.8,
+   "y": 34.3,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 55.6,
+   "y": 31.8,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 70.1,
+   "y": 32.5,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "19",
+   "x": 43.7,
+   "y": 70.2,
+   "partNo": "C46523",
+   "desc": "TUBE - steering (out) to return tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 24.5,
+   "y": 5.9,
+   "partNo": "C42592",
+   "desc": "SCREW - #7 - 19 x 3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "21",
+   "x": 50.0,
+   "y": 12.5,
+   "partNo": "129-122",
+   "desc": "NUT - 5/16\" - 24",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C26443 KIT - gasket (1).",
+ "dotSizePct": 2.92
+}

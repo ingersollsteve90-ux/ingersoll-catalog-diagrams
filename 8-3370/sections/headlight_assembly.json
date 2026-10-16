@@ -1,0 +1,67 @@
+{
+ "sectionTitle": "Headlight Assembly",
+ "breadcrumb": "Headlight Assembly",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/headlight_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6.9,
+   "y": 49.2,
+   "partNo": "131-629",
+   "desc": "RETAINER - headlight",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 16.7,
+   "y": 70.4,
+   "partNo": "187-1334",
+   "desc": "SCREW - #8 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 37.2,
+   "y": 10.5,
+   "partNo": "NSS",
+   "desc": "RECEPTACLE - headlight (order headlight assembly)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 61.2,
+   "y": 17.0,
+   "partNo": "C28932",
+   "desc": "BULB - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 63.7,
+   "y": 32.9,
+   "partNo": "C14304",
+   "desc": "GASKET - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 93.0,
+   "y": 56.4,
+   "partNo": "C14304",
+   "desc": "GASKET - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 76.6,
+   "y": 43.4,
+   "partNo": "C22573",
+   "desc": "LENS - headlight",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C32178 HEADLIGHT ASSEMBLY (2).",
+ "dotSizePct": 4.15
+}

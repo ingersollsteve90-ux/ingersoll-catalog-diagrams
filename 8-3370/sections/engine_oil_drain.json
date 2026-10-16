@@ -1,0 +1,27 @@
+{
+ "sectionTitle": "Engine Oil Drain",
+ "breadcrumb": "Engine Oil Drain",
+ "catalogLabel": "Catalog 8-3370",
+ "modelNumbers": "Catalog 8-3370 — Ingersoll 7020 and 7020BH Compact Wheel Loaders (7000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3370/engine_oil_drain.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 38.8,
+   "y": 18.0,
+   "partNo": "218-5154",
+   "desc": "PLUG - oil drain (Kohler engine)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 84.9,
+   "y": 53.7,
+   "partNo": "C37148",
+   "desc": "NIPPLE - pipe 3/8\" x 2\" (Kohler engine)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 8.6
+}
