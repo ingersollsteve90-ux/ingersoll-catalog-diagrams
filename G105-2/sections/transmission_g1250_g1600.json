@@ -1,0 +1,570 @@
+{
+ "sectionTitle": "Transmission and Drive Chains (G1250, G1600)",
+ "breadcrumb": "Transmission and Drive Chains (G1250, G1600)",
+ "catalogLabel": "Catalog G105-2",
+ "modelNumbers": "Catalog G105-2 — Grazer Chain-Drive Grounds Mowers: G1250, G1600 (S/N 02-09-0248 and After) and G1800CD",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-2/transmission_g1250_g1600.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 8.2,
+   "y": 94.8,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 5.3,
+   "y": 73.4,
+   "partNo": "85-58",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 29.4,
+   "y": 60,
+   "partNo": "85-58",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 26.1,
+   "y": 87.2,
+   "partNo": "C37988",
+   "desc": "WHEEL ASSEMBLY - drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 9.4,
+   "y": 58.6,
+   "partNo": "C37657",
+   "desc": "NUT - lug 1/2\" - 20",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 14.2,
+   "y": 48.6,
+   "partNo": "C37824",
+   "desc": "BEARING - wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 43.1,
+   "y": 38.3,
+   "partNo": "C37824",
+   "desc": "BEARING - wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 17.3,
+   "y": 42.3,
+   "variants": [
+    {
+     "serialNote": "5-3/4\" long",
+     "partNo": "C37991",
+     "desc": "HUB - wheel (5-3/4\" long)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "7\" long",
+     "partNo": "C38993",
+     "desc": "HUB - wheel (7\" long)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 22,
+   "y": 30.4,
+   "partNo": "C37661",
+   "desc": "BOLT - lug 1/2\" - 20 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 29,
+   "y": 13,
+   "partNo": "219-20",
+   "desc": "FITTING - grease 1/4\" - 28 self tapping",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 57.6,
+   "y": 15.8,
+   "partNo": "219-20",
+   "desc": "FITTING - grease 1/4\" - 28 self tapping",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 30.9,
+   "y": 29.3,
+   "partNo": "C37994",
+   "desc": "SPROCKET - final drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 30.3,
+   "y": 50.5,
+   "variants": [
+    {
+     "serialNote": "80 pitches",
+     "partNo": "C37996",
+     "desc": "CHAIN - final drive (80 pitches)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "68 pitches",
+     "partNo": "C38618",
+     "desc": "CHAIN - final drive (68 pitches)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "71 pitches",
+     "partNo": "C44081",
+     "desc": "CHAIN - final drive (71 pitches)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 46,
+   "y": 17.9,
+   "variants": [
+    {
+     "serialNote": "7-1/2\" shaft",
+     "partNo": "C37997",
+     "desc": "AXLE - drive wheel (7-1/2\" shaft)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "8-3/4\" shaft",
+     "partNo": "C38859",
+     "desc": "AXLE - drive wheel (8-3/4\" shaft)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 36.4,
+   "y": 76.5,
+   "partNo": "C37998",
+   "desc": "COLLAR - support",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 35.4,
+   "y": 56.7,
+   "partNo": "C37999",
+   "desc": "WASHER - 3/4\" 10 ga.",
+   "reqd": "8"
+  },
+  {
+   "ref": "13",
+   "x": 49,
+   "y": 38.1,
+   "partNo": "C37999",
+   "desc": "WASHER - 3/4\" 10 ga.",
+   "reqd": "8"
+  },
+  {
+   "ref": "14",
+   "x": 34.6,
+   "y": 50.9,
+   "partNo": "C38000",
+   "desc": "BEARING - idler sprocket 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 43.1,
+   "y": 58.6,
+   "partNo": "C38002",
+   "desc": "SPROCKET - idler (includes bearings)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 46,
+   "y": 40.4,
+   "partNo": "C38003",
+   "desc": "BEARING - idler sprocket 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 87.4,
+   "y": 6.3,
+   "partNo": "C38004",
+   "desc": "CLIP - transmission dump valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 62.4,
+   "y": 30.5,
+   "partNo": "C38005",
+   "desc": "SHAFT - idler sprocket",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 45.3,
+   "y": 63.7,
+   "partNo": "C38006",
+   "desc": "SPROCKET - transmission (includes brake disc)",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 49.4,
+   "y": 48.3,
+   "partNo": "C44083",
+   "desc": "CHAIN - primary drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 76.8,
+   "y": 63.5,
+   "partNo": "126-6",
+   "desc": "KEY - 1/8\" x 3/8\" Woodruff",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 76.6,
+   "y": 38.6,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C38008",
+     "desc": "TRANSMISSION L.H. (shown) (CW)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C38009",
+     "desc": "TRANSMISSION - R.H. (CCW)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "23",
+   "x": 53.8,
+   "y": 20.4,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 74.8,
+   "y": 5.3,
+   "partNo": "NSS",
+   "desc": "BAR - bolt (use 111-366)",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 63.3,
+   "y": 57.7,
+   "partNo": "C37664",
+   "desc": "KEY - woodruff 1/8\" x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 55.1,
+   "y": 67.4,
+   "partNo": "NSS",
+   "desc": "CALIPER - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 46.5,
+   "y": 73.2,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C38016",
+     "desc": "LEVER - caliper L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C38017",
+     "desc": "LEVER - caliper R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 59.1,
+   "y": 76.9,
+   "partNo": "C37627",
+   "desc": "PAD - brake (set)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 63,
+   "y": 74.4,
+   "partNo": "C38018",
+   "desc": "BRACKET - caliper",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 50.8,
+   "y": 76.7,
+   "partNo": "C37724",
+   "desc": "COLLAR - caliper rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 68.1,
+   "y": 72,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C37698",
+     "desc": "ARM - transmission L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C37699",
+     "desc": "ARM - transmission R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "32",
+   "x": 74.4,
+   "y": 80,
+   "partNo": "C42895",
+   "desc": "BUSHING - cable end",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 82.1,
+   "y": 84.1,
+   "partNo": "C42896",
+   "desc": "END - steering cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 91.5,
+   "y": 73.7,
+   "partNo": "C37705",
+   "desc": "CABLE - steering",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 89.2,
+   "y": 59.1,
+   "partNo": "C37616",
+   "desc": "CLAMP - steering cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 50.7,
+   "y": 21.4,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 88.3,
+   "y": 52.8,
+   "partNo": "113-241",
+   "desc": "BOLT - 3/8\" - 16 x 3\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "38",
+   "x": 79.5,
+   "y": 50.5,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "38",
+   "x": 56.7,
+   "y": 48.8,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "38",
+   "x": 69.3,
+   "y": 76.5,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "39",
+   "x": 76.4,
+   "y": 52.1,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "8"
+  },
+  {
+   "ref": "39",
+   "x": 53.1,
+   "y": 49.5,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "8"
+  },
+  {
+   "ref": "39",
+   "x": 71.1,
+   "y": 82,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "8"
+  },
+  {
+   "ref": "39",
+   "x": 48.1,
+   "y": 87.4,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16",
+   "reqd": "8"
+  },
+  {
+   "ref": "40",
+   "x": 38.6,
+   "y": 23.7,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "41",
+   "x": 44.8,
+   "y": 83.2,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "41",
+   "x": 60.2,
+   "y": 47.2,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "42",
+   "x": 51.2,
+   "y": 33.3,
+   "partNo": "113-410",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "43",
+   "x": 41.3,
+   "y": 22.6,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" 18 x 1\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "44",
+   "x": 75.1,
+   "y": 87.7,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "44",
+   "x": 83,
+   "y": 66.5,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "45",
+   "x": 92.1,
+   "y": 61.2,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "45",
+   "x": 81.3,
+   "y": 61.8,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "46",
+   "x": 81.7,
+   "y": 90.6,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "47",
+   "x": 84.6,
+   "y": 80.5,
+   "partNo": "C37598",
+   "desc": "NUT - #10 - 32 lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "48",
+   "x": 73.4,
+   "y": 20.7,
+   "partNo": "111-366",
+   "desc": "BOLT - carriage 3/8\" - 16 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "49",
+   "x": 67.9,
+   "y": 81.8,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C37989 TIRE - 16 x 7.50 - 8 (1); C37990 RIM - wheel (1); C37992 HUB ASSEMBLY - 5-3/4\" (2); C38992 HUB ASSEMBLY - (7\" long) (2); C38010 DIAPHRAGM - transmission (1); C38011 KIT - seal (1); C38012 KIT - reservoir, transmission (1); C37626 BRAKE ASSEMBLY - L.H. (1); C37625 BRAKE ASSEMBLY - R.H. (1)."
+}

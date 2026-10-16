@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Electrical System - G1600 S/N 952501020 and after, G1800CD All",
+ "breadcrumb": "Electrical System - G1600 S/N 952501020 and after, G1800CD All",
+ "catalogLabel": "Catalog G105-2",
+ "modelNumbers": "Catalog G105-2 — Grazer Chain-Drive Grounds Mowers: G1250, G1600 (S/N 02-09-0248 and After) and G1800CD",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-2/electrical_g1600_after_sn_g1800cd.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 59.2,
+   "y": 42.1,
+   "partNo": "C45539",
+   "desc": "HARNESS - wire, alternator and magneto",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 43.6,
+   "y": 55.2,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit, 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 24.8,
+   "y": 17.9,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 48.5,
+   "y": 5.5,
+   "partNo": "C31937",
+   "desc": "SWITCH - PTO (also use C31619 Cap)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 47.2,
+   "y": 22.2,
+   "partNo": "C43044",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 47.6,
+   "y": 35.5,
+   "partNo": "C30267",
+   "desc": "SWITCH - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 21.9,
+   "y": 29.3,
+   "partNo": "C29413",
+   "desc": "AMMETER",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 78.1,
+   "y": 22,
+   "partNo": "C42929",
+   "desc": "METER - hour",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 52,
+   "y": 16.9,
+   "partNo": "C45536",
+   "desc": "LIGHT - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 23.5,
+   "y": 93.1,
+   "partNo": "C45537",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 39.9,
+   "y": 91.9,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 34.9,
+   "y": 81.9,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 23.2,
+   "y": 68.2,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 60.7,
+   "y": 68,
+   "partNo": "C44261",
+   "desc": "WIRE - starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 25.1,
+   "y": 59,
+   "partNo": "C37511",
+   "desc": "CLUTCH - PTO",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 22.3,
+   "y": 74.1,
+   "partNo": "C37528",
+   "desc": "CABLE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 36,
+   "y": 26.4,
+   "partNo": "C44075",
+   "desc": "WIRE - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 61.6,
+   "y": 72.8,
+   "partNo": "C33024",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 39,
+   "y": 69.5,
+   "partNo": "C37523",
+   "desc": "CABLE - battery positive to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 52.9,
+   "y": 52.3,
+   "partNo": "C37531",
+   "desc": "SWITCH - oil light",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 20.5,
+   "y": 40.7,
+   "partNo": "C41643",
+   "desc": "WIRE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 63.3,
+   "y": 51.7,
+   "partNo": "C42240",
+   "desc": "HARNESS - oil pressure switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 49.7,
+   "y": 74.8,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 39.8,
+   "y": 74.8,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to G1600 S/N 952501020 and after, and G1800CD (all). Also listed, not shown on diagram: C45535 HARNESS - wire, main (1); C22573 LENS - headlight (1); C37508 BULB - headlight (1); C37509 RECEPTICAL (1); C14304 GASKET - headlight (1); C44469 NUT - 1/2\" - 27 PTO switch retaining (2); C32407 KEY - ignition (1); C32397 CAP - nut, ignition switch (1); 193-63 LOCKWASHER - 5/8 (1); C32396 NUT - 5/8\" - 32 ignition switch (1); 182-525 SCREW - #10 - 32 x 3/8\" (safety switch mount) (1); 192-18 LOCKWASHER - 3/16\" (safety switch mount) (1); 193-1000 NUT - #10 - 32 Lock (safety switch mount) (2); 182-528 SCREW - #10 - 32 x 1/2\" (safety switch mount) (2); 113-3 BOLT - 1/4\" - 20 x 3/4\" (solenoid mounting) (2); 131-934 NUT - 1/4\" - 20 (solenoid mounting) (2); 192-19 LOCKWASHER - 1/4\" (solenoid studs) (2); 129-101 NUT - 1/4\" - 20 (solenoid studs) (2)."
+}

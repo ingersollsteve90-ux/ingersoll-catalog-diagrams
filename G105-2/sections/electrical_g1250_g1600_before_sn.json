@@ -1,0 +1,412 @@
+{
+ "sectionTitle": "Electrical System - G1250 All, G1600 before S/N 952501020",
+ "breadcrumb": "Electrical System - G1250 All, G1600 before S/N 952501020",
+ "catalogLabel": "Catalog G105-2",
+ "modelNumbers": "Catalog G105-2 — Grazer Chain-Drive Grounds Mowers: G1250, G1600 (S/N 02-09-0248 and After) and G1800CD",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-2/electrical_g1250_g1600_before_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 65.9,
+   "y": 19.9,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit, 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 40.6,
+   "y": 4,
+   "partNo": "NSS",
+   "desc": "HEADLIGHT - (use C32178 and C44075)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 14.2,
+   "y": 22.4,
+   "partNo": "NSS",
+   "desc": "HEADLIGHT - (use C32178 and C44075)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 77.9,
+   "y": 4.3,
+   "partNo": "NSS",
+   "desc": "HEADLIGHT - (use C32178 and C44075)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 75.3,
+   "y": 27.8,
+   "partNo": "C37511",
+   "desc": "CLUTCH - PTO, electric",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 44.8,
+   "y": 17.9,
+   "partNo": "C31937",
+   "desc": "SWITCH - PTO (also use C31619 cap)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 45.1,
+   "y": 22.5,
+   "partNo": "C43044",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 53,
+   "y": 67,
+   "partNo": "C37515",
+   "desc": "RELAY",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 50.5,
+   "y": 33.3,
+   "partNo": "C24145",
+   "desc": "SWITCH - ignition (use C32407 key)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7A",
+   "partNo": "C32397",
+   "desc": "CAP - nut (ignition switch mounting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7B",
+   "partNo": "193-63",
+   "desc": "LOCKWASHER - 5/8\" (ignition switch mounting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7C",
+   "partNo": "C32396",
+   "desc": "NUT - 5/8\" - 32 (ignition switch mounting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 38.6,
+   "y": 35.4,
+   "partNo": "C29413",
+   "desc": "AMMETER",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 61.2,
+   "y": 31,
+   "partNo": "C42929",
+   "desc": "METER - hour",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 56.5,
+   "y": 38.7,
+   "partNo": "C37519",
+   "desc": "LIGHT - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 39.2,
+   "y": 59.7,
+   "partNo": "C37520",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 68.4,
+   "y": 37.5,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety (enlarge mounting hole if required)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 72.2,
+   "y": 64,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety (enlarge mounting hole if required)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12A",
+   "partNo": "182-525",
+   "desc": "SCREW - #10 - 32 x 3/8\" (safety switch mount)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12B",
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\" (safety switch mount)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 49.8,
+   "y": 84,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 68.7,
+   "y": 90.6,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 35.8,
+   "y": 75.3,
+   "partNo": "C37523",
+   "desc": "WIRE - starter",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 47.9,
+   "y": 88.1,
+   "partNo": "C37528",
+   "desc": "CABLE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 56.7,
+   "y": 5.6,
+   "variants": [
+    {
+     "serialNote": "Early production (female terminals)",
+     "partNo": "C37525",
+     "desc": "WIRE - headlight (with female terminals) early production",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Current production (2 male terminals)",
+     "partNo": "C44075",
+     "desc": "WIRE - headlight (with 2 male terminals) current production",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 31,
+   "y": 76.9,
+   "partNo": "C37526",
+   "desc": "SOLENOID - starting",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 20.8,
+   "y": 79.6,
+   "partNo": "C37523",
+   "desc": "WIRE - battery positive to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 15.6,
+   "y": 42.8,
+   "partNo": "C37529",
+   "desc": "ACTUATOR - electric lift (early production) optional",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 10.2,
+   "y": 59.1,
+   "partNo": "C37530",
+   "desc": "SWITCH - deck lift (early production) optional",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 46.6,
+   "y": 55.7,
+   "partNo": "C37531",
+   "desc": "SWITCH - oil light",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 6.6,
+   "y": 16.5,
+   "partNo": "C22573",
+   "desc": "LENS - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 14,
+   "y": 15.9,
+   "variants": [
+    {
+     "serialNote": "#1156",
+     "partNo": "C28932",
+     "desc": "BULB - headlight (#1156)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "#1141",
+     "partNo": "C37508",
+     "desc": "BULB - headlight (#1141)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "24",
+   "x": 14.1,
+   "y": 18.8,
+   "partNo": "NSS",
+   "desc": "RECEPTICAL - headlight (use C32178, C44075)",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 10,
+   "y": 17.4,
+   "partNo": "C14304",
+   "desc": "GASKET - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 12.2,
+   "y": 8,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 19.1,
+   "y": 8.6,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 84.8,
+   "y": 82.1,
+   "partNo": "C37983",
+   "desc": "BRACKET - battery hold down",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 67.1,
+   "y": 84.4,
+   "partNo": "C38677",
+   "desc": "BOLT - 1/4\" - 20 x 7\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 66.8,
+   "y": 87.7,
+   "variants": [
+    {
+     "serialNote": "Plain nut",
+     "partNo": "129-101",
+     "desc": "NUT - 1/4\" - 20",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "Lock nut",
+     "partNo": "131-71",
+     "desc": "NUT - 1/4\" - 20 lock",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 87.2,
+   "y": 83.9,
+   "variants": [
+    {
+     "serialNote": "Plain nut",
+     "partNo": "129-101",
+     "desc": "NUT - 1/4\" - 20",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "Lock nut",
+     "partNo": "131-71",
+     "desc": "NUT - 1/4\" - 20 lock",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 89.7,
+   "y": 85.7,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "32",
+   "x": 92.6,
+   "y": 88.4,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "32",
+   "x": 92.2,
+   "y": 91.5,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "33",
+   "x": 82.4,
+   "y": 96.7,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 93.2,
+   "y": 95,
+   "partNo": "NSS",
+   "desc": "PROTECTOR - battery post (use C24069)",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 42.1,
+   "y": 61.2,
+   "partNo": "C41643",
+   "desc": "WIRE - engine ground",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to G1250 (all) and G1600 before S/N 952501020. Also listed, not shown on diagram: C42241 HARNESS - wire (1); 113-3 BOLT - 1/4\" - 20 x 3/4\" (relay mounting) (1); 192-19 LOCKWASHER - 1/4\" (relay mounting) (1); 121-101 NUT - 1/4\" - 20 (relay mounting) (1); 113-3 BOLT - 1/4\" - 20 x 3/4\" (solenoid mounting) (2); 192-19 LOCKWASHER - 1/4\" (solenoid mounting) (2); 129-101 NUT - 1/4\" - 20 (solenoid mounting) (2); 192-20 LOCKWASHER - 5/16\" (solenoid studs) (2); 129-102 NUT - 5/16\" - 18 (solenoid studs) (2); 192-18 LOCKWASHER - 3/16\" (solenoid studs) (2); 129-37 NUT - #10 - 32 (solenoid studs) (1); 129-6 NUT - #8 - 32 (solenoid studs) (1)."
+}

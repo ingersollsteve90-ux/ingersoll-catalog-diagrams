@@ -1,0 +1,206 @@
+{
+ "sectionTitle": "Engine and Attaching Parts (Briggs & Stratton)",
+ "breadcrumb": "Engine and Attaching Parts (Briggs & Stratton)",
+ "catalogLabel": "Catalog G105-2",
+ "modelNumbers": "Catalog G105-2 — Grazer Chain-Drive Grounds Mowers: G1250, G1600 (S/N 02-09-0248 and After) and G1800CD",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-2/engine.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 84,
+   "y": 49.2,
+   "variants": [
+    {
+     "serialNote": "18 hp",
+     "partNo": "C41674",
+     "desc": "ENGINE - B&S, IC model 422447 Spec. No. 1277 (18 hp)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "16 hp",
+     "partNo": "C40728",
+     "desc": "ENGINE - Briggs & Stratton, IC model 402447 Spec. No. 1225 (16 hp)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "12.5 hp",
+     "partNo": "C41675",
+     "desc": "ENGINE - Briggs and Stratton, model 404447, Spec. No. 1211 (12.5 hp)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 17.7,
+   "y": 39.3,
+   "partNo": "C37533",
+   "desc": "DUCT - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 57.8,
+   "y": 70.5,
+   "partNo": "221-1413",
+   "desc": "ELBOW - street 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 70.5,
+   "y": 65.2,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 70.9,
+   "y": 71.5,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 48,
+   "y": 70,
+   "partNo": "C37546",
+   "desc": "PLUG - pipe 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 76.9,
+   "y": 28.2,
+   "partNo": "C37537",
+   "desc": "SHAFT - stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 82,
+   "y": 23.2,
+   "partNo": "C41015",
+   "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 96,
+   "y": 32.8,
+   "partNo": "C37539",
+   "desc": "PULLEY - drive (use 83-55 set screw)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 80.7,
+   "y": 59.8,
+   "partNo": "C37540",
+   "desc": "RETAINER - starter cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 50.7,
+   "y": 88.9,
+   "partNo": "221-411",
+   "desc": "ELBOW - street 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 39.5,
+   "y": 92.3,
+   "partNo": "C37531",
+   "desc": "UNIT - oil sending",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 65.5,
+   "y": 78.2,
+   "partNo": "C42240",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 71.5,
+   "y": 7.6,
+   "partNo": "C37543",
+   "desc": "PRECLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 72,
+   "y": 17.1,
+   "partNo": "C37544",
+   "desc": "FILTER - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 21.7,
+   "y": 33.2,
+   "partNo": "C34374",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 11.2,
+   "y": 45,
+   "partNo": "121-21",
+   "desc": "BOLT - 1/4\" - 20 flange lock",
+   "reqd": "7"
+  },
+  {
+   "ref": "18",
+   "x": 16.7,
+   "y": 71.6,
+   "variants": [
+    {
+     "serialNote": "Choke",
+     "partNo": "C37819",
+     "desc": "CABLE - choke",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Throttle",
+     "partNo": "C37820",
+     "desc": "CABLE - throttle",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 4.2,
+   "y": 72.5,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 89.6,
+   "y": 40.1,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 85.3,
+   "y": 43,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

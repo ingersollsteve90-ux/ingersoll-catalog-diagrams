@@ -1,0 +1,174 @@
+{
+ "sectionTitle": "Decals (Body)",
+ "breadcrumb": "Decals (Body)",
+ "catalogLabel": "Catalog G105-2",
+ "modelNumbers": "Catalog G105-2 — Grazer Chain-Drive Grounds Mowers: G1250, G1600 (S/N 02-09-0248 and After) and G1800CD",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-2/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 49.6,
+   "y": 10.7,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C42100",
+     "desc": "DECAL - L.H. (\"1600\" model number)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C42101",
+     "desc": "DECAL - R.H. (\"1600\" model number) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 74.8,
+   "y": 29.9,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C43417",
+     "desc": "DECAL - fender skirt L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C43418",
+     "desc": "DECAL - fender skirt R.H. (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 52.2,
+   "y": 71,
+   "partNo": "C37501",
+   "desc": "DECAL - instrument panel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 85.9,
+   "y": 84.9,
+   "partNo": "C38047",
+   "desc": "MEDALLION - \"Grazer\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 51.9,
+   "y": 59.1,
+   "partNo": "C37495",
+   "desc": "DECAL - operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 8.5,
+   "y": 40.5,
+   "partNo": "C37496",
+   "desc": "DECAL - caution interlock",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 85.5,
+   "y": 37.3,
+   "partNo": "C37502",
+   "desc": "DECAL - unlock/lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 85.1,
+   "y": 50.8,
+   "partNo": "C37498",
+   "desc": "DECAL - run/park",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 19.7,
+   "y": 45.9,
+   "partNo": "C37500",
+   "desc": "DECAL - danger carbon monoxide",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 69.6,
+   "y": 43.9,
+   "partNo": "C38807",
+   "desc": "DECAL - lubrication",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 25.4,
+   "y": 27.9,
+   "partNo": "C43416",
+   "desc": "DECAL - tail side \"Grazer\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 49.1,
+   "y": 3,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "NSS",
+     "desc": "DECAL - rear side L.H. (\"1250\" model number) see kit below",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "NSS",
+     "desc": "DECAL - rear side R.H. (shown) (\"1250\" model number) see kit below",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 15.5,
+   "y": 72.1,
+   "partNo": "C44340",
+   "desc": "DECAL - warning",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 28.3,
+   "y": 27.7,
+   "partNo": "C43413",
+   "desc": "DECAL - front \"Grazer\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 53.1,
+   "y": 27.1,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C46062",
+     "desc": "DECAL - L.H. (\"1800CD\", model number)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C46063",
+     "desc": "DECAL - R.H. (1800CD\", model number) shown",
+     "reqd": "1"
+    }
+   ]
+  }
+ ],
+ "footnotes": "Decal kit C38048 (1250) includes refs 2, 11, 12, 14. Decal kit C42416 (1600) includes refs 1, 2, 11, 14. Also listed, not shown on diagram: C38048 KIT - decal 1250 (includes 2, 11, 12, 14) (1); C42416 KIT - decal 1600 (includes 1, 2, 11, 14) (1)."
+}

@@ -1,0 +1,82 @@
+{
+ "sectionTitle": "Single Tail Wheel (G1800CD)",
+ "breadcrumb": "Single Tail Wheel (G1800CD)",
+ "catalogLabel": "Catalog G105-2",
+ "modelNumbers": "Catalog G105-2 — Grazer Chain-Drive Grounds Mowers: G1250, G1600 (S/N 02-09-0248 and After) and G1800CD",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-2/single_tail_wheel_g1800cd.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.2,
+   "y": 77.9,
+   "partNo": "C37854",
+   "desc": "AXLE - wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64.8,
+   "y": 66.1,
+   "partNo": "C37855",
+   "desc": "WHEEL ASSEMBLY - tail 16 x 6.50 - 8",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 68.8,
+   "y": 37.7,
+   "partNo": "C37859",
+   "desc": "FORK - tail wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 58.7,
+   "y": 10.2,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 59.7,
+   "y": 17,
+   "partNo": "C37861",
+   "desc": "SPACER - tail wheel fork",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 6.9,
+   "y": 46.5,
+   "partNo": "113-452",
+   "desc": "BOLT - 1/2\" - 13 x 9-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 39,
+   "y": 5.8,
+   "partNo": "85-58",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 86.7,
+   "y": 85.8,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 94.8,
+   "y": 93.7,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C44499 BEARING - wheel (2); C37857 TIRE - 16 x 6.50 - 8 (1); C37858 RIM - 8\" (1); 219-92 FITTING - grease 90° 1/4\" - 28 self tap (caster pivot) (1)."
+}
