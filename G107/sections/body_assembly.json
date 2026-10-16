@@ -1,0 +1,336 @@
+{
+ "sectionTitle": "Body Assembly",
+ "breadcrumb": "Body Assembly",
+ "catalogLabel": "Catalog G107",
+ "modelNumbers": "Catalog G107 — Grazer G2090V Hydraulic Drive Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G107/body_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 70.5,
+   "y": 60.7,
+   "partNo": "C45856",
+   "desc": "BODY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 33,
+   "y": 79.6,
+   "variants": [
+    {
+     "partNo": "C41175",
+     "desc": "FENDER - L.H. (shown)",
+     "reqd": "1",
+     "serialNote": "L.H. (shown)"
+    },
+    {
+     "partNo": "C41179",
+     "desc": "FENDER - R.H.",
+     "reqd": "1",
+     "serialNote": "R.H."
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 58.7,
+   "y": 18.1,
+   "partNo": "C41163",
+   "desc": "BACK COVER",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 13.8,
+   "y": 36.4,
+   "partNo": "C44844",
+   "desc": "GUARD RAIL",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 75.7,
+   "y": 56,
+   "partNo": "C37824",
+   "desc": "BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 13.4,
+   "y": 48.6,
+   "variants": [
+    {
+     "partNo": "C43419",
+     "desc": "PAD - safety walk L.H. front",
+     "reqd": "1",
+     "serialNote": "L.H. front"
+    },
+    {
+     "partNo": "C43420",
+     "desc": "PAD - safety walk R.H. front",
+     "reqd": "1",
+     "serialNote": "R.H. front"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 42.3,
+   "y": 49.6,
+   "partNo": "C35067",
+   "desc": "BUMPER - nylon",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 72,
+   "y": 46.9,
+   "partNo": "C43421",
+   "desc": "PAD - safety walk R.H. side",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 68.9,
+   "y": 30.3,
+   "partNo": "C41945",
+   "desc": "GROMMET",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 21.8,
+   "y": 69.2,
+   "partNo": "C34808",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" tapping",
+   "reqd": "8"
+  },
+  {
+   "ref": "11",
+   "x": 28.3,
+   "y": 74.6,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "12",
+   "x": 22.5,
+   "y": 34.6,
+   "partNo": "C42056",
+   "desc": "BOLT - 5/16\" - 18 x 5/8\" black",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 37.7,
+   "y": 24.7,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 34.9,
+   "y": 53,
+   "partNo": "113-425",
+   "desc": "BOLT - 1/2\" - 13 x 3\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 39.2,
+   "y": 90,
+   "partNo": "131-70",
+   "desc": "NUT - 1/2\" - 13 lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 15.3,
+   "y": 68.2,
+   "partNo": "C37822",
+   "desc": "ROD - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 85.8,
+   "y": 33.7,
+   "partNo": "C37822",
+   "desc": "ROD - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 7.8,
+   "y": 63.8,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 3/32\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 93.3,
+   "y": 14.1,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 3/32\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 84.1,
+   "y": 41.1,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 3/32\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 67.4,
+   "y": 24.2,
+   "partNo": "C41944",
+   "desc": "DZUS FASTENER",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 48.4,
+   "y": 60.8,
+   "partNo": "C37818",
+   "desc": "RUBBER BODY MOUNT",
+   "reqd": "8"
+  },
+  {
+   "ref": "20",
+   "x": 36.4,
+   "y": 65,
+   "partNo": "C37581",
+   "desc": "BODY MOUNT WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 22.9,
+   "y": 78.3,
+   "partNo": "C37821",
+   "desc": "DASH BOARD",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 83.1,
+   "y": 5,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 45.1,
+   "y": 41.8,
+   "partNo": "C38408",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 76.9,
+   "y": 70.1,
+   "partNo": "131-1352",
+   "desc": "NUT - flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 85.9,
+   "y": 70.9,
+   "partNo": "NSS",
+   "desc": "WEIGHT - tail (order from whole goods) W48 kit",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 88.6,
+   "y": 11.2,
+   "partNo": "C37604",
+   "desc": "HANDLE - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 76.9,
+   "y": 25.2,
+   "partNo": "C37630",
+   "desc": "BRACKET - stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 92.3,
+   "y": 30,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "29",
+   "x": 72.7,
+   "y": 21.8,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 69.8,
+   "y": 18.2,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 91.8,
+   "y": 93.5,
+   "partNo": "113-650",
+   "desc": "BOLT - 5/8\" - 11 x 6-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 76.3,
+   "y": 93.1,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 95.3,
+   "y": 82.5,
+   "partNo": "113-213",
+   "desc": "BOLT - 3/8\" - 16 x 2-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 67.1,
+   "y": 76.9,
+   "partNo": "131-356",
+   "desc": "NUT - 5/8\" - 11 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 91,
+   "y": 78.1,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Grazer G2090V (hydraulic drive).\nAlso listed, not shown on diagram: C44036 TRIM - tower and rear lid (not shown) (1); 182-573 SCREW - #10 - 24 x 1/2\" (used on dash board) (4); C34117 NUT - #10 - 24 flange lock (used on dash board) (2)."
+}

@@ -1,0 +1,266 @@
+{
+ "sectionTitle": "Electrical System (S/N 953510001 and After)",
+ "breadcrumb": "Electrical System (S/N 953510001 and After)",
+ "catalogLabel": "Catalog G107",
+ "modelNumbers": "Catalog G107 — Grazer G2090V Hydraulic Drive Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G107/electrical_system_after_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 60.5,
+   "y": 38.2,
+   "partNo": "C45539",
+   "desc": "HARNESS - wire, alternator and magneto",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 45.6,
+   "y": 49.7,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit, 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 27.9,
+   "y": 16.3,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 50.5,
+   "y": 5.5,
+   "partNo": "C31937",
+   "desc": "SWITCH - PTO (also use C31619 cap)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 49.6,
+   "y": 20.1,
+   "partNo": "C43044",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 49.3,
+   "y": 31.8,
+   "partNo": "C30267",
+   "desc": "SWITCH - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 25,
+   "y": 26.2,
+   "partNo": "C29413",
+   "desc": "AMMETER",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 68.6,
+   "y": 23.2,
+   "partNo": "C45917",
+   "desc": "METER - hour",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 53.6,
+   "y": 15,
+   "partNo": "C45536",
+   "desc": "LIGHT - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 18.9,
+   "y": 79.5,
+   "partNo": "C45537",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 36.8,
+   "y": 73.7,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 41.6,
+   "y": 82.7,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 25.1,
+   "y": 61.4,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 8.9,
+   "y": 91.5,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 61.5,
+   "y": 61.2,
+   "partNo": "C44261",
+   "desc": "WIRE - starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 27.7,
+   "y": 53.3,
+   "partNo": "C37511",
+   "desc": "CLUTCH - PTO",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 24.1,
+   "y": 66.7,
+   "partNo": "C37528",
+   "desc": "CABLE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 38.5,
+   "y": 23.6,
+   "partNo": "C44075",
+   "desc": "WIRE - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 62.5,
+   "y": 65.6,
+   "partNo": "C33024",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 40.3,
+   "y": 62.6,
+   "partNo": "C37523",
+   "desc": "CABLE - battery positive to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 54.8,
+   "y": 47.4,
+   "partNo": "C46222",
+   "desc": "SWITCH - oil light",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 23.1,
+   "y": 36.7,
+   "partNo": "C41643",
+   "desc": "WIRE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 64.6,
+   "y": 46.9,
+   "partNo": "C46218",
+   "desc": "HARNESS - oil pressure switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 51.5,
+   "y": 67.5,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 40.9,
+   "y": 66.9,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 26.6,
+   "y": 89.4,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 24.5,
+   "y": 87.5,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 21.8,
+   "y": 85.7,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 20,
+   "y": 83.4,
+   "partNo": "C37983",
+   "desc": "BRACKET - hold down",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 7.5,
+   "y": 86.3,
+   "partNo": "C38677",
+   "desc": "BOLT - 1/4\" - 20 x 7\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 7.2,
+   "y": 89.2,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 7.4,
+   "y": 96.2,
+   "partNo": "C24069",
+   "desc": "COVER - terminal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Grazer G2090V (hydraulic drive).\nApplies to S/N 953510001 and after. Also listed, not shown on diagram: C45535 HARNESS - wire, main (1); C22573 LENS - headlight (part of ref 3 headlight) (1); C37508 BULB - headlight (part of ref 3 headlight) (1); C37509 RECEPTICAL (part of ref 3 headlight) (1); C14304 GASKET - headlight (part of ref 3 headlight) (1); C44469 NUT - 1/2\" - 27 (black) PTO switch retaining (2); C31620 NUT - 1/2\" - 27 (black) PTO switch retaining (1); C32407 KEY - ignition (1); C32397 CAP - nut, ignition switch (1); 193-63 LOCKWASHER - 5/8\" (ignition switch) (1); C32396 NUT - 5/8\" - 32 ignition switch (1); 182-525 SCREW - #10 - 32 x 3/8\" (safety switch mount) (1); 192-18 LOCKWASHER - 3/16\" (safety switch mount) (1); 193-1000 NUT - #10 - 32 lock (safety switch mount) (2); 182-528 SCREW - #10 - 32 x 1/2\" (safety switch mount) (2); 113-3 BOLT - 1/4\" - 20 x 3/4\" (solenoid mounting) (2); 131-934 NUT - 1/4\" - 20 (solenoid mounting) (2); 192-19 LOCKWASHER - 1/4\" (solenoid studs) (2); 129-101 NUT - 1/4\" - 20 (solenoid studs) (2)."
+}

@@ -1,0 +1,166 @@
+{
+ "sectionTitle": "Decals (Tractor and Deck)",
+ "breadcrumb": "Decals (Tractor and Deck)",
+ "catalogLabel": "Catalog G107",
+ "modelNumbers": "Catalog G107 — Grazer G2090V Hydraulic Drive Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G107/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 51.1,
+   "y": 10,
+   "variants": [
+    {
+     "partNo": "C46076",
+     "desc": "DECAL - body side L.H. \"G2090V\"",
+     "reqd": "1",
+     "serialNote": "L.H."
+    },
+    {
+     "partNo": "C46077",
+     "desc": "DECAL - body side R.H. \"G2090V\" (shown)",
+     "reqd": "1",
+     "serialNote": "R.H. (shown)"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 80.1,
+   "y": 22.8,
+   "partNo": "C46321",
+   "desc": "DECAL - \"WARNING\" operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 48.2,
+   "y": 66.1,
+   "partNo": "C37501",
+   "desc": "DECAL - instrument panel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 15.3,
+   "y": 78.9,
+   "partNo": "C38047",
+   "desc": "MEDALLION - \"GRAZER\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "partNo": "C46315",
+   "desc": "DECAL - \"WARNING\" operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 17.9,
+   "y": 52.3,
+   "partNo": "C46310",
+   "desc": "DECAL - \"ATTENTION\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 83.7,
+   "y": 65.4,
+   "partNo": "C46309",
+   "desc": "DECAL - steering levers",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 14.4,
+   "y": 90.4,
+   "partNo": "C46312",
+   "desc": "DECAL - parking brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 85.8,
+   "y": 88.8,
+   "partNo": "C37500",
+   "desc": "DECAL - \"DANGER\" carbon monoxide",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 48.5,
+   "y": 23.1,
+   "partNo": "C46318",
+   "desc": "DECAL - lubrication",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 63.5,
+   "y": 60.6,
+   "partNo": "C46317",
+   "desc": "DECAL - clean cooler",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 74.3,
+   "y": 13.7,
+   "variants": [
+    {
+     "partNo": "C46385",
+     "desc": "DECAL - fender skirt L.H.",
+     "reqd": "1",
+     "serialNote": "L.H."
+    },
+    {
+     "partNo": "C43418",
+     "desc": "DECAL - fender skirt R.H. (shown)",
+     "reqd": "1",
+     "serialNote": "R.H. (shown)"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 25,
+   "y": 11.9,
+   "partNo": "C43413",
+   "desc": "DECAL - front \"GRAZER\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 28.6,
+   "y": 11.8,
+   "partNo": "C43416",
+   "desc": "DECAL - tail side \"GRAZER\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 18.1,
+   "y": 39.1,
+   "partNo": "C46323",
+   "desc": "DECAL - \"DANGER\" spinning blade (deck)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 92.6,
+   "y": 43.9,
+   "partNo": "C46324",
+   "desc": "DECAL - \"WARNING\" spinning blade (deck)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 17.9,
+   "y": 22.4,
+   "partNo": "C46325",
+   "desc": "DECAL - \"Danger\" (deck)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Grazer G2090V (hydraulic drive).\nRefs 15-17 are deck decals."
+}

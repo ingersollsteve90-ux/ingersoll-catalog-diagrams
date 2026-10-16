@@ -1,0 +1,402 @@
+{
+ "sectionTitle": "62\" Mower Deck and Attaching Parts",
+ "breadcrumb": "62\" Mower Deck and Attaching Parts",
+ "catalogLabel": "Catalog G107",
+ "modelNumbers": "Catalog G107 — Grazer G2090V Hydraulic Drive Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G107/mower_deck_62.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 33.7,
+   "y": 73.8,
+   "partNo": "C44088",
+   "desc": "DECK - 62\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 91,
+   "y": 37.7,
+   "partNo": "C41396",
+   "desc": "CHUTE - foot guard",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 65.6,
+   "y": 54.1,
+   "partNo": "C41400",
+   "desc": "MOUNT - foot guard",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 49.6,
+   "y": 45.2,
+   "partNo": "C41392",
+   "desc": "COVER - pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 38.2,
+   "y": 47.6,
+   "partNo": "C41378",
+   "desc": "COVER - center",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 26.6,
+   "y": 58.8,
+   "partNo": "C41373",
+   "desc": "COVER - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 28.7,
+   "y": 83.8,
+   "partNo": "C37956",
+   "desc": "SHOE - skid L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 61.4,
+   "y": 88.3,
+   "partNo": "C37910",
+   "desc": "ROLLER - anti-skid",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 66.3,
+   "y": 83,
+   "partNo": "C37911",
+   "desc": "SHAFT - roller",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 28.9,
+   "y": 34.5,
+   "partNo": "C37912",
+   "desc": "BRACKET - gauge wheel mount",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 28,
+   "y": 13.2,
+   "partNo": "C37913",
+   "desc": "MOUNT - gauge wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 11.6,
+   "y": 24.3,
+   "partNo": "C45842",
+   "desc": "FORK - gauge wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 11.5,
+   "y": 43.6,
+   "partNo": "C37915",
+   "desc": "AXLE - gauge wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 22.9,
+   "y": 42.7,
+   "partNo": "C37916",
+   "desc": "WHEEL - gauge",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 25.3,
+   "y": 35.7,
+   "partNo": "113-2419",
+   "desc": "BOLT - 1/2\" - 13 x 6-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 42.3,
+   "y": 16,
+   "partNo": "C37920",
+   "desc": "BOLT - wing",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 21.1,
+   "y": 20.7,
+   "partNo": "C37921",
+   "desc": "NUT - gauge wheel handle",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 95.6,
+   "y": 53.6,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit - 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 22.3,
+   "y": 6.8,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 22.8,
+   "y": 10.1,
+   "partNo": "C37824",
+   "desc": "BEARING - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 12.2,
+   "y": 18.3,
+   "partNo": "C37824",
+   "desc": "BEARING - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 67.9,
+   "y": 39.1,
+   "partNo": "C37922",
+   "desc": "PIN - \"fas-tatch\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 87.3,
+   "y": 72.4,
+   "partNo": "141-56",
+   "desc": "PIN - deck",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 85.9,
+   "y": 78.7,
+   "partNo": "C29029",
+   "desc": "PIN - cotter, hair",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 91.6,
+   "y": 86.5,
+   "partNo": "C37957",
+   "desc": "SHOE - skid R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 74.1,
+   "y": 35.1,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 86.1,
+   "y": 50.2,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 85.1,
+   "y": 37.7,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 52.9,
+   "y": 41.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 72.4,
+   "y": 39.5,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 80.6,
+   "y": 35.8,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 56.8,
+   "y": 35.9,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 41.3,
+   "y": 25.8,
+   "partNo": "111-203",
+   "desc": "BOLT - 5/16\" - 18 x 1\" carriage",
+   "reqd": "6"
+  },
+  {
+   "ref": "32",
+   "x": 8.7,
+   "y": 11.4,
+   "partNo": "219-20",
+   "desc": "FITTING - grease",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 11.9,
+   "y": 3.4,
+   "partNo": "C37756",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 42,
+   "y": 29.2,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "34",
+   "x": 43.1,
+   "y": 93,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "34",
+   "x": 75.7,
+   "y": 85.1,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "35",
+   "x": 42.6,
+   "y": 32.6,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "35",
+   "x": 47.3,
+   "y": 90.7,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "35",
+   "x": 72.1,
+   "y": 84.1,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "6"
+  },
+  {
+   "ref": "36",
+   "x": 4.3,
+   "y": 38.6,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 5.9,
+   "y": 47.5,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 79.9,
+   "y": 86.6,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 37.2,
+   "y": 94.6,
+   "partNo": "111-202",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 92.6,
+   "y": 66.9,
+   "partNo": "182-528",
+   "desc": "SCREW - #10 - 32 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 88.7,
+   "y": 64.9,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 52.9,
+   "y": 88.7,
+   "partNo": "C39221",
+   "desc": "BRACKET - height adjust L.H.",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 56,
+   "y": 89.1,
+   "partNo": "C39222",
+   "desc": "BRACKET - height adjust R.H.",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Grazer G2090V (hydraulic drive).\nAlso listed, not shown on diagram: C29145 TIRE - 11 x 4.00 - 5 (part of ref 14 gauge wheel) (1); C44496 RIM - 5\" (includes bearings and grease fitting) (part of ref 14 gauge wheel) (1); C44499 BEARING - wheel (part of C44496 rim) (2); 219-10 FITTING - grease (part of C44496 rim) (1)."
+}

@@ -1,0 +1,75 @@
+{
+ "sectionTitle": "Electrical System (Deck Lift) - Cylinder Style",
+ "breadcrumb": "Electrical System (Deck Lift) - Cylinder Style",
+ "catalogLabel": "Catalog G107",
+ "modelNumbers": "Catalog G107 — Grazer G2090V Hydraulic Drive Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G107/electric_deck_lift_electrical.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 26.7,
+   "y": 86.1,
+   "partNo": "C45705",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 28.7,
+   "y": 11.6,
+   "partNo": "C45775",
+   "desc": "SWITCH",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 20.4,
+   "y": 12.9,
+   "partNo": "C45780",
+   "desc": "NUT - 15/32\" - 32 with boot (switch mounting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "partNo": "C44495",
+   "desc": "DECAL - lift switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 16.7,
+   "y": 74.2,
+   "variants": [
+    {
+     "partNo": "C31947",
+     "desc": "KIT - fuse holder",
+     "reqd": "1",
+     "serialNote": "Fuse holder kit"
+    },
+    {
+     "partNo": "C30260",
+     "desc": "FUSE - 30 amp",
+     "reqd": "1",
+     "serialNote": "Fuse"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 62.1,
+   "y": 47.7,
+   "partNo": "C24813",
+   "desc": "CONNECTOR - wire harness",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 68.9,
+   "y": 49,
+   "partNo": "C31948",
+   "desc": "CONNECTOR - lift actuator",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Grazer G2090V (hydraulic drive)."
+}

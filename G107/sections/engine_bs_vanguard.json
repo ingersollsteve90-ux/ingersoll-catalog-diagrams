@@ -1,0 +1,283 @@
+{
+ "sectionTitle": "Engine and Attaching Parts - Briggs & Stratton Vanguard Model",
+ "breadcrumb": "Engine and Attaching Parts - Briggs & Stratton Vanguard Model",
+ "catalogLabel": "Catalog G107",
+ "modelNumbers": "Catalog G107 — Grazer G2090V Hydraulic Drive Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G107/engine_bs_vanguard.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 38.2,
+   "y": 62.6,
+   "partNo": "C45915",
+   "desc": "ENGINE - Briggs & Stratton Model 351447, type 1192 (20 hp)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 63.5,
+   "y": 17.2,
+   "partNo": "C37544",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 63.5,
+   "y": 8.1,
+   "partNo": "C37543",
+   "desc": "PRE-CLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 67.5,
+   "y": 66.1,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 67.3,
+   "y": 71.9,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 84.9,
+   "y": 83.1,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 74.3,
+   "y": 56.5,
+   "partNo": "C32455",
+   "desc": "CLIP - \"J\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 96.6,
+   "y": 56.7,
+   "partNo": "C44244",
+   "desc": "PIPE - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 92.6,
+   "y": 78.8,
+   "partNo": "C44243",
+   "desc": "BRACKET - exhaust pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 81.5,
+   "y": 69.8,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 28.6,
+   "y": 59.5,
+   "partNo": "C45105",
+   "desc": "DUCT - muffler, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 45.1,
+   "y": 94.4,
+   "partNo": "C45109",
+   "desc": "DUCT - bottom",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 60.4,
+   "y": 90.2,
+   "partNo": "C45111",
+   "desc": "SUPPORT - duct",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 21.2,
+   "y": 64,
+   "partNo": "C45111",
+   "desc": "SUPPORT - duct",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 58.8,
+   "y": 80.5,
+   "partNo": "C45273",
+   "desc": "SCREW - M6 x 10",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 83.9,
+   "y": 62.6,
+   "partNo": "C28294",
+   "desc": "CLAMP - exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 21.1,
+   "y": 24.9,
+   "partNo": "217-1085",
+   "desc": "FITTING - street elbow, 1/4\" NPT 45°",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 30.9,
+   "y": 39.5,
+   "partNo": "C33949",
+   "desc": "NIPPLE - pipe 3.5\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 25.6,
+   "y": 35.6,
+   "partNo": "218-5154",
+   "desc": "PLUG - 1/2\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 30.6,
+   "y": 18.1,
+   "variants": [
+    {
+     "partNo": "C37531",
+     "desc": "UNIT - oil sending (use before S/N 953510001)",
+     "reqd": "1",
+     "serialNote": "Before S/N 953510001"
+    },
+    {
+     "partNo": "C46222",
+     "desc": "UNIT - oil sending (use S/N 953510001 and after)",
+     "reqd": "1",
+     "serialNote": "S/N 953510001 and after"
+    }
+   ]
+  },
+  {
+   "ref": "20",
+   "x": 69.3,
+   "y": 33.5,
+   "partNo": "C37537",
+   "desc": "SHAFT - stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 77,
+   "y": 49.5,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 81.4,
+   "y": 45.8,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 86.9,
+   "y": 38.9,
+   "partNo": "C37539",
+   "desc": "PULLEY - engine (use 83-55 set screw)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 74.1,
+   "y": 29.1,
+   "partNo": "C41015",
+   "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 34.9,
+   "y": 50.2,
+   "partNo": "C44862",
+   "desc": "MUFFLER",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 14.7,
+   "y": 64.2,
+   "variants": [
+    {
+     "partNo": "C37819",
+     "desc": "CABLE - choke",
+     "reqd": "1",
+     "serialNote": "Choke"
+    },
+    {
+     "partNo": "C37820",
+     "desc": "CABLE - throttle",
+     "reqd": "1",
+     "serialNote": "Throttle"
+    }
+   ]
+  },
+  {
+   "ref": "27",
+   "x": 3.7,
+   "y": 64.7,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 28.1,
+   "y": 95.4,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 15.3,
+   "y": 7.7,
+   "variants": [
+    {
+     "partNo": "C42240",
+     "desc": "HARNESS - wire (use before S/N 95351001) shown",
+     "reqd": "1",
+     "serialNote": "Before S/N 95351001 (shown)"
+    },
+    {
+     "partNo": "C46218",
+     "desc": "HARNESS - wire (use S/N 95351001 and after)",
+     "reqd": "1",
+     "serialNote": "S/N 95351001 and after"
+    }
+   ]
+  }
+ ],
+ "footnotes": "Grazer G2090V (hydraulic drive).\nSee your local engine dealer for other parts and repairs."
+}

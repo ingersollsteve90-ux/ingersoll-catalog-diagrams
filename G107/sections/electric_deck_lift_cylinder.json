@@ -1,0 +1,114 @@
+{
+ "sectionTitle": "Electric Deck Lift - Cylinder Style",
+ "breadcrumb": "Electric Deck Lift - Cylinder Style",
+ "catalogLabel": "Catalog G107",
+ "modelNumbers": "Catalog G107 — Grazer G2090V Hydraulic Drive Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G107/electric_deck_lift_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 43.4,
+   "y": 5.4,
+   "partNo": "C45697",
+   "desc": "MOUNT - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 10.8,
+   "y": 86.7,
+   "partNo": "C45700",
+   "desc": "BAR - cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 12.8,
+   "y": 77,
+   "partNo": "C29804",
+   "desc": "PIN - clevis 1/2\" x 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 20.4,
+   "y": 66.9,
+   "partNo": "195-2067",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 44.8,
+   "y": 64.1,
+   "partNo": "195-2067",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 41.2,
+   "y": 54.8,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 4.8,
+   "y": 54.4,
+   "partNo": "113-426",
+   "desc": "BOLT - 1/2\" - 13 x 2-3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 44.4,
+   "y": 36.9,
+   "partNo": "131-1182",
+   "desc": "NUT - 1/2\" - 13 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 40.2,
+   "y": 28.4,
+   "partNo": "C45768",
+   "desc": "LINK - spacer",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "9",
+   "x": 6.9,
+   "y": 23,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 21.2,
+   "y": 5.8,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 14.9,
+   "y": 26,
+   "partNo": "C45766",
+   "desc": "SHIM - cylinder mount",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "12",
+   "x": 21.5,
+   "y": 39,
+   "partNo": "C45706",
+   "desc": "CYLINDER - lift",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Grazer G2090V (hydraulic drive)."
+}

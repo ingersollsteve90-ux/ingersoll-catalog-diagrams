@@ -1,0 +1,457 @@
+{
+ "sectionTitle": "62\" Mower Drive",
+ "breadcrumb": "62\" Mower Drive",
+ "catalogLabel": "Catalog G107",
+ "modelNumbers": "Catalog G107 — Grazer G2090V Hydraulic Drive Grounds Mowers",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G107/mower_drive_62.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 52.8,
+   "y": 53.1,
+   "partNo": "C41757",
+   "desc": "MOUNT - gear box",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 14.4,
+   "y": 15.4,
+   "partNo": "195-103",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 70.5,
+   "y": 20.5,
+   "partNo": "C37877",
+   "desc": "ANGLE - gear box mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 27.9,
+   "y": 40.4,
+   "partNo": "C45654",
+   "desc": "TIGHTENER - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 9.6,
+   "y": 45.8,
+   "variants": [
+    {
+     "partNo": "C45860",
+     "desc": "HOUSING ASSEMBLY - spindle (includes ref. 5, 6, 9)",
+     "reqd": "3",
+     "serialNote": "Assembly (includes refs 5, 6, 9)"
+    },
+    {
+     "partNo": "C37945",
+     "desc": "HOUSING - spindle",
+     "reqd": "3",
+     "serialNote": "Housing only"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 18.3,
+   "y": 46.5,
+   "variants": [
+    {
+     "partNo": "C37946",
+     "desc": "SPACER - spindle",
+     "reqd": "3",
+     "serialNote": "Before S/N 013503103"
+    },
+    {
+     "partNo": "C45885",
+     "desc": "SPACER - spindle",
+     "reqd": "3",
+     "serialNote": "S/N 013503103 and after"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 18.5,
+   "y": 53.8,
+   "partNo": "C44132",
+   "desc": "SHAFT - spindle, short",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 46.8,
+   "y": 34.6,
+   "partNo": "C44134",
+   "desc": "SHAFT - spindle, long",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 8.5,
+   "y": 49.8,
+   "variants": [
+    {
+     "partNo": "C42786",
+     "desc": "BEARING - spindle",
+     "reqd": "6",
+     "serialNote": "Before S/N 013503103"
+    },
+    {
+     "partNo": "C45886",
+     "desc": "BEARING - spindle",
+     "reqd": "6",
+     "serialNote": "S/N 013503103 and after"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 18.6,
+   "y": 40.5,
+   "variants": [
+    {
+     "partNo": "C42786",
+     "desc": "BEARING - spindle",
+     "reqd": "6",
+     "serialNote": "Before S/N 013503103"
+    },
+    {
+     "partNo": "C45886",
+     "desc": "BEARING - spindle",
+     "reqd": "6",
+     "serialNote": "S/N 013503103 and after"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 22.8,
+   "y": 72.1,
+   "variants": [
+    {
+     "partNo": "C44138",
+     "desc": "BLADE",
+     "reqd": "3",
+     "serialNote": "Standard blade"
+    },
+    {
+     "partNo": "C45511",
+     "desc": "BLADE - mulching (not shown)",
+     "reqd": "3",
+     "serialNote": "Mulching blade"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 22.7,
+   "y": 15.1,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 48.1,
+   "y": 3.8,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 48.3,
+   "y": 12.8,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 8,
+   "y": 30.3,
+   "partNo": "C37950",
+   "desc": "PULLEY - spindle",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 21.3,
+   "y": 30.3,
+   "partNo": "C37932",
+   "desc": "PULLEY - gear box output",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 56.8,
+   "y": 39.1,
+   "partNo": "C37892",
+   "desc": "PULLEY - gear box input",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 35.7,
+   "y": 18,
+   "partNo": "C37933",
+   "desc": "PULLEY - idler, large",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 14.8,
+   "y": 19.6,
+   "partNo": "C45655",
+   "desc": "PULLEY - idler, small",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 35,
+   "y": 10.4,
+   "partNo": "C38929",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 70.3,
+   "y": 47.2,
+   "partNo": "C44241",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 79.6,
+   "y": 24.7,
+   "partNo": "C37898",
+   "desc": "GEAR BOX - angle drive (see page 59)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 9.4,
+   "y": 35.1,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "9"
+  },
+  {
+   "ref": "19",
+   "x": 47.2,
+   "y": 9.5,
+   "partNo": "C37888",
+   "desc": "WASHER - spacer",
+   "reqd": "9"
+  },
+  {
+   "ref": "20",
+   "x": 36.7,
+   "y": 39.8,
+   "partNo": "C37901",
+   "desc": "BOLT - 1/4\" - 20 x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 9.5,
+   "y": 21.8,
+   "partNo": "114-201",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 8.9,
+   "y": 27,
+   "partNo": "C45846",
+   "desc": "WASHER - 3/8\", 10 ga.",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 6.1,
+   "y": 51.6,
+   "partNo": "131-1216",
+   "desc": "NUT - lock 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "24",
+   "x": 17.1,
+   "y": 68.2,
+   "partNo": "113-268",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 52.2,
+   "y": 19.2,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 15.3,
+   "y": 11.2,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 4.3,
+   "y": 44.7,
+   "partNo": "113-312",
+   "desc": "BOLT - 7/16\" - 14 x 1-1/4\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "28",
+   "x": 3.6,
+   "y": 40,
+   "partNo": "192-22",
+   "desc": "LOCKWASHER - 7/16\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "29",
+   "x": 4.3,
+   "y": 35.7,
+   "partNo": "129-104",
+   "desc": "NUT - 7/16\" - 14",
+   "reqd": "12"
+  },
+  {
+   "ref": "30",
+   "x": 22.6,
+   "y": 38.3,
+   "partNo": "113-213",
+   "desc": "BOLT - 3/8\" - 16 x 2-1/4\"",
+   "reqd": ""
+  },
+  {
+   "ref": "31",
+   "x": 35.8,
+   "y": 25.9,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 26.9,
+   "y": 32.5,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 25.3,
+   "y": 12.3,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 25.6,
+   "y": 8.3,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 40.2,
+   "y": 32.8,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 34.4,
+   "y": 45.9,
+   "partNo": "111-371",
+   "desc": "BOLT - 3/8\" - 16 x 1\" carriage",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 58.4,
+   "y": 18,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 62.8,
+   "y": 19.9,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "37",
+   "x": 73.7,
+   "y": 37,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "38",
+   "x": 66.6,
+   "y": 17.8,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 68.3,
+   "y": 35.9,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 53.1,
+   "y": 24.3,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 52.9,
+   "y": 28.2,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 23.2,
+   "y": 44.7,
+   "partNo": "219-20",
+   "desc": "FITTING - grease 1/4\" - 28",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "Grazer G2090V (hydraulic drive).\n* Use before S/N 013503103. ** Use S/N 013503103 and after. Gear box C37898: see the Gear Box section."
+}
