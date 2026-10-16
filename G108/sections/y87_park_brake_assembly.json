@@ -1,0 +1,173 @@
+{
+ "sectionTitle": "1987 Models - Park Brake Assembly",
+ "breadcrumb": "1987 Models - Park Brake Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y87_park_brake_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 65.6,
+   "y": 52.5,
+   "partNo": "G1400007",
+   "desc": "BRAKE BAND PLATE R.H. (catalog no. 140-0007)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 76,
+   "y": 44.3,
+   "partNo": "G1400008",
+   "desc": "BRAKE BAND PLATE L.H. (catalog no. 140-0008)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 59.3,
+   "y": 40.6,
+   "partNo": "G1400009",
+   "desc": "BRAKE BAND PIN (catalog no. 140-0009)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 48.9,
+   "y": 32.6,
+   "partNo": "G1400010",
+   "desc": "BRAKE BAND LINKAGE (catalog no. 140-0010)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 83.8,
+   "y": 43.2,
+   "partNo": "G1400013",
+   "desc": "BRAKE LEVER LINKAGE (catalog no. 140-0013)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 45,
+   "y": 66.9,
+   "partNo": "G1400024",
+   "desc": "BRAKE DRUM (catalog no. 140-0024)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 70.2,
+   "y": 20.3,
+   "partNo": "G1400029",
+   "desc": "BRAKE BAND ROD L.H. (catalog no. 140-0029)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 56.9,
+   "y": 28,
+   "partNo": "G1400030",
+   "desc": "BRAKE BAND ROD R.H. (catalog no. 140-0030)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 73.5,
+   "y": 55.9,
+   "partNo": "G1400031",
+   "desc": "BRAKE BAND STOP (catalog no. 140-0031)",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 85.9,
+   "y": 12.7,
+   "partNo": "G2400017",
+   "desc": "PARK BRAKE MOUNT (catalog no. 240-0017)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 92.9,
+   "y": 18,
+   "partNo": "G2400018",
+   "desc": "PARK BRAKE LEVER (catalog no. 240-0018)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 66,
+   "y": 13.3,
+   "partNo": "G9002046",
+   "desc": "SWITCH (catalog no. 900-2046)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 94.6,
+   "y": 24.8,
+   "partNo": "G9005500",
+   "desc": "HANDLE GRIP (catalog no. 900-5500)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 58.2,
+   "y": 59.5,
+   "partNo": "G9005646",
+   "desc": "BRAKE FLUID (catalog no. 900-5646)",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 52.5,
+   "y": 56.5,
+   "partNo": "G9005647",
+   "desc": "PIN (catalog no. 900-5647)",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 70.9,
+   "y": 28.9,
+   "partNo": "G9005653",
+   "desc": "TURN BUCKLE (catalog no. 900-5653)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 39.1,
+   "y": 46.3,
+   "partNo": "G9004028",
+   "desc": "HUB (catalog no. 900-4028)",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 56.4,
+   "y": 73.6,
+   "variants": [
+    {
+     "serialNote": "23 x 8.50 x 12 (G3100-CD)",
+     "partNo": "G9004024",
+     "desc": "WHEEL ASSY. 23 X 8.50 X 12 (G3100-CD) (catalog no. 900-4024)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "23 x 10.50 x 12 (G4200-CD)",
+     "partNo": "G9004025",
+     "desc": "WHEEL ASSY. 23 X 10.50 X 12 (G4200-CD) (catalog no. 900-4025)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 2.8,
+   "y": 72.5,
+   "partNo": "G9006105",
+   "desc": "LUG BOLT (catalog no. 900-6105)",
+   "reqd": "10"
+  }
+ ],
+ "footnotes": "1987 models: Grazer G3100CD, G3200C and G4200CD liquid-cooled mowers, S/N 07-08-100 to 07-08-800. Also listed, not shown on diagram: 900-4029 TIRE 23 X 8.50 X 12 (part of 900-4024 wheel assy.); 900-4030 RIM 12 X 7\" (part of 900-4024 wheel assy.); 900-4031 TIRE 23 X 10.50 X 12 (part of 900-4025 wheel assy.); 900-4032 RIM 12 X 8.5\" (part of 900-4025 wheel assy.)."
+}

@@ -1,0 +1,194 @@
+{
+ "sectionTitle": "1988/1989 Models - Wiring Diagram (4 Cylinder Diesel)",
+ "breadcrumb": "1988/1989 Models - Wiring Diagram (4 Cylinder Diesel)",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y89_wiring_4cyl_diesel.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 38.6,
+   "y": 59.4,
+   "partNo": "G9002001",
+   "desc": "SEAT SWITCH (catalog no. 900-2001)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 10.6,
+   "y": 57.9,
+   "partNo": "G9002005",
+   "desc": "SOLENOID (catalog no. 900-2005)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 16.1,
+   "y": 19,
+   "partNo": "G9002023",
+   "desc": "HOUR METER (catalog no. 900-2023)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 60,
+   "y": 43.9,
+   "partNo": "G9002027",
+   "desc": "LIGHT SWITCH (catalog no. 900-2027)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 48.4,
+   "y": 4.3,
+   "partNo": "G9002028",
+   "desc": "P.T.O. SWITCH (catalog no. 900-2028)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 66.1,
+   "y": 62,
+   "partNo": "G9002029",
+   "desc": "SAFETY SWITCH (catalog no. 900-2029)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 90.8,
+   "y": 37.6,
+   "partNo": "G9002037",
+   "desc": "ELE. CLUTCH RELAY (catalog no. 900-2037)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 11.3,
+   "y": 92.2,
+   "partNo": "G9002043",
+   "desc": "BATTERY (catalog no. 900-2043)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 88.2,
+   "y": 18.2,
+   "partNo": "G9002044",
+   "desc": "10 AMP. BREAKER (catalog no. 900-2044)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 24.2,
+   "y": 73.4,
+   "partNo": "G9002045",
+   "desc": "FUEL SHUT OFF SOLENOID (catalog no. 900-2045)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 90.6,
+   "y": 57.4,
+   "partNo": "G9002046",
+   "desc": "BRAKE SWITCH (catalog no. 900-2046)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 82.9,
+   "y": 10.6,
+   "partNo": "G9002047",
+   "desc": "30 AMP. BREAKER (catalog no. 900-2047)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 66.8,
+   "y": 44.5,
+   "partNo": "G9002051",
+   "desc": "LIGHT ASSEMBLY (catalog no. 900-2051)",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 25.9,
+   "y": 44.7,
+   "partNo": "G9002051",
+   "desc": "LIGHT ASSEMBLY (catalog no. 900-2051)",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 7,
+   "y": 36.6,
+   "partNo": "G9002052",
+   "desc": "MURPHY SWITCH (catalog no. 900-2052)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 53.9,
+   "y": 35.4,
+   "partNo": "G9002053",
+   "desc": "IGNITION SWITCH (catalog no. 900-2053)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 41.2,
+   "y": 17.8,
+   "partNo": "G9002055",
+   "desc": "GLOW PLUG INDICATOR (catalog no. 900-2055)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 56.2,
+   "y": 8.3,
+   "partNo": "G9002056",
+   "desc": "OIL GAUGE (catalog no. 900-2056)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 32.6,
+   "y": 8.4,
+   "partNo": "G9002057",
+   "desc": "TEMP. GAUGE (catalog no. 900-2057)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 69,
+   "y": 17.4,
+   "partNo": "G9002058",
+   "desc": "60 AMP. GAUGE (catalog no. 900-2058)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 32.1,
+   "y": 70.8,
+   "partNo": "G9002059",
+   "desc": "FUEL PUMP (catalog no. 900-2059)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 78.1,
+   "y": 35.2,
+   "partNo": "G9002114",
+   "desc": "TIME DELAY (catalog no. 900-2114)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 81.3,
+   "y": 25.7,
+   "partNo": "G9005643",
+   "desc": "CLUTCH (catalog no. 900-5643)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "1988 and 1989 models: Grazer G3100CD, G3200C and G4200CD liquid-cooled mowers, S/N 08-08-0001 to 09-08-1181. This diagram has no printed reference numbers; the dot numbers follow the order of the parts list. Also listed, not shown on diagram: 900-2100 MAIN WIRING HARNESS (1). Note: this diagram labels the breaker \"40 AMP. BRK.\" - the diagram is incorrect. The correct part is the 900-2047 30 amp breaker listed below."
+}

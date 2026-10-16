@@ -1,0 +1,266 @@
+{
+ "sectionTitle": "1988/1989 Models - Seat Lid Assembly",
+ "breadcrumb": "1988/1989 Models - Seat Lid Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y89_seat_lid_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 97.1,
+   "y": 66.6,
+   "partNo": "G2400005G",
+   "desc": "SEAT LID (catalog no. 240-0005)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 60.3,
+   "y": 58.2,
+   "partNo": "G2400006",
+   "desc": "LEVER LOCK BLOCK (catalog no. 240-0006)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 70.7,
+   "y": 68.3,
+   "partNo": "G2400007",
+   "desc": "DECK LIFT LEVER MOUNT (catalog no. 240-0007)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 75.7,
+   "y": 52.2,
+   "partNo": "G2400008",
+   "desc": "DECK LIFT LEVER (catalog no. 240-0008)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 61.7,
+   "y": 61.6,
+   "partNo": "G2400009",
+   "desc": "LEVER LOCK (catalog no. 240-0009)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 37.9,
+   "y": 44.8,
+   "partNo": "G2400010",
+   "desc": "STEERING LEVERS (catalog no. 240-0010)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 35.5,
+   "y": 67.4,
+   "partNo": "G2400011",
+   "desc": "STEERING LEVER BLOCK (catalog no. 240-0011)",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 14,
+   "y": 90.3,
+   "partNo": "G2400014",
+   "desc": "LID PROP (catalog no. 240-0014)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 8.4,
+   "y": 84.5,
+   "partNo": "G2400015",
+   "desc": "LID PROP LOCK (catalog no. 240-0015)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 64.4,
+   "y": 45.2,
+   "partNo": "G2400002",
+   "desc": "LEVER LOCK HANDLE (catalog no. 240-0002)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 67.3,
+   "y": 70.6,
+   "partNo": "G2400023",
+   "desc": "SEAT LID PIN (catalog no. 240-0023)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 27.8,
+   "y": 89.8,
+   "partNo": "G2400024",
+   "desc": "SEAT LATCH (catalog no. 240-0024)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 26,
+   "y": 87.4,
+   "partNo": "G2000014",
+   "desc": "BUSHING, STEERING CABLE (catalog no. 200-0014)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 55.6,
+   "y": 68.5,
+   "partNo": "G1400023",
+   "desc": "STEERING CABLE ENDS (catalog no. 140-0023)",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 62.7,
+   "y": 66.1,
+   "partNo": "G2000014",
+   "desc": "STEERING CABLE END, BUSHING (catalog no. 200-0014)",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 47.4,
+   "y": 72,
+   "partNo": "G2000014",
+   "desc": "STEERING CABLE END, BUSHING (catalog no. 200-0014)",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 89.6,
+   "y": 86.1,
+   "partNo": "G1110022",
+   "desc": "SPACER (catalog no. 111-0022)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 44,
+   "y": 64.7,
+   "partNo": "G9002029",
+   "desc": "SAFETY SWITCH (catalog no. 900-2029)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 36.3,
+   "y": 81.1,
+   "partNo": "G9005700",
+   "desc": "SPRING (catalog no. 900-5700)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 65.4,
+   "y": 50.4,
+   "partNo": "G9005674",
+   "desc": "SPRING (catalog no. 900-5674)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 43,
+   "y": 69.9,
+   "partNo": "G9005619",
+   "desc": "GREASE ZERK (catalog no. 900-5619)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 57.7,
+   "y": 77.6,
+   "partNo": "G9005624",
+   "desc": "1/4\" STEERING CABLE (catalog no. 900-5624)",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 61,
+   "y": 82.6,
+   "partNo": "G9005625",
+   "desc": "1/4\" STEERING CABLE CLAMP (catalog no. 900-5625)",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 90.3,
+   "y": 82.2,
+   "partNo": "G9005626",
+   "desc": "PIN (catalog no. 900-5626)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 50.4,
+   "y": 46.9,
+   "partNo": "G9005627",
+   "desc": "HANDLE (catalog no. 900-5627)",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 26,
+   "y": 54,
+   "partNo": "G9005627",
+   "desc": "HANDLE (catalog no. 900-5627)",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 34.8,
+   "y": 46.9,
+   "partNo": "G9006094",
+   "desc": "3/8 STUD (catalog no. 900-6094)",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 44.6,
+   "y": 48.6,
+   "partNo": "G9006094",
+   "desc": "3/8 STUD (catalog no. 900-6094)",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 83.7,
+   "y": 43.9,
+   "partNo": "G9002001",
+   "desc": "SEAT SWITCH (catalog no. 900-2001)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 41.9,
+   "y": 22.1,
+   "partNo": "GDS-13",
+   "desc": "ARM REST (OPTIONAL)",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 62.7,
+   "y": 42.7,
+   "partNo": "G9005648",
+   "desc": "SEAT (catalog no. 900-5648)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 83.9,
+   "y": 97.6,
+   "partNo": "G9008000",
+   "desc": "HYDRAULIC DECK LIFT (catalog no. 900-8000)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "1988 and 1989 models: Grazer G3100CD, G3200C and G4200CD liquid-cooled mowers, S/N 08-08-0001 to 09-08-1181."
+}

@@ -1,0 +1,245 @@
+{
+ "sectionTitle": "1990/1991 Models - Console Housing Assembly",
+ "breadcrumb": "1990/1991 Models - Console Housing Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y91_console_housing_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 65.6,
+   "y": 38.5,
+   "partNo": "G2400004G",
+   "desc": "Console Housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 60.6,
+   "y": 25.4,
+   "partNo": "G2400013",
+   "desc": "Dash",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 56.5,
+   "y": 85.4,
+   "partNo": "G2400016",
+   "desc": "Tunnel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 72.5,
+   "y": 39.8,
+   "partNo": "G2400028",
+   "desc": "Grab Bar",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 28.7,
+   "y": 56.1,
+   "partNo": "G2400021",
+   "desc": "Light Clamp",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 14.9,
+   "y": 67.8,
+   "partNo": "G2400021",
+   "desc": "Light Clamp",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 75.2,
+   "y": 12,
+   "partNo": "G9002023",
+   "desc": "Hour Meter",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 23.5,
+   "y": 63,
+   "partNo": "G9002025",
+   "desc": "Light Bulbs",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 54.5,
+   "y": 36.6,
+   "partNo": "G9002027",
+   "desc": "Light Switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 65.1,
+   "y": 6.3,
+   "partNo": "G9002028",
+   "desc": "PTO Switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 54.3,
+   "y": 68.3,
+   "partNo": "G9002037",
+   "desc": "Electric Clutch Relay",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 46.9,
+   "y": 73,
+   "partNo": "G9002047",
+   "desc": "40 Amp Circuit Breaker",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 25.2,
+   "y": 64.9,
+   "partNo": "G9002048",
+   "desc": "Light Socket",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 19.9,
+   "y": 62.6,
+   "partNo": "G9002049",
+   "desc": "Lamp",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 14,
+   "y": 54.2,
+   "partNo": "G9002050",
+   "desc": "Lens",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 8.3,
+   "y": 60.2,
+   "partNo": "G9002051",
+   "desc": "Light Assembly",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 47,
+   "y": 14.2,
+   "partNo": "G9002052",
+   "desc": "Murphy Switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 34.8,
+   "y": 24.8,
+   "partNo": "G9002053",
+   "desc": "Ignition Switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 66.2,
+   "y": 75.2,
+   "partNo": "G9002054",
+   "desc": "Rectifier Regulator, 3 Cylinder Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 69.2,
+   "y": 15.5,
+   "partNo": "G9002055",
+   "desc": "Glow Plug Indicator, Diesel Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 62,
+   "y": 9.5,
+   "partNo": "G9002056",
+   "desc": "Oil Gauge",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 67.8,
+   "y": 3.5,
+   "partNo": "G9002057",
+   "desc": "Temperature Gauge",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 63.7,
+   "y": 19.6,
+   "partNo": "G9002058",
+   "desc": "60 Amp Gauge",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 34.5,
+   "y": 40.4,
+   "variants": [
+    {
+     "serialNote": "Throttle Cable, Diesel",
+     "partNo": "G9005649",
+     "desc": "Throttle Cable, Diesel",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Choke Cable, Gas",
+     "partNo": "G9005682",
+     "desc": "Choke Cable, Gas",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "24",
+   "x": 49.7,
+   "y": 65.1,
+   "partNo": "G9002114",
+   "desc": "Time Delay",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 58.4,
+   "y": 13.4,
+   "partNo": "G9005651",
+   "desc": "Compression Fitting",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 56.7,
+   "y": 16.5,
+   "partNo": "G9005652",
+   "desc": "Oil Tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 24.3,
+   "y": 23.3,
+   "partNo": "G9005681",
+   "desc": "Throttle Cable, Gas",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "1990 and 1991 models: Grazer G3200C, G3210C, G4200CD and G4210CD liquid-cooled mowers, S/N 00-09-0001 to 01-09-1025."
+}

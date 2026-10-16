@@ -1,0 +1,293 @@
+{
+ "sectionTitle": "1987 Models - Wheel Motor & Pump Assembly",
+ "breadcrumb": "1987 Models - Wheel Motor & Pump Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y87_wheel_motor_pump.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 65.7,
+   "y": 7.1,
+   "partNo": "G9008050",
+   "desc": "WHEEL MOTOR (catalog no. 900-8050)",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 10.4,
+   "y": 51.4,
+   "partNo": "G9008050",
+   "desc": "WHEEL MOTOR (catalog no. 900-8050)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 6.2,
+   "y": 79.5,
+   "partNo": "G9008052",
+   "desc": "WHEEL MOTOR NUT (catalog no. 900-8052)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 3.1,
+   "y": 65.7,
+   "partNo": "G9008053",
+   "desc": "KEY (catalog no. 900-8053)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 51.0,
+   "y": 70.4,
+   "variants": [
+    {
+     "serialNote": "WITH CHARGE PUMP",
+     "partNo": "G9008047",
+     "desc": "HYDRAULIC PUMP WITH CHARGE PUMP (catalog no. 900-8047)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "WITHOUT CHARGE PUMP",
+     "partNo": "G9008048",
+     "desc": "HYDRAULIC PUMP WITHOUT CHARGE PUMP (catalog no. 900-8048)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 81.8,
+   "y": 79.2,
+   "partNo": "G9008049",
+   "desc": "CHARGE PUMP (catalog no. 900-8049)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 28.2,
+   "y": 20.9,
+   "partNo": "G9008016",
+   "desc": "MALE TUBE, 45° ADJ O-RING ADP (catalog no. 900-8016)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 34.6,
+   "y": 27.6,
+   "partNo": "G9008020",
+   "desc": "ADJ O-RING, 90° FEMALE PIPE SWIVEL ADP (catalog no. 900-8020)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 53.2,
+   "y": 29.7,
+   "partNo": "G9008004",
+   "desc": "MALE TUBE, 90° FEMALE SWIVEL ADP (catalog no. 900-8004)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 17.4,
+   "y": 43.9,
+   "partNo": "G9008007",
+   "desc": "MALE TUBE, MALE O-RING ADP (catalog no. 900-8007)",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 66.6,
+   "y": 48.1,
+   "partNo": "G9008007",
+   "desc": "MALE TUBE, MALE O-RING ADP (catalog no. 900-8007)",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 25.3,
+   "y": 49.9,
+   "partNo": "G9008007",
+   "desc": "MALE TUBE, MALE O-RING ADP (catalog no. 900-8007)",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 56.2,
+   "y": 23.5,
+   "partNo": "G9008019",
+   "desc": "MALE O-RING, FEMALE PIPE SWIVEL ADP (catalog no. 900-8019)",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 80.1,
+   "y": 63.3,
+   "partNo": "G9008019",
+   "desc": "MALE O-RING, FEMALE PIPE SWIVEL ADP (catalog no. 900-8019)",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 58.7,
+   "y": 40.8,
+   "partNo": "G9008005",
+   "desc": "MALE TUBE, MALE O-RING ADP (catalog no. 900-8005)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 72.8,
+   "y": 49.1,
+   "partNo": "G9008006",
+   "desc": "MALE PIPE NIPPLE (catalog no. 900-8006)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 72.9,
+   "y": 52.4,
+   "partNo": "G9008018",
+   "desc": "MALE O-RING, FEMALE PIPE SWIVEL ADP (catalog no. 900-8018)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 72.2,
+   "y": 37.5,
+   "partNo": "G9008012",
+   "desc": "FEMALE PIPE TEE (catalog no. 900-8012)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 72.3,
+   "y": 90.0,
+   "partNo": "G9008021",
+   "desc": "ADJ O-RING, 90° FEMALE PIPE SWIVEL ADP (catalog no. 900-8021)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 19.4,
+   "y": 29.3,
+   "partNo": "G9008029",
+   "desc": "HOSE 1/2 ID X 42 LONG, LONG DROP (catalog no. 900-8029)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 35.1,
+   "y": 52.6,
+   "partNo": "G9008028",
+   "desc": "HOSE 1/2 ID X 42 LONG, SHORT DROP (catalog no. 900-8028)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 39.4,
+   "y": 8.7,
+   "partNo": "G9008034",
+   "desc": "HOSE 1/2 ID X 12-3/4 LONG (catalog no. 900-8034)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 49.1,
+   "y": 21.8,
+   "partNo": "G9008033",
+   "desc": "HOSE 1/2 ID X 16 LONG (catalog no. 900-8033)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 65.9,
+   "y": 33.5,
+   "partNo": "G9008035",
+   "desc": "HOSE 1/2 ID X 5-1/2 EASY COUPLE (catalog no. 900-8035)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 80.5,
+   "y": 45.0,
+   "partNo": "G9008030",
+   "desc": "HOSE 1/2 ID X 35-1/2 LONG (catalog no. 900-8030)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 76.3,
+   "y": 52.8,
+   "partNo": "G9008038",
+   "desc": "HOSE 1/2 ID X 22-1/2 EASY COUPLE (catalog no. 900-8038)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 84.6,
+   "y": 65.8,
+   "partNo": "G9008032",
+   "desc": "HOSE 1/2 ID X 23-1/2 LONG (catalog no. 900-8032)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 83.0,
+   "y": 96.4,
+   "partNo": "G9008039",
+   "desc": "HOSE 3/4 ID X 32 LONG EASY COUPLE (catalog no. 900-8039)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 45.9,
+   "y": 73.5,
+   "partNo": "G1400002",
+   "desc": "FRONT PUMP MOUNT (catalog no. 140-0002)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 67.2,
+   "y": 91.6,
+   "partNo": "G1400001",
+   "desc": "BACK PUMP MOUNT (catalog no. 140-0001)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 87.4,
+   "y": 36.7,
+   "partNo": "G1400004",
+   "desc": "STEERING ARM (catalog no. 140-0004)",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 89.6,
+   "y": 20.8,
+   "partNo": "G1400023",
+   "desc": "STEERING CABLE END (catalog no. 140-0023)",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 86.3,
+   "y": 16.5,
+   "partNo": "G2000014",
+   "desc": "BUSHING, CABLE END (catalog no. 200-0014)",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 92.6,
+   "y": 23.4,
+   "partNo": "G2000014",
+   "desc": "BUSHING, CABLE END (catalog no. 200-0014)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "1987 models: Grazer G3100CD, G3200C and G4200CD liquid-cooled mowers, S/N 07-08-100 to 07-08-800."
+}

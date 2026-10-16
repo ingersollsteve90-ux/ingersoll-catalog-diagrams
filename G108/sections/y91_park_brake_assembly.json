@@ -1,0 +1,160 @@
+{
+ "sectionTitle": "1990/1991 Models - Park Brake Assembly",
+ "breadcrumb": "1990/1991 Models - Park Brake Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y91_park_brake_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 76.4,
+   "y": 39.7,
+   "partNo": "G1110014",
+   "desc": "Caliper Rod Collar",
+   "reqd": "4"
+  },
+  {
+   "ref": "1",
+   "x": 77,
+   "y": 62,
+   "partNo": "G1110014",
+   "desc": "Caliper Rod Collar",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 63.6,
+   "y": 36.6,
+   "partNo": "G1400049",
+   "desc": "Brake Caliper Bracket",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 66.3,
+   "y": 53.5,
+   "partNo": "G9005564",
+   "desc": "Brake Caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 70.5,
+   "y": 47.6,
+   "variants": [
+    {
+     "serialNote": "LH (Shown)",
+     "partNo": "G9005565",
+     "desc": "Caliper Lever, LH (Shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "RH",
+     "partNo": "G9005566",
+     "desc": "Caliper Lever, RH",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 84,
+   "y": 7.6,
+   "partNo": "G1400013",
+   "desc": "Brake Lever Linkage",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 62.3,
+   "y": 61.8,
+   "partNo": "G9005567",
+   "desc": "Brake Puck (Set of 2)",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 45.7,
+   "y": 42.7,
+   "partNo": "G9004028",
+   "desc": "5-Bolt Wheel Hub",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 53.5,
+   "y": 63.8,
+   "partNo": "G1400047",
+   "desc": "Brake Disk",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 3,
+   "y": 71.3,
+   "partNo": "G9006105",
+   "desc": "Lug Bolt, 7/16-20 x 3/4\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "10",
+   "x": 73.7,
+   "y": 34.5,
+   "partNo": "G2400029",
+   "desc": "Park Brake Mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 79.6,
+   "y": 8.1,
+   "partNo": "G2400033",
+   "desc": "Park Brake Lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 91.6,
+   "y": 24,
+   "partNo": "G9002046",
+   "desc": "Switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 46.6,
+   "y": 73.2,
+   "variants": [
+    {
+     "serialNote": "23 x 10.50-12",
+     "partNo": "G9004025",
+     "desc": "Wheel Ass'y., 23 x 10.50-12",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "23 x 8.50-12 (52\" deck)",
+     "partNo": "G9004024",
+     "desc": "Wheel Ass'y., 23 x 8.50-12 (Use With 52\" Deck)",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 70.9,
+   "y": 57.9,
+   "partNo": "G1400048",
+   "desc": "Brake Caliper Linkage Bolt",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 74.7,
+   "y": 4.5,
+   "partNo": "G9005500",
+   "desc": "Handle Grip",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "1990 and 1991 models: Grazer G3200C, G3210C, G4200CD and G4210CD liquid-cooled mowers, S/N 00-09-0001 to 01-09-1025. Also listed, not shown on diagram: G9004031 Tire, 23 x 10.50-12 (part of G9004025 wheel ass'y.); G9004032 Rim, 12\" x 8.5\" (part of G9004025 wheel ass'y.); G9004029 Tire, 23 x 8.50-12 (part of G9004024 wheel ass'y.); G9004030 Rim, 12\" x 7\" (part of G9004024 wheel ass'y.)."
+}

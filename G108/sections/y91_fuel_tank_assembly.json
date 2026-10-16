@@ -1,0 +1,283 @@
+{
+ "sectionTitle": "1990/1991 Models - Fuel Tank Assembly",
+ "breadcrumb": "1990/1991 Models - Fuel Tank Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y91_fuel_tank_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.5,
+   "y": 9.3,
+   "partNo": "G9005670",
+   "desc": "Fuel Tank Cap",
+   "reqd": ""
+  },
+  {
+   "ref": "2",
+   "x": 21.6,
+   "y": 15.1,
+   "partNo": "G9005669",
+   "desc": "Fuel Tank Screen",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 27.8,
+   "y": 14.6,
+   "partNo": "G9005701",
+   "desc": "Fuel Tank Cap w/Gauge",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 28.5,
+   "y": 21.4,
+   "partNo": "TBD",
+   "desc": "Fuel Tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 96.4,
+   "y": 54,
+   "partNo": "G9007513",
+   "desc": "Fuel Filter Ass'y., Diesel Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 92.9,
+   "y": 52.3,
+   "partNo": "G9007516",
+   "desc": "Fuel Filter Element",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 93.4,
+   "y": 63.9,
+   "partNo": "G9007515",
+   "desc": "Fuel Filter Bowl",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 84.3,
+   "y": 57,
+   "partNo": "G9005684",
+   "desc": "Fuel Line, 5/16\" x 3-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 89.9,
+   "y": 36,
+   "partNo": "G9005657",
+   "desc": "Hose Clamp, 3/8\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 45.7,
+   "y": 37.2,
+   "partNo": "G9005657",
+   "desc": "Hose Clamp, 3/8\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 83.8,
+   "y": 44.4,
+   "partNo": "G9005657",
+   "desc": "Hose Clamp, 3/8\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 83,
+   "y": 59.1,
+   "partNo": "G9005657",
+   "desc": "Hose Clamp, 3/8\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 73.2,
+   "y": 76.1,
+   "partNo": "G9005657",
+   "desc": "Hose Clamp, 3/8\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 50.2,
+   "y": 76.8,
+   "partNo": "G9005657",
+   "desc": "Hose Clamp, 3/8\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 56.7,
+   "y": 84.9,
+   "partNo": "G9005657",
+   "desc": "Hose Clamp, 3/8\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 62,
+   "y": 89.5,
+   "partNo": "G9005657",
+   "desc": "Hose Clamp, 3/8\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "10",
+   "x": 94.2,
+   "y": 36.7,
+   "partNo": "G9005665",
+   "desc": "Fuel Line, 5/16\" x 30\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 64.6,
+   "y": 92.1,
+   "partNo": "G9005685",
+   "desc": "Fuel Line, 5/16\" x 6\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 81.3,
+   "y": 63.2,
+   "partNo": "G9005662",
+   "desc": "Male Pipe, 1/8\", Barb Adpt., 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 76.4,
+   "y": 73.9,
+   "partNo": "G9005662",
+   "desc": "Male Pipe, 1/8\", Barb Adpt., 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 47.5,
+   "y": 73.9,
+   "partNo": "G9005662",
+   "desc": "Male Pipe, 1/8\", Barb Adpt., 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 49,
+   "y": 33.7,
+   "partNo": "G9005663",
+   "desc": "Fuel Return Line, 3/16\", Diesel",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 44.5,
+   "y": 70.9,
+   "partNo": "G9005656",
+   "desc": "Brass Shutoff Valve, 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 41.6,
+   "y": 45.6,
+   "partNo": "G9005725",
+   "desc": "Male Pipe, 3/8\", Female Pipe Adpt., 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 79.1,
+   "y": 70.2,
+   "variants": [
+    {
+     "serialNote": "Diesel",
+     "partNo": "G9002059",
+     "desc": "Electric Fuel Pump, Diesel",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Gas",
+     "partNo": "G9002064",
+     "desc": "Electric Fuel Pump, Gas",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 41.6,
+   "y": 31.6,
+   "variants": [
+    {
+     "serialNote": "Diesel",
+     "partNo": "13002",
+     "desc": "Pipe Plug, 3/8\", Diesel",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "Gas",
+     "partNo": "13002",
+     "desc": "Pipe Plug, 3/8\", Gas",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 21.5,
+   "y": 94.9,
+   "variants": [
+    {
+     "serialNote": "Diesel",
+     "partNo": "13002",
+     "desc": "Pipe Plug, 3/8\", Diesel",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "Gas",
+     "partNo": "13002",
+     "desc": "Pipe Plug, 3/8\", Gas",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 53.8,
+   "y": 79.6,
+   "partNo": "G9005664",
+   "desc": "Fuel Line, 5/16\" x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 59.8,
+   "y": 88.1,
+   "partNo": "G9005668",
+   "desc": "Inline Fuel Filter, 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 43.3,
+   "y": 40.3,
+   "partNo": "G9005656",
+   "desc": "Male Pipe, 1/8\", Barb Adpt., 3/16\", Diesel",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "1990 and 1991 models: Grazer G3200C, G3210C, G4200CD and G4210CD liquid-cooled mowers, S/N 00-09-0001 to 01-09-1025."
+}

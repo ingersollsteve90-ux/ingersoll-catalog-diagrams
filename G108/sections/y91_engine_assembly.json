@@ -1,0 +1,457 @@
+{
+ "sectionTitle": "1990/1991 Models - Engine Assembly",
+ "breadcrumb": "1990/1991 Models - Engine Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y91_engine_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 51.8,
+   "y": 86.6,
+   "partNo": "G1400003",
+   "desc": "Motor Mount",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 25.2,
+   "y": 17.5,
+   "partNo": "G1400014",
+   "desc": "Clutch Stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 35.5,
+   "y": 57.2,
+   "partNo": "G1400018",
+   "desc": "Clutch Plate",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 9.7,
+   "y": 54.9,
+   "partNo": "G9007518",
+   "desc": "Dipstick",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 73.9,
+   "y": 29.3,
+   "partNo": "G1400058",
+   "desc": "Exhaust Pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 24.6,
+   "y": 6.4,
+   "partNo": "G1400063",
+   "desc": "Pump Idler Bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 21.4,
+   "y": 80.1,
+   "partNo": "G1400062",
+   "desc": "Fuel Shutoff Stud, 4 Cyl. Diesel",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 59.5,
+   "y": 43.2,
+   "partNo": "G1400040",
+   "desc": "Thermostat Housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 31.9,
+   "y": 88.6,
+   "partNo": "G9005518",
+   "desc": "Cable, Diesel Units Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 36.1,
+   "y": 17.4,
+   "partNo": "G9002518",
+   "desc": "Idler Pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 36.2,
+   "y": 40.3,
+   "partNo": "G9002550",
+   "desc": "Double Pulley, Engine",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 48.8,
+   "y": 23.6,
+   "partNo": "G9002551",
+   "desc": "Pump Pulley",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 28.8,
+   "y": 37,
+   "partNo": "G9002536",
+   "desc": "Split Hub",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 32.2,
+   "y": 32.4,
+   "partNo": "G9003026",
+   "desc": "Pump Drive Belt, Matched Belts",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 94.2,
+   "y": 59.6,
+   "partNo": "G9005628",
+   "desc": "Muffler Clamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 78.8,
+   "y": 71.2,
+   "partNo": "G9005628",
+   "desc": "Muffler Clamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 54.7,
+   "y": 91,
+   "variants": [
+    {
+     "serialNote": "Diesel Units",
+     "partNo": "60027",
+     "desc": "Large Hose Clamp, Diesel Units",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Gas Units",
+     "partNo": "60027",
+     "desc": "Large Hose Clamp, Gas Units",
+     "reqd": "3"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 70.5,
+   "y": 81.1,
+   "partNo": "60026",
+   "desc": "Small Hose Clamp",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 70.9,
+   "y": 41,
+   "variants": [
+    {
+     "serialNote": "3 Cylinder",
+     "partNo": "G9005820",
+     "desc": "Top Radiator Hose, 3 Cylinder",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "4 Cylinder",
+     "partNo": "G9005821",
+     "desc": "Top Radiator Hose, 4 Cylinder",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "20",
+   "x": 66.1,
+   "y": 88.2,
+   "variants": [
+    {
+     "serialNote": "3 Cylinder",
+     "partNo": "G9005822",
+     "desc": "Bottom Radiator Hose, 3 Cylinder",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "4 Cylinder",
+     "partNo": "G9005823",
+     "desc": "Bottom Radiator Hose, 4 Cylinder",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 44.7,
+   "y": 94.1,
+   "partNo": "G9005634",
+   "desc": "Air Intake Hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 41.4,
+   "y": 94.1,
+   "partNo": "G9005501",
+   "desc": "Spring, Diesel Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 30.1,
+   "y": 79.9,
+   "partNo": "G9005626",
+   "desc": "Pin, Diesel Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 15.6,
+   "y": 78.1,
+   "partNo": "G9002045",
+   "desc": "Solenoid, Diesel Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 32.9,
+   "y": 92.1,
+   "partNo": "300111C",
+   "desc": "Hex Tap Bolt, 1/4-20 x 3\", Diesel Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 24.9,
+   "y": 84.5,
+   "partNo": "G9005635",
+   "desc": "Yoke End, 1/4-28, Diesel Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 15.4,
+   "y": 51.6,
+   "partNo": "G9005816",
+   "desc": "Drive Shaft Assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 6.5,
+   "y": 35.7,
+   "partNo": "G9005637",
+   "desc": "Yoke, 1\" Bore",
+   "reqd": ""
+  },
+  {
+   "ref": "29",
+   "x": 13.6,
+   "y": 40.6,
+   "partNo": "G9005638",
+   "desc": "Male Spline Yoke",
+   "reqd": ""
+  },
+  {
+   "ref": "30",
+   "x": 21.4,
+   "y": 47.5,
+   "partNo": "G9005818",
+   "desc": "Female Spline Yoke",
+   "reqd": ""
+  },
+  {
+   "ref": "31",
+   "x": 29.8,
+   "y": 56,
+   "partNo": "G9005640",
+   "desc": "Clutch End Yoke",
+   "reqd": ""
+  },
+  {
+   "ref": "32",
+   "x": 7.7,
+   "y": 49,
+   "partNo": "G9005641",
+   "desc": "U-joint Kit",
+   "reqd": ""
+  },
+  {
+   "ref": "33",
+   "x": 48.8,
+   "y": 35.8,
+   "variants": [
+    {
+     "serialNote": "D800-B, 4 Cyl. Diesel",
+     "partNo": "G9005014",
+     "desc": "Kubota D800-B, 4 Cyl. Diesel",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "WG600-B, 3 Cyl. Gas",
+     "partNo": "G9005015",
+     "desc": "Kubota WG600-B, 3 Cyl. Gas",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "34",
+   "x": 79.4,
+   "y": 51.5,
+   "partNo": "G9007512",
+   "desc": "Oil Filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 88.7,
+   "y": 44.7,
+   "partNo": "G9007519",
+   "desc": "Muffler",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 82,
+   "y": 36.9,
+   "partNo": "G9007520",
+   "desc": "Exhaust Gasket",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 54.9,
+   "y": 44,
+   "partNo": "G9007520",
+   "desc": "Exhaust Gasket",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 63.1,
+   "y": 75.4,
+   "variants": [
+    {
+     "serialNote": "3 Cylinder",
+     "partNo": "G9007521",
+     "desc": "Fan Belt, 3 Cylinder",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "4 Cylinder",
+     "partNo": "G9007522",
+     "desc": "Fan Belt, 4 Cylinder",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "38",
+   "x": 18.5,
+   "y": 25.1,
+   "partNo": "G9005643",
+   "desc": "Clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 12.2,
+   "y": 24.4,
+   "partNo": "G9005644",
+   "desc": "Clutch Bolt",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 14.8,
+   "y": 27.3,
+   "partNo": "G9005645",
+   "desc": "Clutch Washer",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 13.5,
+   "y": 10.9,
+   "partNo": "G2000015",
+   "desc": "Body Mount Washer",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 17,
+   "y": 14.7,
+   "partNo": "G9005509",
+   "desc": "Rubber Mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 30.4,
+   "y": 14.7,
+   "partNo": "38003C",
+   "desc": "Flatwasher, 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "44",
+   "x": 9.9,
+   "y": 77.1,
+   "partNo": "G9005687",
+   "desc": "Rubber Band, Gas Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 7.5,
+   "y": 88.2,
+   "partNo": "G9005688",
+   "desc": "Intake Air Hose Adapter, Gas Only",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 39.3,
+   "y": 23.2,
+   "partNo": "31208H5C",
+   "desc": "Hex Bolt, 3/8-16 x 1-3/4\", GR5",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 18.4,
+   "y": 7.6,
+   "partNo": "35003C",
+   "desc": "Lockwasher, 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 15.5,
+   "y": 4,
+   "partNo": "33003C",
+   "desc": "Hex Nut, 3/8-16",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "1990 and 1991 models: Grazer G3200C, G3210C, G4200CD and G4210CD liquid-cooled mowers, S/N 00-09-0001 to 01-09-1025."
+}

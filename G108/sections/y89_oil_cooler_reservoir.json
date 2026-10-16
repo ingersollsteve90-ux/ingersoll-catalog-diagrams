@@ -1,0 +1,197 @@
+{
+ "sectionTitle": "1988/1989 Models - Oil Cooler & Oil Reservoir Assembly",
+ "breadcrumb": "1988/1989 Models - Oil Cooler & Oil Reservoir Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y89_oil_cooler_reservoir.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 58,
+   "y": 22.8,
+   "partNo": "G9008056",
+   "desc": "Hydraulic Fill Cap Assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 76.3,
+   "y": 8.6,
+   "partNo": "G9008045",
+   "desc": "Breather Cap",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 76.2,
+   "y": 15.4,
+   "partNo": "G9008057",
+   "desc": "Fill Neck",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 76.5,
+   "y": 21.9,
+   "partNo": "G9008043",
+   "desc": "Gasket",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 75.6,
+   "y": 44.4,
+   "partNo": "G9008043",
+   "desc": "Gasket",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 76.5,
+   "y": 28.1,
+   "partNo": "G9008042",
+   "desc": "Strainer",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 91.8,
+   "y": 23.7,
+   "partNo": "TBD",
+   "desc": "Oil Reservoir",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 80.8,
+   "y": 94.2,
+   "partNo": "13003",
+   "desc": "Pipe Plug, 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 52.4,
+   "y": 49.3,
+   "partNo": "11103",
+   "desc": "Male Pipe, 90° Female Pipe Adpt.",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 18.6,
+   "y": 53.2,
+   "partNo": "11103",
+   "desc": "Male Pipe, 90° Female Pipe Adpt.",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 49.6,
+   "y": 67.9,
+   "partNo": "G9008037",
+   "desc": "Easy Couple Hose, 1/2\" ID x 10-5/8\" Long",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 21.7,
+   "y": 71.2,
+   "partNo": "G9008037",
+   "desc": "Easy Couple Hose, 1/2\" ID x 10-5/8\" Long",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 54.3,
+   "y": 75.4,
+   "partNo": "G9008153",
+   "desc": "Easy Couple Hose, 3/4\" ID x 21\" Long",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 39.6,
+   "y": 31.9,
+   "partNo": "G9008001",
+   "desc": "Oil Cooler",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 6.7,
+   "y": 25.6,
+   "partNo": "100215",
+   "desc": "Pipe Nipple, 1/2\" x 10\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 33.2,
+   "y": 50.5,
+   "partNo": "100215",
+   "desc": "Pipe Nipple, 1/2\" x 10\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 33.6,
+   "y": 79.6,
+   "partNo": "G9008009",
+   "desc": "Female Pipe, Female Pipe Swivel Tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 9,
+   "y": 66.3,
+   "partNo": "G9008023",
+   "desc": "Relief Valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 7.1,
+   "y": 54.6,
+   "partNo": "G9008012",
+   "desc": "Female Pipe Tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 6.8,
+   "y": 33.3,
+   "partNo": "G9008150",
+   "desc": "Easy Couple Hose, 1/2\" ID x 29\" Long",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 3.1,
+   "y": 48.4,
+   "variants": [
+    {
+     "serialNote": "4 Cylinder",
+     "partNo": "G9008137",
+     "desc": "Male Pipe, 90° Male Tube Adapter, 4 Cylinder",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "3 Cylinder",
+     "partNo": "G9008135",
+     "desc": "Male Tube, Male Pipe Adapter, 3 Cylinder",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 75.5,
+   "y": 78.1,
+   "partNo": "11004",
+   "desc": "Male Pipe, 45° Female Pipe Adpt.",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "1988 and 1989 models: Grazer G3100CD, G3200C and G4200CD liquid-cooled mowers, S/N 08-08-0001 to 09-08-1181."
+}

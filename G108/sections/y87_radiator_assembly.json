@@ -1,0 +1,224 @@
+{
+ "sectionTitle": "1987 Models - Radiator Assembly",
+ "breadcrumb": "1987 Models - Radiator Assembly",
+ "catalogLabel": "Catalog G108",
+ "modelNumbers": "Catalog G108 — Grazer G3100CD, G3200C, G3210C, G4200CD and G4210CD Liquid-Cooled Grounds Mowers (1987–1991)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G108/y87_radiator_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 23.2,
+   "y": 85.4,
+   "partNo": "G1400006",
+   "desc": "RADIATOR SPACER 3 CYL. ONLY (catalog no. 140-0006)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 32.2,
+   "y": 30.5,
+   "variants": [
+    {
+     "serialNote": "4 CYL.",
+     "partNo": "G1400015",
+     "desc": "FAN SHROUD 4 CYL. (catalog no. 140-0015)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "3 CYL.",
+     "partNo": "G1400016",
+     "desc": "FAN SHROUD 3 CYL. (catalog no. 140-0016)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 81.0,
+   "y": 53.3,
+   "partNo": "G1400026",
+   "desc": "AIR INTAKE, RADIATOR (catalog no. 140-0026)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 72.0,
+   "y": 3.1,
+   "partNo": "G1400027",
+   "desc": "AIR INTAKE, LID (catalog no. 140-0027)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 85.4,
+   "y": 45.7,
+   "partNo": "G1400028",
+   "desc": "AIR INTAKE, AXLE COVER (catalog no. 140-0028)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 3.5,
+   "y": 74.7,
+   "partNo": "G1400039",
+   "desc": "FILL PLATE, 3 CYL. (catalog no. 140-0039)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 89.5,
+   "y": 23.2,
+   "partNo": "G9008001",
+   "desc": "OIL COOLER (catalog no. 900-8001)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 88.5,
+   "y": 32.4,
+   "partNo": "G9008002",
+   "desc": "1/2\" PIPE NIPPLE (catalog no. 900-8002)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 73.8,
+   "y": 44.6,
+   "partNo": "G9008002",
+   "desc": "1/2\" PIPE NIPPLE (catalog no. 900-8002)",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 41.8,
+   "y": 34.9,
+   "variants": [
+    {
+     "serialNote": "4 CYL.",
+     "partNo": "G9007500",
+     "desc": "4 CYL. RADIATOR (catalog no. 900-7500)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "3 CYL.",
+     "partNo": "G9007501",
+     "desc": "3 CYL. RADIATOR (catalog no. 900-7501)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 68.7,
+   "y": 69.2,
+   "partNo": "G9005509",
+   "desc": "RUBBER MOUNT (catalog no. 900-5509)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 22.0,
+   "y": 91.1,
+   "partNo": "G9005621",
+   "desc": "HOSE CLAMP 1\" to 2\" (catalog no. 900-5621)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 38.1,
+   "y": 27.8,
+   "partNo": "G9005622",
+   "desc": "RUBBER HOLD DOWN (catalog no. 900-5622)",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 25.2,
+   "y": 20.6,
+   "partNo": "G9005623",
+   "desc": "PIN, RUBBER HOLD DOWN (catalog no. 900-5623)",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 83.9,
+   "y": 93.9,
+   "partNo": "G9007502",
+   "desc": "AIR CLEANER ASSY (catalog no. 900-7502)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 69.9,
+   "y": 86.3,
+   "partNo": "G9007503",
+   "desc": "AIR CLEANER ELE. (catalog no. 900-7503)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 31.2,
+   "y": 86.5,
+   "partNo": "G9007504",
+   "desc": "PRE CLEANER BASE (catalog no. 900-7504)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 44.5,
+   "y": 79.5,
+   "partNo": "G9007505",
+   "desc": "PRE CLEANER BOWL (catalog no. 900-7505)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 44.0,
+   "y": 73.2,
+   "partNo": "G9007506",
+   "desc": "PRE CLEANER LID (catalog no. 900-7506)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 19.1,
+   "y": 70.8,
+   "partNo": "G9007507",
+   "desc": "RUBBER PAD WASH. (catalog no. 900-7507)",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 28.9,
+   "y": 69.0,
+   "partNo": "G9007508",
+   "desc": "RUBBER PAD (catalog no. 900-7508)",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 15.4,
+   "y": 85.3,
+   "partNo": "G9007509",
+   "desc": "RADIATOR BOLTS (catalog no. 900-7509)",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 11.1,
+   "y": 82.0,
+   "partNo": "G9007510",
+   "desc": "HAIR PINS, RAD. BOLTS (catalog no. 900-7510)",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 32.2,
+   "y": 96.2,
+   "partNo": "G9007511",
+   "desc": "HOSE, AIR CLEANER (catalog no. 900-7511)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "1987 models: Grazer G3100CD, G3200C and G4200CD liquid-cooled mowers, S/N 07-08-100 to 07-08-800."
+}
