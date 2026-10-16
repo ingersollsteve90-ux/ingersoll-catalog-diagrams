@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "Engine and Attaching Parts - Briggs and Stratton (I/C Model)",
+ "breadcrumb": "Engine and Attaching Parts - Briggs and Stratton (I/C Model)",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/engine_bs_ic.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 69.4,
+   "y": 48.6,
+   "partNo": "C41674",
+   "desc": "ENGINE - Briggs and Stratton, model 422447, Spec. No. 1277 (18 hp) (1800SS, 1890)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 14.9,
+   "y": 36.1,
+   "partNo": "C37533",
+   "desc": "DUCT - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 24.5,
+   "y": 64.2,
+   "partNo": "221-376",
+   "desc": "ELBOW - 3/8\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 58.7,
+   "y": 64.6,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 58.8,
+   "y": 71.4,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 20.9,
+   "y": 72.8,
+   "variants": [
+    {
+     "serialNote": "3/8\"",
+     "partNo": "C37546",
+     "desc": "PLUG - pipe 3/8\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1/2\" - 20",
+     "partNo": "218-5154",
+     "desc": "PLUG - pipe 1/2\" - 20",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 64,
+   "y": 26.3,
+   "partNo": "C37537",
+   "desc": "SHAFT - stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 68.3,
+   "y": 21.4,
+   "partNo": "C41015",
+   "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 79.9,
+   "y": 31.9,
+   "partNo": "C37539",
+   "desc": "PULLEY - drive (use 83-55 set screw)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 66.3,
+   "y": 60.2,
+   "partNo": "C37540",
+   "desc": "RETAINER - starter cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 41.4,
+   "y": 89.1,
+   "partNo": "221-411",
+   "desc": "ELBOW - street 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 32.3,
+   "y": 92.1,
+   "partNo": "C37531",
+   "desc": "UNIT - oil sending",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 54.8,
+   "y": 78.8,
+   "partNo": "C42240",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 60.3,
+   "y": 4.6,
+   "partNo": "C37543",
+   "desc": "PRECLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 60.1,
+   "y": 14.6,
+   "partNo": "C37544",
+   "desc": "FILTER - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 18.4,
+   "y": 29.8,
+   "partNo": "C37545",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 9.5,
+   "y": 41.6,
+   "partNo": "121-21",
+   "desc": "BOLT - 1/4\" - 20 flange lock",
+   "reqd": "7"
+  },
+  {
+   "ref": "18",
+   "x": 13.5,
+   "y": 69.8,
+   "variants": [
+    {
+     "serialNote": "choke",
+     "partNo": "C37819",
+     "desc": "CABLE - choke",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "throttle",
+     "partNo": "C37820",
+     "desc": "CABLE - throttle",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 3.6,
+   "y": 70,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 29.4,
+   "y": 67.2,
+   "variants": [
+    {
+     "serialNote": "3/8\" x 3-1/2\"",
+     "partNo": "C33949",
+     "desc": "NIPPLE - pipe 3/8\" x 3-1/2\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "3/8\" x 4\"",
+     "partNo": "C37548",
+     "desc": "NIPPLE - 3/8\" x 4\"",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 71,
+   "y": 42.6,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 74.3,
+   "y": 39.1,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

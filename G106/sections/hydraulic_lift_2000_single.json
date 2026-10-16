@@ -1,0 +1,264 @@
+{
+ "sectionTitle": "Hydraulic Lift Assembly (2000) - Single Acting Lift Cylinder",
+ "breadcrumb": "Hydraulic Lift Assembly (2000) - Single Acting Lift Cylinder",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/hydraulic_lift_2000_single.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 47.3,
+   "y": 10.9,
+   "partNo": "C37788",
+   "desc": "MOUNT - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 29.9,
+   "y": 5.8,
+   "partNo": "C37789",
+   "desc": "LEVER - actuator",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 29.5,
+   "y": 13.3,
+   "partNo": "C37607",
+   "desc": "BEARING",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 49.6,
+   "y": 65.4,
+   "partNo": "C37790",
+   "desc": "SUPPORT - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 30.2,
+   "y": 26.8,
+   "partNo": "C37791",
+   "desc": "CONNECTING LINK - #50",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 38.4,
+   "y": 37.2,
+   "partNo": "C42937",
+   "desc": "VALVE - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 13.7,
+   "y": 26.7,
+   "partNo": "C44030",
+   "desc": "CYLINDER - lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 69.8,
+   "y": 79.3,
+   "partNo": "C37636",
+   "desc": "HOUSING - oil filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 79.3,
+   "y": 94.9,
+   "partNo": "C37637",
+   "desc": "ELEMENT - oil filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 93.7,
+   "y": 74,
+   "partNo": "C37794",
+   "desc": "HOSE - 3/8\" ID x 26\" long",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 22,
+   "y": 59.3,
+   "partNo": "C37795",
+   "desc": "HOSE - 3/8\" ID x 31\" long",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 81.4,
+   "y": 37.5,
+   "partNo": "C37796",
+   "desc": "HOSE - 3/8\" ID x 20\" long",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 54.5,
+   "y": 55.4,
+   "partNo": "C37797",
+   "desc": "HOSE - 3/8\" ID x 13\" long",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 61.1,
+   "y": 81,
+   "partNo": "C37798",
+   "desc": "HOSE - 3/8\" ID x 11.5\" long",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 44.1,
+   "y": 90.2,
+   "partNo": "C37799",
+   "desc": "HOSE - 3/8\" ID x 21\" long",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 8.4,
+   "y": 49.5,
+   "partNo": "218-5278",
+   "desc": "FITTING - 90° male tube adp.",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 40.6,
+   "y": 44.7,
+   "partNo": "218-5057",
+   "desc": "FITTING - straight",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 62.2,
+   "y": 18.6,
+   "partNo": "218-5128",
+   "desc": "FITTING - tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 76.2,
+   "y": 64.9,
+   "partNo": "218-5182",
+   "desc": "FITTING - tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 85.3,
+   "y": 80.3,
+   "partNo": "218-5182",
+   "desc": "FITTING - tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "partNo": "218-5105",
+   "desc": "FITTING - straight",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 52.4,
+   "y": 49.5,
+   "partNo": "218-5058",
+   "desc": "FITTING - straight",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 59.8,
+   "y": 34.9,
+   "partNo": "218-5059",
+   "desc": "FITTING - straight",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 66.8,
+   "y": 45.3,
+   "partNo": "C44636",
+   "desc": "HOSE - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 69.1,
+   "y": 51.2,
+   "partNo": "C37671",
+   "desc": "CLAMP - hose",
+   "reqd": "3"
+  },
+  {
+   "ref": "25",
+   "x": 62.5,
+   "y": 61.4,
+   "partNo": "C44193",
+   "desc": "FITTING - tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 4.2,
+   "y": 8.1,
+   "partNo": "C42935",
+   "desc": "BREATHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 13.8,
+   "y": 12.6,
+   "partNo": "C42936",
+   "desc": "FITTING - adaptor (if required)",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 69.7,
+   "y": 24.2,
+   "partNo": "218-980",
+   "desc": "FITTING - 90°",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 64.1,
+   "y": 38.8,
+   "partNo": "218-5173",
+   "desc": "FITTING - 45° swivel",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 47.4,
+   "y": 74.6,
+   "partNo": "C44506",
+   "desc": "HOSE - 1/2\" x 10\" to L.H. Pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 74.2,
+   "y": 49.6,
+   "partNo": "C44508",
+   "desc": "HOSE - 1/2\" x 4-1/2\" to R.H. Pump",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

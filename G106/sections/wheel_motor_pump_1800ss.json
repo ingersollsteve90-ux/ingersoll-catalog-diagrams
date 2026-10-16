@@ -1,0 +1,277 @@
+{
+ "sectionTitle": "Wheel Motor & Pump Assembly (1800SS, 1800KSS)",
+ "breadcrumb": "Wheel Motor & Pump Assembly (1800SS, 1800KSS)",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/wheel_motor_pump_1800ss.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.2,
+   "y": 26.3,
+   "partNo": "C37632",
+   "desc": "WHEEL MOTOR - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 49.3,
+   "y": 22.1,
+   "partNo": "C37633",
+   "desc": "WHEEL MOTOR - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 59.2,
+   "y": 61.4,
+   "partNo": "C37634",
+   "desc": "MODEL 7 PUMP - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 85.9,
+   "y": 38.9,
+   "partNo": "C37635",
+   "desc": "MODEL 7 PUMP - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 73.9,
+   "y": 46.3,
+   "partNo": "C37636",
+   "desc": "HOUSING - Oil Filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 78.4,
+   "y": 42.8,
+   "partNo": "C37637",
+   "desc": "ELEMENT - Oil Filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 80.8,
+   "y": 15.6,
+   "partNo": "C37638",
+   "desc": "TANK - oil, 3 qt.",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 75.3,
+   "y": 7.4,
+   "partNo": "C37639",
+   "desc": "CAP - Oil Tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 39.9,
+   "y": 39.5,
+   "partNo": "C37640",
+   "desc": "FITTING - male tube, Male O-ring Adp.",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 60.8,
+   "y": 76.1,
+   "partNo": "C37640",
+   "desc": "FITTING - male tube, Male O-ring Adp.",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 39.5,
+   "y": 16.1,
+   "partNo": "C37641",
+   "desc": "FITTING - male tube, 90° Female Pipe Swivel Adp.",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 67.1,
+   "y": 52.6,
+   "partNo": "C37642",
+   "desc": "FITTING - male o-ring, 90° Male Tube Adp.",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 83.5,
+   "y": 63,
+   "partNo": "C37643",
+   "desc": "FITTING - male o-ring, 1/2\" Hose Barb Tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 57.5,
+   "y": 48.4,
+   "partNo": "C37644",
+   "desc": "FITTING - male o-ring, 90° Male Tube Adp.",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 45.8,
+   "y": 48.1,
+   "partNo": "C37645",
+   "desc": "HOSE - 1/2\" ID x 28\" Long",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 56.6,
+   "y": 85.8,
+   "partNo": "C37645",
+   "desc": "HOSE - 1/2\" ID x 28\" Long",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 48,
+   "y": 31.8,
+   "partNo": "C37646",
+   "desc": "HOSE - 1/4\" ID x 24\" Long, Easy Couple",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 66,
+   "y": 41.1,
+   "partNo": "C37647",
+   "desc": "HOSE - 5/8\" ID x 3-3/4\" Long, Easy Couple",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 83,
+   "y": 74,
+   "partNo": "C37648",
+   "desc": "HOSE - 1/2\" ID x 7-3/4\" Long, Easy Couple",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 94,
+   "y": 64.2,
+   "partNo": "C37649",
+   "desc": "HOSE - 1/2\" ID x 12\" Long, Easy Couple",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 85.5,
+   "y": 54.4,
+   "partNo": "C37650",
+   "desc": "HOSE CLAMP - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 36.5,
+   "y": 86,
+   "variants": [
+    {
+     "serialNote": "18 x 9.50-8",
+     "partNo": "C37651",
+     "desc": "WHEEL ASS'Y - 18 x 9.50-8",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "18 x 6.50-8 (42\" deck)",
+     "partNo": "C37654",
+     "desc": "WHEEL ASS'Y - 18 x 6.50-8 (Use with 42\" deck)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 3.8,
+   "y": 81.9,
+   "partNo": "C37657",
+   "desc": "LUG NUT, 1/2-20",
+   "reqd": "8"
+  },
+  {
+   "ref": "22",
+   "x": 7,
+   "y": 87.9,
+   "partNo": "C37658",
+   "desc": "NUT - Wheel Motor",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 39.2,
+   "y": 55.1,
+   "partNo": "C37659",
+   "desc": "HUB - wheel, 4 bolt",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 73,
+   "y": 38.2,
+   "partNo": "C37660",
+   "desc": "HOSE CLAMP - 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 37.5,
+   "y": 66.3,
+   "partNo": "C37661",
+   "desc": "LUG BOLT - 1/2-20 x 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "26",
+   "x": 17.6,
+   "y": 25.8,
+   "partNo": "C39438",
+   "desc": "WOODRUFF KEY - 1/4\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 43.6,
+   "y": 6,
+   "partNo": "C37663",
+   "desc": "WOODRUFF KEY - 3/16\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 84.2,
+   "y": 27.7,
+   "partNo": "C37664",
+   "desc": "WOODRUFF KEY - 1/8\" x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 72.7,
+   "y": 85.6,
+   "partNo": "C37665",
+   "desc": "WOODRUFF KEY - 1/8\" x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 18.6,
+   "y": 91.6,
+   "partNo": "C37666",
+   "desc": "COTTER PIN - 1/8\" x 1-3/4\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C37652 TIRE - 18 x 9.50-8 (part of ref 20 wheel ass'y C37651) (-); C37653 RIM - 8\" x 7\" (part of ref 20 wheel ass'y C37651) (-); C37655 TIRE - 18 x 6.50-8 (part of ref 20 wheel ass'y C37654) (-); C37656 RIM - 8 x 5-1/2\" (part of ref 20 wheel ass'y C37654) (-)."
+}

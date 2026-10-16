@@ -1,0 +1,600 @@
+{
+ "sectionTitle": "Seat Lid and Steering",
+ "breadcrumb": "Seat Lid and Steering",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/seat_lid_steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 45,
+   "y": 85.3,
+   "variants": [
+    {
+     "serialNote": "Before PIN (G2000CII 953401031, G1890 953404001, G1890K 953403006)",
+     "partNo": "C38054",
+     "desc": "LID - seat (1890, 1890K, 2000, 1800SS, 1800KSS)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "PIN and after (G2000CII 953401031, G1890 953404001, G1890K 953403006, G1890V all)",
+     "partNo": "C44237",
+     "desc": "LID - seat (1890, 1890K, 1890V, 2000)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 24.5,
+   "y": 41,
+   "partNo": "C37840",
+   "desc": "BRACKET - lever lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 31.3,
+   "y": 35.1,
+   "partNo": "C37841",
+   "desc": "LATCH - lever lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 15.5,
+   "y": 48.2,
+   "partNo": "C42895",
+   "desc": "BUSHING - (also order C42896)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 7.9,
+   "y": 37.5,
+   "partNo": "C37842",
+   "desc": "BEARING - block",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 18.1,
+   "y": 10.9,
+   "variants": [
+    {
+     "serialNote": "Before PIN (G2000CII 953401031, G1890 953404001, G1890K 953403006)",
+     "partNo": "C37843",
+     "desc": "LEVER - steering (1890, 1890K, 2000, 1800SS, 1800KSS)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "PIN and after (G2000CII 953401031, G1890 953404001, G1890K 953403006, G1890V all)",
+     "partNo": "C44915",
+     "desc": "LEVER - steering (1890, 1890K, 1890V, 2000)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 53.7,
+   "y": 34.7,
+   "partNo": "C44481",
+   "desc": "LATCH - seat lid",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 56.6,
+   "y": 30.5,
+   "partNo": "NSS",
+   "desc": "BOLT - latch, seat lid (is included with C44481)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 11.2,
+   "y": 54.6,
+   "variants": [
+    {
+     "serialNote": "2000",
+     "partNo": "C37713",
+     "desc": "BRACKET - steering cable end (2000)",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "1800SS, 1800KSS, 1890, 1890K, 1890V",
+     "partNo": "C42896",
+     "desc": "BRACKET - steering cable end (also order C42895) (1800SS, 1800KSS, 1890, 1890K, 1890V)",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 66.5,
+   "y": 90.2,
+   "partNo": "C32455",
+   "desc": "RETAINER - harness, seat lid",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 97,
+   "y": 35.6,
+   "partNo": "C44012",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 85.1,
+   "y": 5.4,
+   "variants": [
+    {
+     "serialNote": "Before PIN (G2000CII 953401031, G1890 953404001, G1890K 953403006)",
+     "partNo": "C37847",
+     "desc": "SEAT - (1890, 1890K, 2000, 1800SS, 1800KSS)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "PIN and after (G2000CII 953401031, G1890 953404001, G1890K 953403006, G1890V all)",
+     "partNo": "C43202",
+     "desc": "SEAT - (1890, 1890K, 1890V, 2000)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 90.8,
+   "y": 28.2,
+   "partNo": "C37850",
+   "desc": "SPACER - seat (Before PIN (G2000CII 953401031, G1890 953404001, G1890K 953403006))",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 43.3,
+   "y": 26.1,
+   "partNo": "C37851",
+   "desc": "SPRING - latch, seat lid",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 27.2,
+   "y": 40,
+   "partNo": "C37837",
+   "desc": "SPRING - bracket, lever lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 9.6,
+   "y": 32.1,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 6.2,
+   "y": 19.3,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 26.3,
+   "y": 62.3,
+   "variants": [
+    {
+     "serialNote": "1890, 1890K, 1890V",
+     "partNo": "NSS",
+     "desc": "CABLE - steering (1890, 1890K, 1890V) (see page 49)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "1800SS, 1800KSS",
+     "partNo": "C37705",
+     "desc": "CABLE - steering (1800SS, 1800KSS)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "2000",
+     "partNo": "C37717",
+     "desc": "CABLE - steering (2000)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "20",
+   "x": 21.7,
+   "y": 66.7,
+   "variants": [
+    {
+     "serialNote": "1800SS, 1800KSS, 1890, 1890K, 1890V",
+     "partNo": "C37616",
+     "desc": "CLAMP - steering cable (1800SS, 1800KSS, 1890, 1890K, 1890V)",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "2000",
+     "partNo": "C37718",
+     "desc": "CLAMP - steering cable (2000)",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 89.1,
+   "y": 93.5,
+   "partNo": "C37852",
+   "desc": "PROP - seat lid",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 70.4,
+   "y": 72.3,
+   "partNo": "C37848",
+   "desc": "KIT - seat slide rail (pair) (Before PIN (G2000CII 953401031, G1890 953404001, G1890K 953403006))",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 70.4,
+   "y": 76.3,
+   "partNo": "C37853",
+   "desc": "SPRING - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 92.2,
+   "y": 37.2,
+   "partNo": "195-103",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 80.3,
+   "y": 44.2,
+   "partNo": "195-103",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 91.9,
+   "y": 43,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 83,
+   "y": 82.6,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 57.2,
+   "y": 24.6,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 86.9,
+   "y": 83.1,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 49.5,
+   "y": 21.6,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "27",
+   "x": 40.1,
+   "y": 28.6,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "27",
+   "x": 9.8,
+   "y": 58.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "28",
+   "x": 46.6,
+   "y": 38.2,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 42.4,
+   "y": 39.8,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 94.3,
+   "y": 80,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "3"
+  },
+  {
+   "ref": "29",
+   "x": 79.5,
+   "y": 84.9,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 72.1,
+   "y": 96.1,
+   "partNo": "182-528",
+   "desc": "SCREW - #10 - 32 x 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "30",
+   "x": 40.5,
+   "y": 47.4,
+   "partNo": "182-528",
+   "desc": "SCREW - #10 - 32 x 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "31",
+   "x": 75.2,
+   "y": 85.8,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32",
+   "reqd": "7"
+  },
+  {
+   "ref": "31",
+   "x": 15.2,
+   "y": 54.4,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32",
+   "reqd": "7"
+  },
+  {
+   "ref": "31",
+   "x": 3.6,
+   "y": 44.6,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32",
+   "reqd": "7"
+  },
+  {
+   "ref": "31",
+   "x": 53.5,
+   "y": 44.9,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32",
+   "reqd": "7"
+  },
+  {
+   "ref": "32",
+   "x": 5.6,
+   "y": 33.3,
+   "partNo": "111-114",
+   "desc": "BOLT - 1/4\" - 20 x 1-1/2\" carriage",
+   "reqd": "8"
+  },
+  {
+   "ref": "33",
+   "x": 4.8,
+   "y": 38.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "33",
+   "x": 16.9,
+   "y": 68.4,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "33",
+   "x": 34.2,
+   "y": 53.7,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "34",
+   "x": 8.4,
+   "y": 43.2,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "34",
+   "x": 28.2,
+   "y": 56.5,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "34",
+   "x": 37.3,
+   "y": 40.9,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "35",
+   "x": 32.2,
+   "y": 57.9,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 15.2,
+   "y": 62.1,
+   "partNo": "C42359",
+   "desc": "BOLT 1/4\" - 20 x 2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 4.7,
+   "y": 60,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 6.5,
+   "y": 55.3,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 6.7,
+   "y": 29.3,
+   "partNo": "182-525",
+   "desc": "SCREW - #10 - 32 x 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 16.7,
+   "y": 24.6,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 90.3,
+   "y": 50,
+   "partNo": "C43137",
+   "desc": "SPRING - seat (1890, 1890K, 1890V, 2000) (PIN and after (G2000CII 953401031, G1890 953404001, G1890K 953403006, G1890V all))",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 71.3,
+   "y": 38.2,
+   "partNo": "C43438",
+   "desc": "KNOB - seat (1890, 1890K, 1890V, 2000) (PIN and after (G2000CII 953401031, G1890 953404001, G1890K 953403006, G1890V all))",
+   "reqd": "4"
+  },
+  {
+   "ref": "43",
+   "x": 80.6,
+   "y": 58.6,
+   "partNo": "111-204",
+   "desc": "BOLT - carriage 5/16\" - 18 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "44",
+   "x": 89.4,
+   "y": 54.4,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "44",
+   "x": 80.1,
+   "y": 39.3,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "45",
+   "x": 88.8,
+   "y": 59.1,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "46",
+   "x": 17.7,
+   "y": 60,
+   "partNo": "131-1102",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "8"
+  },
+  {
+   "ref": "47",
+   "x": 63.7,
+   "y": 8.8,
+   "partNo": "NSS",
+   "desc": "KIT - arm rest (optional) (order as machinery item)",
+   "reqd": "-"
+  },
+  {
+   "ref": "48",
+   "x": 30.6,
+   "y": 66.1,
+   "partNo": "C37826",
+   "desc": "PLATE - filler",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 46.7,
+   "y": 24.2,
+   "partNo": "C37826",
+   "desc": "PLATE - filler",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "partNo": "C44498",
+   "desc": "SPACER - latch",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* = Use before PIN; ** = Use PIN and after: G2000C II 953401031, G1890 953404001, G1890K 953403006, G1890V all after. Also listed, not shown on diagram: C22947 TIE - nylon (1); C37830 TRIM - edge (12-3/4\") cut to length (3)."
+}

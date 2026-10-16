@@ -1,0 +1,290 @@
+{
+ "sectionTitle": "Pump Drive (2000)",
+ "breadcrumb": "Pump Drive (2000)",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/pump_drive_2000.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 8.1,
+   "y": 63.5,
+   "partNo": "C37708",
+   "desc": "HUB - w/drive plate",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 27.1,
+   "y": 71.9,
+   "partNo": "C37700",
+   "desc": "DRIVE PLATE",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 52.9,
+   "y": 53.3,
+   "partNo": "C37700",
+   "desc": "DRIVE PLATE",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 32.6,
+   "y": 67.9,
+   "partNo": "C37703",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 24.7,
+   "y": 50.3,
+   "partNo": "C37703",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 42.4,
+   "y": 56.1,
+   "partNo": "C37709",
+   "desc": "CROSS SHAFT",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 56.8,
+   "y": 51.4,
+   "partNo": "C37702",
+   "desc": "BOLT SPACER",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 65.1,
+   "y": 42.8,
+   "partNo": "C37702",
+   "desc": "BOLT SPACER",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 43.0,
+   "y": 33.2,
+   "partNo": "C37702",
+   "desc": "BOLT SPACER",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 57.6,
+   "y": 26.7,
+   "partNo": "C37702",
+   "desc": "BOLT SPACER",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 18.0,
+   "y": 79.1,
+   "partNo": "C37702",
+   "desc": "BOLT SPACER",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 70.4,
+   "y": 40.3,
+   "partNo": "C37710",
+   "desc": "CROSS BAR-BLOCK",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 88.7,
+   "y": 41.6,
+   "partNo": "C38438",
+   "desc": "TRANSMISSION BELT RETAINER",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 50.8,
+   "y": 68.9,
+   "partNo": "C37711",
+   "desc": "TRANSMISSION ARM - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 80.2,
+   "y": 50.5,
+   "partNo": "C37712",
+   "desc": "TRANSMISSION ARM - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 83.0,
+   "y": 62.5,
+   "partNo": "C37713",
+   "desc": "STEERING CABLE ENDS",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 83.8,
+   "y": 76.3,
+   "partNo": "C42895",
+   "desc": "STEERING CABLE ENDS BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 15.3,
+   "y": 51.4,
+   "partNo": "C37696",
+   "desc": "CCW FAN - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 51.2,
+   "y": 27.7,
+   "partNo": "C37697",
+   "desc": "CW FAN - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 51.6,
+   "y": 35.1,
+   "partNo": "C37704",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 23.1,
+   "y": 55.7,
+   "partNo": "C37704",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 78.9,
+   "y": 39.8,
+   "partNo": "C37715",
+   "desc": "PULLEY",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 56.9,
+   "y": 9.8,
+   "partNo": "C37716",
+   "desc": "BELTS",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 67.4,
+   "y": 82.3,
+   "partNo": "C37717",
+   "desc": "STEERING CABLE",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 66.4,
+   "y": 91.9,
+   "partNo": "C37718",
+   "desc": "CLAMP",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 67.4,
+   "y": 47.4,
+   "partNo": "126-11",
+   "desc": "KEY - woodruff",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 47.4,
+   "y": 63.3,
+   "partNo": "126-11",
+   "desc": "KEY - woodruff",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 80.6,
+   "y": 83.9,
+   "partNo": "C33125",
+   "desc": "CLAMP - cable (at fan)",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 75.5,
+   "y": 81.2,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 85.4,
+   "y": 88.4,
+   "partNo": "195-103",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 90.1,
+   "y": 93.7,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 3.2,
+   "y": 72.1,
+   "partNo": "126-16",
+   "desc": "KEY - 3/16\" x 3/4\" woodruff",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 14.0,
+   "y": 82.6,
+   "partNo": "83-55",
+   "desc": "SCREW - set 5/16\" - 18 x 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 37.5,
+   "y": 71.6,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 42.4,
+   "y": 61.0,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": ""
+}

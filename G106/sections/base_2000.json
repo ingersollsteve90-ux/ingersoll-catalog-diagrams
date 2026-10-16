@@ -1,0 +1,362 @@
+{
+ "sectionTitle": "Base Assembly (2000)",
+ "breadcrumb": "Base Assembly (2000)",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/base_2000.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 57.3,
+   "y": 79.3,
+   "partNo": "C37599",
+   "desc": "BASE - (includes ref. 35)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 25.5,
+   "y": 31.8,
+   "partNo": "C37600",
+   "desc": "LIFT BAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 9.2,
+   "y": 44.9,
+   "partNo": "C37578",
+   "desc": "CROSS BAR PIN",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 36,
+   "y": 20.5,
+   "variants": [
+    {
+     "serialNote": "Front R.H.",
+     "partNo": "C37573",
+     "desc": "DECK LIFT ARM - Front Adjustable RH",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Front L.H.",
+     "partNo": "C37574",
+     "desc": "DECK LIFT ARM - Front Adjustable LH",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 54.3,
+   "y": 37.5,
+   "variants": [
+    {
+     "serialNote": "Back R.H.",
+     "partNo": "C39006",
+     "desc": "DECK LIFT ARM - Back RH",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Back L.H. (shown)",
+     "partNo": "C38996",
+     "desc": "DECK LIFT ARM - Back LH (shown)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 51.9,
+   "y": 14.7,
+   "partNo": "C37586",
+   "desc": "BUSHING - Long",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 43.8,
+   "y": 33.3,
+   "partNo": "C37577",
+   "desc": "WIRE TUBE",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 73,
+   "y": 34,
+   "partNo": "C37576",
+   "desc": "BUSHING - short",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 76.5,
+   "y": 28.1,
+   "partNo": "C38445",
+   "desc": "IDLER PULLEY",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 87.4,
+   "y": 29.8,
+   "partNo": "C37603",
+   "desc": "SPRING LOADED IDLER MOUNT",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 86.5,
+   "y": 39.6,
+   "partNo": "C37595",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 96.2,
+   "y": 7.2,
+   "partNo": "C37604",
+   "desc": "LEVER - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 70.5,
+   "y": 22.1,
+   "partNo": "C37607",
+   "desc": "BRAKE CLUTCH ROD",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 93.8,
+   "y": 23.2,
+   "partNo": "C37606",
+   "desc": "BRAKE ROD",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 62.5,
+   "y": 18.6,
+   "partNo": "C37607",
+   "desc": "CROSS ROD BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 53.5,
+   "y": 22.1,
+   "partNo": "C37582",
+   "desc": "DECK ARM ADJUSTING BOLT",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 78.4,
+   "y": 39.5,
+   "partNo": "TBD",
+   "desc": "TBD (part not yet identified)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 30.5,
+   "y": 43.3,
+   "partNo": "C37609",
+   "desc": "BRAKE CABLES",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 29.1,
+   "y": 54.9,
+   "partNo": "C37610",
+   "desc": "AXLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 22.5,
+   "y": 56.1,
+   "partNo": "C37611",
+   "desc": "BRAKE DISC",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 32.7,
+   "y": 78.6,
+   "variants": [
+    {
+     "serialNote": "Before PIN 953401031",
+     "partNo": "C37612",
+     "desc": "HUB - 5 bolt (for 7/16\" bolts)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "PIN 953401031 and after",
+     "partNo": "C44847",
+     "desc": "HUB - 5 bolt (for 1/2\" bolts)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "22",
+   "x": 37.2,
+   "y": 76.5,
+   "partNo": "C37613",
+   "desc": "BRAKE CALIPER MOUNT",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 49,
+   "y": 74.9,
+   "partNo": "NSS",
+   "desc": "CABLE END - (use C42895, C42896)",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 51.5,
+   "y": 71.9,
+   "partNo": "NSS",
+   "desc": "BUSHING - (use C42895, C42896)",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 44.3,
+   "y": 66.3,
+   "partNo": "C37616",
+   "desc": "CLAMP",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 35.4,
+   "y": 58.8,
+   "partNo": "C37617",
+   "desc": "CABLE DEAD HEAD",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 33.1,
+   "y": 87,
+   "variants": [
+    {
+     "serialNote": "20 x 8.00-10",
+     "partNo": "N/A",
+     "desc": "TIRE ASSEMBLY - 20 x 8.00-10",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "20 x 10.00-10, before PIN 953401031",
+     "partNo": "NSS",
+     "desc": "TIRE ASSEMBLY - 20 x 10.00-10",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "20 x 10.00-10, PIN 953401031 and after",
+     "partNo": "NSS",
+     "desc": "TIRE ASSEMBLY - 20 x 10.00 - 10",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 4.7,
+   "y": 79.5,
+   "variants": [
+    {
+     "serialNote": "7/16\" bolt",
+     "partNo": "C37624",
+     "desc": "LUG BOLT - 7/16\" - 20 x 3/4\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "1/2\" bolt",
+     "partNo": "C44848",
+     "desc": "LUG BOLT - 1/2\" - 20 x 1\"",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 49.7,
+   "y": 80.5,
+   "variants": [
+    {
+     "serialNote": "R.H.",
+     "partNo": "C37625",
+     "desc": "BRAKE CALIPER - R.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. (shown)",
+     "partNo": "C37626",
+     "desc": "BRAKE CALIPER - L.H. (Shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 40.6,
+   "y": 81.6,
+   "partNo": "C37627",
+   "desc": "BRAKE PUCKS",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 6.1,
+   "y": 91.6,
+   "partNo": "C37628",
+   "desc": "HUB NUT",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 16.1,
+   "y": 91.7,
+   "partNo": "C37629",
+   "desc": "COTTER KEY",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 82.7,
+   "y": 13,
+   "partNo": "C37630",
+   "desc": "BRACKET - lever stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 82.8,
+   "y": 6,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 79.9,
+   "y": 66.8,
+   "partNo": "C38651",
+   "desc": "TUBE - spring loaded idler (included with base)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* = Use before PIN 953401031; ** = Use PIN 953401031 and after. Also listed, not shown on diagram: C37619 TIRE - 20 x 8.00-10 (part of ref 27 tire assembly 20 x 8.00-10) (1); C37620 RIM (part of ref 27 tire assembly 20 x 8.00-10) (1); C37622 TIRE - 20 x 10.00-10 (part of ref 27) (1); C37623 RIM (part of ref 27, 20 x 10.00-10) (1); C44850 RIM (part of ref 27, 20 x 10.00-10) (1); NSS TIRE - 20 x 10.00 - 10 (part of ref 27) (1)."
+}

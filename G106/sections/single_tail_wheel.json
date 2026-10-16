@@ -1,0 +1,90 @@
+{
+ "sectionTitle": "Single Tail Wheel",
+ "breadcrumb": "Single Tail Wheel",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/single_tail_wheel.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 69.9,
+   "y": 79.2,
+   "partNo": "C37854",
+   "desc": "AXLE - wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 63.9,
+   "y": 68.3,
+   "partNo": "C37855",
+   "desc": "WHEEL ASSEMBLY - tail",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 68.4,
+   "y": 41.3,
+   "partNo": "C37859",
+   "desc": "FORK - tail wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 59,
+   "y": 13.7,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 59.6,
+   "y": 19.8,
+   "partNo": "C37861",
+   "desc": "SPACER - tail wheel fork",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 7.9,
+   "y": 50.2,
+   "partNo": "113-452",
+   "desc": "BOLT - 1/2\" - 13 x 9-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 39.3,
+   "y": 8.6,
+   "partNo": "85-58",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 86.1,
+   "y": 87.6,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 93.5,
+   "y": 94.5,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 60.6,
+   "y": 9,
+   "partNo": "C37824",
+   "desc": "BEARING - ball 1\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C37856 BEARING - wheel (part of ref 2 wheel assembly) (2); C37857 TIRE - 15 x 6.50 - 8 (part of ref 2 wheel assembly) (1); C37858 RIM - 8\" (part of ref 2 wheel assembly) (1); 219-92 FITTING - grease 90° 1/4\" - 28 self tap (caster pivot) (1)."
+}

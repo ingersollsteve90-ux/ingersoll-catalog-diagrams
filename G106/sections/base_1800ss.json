@@ -1,0 +1,141 @@
+{
+ "sectionTitle": "Base Assembly (1800SS, 1800KSS)",
+ "breadcrumb": "Base Assembly (1800SS, 1800KSS)",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/base_1800ss.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 25.8,
+   "y": 57.9,
+   "partNo": "C37572",
+   "desc": "BASE - (includes ref. 15)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 33.1,
+   "y": 17.5,
+   "variants": [
+    {
+     "serialNote": "Front R.H. (shown)",
+     "partNo": "C37573",
+     "desc": "DECK LIFT ARM - Front RH (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Front L.H.",
+     "partNo": "C37574",
+     "desc": "DECK LIFT ARM - Front LH",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 59.6,
+   "y": 48.6,
+   "partNo": "C37575",
+   "desc": "DECK LIFT ARM - Back",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 63.8,
+   "y": 17,
+   "partNo": "C37576",
+   "desc": "BUSHING, Short",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 74,
+   "y": 49.5,
+   "partNo": "C37576",
+   "desc": "BUSHING, Short",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 66.7,
+   "y": 27.7,
+   "partNo": "C38990",
+   "desc": "BELT RETAINER",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 77.7,
+   "y": 33.3,
+   "partNo": "C38988",
+   "desc": "BELT RETAINER MOUNT",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 48.5,
+   "y": 14.6,
+   "partNo": "C37586",
+   "desc": "BUSHING - Long",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 46.5,
+   "y": 20.5,
+   "partNo": "C37581",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 45.8,
+   "y": 25.8,
+   "partNo": "C37582",
+   "desc": "DECK BELT ADJUSTMENT BOLT",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 55.1,
+   "y": 11.4,
+   "partNo": "C37583",
+   "desc": "FORWARD NOSE DOWN LOCK",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 42.4,
+   "y": 51.4,
+   "partNo": "C37577",
+   "desc": "WIRE TUBE",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 12.5,
+   "y": 40.9,
+   "partNo": "C37579",
+   "desc": "CROSS BAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 11.1,
+   "y": 58.4,
+   "partNo": "C37578",
+   "desc": "CROSS BAR PIN",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 94.5,
+   "y": 41.4,
+   "partNo": "C38651",
+   "desc": "TUBE - spring loaded idler (is part of base)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

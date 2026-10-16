@@ -1,0 +1,257 @@
+{
+ "sectionTitle": "Engine and Attaching Parts - Kohler",
+ "breadcrumb": "Engine and Attaching Parts - Kohler",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/engine_kohler.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 82.7,
+   "y": 48.3,
+   "variants": [
+    {
+     "serialNote": "1890K, 1800KSS",
+     "partNo": "C41676",
+     "desc": "ENGINE - Kohler Model M18QS, Spec. No. 24532 (18 hp) (1890K, 1800KSS)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "2000",
+     "partNo": "C41677",
+     "desc": "ENGINE - Kohler Model M20QS, Spec. No. 49517 (20 hp) (2000)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 42.2,
+   "y": 47.9,
+   "variants": [
+    {
+     "serialNote": "Side exhaust (2000)",
+     "partNo": "C37561",
+     "desc": "DUCT - air (side exhaust) (2000)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Rear exhaust",
+     "partNo": "C42050",
+     "desc": "DUCT - air (rear exhaust)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 85.5,
+   "y": 62.1,
+   "partNo": "C42055",
+   "desc": "CLAMP - pipe (rear exhaust)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 89.6,
+   "y": 69.5,
+   "partNo": "C42054",
+   "desc": "PIPE - rear exhaust (rear exhaust)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 30.3,
+   "y": 33.2,
+   "partNo": "121-21",
+   "desc": "BOLT - 1/4\" - 20 flange lock",
+   "reqd": "7"
+  },
+  {
+   "ref": "6",
+   "x": 83.4,
+   "y": 11.8,
+   "partNo": "C37536",
+   "desc": "BRACKET - wire standoff",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "7",
+   "x": 67.6,
+   "y": 81.2,
+   "partNo": "C37563",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 82,
+   "y": 23.1,
+   "partNo": "C41015",
+   "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 89.5,
+   "y": 20.8,
+   "variants": [
+    {
+     "serialNote": "1800, 1890",
+     "partNo": "C37564",
+     "desc": "PULLEY - drive (includes 83-46 set screw) (1800, 1890) shown",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "2000",
+     "partNo": "C37565",
+     "desc": "PULLEY - drive, double (2000) (includes 83-46 set screw)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 78.5,
+   "y": 60.6,
+   "partNo": "C37540",
+   "desc": "RETAINER - starter wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 30.3,
+   "y": 25.2,
+   "partNo": "C37541",
+   "desc": "ELBOW - street 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 39.2,
+   "y": 17.8,
+   "partNo": "C37531",
+   "desc": "UNIT - oil sending",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 23.6,
+   "y": 6.1,
+   "partNo": "C42240",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 72.2,
+   "y": 6.4,
+   "partNo": "C37566",
+   "desc": "PRECLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 72.5,
+   "y": 15.8,
+   "partNo": "C37567",
+   "desc": "FILTER - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 15.4,
+   "y": 48.7,
+   "partNo": "C37568",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 20.9,
+   "y": 48.1,
+   "partNo": "C37546",
+   "desc": "PLUG - pipe 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 24.8,
+   "y": 39.9,
+   "partNo": "221-376",
+   "desc": "ELBOW - pipe 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 30.8,
+   "y": 42.2,
+   "partNo": "C37548",
+   "desc": "NIPPLE - pipe 3/8\" x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 72.5,
+   "y": 64.1,
+   "partNo": "113-122",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 62,
+   "y": 95.4,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 15.1,
+   "y": 66,
+   "variants": [
+    {
+     "serialNote": "choke",
+     "partNo": "C37819",
+     "desc": "CABLE - choke",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "throttle",
+     "partNo": "C37820",
+     "desc": "CABLE - throttle",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "23",
+   "x": 3.7,
+   "y": 67.2,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 45.6,
+   "y": 21,
+   "variants": [
+    {
+     "serialNote": "rear exhaust",
+     "partNo": "C40893",
+     "desc": "MUFFLER - exhaust (rear exhaust)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "side exhaust",
+     "partNo": "NSS",
+     "desc": "MUFFLER - exhaust (side exhaust) obtain from local Kohler dealer",
+     "reqd": "6"
+    }
+   ]
+  }
+ ],
+ "footnotes": ""
+}

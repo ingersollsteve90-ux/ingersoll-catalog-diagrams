@@ -1,0 +1,213 @@
+{
+ "sectionTitle": "Pump Drive Cross Shaft (1890, 1890K, 1890V)",
+ "breadcrumb": "Pump Drive Cross Shaft (1890, 1890K, 1890V)",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/pump_drive_cross_shaft.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.4,
+   "y": 70.4,
+   "partNo": "C37770",
+   "desc": "PULLEY - 4\" OD x 3/4\" ID (use 83-55 set screw)",
+   "reqd": "3"
+  },
+  {
+   "ref": "1",
+   "x": 12,
+   "y": 77.4,
+   "partNo": "C37770",
+   "desc": "PULLEY - 4\" OD x 3/4\" ID (use 83-55 set screw)",
+   "reqd": "3"
+  },
+  {
+   "ref": "1",
+   "x": 75.4,
+   "y": 4.7,
+   "partNo": "C37770",
+   "desc": "PULLEY - 4\" OD x 3/4\" ID (use 83-55 set screw)",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 11,
+   "y": 59.8,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 17.9,
+   "y": 53.9,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 73.6,
+   "y": 9.8,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 26.5,
+   "y": 62.6,
+   "partNo": "C37773",
+   "desc": "BEARING - flanged (includes locking collar)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 66,
+   "y": 10.9,
+   "partNo": "C37773",
+   "desc": "BEARING - flanged (includes locking collar)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 49.3,
+   "y": 6.8,
+   "partNo": "C37774",
+   "desc": "MOUNT - bearing L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 17.3,
+   "y": 48.1,
+   "partNo": "C37775",
+   "desc": "MOUNT - bearing R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 24.5,
+   "y": 27.7,
+   "partNo": "C37776",
+   "desc": "SPRING - extention (Can be replaced by C45420 belt tension kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 38.9,
+   "y": 17.5,
+   "partNo": "C37776",
+   "desc": "SPRING - extention (Can be replaced by C45420 belt tension kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 49.8,
+   "y": 43.2,
+   "partNo": "C37777",
+   "desc": "SHAFT - cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 71.8,
+   "y": 29.1,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16 - 18 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 52.6,
+   "y": 27.9,
+   "partNo": "111-203",
+   "desc": "BOLT - 5/16\" - 18 x 1\" carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 42,
+   "y": 82.6,
+   "variants": [
+    {
+     "serialNote": "1890, 1890K",
+     "partNo": "C37762",
+     "desc": "BELT - drive (1890, 1890K)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "1890V",
+     "partNo": "C24342",
+     "desc": "BELT - drive (1890V)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 73.5,
+   "y": 90.5,
+   "partNo": "C45420",
+   "desc": "KIT - belt tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 81.6,
+   "y": 64.2,
+   "partNo": "C45123",
+   "desc": "TURNBUCKLE (part of C45420 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 73.1,
+   "y": 84.6,
+   "partNo": "C45146",
+   "desc": "SPACER (part of C45420 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 64.8,
+   "y": 66.7,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/2\" (part of C45420 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 70.8,
+   "y": 54.6,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16 (part of C45420 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 70.8,
+   "y": 66.2,
+   "partNo": "129-175",
+   "desc": "NUT - 3/8\" - 16 L.H. threads (part of C45420 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 82.5,
+   "y": 77,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock (part of C45420 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 67.7,
+   "y": 81.1,
+   "partNo": "195-2029",
+   "desc": "WASHER (part of C45420 kit)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "* Can be replaced by C45420 belt tension kit. Refs 12-18 are indented under the kit (contents of C45420); the boxed inset on the diagram shows the kit."
+}

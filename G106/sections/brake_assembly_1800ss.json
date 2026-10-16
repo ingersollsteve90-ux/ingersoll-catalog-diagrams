@@ -1,0 +1,165 @@
+{
+ "sectionTitle": "Brake Assembly (1800SS, 1800KSS)",
+ "breadcrumb": "Brake Assembly (1800SS, 1800KSS)",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/brake_assembly_1800ss.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28.8,
+   "y": 54.6,
+   "partNo": "C37719",
+   "desc": "MOUNT - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 57.2,
+   "y": 53.2,
+   "partNo": "C37720",
+   "desc": "ROD - cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 86.9,
+   "y": 38.6,
+   "partNo": "C37721",
+   "desc": "ROD - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 47.2,
+   "y": 83.5,
+   "partNo": "C37578",
+   "desc": "PIN - cross bar",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 64.8,
+   "y": 36.5,
+   "partNo": "C37722",
+   "desc": "ROD - linkage",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 40.3,
+   "y": 40.9,
+   "partNo": "C37723",
+   "desc": "ROD - caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 18.6,
+   "y": 59.5,
+   "partNo": "C37723",
+   "desc": "ROD - caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 4.7,
+   "y": 62.1,
+   "partNo": "C37724",
+   "desc": "COLLER - rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 8.4,
+   "y": 52.1,
+   "partNo": "C37725",
+   "desc": "SPRING - caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 24.1,
+   "y": 40,
+   "partNo": "C37725",
+   "desc": "SPRING - caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 36.4,
+   "y": 87.4,
+   "partNo": "C37726",
+   "desc": "DISC - brake",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 20.5,
+   "y": 74.7,
+   "variants": [
+    {
+     "serialNote": "R.H.",
+     "partNo": "C37625",
+     "desc": "BRAKE CALIPER - R.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H.",
+     "partNo": "C37626",
+     "desc": "BRAKE CALIPER - L.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 16.5,
+   "y": 96.1,
+   "partNo": "C37627",
+   "desc": "PUCKS - brake",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 95.5,
+   "y": 12.8,
+   "partNo": "C37604",
+   "desc": "LEVER - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 76.9,
+   "y": 10.9,
+   "partNo": "C37631",
+   "desc": "GRIP - lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 77.6,
+   "y": 24.2,
+   "partNo": "C37630",
+   "desc": "TAB - lever stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 92.4,
+   "y": 71,
+   "partNo": "C37728",
+   "desc": "MOUNT - switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 84.9,
+   "y": 69.3,
+   "partNo": "C37521",
+   "desc": "SAFETY SWITCH",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

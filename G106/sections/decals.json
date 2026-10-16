@@ -1,0 +1,225 @@
+{
+ "sectionTitle": "Decals (Tractor)",
+ "breadcrumb": "Decals (Tractor)",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.7,
+   "y": 3.8,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C44062",
+     "desc": "DECAL - body side \"G1890\" L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C44063",
+     "desc": "DECAL - body side \"G1890\" R.H. (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 49.1,
+   "y": 22.8,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C44064",
+     "desc": "DECAL - body side \"G1890K\" L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C44065",
+     "desc": "DECAL - body side \"G1890K\" R.H. (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 74.4,
+   "y": 71.8,
+   "partNo": "C37501",
+   "desc": "DECAL - instrument panel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 48.4,
+   "y": 61.7,
+   "partNo": "C38047",
+   "desc": "MEDALLION - \"GRAZER\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 23.9,
+   "y": 61.4,
+   "partNo": "C37495",
+   "desc": "DECAL - operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 6.6,
+   "y": 73.6,
+   "partNo": "C37496",
+   "desc": "DECAL - caution interlock",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 7.6,
+   "y": 94,
+   "partNo": "C37502",
+   "desc": "DECAL - unlock/lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 47.6,
+   "y": 69.5,
+   "partNo": "C37498",
+   "desc": "DECAL - run/park (1800C)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 7.4,
+   "y": 85.7,
+   "partNo": "C37500",
+   "desc": "DECAL - \"danger\" carbon monoxide",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 94.2,
+   "y": 61.5,
+   "partNo": "C38807",
+   "desc": "DECAL - lubrication",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 26.3,
+   "y": 96.1,
+   "partNo": "C37504",
+   "desc": "DECAL - clean cooler",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 71.7,
+   "y": 42,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C43417",
+     "desc": "DECAL - fender skirt L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C43418",
+     "desc": "DECAL - fender skirt R.H. (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 24.3,
+   "y": 40.3,
+   "partNo": "C43413",
+   "desc": "DECAL - front \"GRAZER\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 27.6,
+   "y": 40.5,
+   "partNo": "C43416",
+   "desc": "DECAL - tail side \"GRAZER\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 49.4,
+   "y": 12.9,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C43993",
+     "desc": "DECAL - body side \"G1890V\" L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C43994",
+     "desc": "DECAL - body side \"G1890V\" R.H. (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 49.6,
+   "y": 31.1,
+   "variants": [
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C44210",
+     "desc": "DECAL - R.H. body side \"G2000CII\" (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H.",
+     "partNo": "C44211",
+     "desc": "DECAL - body side \"G2000CII\" L.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 34.3,
+   "y": 71.1,
+   "partNo": "C44551",
+   "desc": "DECAL - \"Fuel Only\" (2000)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 7,
+   "y": 79.2,
+   "partNo": "C37499",
+   "desc": "DECAL - \"Hydraulic Oil\" (2000)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 32.3,
+   "y": 86.1,
+   "partNo": "C37503",
+   "desc": "DECAL - hydraulic valve (2000)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 9.8,
+   "y": 54.2,
+   "partNo": "C44340",
+   "desc": "DECAL - warning",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C38101 KIT - decal (1890) (includes ref. 1, 12, 13) (1); C38102 KIT - decal (1890K) (includes ref. 2, 12, 13) (1); C38099 KIT - decal (1800SS) not shown (1); C37512 KIT - decal (1800KSS) not shown (1); C38100 KIT - decal (2000) (includes ref. 12, 13, 14, 18) (1)."
+}

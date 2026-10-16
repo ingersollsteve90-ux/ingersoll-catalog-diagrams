@@ -1,0 +1,253 @@
+{
+ "sectionTitle": "Engine and Attaching Parts - Briggs & Stratton Vanguard Model",
+ "breadcrumb": "Engine and Attaching Parts - Briggs & Stratton Vanguard Model",
+ "catalogLabel": "Catalog G106",
+ "modelNumbers": "Catalog G106 — Grazer Hydraulic-Drive Grounds Mowers: G1800SS, G1800KSS, G1890, G1890K, G1890V and G2000CII",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G106/engine_bs_vanguard.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 38.3,
+   "y": 61.7,
+   "partNo": "C43409",
+   "desc": "ENGINE - Briggs & Stratton Model 350447, type 0124 (18 hp) (1890V)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 63.4,
+   "y": 13.7,
+   "partNo": "C37544",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 63.5,
+   "y": 4.4,
+   "partNo": "C37543",
+   "desc": "PRE-CLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 67.8,
+   "y": 63.9,
+   "partNo": "113-104",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 67.1,
+   "y": 71.2,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 85.4,
+   "y": 82.6,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 74.7,
+   "y": 54.9,
+   "partNo": "C32455",
+   "desc": "CLIP - \"J\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 96.7,
+   "y": 54.9,
+   "partNo": "C44244",
+   "desc": "PIPE - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 93.4,
+   "y": 76.7,
+   "partNo": "C44243",
+   "desc": "BRACKET - exhaust pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 81.4,
+   "y": 69.1,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 28.1,
+   "y": 58.9,
+   "partNo": "C45106",
+   "desc": "DUCT - muffler, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 45.8,
+   "y": 95.1,
+   "partNo": "C45109",
+   "desc": "DUCT - bottom",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 22,
+   "y": 64.2,
+   "partNo": "NSS",
+   "desc": "SUPPORT - duct front (use C45111)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 61,
+   "y": 90.3,
+   "partNo": "NSS",
+   "desc": "SUPPORT - duct rear (use C45111)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 58.6,
+   "y": 81,
+   "partNo": "C37200",
+   "desc": "SCREW - M6 x 10",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 83.5,
+   "y": 60.2,
+   "partNo": "C28294",
+   "desc": "CLAMP - exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 20.5,
+   "y": 23.9,
+   "partNo": "217-1085",
+   "desc": "FITTING - street elbow, 1/4\" NPT 45°",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 31,
+   "y": 37.7,
+   "partNo": "C33949",
+   "desc": "NIPPLE - pipe 3.5\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 25.3,
+   "y": 34,
+   "partNo": "218-5154",
+   "desc": "PLUG - 1/2\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 30.4,
+   "y": 16,
+   "partNo": "C37531",
+   "desc": "UNIT - oil sending",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 68.8,
+   "y": 30.3,
+   "partNo": "C37537",
+   "desc": "SHAFT - stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 77.4,
+   "y": 45.8,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 80.9,
+   "y": 42.3,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 86.8,
+   "y": 35.6,
+   "partNo": "C37539",
+   "desc": "PULLEY - engine (use 83-55 set screw)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 74.2,
+   "y": 25.1,
+   "partNo": "C41015",
+   "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 4.3,
+   "y": 41,
+   "partNo": "C34374",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 14.9,
+   "y": 64.2,
+   "variants": [
+    {
+     "serialNote": "choke",
+     "partNo": "C37819",
+     "desc": "CABLE - choke",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "throttle",
+     "partNo": "C37820",
+     "desc": "CABLE - throttle",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "27",
+   "x": 3.5,
+   "y": 65.3,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 13.8,
+   "y": 5.4,
+   "partNo": "C42240",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}
