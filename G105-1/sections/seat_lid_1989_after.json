@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Seat Lid Assembly (1989 and After)",
+ "breadcrumb": "Seat Lid Assembly (1989 and After)",
+ "catalogLabel": "Catalog G105-1",
+ "modelNumbers": "Catalog G105-1 — Grazer G1250 Chain-Drive Grounds Mower (Before S/N 02-09-0248)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-1/seat_lid_1989_after.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 42.3,
+   "y": 40.5,
+   "partNo": "G2010004",
+   "desc": "LID - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 24.4,
+   "y": 63.5,
+   "partNo": "G2010010",
+   "desc": "LOCK - lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 30.5,
+   "y": 46.7,
+   "partNo": "G2000012",
+   "desc": "LATCH - lever lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 5.7,
+   "y": 50,
+   "partNo": "G2000014",
+   "desc": "BUSHING",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 34.7,
+   "y": 26.7,
+   "partNo": "G2000014",
+   "desc": "BUSHING",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 3.9,
+   "y": 43.5,
+   "partNo": "G2000010",
+   "desc": "BLOCK - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 16.2,
+   "y": 6.3,
+   "partNo": "G2000009",
+   "desc": "LEVER - steering",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 40.4,
+   "y": 22.8,
+   "partNo": "G2010015",
+   "desc": "LATCH - seat lid",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 44.8,
+   "y": 32.1,
+   "partNo": "G2010014",
+   "desc": "BOLT - seat lid latch",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 4.7,
+   "y": 62.8,
+   "partNo": "G2000013",
+   "desc": "END - steering cable",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 68.2,
+   "y": 91.4,
+   "partNo": "G2010018",
+   "desc": "RETAINER - seat lid harness",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 89.7,
+   "y": 65.3,
+   "partNo": "G9002001",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 77.1,
+   "y": 63.7,
+   "partNo": "G9005597",
+   "desc": "SEAT",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 64.8,
+   "y": 41.9,
+   "partNo": "GDS13",
+   "desc": "KIT - arm rest (optional)",
+   "reqd": "-"
+  },
+  {
+   "ref": "14",
+   "x": 84.4,
+   "y": 59.8,
+   "partNo": "G9005523",
+   "desc": "SPACER - seat",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 36,
+   "y": 36,
+   "partNo": "G9005700",
+   "desc": "SPRING - seat lid latch",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 23.5,
+   "y": 44.4,
+   "partNo": "G9005501",
+   "desc": "SPRING - lever lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 7.1,
+   "y": 34.4,
+   "partNo": "G9002029",
+   "desc": "SWITCH - safety",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 5.2,
+   "y": 16.5,
+   "partNo": "G9005500",
+   "desc": "GRIP - handle",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 12.6,
+   "y": 68.8,
+   "partNo": "G9005502",
+   "desc": "CABLE - steering",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 18.1,
+   "y": 79.1,
+   "partNo": "G9005503",
+   "desc": "CLAMP - steering cable",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 79.1,
+   "y": 87.4,
+   "partNo": "G2000008",
+   "desc": "PROP - lid",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 62.8,
+   "y": 67.7,
+   "partNo": "G9005813",
+   "desc": "RAIL - seat (pair)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 61.8,
+   "y": 74.7,
+   "partNo": "G9005767",
+   "desc": "SPRING - seat",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Seat lid assembly for machines built 1989 and after. Ref 13 arm rest kit (GDS13) is optional."
+}

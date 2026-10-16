@@ -1,0 +1,189 @@
+{
+ "sectionTitle": "Base Assembly",
+ "breadcrumb": "Base Assembly",
+ "catalogLabel": "Catalog G105-1",
+ "modelNumbers": "Catalog G105-1 — Grazer G1250 Chain-Drive Grounds Mower (Before S/N 02-09-0248)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-1/base_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 19.5,
+   "y": 40.7,
+   "partNo": "G1110000",
+   "desc": "BASE",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 25.8,
+   "y": 9.7,
+   "variants": [
+    {
+     "serialNote": "R.H.",
+     "partNo": "G3000023RH",
+     "desc": "ARM - deck lift, front R.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H.",
+     "partNo": "G3000023LH",
+     "desc": "ARM - deck lift, front L.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 43.4,
+   "y": 35.1,
+   "partNo": "G3010024",
+   "desc": "ARM - deck lift, back R.H.",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 54.5,
+   "y": 35.6,
+   "partNo": "G3000013S",
+   "desc": "BUSHING - short",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 47.5,
+   "y": 9.7,
+   "partNo": "G3000013S",
+   "desc": "BUSHING - short",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 31.9,
+   "y": 36.9,
+   "partNo": "G3000041",
+   "desc": "TUBE - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 9.7,
+   "y": 41.8,
+   "partNo": "G3000022",
+   "desc": "PIN - cross bar",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 10.4,
+   "y": 28.6,
+   "partNo": "G3000014",
+   "desc": "BAR - cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 36.8,
+   "y": 7.9,
+   "partNo": "G3000013",
+   "desc": "BUSHING - long",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 35.9,
+   "y": 12.3,
+   "partNo": "G2000015",
+   "desc": "WASHER - body mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 35.2,
+   "y": 17.2,
+   "partNo": "30031H5C",
+   "desc": "BOLT - tap, 3/8-16 x 3\", GR5",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 41.7,
+   "y": 4.9,
+   "partNo": "G1110023",
+   "desc": "LOCK - forward nose down",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 71.4,
+   "y": 20.7,
+   "partNo": "G1110017",
+   "desc": "ROD - brake cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 54.5,
+   "y": 19.7,
+   "partNo": "G1110004",
+   "desc": "BEARING - brake cross rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 84.4,
+   "y": 15.1,
+   "partNo": "G1110007",
+   "desc": "ROD - caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 92.8,
+   "y": 29.8,
+   "partNo": "G9005568",
+   "desc": "SPRING - caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 94.9,
+   "y": 33.7,
+   "partNo": "38001C",
+   "desc": "FLATWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 96.9,
+   "y": 40.4,
+   "partNo": "32941C",
+   "desc": "NUT - elastic stop, 1/4-20",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 78.6,
+   "y": 47,
+   "partNo": "G1110019",
+   "desc": "MOUNT - spring loaded idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 71.3,
+   "y": 56.5,
+   "partNo": "G9002501",
+   "desc": "PULLEY - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 85.1,
+   "y": 60.2,
+   "partNo": "G9005580",
+   "desc": "SPRING - transmission belt tightener",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": ""
+}

@@ -1,0 +1,162 @@
+{
+ "sectionTitle": "Single & Dual Tail Wheel Assembly (1989-1991)",
+ "breadcrumb": "Single & Dual Tail Wheel Assembly (1989-1991)",
+ "catalogLabel": "Catalog G105-1",
+ "modelNumbers": "Catalog G105-1 — Grazer G1250 Chain-Drive Grounds Mower (Before S/N 02-09-0248)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-1/tail_wheel_1989_1991.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 51,
+   "y": 65.5,
+   "partNo": "G2300004",
+   "desc": "AXLE - dual tail wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 82.3,
+   "y": 55.8,
+   "partNo": "G2300007",
+   "desc": "FORK - dual tail wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 56.3,
+   "y": 28.4,
+   "partNo": "G2300005",
+   "desc": "MOUNT - dual tail wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 40.3,
+   "y": 21.2,
+   "partNo": "G2300006",
+   "desc": "BLOCK - dual tail wheel tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 84.5,
+   "y": 43.2,
+   "partNo": "G2300008",
+   "desc": "AXLE - pivot (dual)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 73.1,
+   "y": 83.4,
+   "partNo": "G2000017",
+   "desc": "AXLE - tail wheel (dual)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 36.6,
+   "y": 76.9,
+   "partNo": "G2300017",
+   "desc": "AXLE (single tail wheel)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 32.2,
+   "y": 60.9,
+   "partNo": "G9004017",
+   "desc": "TAIL WHEEL ASSEMBLY (single)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 33.9,
+   "y": 37.2,
+   "partNo": "G2300001",
+   "desc": "FORK - tail wheel (single)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 78.4,
+   "y": 73.7,
+   "partNo": "G9004022",
+   "desc": "TAIL WHEEL ASSEMBLY (dual)",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 73,
+   "y": 52.8,
+   "partNo": "G9003501",
+   "desc": "BEARING - 1\" (dual)",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 92.2,
+   "y": 31.4,
+   "partNo": "G9003501",
+   "desc": "BEARING - 1\" (dual)",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 91.7,
+   "y": 15.4,
+   "partNo": "G9003501",
+   "desc": "BEARING - 1\" (dual)",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 92.2,
+   "y": 9.5,
+   "partNo": "G9005510",
+   "desc": "COLLAR - set, 1\" (single: 2, dual: 4)",
+   "reqd": "2/4"
+  },
+  {
+   "ref": "12",
+   "x": 91.9,
+   "y": 38.3,
+   "partNo": "G9005510",
+   "desc": "COLLAR - set, 1\" (single: 2, dual: 4)",
+   "reqd": "2/4"
+  },
+  {
+   "ref": "12",
+   "x": 25.8,
+   "y": 6.7,
+   "partNo": "G9005510",
+   "desc": "COLLAR - set, 1\" (single: 2, dual: 4)",
+   "reqd": "2/4"
+  },
+  {
+   "ref": "13",
+   "x": 25.8,
+   "y": 10.9,
+   "partNo": "G2130003",
+   "desc": "SPACER - tail wheel fork (single)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 49.8,
+   "y": 85.1,
+   "partNo": "314028C",
+   "desc": "CAPSCREW - hex, 1/2-13 x 9-1/2\" (single)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 66,
+   "y": 81.8,
+   "partNo": "314022C",
+   "desc": "CAPSCREW - hex, 1/2-13 x 6-1/2\" (dual)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Single tail wheel: refs 7, 8, 9, 12, 13, 14. Dual tail wheel: refs 1-6, 10, 11, 12, 15. Ref 12 set collar: 2 on the single tail wheel, 4 on the dual. Also listed, not shown on diagram: G9003515 BEARING - wheel assembly (single) (2); G9004018 TIRE - 16 x 6.50-8 (single); G9004019 RIM - 8\" (single); G9003505 BEARING - wheel assembly (dual) (4)."
+}

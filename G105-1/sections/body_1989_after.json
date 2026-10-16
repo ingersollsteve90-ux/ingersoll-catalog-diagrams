@@ -1,0 +1,329 @@
+{
+ "sectionTitle": "Body (1989 and After)",
+ "breadcrumb": "Body (1989 and After)",
+ "catalogLabel": "Catalog G105-1",
+ "modelNumbers": "Catalog G105-1 — Grazer G1250 Chain-Drive Grounds Mower (Before S/N 02-09-0248)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-1/body_1989_after.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28,
+   "y": 57.6,
+   "partNo": "G2010000G",
+   "desc": "BODY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 41.9,
+   "y": 75.9,
+   "variants": [
+    {
+     "serialNote": "R.H. (G1250)",
+     "partNo": "G2010017G",
+     "desc": "FENDER - R.H. (shown) (G1250)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (G1250H Hill Climber)",
+     "partNo": "G2010013G",
+     "desc": "FENDER - R.H., Hill Climber (G1250H)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. (G1250)",
+     "partNo": "G2010016G",
+     "desc": "FENDER - L.H. (G1250)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. (G1250H Hill Climber)",
+     "partNo": "G2010012G",
+     "desc": "FENDER - L.H., Hill Climber (G1250H)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 69.6,
+   "y": 9.4,
+   "partNo": "G2010009G",
+   "desc": "COVER - back",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 42.1,
+   "y": 5.5,
+   "partNo": "G2000007",
+   "desc": "RAIL - guard",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 69.3,
+   "y": 33.1,
+   "partNo": "G9003501",
+   "desc": "BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 26.9,
+   "y": 71.1,
+   "partNo": "G2010006",
+   "desc": "DASHBOARD",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 90,
+   "y": 47.8,
+   "partNo": "G2000019",
+   "desc": "HOLD DOWN - battery",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 96.2,
+   "y": 61.1,
+   "partNo": "G2000021",
+   "desc": "PROTECTOR - battery post",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 77.7,
+   "y": 72,
+   "partNo": "G2300002",
+   "desc": "WEIGHT - tail (optional)",
+   "reqd": "-"
+  },
+  {
+   "ref": "10",
+   "x": 76.5,
+   "y": 56.7,
+   "partNo": "G9005513",
+   "desc": "VALVE - shutoff, fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 82,
+   "y": 48.2,
+   "partNo": "9901",
+   "desc": "NIPPLE - 1/8\" x close",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 90.8,
+   "y": 30.2,
+   "partNo": "G9005533",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 83,
+   "y": 14.9,
+   "partNo": "G9005561",
+   "desc": "CAP - fuel tank, with gauge",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 45.2,
+   "y": 36.1,
+   "partNo": "G9002005",
+   "desc": "SOLENOID",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 41.8,
+   "y": 41.4,
+   "partNo": "G9002037",
+   "desc": "RELAY",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 24.3,
+   "y": 56.4,
+   "partNo": "G9005516",
+   "desc": "SPRING - deck",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 18.2,
+   "y": 60.4,
+   "partNo": "G9005518",
+   "desc": "CABLE - deck lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 22.5,
+   "y": 26.4,
+   "partNo": "G9002014",
+   "desc": "LIGHT ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 9.8,
+   "y": 32.9,
+   "partNo": "G9002024",
+   "desc": "LENS",
+   "reqd": "-"
+  },
+  {
+   "ref": "20",
+   "x": 11.7,
+   "y": 37.7,
+   "partNo": "G9002068",
+   "desc": "GASKET",
+   "reqd": "-"
+  },
+  {
+   "ref": "21",
+   "x": 15.2,
+   "y": 37.3,
+   "partNo": "G9002025",
+   "desc": "BULB",
+   "reqd": "-"
+  },
+  {
+   "ref": "22",
+   "x": 18.8,
+   "y": 39.8,
+   "partNo": "G9002026",
+   "desc": "LAMP",
+   "reqd": "-"
+  },
+  {
+   "ref": "23",
+   "x": 92.8,
+   "y": 53.2,
+   "partNo": "G9002060",
+   "desc": "BATTERY",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 72.4,
+   "y": 12.7,
+   "partNo": "G9005522",
+   "desc": "FASTENER - Dzus",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 52.8,
+   "y": 57.2,
+   "partNo": "G9005509",
+   "desc": "MOUNT - rubber body",
+   "reqd": "8"
+  },
+  {
+   "ref": "26",
+   "x": 40.8,
+   "y": 56.6,
+   "partNo": "G2000015",
+   "desc": "WASHER - body mount",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 4,
+   "y": 78.5,
+   "partNo": "G9005508",
+   "desc": "CABLE - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 26.4,
+   "y": 78.8,
+   "partNo": "G9005605",
+   "desc": "CABLE - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 10.7,
+   "y": 94.5,
+   "partNo": "G9002002",
+   "desc": "METER - amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 20.6,
+   "y": 95.3,
+   "partNo": "G9002023",
+   "desc": "METER - hour",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 26.8,
+   "y": 85.9,
+   "partNo": "G9002003",
+   "desc": "SWITCH - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 9,
+   "y": 67.2,
+   "partNo": "G9002027",
+   "desc": "SWITCH - light",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 14.7,
+   "y": 67.2,
+   "partNo": "G9002028",
+   "desc": "SWITCH - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 19.7,
+   "y": 67.3,
+   "partNo": "G9002041",
+   "desc": "LIGHT - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 54,
+   "y": 43,
+   "partNo": "G1110016",
+   "desc": "ROD - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 61.4,
+   "y": 28.8,
+   "partNo": "G2010011",
+   "desc": "LOCK - brake lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 51.9,
+   "y": 27.4,
+   "partNo": "G9005500",
+   "desc": "GRIP - handle",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Body parts for G1250 machines built 1989 and after. G1250H = Hill Climber."
+}

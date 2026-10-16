@@ -1,0 +1,489 @@
+{
+ "sectionTitle": "Transmission & Chain Drives (S/N After 09-08-0944)",
+ "breadcrumb": "Transmission & Chain Drives (S/N After 09-08-0944)",
+ "catalogLabel": "Catalog G105-1",
+ "modelNumbers": "Catalog G105-1 — Grazer G1250 Chain-Drive Grounds Mower (Before S/N 02-09-0248)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-1/transmission_after_sn.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 4.9,
+   "y": 84.7,
+   "partNo": "G9005510",
+   "desc": "COLLAR - set, 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 4.7,
+   "y": 77.9,
+   "partNo": "3901A2C",
+   "desc": "SETSCREW - squarehead, 5/16-18 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 18.8,
+   "y": 90.5,
+   "partNo": "G9004012",
+   "desc": "WHEEL ASSEMBLY - drive, 16 x 7.50-8",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 9.8,
+   "y": 59.6,
+   "partNo": "G9006138",
+   "desc": "NUT - lug, 1/2-20",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 24.4,
+   "y": 71.6,
+   "partNo": "G9003501",
+   "desc": "BEARING - drive wheel",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 37.8,
+   "y": 44.4,
+   "partNo": "G9003501",
+   "desc": "BEARING - drive wheel",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 23.8,
+   "y": 57.4,
+   "partNo": "G9004009",
+   "desc": "HUB - drive wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 26.7,
+   "y": 47.4,
+   "partNo": "G9006137",
+   "desc": "BOLT - lug, 1/2-20 x 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 30.7,
+   "y": 26.8,
+   "partNo": "45051",
+   "desc": "ZERK - self-tapping, 1/4-28",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 51.9,
+   "y": 31.2,
+   "partNo": "45051",
+   "desc": "ZERK - self-tapping, 1/4-28",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 32.9,
+   "y": 43.2,
+   "partNo": "G9011502",
+   "desc": "SPROCKET - final drive, 40A 54",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 94.3,
+   "y": 9.8,
+   "partNo": "G9003000",
+   "desc": "BELT - transmission, A36",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 41.6,
+   "y": 51,
+   "partNo": "G9001000",
+   "desc": "CHAIN - final drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 43,
+   "y": 36.1,
+   "partNo": "G1000001",
+   "desc": "AXLE - drive wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 37.6,
+   "y": 85.3,
+   "partNo": "G1000017",
+   "desc": "COLLAR - support",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 40.7,
+   "y": 77,
+   "partNo": "G9006003",
+   "desc": "WASHER - machine, 3/4\", 10 ga",
+   "reqd": "8"
+  },
+  {
+   "ref": "14",
+   "x": 50.6,
+   "y": 57.7,
+   "partNo": "G9006003",
+   "desc": "WASHER - machine, 3/4\", 10 ga",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 36.8,
+   "y": 65.8,
+   "partNo": "G9003500",
+   "desc": "BEARING - idler sprocket, 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 41.9,
+   "y": 68.8,
+   "variants": [
+    {
+     "serialNote": "Sprocket only",
+     "partNo": "G9011501",
+     "desc": "SPROCKET - idler",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "With bearings",
+     "partNo": "G9011501A",
+     "desc": "SPROCKET - idler, with bearings",
+     "reqd": "-"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 45.8,
+   "y": 53,
+   "partNo": "G9003502",
+   "desc": "BEARING - idler sprocket, 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 75.9,
+   "y": 16,
+   "partNo": "G9004510",
+   "desc": "CLIP - transmission dump valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 54.1,
+   "y": 54,
+   "partNo": "G1000002",
+   "desc": "SHAFT - idler sprocket",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 45.5,
+   "y": 74.9,
+   "partNo": "G9011505",
+   "desc": "SPROCKET - transmission, with brake disc",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 47.8,
+   "y": 63.3,
+   "partNo": "G9001001",
+   "desc": "CHAIN - primary drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 67.6,
+   "y": 72.8,
+   "partNo": "41003",
+   "desc": "KEY - Woodruff, 1/8\" x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 68,
+   "y": 62.6,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "G9004504",
+     "desc": "TRANSMISSION - L.H. (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "G9004505",
+     "desc": "TRANSMISSION - R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "24",
+   "x": 94.8,
+   "y": 25.6,
+   "partNo": "G9004521",
+   "desc": "PULLEY - with drive plate",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 65.5,
+   "y": 18.1,
+   "partNo": "G1000016",
+   "desc": "BAR - bolt",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 54.7,
+   "y": 62.8,
+   "partNo": "41006",
+   "desc": "KEY - Woodruff, 1/8\" x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 66.1,
+   "y": 49.3,
+   "partNo": "41006",
+   "desc": "KEY - Woodruff, 1/8\" x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 71.8,
+   "y": 55.1,
+   "partNo": "G9004522",
+   "desc": "HUB - with drive plate",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 72.8,
+   "y": 51.2,
+   "partNo": "G1110025",
+   "desc": "SPACER - bolt",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 85.8,
+   "y": 21.4,
+   "partNo": "G1110025",
+   "desc": "SPACER - bolt",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 90.3,
+   "y": 29.6,
+   "partNo": "G1110025",
+   "desc": "SPACER - bolt",
+   "reqd": "4"
+  },
+  {
+   "ref": "29",
+   "x": 76.1,
+   "y": 50.2,
+   "partNo": "G9004520",
+   "desc": "FAN - CCW",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 77.9,
+   "y": 45.6,
+   "partNo": "G1110021",
+   "desc": "PLATE - drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 89.4,
+   "y": 32.8,
+   "partNo": "G1110021",
+   "desc": "PLATE - drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 76.2,
+   "y": 35.3,
+   "partNo": "G9006161",
+   "desc": "WASHER - 1/4\", 10 ga",
+   "reqd": "6"
+  },
+  {
+   "ref": "31",
+   "x": 87.8,
+   "y": 21.4,
+   "partNo": "G9006161",
+   "desc": "WASHER - 1/4\", 10 ga",
+   "reqd": "6"
+  },
+  {
+   "ref": "32",
+   "x": 82.3,
+   "y": 42.3,
+   "partNo": "G1110018",
+   "desc": "SHAFT - cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 51.5,
+   "y": 78.9,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "G9005690",
+     "desc": "BRAKE ASSEMBLY - L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "G9005691",
+     "desc": "BRAKE ASSEMBLY - R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "34",
+   "x": 57.4,
+   "y": 70.5,
+   "partNo": "G9005587",
+   "desc": "CALIPER - brake",
+   "reqd": "-"
+  },
+  {
+   "ref": "35",
+   "x": 44.7,
+   "y": 85.1,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "G9005565",
+     "desc": "LEVER - caliper, L.H.",
+     "reqd": "-"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "G9005566",
+     "desc": "LEVER - caliper, R.H.",
+     "reqd": "-"
+    }
+   ]
+  },
+  {
+   "ref": "36",
+   "x": 55.3,
+   "y": 86.8,
+   "partNo": "G9005567",
+   "desc": "PAD - brake (set)",
+   "reqd": "-"
+  },
+  {
+   "ref": "37",
+   "x": 61.3,
+   "y": 80.9,
+   "partNo": "G9005588",
+   "desc": "BRACKET - caliper",
+   "reqd": "-"
+  },
+  {
+   "ref": "38",
+   "x": 48.6,
+   "y": 87.4,
+   "partNo": "G1110014",
+   "desc": "COLLAR - caliper rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 69,
+   "y": 78.2,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "G9004506",
+     "desc": "ARM - transmission, L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "G9004507",
+     "desc": "ARM - transmission, R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "40",
+   "x": 68.1,
+   "y": 86.3,
+   "partNo": "G2000014",
+   "desc": "BUSHING - cable end",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 71.8,
+   "y": 90.7,
+   "partNo": "G2000013",
+   "desc": "END - steering cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 78.9,
+   "y": 81.9,
+   "partNo": "G9005502",
+   "desc": "CABLE - steering",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 75.2,
+   "y": 71.9,
+   "partNo": "G9005503",
+   "desc": "CLAMP - steering cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "45",
+   "x": 83.3,
+   "y": 25.1,
+   "partNo": "G1110022",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "46",
+   "x": 93.4,
+   "y": 28.6,
+   "partNo": "G9004519",
+   "desc": "FAN - CW",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to serial numbers after 09-08-0944. Also listed, not shown on diagram: G9004021 TIRE - drive, 16 x 7.50-8; G9004003 RIM - 8\" x 5-1/2\"; G6000006 HUB ASSEMBLY - wheel, regular (includes items 5-9); G9004523 DIAPHRAGM - transmission; G9004528 KIT - seal, Model 6; G9004529 KIT - transmission reservoir, Model 6."
+}

@@ -1,0 +1,186 @@
+{
+ "sectionTitle": "Wiring Diagram (1989 and After)",
+ "breadcrumb": "Wiring Diagram (1989 and After)",
+ "catalogLabel": "Catalog G105-1",
+ "modelNumbers": "Catalog G105-1 — Grazer G1250 Chain-Drive Grounds Mower (Before S/N 02-09-0248)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-1/wiring_1989_after.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 59.9,
+   "y": 4.2,
+   "partNo": "G9002044",
+   "desc": "BREAKER - circuit, 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 35.4,
+   "y": 9.3,
+   "partNo": "G9002014",
+   "desc": "HEADLIGHT ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 82.3,
+   "y": 9.4,
+   "partNo": "G9002014",
+   "desc": "HEADLIGHT ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 81.5,
+   "y": 26.9,
+   "partNo": "G9005581",
+   "desc": "CLUTCH ASSEMBLY - electric",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 59.9,
+   "y": 17.6,
+   "partNo": "G9002028",
+   "desc": "SWITCH - PTO clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 60,
+   "y": 26.9,
+   "partNo": "G9002027",
+   "desc": "SWITCH - light",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 58.5,
+   "y": 74.8,
+   "partNo": "G9002037",
+   "desc": "RELAY",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 59.9,
+   "y": 30.9,
+   "partNo": "G9002003",
+   "desc": "SWITCH - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 41.2,
+   "y": 39.1,
+   "partNo": "G9002002",
+   "desc": "GAUGE - amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 62,
+   "y": 47.6,
+   "partNo": "G9002023",
+   "desc": "METER - hour",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 54.1,
+   "y": 47.4,
+   "partNo": "G9002041",
+   "desc": "LIGHT - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 45.5,
+   "y": 68.7,
+   "partNo": "G9002001",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 78.7,
+   "y": 45.5,
+   "partNo": "G9002029",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 84.3,
+   "y": 55.6,
+   "partNo": "G9002029",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 63.6,
+   "y": 93.3,
+   "partNo": "G9002060",
+   "desc": "BATTERY",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 67.5,
+   "y": 85.9,
+   "partNo": "G9002010",
+   "desc": "WIRE - starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 61.8,
+   "y": 97.9,
+   "partNo": "G9002009",
+   "desc": "WIRE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 45,
+   "y": 8.7,
+   "partNo": "G9002032",
+   "desc": "WIRE - light to switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 45.7,
+   "y": 84.6,
+   "partNo": "G9002005",
+   "desc": "SOLENOID",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 40.5,
+   "y": 91,
+   "partNo": "G9002010",
+   "desc": "WIRE - starter to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 25,
+   "y": 45.2,
+   "partNo": "G9002033",
+   "desc": "ACTUATOR - electric lift",
+   "reqd": "-"
+  },
+  {
+   "ref": "20",
+   "x": 23.4,
+   "y": 68.8,
+   "partNo": "G9002020",
+   "desc": "SWITCH - deck lift, 3 position",
+   "reqd": "-"
+  }
+ ],
+ "footnotes": "Wiring diagram for G1250 machines built 1989 and after. Also listed, not shown on diagram: G9002034 HARNESS - wiring (1)."
+}

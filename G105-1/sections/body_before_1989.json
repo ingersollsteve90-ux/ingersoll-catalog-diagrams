@@ -1,0 +1,646 @@
+{
+ "sectionTitle": "Body (Before 1989)",
+ "breadcrumb": "Body (Before 1989)",
+ "catalogLabel": "Catalog G105-1",
+ "modelNumbers": "Catalog G105-1 — Grazer G1250 Chain-Drive Grounds Mower (Before S/N 02-09-0248)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-1/body_before_1989.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 21.3,
+   "y": 64.5,
+   "partNo": "201-0000",
+   "desc": "BODY",
+   "reqd": ""
+  },
+  {
+   "ref": "2",
+   "x": 25.4,
+   "y": 71.6,
+   "partNo": "900-2026",
+   "desc": "LAMP",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 4.1,
+   "y": 87.5,
+   "partNo": "201-0008",
+   "desc": "FENDER - R.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 30.9,
+   "y": 93.2,
+   "partNo": "201-0007",
+   "desc": "FENDER - L.H.",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 13.2,
+   "y": 65.9,
+   "partNo": "900-2025",
+   "desc": "BULB",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 60.7,
+   "y": 26.4,
+   "partNo": "201-0004",
+   "desc": "LID",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 77.5,
+   "y": 16.9,
+   "partNo": "201-0009",
+   "desc": "COVER - back",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 18.3,
+   "y": 75.3,
+   "partNo": "900-2024",
+   "desc": "LENS",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 24.6,
+   "y": 43.9,
+   "partNo": "200-0007",
+   "desc": "RAIL - guard",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 30.2,
+   "y": 18.6,
+   "partNo": "200-0008",
+   "desc": "PROP - lid",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 47.4,
+   "y": 31.8,
+   "partNo": "200-0009",
+   "desc": "LEVER - steering",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 36.5,
+   "y": 36.1,
+   "partNo": "200-0010",
+   "desc": "BLOCK - bearing, steering lever",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 54.6,
+   "y": 39.1,
+   "partNo": "200-0010",
+   "desc": "BLOCK - bearing, steering lever",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 52,
+   "y": 32.3,
+   "partNo": "900-5500",
+   "desc": "GRIP - handle",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 15.3,
+   "y": 7.8,
+   "partNo": "900-5500",
+   "desc": "GRIP - handle",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 28,
+   "y": 35.4,
+   "partNo": "201-0010",
+   "desc": "LOCK - lever",
+   "reqd": ""
+  },
+  {
+   "ref": "15",
+   "x": 28.3,
+   "y": 24.3,
+   "partNo": "200-0012",
+   "desc": "LATCH - lever lock",
+   "reqd": ""
+  },
+  {
+   "ref": "16",
+   "x": 25.4,
+   "y": 36.9,
+   "partNo": "900-5501",
+   "desc": "SPRING - lever lock",
+   "reqd": ""
+  },
+  {
+   "ref": "17",
+   "x": 45.7,
+   "y": 42.3,
+   "partNo": "200-0013",
+   "desc": "END - steering cable",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 50.9,
+   "y": 42.1,
+   "partNo": "200-0014",
+   "desc": "BUSHING - cable end",
+   "reqd": ""
+  },
+  {
+   "ref": "19",
+   "x": 68.1,
+   "y": 32.1,
+   "partNo": "900-5502",
+   "desc": "CABLE - steering",
+   "reqd": ""
+  },
+  {
+   "ref": "20",
+   "x": 74.3,
+   "y": 28.1,
+   "partNo": "900-5503",
+   "desc": "CLAMP - steering cable",
+   "reqd": ""
+  },
+  {
+   "ref": "20",
+   "x": 64.3,
+   "y": 37.2,
+   "partNo": "900-5503",
+   "desc": "CLAMP - steering cable",
+   "reqd": ""
+  },
+  {
+   "ref": "21",
+   "x": 27.6,
+   "y": 8.4,
+   "partNo": "201-0011",
+   "desc": "LOCK - brake lever",
+   "reqd": ""
+  },
+  {
+   "ref": "22",
+   "x": 96.6,
+   "y": 49.4,
+   "partNo": "230-0002",
+   "desc": "WEIGHT - tail",
+   "reqd": ""
+  },
+  {
+   "ref": "23",
+   "x": 31.6,
+   "y": 28.3,
+   "partNo": "900-5562",
+   "desc": "SPRING",
+   "reqd": ""
+  },
+  {
+   "ref": "24",
+   "x": 44.5,
+   "y": 30.7,
+   "partNo": "900-2029",
+   "desc": "SWITCH - safety",
+   "reqd": ""
+  },
+  {
+   "ref": "25",
+   "x": 65.5,
+   "y": 17.2,
+   "partNo": "900-2001",
+   "desc": "SWITCH - seat",
+   "reqd": ""
+  },
+  {
+   "ref": "26",
+   "x": 43.8,
+   "y": 9.8,
+   "variants": [
+    {
+     "serialNote": "Standard seat",
+     "partNo": "900-5506",
+     "desc": "SEAT",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Deluxe seat",
+     "partNo": "900-5597",
+     "desc": "SEAT - deluxe",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "27",
+   "x": 56.5,
+   "y": 50.9,
+   "partNo": "900-2037",
+   "desc": "RELAY - electric clutch",
+   "reqd": ""
+  },
+  {
+   "ref": "28",
+   "x": 80.8,
+   "y": 85,
+   "partNo": "230-0004",
+   "desc": "AXLE - dual tail wheel",
+   "reqd": ""
+  },
+  {
+   "ref": "29",
+   "x": 37.8,
+   "y": 44.7,
+   "variants": [
+    {
+     "serialNote": "18 HP Kohler",
+     "partNo": "900-5605",
+     "desc": "CABLE - throttle (18 HP Kohler)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "11 HP Briggs",
+     "partNo": "900-5595",
+     "desc": "CABLE - throttle (11 HP Briggs)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Other engines",
+     "partNo": "900-5507",
+     "desc": "CABLE - throttle",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 42.7,
+   "y": 44,
+   "variants": [
+    {
+     "serialNote": "18 HP Kohler",
+     "partNo": "900-5606",
+     "desc": "CABLE - choke (18 HP Kohler)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "11 HP Briggs",
+     "partNo": "900-5596",
+     "desc": "CABLE - choke (11 HP Briggs)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Other engines",
+     "partNo": "900-5508",
+     "desc": "CABLE - choke",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 54.6,
+   "y": 66.8,
+   "partNo": "900-5509",
+   "desc": "MOUNT - rubber body",
+   "reqd": ""
+  },
+  {
+   "ref": "32",
+   "x": 59.5,
+   "y": 64,
+   "partNo": "200-0015",
+   "desc": "WASHER - body mount",
+   "reqd": ""
+  },
+  {
+   "ref": "33",
+   "x": 77.7,
+   "y": 72.6,
+   "partNo": "230-0005",
+   "desc": "MOUNT - dual tail wheel",
+   "reqd": ""
+  },
+  {
+   "ref": "34",
+   "x": 88.6,
+   "y": 53,
+   "variants": [
+    {
+     "serialNote": "1600, 1800",
+     "partNo": "210-0001",
+     "desc": "FORK - tail wheel (1600)(1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C, 1800C",
+     "partNo": "230-0001",
+     "desc": "FORK - tail wheel (1600C)(1800C)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1100, 1250",
+     "partNo": "200-0016",
+     "desc": "FORK - tail wheel (1100)(1250)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Dual tail wheel",
+     "partNo": "230-0007",
+     "desc": "FORK - dual tail wheel",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "35",
+   "x": 85.8,
+   "y": 72.1,
+   "variants": [
+    {
+     "serialNote": "1600, 1800",
+     "partNo": "900-4014",
+     "desc": "TAIL WHEEL ASSEMBLY (1600)(1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C, 1800C",
+     "partNo": "900-4017",
+     "desc": "TAIL WHEEL ASSEMBLY (1600C)(1800C)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1100, 1250",
+     "partNo": "900-4004",
+     "desc": "TAIL WHEEL ASSEMBLY (1100)(1250)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "Model not specified",
+     "partNo": "900-4010",
+     "desc": "TAIL WHEEL ASSEMBLY",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "36",
+   "x": 93,
+   "y": 69.3,
+   "variants": [
+    {
+     "serialNote": "1600-1800",
+     "partNo": "200-0017A",
+     "desc": "AXLE - tail wheel (1600-1800)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1600C-1800C",
+     "partNo": "230-0017",
+     "desc": "AXLE - tail wheel (1600C-1800C)",
+     "reqd": ""
+    },
+    {
+     "serialNote": "1100-1250, dual tail wheel",
+     "partNo": "200-0017",
+     "desc": "AXLE - tail wheel (1100-1250), dual tail wheel axle",
+     "reqd": ""
+    }
+   ]
+  },
+  {
+   "ref": "37",
+   "x": 89.5,
+   "y": 48.9,
+   "partNo": "900-3503",
+   "desc": "BEARING - tail wheel fork",
+   "reqd": ""
+  },
+  {
+   "ref": "37",
+   "x": 74.6,
+   "y": 37.8,
+   "partNo": "900-3503",
+   "desc": "BEARING - tail wheel fork",
+   "reqd": ""
+  },
+  {
+   "ref": "37",
+   "x": 72.7,
+   "y": 84,
+   "partNo": "900-3503",
+   "desc": "BEARING - tail wheel fork",
+   "reqd": ""
+  },
+  {
+   "ref": "38",
+   "x": 75.1,
+   "y": 35.7,
+   "partNo": "900-5510",
+   "desc": "COLLAR - set",
+   "reqd": ""
+  },
+  {
+   "ref": "39",
+   "x": 76.9,
+   "y": 56.4,
+   "partNo": "230-0006",
+   "desc": "BLOCK - dual tail wheel tube",
+   "reqd": ""
+  },
+  {
+   "ref": "40",
+   "x": 89.7,
+   "y": 37.7,
+   "partNo": "900-5533",
+   "desc": "TANK - fuel",
+   "reqd": ""
+  },
+  {
+   "ref": "41",
+   "x": 67.6,
+   "y": 87.1,
+   "partNo": "230-0008",
+   "desc": "AXLE - pivot",
+   "reqd": ""
+  },
+  {
+   "ref": "42",
+   "x": 86.7,
+   "y": 40.1,
+   "partNo": "900-5513",
+   "desc": "VALVE - fuel tank",
+   "reqd": ""
+  },
+  {
+   "ref": "43",
+   "x": 84.9,
+   "y": 45.2,
+   "partNo": "900-5514",
+   "desc": "FILTER - fuel",
+   "reqd": ""
+  },
+  {
+   "ref": "44",
+   "x": 86,
+   "y": 42.7,
+   "partNo": "900-5515",
+   "desc": "HOSE - fuel",
+   "reqd": ""
+  },
+  {
+   "ref": "45",
+   "x": 82.1,
+   "y": 24.2,
+   "partNo": "900-2004",
+   "desc": "BATTERY",
+   "reqd": ""
+  },
+  {
+   "ref": "46",
+   "x": 90.2,
+   "y": 14.8,
+   "partNo": "200-0019",
+   "desc": "HOLD DOWN",
+   "reqd": ""
+  },
+  {
+   "ref": "47",
+   "x": 49,
+   "y": 48.8,
+   "partNo": "900-2005",
+   "desc": "SOLENOID",
+   "reqd": ""
+  },
+  {
+   "ref": "48",
+   "x": 91.7,
+   "y": 7.6,
+   "partNo": "900-5522",
+   "desc": "FASTENER - Dzus",
+   "reqd": ""
+  },
+  {
+   "ref": "49",
+   "x": 34.9,
+   "y": 73,
+   "partNo": "900-5516",
+   "desc": "SPRING - deck",
+   "reqd": ""
+  },
+  {
+   "ref": "50",
+   "x": 79.9,
+   "y": 64.8,
+   "partNo": "900-3505",
+   "desc": "BEARING - tail wheel (3/4\")",
+   "reqd": ""
+  },
+  {
+   "ref": "50",
+   "x": 94,
+   "y": 71.9,
+   "partNo": "900-3505",
+   "desc": "BEARING - tail wheel (3/4\")",
+   "reqd": ""
+  },
+  {
+   "ref": "51",
+   "x": 58.5,
+   "y": 16.4,
+   "partNo": "900-5523",
+   "desc": "SPACER - seat",
+   "reqd": ""
+  },
+  {
+   "ref": "52",
+   "x": 92.6,
+   "y": 27.7,
+   "partNo": "900-5561",
+   "desc": "CAP - fuel tank",
+   "reqd": ""
+  },
+  {
+   "ref": "53",
+   "x": 81.7,
+   "y": 46.6,
+   "partNo": "900-5525",
+   "desc": "CLAMP - fuel line",
+   "reqd": ""
+  },
+  {
+   "ref": "54",
+   "x": 77.6,
+   "y": 20.1,
+   "partNo": "200-0021",
+   "desc": "PROTECTOR - battery post",
+   "reqd": ""
+  },
+  {
+   "ref": "55",
+   "x": 14.5,
+   "y": 19.6,
+   "partNo": "900-2028",
+   "desc": "SWITCH - clutch",
+   "reqd": ""
+  },
+  {
+   "ref": "56",
+   "x": 9.9,
+   "y": 19.2,
+   "partNo": "900-2027",
+   "desc": "SWITCH - light",
+   "reqd": ""
+  },
+  {
+   "ref": "57",
+   "x": 14.3,
+   "y": 36.6,
+   "partNo": "900-2003",
+   "desc": "SWITCH - ignition",
+   "reqd": ""
+  },
+  {
+   "ref": "58",
+   "x": 9.6,
+   "y": 36.8,
+   "partNo": "900-2023",
+   "desc": "METER - hour",
+   "reqd": ""
+  },
+  {
+   "ref": "59",
+   "x": 18.7,
+   "y": 36.5,
+   "partNo": "900-2002",
+   "desc": "METER - amp",
+   "reqd": ""
+  },
+  {
+   "ref": "60",
+   "x": 25.3,
+   "y": 20.8,
+   "partNo": "201-0006",
+   "desc": "BOARD - dash",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Body parts for machines built before 1989. This page covers several Grazer models (1100, 1250, 1600, 1800); pick the variant that matches your machine."
+}

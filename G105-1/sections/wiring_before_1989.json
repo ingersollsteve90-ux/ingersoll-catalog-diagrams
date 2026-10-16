@@ -1,0 +1,194 @@
+{
+ "sectionTitle": "Wiring Diagram (Before 1989)",
+ "breadcrumb": "Wiring Diagram (Before 1989)",
+ "catalogLabel": "Catalog G105-1",
+ "modelNumbers": "Catalog G105-1 — Grazer G1250 Chain-Drive Grounds Mower (Before S/N 02-09-0248)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/G105-1/wiring_before_1989.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.8,
+   "y": 9.1,
+   "partNo": "900-2014",
+   "desc": "LIGHT (2 each)",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 74.6,
+   "y": 8.5,
+   "partNo": "900-2014",
+   "desc": "LIGHT (2 each)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 53.2,
+   "y": 17.5,
+   "partNo": "900-2028",
+   "desc": "SWITCH - clutch",
+   "reqd": ""
+  },
+  {
+   "ref": "3",
+   "x": 57.6,
+   "y": 24.3,
+   "partNo": "900-2027",
+   "desc": "SWITCH - light",
+   "reqd": ""
+  },
+  {
+   "ref": "4",
+   "x": 81.1,
+   "y": 24.4,
+   "partNo": "900-5581",
+   "desc": "CLUTCH - electric",
+   "reqd": ""
+  },
+  {
+   "ref": "5",
+   "x": 54.2,
+   "y": 30.8,
+   "partNo": "900-2003",
+   "desc": "SWITCH - ignition",
+   "reqd": ""
+  },
+  {
+   "ref": "6",
+   "x": 27.1,
+   "y": 31.1,
+   "partNo": "NSS",
+   "desc": "FUSE - 15 amp (no part number printed)",
+   "reqd": ""
+  },
+  {
+   "ref": "7",
+   "x": 38.3,
+   "y": 42.4,
+   "partNo": "900-2002",
+   "desc": "GAUGE - amp",
+   "reqd": ""
+  },
+  {
+   "ref": "8",
+   "x": 55.4,
+   "y": 42.3,
+   "partNo": "900-2023",
+   "desc": "METER - hour",
+   "reqd": ""
+  },
+  {
+   "ref": "9",
+   "x": 45.4,
+   "y": 47.7,
+   "partNo": "900-2029",
+   "desc": "DIODE",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 59.4,
+   "y": 44.7,
+   "partNo": "900-2040",
+   "desc": "CONDENSER",
+   "reqd": ""
+  },
+  {
+   "ref": "11",
+   "x": 73.7,
+   "y": 40.6,
+   "partNo": "900-2029",
+   "desc": "SWITCH - safety",
+   "reqd": ""
+  },
+  {
+   "ref": "12",
+   "x": 17.5,
+   "y": 46.5,
+   "partNo": "900-2032",
+   "desc": "MOTOR - deck lift",
+   "reqd": ""
+  },
+  {
+   "ref": "13",
+   "x": 2.9,
+   "y": 68.7,
+   "partNo": "900-2020",
+   "desc": "SWITCH - deck lift",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 19.9,
+   "y": 64.8,
+   "partNo": "NSS",
+   "desc": "FUSE - 30 amp (no part number printed)",
+   "reqd": ""
+  },
+  {
+   "ref": "14",
+   "x": 31.8,
+   "y": 58.6,
+   "partNo": "NSS",
+   "desc": "FUSE - 30 amp (no part number printed)",
+   "reqd": ""
+  },
+  {
+   "ref": "15",
+   "x": 41.5,
+   "y": 67.2,
+   "partNo": "900-2001",
+   "desc": "SWITCH - seat",
+   "reqd": ""
+  },
+  {
+   "ref": "16",
+   "x": 56.1,
+   "y": 70.7,
+   "partNo": "900-2037",
+   "desc": "RELAY",
+   "reqd": ""
+  },
+  {
+   "ref": "17",
+   "x": 81.8,
+   "y": 67.4,
+   "partNo": "900-2029",
+   "desc": "SWITCH - park brake",
+   "reqd": ""
+  },
+  {
+   "ref": "18",
+   "x": 27.9,
+   "y": 81.1,
+   "partNo": "900-2005",
+   "desc": "SOLENOID",
+   "reqd": ""
+  },
+  {
+   "ref": "19",
+   "x": 22.7,
+   "y": 88.9,
+   "partNo": "900-2010",
+   "desc": "CABLE - battery to solenoid",
+   "reqd": ""
+  },
+  {
+   "ref": "20",
+   "x": 67.9,
+   "y": 90,
+   "partNo": "900-2004",
+   "desc": "BATTERY",
+   "reqd": ""
+  },
+  {
+   "ref": "21",
+   "x": 67,
+   "y": 94.9,
+   "partNo": "900-2009",
+   "desc": "CABLE - ground",
+   "reqd": ""
+  }
+ ],
+ "footnotes": "Wiring diagram for G1250 machines built before 1989. The original page has no callout numbers; the numbers shown here were added to identify each labeled part. Fuses have no part number printed (NSS)."
+}
