@@ -1,0 +1,243 @@
+{
+ "sectionTitle": "Hydraulic Drive (AHC48 PIN 150603001 & after; HC48 PIN 150602001 & after)",
+ "breadcrumb": "Hydraulic Drive (AHC48 PIN 150603001 & after; HC48 PIN 150602001 & after)",
+ "catalogLabel": "Catalog 8-3001",
+ "modelNumbers": "Catalog 8-3001 — Hydracutter 48\" Mower 1048, HC48, AHC48",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3001/hydraulic_drive_ultra_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.1,
+   "y": 56.1,
+   "partNo": "C46235",
+   "desc": "MOTOR - ULTRA, hydraulic (Repairs page 15)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 42.1,
+   "y": 58.1,
+   "partNo": "C46237",
+   "desc": "KEY - motor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 19.7,
+   "y": 88.8,
+   "partNo": "111-366",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 18.3,
+   "y": 38.5,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 50.3,
+   "y": 73.5,
+   "partNo": "C46333",
+   "desc": "PLATE - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 3.6,
+   "y": 59.8,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 3.6,
+   "y": 67.8,
+   "partNo": "195-103",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 52.7,
+   "y": 97.1,
+   "partNo": "123-101",
+   "desc": "BOLT - 5/16\" 18 x 4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 38.3,
+   "y": 90.1,
+   "partNo": "C25829",
+   "desc": "SPACER - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 31.6,
+   "y": 87.7,
+   "partNo": "C25688",
+   "desc": "SPRING - compression",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 36.8,
+   "y": 76.9,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\"-18",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 44.3,
+   "y": 93.4,
+   "partNo": "195-520",
+   "desc": "WASHER - 5/16\" x 7/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 4,
+   "y": 55.6,
+   "partNo": "218-5201",
+   "desc": "FITTING - 7/8\" - 14 \"O\" ring, 1/2\" pipe, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 47,
+   "y": 44.9,
+   "partNo": "218-5201",
+   "desc": "FITTING - 7/8\" - 14 \"O\" ring, 1/2\" pipe, 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 15.9,
+   "y": 44.9,
+   "partNo": "218-5007",
+   "desc": "\"O\" - RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 33.6,
+   "y": 37.2,
+   "partNo": "218-5007",
+   "desc": "\"O\" - RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 73.1,
+   "y": 17,
+   "variants": [
+    {
+     "partNo": "C40724",
+     "desc": "HOSE - hydraulic 1/2\" x 56\" (HC48)",
+     "reqd": "2",
+     "serialNote": "HC48 (2 req.)"
+    },
+    {
+     "partNo": "C42077",
+     "desc": "HOSE - 1/2\" x 48\" (AHC48)",
+     "reqd": "1",
+     "serialNote": "AHC48 - 48\" hose"
+    },
+    {
+     "partNo": "C40724",
+     "desc": "HOSE - 1/2\" x 56\" (AHC48)",
+     "reqd": "1",
+     "serialNote": "AHC48 - 56\" hose"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 58.4,
+   "y": 67,
+   "partNo": "218-5105",
+   "desc": "FITTING - 9/16\" - 18 x 9/16\" 90°",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 74.4,
+   "y": 31.7,
+   "partNo": "218-1086",
+   "desc": "ELBOW - 45° (AHC48)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 86.7,
+   "y": 24.8,
+   "partNo": "218-1086",
+   "desc": "ELBOW - 45° (AHC48)",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 94.9,
+   "y": 29.4,
+   "partNo": "C37187",
+   "desc": "COUPLER - quick, male 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 86.3,
+   "y": 40.1,
+   "partNo": "C37188",
+   "desc": "COUPLER - quick, female 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 58.5,
+   "y": 51.1,
+   "partNo": "C37394",
+   "desc": "HOSE - 1/4\" x 51\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 74,
+   "y": 59,
+   "partNo": "C41044",
+   "desc": "COUPLER - quick, female 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 68.4,
+   "y": 55.8,
+   "partNo": "218-443",
+   "desc": "FITTING - 3/8\" x 9/16\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 93.8,
+   "y": 57.3,
+   "partNo": "C33404",
+   "desc": "CAP - dust",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 3.1,
+   "y": 63.6,
+   "partNo": "TBD",
+   "desc": "WASHER (not listed in the printed parts table)",
+   "reqd": "-"
+  }
+ ],
+ "footnotes": "Hydracutter 48\" mower 1048, HC48, AHC48."
+}

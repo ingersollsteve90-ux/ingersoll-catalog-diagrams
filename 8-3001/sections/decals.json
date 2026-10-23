@@ -1,0 +1,74 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog 8-3001",
+ "modelNumbers": "Catalog 8-3001 — Hydracutter 48\" Mower 1048, HC48, AHC48",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3001/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.9,
+   "y": 30.2,
+   "partNo": "C29617",
+   "desc": "DECAL - \"Hydracutter (if required)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 56.8,
+   "y": 17.6,
+   "partNo": "C29073",
+   "desc": "DECAL - Stripe 52\" (1320 mm) cut to length (if required)",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "3",
+   "x": 46.9,
+   "y": 2.5,
+   "partNo": "C32093",
+   "desc": "DECAL - \"Ingersoll\" shown",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 22.6,
+   "y": 67.6,
+   "partNo": "C46323",
+   "desc": "DECAL - \"Spinning Blade\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 80.4,
+   "y": 67.8,
+   "partNo": "C29768",
+   "desc": "DECAL - \"Flying Debris\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 22.4,
+   "y": 43.4,
+   "partNo": "C29769",
+   "desc": "DECAL - hydraulic PTO",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 79.9,
+   "y": 43,
+   "partNo": "C29770",
+   "desc": "DECAL - height adjustment",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 50.7,
+   "y": 89.4,
+   "partNo": "C29880",
+   "desc": "DECAL - belt adjustment",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Hydracutter 48\" mower 1048, HC48, AHC48."
+}

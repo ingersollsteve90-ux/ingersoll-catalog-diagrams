@@ -1,0 +1,226 @@
+{
+ "sectionTitle": "Hydraulic Motor (Ultra C46235)",
+ "breadcrumb": "Hydraulic Motor (Ultra C46235)",
+ "catalogLabel": "Catalog 8-3001",
+ "modelNumbers": "Catalog 8-3001 — Hydracutter 48\" Mower 1048, HC48, AHC48",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3001/hydraulic_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 2.5,
+   "y": 48.8,
+   "partNo": "NSS",
+   "desc": "BOLT",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 6.4,
+   "y": 57.5,
+   "partNo": "NSS",
+   "desc": "LOCKWASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 12.4,
+   "y": 22.1,
+   "partNo": "NSS",
+   "desc": "COVER - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 19.4,
+   "y": 29.3,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - body (included in seal kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 75.8,
+   "y": 62.1,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - body (included in seal kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 22.7,
+   "y": 30.5,
+   "partNo": "NSS",
+   "desc": "SEAL - backup (included in seal kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 68.7,
+   "y": 90.3,
+   "partNo": "NSS",
+   "desc": "SEAL - backup (included in seal kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 22.9,
+   "y": 63.7,
+   "partNo": "NSS",
+   "desc": "SEALS - bushings (included in seal kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 65.9,
+   "y": 58.2,
+   "partNo": "NSS",
+   "desc": "SEALS - bushings (included in seal kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 28.5,
+   "y": 39.3,
+   "partNo": "NSS",
+   "desc": "SEALS - bushings (included in seal kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 71,
+   "y": 60.7,
+   "partNo": "NSS",
+   "desc": "SEALS - bushings (included in seal kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 32.6,
+   "y": 37.5,
+   "partNo": "NSS",
+   "desc": "BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 26.2,
+   "y": 67,
+   "partNo": "NSS",
+   "desc": "BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 61,
+   "y": 55.6,
+   "partNo": "NSS",
+   "desc": "BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 59,
+   "y": 85.6,
+   "partNo": "NSS",
+   "desc": "BUSHING",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 35.4,
+   "y": 75.8,
+   "partNo": "NSS",
+   "desc": "BODY",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 50.8,
+   "y": 46.7,
+   "partNo": "NSS",
+   "desc": "GEAR - driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 45.1,
+   "y": 77.5,
+   "partNo": "NSS",
+   "desc": "SHAFT AND GEAR - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 49.6,
+   "y": 80.3,
+   "partNo": "C46237",
+   "desc": "KEY - square 3/16\" x 3/4\" (included in seal kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 55,
+   "y": 79.8,
+   "partNo": "NSS",
+   "desc": "RING - retaining (included in seal kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 83.4,
+   "y": 59.1,
+   "partNo": "NSS",
+   "desc": "FLANGE - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 92.8,
+   "y": 82.1,
+   "partNo": "C43748",
+   "desc": "SEAL - oil (included in seal kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 97.8,
+   "y": 90.9,
+   "partNo": "NSS",
+   "desc": "RING - retaining (included in seal kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 38.2,
+   "y": 5.8,
+   "partNo": "NSS",
+   "desc": "CAP - check valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 36,
+   "y": 30.5,
+   "partNo": "NSS",
+   "desc": "SPRING - check valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 27.1,
+   "y": 14,
+   "partNo": "NSS",
+   "desc": "VALVE - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 34.8,
+   "y": 10,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - cap (included in seal kit)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Hydracutter 48\" mower 1048, HC48, AHC48.\nAlso listed, not shown on diagram: C43747 KIT - seal, includes items 4, 5, 6, 7, 12, 13, 15 and 20 (1)."
+}
