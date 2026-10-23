@@ -1,0 +1,191 @@
+{
+ "sectionTitle": "Decals (Tractor & Deck)",
+ "breadcrumb": "Decals (Tractor & Deck)",
+ "catalogLabel": "Catalog 8-60211",
+ "modelNumbers": "Catalog 8-60211 — Ingersoll Front Cut Tractors G1897V, G2097V and G2297K",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-60211/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 43.4,
+   "y": 8.4,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C46637",
+     "desc": "DECAL - body side L.H. \"G1897V\"",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C46638",
+     "desc": "DECAL - body side R.H. \"G1897V\" (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 80.6,
+   "y": 28.7,
+   "partNo": "C46321",
+   "desc": "DECAL - \"WARNING\" operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 51.7,
+   "y": 69.1,
+   "partNo": "C37501",
+   "desc": "DECAL - instrument panel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 18.2,
+   "y": 81.1,
+   "partNo": "C38047",
+   "desc": "MEDALLION - \"GRAZER\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 79.9,
+   "y": 56,
+   "partNo": "C46315",
+   "desc": "DECAL - \"WARNING\" operation",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 18.2,
+   "y": 57.4,
+   "partNo": "C46310",
+   "desc": "DECAL - \"ATTENTION\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 87.2,
+   "y": 68.3,
+   "partNo": "C46309",
+   "desc": "DECAL - steering levers",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 17.1,
+   "y": 92.1,
+   "partNo": "C46312",
+   "desc": "DECAL - parking brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 89.2,
+   "y": 90.6,
+   "partNo": "C37500",
+   "desc": "DECAL - \"DANGER\" carbon monoxide",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 48.9,
+   "y": 28.9,
+   "partNo": "C46318",
+   "desc": "DECAL - lubrication",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 16.3,
+   "y": 8.3,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C46639",
+     "desc": "DECAL - body side L.H. \"G2097V\"",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C46640",
+     "desc": "DECAL - body side R.H. \"G2097V\" (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 75.4,
+   "y": 19.9,
+   "partNo": "C46385",
+   "desc": "DECAL - fender skirt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 26,
+   "y": 18.3,
+   "variants": [
+    {
+     "serialNote": "Front",
+     "partNo": "C43413",
+     "desc": "DECAL - front \"GRAZER\"",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Tail side",
+     "partNo": "C43416",
+     "desc": "DECAL - tail side \"GRAZER\"",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 76,
+   "y": 8,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C46641",
+     "desc": "DECAL - body side L.H. \"G2297K",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (shown)",
+     "partNo": "C46642",
+     "desc": "DECAL - body side R.H. \"G2297K\" (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 17.8,
+   "y": 44.5,
+   "partNo": "C46323",
+   "desc": "DECAL - \"DANGER\" spinning blade",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 93.4,
+   "y": 49.2,
+   "partNo": "C46324",
+   "desc": "DECAL - \"WARNING\" spinning blade",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 17.9,
+   "y": 28.7,
+   "partNo": "C46325",
+   "desc": "DECAL - \"Danger\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.64
+}

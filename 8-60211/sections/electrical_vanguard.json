@@ -1,0 +1,270 @@
+{
+ "sectionTitle": "Electrical System (G1897V, G2097V)",
+ "breadcrumb": "Electrical System (G1897V, G2097V)",
+ "catalogLabel": "Catalog 8-60211",
+ "modelNumbers": "Catalog 8-60211 — Ingersoll Front Cut Tractors G1897V, G2097V and G2297K",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-60211/electrical_vanguard.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 58.9,
+   "y": 37.6,
+   "partNo": "C45539",
+   "desc": "HARNESS - wire, alternator and magneto",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 42.3,
+   "y": 49.4,
+   "partNo": "C37505",
+   "desc": "BREAKER - circuit, 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 22.8,
+   "y": 15.1,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 47.8,
+   "y": 3.6,
+   "partNo": "C31937",
+   "desc": "SWITCH - PTO (also use C31619 Cap)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 46.8,
+   "y": 19.1,
+   "partNo": "C43044",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 47.1,
+   "y": 31.3,
+   "partNo": "C30267",
+   "desc": "SWITCH - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 19.7,
+   "y": 25.8,
+   "partNo": "C29413",
+   "desc": "AMMETER",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 67,
+   "y": 22.3,
+   "partNo": "C45917",
+   "desc": "METER - hour",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 51.1,
+   "y": 14,
+   "partNo": "C45536",
+   "desc": "LIGHT - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 14.6,
+   "y": 80,
+   "partNo": "C45537",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 33.3,
+   "y": 74.8,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 38.5,
+   "y": 83.3,
+   "partNo": "C37521",
+   "desc": "SWITCH - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 20.7,
+   "y": 62.2,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 8.1,
+   "y": 92.8,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 60.5,
+   "y": 61.4,
+   "partNo": "C44261",
+   "desc": "WIRE - starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 23.1,
+   "y": 53.3,
+   "partNo": "C37511",
+   "desc": "CLUTCH - PTO",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 19.8,
+   "y": 67.2,
+   "partNo": "C37528",
+   "desc": "CABLE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 34.5,
+   "y": 22.9,
+   "partNo": "C44075",
+   "desc": "WIRE - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 61.4,
+   "y": 66,
+   "partNo": "C33024",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 37.3,
+   "y": 63,
+   "partNo": "C37523",
+   "desc": "CABLE - battery positive to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 18.3,
+   "y": 36.7,
+   "partNo": "C41643",
+   "desc": "WIRE - ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 63.2,
+   "y": 46.2,
+   "partNo": "C46218",
+   "desc": "HARNESS - oil pressure switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 49.9,
+   "y": 68,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 38.2,
+   "y": 67.6,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 27.8,
+   "y": 90.8,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 25.5,
+   "y": 88.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 23.1,
+   "y": 86.7,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 20.6,
+   "y": 84.7,
+   "partNo": "C37983",
+   "desc": "BRACKET - hold down",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 7.2,
+   "y": 87.4,
+   "partNo": "C38677",
+   "desc": "BOLT - 1/4\" - 20 x 7\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 6.9,
+   "y": 90.4,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 7.2,
+   "y": 97.6,
+   "variants": [
+    {
+     "serialNote": "Battery terminal",
+     "partNo": "C24069",
+     "desc": "COVER - terminal, battery",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Starter terminal",
+     "partNo": "C44079",
+     "desc": "COVER - terminal, starter",
+     "reqd": "1"
+    }
+   ]
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C45535 HARNESS - wire, main (1); C22573 LENS - headlight (1); C37508 BULB - headlight (1); C37509 RECEPTACLE (1); C14304 GASKET - headlight (1); C44469 NUT- 1/2\" - 27 (Black) PTO switch retaining (1); C31620 NUT - 1/2\" - 27 (Black) PTO switch retaining (knurled) (1); C32407 KEY - ignition (1); C32397 CAP - nut, ignition switch (1); 193-63 LOCKWASHER - 5/8\" (1); C32396 NUT - 5/8\" - 32 ignition switch (1); 182-525 SCREW - #10 - 32 x 3/8\" (safety switch mount) (1); 192-18 LOCKWASHER - 3/16\" (safety switch mount) (1); 193-1000 NUT - #10 - 32 Lock (safety switch mount) (2); 182-528 SCREW - #10 - 32 x 1/2\" (safety switch mount) (2); 113-1 BOLT - 1/4\" - 20 x 1/2\" (solenoid mounting) (2); 195-518 WASHER - 1/4\" (2); 192-19 LOCKWASHER - 1/4\" (solenoid studs) (2); 129-101 NUT - 1/4\" - 20 (solenoid studs) (2).",
+ "dotSizePct": 2.93
+}

@@ -1,0 +1,147 @@
+{
+ "sectionTitle": "Parking Brake",
+ "breadcrumb": "Parking Brake",
+ "catalogLabel": "Catalog 8-60211",
+ "modelNumbers": "Catalog 8-60211 — Ingersoll Front Cut Tractors G1897V, G2097V and G2297K",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-60211/parking_brake.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.9,
+   "y": 20.2,
+   "partNo": "C46596",
+   "desc": "LEVER - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 35.5,
+   "y": 44,
+   "partNo": "C37631",
+   "desc": "GRIP - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 62.5,
+   "y": 29.3,
+   "partNo": "C46601",
+   "desc": "ROD - brake lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 47,
+   "y": 5.3,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 3/32\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 42.9,
+   "y": 49.7,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 3/32\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 65.3,
+   "y": 91.3,
+   "partNo": "132-332",
+   "desc": "PIN - cotter 3/32\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 24.7,
+   "y": 8.4,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 45.8,
+   "y": 26.8,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 30.5,
+   "y": 56.5,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 72.5,
+   "y": 60,
+   "partNo": "C46602",
+   "desc": "SHAFT - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 23.3,
+   "y": 62.8,
+   "partNo": "113-2",
+   "desc": "BOLT - 1/4\" - 20 x 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 38.4,
+   "y": 92.7,
+   "partNo": "C37733",
+   "desc": "ROD - brake caliper",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 23.6,
+   "y": 85.5,
+   "partNo": "C37724",
+   "desc": "COLLAR - caliper rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 51.3,
+   "y": 75.5,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 5.4,
+   "y": 67.6,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 9.3,
+   "y": 75.5,
+   "partNo": "195-102",
+   "desc": "WASHER - 5/16\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 15,
+   "y": 79.7,
+   "partNo": "C37725",
+   "desc": "SPRING - compression",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.83
+}

@@ -1,0 +1,268 @@
+{
+ "sectionTitle": "Transmission - ZT Drive",
+ "breadcrumb": "Transmission - ZT Drive",
+ "catalogLabel": "Catalog 8-60211",
+ "modelNumbers": "Catalog 8-60211 — Ingersoll Front Cut Tractors G1897V, G2097V and G2297K",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-60211/transmission_zt.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 44.7,
+   "y": 34.1,
+   "partNo": "C40898",
+   "desc": "HOUSING - axle",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.4,
+   "y": 77.2,
+   "partNo": "C40902",
+   "desc": "HOUSING - hydro mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 51.5,
+   "y": 53,
+   "partNo": "C43685",
+   "desc": "GEAR - 60T",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 95.5,
+   "y": 40.7,
+   "partNo": "C40904",
+   "desc": "GEAR - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 80.5,
+   "y": 11.7,
+   "partNo": "C40905",
+   "desc": "SHAFT - axle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 59.1,
+   "y": 38.5,
+   "partNo": "C34464",
+   "desc": "BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 58.7,
+   "y": 60.9,
+   "partNo": "C34464",
+   "desc": "BEARING",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 90.5,
+   "y": 83.8,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 60.2,
+   "y": 45.4,
+   "partNo": "C40908",
+   "desc": "SHAFT - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 88.6,
+   "y": 50.2,
+   "partNo": "C40909",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 80.5,
+   "y": 57.7,
+   "partNo": "C40910",
+   "desc": "BALL - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 88.9,
+   "y": 20.6,
+   "variants": [
+    {
+     "serialNote": "1/4\" x 2-1/2\" bolt",
+     "partNo": "113-12",
+     "desc": "BOLT - 1/4\" - 20 x 2-1/2\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "5/16\" x 2-3/4\" bolt",
+     "partNo": "113-119",
+     "desc": "BOLT - 5/16\" - 18 x 2-3/4\"",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 59.8,
+   "y": 41.4,
+   "partNo": "C34447",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 58.7,
+   "y": 57.2,
+   "partNo": "C34447",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 89.8,
+   "y": 72.1,
+   "partNo": "C34446",
+   "desc": "PIN - spiral",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 49.4,
+   "y": 76.4,
+   "partNo": "C34446",
+   "desc": "PIN - spiral",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 73.2,
+   "y": 86.9,
+   "partNo": "C37736",
+   "desc": "SPACER - mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 52.5,
+   "y": 96,
+   "partNo": "C37740",
+   "desc": "SPACER - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 67.8,
+   "y": 93.6,
+   "partNo": "C37739",
+   "desc": "BEARING - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 53.6,
+   "y": 89,
+   "partNo": "C37737",
+   "desc": "RING-retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 67.3,
+   "y": 90.1,
+   "partNo": "C37738",
+   "desc": "GEAR - input",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 66.9,
+   "y": 18.9,
+   "partNo": "132-320",
+   "desc": "PIN - cotter",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 48.4,
+   "y": 26.2,
+   "partNo": "C37730",
+   "desc": "BAND - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 47.8,
+   "y": 20.5,
+   "partNo": "C37731",
+   "desc": "DRUM-brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 49.9,
+   "y": 16.1,
+   "partNo": "C37732",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 58.1,
+   "y": 47.9,
+   "partNo": "C43686",
+   "desc": "GEAR - 17T",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 90.6,
+   "y": 64.4,
+   "partNo": "C43687",
+   "desc": "GASKET - housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 74,
+   "y": 37.1,
+   "partNo": "C43688",
+   "desc": "SEAL-oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 68.4,
+   "y": 97.3,
+   "partNo": "C43689",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "partNo": "C43752",
+   "desc": "GREASE - 10 oz. tube (2 required)",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 20.7,
+   "y": 59.3,
+   "partNo": "NSS",
+   "desc": "GEAR - (use C43685, C43686)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: NSS BEARING - ball (part of ref 1 axle housing) (1); NSS BEARING - flanged (part of ref 1 axle housing) (1); NSS PIN-clevis (part of ref 1 axle housing) (1).",
+ "dotSizePct": 3.72
+}

@@ -1,0 +1,243 @@
+{
+ "sectionTitle": "Hydrostatic Pump - ZT Drive",
+ "breadcrumb": "Hydrostatic Pump - ZT Drive",
+ "catalogLabel": "Catalog 8-60211",
+ "modelNumbers": "Catalog 8-60211 — Ingersoll Front Cut Tractors G1897V, G2097V and G2297K",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-60211/hydrostatic_pump_zt.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 62.3,
+   "y": 71.5,
+   "partNo": "C34124",
+   "desc": "PLUG - pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 40.4,
+   "y": 12.3,
+   "partNo": "C34125",
+   "desc": "PLUG - 9/16\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 58.3,
+   "y": 12.3,
+   "partNo": "C34125",
+   "desc": "PLUG - 9/16\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 47.7,
+   "y": 5.3,
+   "partNo": "C34126",
+   "desc": "PLUG - 7/16\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 77.7,
+   "y": 72,
+   "partNo": "C43690",
+   "desc": "KIT - check valve (with check ball) top",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 95.1,
+   "y": 62.9,
+   "partNo": "NSS",
+   "desc": "PLUG - check valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 87.7,
+   "y": 59,
+   "partNo": "NSS",
+   "desc": "\"O\" - RING - .078\" x .468\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 75.6,
+   "y": 53.2,
+   "partNo": "NSS",
+   "desc": "BALL - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 81.8,
+   "y": 56.5,
+   "partNo": "NSS",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 53.6,
+   "y": 78.5,
+   "partNo": "C34128",
+   "desc": "KIT - by pass",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 40.1,
+   "y": 89,
+   "partNo": "NSS",
+   "desc": "\"O\" - RING - .072 x .351",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 39.9,
+   "y": 69.2,
+   "partNo": "NSS",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 40.2,
+   "y": 76,
+   "partNo": "NSS",
+   "desc": "SPOOL - by pass",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 39.2,
+   "y": 95,
+   "partNo": "NSS",
+   "desc": "PLUG - by pass",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 40.4,
+   "y": 82,
+   "partNo": "NSS",
+   "desc": "\"O\" - RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 78,
+   "y": 36.9,
+   "partNo": "NSS",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 84,
+   "y": 33.2,
+   "partNo": "NSS",
+   "desc": "SEAL - lip",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 92.5,
+   "y": 27.9,
+   "partNo": "NSS",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 70.8,
+   "y": 37.2,
+   "partNo": "NSS",
+   "desc": "SEAL - lip",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 21.4,
+   "y": 67.1,
+   "partNo": "NSS",
+   "desc": "SEAL - lip",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 19.2,
+   "y": 50,
+   "partNo": "NSS",
+   "desc": "SEAL - lip",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 14.2,
+   "y": 34.9,
+   "partNo": "C45408",
+   "desc": "KIT - check valve (with poppet) bottom",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 11.8,
+   "y": 15.1,
+   "partNo": "NSS",
+   "desc": "PLUG - check valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 16.6,
+   "y": 20.4,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - .078 x .468\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 27.9,
+   "y": 26.7,
+   "partNo": "NSS",
+   "desc": "POPPET - check",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 22.1,
+   "y": 23.7,
+   "partNo": "NSS",
+   "desc": "SPRING",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 32,
+   "y": 15.8,
+   "partNo": "C43751",
+   "desc": "GASKET - body",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 34.2,
+   "y": 43.7,
+   "partNo": "C43750",
+   "desc": "KIT - charge pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 29.6,
+   "y": 43.7,
+   "partNo": "C43749",
+   "desc": "\"O\" - RING - charge pump cover",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C45398 PUMP - hydrostatic L.H. (CW) (1); C45399 PUMP - hydrostatic R.H. (CCW) (1); C34129 KIT - seal (includes ref. 6, 10, 14, 15, 16, 17, 18, 19 and 20) (1).",
+ "dotSizePct": 4.5
+}

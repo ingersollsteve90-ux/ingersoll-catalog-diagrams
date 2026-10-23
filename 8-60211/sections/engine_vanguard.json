@@ -1,0 +1,297 @@
+{
+ "sectionTitle": "Engine & Attaching Parts (Briggs & Stratton Vanguard)",
+ "breadcrumb": "Engine & Attaching Parts (Briggs & Stratton Vanguard)",
+ "catalogLabel": "Catalog 8-60211",
+ "modelNumbers": "Catalog 8-60211 — Ingersoll Front Cut Tractors G1897V, G2097V and G2297K",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-60211/engine_vanguard.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 41.3,
+   "y": 59.8,
+   "variants": [
+    {
+     "serialNote": "18 hp (G1897V)",
+     "partNo": "C44853",
+     "desc": "ENGINE - B & S Model 350447, type 0139 (18 hp)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "20 hp (G2097V)",
+     "partNo": "C46506",
+     "desc": "ENGINE - Briggs & Stratton Model 351447, type 1192 (20 hp)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 65,
+   "y": 13.9,
+   "partNo": "C37544",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 64.9,
+   "y": 5.4,
+   "partNo": "C37543",
+   "desc": "PRE - CLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 68.8,
+   "y": 62.6,
+   "partNo": "113-119",
+   "desc": "BOLT - 5/16\"- 18 X 2-3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 68.8,
+   "y": 68.2,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\"- 18",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 86.3,
+   "y": 78.9,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\"- 18",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 76.2,
+   "y": 52.4,
+   "partNo": "C32455",
+   "desc": "CLIP - \"J\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 96.9,
+   "y": 52.8,
+   "partNo": "C46563",
+   "desc": "PIPE - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 93.8,
+   "y": 73.1,
+   "partNo": "C44243",
+   "desc": "BRACKET - exhaust pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 82.5,
+   "y": 66,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\"- 18x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 50.9,
+   "y": 93.2,
+   "partNo": "C46564",
+   "desc": "DUCT - muffler, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 20.6,
+   "y": 89.1,
+   "partNo": "C46568",
+   "desc": "DUCT - bottom",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 62.9,
+   "y": 86.9,
+   "partNo": "C45111",
+   "desc": "SUPPORT - duct",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 60.5,
+   "y": 77.6,
+   "partNo": "C45273",
+   "desc": "SCREW - M6 x 10",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 84.9,
+   "y": 58.6,
+   "partNo": "C28294",
+   "desc": "CLAMP - exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 24.4,
+   "y": 23.2,
+   "partNo": "221-411",
+   "desc": "FITTING - street elbow, 1/8\" - 27 NPT 90°",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 33.7,
+   "y": 36.7,
+   "partNo": "C33949",
+   "desc": "NIPPLE - pipe 3.5",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 28.4,
+   "y": 33.1,
+   "partNo": "218-5154",
+   "desc": "PLUG - 1/2\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 33.2,
+   "y": 16.2,
+   "partNo": "C46222",
+   "desc": "UNIT - oil sending",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 70.4,
+   "y": 30,
+   "partNo": "C37537",
+   "desc": "SHAFT - stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 78.8,
+   "y": 44.4,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 82.2,
+   "y": 41.1,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 87.8,
+   "y": 34.3,
+   "partNo": "C37539",
+   "desc": "PULLEY - engine (includes 83-55 set screw)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 75.3,
+   "y": 25.5,
+   "partNo": "C41015",
+   "desc": "KEY - 1/4\" x 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 37.2,
+   "y": 47.5,
+   "partNo": "C46507",
+   "desc": "MUFFLER",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 13.9,
+   "y": 37.4,
+   "variants": [
+    {
+     "serialNote": "Choke",
+     "partNo": "C37819",
+     "desc": "CABLE - choke",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Throttle",
+     "partNo": "C37820",
+     "desc": "CABLE - throttle",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "27",
+   "x": 2.9,
+   "y": 39,
+   "partNo": "C39403",
+   "desc": "SCREW - #12 X 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 17.7,
+   "y": 6.2,
+   "partNo": "C46218",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 64.8,
+   "y": 73.5,
+   "partNo": "C46562",
+   "desc": "SPACER - engine mount",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 38.3,
+   "y": 19.8,
+   "partNo": "C34374",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 21.5,
+   "y": 67.1,
+   "partNo": "187-1328",
+   "desc": "SCREW - #8 - 18 x 3/4",
+   "reqd": "9"
+  },
+  {
+   "ref": "32",
+   "x": 23.2,
+   "y": 75.1,
+   "partNo": "C46744",
+   "desc": "ANGLE - air duct 6-1/2\" long",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 30.5,
+   "y": 56.4,
+   "partNo": "C46745",
+   "desc": "ANGLE - air duct 15\" long",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.86
+}
