@@ -1,0 +1,227 @@
+{
+ "sectionTitle": "Hydraulic System",
+ "breadcrumb": "Hydraulic System",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/hydraulic_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 59.3,
+   "y": 3,
+   "partNo": "C37639",
+   "desc": "CAP - oil tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 40.6,
+   "y": 12.2,
+   "partNo": "C37778",
+   "desc": "TANK - oil (includes cap and fittings)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 46.8,
+   "y": 57.8,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 52.2,
+   "y": 81,
+   "partNo": "C37637",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 60.9,
+   "y": 62.5,
+   "partNo": "C33446",
+   "desc": "HEAD - oil filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 47,
+   "y": 64,
+   "partNo": "C42785",
+   "desc": "HOSE - 5/8\" x 4\" (12\" cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 88.1,
+   "y": 54.3,
+   "partNo": "C42784",
+   "desc": "HOSE - hydraulic 3/8\" x 13.5\" (48\" cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 53.4,
+   "y": 89.2,
+   "partNo": "C42784",
+   "desc": "HOSE - hydraulic 3/8\" x 17.75\" (48\" cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 73.1,
+   "y": 30.3,
+   "partNo": "C42784",
+   "desc": "HOSE - hydraulic 3/8\" x 20.5\" (48\" cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 90.3,
+   "y": 18.5,
+   "partNo": "C42784",
+   "desc": "HOSE - hydraulic 3/8\" x 20.5\" (48\" cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 24.4,
+   "y": 44.5,
+   "partNo": "C46577",
+   "desc": "BRACKET - filter mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 46.2,
+   "y": 73.2,
+   "partNo": "217-332",
+   "desc": "FITTING - male 900 adapter",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 66.3,
+   "y": 60.9,
+   "partNo": "218-626",
+   "desc": "FITTING - male tee adapter",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 60.5,
+   "y": 30.7,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 48.1,
+   "y": 35.3,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "15",
+   "x": 3.1,
+   "y": 18.7,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 40.9,
+   "y": 53.2,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "7"
+  },
+  {
+   "ref": "17",
+   "x": 57.4,
+   "y": 57.4,
+   "partNo": "121-21",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\" self-tap",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 59.8,
+   "y": 9,
+   "partNo": "C42590",
+   "desc": "FITTING - 90°",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 63.2,
+   "y": 96.9,
+   "partNo": "C41986",
+   "desc": "FITTING - 3/8\" hose barb x 3/8\" FM JIC",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 66.5,
+   "y": 51.3,
+   "partNo": "C41986",
+   "desc": "FITTING - 3/8\" hose barb x 3/8\" FM JIC",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 71.4,
+   "y": 58.3,
+   "partNo": "C41986",
+   "desc": "FITTING - 3/8\" hose barb x 3/8\" FM JIC",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 71.7,
+   "y": 72.6,
+   "partNo": "C41986",
+   "desc": "FITTING - 3/8\" hose barb x 3/8\" FM JIC",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 93.2,
+   "y": 69.4,
+   "partNo": "C41986",
+   "desc": "FITTING - 3/8\" hose barb x 3/8\" FM JIC",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 93.4,
+   "y": 32.1,
+   "partNo": "C41986",
+   "desc": "FITTING - 3/8\" hose barb x 3/8\" FM JIC",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 30.3,
+   "y": 4.8,
+   "partNo": "C46575",
+   "desc": "MOUNT - oil tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 42.2,
+   "y": 44.4,
+   "partNo": "113-2",
+   "desc": "BOLT - 1/4\" - 20 x 5/8",
+   "reqd": "7"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.08
+}

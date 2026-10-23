@@ -1,0 +1,83 @@
+{
+ "sectionTitle": "Single Tail Wheel",
+ "breadcrumb": "Single Tail Wheel",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/single_tail_wheel.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.6,
+   "y": 81.1,
+   "partNo": "C37854",
+   "desc": "AXLE - wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64.8,
+   "y": 68.8,
+   "partNo": "C37855",
+   "desc": "WHEEL ASSEMBLY - tail",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 69.2,
+   "y": 40.9,
+   "partNo": "C37859",
+   "desc": "FORK - tail wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 57.9,
+   "y": 12.1,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1 \"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 5.3,
+   "y": 50.5,
+   "partNo": "113-452",
+   "desc": "BOLT - 1/2\" - 13 x 9-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 37.6,
+   "y": 7.7,
+   "partNo": "85-58",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 88.1,
+   "y": 89,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 95.2,
+   "y": 96.4,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 60.6,
+   "y": 6.1,
+   "partNo": "C37824",
+   "desc": "BEARING - ball 1\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C44499 BEARING - wheel (2); C37857 TIRE - 16 x 6.50-8 (1); C37858 RIM - 8\" w/bearing (1); 219-20 FITTING - grease 90° 1/4\" - 28 self tap (caster pivot) (1).",
+ "dotSizePct": 5.74
+}

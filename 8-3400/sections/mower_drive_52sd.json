@@ -1,0 +1,422 @@
+{
+ "sectionTitle": "52SD Mower Drive",
+ "breadcrumb": "52SD Mower Drive",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/mower_drive_52sd.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.7,
+   "y": 60.1,
+   "partNo": "C46692",
+   "desc": "MOUNT - gearbox",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6,
+   "y": 62.9,
+   "partNo": "219-20",
+   "desc": "FITTING - grease 1/4\" - 28",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 91.3,
+   "y": 27.5,
+   "partNo": "C37877",
+   "desc": "ANGLE - gear box mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 44.3,
+   "y": 52.1,
+   "partNo": "C46688",
+   "desc": "ARM - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 6.1,
+   "y": 56.5,
+   "partNo": "C46683",
+   "desc": "HOUSING - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 21.9,
+   "y": 68.6,
+   "partNo": "C46685",
+   "desc": "SPACER - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 23.9,
+   "y": 83.9,
+   "partNo": "C46680",
+   "desc": "SHAFT - spindle, short",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 27.5,
+   "y": 83.9,
+   "partNo": "C46778",
+   "desc": "SHAFT - spindle, long (used only when vac is installed)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 9.3,
+   "y": 52.8,
+   "partNo": "C46686",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 9.7,
+   "y": 72.3,
+   "partNo": "C46686",
+   "desc": "BEARING - spindle",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 3.9,
+   "y": 90.8,
+   "variants": [
+    {
+     "partNo": "C44136",
+     "desc": "BLADE - mower",
+     "reqd": "3",
+     "serialNote": "Standard blade"
+    },
+    {
+     "partNo": "C45248",
+     "desc": "BLADE - mulching (not shown)",
+     "reqd": "3",
+     "serialNote": "Mulching blade (not shown)"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 6,
+   "y": 41.1,
+   "partNo": "C37931",
+   "desc": "PULLEY - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 30.2,
+   "y": 17,
+   "partNo": "C37931",
+   "desc": "PULLEY - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 80.8,
+   "y": 11.9,
+   "partNo": "C37931",
+   "desc": "PULLEY - spindle",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 38.6,
+   "y": 41,
+   "partNo": "C37932",
+   "desc": "PULLEY - gear box output (use Loctite)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 74.7,
+   "y": 40.6,
+   "partNo": "C37892",
+   "desc": "PULLEY - gear box input (align w/engine and use Loctite)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 17.4,
+   "y": 25.6,
+   "partNo": "C46687",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 54.3,
+   "y": 24.9,
+   "partNo": "C46687",
+   "desc": "PULLEY - idler",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 56.5,
+   "y": 49.4,
+   "partNo": "C16573",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 51.2,
+   "y": 11.8,
+   "partNo": "C37935",
+   "desc": "BELT - deck",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 95.7,
+   "y": 53.1,
+   "partNo": "C44241",
+   "desc": "BELT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 96.4,
+   "y": 29.9,
+   "partNo": "C37898",
+   "desc": "GEAR BOX - angle drive (see the Gear Box section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 9.7,
+   "y": 48.6,
+   "partNo": "C29575",
+   "desc": "SPACER-washer",
+   "reqd": "6"
+  },
+  {
+   "ref": "19",
+   "x": 23.3,
+   "y": 76.4,
+   "partNo": "C29575",
+   "desc": "SPACER-washer",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 31.9,
+   "y": 42.3,
+   "partNo": "C46726",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 10.6,
+   "y": 29.4,
+   "partNo": "114-201",
+   "desc": "BOLT - 3/8\" - 24 x 1-1/4\" (use loctite)",
+   "reqd": "3"
+  },
+  {
+   "ref": "22",
+   "x": 10.8,
+   "y": 33.5,
+   "partNo": "C45846",
+   "desc": "WASHER - 3/8\" - 10 gage",
+   "reqd": "3"
+  },
+  {
+   "ref": "23",
+   "x": 6.7,
+   "y": 81.9,
+   "partNo": "131-1216",
+   "desc": "NUT - lock 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "24",
+   "x": 10.5,
+   "y": 97.9,
+   "partNo": "113-268",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 9.2,
+   "y": 77.1,
+   "partNo": "C29581",
+   "desc": "KEY - 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "26",
+   "x": 25.4,
+   "y": 16,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 25.3,
+   "y": 53,
+   "partNo": "113-312",
+   "desc": "BOLT - 7/16\" - 14 x 1-1/4\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "28",
+   "x": 26.3,
+   "y": 61.6,
+   "partNo": "192-22",
+   "desc": "LOCKWASHER - 7/16\"",
+   "reqd": "12"
+  },
+  {
+   "ref": "29",
+   "x": 25.8,
+   "y": 64.7,
+   "partNo": "129-104",
+   "desc": "NUT - 7/16\" - 14",
+   "reqd": "12"
+  },
+  {
+   "ref": "30",
+   "x": 31.6,
+   "y": 47.4,
+   "partNo": "113-213",
+   "desc": "BOLT - 3/8\" - 16 x 2-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 52.3,
+   "y": 36.3,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 50.2,
+   "y": 21.7,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 49.7,
+   "y": 18.4,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" 16 x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 80.4,
+   "y": 2.1,
+   "partNo": "C46300",
+   "desc": "PULLEY - vac drive (used only when vac is installed)",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 52,
+   "y": 58.3,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 76.3,
+   "y": 27,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 80.8,
+   "y": 28,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "38",
+   "x": 87.3,
+   "y": 27.2,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 79,
+   "y": 36.2,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 2.7,
+   "y": 56.2,
+   "partNo": "C46682",
+   "desc": "HOUSING ASSEMBLY - spindle (includes ref 2, 5, 6, 9)",
+   "reqd": "3"
+  },
+  {
+   "ref": "41",
+   "x": 58.6,
+   "y": 45.4,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 57.6,
+   "y": 41.9,
+   "partNo": "C28263",
+   "desc": "WASHER - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 68.7,
+   "y": 43.6,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "44",
+   "x": 68.9,
+   "y": 46.9,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "45",
+   "x": 64.8,
+   "y": 37,
+   "partNo": "C14482",
+   "desc": "SPRING - tension",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.53
+}

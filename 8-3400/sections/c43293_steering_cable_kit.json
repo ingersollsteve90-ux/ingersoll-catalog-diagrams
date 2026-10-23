@@ -1,0 +1,291 @@
+{
+ "sectionTitle": "C43293 Steering Cable Kit",
+ "breadcrumb": "C43293 Steering Cable Kit",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/c43293_steering_cable_kit.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 73,
+   "y": 9.5,
+   "partNo": "C42894",
+   "desc": "CABLE - steering 46",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 35.5,
+   "y": 66,
+   "partNo": "193-1000",
+   "desc": "NUT - #10-32",
+   "reqd": "8"
+  },
+  {
+   "ref": "2",
+   "x": 61.6,
+   "y": 57.1,
+   "partNo": "193-1000",
+   "desc": "NUT - #10-32",
+   "reqd": "8"
+  },
+  {
+   "ref": "3",
+   "x": 4.9,
+   "y": 63,
+   "partNo": "C42895",
+   "desc": "BUSHING - steering cable",
+   "reqd": "8"
+  },
+  {
+   "ref": "3",
+   "x": 38.2,
+   "y": 56.5,
+   "partNo": "C42895",
+   "desc": "BUSHING - steering cable",
+   "reqd": "8"
+  },
+  {
+   "ref": "3",
+   "x": 54.2,
+   "y": 66.7,
+   "partNo": "C42895",
+   "desc": "BUSHING - steering cable",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 9.5,
+   "y": 81.3,
+   "partNo": "111-111",
+   "desc": "BOLT - 1/4\" - 20 x 1 carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 31.2,
+   "y": 96,
+   "partNo": "111-111",
+   "desc": "BOLT - 1/4\" - 20 x 1 carriage",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 3.9,
+   "y": 57.2,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "5",
+   "x": 9.5,
+   "y": 74.1,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "5",
+   "x": 38,
+   "y": 51.4,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "5",
+   "x": 50,
+   "y": 72.5,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "10"
+  },
+  {
+   "ref": "6",
+   "x": 6.8,
+   "y": 51.1,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\"-10",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 41.5,
+   "y": 71.8,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\"-10",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 41.6,
+   "y": 45.3,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\"-10",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 34.3,
+   "y": 43.9,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 56.7,
+   "y": 60.9,
+   "partNo": "C42896",
+   "desc": "BRACKET - steering cable end",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 8.8,
+   "y": 67.4,
+   "partNo": "C42897",
+   "desc": "LINK - control cable",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 41.1,
+   "y": 84.6,
+   "partNo": "C42898",
+   "desc": "BELLCRANK",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 19,
+   "y": 83.9,
+   "partNo": "C16714",
+   "desc": "BUSHING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 18.6,
+   "y": 36,
+   "partNo": "C42901",
+   "desc": "BRACKET - bell crank mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 19.8,
+   "y": 92.4,
+   "partNo": "C16745",
+   "desc": "BOLT - shoulder",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 16.5,
+   "y": 46.7,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 17.3,
+   "y": 29.3,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 9.7,
+   "y": 40.4,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16 - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 42,
+   "y": 20,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16 - 18",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 89.2,
+   "y": 23.5,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4 - 20 x 4",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 65.2,
+   "y": 35.5,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 82.8,
+   "y": 29.1,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 59.4,
+   "y": 16.5,
+   "partNo": "C42903",
+   "desc": "PLATE - cable mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 59.8,
+   "y": 41.1,
+   "partNo": "131-1351",
+   "desc": "NUT - 1/4\" - 20 top lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 53.4,
+   "y": 19.5,
+   "partNo": "C42902",
+   "desc": "BRACKET - cable mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 15.1,
+   "y": 53,
+   "partNo": "C46593",
+   "desc": "ARM - transmission",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 21.3,
+   "y": 50.6,
+   "partNo": "C34173",
+   "desc": "PIN - spring",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 33.5,
+   "y": 22.5,
+   "partNo": "C37704",
+   "desc": "WASHER - shim",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": "* Ref 25 shim washer: use as required to shim the cable mounting bracket so .20\" of thread on the cable extends beyond the nuts for adjusting.",
+ "dotSizePct": 5.94
+}

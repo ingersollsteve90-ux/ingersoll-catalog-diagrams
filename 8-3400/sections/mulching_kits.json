@@ -1,0 +1,242 @@
+{
+ "sectionTitle": "Mulching Kits - MK52SD (52SD Deck), MK62-2B (62SD Deck)",
+ "breadcrumb": "Mulching Kits - MK52SD (52SD Deck), MK62-2B (62SD Deck)",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/mulching_kits.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 32.8,
+   "y": 97.1,
+   "variants": [
+    {
+     "partNo": "C46746",
+     "desc": "CAP - end (MK52SD)",
+     "reqd": "1",
+     "serialNote": "MK52SD"
+    },
+    {
+     "partNo": "C45512",
+     "desc": "CAP - end (MK62-2B) shown",
+     "reqd": "1",
+     "serialNote": "MK62-2B (shown)"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 10.6,
+   "y": 67.2,
+   "partNo": "C37505",
+   "desc": "BREAKER - 10 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 23,
+   "y": 65.6,
+   "partNo": "182-528",
+   "desc": "SCREW - #10 - 32 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 9.2,
+   "y": 63.1,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 - 32 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 45.1,
+   "y": 71.4,
+   "partNo": "C37494",
+   "desc": "DECAL - \"Danger\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 13.9,
+   "y": 96.7,
+   "variants": [
+    {
+     "partNo": "C37956",
+     "desc": "SHOE - skid (MK62-2B)",
+     "reqd": "1",
+     "serialNote": "MK62-2B"
+    },
+    {
+     "partNo": "C46701",
+     "desc": "SHOE - skid (MK52SD)",
+     "reqd": "1",
+     "serialNote": "MK52SD"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 2.8,
+   "y": 83.3,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 4.9,
+   "y": 73.6,
+   "partNo": "192-20",
+   "desc": "WASHER - lock 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 9.6,
+   "y": 71.2,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 4.8,
+   "y": 58,
+   "variants": [
+    {
+     "partNo": "C46749",
+     "desc": "BAFFLE - R.H. (MK52SD)",
+     "reqd": "1",
+     "serialNote": "MK52SD"
+    },
+    {
+     "partNo": "C45516",
+     "desc": "BAFFLE - R.H. (MK62-2B) shown",
+     "reqd": "1",
+     "serialNote": "MK62-2B (shown)"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 16,
+   "y": 27.5,
+   "variants": [
+    {
+     "partNo": "C45248",
+     "desc": "BLADE - (18\") (MK52SD)",
+     "reqd": "3",
+     "serialNote": "MK52SD (18\")"
+    },
+    {
+     "partNo": "C45511",
+     "desc": "BLADE - (MK62-2B) (21.5\") shown",
+     "reqd": "3",
+     "serialNote": "MK62-2B (21.5\", shown)"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 68.8,
+   "y": 18.3,
+   "variants": [
+    {
+     "partNo": "C46751",
+     "desc": "BAFFLE - L.H. (MK52SD)",
+     "reqd": "1",
+     "serialNote": "MK52SD"
+    },
+    {
+     "partNo": "C45519",
+     "desc": "BAFFLE - L.H. (MK62-2B) shown",
+     "reqd": "1",
+     "serialNote": "MK62-2B (shown)"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 29,
+   "y": 31.8,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "13",
+   "x": 63.9,
+   "y": 36.5,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "14",
+   "x": 46.6,
+   "y": 27.8,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 97.1,
+   "y": 2.5,
+   "partNo": "C42056",
+   "desc": "SCREW - 5/16\" x 18 x 5/8",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 49.7,
+   "y": 35,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\" x 5/8\"",
+   "reqd": "7"
+  },
+  {
+   "ref": "17",
+   "x": 49.9,
+   "y": 51.9,
+   "partNo": "195-103",
+   "desc": "WASHER - 3/8\" x 7/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 39.5,
+   "y": 26.3,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "18",
+   "x": 44.6,
+   "y": 57.2,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "18",
+   "x": 82.3,
+   "y": 47.4,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "18",
+   "x": 87.6,
+   "y": 7,
+   "partNo": "131-69",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "11"
+  }
+ ],
+ "footnotes": "MK52SD fits the 52SD deck; MK62-2B fits the 62SD deck (shown).",
+ "dotSizePct": 3.24
+}

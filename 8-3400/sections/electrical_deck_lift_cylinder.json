@@ -1,0 +1,76 @@
+{
+ "sectionTitle": "Electrical System (Deck Lift) - Cylinder Style",
+ "breadcrumb": "Electrical System (Deck Lift) - Cylinder Style",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/electrical_deck_lift_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 26.1,
+   "y": 90.7,
+   "partNo": "C45705",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 28,
+   "y": 9,
+   "partNo": "C45775",
+   "desc": "SWITCH",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 21,
+   "y": 10.1,
+   "partNo": "C45780",
+   "desc": "NUT - 15/32\" - 32 with boot (switch mounting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "partNo": "C44495",
+   "desc": "DECAL - lift switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 14.6,
+   "y": 76.9,
+   "variants": [
+    {
+     "partNo": "C31947",
+     "desc": "KIT - fuse holder",
+     "reqd": "1",
+     "serialNote": "Fuse holder kit"
+    },
+    {
+     "partNo": "C30260",
+     "desc": "FUSE - 30 amp",
+     "reqd": "1",
+     "serialNote": "30 amp fuse (in kit)"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 63.4,
+   "y": 47.2,
+   "partNo": "C24813",
+   "desc": "CONNECTOR - wire harness",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 70.3,
+   "y": 48.8,
+   "partNo": "C31948",
+   "desc": "CONNECTOR - lift actuator",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 7.21
+}

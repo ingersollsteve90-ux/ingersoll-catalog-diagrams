@@ -1,0 +1,278 @@
+{
+ "sectionTitle": "DTW10 Dual Tail Wheel",
+ "breadcrumb": "DTW10 Dual Tail Wheel",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/dtw10_dual_tail_wheel.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 3.3,
+   "y": 73.5,
+   "partNo": "219-20",
+   "desc": "FITTING - lubrication 1/4\" - 28",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 17.5,
+   "y": 60.9,
+   "partNo": "C37824",
+   "desc": "BEARING-ball 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "2",
+   "x": 37.9,
+   "y": 69.4,
+   "partNo": "C37824",
+   "desc": "BEARING-ball 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "2",
+   "x": 65.8,
+   "y": 47.5,
+   "partNo": "C37824",
+   "desc": "BEARING-ball 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "2",
+   "x": 65.8,
+   "y": 60.3,
+   "partNo": "C37824",
+   "desc": "BEARING-ball 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "3",
+   "x": 10.3,
+   "y": 79.3,
+   "partNo": "C45610",
+   "desc": "AXLE - dual wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 63.9,
+   "y": 65.1,
+   "partNo": "C45645",
+   "desc": "FORK - wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 43,
+   "y": 4.7,
+   "partNo": "C45618",
+   "desc": "MOUNT - axle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 48,
+   "y": 35.3,
+   "partNo": "C45689",
+   "desc": "ROD - axle pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 13.5,
+   "y": 56.7,
+   "partNo": "C14919",
+   "desc": "WASHER - 1\" x 1-3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "8",
+   "x": 22.8,
+   "y": 9.5,
+   "partNo": "195-2067",
+   "desc": "WASHER - 1/2\" x 1\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "9",
+   "x": 11.8,
+   "y": 16.7,
+   "partNo": "C45841",
+   "desc": "WASHER - 1/2\" x 1-3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 13.3,
+   "y": 6.4,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 36.8,
+   "y": 80.1,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 54.2,
+   "y": 8.9,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "11",
+   "x": 3.5,
+   "y": 6.4,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 34.5,
+   "y": 84.5,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 48.6,
+   "y": 10.7,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 95.1,
+   "y": 46.4,
+   "partNo": "113-412",
+   "desc": "BOLT - 1/2\" - 13 x 1-3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 96.6,
+   "y": 35.5,
+   "partNo": "C45708",
+   "desc": "MOUNT - axle, front extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 49.2,
+   "y": 41.8,
+   "partNo": "C37860",
+   "desc": "COLLAR - set 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 47.3,
+   "y": 48.6,
+   "partNo": "85-58",
+   "desc": "SCREW - set 5/16\" - 18 x 1/2\" square head",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 77.1,
+   "y": 72.9,
+   "partNo": "C37915",
+   "desc": "TUBE - axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 87.9,
+   "y": 68.6,
+   "partNo": "113-448",
+   "desc": "BOLT - 1/2\" - 13 x 7\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 56.2,
+   "y": 97.5,
+   "partNo": "C37869",
+   "desc": "WHEEL ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 91.9,
+   "y": 19.3,
+   "partNo": "C45711",
+   "desc": "BUSHING - tail wheel hub",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 90.2,
+   "y": 7.7,
+   "variants": [
+    {
+     "partNo": "113-646",
+     "desc": "BOLT - 5/8\" - 14 x 7-1/2\"",
+     "reqd": "UAR",
+     "serialNote": "7-1/2\" bolt"
+    },
+    {
+     "partNo": "113-2606",
+     "desc": "BOLT - 5/8\" - 11 x 11\"",
+     "reqd": "UAR",
+     "serialNote": "11\" bolt"
+    }
+   ]
+  },
+  {
+   "ref": "22",
+   "x": 83.1,
+   "y": 51.1,
+   "partNo": "131-356",
+   "desc": "NUT - 5/8\" - 11",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 69.3,
+   "y": 7.5,
+   "partNo": "C45746",
+   "desc": "PLATE - stiffener",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 31.1,
+   "y": 2.6,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 69.4,
+   "y": 21.1,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 77.7,
+   "y": 46.2,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\" x 1-1/2\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C44499 BEARING - wheel (2); C45636 TIRE - 13 x 5.00-6 (1); C45634 RIM (1).",
+ "dotSizePct": 4.16
+}

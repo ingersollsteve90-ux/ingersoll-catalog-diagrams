@@ -1,0 +1,553 @@
+{
+ "sectionTitle": "Gear Box (Curtis) - 52SD & 62SD",
+ "breadcrumb": "Gear Box (Curtis) - 52SD & 62SD",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/gearbox.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 45.6,
+   "y": 94,
+   "variants": [
+    {
+     "partNo": "C37959",
+     "desc": "HOUSING - half",
+     "reqd": "2",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43765",
+     "desc": "HOUSING - half",
+     "reqd": "2",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "1",
+   "x": 66.1,
+   "y": 19.8,
+   "variants": [
+    {
+     "partNo": "C37959",
+     "desc": "HOUSING - half",
+     "reqd": "2",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43765",
+     "desc": "HOUSING - half",
+     "reqd": "2",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 23,
+   "y": 31.2,
+   "variants": [
+    {
+     "partNo": "C29581",
+     "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+     "reqd": "2",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43772",
+     "desc": "RING - retaining",
+     "reqd": "1",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 84.3,
+   "y": 21.9,
+   "variants": [
+    {
+     "partNo": "C29581",
+     "desc": "KEY - 3/16\" x 3/16\" x 1\"",
+     "reqd": "2",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43772",
+     "desc": "RING - retaining",
+     "reqd": "1",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 72.8,
+   "y": 30.9,
+   "variants": [
+    {
+     "partNo": "C37960",
+     "desc": "SHAFT - input",
+     "reqd": "1",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43768",
+     "desc": "SHAFT - input",
+     "reqd": "1",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 8.9,
+   "y": 44.6,
+   "variants": [
+    {
+     "partNo": "C37961",
+     "desc": "BEARING - ball",
+     "reqd": "1",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43770",
+     "desc": "BEARING - ball",
+     "reqd": "1",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 42.7,
+   "y": 11.4,
+   "partNo": "221-84",
+   "desc": "BUSHING - pipe 1/4\" x 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 3,
+   "y": 42.5,
+   "partNo": "C37963",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 44.1,
+   "y": 42.8,
+   "partNo": "C37963",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 37.2,
+   "y": 36,
+   "variants": [
+    {
+     "partNo": "C37964",
+     "desc": "GEAR - output shaft",
+     "reqd": "1",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43769",
+     "desc": "GEAR - output shaft",
+     "reqd": "1",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 19.7,
+   "y": 71.2,
+   "variants": [
+    {
+     "partNo": "C37965",
+     "desc": "SHAFT - output",
+     "reqd": "1",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43771",
+     "desc": "SHAFT - output",
+     "reqd": "1",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 18.9,
+   "y": 33.5,
+   "variants": [
+    {
+     "partNo": "C37966",
+     "desc": "BEARING - ball",
+     "reqd": "3",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43766",
+     "desc": "BEARING - ball",
+     "reqd": "3",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 57.8,
+   "y": 39.6,
+   "variants": [
+    {
+     "partNo": "C37966",
+     "desc": "BEARING - ball",
+     "reqd": "3",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43766",
+     "desc": "BEARING - ball",
+     "reqd": "3",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 81.6,
+   "y": 55.3,
+   "variants": [
+    {
+     "partNo": "C37966",
+     "desc": "BEARING - ball",
+     "reqd": "3",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43766",
+     "desc": "BEARING - ball",
+     "reqd": "3",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 20.7,
+   "y": 86.7,
+   "variants": [
+    {
+     "partNo": "C37967",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43776",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 22.5,
+   "y": 13.9,
+   "variants": [
+    {
+     "partNo": "C37967",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43776",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 23,
+   "y": 25.6,
+   "variants": [
+    {
+     "partNo": "C37967",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43776",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 39,
+   "y": 91.9,
+   "variants": [
+    {
+     "partNo": "C37967",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43776",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 69.4,
+   "y": 12.1,
+   "variants": [
+    {
+     "partNo": "C37967",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43776",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 74.1,
+   "y": 82.6,
+   "variants": [
+    {
+     "partNo": "C37967",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43776",
+     "desc": "LOCKWASHER",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 23,
+   "y": 7.9,
+   "variants": [
+    {
+     "partNo": "C37968",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43775",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 23.4,
+   "y": 20.5,
+   "variants": [
+    {
+     "partNo": "C37968",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43775",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 29.3,
+   "y": 96.5,
+   "variants": [
+    {
+     "partNo": "C37968",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43775",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 69.4,
+   "y": 6.8,
+   "variants": [
+    {
+     "partNo": "C37968",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43775",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 71.8,
+   "y": 93.8,
+   "variants": [
+    {
+     "partNo": "C37968",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43775",
+     "desc": "CAP SCREW - allen head",
+     "reqd": "6",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 58.8,
+   "y": 97,
+   "partNo": "219-23",
+   "desc": "FITTING - grease 1/4\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 14.2,
+   "y": 40.3,
+   "variants": [
+    {
+     "partNo": "C37969",
+     "desc": "SEAL - shaft",
+     "reqd": "2",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43767",
+     "desc": "SEAL - shaft",
+     "reqd": "2",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 51.9,
+   "y": 43.2,
+   "variants": [
+    {
+     "partNo": "C37969",
+     "desc": "SEAL - shaft",
+     "reqd": "2",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43767",
+     "desc": "SEAL - shaft",
+     "reqd": "2",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 68,
+   "y": 60,
+   "variants": [
+    {
+     "partNo": "C37970",
+     "desc": "GEAR - input shaft",
+     "reqd": "1",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43774",
+     "desc": "GEAR - input shaft",
+     "reqd": "1",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 96.5,
+   "y": 38.8,
+   "variants": [
+    {
+     "partNo": "C37971",
+     "desc": "PLUG - expansion",
+     "reqd": "1",
+     "serialNote": "Prior to PIN 010706048"
+    },
+    {
+     "partNo": "C43773",
+     "desc": "PLUG - expansion",
+     "reqd": "1",
+     "serialNote": "PIN 010706048 and after"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 43.5,
+   "y": 6,
+   "partNo": "221-411",
+   "desc": "ELBOW - street 1/8\" x 90°",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 58.2,
+   "y": 3.2,
+   "partNo": "C28241",
+   "desc": "VALVE - relief",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Prior to PIN 010706048: C37898 gear box. PIN 010706048 and after: C46942 gear box. Each ref lists both part numbers. Also listed, not shown on diagram: C43346 GREASE - synthetic, cartridge (1).",
+ "dotSizePct": 4.27
+}

@@ -1,0 +1,139 @@
+{
+ "sectionTitle": "Fuel System",
+ "breadcrumb": "Fuel System",
+ "catalogLabel": "Catalog 8-3400",
+ "modelNumbers": "Catalog 8-3400 — Grazer G1897V, G2097V and G2597K Front Cut Tractors with 52SD, 62SD and 72\" Decks",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3400/fuel_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 3.8,
+   "y": 64.2,
+   "partNo": "C37554",
+   "desc": "FILTER - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 22.9,
+   "y": 76.9,
+   "partNo": "C32328",
+   "desc": "HOSE - fuel (cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 12,
+   "y": 70.9,
+   "partNo": "214-103",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 69.1,
+   "y": 73.9,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 80.5,
+   "y": 3.5,
+   "partNo": "C45334",
+   "desc": "CAP - fuel tank (with gauge)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 92.2,
+   "y": 71.4,
+   "partNo": "221-1101",
+   "desc": "NIPPLE - pipe 1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 84.1,
+   "y": 86,
+   "partNo": "C37811",
+   "desc": "VALVE - shutoff",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 41.1,
+   "y": 58.6,
+   "partNo": "C34189",
+   "desc": "CUSHION - reservoir",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 55.1,
+   "y": 96.3,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 17.3,
+   "y": 46.7,
+   "partNo": "C32455",
+   "desc": "CLIP - \"J\" fuel line",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 66.3,
+   "y": 29.3,
+   "partNo": "C45333",
+   "desc": "TANK - fuel (2-1/4\" filler tube) (plastic)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 70.6,
+   "y": 87.7,
+   "partNo": "C45061",
+   "desc": "BRACKET - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 39.9,
+   "y": 46.3,
+   "partNo": "C45062",
+   "desc": "STRAP - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 54.9,
+   "y": 41.1,
+   "partNo": "113-17",
+   "desc": "BOLT - 1/4\" - 20 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 47,
+   "y": 36.8,
+   "partNo": "131-71",
+   "desc": "NUT - 1/4\" - 20 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 69.9,
+   "y": 66.7,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" 18 x 1\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.64
+}
