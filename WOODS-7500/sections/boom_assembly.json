@@ -1,0 +1,90 @@
+{
+ "sectionTitle": "Boom Assembly",
+ "breadcrumb": "Boom Assembly",
+ "catalogLabel": "Catalog WOODS-7500",
+ "modelNumbers": "Catalog WOODS-7500 — Woods Model 7500 Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/WOODS-7500/boom_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 5.9,
+   "y": 10.1,
+   "partNo": "C43734",
+   "desc": "Double acting hydraulic cylinder (dipperstick / boom; see Hydraulic Cylinder Assembly)",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 71,
+   "y": 8.8,
+   "partNo": "C43734",
+   "desc": "Double acting hydraulic cylinder (dipperstick / boom; see Hydraulic Cylinder Assembly)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 41.5,
+   "y": 82.8,
+   "partNo": "C43735",
+   "desc": "Boom",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 79.2,
+   "y": 80.4,
+   "partNo": "C31704",
+   "desc": "Pivot pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 95.8,
+   "y": 53.5,
+   "partNo": "C31704",
+   "desc": "Pivot pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 80.1,
+   "y": 61.2,
+   "partNo": "131-1102",
+   "desc": "1/4 NC Hex locknut *",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 62.9,
+   "y": 85.5,
+   "partNo": "131-1102",
+   "desc": "1/4 NC Hex locknut *",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 63.8,
+   "y": 68.3,
+   "partNo": "C43698",
+   "desc": "1/4 NC x 2-1/4 Hex head cap screw GR5",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 87.7,
+   "y": 46.5,
+   "partNo": "C43698",
+   "desc": "1/4 NC x 2-1/4 Hex head cap screw GR5",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 7.3,
+   "y": 73.6,
+   "partNo": "C43717",
+   "desc": "1 x 1-1/4 x 1-1/2 Tension bushing",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Ref 1 dipperstick and boom cylinders (2-1/2\"): see Hydraulic Cylinder Assembly.\n* Obtain locally: standard hardware available at hardware stores."
+}

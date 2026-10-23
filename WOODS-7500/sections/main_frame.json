@@ -1,0 +1,506 @@
+{
+ "sectionTitle": "Main Frame Assembly",
+ "breadcrumb": "Main Frame Assembly",
+ "catalogLabel": "Catalog WOODS-7500",
+ "modelNumbers": "Catalog WOODS-7500 — Woods Model 7500 Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/WOODS-7500/main_frame.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.9,
+   "y": 20.7,
+   "partNo": "113-209",
+   "desc": "3/8 NC x 1-1/2 Hex head cap screw GR5 *",
+   "reqd": "var"
+  },
+  {
+   "ref": "2",
+   "x": 56.2,
+   "y": 66.3,
+   "partNo": "C31704",
+   "desc": "1\" x 5.92\" x 6.31 Drilled pin",
+   "reqd": "var"
+  },
+  {
+   "ref": "3",
+   "x": 94.5,
+   "y": 84.6,
+   "partNo": "C43702",
+   "desc": "1\" x 5.84\" grooved pin",
+   "reqd": "var"
+  },
+  {
+   "ref": "4",
+   "x": 83.6,
+   "y": 71.6,
+   "partNo": "C43701",
+   "desc": "1\" x 3.88\" grooved pin",
+   "reqd": "var"
+  },
+  {
+   "ref": "5",
+   "x": 63.9,
+   "y": 44.9,
+   "partNo": "C43777",
+   "desc": "Main frame",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 63.7,
+   "y": 55.9,
+   "partNo": "C43778",
+   "desc": "Rubber grommet",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 71.9,
+   "y": 55.0,
+   "partNo": "C31708",
+   "desc": "Hose protector shield",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 74,
+   "y": 57.7,
+   "partNo": "C43779",
+   "desc": "2-1/2\" - 3-1/2\" Hose clamp",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 74.1,
+   "y": 63.1,
+   "partNo": "C43780",
+   "desc": "Hydraulic cylinder, double-acting 2-1/2 x 11 (stabilizer; see Hydraulic Cylinder Assembly)",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 62.6,
+   "y": 75.8,
+   "partNo": "C43781",
+   "desc": "Machined stabilizer arm",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 92.8,
+   "y": 88.5,
+   "partNo": "C43782",
+   "desc": "Machined stabilizer pad",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 92.4,
+   "y": 93.5,
+   "partNo": "C43783",
+   "desc": "Stabilizer rubber pad",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 41.6,
+   "y": 71.2,
+   "partNo": "C43784",
+   "desc": "Hydraulic cylinder, double-acting, 2.50 x 10.63 (swing; see Swing Cylinder)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 30.9,
+   "y": 68.1,
+   "partNo": "C31696",
+   "desc": "Swing chain",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 27.7,
+   "y": 70.0,
+   "partNo": "C31697",
+   "desc": "Chain tension bolt",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 7.8,
+   "y": 73.8,
+   "partNo": "C43785",
+   "desc": "Backhoe swing frame",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 4.3,
+   "y": 71.4,
+   "partNo": "C43786",
+   "desc": "Link - .38 x 2.0 x 7.1",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 7.7,
+   "y": 63.2,
+   "partNo": "C31701",
+   "desc": "Spring - Compression 1.19 x .07 x .627",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 15.3,
+   "y": 61.6,
+   "partNo": "C31806",
+   "desc": "1-1/2 ID Ball bushing",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 14.5,
+   "y": 57.2,
+   "partNo": "C31698",
+   "desc": "Cap weld assembly - King-post",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 22.2,
+   "y": 60.5,
+   "partNo": "C43787",
+   "desc": "Bumper - 1.25 x 2.25 x 1.75",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 36.6,
+   "y": 53.9,
+   "partNo": "C31706",
+   "desc": "Hose clamp",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 47.9,
+   "y": 41.6,
+   "partNo": "C43788",
+   "desc": ".62 x 3.31 Swing lock pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 13.4,
+   "y": 37.0,
+   "partNo": "C43789",
+   "desc": "14 GA x 5.13 x 12.9 Cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 12.5,
+   "y": 27.2,
+   "partNo": "C43790",
+   "desc": "Ingersoll console cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 29.2,
+   "y": 9.4,
+   "partNo": "C43736",
+   "desc": "Control valve assembly (see Console Valve)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 37,
+   "y": 4.3,
+   "partNo": "C43691",
+   "desc": "1.05 x 13.3 x 15.5 Handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 25.4,
+   "y": 51.5,
+   "partNo": "C31719",
+   "desc": "13/16\" x 0.010 Shim washer",
+   "reqd": "var"
+  },
+  {
+   "ref": "29",
+   "x": 78.9,
+   "y": 20.0,
+   "partNo": "C43692",
+   "desc": "Safety decal set",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 30.5,
+   "y": 40.2,
+   "partNo": "C43700",
+   "desc": "3/4\" NC x 1.5 Bolt",
+   "reqd": "var"
+  },
+  {
+   "ref": "31",
+   "x": 38.9,
+   "y": 75.8,
+   "partNo": "C43693",
+   "desc": "Pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 36.1,
+   "y": 83.6,
+   "partNo": "C43694",
+   "desc": "Pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 34.5,
+   "y": 42.2,
+   "partNo": "192-27",
+   "desc": "3/4 Standard lock washer *",
+   "reqd": "var"
+  },
+  {
+   "ref": "34",
+   "x": 12.1,
+   "y": 78.9,
+   "partNo": "129-107",
+   "desc": "5/8 NC Hex nut *",
+   "reqd": "var"
+  },
+  {
+   "ref": "35",
+   "x": 70,
+   "y": 79.1,
+   "partNo": "C43699",
+   "desc": ".50 x 4.45 Headless pin",
+   "reqd": "var"
+  },
+  {
+   "ref": "36",
+   "x": 26.6,
+   "y": 62.8,
+   "partNo": "C31718",
+   "desc": "Chain pin",
+   "reqd": "var"
+  },
+  {
+   "ref": "37",
+   "x": 23.3,
+   "y": 47.1,
+   "partNo": "C31813",
+   "desc": "7/16 NF x 1-1/4 Wheel bolt",
+   "reqd": "var"
+  },
+  {
+   "ref": "38",
+   "x": 26.8,
+   "y": 19.8,
+   "partNo": "129-103",
+   "desc": "3/8 NC Hex nut, plated *",
+   "reqd": "var"
+  },
+  {
+   "ref": "39",
+   "x": 49.4,
+   "y": 31.2,
+   "partNo": "111-342",
+   "desc": "3/8 NC x 1 Carriage bolt GR5 *",
+   "reqd": "var"
+  },
+  {
+   "ref": "40",
+   "x": 97.6,
+   "y": 70.8,
+   "partNo": "C43695",
+   "desc": "3/16 x 1-1/2 Cotter pin",
+   "reqd": "var"
+  },
+  {
+   "ref": "41",
+   "x": 22.2,
+   "y": 64.0,
+   "partNo": "132-330",
+   "desc": "3/32 x 1/2 Cotter pin *",
+   "reqd": "var"
+  },
+  {
+   "ref": "42",
+   "x": 35.9,
+   "y": 69.7,
+   "partNo": "NSS",
+   "desc": "3/32 x 1-1/2 Cotter pin (obtain locally)",
+   "reqd": "var"
+  },
+  {
+   "ref": "42",
+   "x": 67,
+   "y": 82.8,
+   "partNo": "NSS",
+   "desc": "3/32 x 1-1/2 Cotter pin (obtain locally)",
+   "reqd": "var"
+  },
+  {
+   "ref": "43",
+   "x": 2.2,
+   "y": 67.3,
+   "partNo": "C31720",
+   "desc": "10 GA x 1 Bushing",
+   "reqd": "var"
+  },
+  {
+   "ref": "44",
+   "x": 40.4,
+   "y": 35.6,
+   "partNo": "C43696",
+   "desc": "3/16 Safety pin",
+   "reqd": "var"
+  },
+  {
+   "ref": "45",
+   "x": 14,
+   "y": 81.3,
+   "partNo": "219-10",
+   "desc": "1/4-28 Tapered thread grease fitting *",
+   "reqd": "var"
+  },
+  {
+   "ref": "46",
+   "x": 14.6,
+   "y": 51.9,
+   "partNo": "C43697",
+   "desc": "45° 1/4 Tapered thread grease fitting",
+   "reqd": "var"
+  },
+  {
+   "ref": "47",
+   "x": 40.2,
+   "y": 60.9,
+   "partNo": "192-19",
+   "desc": "1/4 Standard lock washer *",
+   "reqd": "var"
+  },
+  {
+   "ref": "48",
+   "x": 53.5,
+   "y": 68.8,
+   "partNo": "131-1102",
+   "desc": "1/4 NC Hex locknut *",
+   "reqd": "var"
+  },
+  {
+   "ref": "48",
+   "x": 24.1,
+   "y": 84.6,
+   "partNo": "131-1102",
+   "desc": "1/4 NC Hex locknut *",
+   "reqd": "var"
+  },
+  {
+   "ref": "48",
+   "x": 25.8,
+   "y": 77.5,
+   "partNo": "131-1102",
+   "desc": "1/4 NC Hex locknut *",
+   "reqd": "var"
+  },
+  {
+   "ref": "49",
+   "x": 34.4,
+   "y": 57.5,
+   "partNo": "113-3",
+   "desc": "1/4 NC x 3/4 Hex head cap screw GR5 *",
+   "reqd": "var"
+  },
+  {
+   "ref": "50",
+   "x": 9.7,
+   "y": 60.3,
+   "partNo": "NSS",
+   "desc": "1/4 x 1-1/2 Cotter pin (obtain locally)",
+   "reqd": "var"
+  },
+  {
+   "ref": "51",
+   "x": 34.7,
+   "y": 72.9,
+   "partNo": "C43698",
+   "desc": "1/4 NC x 2-1/4 Hex head cap screw GR8",
+   "reqd": "var"
+  },
+  {
+   "ref": "51",
+   "x": 35.6,
+   "y": 79.2,
+   "partNo": "C43698",
+   "desc": "1/4 NC x 2-1/4 Hex head cap screw GR8",
+   "reqd": "var"
+  },
+  {
+   "ref": "51",
+   "x": 46.1,
+   "y": 64.9,
+   "partNo": "C43698",
+   "desc": "1/4 NC x 2-1/4 Hex head cap screw GR8",
+   "reqd": "var"
+  },
+  {
+   "ref": "52",
+   "x": 29.9,
+   "y": 30.8,
+   "partNo": "131-911",
+   "desc": "5/16 NC Flange locknut",
+   "reqd": "var"
+  },
+  {
+   "ref": "53",
+   "x": 28.8,
+   "y": 15.9,
+   "partNo": "192-21",
+   "desc": "5/16 Standard lock washer *",
+   "reqd": "var"
+  },
+  {
+   "ref": "54",
+   "x": 48.6,
+   "y": 12.8,
+   "partNo": "131-933",
+   "desc": "3/8 NC Flange hex locknut",
+   "reqd": "var"
+  },
+  {
+   "ref": "54",
+   "x": 73.3,
+   "y": 86.4,
+   "partNo": "131-933",
+   "desc": "3/8 NC Flange hex locknut",
+   "reqd": "var"
+  },
+  {
+   "ref": "55",
+   "x": 30.2,
+   "y": 34.5,
+   "partNo": "111-202",
+   "desc": "5/16 NC x 3/4 Hex head cap screw GR5",
+   "reqd": "var"
+  },
+  {
+   "ref": "56",
+   "x": 17.7,
+   "y": 19.2,
+   "partNo": "187-1069",
+   "desc": ".31 x .75 Sheet metal screw",
+   "reqd": "var"
+  }
+ ],
+ "footnotes": "* Obtain locally: standard hardware available at hardware stores.\nRef 26 control valve: see Console Valve section.\nRef 9 stabilizer cylinder: see Hydraulic Cylinder Assembly. Ref 13 swing cylinder: see Swing Cylinder."
+}

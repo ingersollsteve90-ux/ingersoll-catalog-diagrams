@@ -1,0 +1,279 @@
+{
+ "sectionTitle": "Dipperstick Assembly",
+ "breadcrumb": "Dipperstick Assembly",
+ "catalogLabel": "Catalog WOODS-7500",
+ "modelNumbers": "Catalog WOODS-7500 — Woods Model 7500 Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/WOODS-7500/dipperstick_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 5.3,
+   "y": 47.9,
+   "variants": [
+    {
+     "partNo": "C43703",
+     "desc": "8\" MODEL 7500 Bucket",
+     "reqd": "1",
+     "serialNote": "8\" bucket"
+    },
+    {
+     "partNo": "C43704",
+     "desc": "12\" MODEL 7500 Bucket",
+     "reqd": "1",
+     "serialNote": "12\" bucket"
+    },
+    {
+     "partNo": "C43705",
+     "desc": "16\" MODEL 7500 Bucket",
+     "reqd": "1",
+     "serialNote": "16\" bucket"
+    },
+    {
+     "partNo": "C43706",
+     "desc": "18\" MODEL 7500 Bucket",
+     "reqd": "1",
+     "serialNote": "18\" bucket"
+    },
+    {
+     "partNo": "C43707",
+     "desc": "24\" MODEL 7500 Bucket",
+     "reqd": "1",
+     "serialNote": "24\" bucket"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 47.9,
+   "y": 44.4,
+   "partNo": "C43708",
+   "desc": "1.00 Dia. x 9.00 Guide link",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 25.6,
+   "y": 28.2,
+   "partNo": "C43708",
+   "desc": "1.00 Dia. x 9.00 Guide link",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 43,
+   "y": 28.4,
+   "partNo": "C43709",
+   "desc": "Bucket link",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 39.1,
+   "y": 16.3,
+   "partNo": "C43710",
+   "desc": "Bucket cylinder (2\" cylinder; see Hydraulic Cylinder Assembly)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 47.3,
+   "y": 3.9,
+   "partNo": "N/A",
+   "desc": "Socket SMV emblem",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 50,
+   "y": 3.9,
+   "partNo": "N/A",
+   "desc": "SMV Socket bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 66.6,
+   "y": 9.5,
+   "partNo": "C43711",
+   "desc": "Grommet",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 66.4,
+   "y": 35.1,
+   "partNo": "C43711",
+   "desc": "Grommet",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 75.6,
+   "y": 12.8,
+   "partNo": "C43712",
+   "desc": "Dipperstick",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 96.7,
+   "y": 29.3,
+   "partNo": "C43713",
+   "desc": "Retaining pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 82.4,
+   "y": 32.5,
+   "partNo": "C43714",
+   "desc": "Retaining pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 83.5,
+   "y": 44,
+   "partNo": "C43694",
+   "desc": "Retaining pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 59.9,
+   "y": 42.8,
+   "partNo": "C43715",
+   "desc": "1.0 x 5.81 Clevis pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 56.4,
+   "y": 52.3,
+   "partNo": "C43715",
+   "desc": "1.0 x 5.81 Clevis pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 46.7,
+   "y": 61.6,
+   "partNo": "C43716",
+   "desc": "1.0 x 5.77 Clevis pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 46.7,
+   "y": 71.6,
+   "partNo": "C43716",
+   "desc": "1.0 x 5.77 Clevis pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 41.1,
+   "y": 51.1,
+   "partNo": "C43717",
+   "desc": "Tension bushing",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 18.7,
+   "y": 40.4,
+   "partNo": "C43717",
+   "desc": "Tension bushing",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 38.9,
+   "y": 89.8,
+   "partNo": "C43718",
+   "desc": "Tooth shank",
+   "reqd": "var"
+  },
+  {
+   "ref": "16",
+   "x": 28.2,
+   "y": 19.3,
+   "partNo": "C43695",
+   "desc": "External retaining ring",
+   "reqd": "var"
+  },
+  {
+   "ref": "16",
+   "x": 21.2,
+   "y": 36.7,
+   "partNo": "C43695",
+   "desc": "External retaining ring",
+   "reqd": "var"
+  },
+  {
+   "ref": "17",
+   "x": 95,
+   "y": 38.3,
+   "partNo": "131-1102",
+   "desc": "1/4 NC Hex locknut",
+   "reqd": "var"
+  },
+  {
+   "ref": "18",
+   "x": 94.5,
+   "y": 22.8,
+   "partNo": "NSS",
+   "desc": "1/4 NC x 2-1/2 HHCS GR8 (obtain locally)",
+   "reqd": "var"
+  },
+  {
+   "ref": "19",
+   "x": 53.9,
+   "y": 4.9,
+   "partNo": "131-911",
+   "desc": "5/16 NC Flange hex locknut",
+   "reqd": "var"
+  },
+  {
+   "ref": "19",
+   "x": 33.9,
+   "y": 74.6,
+   "partNo": "131-911",
+   "desc": "5/16 NC Flange hex locknut",
+   "reqd": "var"
+  },
+  {
+   "ref": "20",
+   "x": 40.8,
+   "y": 8.6,
+   "partNo": "111-202",
+   "desc": "5/16 NC x 3/4 Carriage bolt",
+   "reqd": "var"
+  },
+  {
+   "ref": "21",
+   "x": 40,
+   "y": 66.1,
+   "partNo": "131-111",
+   "desc": "5/16 x 2-1/2 Hex head cap screw GR5 *",
+   "reqd": "var"
+  },
+  {
+   "ref": "22",
+   "x": 41.1,
+   "y": 80.2,
+   "partNo": "C43719",
+   "desc": "7/16 NC x 1-3/4 Hex head cap screw GR5",
+   "reqd": "var"
+  },
+  {
+   "ref": "23",
+   "x": 15.8,
+   "y": 92.3,
+   "partNo": "C43720",
+   "desc": "7/16 NC Hex locknut",
+   "reqd": "var"
+  }
+ ],
+ "footnotes": "Ref 1: bucket available in 8\", 12\", 16\", 18\" and 24\" widths.\nRef 4 bucket cylinder (2\"): see Hydraulic Cylinder Assembly.\n* Obtain locally: standard hardware available at hardware stores."
+}

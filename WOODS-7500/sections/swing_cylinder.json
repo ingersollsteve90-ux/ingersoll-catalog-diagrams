@@ -1,0 +1,120 @@
+{
+ "sectionTitle": "Swing Cylinder",
+ "breadcrumb": "Swing Cylinder",
+ "catalogLabel": "Catalog WOODS-7500",
+ "modelNumbers": "Catalog WOODS-7500 — Woods Model 7500 Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/WOODS-7500/swing_cylinder.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 40.9,
+   "y": 23.4,
+   "partNo": "C43784",
+   "desc": "Double acting hydraulic cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 16.8,
+   "y": 75.3,
+   "partNo": "131-1129",
+   "desc": "7/16 NC Hex nut *",
+   "reqd": "8"
+  },
+  {
+   "ref": "3",
+   "x": 33.7,
+   "y": 92.8,
+   "partNo": "C43797",
+   "desc": "2-1/2 OD x 1-1/4 ID Guide",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 92.4,
+   "y": 11.1,
+   "partNo": "C43797",
+   "desc": "2-1/2 OD x 1-1/4 ID Guide",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 54.1,
+   "y": 76,
+   "partNo": "NSS",
+   "desc": "Cylinder tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 44.1,
+   "y": 48.9,
+   "partNo": "C31779",
+   "desc": ".385 Dia. x 16 Tie rod",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 76.3,
+   "y": 27.2,
+   "partNo": "C43798",
+   "desc": "1-1/4 x 2-1/2 Piston rod assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "partNo": "C43799",
+   "desc": "Seal kit (includes 7A thru 7F)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7A",
+   "x": 4.7,
+   "y": 88.9,
+   "partNo": "NSS",
+   "desc": "1-1/4 ID x 1-1/2 OD Rod wiper (in seal kit C43799)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7B",
+   "x": 9.1,
+   "y": 81.7,
+   "partNo": "NSS",
+   "desc": "1-1/4 x 1-5/8 x 5/16 U-Cup seal (in seal kit C43799)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7C",
+   "x": 76.2,
+   "y": 54.9,
+   "partNo": "NSS",
+   "desc": "3/4 x 7/8 O-Ring (in seal kit C43799)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7D",
+   "x": 81.8,
+   "y": 47.2,
+   "partNo": "NSS",
+   "desc": "2-1/2 Piston seal (in seal kit C43799)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7E",
+   "x": 81.9,
+   "y": 18.7,
+   "partNo": "NSS",
+   "desc": "2-1/4 x 2-1/2 O-Ring (in seal kit C43799)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7F",
+   "x": 92.4,
+   "y": 39.6,
+   "partNo": "NSS",
+   "desc": "2-1/4 x 2-1/2 Back-up ring (in seal kit C43799)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Refs 7A-7F are included in seal kit C43799 and are not sold separately.\n* Obtain locally: standard hardware available at hardware stores."
+}

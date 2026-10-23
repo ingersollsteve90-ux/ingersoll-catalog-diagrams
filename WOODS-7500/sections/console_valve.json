@@ -1,0 +1,186 @@
+{
+ "sectionTitle": "Console Valve",
+ "breadcrumb": "Console Valve",
+ "catalogLabel": "Catalog WOODS-7500",
+ "modelNumbers": "Catalog WOODS-7500 — Woods Model 7500 Backhoe",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/WOODS-7500/console_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28.6,
+   "y": 89.9,
+   "partNo": "C43736",
+   "desc": "Control valve assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 32.1,
+   "y": 77.1,
+   "partNo": "C31753",
+   "desc": "Dampening valve 2500 psi",
+   "reqd": "3"
+  },
+  {
+   "ref": "3",
+   "x": 39.3,
+   "y": 80.4,
+   "partNo": "C43737",
+   "desc": "Relief valve / anti-cav 2100 psi",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 25.9,
+   "y": 68.7,
+   "partNo": "C43737",
+   "desc": "Relief valve / anti-cav 2100 psi",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 46.3,
+   "y": 83,
+   "partNo": "C43738",
+   "desc": "Plug, Port relief cavity",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 53.3,
+   "y": 86.4,
+   "partNo": "C31755",
+   "desc": "Spool position control",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 74.1,
+   "y": 82.4,
+   "partNo": "C31757",
+   "desc": "Spool position control",
+   "reqd": "5"
+  },
+  {
+   "ref": "7",
+   "x": 79.9,
+   "y": 78.1,
+   "partNo": "C43739",
+   "desc": "Valve inlet section",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 88.5,
+   "y": 76.4,
+   "partNo": "C31759",
+   "desc": "8mm x 1.25P Hex nut",
+   "reqd": "8"
+  },
+  {
+   "ref": "8",
+   "x": 26.1,
+   "y": 34.6,
+   "partNo": "C31759",
+   "desc": "8mm x 1.25P Hex nut",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 84.6,
+   "y": 65,
+   "partNo": "C31760",
+   "desc": "8mm x 1.25P x 276mm Hex head cap screw",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 94.4,
+   "y": 61.8,
+   "partNo": "C31751",
+   "desc": "Check valve assembly",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 78.9,
+   "y": 53.2,
+   "partNo": "C43740",
+   "desc": "Relief valve assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 70.6,
+   "y": 49,
+   "partNo": "C43791",
+   "desc": "Boom section without relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 63.1,
+   "y": 44.7,
+   "partNo": "C43792",
+   "desc": "Valve spool section without relief",
+   "reqd": "5"
+  },
+  {
+   "ref": "14",
+   "x": 54.3,
+   "y": 40.3,
+   "partNo": "C43793",
+   "desc": "Stabilizer control",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 55.0,
+   "y": 28.2,
+   "partNo": "C43794",
+   "desc": "Control handle - Stabilizer",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 25.2,
+   "y": 58.9,
+   "partNo": "C43795",
+   "desc": "Outlet section with plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 28.1,
+   "y": 45.1,
+   "partNo": "C43796",
+   "desc": "Plug, 3/4 SAE M with O-ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 26.8,
+   "y": 65.1,
+   "partNo": "C43729",
+   "desc": "5mm x .8P x 12mm Hex head cap screw",
+   "reqd": "8"
+  },
+  {
+   "ref": "20",
+   "x": 17.6,
+   "y": 3.3,
+   "partNo": "C31750",
+   "desc": "Section seal repair kit",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 18.3,
+   "y": 8,
+   "partNo": "C31758",
+   "desc": "Spool repair kit",
+   "reqd": "6"
+  }
+ ],
+ "footnotes": "Refs 20 and 21 are repair kits (not drawn)."
+}
