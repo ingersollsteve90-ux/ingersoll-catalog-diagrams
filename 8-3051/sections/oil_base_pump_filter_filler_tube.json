@@ -1,0 +1,307 @@
+{
+ "sectionTitle": "Oil Base, Pump, Filter and Filler Tube",
+ "breadcrumb": "Oil Base, Pump, Filter and Filler Tube",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/oil_base_pump_filter_filler_tube.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.67,
+   "y": 31.93,
+   "partNo": "C32290",
+   "desc": "DIPSTICK - oil level indicator",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 21.15,
+   "y": 35.02,
+   "partNo": "C32465",
+   "desc": "O-RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 36.29,
+   "y": 24.68,
+   "partNo": "C32291",
+   "desc": "BRACKET - fill tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 25.43,
+   "y": 43.14,
+   "partNo": "C32292",
+   "desc": "TUBE - oil fill",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 28.96,
+   "y": 46.33,
+   "partNo": "C32293",
+   "desc": "SEAL - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 18.96,
+   "y": 29.41,
+   "partNo": "C32466",
+   "desc": "SCREW - #10 x 1-1/4\" panhead",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 39.91,
+   "y": 24.29,
+   "partNo": "C32467",
+   "desc": "NUT - speed (type U)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 47.14,
+   "y": 49.81,
+   "partNo": "C32289",
+   "desc": "BASE - oil (includes plugs)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 75.99,
+   "y": 39.08,
+   "partNo": "C29984",
+   "desc": "GASKET - oil base",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 85.23,
+   "y": 55.99,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 86.18,
+   "y": 60.05,
+   "partNo": "113-252",
+   "desc": "BOLT - 3/8\" - 16 x 3-3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 51.81,
+   "y": 44.88,
+   "partNo": "221-3",
+   "desc": "PLUG - oil base 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 78.76,
+   "y": 74.65,
+   "partNo": "221-3",
+   "desc": "PLUG - oil base 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 66.19,
+   "y": 28.45,
+   "partNo": "C23321",
+   "desc": "CUP - intake, oil pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 92.09,
+   "y": 75.32,
+   "partNo": "221-167",
+   "desc": "NIPPLE - pipe 3/8\" x 3-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 79.42,
+   "y": 70.88,
+   "partNo": "221-376",
+   "desc": "ELBOW - pipe 3/8\" x 90°",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 53.81,
+   "y": 71.26,
+   "partNo": "C20565",
+   "desc": "ADAPTER - oil filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 57.43,
+   "y": 73.68,
+   "partNo": "C20331",
+   "desc": "WASHER - 5/16\" copper",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 62.57,
+   "y": 75.52,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" - 18 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 39.81,
+   "y": 95.72,
+   "partNo": "C25389",
+   "desc": "DRAIN - oil filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 32.48,
+   "y": 91.17,
+   "partNo": "182-525",
+   "desc": "BOLT - #10 - 32 x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 47.14,
+   "y": 69.52,
+   "partNo": "C32462",
+   "desc": "GASKET - oil filter adapter",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 67.52,
+   "y": 80.25,
+   "partNo": "C26191",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 82.18,
+   "y": 17.14,
+   "partNo": "C29734",
+   "desc": "PUMP - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 71.9,
+   "y": 3.51,
+   "partNo": "C20325",
+   "desc": "KIT - gasket, oil pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 79.9,
+   "y": 14.82,
+   "partNo": "192-19",
+   "desc": "LOCK WASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 74.76,
+   "y": 15.69,
+   "partNo": "113-4",
+   "desc": "BOLT - 1/4\" - 20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 7.82,
+   "y": 9.02,
+   "partNo": "C32474",
+   "desc": "BOLT - 3/8\" - 24 x 7/8\" oil bypass",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 7.34,
+   "y": 12.79,
+   "partNo": "C20574",
+   "desc": "WASHER - 3/8\" copper",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 8.58,
+   "y": 16.36,
+   "partNo": "C20320",
+   "desc": "SPRING - oil bypass valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 8.39,
+   "y": 20.71,
+   "partNo": "C20322",
+   "desc": "VALVE - oil bypass",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 86.66,
+   "y": 93.4,
+   "partNo": "221-86",
+   "desc": "REDUCER - pipe 3/8\" - 14 to 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 89.42,
+   "y": 86.73,
+   "partNo": "C19473",
+   "desc": "NIPPLE - pipe 2.5\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 84.85,
+   "y": 85.09,
+   "partNo": "C14906",
+   "desc": "GASKET - oil drain",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 77.99,
+   "y": 90.88,
+   "partNo": "C14399",
+   "desc": "PLUG - oil drain",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 53.43,
+   "y": 61.99,
+   "partNo": "C33222",
+   "desc": "BAFFLE - air, oil base",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 41.62,
+   "y": 59.47,
+   "partNo": "182-525",
+   "desc": "BOLT - #10 - 32 x 3/8\"",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.9
+}

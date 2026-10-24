@@ -1,0 +1,51 @@
+{
+ "sectionTitle": "WW60 Wheel Weights",
+ "breadcrumb": "WW60 Wheel Weights",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/ww60_wheel_weights.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 33.96,
+   "y": 71.32,
+   "partNo": "NSS",
+   "desc": "WEIGHT - wheel (order as machinery item)",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 60.27,
+   "y": 60.42,
+   "partNo": "111-531",
+   "desc": "BOLT - 1/2\" x 2-3/4\" NC round head, square neck ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 95.19,
+   "y": 12.91,
+   "partNo": "111-531",
+   "desc": "BOLT - 1/2\" x 2-3/4\" NC round head, square neck ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 13.42,
+   "y": 42.7,
+   "partNo": "131-930",
+   "desc": "NUT - 1/2\" NC hex flange lock",
+   "reqd": "8"
+  },
+  {
+   "ref": "3",
+   "x": 9.02,
+   "y": 93.71,
+   "partNo": "131-930",
+   "desc": "NUT - 1/2\" NC hex flange lock",
+   "reqd": "8"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.5
+}

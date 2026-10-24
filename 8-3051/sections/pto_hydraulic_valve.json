@@ -1,0 +1,267 @@
+{
+ "sectionTitle": "PTO Hydraulic Valve (6018)",
+ "breadcrumb": "PTO Hydraulic Valve (6018)",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/pto_hydraulic_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.5,
+   "y": 33.9,
+   "partNo": "C33426",
+   "desc": "VALVE - hydraulic (2100 PSI relief)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 93.76,
+   "y": 44.73,
+   "partNo": "83-56",
+   "desc": "SCREW - set 5/16\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 83.94,
+   "y": 51.76,
+   "partNo": "C26719",
+   "desc": "HOUSING - detent plunger",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 89.28,
+   "y": 46.82,
+   "partNo": "C26718",
+   "desc": "SPRING - detent plunger",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 81.21,
+   "y": 54.14,
+   "partNo": "C26717",
+   "desc": "PLUNGER - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 77.52,
+   "y": 56.41,
+   "partNo": "C26716",
+   "desc": "WASHER - aluminum, seal",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "7",
+   "x": 92.2,
+   "y": 94.61,
+   "partNo": "165-143",
+   "desc": "SCREW - socket head 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 81.31,
+   "y": 92.04,
+   "partNo": "C26715",
+   "desc": "BONNET - end cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 80.24,
+   "y": 70.94,
+   "partNo": "113-110",
+   "desc": "BOLT - 5/16\" - 18 x 2-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 74.99,
+   "y": 66.1,
+   "partNo": "C26714",
+   "desc": "SLEEVE - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 71.0,
+   "y": 62.97,
+   "partNo": "195-526",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 54.76,
+   "y": 50.91,
+   "partNo": "195-526",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 66.72,
+   "y": 60.68,
+   "partNo": "C26721",
+   "desc": "SPRING - centering",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 62.15,
+   "y": 57.55,
+   "partNo": "C26720",
+   "desc": "SPACER - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 58.36,
+   "y": 53.75,
+   "partNo": "C26713",
+   "desc": "SPACER - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 33.28,
+   "y": 67.34,
+   "partNo": "C26708",
+   "desc": "POPPET - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 51.56,
+   "y": 48.34,
+   "partNo": "C26722",
+   "desc": "SPACER - end cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 51.56,
+   "y": 81.49,
+   "partNo": "C26712",
+   "desc": "NUT - cap, relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 46.5,
+   "y": 77.98,
+   "partNo": "C26710",
+   "desc": "WASHER - aluminum, seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 42.61,
+   "y": 74.46,
+   "partNo": "C26711",
+   "desc": "SCREW - adjustment, relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 38.43,
+   "y": 71.71,
+   "partNo": "C26709",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 47.96,
+   "y": 47.68,
+   "partNo": "C26707",
+   "desc": "RING - quad",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 22.48,
+   "y": 28.67,
+   "partNo": "C26707",
+   "desc": "RING - quad",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 18.69,
+   "y": 25.82,
+   "partNo": "C26706",
+   "desc": "WIPER - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 31.14,
+   "y": 24.02,
+   "partNo": "113-5",
+   "desc": "BOLT - 1/4\" - 20 x 1-1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "24",
+   "x": 21.02,
+   "y": 53.38,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "25",
+   "x": 3.91,
+   "y": 38.65,
+   "partNo": "C28964",
+   "desc": "PIN - clevis 3/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 9.55,
+   "y": 39.88,
+   "partNo": "132-329",
+   "desc": "PIN - cotter",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 14.8,
+   "y": 20.79,
+   "partNo": "C32156",
+   "desc": "BRACKET - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 9.94,
+   "y": 15.18,
+   "partNo": "C32155",
+   "desc": "HANDLE - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 11.98,
+   "y": 6.25,
+   "partNo": "C32154",
+   "desc": "KNOB - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 23.84,
+   "y": 61.83,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\"",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.8
+}

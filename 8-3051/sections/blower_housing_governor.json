@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "Blower Housing and Governor",
+ "breadcrumb": "Blower Housing and Governor",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/blower_housing_governor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.14,
+   "y": 38.66,
+   "partNo": "C32308",
+   "desc": "HOUSING - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 37.76,
+   "y": 31.13,
+   "partNo": "163-22",
+   "desc": "SCREW - tapping, washerhead 1/4\" - 20 x 7/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 60.38,
+   "y": 15.88,
+   "partNo": "C32309",
+   "desc": "HOUSING - cylinder air L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 95.13,
+   "y": 41.3,
+   "partNo": "C32310",
+   "desc": "HOUSING - cylinder air R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 72.42,
+   "y": 31.13,
+   "partNo": "187-1147",
+   "desc": "SCREW - tapping, washerhead 1/4\" - 20 x 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 66.94,
+   "y": 21.55,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 56.17,
+   "y": 14.02,
+   "partNo": "C32446",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" washerhead",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 94.15,
+   "y": 30.44,
+   "partNo": "C32446",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" washerhead",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 59.1,
+   "y": 95.47,
+   "partNo": "187-1073",
+   "desc": "SCREW - 1/4\" - 20 x 5/8\" tapping, washerhead",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 70.36,
+   "y": 11.08,
+   "partNo": "C32447",
+   "desc": "CLAMP - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 54.7,
+   "y": 92.24,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 43.64,
+   "y": 4.53,
+   "partNo": "C20376",
+   "desc": "SPRING - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 12.8,
+   "y": 14.7,
+   "partNo": "C29506",
+   "desc": "CLAMP - cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 19.85,
+   "y": 10.01,
+   "partNo": "C28719",
+   "desc": "BRACKET - cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 6.63,
+   "y": 17.73,
+   "partNo": "187-1511",
+   "desc": "SCREW - tapping #10 - 32 x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 24.74,
+   "y": 6.29,
+   "partNo": "182-49",
+   "desc": "SCREW - tapping #6 - 32 x 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 25.33,
+   "y": 19.79,
+   "partNo": "C20371",
+   "desc": "SPRING - idle setting",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 29.25,
+   "y": 6.98,
+   "partNo": "C32311",
+   "desc": "ARM - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 52.45,
+   "y": 7.76,
+   "partNo": "121-3",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\" washerhead",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 47.65,
+   "y": 7.96,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 29.64,
+   "y": 23.21,
+   "partNo": "195-102",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 41.48,
+   "y": 28.88,
+   "partNo": "C20375",
+   "desc": "BUSHING - arm, governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 4.19,
+   "y": 71.12,
+   "partNo": "C32472",
+   "desc": "SCREEN - blower housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 6.14,
+   "y": 80.9,
+   "partNo": "C32471",
+   "desc": "PLUG - screen",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 68.01,
+   "y": 68.87,
+   "partNo": "187-1036",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\" flange lock",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "23",
+   "x": 82.99,
+   "y": 61.15,
+   "partNo": "187-1036",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\" flange lock",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.9
+}

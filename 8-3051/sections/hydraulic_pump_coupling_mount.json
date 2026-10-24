@@ -1,0 +1,265 @@
+{
+ "sectionTitle": "Hydraulic Pump, Coupling and Mount",
+ "breadcrumb": "Hydraulic Pump, Coupling and Mount",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/hydraulic_pump_coupling_mount.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 56.55,
+   "y": 40.15,
+   "partNo": "C33041",
+   "desc": "MOUNT - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 72.96,
+   "y": 48.34,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 66.71,
+   "y": 43.95,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 89.77,
+   "y": 23.09,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1\" (use teflon sealant on lower bolts)",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 83.41,
+   "y": 18.6,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 76.58,
+   "y": 16.94,
+   "partNo": "195-104",
+   "desc": "WASHER - .438\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 45.9,
+   "y": 4.56,
+   "partNo": "C28321",
+   "desc": "KEY - 1/4\" x 1/4\" x 3/4\" (engine shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 19.52,
+   "y": 35.27,
+   "partNo": "NSS",
+   "desc": "COUPLING - pump (use C33265)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 40.03,
+   "y": 26.3,
+   "partNo": "NSS",
+   "desc": "HUB - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 22.06,
+   "y": 14.41,
+   "partNo": "NSS",
+   "desc": "HUB - engine",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 29.09,
+   "y": 18.31,
+   "partNo": "NSS",
+   "desc": "SLEEVE - coupling (use C33265 complete assembly)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 37.98,
+   "y": 21.33,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 60.55,
+   "y": 14.02,
+   "partNo": "126-13",
+   "desc": "KEY - 3/16\" x 5/8\" woodruff carbon (pump shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 94.75,
+   "y": 32.54,
+   "partNo": "C32170",
+   "desc": "PUMP - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 58.3,
+   "y": 88.62,
+   "partNo": "C32955",
+   "desc": "KIT - seal (main pump section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 95.33,
+   "y": 87.06,
+   "partNo": "C33110",
+   "desc": "SEAL - shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 83.32,
+   "y": 75.06,
+   "partNo": "NSS",
+   "desc": "SEAL - \"V\" (\"V\" side towards cover)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 72.08,
+   "y": 89.01,
+   "partNo": "NSS",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 76.87,
+   "y": 70.97,
+   "partNo": "NSS",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 67.29,
+   "y": 85.89,
+   "partNo": "NSS",
+   "desc": "PLATE - wear (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 58.7,
+   "y": 60.04,
+   "partNo": "NSS",
+   "desc": "PLATE - thrust (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 61.92,
+   "y": 83.64,
+   "partNo": "C33111",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 47.66,
+   "y": 73.7,
+   "partNo": "C33111",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 17.95,
+   "y": 63.16,
+   "partNo": "C32956",
+   "desc": "KIT - seal (secondary pump section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 43.75,
+   "y": 50.49,
+   "partNo": "NSS",
+   "desc": "SEAL - \"V\" (\"V\" side towards body)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 31.63,
+   "y": 64.33,
+   "partNo": "NSS",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 37.3,
+   "y": 46.98,
+   "partNo": "NSS",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 26.65,
+   "y": 60.73,
+   "partNo": "NSS",
+   "desc": "PLATE - wear (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 21.47,
+   "y": 58.39,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 9.94,
+   "y": 51.66,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 49.61,
+   "y": 24.26,
+   "partNo": "C33265",
+   "desc": "COUPLING - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "NSS",
+   "desc": "SEAL - shaft (not used)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.6
+}

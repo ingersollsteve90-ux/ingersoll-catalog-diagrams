@@ -1,0 +1,209 @@
+{
+ "sectionTitle": "Hydraulic Drive System",
+ "breadcrumb": "Hydraulic Drive System",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/hydraulic_drive_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 51.86,
+   "y": 70.79,
+   "partNo": "C24995",
+   "desc": "VALVE - holding",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 41.67,
+   "y": 72.83,
+   "partNo": "C28487",
+   "desc": "\"O\" RING - end caps",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 19.33,
+   "y": 79.14,
+   "partNo": "C24994",
+   "desc": "TUBE - valve to motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 77.04,
+   "y": 93.33,
+   "partNo": "C25007",
+   "desc": "TUBE - travel valve to holding valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 71.95,
+   "y": 56.12,
+   "partNo": "C25008",
+   "desc": "TUBE - travel valve to holding valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 84.29,
+   "y": 62.43,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 92.62,
+   "y": 17.75,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 59.9,
+   "y": 43.88,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 23.55,
+   "y": 41.26,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 80.67,
+   "y": 50.29,
+   "partNo": "218-5065",
+   "desc": "FITTING - 3/4\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 61.17,
+   "y": 52.91,
+   "partNo": "218-5066",
+   "desc": "FITTING - 5/8\" tube x 3/4\" - 16 (includes 218-5006 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 57.45,
+   "y": 77.98,
+   "partNo": "218-5066",
+   "desc": "FITTING - 5/8\" tube x 3/4\" - 16 (includes 218-5006 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 38.54,
+   "y": 28.14,
+   "partNo": "218-5406",
+   "desc": "FITTING - 1/2\" NPSM x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 47.16,
+   "y": 35.82,
+   "partNo": "218-5254",
+   "desc": "FITTING - swivel 1/2\" NPSM x 3/4\" - 16 (includes 218-5006 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 37.46,
+   "y": 59.33,
+   "partNo": "218-5117",
+   "desc": "FITTING - 90° adjustable 5/8\" tube x 3/4\" - 16 (includes 218-5006 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 79.78,
+   "y": 6.19,
+   "partNo": "C32118",
+   "desc": "VALVE - travel control (repairs: see Hydraulic Control Valve - Tractor)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 55.78,
+   "y": 7.26,
+   "partNo": "C27764",
+   "desc": "SCREW - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 56.47,
+   "y": 33.0,
+   "partNo": "131-351",
+   "desc": "NUT - 5/16\" - 18 lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 37.66,
+   "y": 13.38,
+   "variants": [
+    {
+     "partNo": "NSS",
+     "desc": "MOTOR - hydraulic (6018) (repairs: see Hydraulic Drive Motor) (use C32957) shown",
+     "reqd": "1",
+     "serialNote": "6018 (use C32957) shown"
+    },
+    {
+     "partNo": "NSS*",
+     "desc": "MOTOR - hydraulic (6018B, 6018BH) (repairs: see Hydraulic Drive Motor)",
+     "reqd": "1",
+     "serialNote": "6018B, 6018BH (see note)"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 11.1,
+   "y": 48.83,
+   "partNo": "C28949",
+   "desc": "SEAL - motor to case",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 7.19,
+   "y": 12.99,
+   "variants": [
+    {
+     "partNo": "166-85",
+     "desc": "BOLT - 1/2\" - 13 x 1\"",
+     "reqd": "4",
+     "serialNote": "1\""
+    },
+    {
+     "partNo": "166-86",
+     "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+     "reqd": "4",
+     "serialNote": "1-1/4\""
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 10.61,
+   "y": 19.3,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\" (use with 166-86 bolt)",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "*Before PIN 14131993: 6018BH use C32957 motor and C33164 arm; 6018B use C32957 motor and C33163 arm. After PIN 14131993: 6018BH and 6018B use C32957 motor.",
+ "dotSizePct": 4.1
+}

@@ -1,0 +1,198 @@
+{
+ "sectionTitle": "Air Cleaner",
+ "breadcrumb": "Air Cleaner",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/air_cleaner.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 66.57,
+   "y": 5.08,
+   "partNo": "C26703",
+   "desc": "NUT - wing 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 81.51,
+   "y": 11.9,
+   "partNo": "C32302",
+   "desc": "COVER - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 72.93,
+   "y": 34.8,
+   "partNo": "C22581",
+   "desc": "PRECLEANER",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 72.74,
+   "y": 42.2,
+   "partNo": "C22424",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 32.08,
+   "y": 92.1,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 73.22,
+   "y": 49.81,
+   "variants": [
+    {
+     "partNo": "C32303*",
+     "desc": "HOUSING - air cleaner",
+     "reqd": "1",
+     "serialNote": "Spec. 10742B engine"
+    },
+    {
+     "partNo": "C40928**",
+     "desc": "HOUSING - air cleaner",
+     "reqd": "1",
+     "serialNote": "Spec. 10905C engine"
+    }
+   ]
+  },
+  {
+   "ref": "7",
+   "x": 66.77,
+   "y": 69.59,
+   "partNo": "187-1036",
+   "desc": "BOLT - 1/4\" - 20 x 3/8\" tapping, washer head",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 24.66,
+   "y": 48.05,
+   "partNo": "187-1036",
+   "desc": "BOLT - 1/4\" - 20 x 3/8\" tapping, washer head",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 23.7,
+   "y": 28.07,
+   "partNo": "182-152",
+   "desc": "SCREW - machine #10 - 32 x 1-1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 22.44,
+   "y": 33.43,
+   "partNo": "195-516",
+   "desc": "WASHER - #10",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 13.39,
+   "y": 36.26,
+   "partNo": "C29946",
+   "desc": "DEFLECTOR - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 4.91,
+   "y": 82.94,
+   "partNo": "C32304",
+   "desc": "TUBE - air intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 86.13,
+   "y": 94.63,
+   "partNo": "C29948",
+   "desc": "FILTER - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 85.94,
+   "y": 85.18,
+   "partNo": "C29949*",
+   "desc": "TUBE - crankcase breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 41.04,
+   "y": 91.8,
+   "partNo": "C32305",
+   "desc": "SUPPORT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 86.13,
+   "y": 89.86,
+   "partNo": "NSS*",
+   "desc": "CLAMP - breather tube (use 214-258)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 22.54,
+   "y": 89.66,
+   "partNo": "C30033",
+   "desc": "GROMMET - rubber",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 77.75,
+   "y": 23.49,
+   "partNo": "C32306",
+   "desc": "COVER - element",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 63.1,
+   "y": 21.64,
+   "partNo": "131-71",
+   "desc": "NUT - lock 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 67.63,
+   "y": 32.26,
+   "partNo": "C32451",
+   "desc": "SPACER - air cleaner stud",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 93.84,
+   "y": 67.64,
+   "partNo": "C33246**",
+   "desc": "HOSE - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 94.13,
+   "y": 75.63,
+   "partNo": "214-251**",
+   "desc": "CLAMP - hose",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "*Use with Engine Spec. 10742B\n**Use with Engine Spec. 10905C",
+ "dotSizePct": 4.3
+}

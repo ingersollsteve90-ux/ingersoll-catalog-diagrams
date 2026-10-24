@@ -1,0 +1,119 @@
+{
+ "sectionTitle": "Manual Pump (Power Steering)",
+ "breadcrumb": "Manual Pump (Power Steering)",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/manual_pump_power_steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 75.14,
+   "y": 96.48,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 39.93,
+   "y": 4.01,
+   "partNo": "C33002",
+   "desc": "KIT - cover and manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 37.81,
+   "y": 13.11,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 36.47,
+   "y": 8.46,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 52.88,
+   "y": 19.69,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 73.51,
+   "y": 33.05,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 92.22,
+   "y": 45.45,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 26.4,
+   "y": 28.02,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 19.39,
+   "y": 13.98,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 35.03,
+   "y": 34.99,
+   "partNo": "NSS",
+   "desc": "SEAL - commutator",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 82.62,
+   "y": 65.49,
+   "partNo": "NSS",
+   "desc": "SEAL - face",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 85.6,
+   "y": 67.91,
+   "partNo": "NSS",
+   "desc": "RING - back-up",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C27992",
+   "desc": "PUMP - steering, manual",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C30281",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.7
+}

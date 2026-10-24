@@ -1,0 +1,140 @@
+{
+ "sectionTitle": "Hydraulic Lift Control (6018)",
+ "breadcrumb": "Hydraulic Lift Control (6018)",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/hydraulic_lift_control_6018.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.78,
+   "y": 64.67,
+   "partNo": "C19384*",
+   "desc": "ROD - lift control",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 34.34,
+   "y": 55.67,
+   "partNo": "C19025*",
+   "desc": "BALLJOINT",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 61.15,
+   "y": 42.96,
+   "partNo": "129-122",
+   "desc": "NUT - 5/16\" NF hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 86.79,
+   "y": 93.14,
+   "partNo": "C26266",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 89.04,
+   "y": 46.09,
+   "partNo": "C26419",
+   "desc": "LEVER - lift control",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 87.48,
+   "y": 87.96,
+   "partNo": "195-533",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 94.62,
+   "y": 77.0,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 59.0,
+   "y": 8.82,
+   "partNo": "C29045",
+   "desc": "KNOB - lift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 89.53,
+   "y": 33.17,
+   "partNo": "353-442",
+   "desc": "BUSHING - lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 67.12,
+   "y": 79.74,
+   "partNo": "C17551",
+   "desc": "DISC - friction",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 33.86,
+   "y": 47.07,
+   "variants": [
+    {
+     "partNo": "218-5104",
+     "desc": "FITTING - 90° (includes 218-5004 \"O\" ring) (early production) shown",
+     "reqd": "2",
+     "serialNote": "Early production (shown)"
+    },
+    {
+     "partNo": "218-5056",
+     "desc": "FITTING - 5/16\" tube x 1/2\" - 20 (current production) (not shown)",
+     "reqd": "1",
+     "serialNote": "Current production (not shown)"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 95.01,
+   "y": 53.62,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 94.32,
+   "y": 60.47,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 8.02,
+   "y": 41.29,
+   "partNo": "218-753",
+   "desc": "CAP - 37° (tractors without 3 point hitch)",
+   "reqd": "2"
+  },
+  {
+   "ref": "",
+   "partNo": "218-5154",
+   "desc": "PLUG - 1/2\" - 20 \"O\" ring (6018B, 6018BH)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "*Order both C19384 rod and C19025 balljoint if other than illustrated.",
+ "dotSizePct": 4.3
+}

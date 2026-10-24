@@ -1,0 +1,107 @@
+{
+ "sectionTitle": "Hydraulic Backhoe Connecting Lines (6018BH)",
+ "breadcrumb": "Hydraulic Backhoe Connecting Lines (6018BH)",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/backhoe_connecting_lines_6018bh.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 57.71,
+   "y": 72.19,
+   "partNo": "C32262",
+   "desc": "TUBE - pump to backhoe (rear)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 60.84,
+   "y": 95.25,
+   "partNo": "C32263",
+   "desc": "TUBE - backhoe to relief valve tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 23.34,
+   "y": 41.34,
+   "partNo": "C28278",
+   "desc": "HOSE - hydraulic",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 42.87,
+   "y": 54.28,
+   "partNo": "218-465",
+   "desc": "FITTING - 7/8\" - 14 x 1/2\" NPTF",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 27.93,
+   "y": 93.4,
+   "partNo": "C15389",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 41.8,
+   "y": 94.18,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 29.1,
+   "y": 86.01,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 29.69,
+   "y": 80.56,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 4.0,
+   "y": 25.38,
+   "partNo": "218-5265",
+   "desc": "FITTING - 9/16\" - 18 x 1/2\" female swivel NPSM",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 16.02,
+   "y": 21.88,
+   "partNo": "218-5005",
+   "desc": "\"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 32.23,
+   "y": 5.82,
+   "partNo": "218-5360",
+   "desc": "FITTING - 9/16\" x 7/8\" - 14 flare (includes 218-5005 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 41.8,
+   "y": 23.04,
+   "partNo": "C29655",
+   "desc": "TUBE - hydraulic, backhoe (in)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Use before PIN 14153035. For PIN 14153035 and after see Hydraulic System (Primary) - 6018BH PIN 14153035 and After.",
+ "dotSizePct": 3.4
+}

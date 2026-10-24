@@ -1,0 +1,210 @@
+{
+ "sectionTitle": "Electrical System",
+ "breadcrumb": "Electrical System",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/electrical_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 12.48,
+   "y": 16.86,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 17.38,
+   "y": 12.11,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 10.65,
+   "y": 36.63,
+   "partNo": "C24460",
+   "desc": "CONNECTOR - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 56.74,
+   "y": 20.06,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - inter - lock switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 95.32,
+   "y": 40.89,
+   "partNo": "C31943",
+   "desc": "CABLE - battery negative to ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 38.17,
+   "y": 77.33,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 45.57,
+   "y": 91.19,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT - 12 volt (repairs: see Headlight Assembly and Rear Reflector)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 75.59,
+   "y": 74.91,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT - 12 volt (repairs: see Headlight Assembly and Rear Reflector)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 25.66,
+   "y": 71.03,
+   "partNo": "C29322",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 86.66,
+   "y": 41.57,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 4.39,
+   "y": 26.16,
+   "partNo": "C30530",
+   "desc": "SWITCH - ignition (includes key and hardware)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 63.95,
+   "y": 23.06,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter - lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 34.22,
+   "y": 3.48,
+   "partNo": "C29413",
+   "desc": "AMMETER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 27.97,
+   "y": 50.97,
+   "partNo": "C42929",
+   "desc": "HOURMETER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 9.97,
+   "y": 53.59,
+   "partNo": "C24956",
+   "desc": "STATOR - charging",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 21.62,
+   "y": 77.04,
+   "partNo": "C32461",
+   "desc": "RECTIFIER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 78.1,
+   "y": 20.73,
+   "partNo": "C32312",
+   "desc": "STARTER AND SOLENOID - repairs: see Starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 63.86,
+   "y": 45.83,
+   "partNo": "C32294",
+   "desc": "CONTROL - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 52.21,
+   "y": 33.24,
+   "variants": [
+    {
+     "partNo": "C32298",
+     "desc": "CABLE - spark plug 9\"",
+     "reqd": "1",
+     "serialNote": "9\""
+    },
+    {
+     "partNo": "C32299",
+     "desc": "CABLE - spark plug 18-1/2\"",
+     "reqd": "1",
+     "serialNote": "18-1/2\""
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 36.43,
+   "y": 30.33,
+   "partNo": "C32454",
+   "desc": "SPARK PLUG - includes gasket",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 34.61,
+   "y": 46.41,
+   "partNo": "C32307",
+   "desc": "CONDENSER",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 49.62,
+   "y": 52.23,
+   "partNo": "C32296",
+   "desc": "COIL - ignition, 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C34746",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C32407",
+   "desc": "KEY - ignition",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.8
+}

@@ -1,0 +1,81 @@
+{
+ "sectionTitle": "Headlight Assembly and Rear Reflector",
+ "breadcrumb": "Headlight Assembly and Rear Reflector",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/headlight_rear_reflector.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 4.48,
+   "y": 33.86,
+   "partNo": "131-629",
+   "desc": "RETAINER - headlight",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 16.52,
+   "y": 81.32,
+   "partNo": "187-1334",
+   "desc": "SCREW - No. 8 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 32.09,
+   "y": 8.78,
+   "partNo": "NSS",
+   "desc": "RECEPTACLE - headlight (order C32178)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 45.2,
+   "y": 12.34,
+   "partNo": "C28932",
+   "desc": "BULB - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 48.14,
+   "y": 29.25,
+   "partNo": "C14304",
+   "desc": "GASKET - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 64.29,
+   "y": 47.21,
+   "partNo": "C14304",
+   "desc": "GASKET - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 55.97,
+   "y": 37.22,
+   "partNo": "C22573",
+   "desc": "LENS - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 87.98,
+   "y": 21.95,
+   "partNo": "C30942",
+   "desc": "REFLECTOR - red, rear fender",
+   "reqd": "2"
+  },
+  {
+   "ref": "",
+   "partNo": "C32178",
+   "desc": "HEADLIGHT ASSEMBLY",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.8
+}

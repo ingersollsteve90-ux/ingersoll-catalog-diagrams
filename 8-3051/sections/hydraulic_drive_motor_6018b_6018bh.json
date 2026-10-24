@@ -1,0 +1,167 @@
+{
+ "sectionTitle": "Hydraulic Drive Motor (6018B, 6018BH)",
+ "breadcrumb": "Hydraulic Drive Motor (6018B, 6018BH)",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/hydraulic_drive_motor_6018b_6018bh.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 3.79,
+   "y": 77.54,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 7.09,
+   "y": 72.85,
+   "partNo": "C19040",
+   "desc": "SPACER - (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 12.83,
+   "y": 67.31,
+   "partNo": "C25048",
+   "desc": "SEAL - oil (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 25.48,
+   "y": 54.21,
+   "partNo": "C14827",
+   "desc": "HOUSING ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 91.35,
+   "y": 63.39,
+   "partNo": "C14837",
+   "desc": "END CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 86.0,
+   "y": 69.6,
+   "partNo": "C18382",
+   "desc": "SEAL - (see kit below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 36.48,
+   "y": 42.83,
+   "partNo": "C18382",
+   "desc": "SEAL - (see kit below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 44.36,
+   "y": 38.24,
+   "partNo": "C14828",
+   "desc": "SHAFT - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 53.79,
+   "y": 30.21,
+   "partNo": "C14829",
+   "desc": "DRIVE LINK",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 60.51,
+   "y": 20.93,
+   "partNo": "C14830",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 73.45,
+   "y": 13.76,
+   "partNo": "C14831",
+   "desc": "ROTOR ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 79.58,
+   "y": 6.39,
+   "partNo": "C28703",
+   "desc": "PLATE - manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 57.39,
+   "y": 93.8,
+   "partNo": "C28874",
+   "desc": "MANIFOLD",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 64.2,
+   "y": 86.24,
+   "partNo": "C28701",
+   "desc": "COMMUTATOR AND RING SET",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 70.33,
+   "y": 82.04,
+   "partNo": "C19041",
+   "desc": "RING - sealing (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 77.73,
+   "y": 76.2,
+   "partNo": "C14836",
+   "desc": "SLEEVE",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 96.6,
+   "y": 50.19,
+   "partNo": "C14838",
+   "desc": "BOLT - 3/8\" x 4-3/8\" NF hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "17",
+   "x": 9.82,
+   "y": 69.99,
+   "partNo": "C19212",
+   "desc": "WASHER - back up, .010\" (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "NSS",
+   "desc": "MOTOR - hydraulic (see Hydraulic Drive System)",
+   "reqd": "1"
+  },
+  {
+   "ref": "",
+   "partNo": "C29732",
+   "desc": "KIT - \"O\" ring and seal (includes items 1, 2, 3, 6, 14 and 17)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Use before PIN 14131993. For PIN 14131993 and after see Hydraulic Drive Motor (6018).",
+ "dotSizePct": 2.9
+}

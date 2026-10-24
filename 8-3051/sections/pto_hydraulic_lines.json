@@ -1,0 +1,99 @@
+{
+ "sectionTitle": "PTO Hydraulic Lines (6018)",
+ "breadcrumb": "PTO Hydraulic Lines (6018)",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/pto_hydraulic_lines.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 65.47,
+   "y": 92.26,
+   "partNo": "C32112",
+   "desc": "TUBE - pump to PTO (rear)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 62.26,
+   "y": 73.04,
+   "partNo": "C18285",
+   "desc": "TUBE - travel valve to PTO",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 38.91,
+   "y": 85.38,
+   "partNo": "C15389",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 41.34,
+   "y": 93.79,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 40.85,
+   "y": 80.21,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 40.95,
+   "y": 72.85,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 29.28,
+   "y": 31.55,
+   "partNo": "218-5107",
+   "desc": "FITTING - 90° adjustable elbow (PTO inlet & outlet)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 12.93,
+   "y": 42.92,
+   "partNo": "218-5201",
+   "desc": "FITTING - 90° swivel 7/8\" - 14 (PTO work ports)",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 23.54,
+   "y": 47.8,
+   "partNo": "C22829",
+   "desc": "TUBE - hydraulic loop",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 39.49,
+   "y": 6.88,
+   "partNo": "C32149",
+   "desc": "HOSE - PTO valve (inlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 50.1,
+   "y": 15.58,
+   "partNo": "C32150",
+   "desc": "HOSE - PTO valve (outlet)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.8
+}

@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "Three Point Hitch",
+ "breadcrumb": "Three Point Hitch",
+ "catalogLabel": "Catalog 8-3051",
+ "modelNumbers": "Catalog 8-3051 — Ingersoll 6018, 6018BH and 6018B Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3051/three_point_hitch.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 26.15,
+   "y": 10.05,
+   "partNo": "C32215",
+   "desc": "PLATE - hitch",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 18.66,
+   "y": 71.33,
+   "partNo": "C32230",
+   "desc": "SWIVEL - lift link",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 17.39,
+   "y": 63.7,
+   "partNo": "C32231",
+   "desc": "PIN - spirol 3/16\" x 1-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 40.85,
+   "y": 5.51,
+   "partNo": "219-403",
+   "desc": "FITTING - grease",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 17.1,
+   "y": 79.91,
+   "partNo": "C32428",
+   "desc": "LINK - adjusting",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 11.75,
+   "y": 40.64,
+   "partNo": "C32235",
+   "desc": "BOLT - 5/8\" - 11 x 5\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 7.37,
+   "y": 58.3,
+   "partNo": "C32239",
+   "desc": "SPACER - bolt",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 6.88,
+   "y": 73.84,
+   "partNo": "129-107",
+   "desc": "NUT - 5/8\" - 11",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 60.71,
+   "y": 74.51,
+   "partNo": "C32240",
+   "desc": "ARM - lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 46.11,
+   "y": 43.92,
+   "partNo": "C32242",
+   "desc": "ARM - stabilizer",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 83.48,
+   "y": 23.46,
+   "partNo": "C32249",
+   "desc": "TUBE - upper link",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 94.87,
+   "y": 32.44,
+   "partNo": "C32426",
+   "desc": "BALLJOINT - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 62.75,
+   "y": 24.24,
+   "partNo": "C32427",
+   "desc": "BALLJOINT - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 29.46,
+   "y": 56.27,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 24.21,
+   "y": 53.09,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 29.46,
+   "y": 69.78,
+   "partNo": "C14717",
+   "desc": "PIN - clevis 5/8\" x 2-1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 53.6,
+   "y": 12.75,
+   "partNo": "C14717",
+   "desc": "PIN - clevis 5/8\" x 2-1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 4.06,
+   "y": 88.79,
+   "partNo": "C14717",
+   "desc": "PIN - clevis 5/8\" x 2-1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 64.02,
+   "y": 54.44,
+   "partNo": "C28222",
+   "desc": "PIN - klick",
+   "reqd": "9"
+  },
+  {
+   "ref": "17",
+   "x": 65.57,
+   "y": 39.87,
+   "partNo": "C28222",
+   "desc": "PIN - klick",
+   "reqd": "9"
+  },
+  {
+   "ref": "17",
+   "x": 70.73,
+   "y": 7.35,
+   "partNo": "C28222",
+   "desc": "PIN - klick",
+   "reqd": "9"
+  },
+  {
+   "ref": "18",
+   "x": 48.15,
+   "y": 35.14,
+   "partNo": "138-2073",
+   "desc": "PIN - spirol 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 41.05,
+   "y": 46.14,
+   "partNo": "C14768",
+   "desc": "SPACER - klick pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 64.5,
+   "y": 46.24,
+   "partNo": "C14768",
+   "desc": "SPACER - klick pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 56.52,
+   "y": 65.92,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 53.99,
+   "y": 36.97,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.0
+}
