@@ -1,0 +1,65 @@
+{
+ "sectionTitle": "Engine Oil Drain",
+ "breadcrumb": "Engine Oil Drain",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/engine_oil_drain.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 32.42,
+   "y": 18.33,
+   "variants": [
+    {
+     "serialNote": "Onan engine",
+     "partNo": "C14399",
+     "desc": "PLUG - oil drain (Onan engine)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Kohler engine",
+     "partNo": "218-5154",
+     "desc": "PLUG - oil drain (Kohler engine)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 47.94,
+   "y": 31.15,
+   "partNo": "C14906",
+   "desc": "GASKET - oil drain (Onan engine)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 65.71,
+   "y": 47.85,
+   "variants": [
+    {
+     "serialNote": "Onan engine",
+     "partNo": "C19473",
+     "desc": "NIPPLE - pipe 2.5\" (Onan engine)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Kohler engine",
+     "partNo": "C37148",
+     "desc": "NIPPLE - pipe 3/8\" x 2\" (Kohler engine)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 85.9,
+   "y": 59.36,
+   "partNo": "221-86",
+   "desc": "REDUCER - pipe 3/8\" - 14 to 1/4\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 7.3
+}

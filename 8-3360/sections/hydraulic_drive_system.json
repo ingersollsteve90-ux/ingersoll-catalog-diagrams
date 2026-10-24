@@ -1,0 +1,190 @@
+{
+ "sectionTitle": "Hydraulic Drive System",
+ "breadcrumb": "Hydraulic Drive System",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/hydraulic_drive_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 49.61,
+   "y": 39.72,
+   "partNo": "218-5154",
+   "desc": "PLUG - 1/2\" - 20",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "2",
+   "x": 54.06,
+   "y": 30.16,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 14.68,
+   "y": 14.85,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 52.53,
+   "y": 67.62,
+   "partNo": "C45913",
+   "desc": "TUBE - travel valve to motor (upper port)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 50.88,
+   "y": 90.25,
+   "partNo": "C45914",
+   "desc": "TUBE - travel valve to motor (lower port)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 39.36,
+   "y": 32.78,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 93.72,
+   "y": 38.48,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 27.94,
+   "y": 51.33,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 54.85,
+   "y": 72.79,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "7",
+   "x": 88.19,
+   "y": 58.3,
+   "partNo": "218-5065",
+   "desc": "FITTING - 3/4\" x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 19.72,
+   "y": 9.78,
+   "partNo": "166-86",
+   "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 73.14,
+   "y": 89.03,
+   "partNo": "218-5232",
+   "desc": "FITTING - 90° elbow 5/8\" x 7/8\" - 14",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 6.05,
+   "y": 31.83,
+   "partNo": "C28949",
+   "desc": "SEAL - motor to case",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 39.0,
+   "y": 17.35,
+   "partNo": "C46957",
+   "desc": "MOTOR - hydraulic (repairs: see the Hydraulic Drive Motor section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 82.12,
+   "y": 25.41,
+   "variants": [
+    {
+     "serialNote": "6018, 6020L",
+     "partNo": "C45909",
+     "desc": "VALVE - travel control (6018, 6020L) (repairs: see the Hydraulic Control Valve (Tractor) section)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6018BH, 6020BH",
+     "partNo": "C46972",
+     "desc": "VALVE - travel control (6018BH, 6020BH) (repairs: see the Hydraulic Control Valve (Tractor) section)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 65.88,
+   "y": 9.78,
+   "partNo": "C27764",
+   "desc": "SCREW - 5/16\" - 18 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 54.39,
+   "y": 36.41,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 57.96,
+   "y": 48.17,
+   "partNo": "218-5056",
+   "desc": "FITTING - 5/16\" tube x 1/2\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 79.14,
+   "y": 62.17,
+   "partNo": "218-5056",
+   "desc": "FITTING - 5/16\" tube x 1/2\" - 20",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 58.18,
+   "y": 54.93,
+   "partNo": "218-513",
+   "desc": "CAP - fitting",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "16",
+   "x": 77.5,
+   "y": 70.72,
+   "partNo": "218-513",
+   "desc": "CAP - fitting",
+   "reqd": "UAR"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.19
+}

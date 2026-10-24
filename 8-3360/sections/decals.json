@@ -1,0 +1,166 @@
+{
+ "sectionTitle": "Decals",
+ "breadcrumb": "Decals",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/decals.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 25.35,
+   "y": 4.74,
+   "partNo": "C34747",
+   "desc": "DECAL - instrument panel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 73.33,
+   "y": 28.15,
+   "partNo": "C31991",
+   "desc": "DECAL - \"6018\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 44.94,
+   "y": 76.48,
+   "partNo": "C46326",
+   "desc": "DECAL - \"Warning\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 40.12,
+   "y": 45.23,
+   "partNo": "C14539",
+   "desc": "DECAL - oil, hydraulic reservoir",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 40.03,
+   "y": 52.39,
+   "partNo": "C14066",
+   "desc": "DECAL - gasoline",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 58.46,
+   "y": 59.17,
+   "partNo": "C34170",
+   "desc": "DECAL - grease",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 11.57,
+   "y": 76.26,
+   "partNo": "C34775",
+   "desc": "DECAL - travel control",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 21.22,
+   "y": 49.43,
+   "partNo": "C34776",
+   "desc": "DECAL - range selector (6018, 6018BH) (6020L, 6020BH) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 76.31,
+   "y": 5.43,
+   "partNo": "C46958",
+   "desc": "DECAL - \"Important\" hose routing (6018BH, 6020BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 77.44,
+   "y": 58.01,
+   "partNo": "C34750",
+   "desc": "DECAL - fuse",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 39.9,
+   "y": 66.13,
+   "partNo": "C34769",
+   "desc": "DECAL - \"INGERSOLL\" loader arms and backhoe",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "12",
+   "x": 17.74,
+   "y": 42.18,
+   "partNo": "C34749",
+   "desc": "DECAL - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 79.72,
+   "y": 79.03,
+   "partNo": "C34777",
+   "desc": "DECAL - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 26.5,
+   "y": 59.96,
+   "variants": [
+    {
+     "serialNote": "red and black, 6018BH, 6020BH",
+     "partNo": "C34772",
+     "desc": "DECAL - stripe (red and black) (6018BH, 6020BH)",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "silver and black, 6018, 6020L",
+     "partNo": "C34773",
+     "desc": "DECAL - stripe (silver and black) (6018, 6020L)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 16.8,
+   "y": 35.31,
+   "partNo": "C34184",
+   "desc": "DECAL - flag",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 71.82,
+   "y": 41.7,
+   "partNo": "C46814",
+   "desc": "DECAL - \"6020\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 10.62,
+   "y": 47.28,
+   "partNo": "C37197",
+   "desc": "DECAL - steering wheel center",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 44.83,
+   "y": 37.03,
+   "partNo": "C47147",
+   "desc": "DECAL - range selector (6020L, 6020BH) **",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Use before PIN: 6020L 17193591, 6020BH 17193505. ** Use PIN and after: 6020L 17193591, 6020BH 17193505.",
+ "dotSizePct": 2.46
+}

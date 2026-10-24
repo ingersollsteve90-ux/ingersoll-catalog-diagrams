@@ -1,0 +1,115 @@
+{
+ "sectionTitle": "Manual Pump (Power Steering)",
+ "breadcrumb": "Manual Pump (Power Steering)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/manual_pump_power_steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 72.78,
+   "y": 92.5,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 84.12,
+   "y": 73.61,
+   "partNo": "NSS",
+   "desc": "SEAL - face",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 37.79,
+   "y": 14.88,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 36.63,
+   "y": 9.43,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 55.04,
+   "y": 23.46,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 26.94,
+   "y": 29.49,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 73.94,
+   "y": 37.67,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 90.22,
+   "y": 49.26,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 13.36,
+   "y": 9.43,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 35.85,
+   "y": 37.77,
+   "partNo": "NSS",
+   "desc": "SEAL - commutator",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C46447",
+   "desc": "PUMP - steering, manual, five port (shown)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "PUMP - steering, manual, four port (use C46459 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C46453",
+   "desc": "KIT - seal (for five port steering pump)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C30281",
+   "desc": "KIT - seal (for four port steering pump)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.57
+}

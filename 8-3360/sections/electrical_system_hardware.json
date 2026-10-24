@@ -1,0 +1,267 @@
+{
+ "sectionTitle": "Electrical System Hardware",
+ "breadcrumb": "Electrical System Hardware",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/electrical_system_hardware.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 23.33,
+   "y": 16.11,
+   "partNo": "C33475",
+   "desc": "RETAINER - battery (current production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 25.18,
+   "y": 20.92,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 71.02,
+   "y": 34.31,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 92.77,
+   "y": 62.44,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 78.43,
+   "y": 68.19,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 5.57,
+   "y": 87.2,
+   "partNo": "182-10",
+   "desc": "SCREW - #4 - 40 x 7/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 24.59,
+   "y": 87.48,
+   "partNo": "C33697",
+   "desc": "NUT - #4 - 40",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 8.01,
+   "y": 62.07,
+   "partNo": "C22947",
+   "desc": "TIE - wire",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "7",
+   "x": 65.75,
+   "y": 79.13,
+   "partNo": "131-971",
+   "desc": "NUT - #8 - 32 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 38.44,
+   "y": 63.44,
+   "partNo": "129-27",
+   "desc": "NUT - #10 NF",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 47.91,
+   "y": 83.62,
+   "partNo": "129-27",
+   "desc": "NUT - #10 NF",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 49.56,
+   "y": 76.39,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - #10",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 44.59,
+   "y": 12.35,
+   "partNo": "C24069",
+   "desc": "COVER - battery positive terminal",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 91.3,
+   "y": 23.6,
+   "partNo": "C32396",
+   "desc": "NUT - switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 87.8,
+   "y": 20.26,
+   "partNo": "C32397",
+   "desc": "CAP - nut",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 66.63,
+   "y": 9.64,
+   "partNo": "C19521",
+   "desc": "CLIP - wire",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "14",
+   "x": 34.15,
+   "y": 20.92,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 8.0,
+   "y": 32.18,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 71.11,
+   "y": 48.95,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 92.58,
+   "y": 81.86,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 23.52,
+   "y": 28.84,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 42.83,
+   "y": 33.18,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 88.48,
+   "y": 57.91,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 81.06,
+   "y": 16.43,
+   "partNo": "C32407",
+   "desc": "KEY - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 94.53,
+   "y": 26.71,
+   "partNo": "193-63",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 37.17,
+   "y": 24.69,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 13.77,
+   "y": 42.23,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 54.54,
+   "y": 18.13,
+   "partNo": "C28962",
+   "desc": "CLIP - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 56.38,
+   "y": 26.24,
+   "partNo": "C31618",
+   "desc": "COVER - starter terminal",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 56.76,
+   "y": 30.26,
+   "partNo": "C44079",
+   "desc": "INSULATOR - starter terminal (6020L, 6020BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 71.37,
+   "y": 40.29,
+   "partNo": "C32455",
+   "desc": "CLIP - \"J\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "23",
+   "x": 25.61,
+   "y": 8.47,
+   "partNo": "C16239",
+   "desc": "STRAP - battery hold down (early production)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.05
+}

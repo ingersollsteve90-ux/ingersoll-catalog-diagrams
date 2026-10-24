@@ -1,0 +1,469 @@
+{
+ "sectionTitle": "Transmission and Final Drive (Before PIN Break)",
+ "breadcrumb": "Transmission and Final Drive (Before PIN Break)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/transmission_final_drive_before_pin.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 58.76,
+   "y": 85.0,
+   "partNo": "NSS",
+   "desc": "CASE - transmission (order assembly above)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 66.96,
+   "y": 29.8,
+   "partNo": "C12713",
+   "desc": "BEARING - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 16.74,
+   "y": 48.07,
+   "partNo": "C12713",
+   "desc": "BEARING - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 70.45,
+   "y": 66.73,
+   "variants": [
+    {
+     "serialNote": "6018, 6020L",
+     "partNo": "C24804",
+     "desc": "BEARING - flanged (6018, 6020L)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "6018BH, 6020BH",
+     "partNo": "C26245",
+     "desc": "BEARING - flanged (6018BH, 6020BH)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 28.04,
+   "y": 77.0,
+   "variants": [
+    {
+     "serialNote": "6018, 6020L",
+     "partNo": "C24804",
+     "desc": "BEARING - flanged (6018, 6020L)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "6018BH, 6020BH",
+     "partNo": "C26245",
+     "desc": "BEARING - flanged (6018BH, 6020BH)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 80.44,
+   "y": 58.07,
+   "variants": [
+    {
+     "serialNote": "6018BH, 6020BH",
+     "partNo": "C32891",
+     "desc": "SEAL - axle (6018BH, 6020BH)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "6018, 6020L",
+     "partNo": "C24803",
+     "desc": "SEAL - axle (6018, 6020L)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 24.28,
+   "y": 78.81,
+   "variants": [
+    {
+     "serialNote": "6018BH, 6020BH",
+     "partNo": "C32891",
+     "desc": "SEAL - axle (6018BH, 6020BH)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "6018, 6020L",
+     "partNo": "C24803",
+     "desc": "SEAL - axle (6018, 6020L)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 29.17,
+   "y": 21.81,
+   "partNo": "C13241",
+   "desc": "BEARING - sleeve",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 43.4,
+   "y": 89.18,
+   "partNo": "C13385",
+   "desc": "BEARING - sleeve",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 75.54,
+   "y": 72.44,
+   "partNo": "C13266",
+   "desc": "SEAL - shift rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 40.11,
+   "y": 55.97,
+   "partNo": "C28281",
+   "desc": "BEARING - roller",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 39.54,
+   "y": 91.18,
+   "partNo": "C24803",
+   "desc": "SEAL - shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 38.6,
+   "y": 60.82,
+   "variants": [
+    {
+     "serialNote": "PLUG - filler and drain 3/8\" square head",
+     "partNo": "221-3",
+     "desc": "PLUG - filler and drain 3/8\" square head",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "PLUG - pipe 3/8\" hex socket",
+     "partNo": "221-1842",
+     "desc": "PLUG - pipe 3/8\" hex socket",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 53.58,
+   "y": 85.66,
+   "variants": [
+    {
+     "serialNote": "PLUG - filler and drain 3/8\" square head",
+     "partNo": "221-3",
+     "desc": "PLUG - filler and drain 3/8\" square head",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "PLUG - pipe 3/8\" hex socket",
+     "partNo": "221-1842",
+     "desc": "PLUG - pipe 3/8\" hex socket",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 5.9,
+   "y": 83.86,
+   "partNo": "C22638",
+   "desc": "SHAFT - axle, short R.H. (6018, 6020L)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 93.06,
+   "y": 49.4,
+   "partNo": "C22637",
+   "desc": "SHAFT - axle, long L.H. (6018, 6020L)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 69.13,
+   "y": 10.48,
+   "partNo": "C36935",
+   "desc": "COVER - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 91.46,
+   "y": 71.48,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 36.05,
+   "y": 27.42,
+   "partNo": "C26342",
+   "desc": "RING - retainer, axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 16.36,
+   "y": 25.52,
+   "partNo": "126-128",
+   "desc": "KEY - woodruff, brake idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 64.04,
+   "y": 21.33,
+   "partNo": "C13196",
+   "desc": "GASKET - transmission cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 42.93,
+   "y": 4.77,
+   "partNo": "C28241",
+   "desc": "BREATHER - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 62.53,
+   "y": 8.96,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 62.72,
+   "y": 5.34,
+   "partNo": "187-C2",
+   "desc": "SCREW - 1/4\" - 20 x 1\" tap",
+   "reqd": "6"
+  },
+  {
+   "ref": "21",
+   "x": 57.82,
+   "y": 45.41,
+   "partNo": "C22660",
+   "desc": "FORK - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 82.79,
+   "y": 69.1,
+   "partNo": "C37222",
+   "desc": "ROD - gear shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 63.66,
+   "y": 44.36,
+   "partNo": "C14168",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 51.88,
+   "y": 56.16,
+   "partNo": "C14168",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 46.61,
+   "y": 53.21,
+   "variants": [
+    {
+     "serialNote": "20° angle teeth",
+     "partNo": "C36901",
+     "desc": "GEAR - cluster input (20° angle teeth)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "25° angle teeth",
+     "partNo": "C47670",
+     "desc": "GEAR - cluster input (25° angle teeth)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "25",
+   "x": 25.31,
+   "y": 50.17,
+   "partNo": "C14223",
+   "desc": "WASHER - spacer",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "26",
+   "x": 21.45,
+   "y": 23.9,
+   "variants": [
+    {
+     "serialNote": "20° angle teeth",
+     "partNo": "C33417",
+     "desc": "GEAR - brake idler (20° angle teeth)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "25° angle teeth",
+     "partNo": "C46927",
+     "desc": "GEAR - brake idler (25° angle teeth)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "27",
+   "x": 26.25,
+   "y": 22.95,
+   "partNo": "C14222",
+   "desc": "RING - retainer, brake idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 36.24,
+   "y": 93.28,
+   "partNo": "C33305",
+   "desc": "BRAKE DRUM",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 33.7,
+   "y": 5.82,
+   "variants": [
+    {
+     "serialNote": "BOLT - 1/2\" x 1-1/4\" NC transaxle mounting",
+     "partNo": "113-417",
+     "desc": "BOLT - 1/2\" x 1-1/4\" NC transaxle mounting",
+     "reqd": "6"
+    },
+    {
+     "serialNote": "BOLT - 1/2\" - 13 x 1-1/4\", 12 pt. flange",
+     "partNo": "166-86",
+     "desc": "BOLT - 1/2\" - 13 x 1-1/4\", 12 pt. flange",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 34.36,
+   "y": 9.24,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "31",
+   "x": 86.94,
+   "y": 46.74,
+   "partNo": "C26250",
+   "desc": "SHAFT - axle, long L.H. (6018BH, 6020BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 11.84,
+   "y": 71.86,
+   "partNo": "C26249",
+   "desc": "SHAFT - axle, short R.H. (6018BH, 6020BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 28.23,
+   "y": 38.56,
+   "variants": [
+    {
+     "serialNote": "20° angle teeth",
+     "partNo": "NSS",
+     "desc": "DIFFERENTIAL - (20° angle teeth) (use C47667 kit - includes items 24, 26 and 33)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "25° angle teeth",
+     "partNo": "C46929",
+     "desc": "DIFFERENTIAL - (25° angle teeth) (also includes item 34)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "34",
+   "x": 30.12,
+   "y": 52.83,
+   "partNo": "C30031",
+   "desc": "KIT - bolt (set of four)",
+   "reqd": "4"
+  },
+  {
+   "ref": "35",
+   "x": 94.1,
+   "y": 63.78,
+   "partNo": "195-541",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 60.46,
+   "y": 35.51,
+   "partNo": "C12718",
+   "desc": "WASHER - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 24.56,
+   "y": 43.79,
+   "partNo": "C12718",
+   "desc": "WASHER - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "C26322",
+   "desc": "CASE ASSEMBLY - (6018BH, 6020BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C47666",
+   "desc": "CASE ASSEMBLY - (6018, 6020L)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to 6018 and 6018BH (all), 6020L before PIN 17193591 and 6020BH before PIN 17193505. * Use before PIN: 6018BH 17191925, 6020BH 17191997. ** Use PIN and after: 6018BH 17191925, 6020BH 17191997. 6018, 6020L: you must determine whether the gear teeth are a 20° or 25° angle to get the correct part. A 1/8\" drill bit fits loosely between two teeth of a 20° gear and snugly between the teeth of a 25° gear (see the inset on the diagram).",
+ "dotSizePct": 2.71
+}

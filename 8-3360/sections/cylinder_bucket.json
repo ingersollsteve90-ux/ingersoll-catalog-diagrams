@@ -1,0 +1,65 @@
+{
+ "sectionTitle": "Cylinder - Bucket",
+ "breadcrumb": "Cylinder - Bucket",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/cylinder_bucket.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 62.42,
+   "y": 85.41,
+   "partNo": "C26432",
+   "desc": "CYLINDER - bucket",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 89.19,
+   "y": 24.37,
+   "partNo": "NSS",
+   "desc": "SEAL - wiper",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 73.71,
+   "y": 16.95,
+   "partNo": "NSS",
+   "desc": "\"O\" RING AND SEAL - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 80.97,
+   "y": 15.92,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - body",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 24.16,
+   "y": 15.92,
+   "partNo": "NSS",
+   "desc": "SEAL - piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 23.19,
+   "y": 76.21,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C26444",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.26
+}

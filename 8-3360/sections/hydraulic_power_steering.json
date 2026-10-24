@@ -1,0 +1,301 @@
+{
+ "sectionTitle": "Hydraulic Power Steering System",
+ "breadcrumb": "Hydraulic Power Steering System",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/hydraulic_power_steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.52,
+   "y": 58.61,
+   "partNo": "218-5058",
+   "desc": "FITTING - 3/8\" tube x 3/4\" - 16 straight (includes \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 54.58,
+   "y": 52.49,
+   "variants": [
+    {
+     "serialNote": "use before PIN 17191257",
+     "partNo": "C32126",
+     "desc": "TUBE - steering to loader valve (in) (use before PIN 17191257)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "use PIN 17191257 and after",
+     "partNo": "C46524",
+     "desc": "TUBE - steering to loader valve (in) (use PIN 17191257 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 58.88,
+   "y": 47.11,
+   "variants": [
+    {
+     "serialNote": "use before PIN 17191257",
+     "partNo": "C32401",
+     "desc": "TUBE - steering (in) to relief valve tee (use before PIN 17191257)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "use PIN 17191257 and after",
+     "partNo": "C46525",
+     "desc": "TUBE - steering (in) to relief valve tee (use PIN 17191257 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 7.24,
+   "y": 16.17,
+   "partNo": "C47106",
+   "desc": "WHEEL - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 25.34,
+   "y": 11.06,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "C47107",
+     "desc": "CAP - steering wheel",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Early production",
+     "partNo": "C46940",
+     "desc": "CAP - steering wheel (early production)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 25.14,
+   "y": 16.17,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 66.51,
+   "y": 12.79,
+   "variants": [
+    {
+     "serialNote": "Before PIN 17191257 (kit replaces four-port pump)",
+     "partNo": "C46459",
+     "desc": "KIT - steering pump (use to replace four port pump) (use before PIN 17191257)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "PIN 17191257 and after (five-port pump)",
+     "partNo": "C46447",
+     "desc": "PUMP - steering, five port (repairs: see the Manual Pump (Power Steering) section) (use PIN 17191257 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 52.33,
+   "y": 7.78,
+   "partNo": "C27991",
+   "desc": "NUT - 5/16\" - 24 acorn, black",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 86.66,
+   "y": 61.89,
+   "partNo": "218-5105",
+   "desc": "FITTING - 90° elbow, adjustable",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 94.71,
+   "y": 65.98,
+   "partNo": "218-5105",
+   "desc": "FITTING - 90° elbow, adjustable",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 93.8,
+   "y": 73.85,
+   "partNo": "218-5005",
+   "desc": "\"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 85.39,
+   "y": 75.22,
+   "partNo": "218-5005",
+   "desc": "\"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 61.91,
+   "y": 59.42,
+   "partNo": "C32399",
+   "desc": "HOSE - steering pump (L.T.) to cylinder, 25\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 71.2,
+   "y": 47.47,
+   "partNo": "C32125",
+   "desc": "HOSE - steering pump (R.T.) to cylinder, 31\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 84.23,
+   "y": 93.06,
+   "partNo": "C32027",
+   "desc": "CYLINDER - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 62.12,
+   "y": 70.59,
+   "partNo": "C14717",
+   "desc": "PIN - clevis 5/8\" (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 61.73,
+   "y": 74.91,
+   "partNo": "195-541",
+   "desc": "WASHER - .656\" I.D. x 1.31\" O.D. (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 61.54,
+   "y": 78.75,
+   "partNo": "132-91",
+   "desc": "PIN - cotter 3/16\" x 1\" (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 50.38,
+   "y": 18.45,
+   "partNo": "195-C2",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 47.44,
+   "y": 23.28,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 43.62,
+   "y": 29.58,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 55.75,
+   "y": 30.68,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 69.93,
+   "y": 31.32,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 40.3,
+   "y": 32.96,
+   "partNo": "218-5057",
+   "desc": "FITTING - 3/8\" tube x 9/16\" - 18 (includes 218-5005 \"O\" ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "19",
+   "x": 44.12,
+   "y": 65.72,
+   "partNo": "C46523",
+   "desc": "TUBE - steering (out) to return tee (use PIN 17191257 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 25.34,
+   "y": 7.05,
+   "partNo": "C42592",
+   "desc": "SCREW - #7 - 19 x 3/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "21",
+   "x": 50.28,
+   "y": 13.07,
+   "partNo": "129-122",
+   "desc": "NUT - 5/16\" - 24",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 72.89,
+   "y": 75.58,
+   "partNo": "113-626",
+   "desc": "BOLT - 5/8\" - 11 x 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 72.5,
+   "y": 87.78,
+   "partNo": "192-25",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 75.39,
+   "y": 93.83,
+   "partNo": "129-107",
+   "desc": "NUT - 5/8\" - 11",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C26443",
+   "desc": "KIT - gasket",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.85
+}

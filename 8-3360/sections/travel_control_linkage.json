@@ -1,0 +1,259 @@
+{
+ "sectionTitle": "Travel Control Linkage",
+ "breadcrumb": "Travel Control Linkage",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/travel_control_linkage.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 30.41,
+   "y": 45.19,
+   "partNo": "C29801",
+   "desc": "ARM - control",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 35.77,
+   "y": 34.05,
+   "partNo": "C29764",
+   "desc": "BUSHING - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 46.73,
+   "y": 35.12,
+   "partNo": "C29800",
+   "desc": "BUSHING - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 59.63,
+   "y": 17.59,
+   "partNo": "132-334",
+   "desc": "PIN - cotter 1/8\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 38.18,
+   "y": 12.01,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 40.0,
+   "y": 27.06,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 47.06,
+   "y": 91.51,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 22.41,
+   "y": 84.15,
+   "partNo": "C26680",
+   "desc": "PEDAL - travel control",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 48.44,
+   "y": 72.44,
+   "partNo": "C26424",
+   "desc": "ROD - pedal control",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 46.64,
+   "y": 94.41,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 22.65,
+   "y": 73.98,
+   "partNo": "C18277",
+   "desc": "SPRING - pedal return",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 74.67,
+   "y": 69.25,
+   "partNo": "C17551",
+   "desc": "DISC - friction",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 72.97,
+   "y": 72.8,
+   "partNo": "C26266",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 74.56,
+   "y": 79.07,
+   "partNo": "C18391",
+   "desc": "WASHER - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 74.1,
+   "y": 82.28,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 73.08,
+   "y": 87.02,
+   "partNo": "131-165",
+   "desc": "NUT - 1/2\" NC hex lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 63.27,
+   "y": 47.68,
+   "partNo": "C23514",
+   "desc": "FOLLOWER - cam",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 80.95,
+   "y": 18.53,
+   "partNo": "C46487",
+   "desc": "LEVER - direction control",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 54.71,
+   "y": 64.26,
+   "partNo": "193-29",
+   "desc": "LOCKWASHER - 5/16\" (internal tooth)",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 58.82,
+   "y": 62.25,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18 N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 46.5,
+   "y": 29.08,
+   "partNo": "C29803",
+   "desc": "ROD - valve control",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 46.84,
+   "y": 48.86,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 45.02,
+   "y": 15.56,
+   "partNo": "C19025",
+   "desc": "BALLJOINT",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 51.97,
+   "y": 18.29,
+   "partNo": "129-122",
+   "desc": "NUT - 5/16\" NF hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 56.65,
+   "y": 52.77,
+   "partNo": "132-333",
+   "desc": "PIN - cotter 1/8\" x 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 93.68,
+   "y": 13.44,
+   "partNo": "C46481",
+   "desc": "GRIP - control lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 72.51,
+   "y": 37.61,
+   "partNo": "353-442",
+   "desc": "BUSHING - lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 61.56,
+   "y": 30.97,
+   "partNo": "195-520",
+   "desc": "WASHER - spacer",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "27",
+   "x": 62.01,
+   "y": 33.46,
+   "partNo": "C19377",
+   "desc": "WASHER - spacer, 1/32\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "28",
+   "x": 28.47,
+   "y": 51.71,
+   "partNo": "C33315",
+   "desc": "BRACKET - valve control",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 22.31,
+   "y": 56.79,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" x 3/4\" N.C. hex",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.56
+}

@@ -1,0 +1,238 @@
+{
+ "sectionTitle": "Three Point Hitch",
+ "breadcrumb": "Three Point Hitch",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/three_point_hitch.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 22.92,
+   "y": 19.4,
+   "partNo": "C46350",
+   "desc": "PLATE - hitch",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 9.13,
+   "y": 64.38,
+   "partNo": "C44058",
+   "desc": "SWIVEL - lift link",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 22.04,
+   "y": 61.51,
+   "partNo": "C32231",
+   "desc": "PIN - 3/16\" x 1-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 37.98,
+   "y": 7.43,
+   "partNo": "219-403",
+   "desc": "FITTING - grease",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 10.3,
+   "y": 78.29,
+   "partNo": "C32428",
+   "desc": "LINK - adjusting",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 9.62,
+   "y": 49.26,
+   "partNo": "C32235",
+   "desc": "BOLT - 5/8\" - 11 x 5\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 9.52,
+   "y": 58.16,
+   "partNo": "C32239",
+   "desc": "SPACER - bolt",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 10.2,
+   "y": 70.13,
+   "partNo": "129-107",
+   "desc": "NUT - 5/8\" - 11",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 48.15,
+   "y": 75.97,
+   "partNo": "C32240",
+   "desc": "ARM - lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 49.03,
+   "y": 42.12,
+   "partNo": "C32242",
+   "desc": "ARM - stabilizer",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 77.98,
+   "y": 20.6,
+   "partNo": "C32249",
+   "desc": "TUBE - upper link",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 93.42,
+   "y": 33.03,
+   "partNo": "C32426",
+   "desc": "BALLJOINT - R.H. thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 59.59,
+   "y": 10.03,
+   "partNo": "C32427",
+   "desc": "BALLJOINT - L.H. thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 33.38,
+   "y": 56.68,
+   "variants": [
+    {
+     "serialNote": "BOLT - 1/2\" - 13 x 1-1/4\"",
+     "partNo": "113-417",
+     "desc": "BOLT - 1/2\" - 13 x 1-1/4\"",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "BOLT - 1/2\" - 13 x 1\"",
+     "partNo": "113-424",
+     "desc": "BOLT - 1/2\" - 13 x 1\"",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 29.76,
+   "y": 55.29,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 55.28,
+   "y": 14.67,
+   "partNo": "C14717",
+   "desc": "PIN - clevis 5/8\" x 2-1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 29.37,
+   "y": 66.42,
+   "partNo": "C14717",
+   "desc": "PIN - clevis 5/8\" x 2-1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 5.12,
+   "y": 85.89,
+   "partNo": "C14717",
+   "desc": "PIN - clevis 5/8\" x 2-1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 64.28,
+   "y": 6.69,
+   "partNo": "C28222",
+   "desc": "PIN - click",
+   "reqd": "9"
+  },
+  {
+   "ref": "17",
+   "x": 59.98,
+   "y": 32.85,
+   "partNo": "C28222",
+   "desc": "PIN - click",
+   "reqd": "9"
+  },
+  {
+   "ref": "17",
+   "x": 43.26,
+   "y": 44.53,
+   "partNo": "C28222",
+   "desc": "PIN - click",
+   "reqd": "9"
+  },
+  {
+   "ref": "17",
+   "x": 61.83,
+   "y": 62.24,
+   "partNo": "C28222",
+   "desc": "PIN - click",
+   "reqd": "9"
+  },
+  {
+   "ref": "18",
+   "x": 51.77,
+   "y": 34.7,
+   "partNo": "138-2073",
+   "desc": "PIN - 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 66.73,
+   "y": 45.83,
+   "partNo": "C14768",
+   "desc": "SPACER - click pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 55.68,
+   "y": 36.56,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 57.63,
+   "y": 65.22,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 25.26,
+   "y": 53.43,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.83
+}

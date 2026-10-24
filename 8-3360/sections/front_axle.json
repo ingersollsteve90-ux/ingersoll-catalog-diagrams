@@ -1,0 +1,235 @@
+{
+ "sectionTitle": "Front Axle",
+ "breadcrumb": "Front Axle",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/front_axle.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 74.89,
+   "y": 46.18,
+   "partNo": "C17296",
+   "desc": "AXLE - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 89.38,
+   "y": 72.43,
+   "partNo": "C47102",
+   "desc": "SPINDLE - L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 92.95,
+   "y": 72.53,
+   "partNo": "C47103",
+   "desc": "SPINDLE - R.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 46.97,
+   "y": 33.73,
+   "partNo": "192-25",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 53.83,
+   "y": 80.29,
+   "partNo": "192-25",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 72.28,
+   "y": 28.18,
+   "partNo": "C30163",
+   "desc": "ARM - upper, spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 63.68,
+   "y": 6.91,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" x 1-1/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 67.93,
+   "y": 16.58,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 70.25,
+   "y": 22.14,
+   "partNo": "195-536",
+   "desc": "WASHER - 9/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 73.34,
+   "y": 37.28,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 21.47,
+   "y": 48.87,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 77.5,
+   "y": 58.83,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 22.15,
+   "y": 42.74,
+   "partNo": "C28248",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 20.99,
+   "y": 54.23,
+   "partNo": "C33419",
+   "desc": "BUSHING - spindle 1-1/4\" length",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 17.99,
+   "y": 75.98,
+   "partNo": "C33419",
+   "desc": "BUSHING - spindle 1-1/4\" length",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 18.38,
+   "y": 70.23,
+   "partNo": "C33418",
+   "desc": "SPACER - bushing",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 40.98,
+   "y": 67.07,
+   "partNo": "219-17",
+   "desc": "FITTING - lubrication",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 43.59,
+   "y": 71.09,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 33.45,
+   "y": 91.4,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 40.5,
+   "y": 87.09,
+   "partNo": "C25942",
+   "desc": "TIE ROD",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 46.59,
+   "y": 38.23,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 53.06,
+   "y": 61.7,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 15.19,
+   "y": 81.82,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 59.05,
+   "y": 88.52,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 7.17,
+   "y": 85.65,
+   "partNo": "C46653",
+   "desc": "BALL JOINT - R.H. (includes lube fitting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 36.15,
+   "y": 12.47,
+   "partNo": "C46654",
+   "desc": "BALL JOINT - L. H. (includes lube fitting)",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 57.11,
+   "y": 58.54,
+   "partNo": "C46654",
+   "desc": "BALL JOINT - L. H. (includes lube fitting)",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 29.1,
+   "y": 87.95,
+   "partNo": "219-413",
+   "desc": "FITTING - lubrication",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.93
+}

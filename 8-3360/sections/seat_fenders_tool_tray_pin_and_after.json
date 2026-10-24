@@ -1,0 +1,517 @@
+{
+ "sectionTitle": "Seat, Fenders and Tool Tray (PIN Break and After)",
+ "breadcrumb": "Seat, Fenders and Tool Tray (PIN Break and After)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/seat_fenders_tool_tray_pin_and_after.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 51.08,
+   "y": 74.88,
+   "partNo": "C47620",
+   "desc": "SUPPORT - seat, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 16.08,
+   "y": 78.78,
+   "variants": [
+    {
+     "serialNote": "6018, 6020L",
+     "partNo": "C26698",
+     "desc": "SUPPORT - seat, rear (6018, 6020L)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020BH",
+     "partNo": "C33054",
+     "desc": "SUPPORT - seat, rear (6020BH) shown",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 39.63,
+   "y": 66.81,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 19.93,
+   "y": 70.32,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 52.58,
+   "y": 92.26,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 46.95,
+   "y": 71.37,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 18.24,
+   "y": 74.79,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 79.33,
+   "y": 47.52,
+   "partNo": "C47623",
+   "desc": "TRAY - tool (6018, 6020L)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 90.96,
+   "y": 32.13,
+   "partNo": "C16429",
+   "desc": "PIN - seat hinge (6018, 6020L)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 78.67,
+   "y": 12.56,
+   "partNo": "C44982",
+   "desc": "SEAT",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 30.34,
+   "y": 14.27,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber (6020BH)",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 30.44,
+   "y": 20.83,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber (6020BH)",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 29.5,
+   "y": 23.96,
+   "partNo": "195-2175",
+   "desc": "WASHER - 5/16\" x 1-1/4\" O.D",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 27.81,
+   "y": 28.24,
+   "variants": [
+    {
+     "serialNote": "BOLT - 5/16\" - 18 x 1-1/2\"",
+     "partNo": "113-122",
+     "desc": "BOLT - 5/16\" - 18 x 1-1/2\"",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "BOLT - 5/16\" x 1\" NC hex",
+     "partNo": "113-103",
+     "desc": "BOLT - 5/16\" x 1\" NC hex",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 91.53,
+   "y": 68.61,
+   "variants": [
+    {
+     "serialNote": "L.H. (shown)",
+     "partNo": "C32417",
+     "desc": "EXTENSION - fender L.H. (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C32418",
+     "desc": "EXTENSION - fender R.H",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 80.08,
+   "y": 36.79,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex flange",
+   "reqd": "14"
+  },
+  {
+   "ref": "13",
+   "x": 52.86,
+   "y": 78.87,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex flange",
+   "reqd": "14"
+  },
+  {
+   "ref": "14",
+   "x": 78.29,
+   "y": 29.76,
+   "partNo": "C37152",
+   "desc": "HINGE - seat (6018, 6020L)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 65.63,
+   "y": 77.92,
+   "partNo": "C10487",
+   "desc": "KNOB - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 58.03,
+   "y": 58.45,
+   "variants": [
+    {
+     "serialNote": "L.H. (shown)",
+     "partNo": "C32050",
+     "desc": "FENDER - L.H. (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H., 6020BH",
+     "partNo": "C32053",
+     "desc": "FENDER - R.H. (6020BH)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H., 6018 / 6020L",
+     "partNo": "C47622",
+     "desc": "FENDER - R.H. (6018, 6020L)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 72.1,
+   "y": 84.19,
+   "partNo": "C47148",
+   "desc": "LEVER - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 93.68,
+   "y": 71.27,
+   "partNo": "182-547",
+   "desc": "SCREW - 1/4\" - 20 x 1/2\" Phillips",
+   "reqd": "10"
+  },
+  {
+   "ref": "19",
+   "x": 74.45,
+   "y": 87.51,
+   "partNo": "C10482",
+   "desc": "SPRING - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 77.26,
+   "y": 88.75,
+   "partNo": "C17066",
+   "desc": "WASHER - cupped",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 54.37,
+   "y": 83.9,
+   "partNo": "131-938",
+   "desc": "NUT - flange lock 3/8\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 63.66,
+   "y": 92.93,
+   "partNo": "131-938",
+   "desc": "NUT - flange lock 3/8\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 80.92,
+   "y": 90.46,
+   "partNo": "113-259",
+   "desc": "BOLT - 3/8\" x 4-1/2\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 76.89,
+   "y": 51.7,
+   "partNo": "C26092",
+   "desc": "PAD - step, fender (6020BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 8.67,
+   "y": 25.29,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "24",
+   "x": 51.46,
+   "y": 39.26,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "24",
+   "x": 53.05,
+   "y": 88.84,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "25",
+   "x": 8.85,
+   "y": 14.37,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "25",
+   "x": 51.18,
+   "y": 24.25,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "25",
+   "x": 60.0,
+   "y": 43.53,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "25",
+   "x": 24.81,
+   "y": 56.93,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "25",
+   "x": 54.65,
+   "y": 95.21,
+   "partNo": "131-911",
+   "desc": "NUT - 5/16\" - 18 flange lock",
+   "reqd": "11"
+  },
+  {
+   "ref": "26",
+   "x": 86.46,
+   "y": 62.44,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "10"
+  },
+  {
+   "ref": "27",
+   "x": 50.99,
+   "y": 41.82,
+   "partNo": "C29305",
+   "desc": "CAP - spring (6018, 6020L)",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 49.3,
+   "y": 35.08,
+   "partNo": "C29306",
+   "desc": "SPRING - seat (6018, 6020L)",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 9.32,
+   "y": 57.4,
+   "partNo": "C32408",
+   "desc": "BRACKET - support",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 23.77,
+   "y": 42.68,
+   "partNo": "111-132",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\" carriage",
+   "reqd": "6"
+  },
+  {
+   "ref": "31",
+   "x": 12.42,
+   "y": 39.73,
+   "partNo": "C32070",
+   "desc": "ROD - spring guide",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 14.77,
+   "y": 42.3,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 7.63,
+   "y": 46.48,
+   "partNo": "C32066",
+   "desc": "LEVER - latch",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 11.29,
+   "y": 43.34,
+   "partNo": "138-2071",
+   "desc": "PIN - spiral 3/16\" x .94\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 10.92,
+   "y": 53.22,
+   "partNo": "C21518",
+   "desc": "WASHER - 1/2\" nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 28.47,
+   "y": 53.03,
+   "partNo": "C32067",
+   "desc": "PIN - latch",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 27.34,
+   "y": 43.72,
+   "partNo": "C44068",
+   "desc": "PIN - spiral 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 32.6,
+   "y": 51.8,
+   "partNo": "C24137",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 32.31,
+   "y": 42.87,
+   "partNo": "C32065",
+   "desc": "SPACER - sleeve",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 20.87,
+   "y": 44.2,
+   "partNo": "C13385",
+   "desc": "BUSHING - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 12.33,
+   "y": 32.23,
+   "partNo": "C32064",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 29.78,
+   "y": 18.17,
+   "partNo": "C46882",
+   "desc": "POST - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 10.17,
+   "y": 27.95,
+   "partNo": "C26342",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 8.85,
+   "y": 23.11,
+   "partNo": "C32161",
+   "desc": "PLATE - retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 75.67,
+   "y": 25.96,
+   "partNo": "C37848",
+   "desc": "KIT - seat rails",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 55.02,
+   "y": 86.85,
+   "partNo": "C47165",
+   "desc": "GATE - range selector",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to 6020L PIN 17193591 and after and 6020BH PIN 17193505 and after.",
+ "dotSizePct": 2.27
+}

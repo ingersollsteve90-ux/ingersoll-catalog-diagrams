@@ -1,0 +1,91 @@
+{
+ "sectionTitle": "PTO Interlock Switch Assembly",
+ "breadcrumb": "PTO Interlock Switch Assembly",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/pto_interlock_switch.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 59.74,
+   "y": 22.48,
+   "partNo": "187-1328",
+   "desc": "SCREW - #8 - 18 x 3/8\" self tap",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 42.83,
+   "y": 64.66,
+   "partNo": "C30275",
+   "desc": "SWITCH - neutral inter-lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 37.13,
+   "y": 10.77,
+   "partNo": "C33696",
+   "desc": "SCREW - #4 - 40 x 1-1/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 65.44,
+   "y": 73.8,
+   "partNo": "C33697",
+   "desc": "NUT - #4 - 40",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 91.81,
+   "y": 49.99,
+   "partNo": "C37198",
+   "desc": "CAM - switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 74.38,
+   "y": 36.0,
+   "partNo": "C44029",
+   "desc": "RETAINER - switch lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 46.11,
+   "y": 25.05,
+   "partNo": "C47307",
+   "desc": "BRACKET - switch mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 8.23,
+   "y": 15.53,
+   "partNo": "113-2",
+   "desc": "BOLT - 1/4\" - 20 x 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 12.68,
+   "y": 75.23,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 14.71,
+   "y": 88.94,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.49
+}

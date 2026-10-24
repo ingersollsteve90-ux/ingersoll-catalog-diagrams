@@ -1,0 +1,215 @@
+{
+ "sectionTitle": "Electrical System - 6020L, 6020BH (Honda Engine, Before PIN Break)",
+ "breadcrumb": "Electrical System - 6020L, 6020BH (Honda Engine, Before PIN Break)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/electrical_system_6020_honda_before_pin.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 42.53,
+   "y": 21.16,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 42.25,
+   "y": 17.63,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 21.37,
+   "y": 41.34,
+   "partNo": "C24460",
+   "desc": "CONNECTOR - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 48.83,
+   "y": 44.87,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - inter-lock switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 58.71,
+   "y": 33.88,
+   "partNo": "C46875",
+   "desc": "CABLE - battery",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 25.32,
+   "y": 71.17,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 55.23,
+   "y": 79.48,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT - 12 volt (repairs: see the Headlight Assembly section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 38.58,
+   "y": 86.75,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT - 12 volt (repairs: see the Headlight Assembly section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 12.53,
+   "y": 63.9,
+   "partNo": "C43044",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 55.51,
+   "y": 11.51,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 14.97,
+   "y": 37.32,
+   "partNo": "C30267",
+   "desc": "SWITCH - ignition (includes key and hardware)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 56.73,
+   "y": 47.84,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter-lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 27.76,
+   "y": 24.03,
+   "partNo": "C29413",
+   "desc": "AMMETER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 12.34,
+   "y": 13.42,
+   "partNo": "C45917",
+   "desc": "HOURMETER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 83.82,
+   "y": 88.38,
+   "partNo": "NSS",
+   "desc": "STATOR - charging (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 89.46,
+   "y": 74.61,
+   "partNo": "NSS",
+   "desc": "RECTIFIER - 12 volt (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 89.65,
+   "y": 39.04,
+   "partNo": "NSS",
+   "desc": "STARTER (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 90.4,
+   "y": 62.27,
+   "partNo": "NSS",
+   "desc": "MAGNETO - ignition (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 77.99,
+   "y": 66.86,
+   "partNo": "NSS",
+   "desc": "MAGNETO - ignition (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 56.64,
+   "y": 44.3,
+   "partNo": "C33024",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 86.45,
+   "y": 63.9,
+   "partNo": "NSS",
+   "desc": "SPARK PLUG - includes gasket (obtain locally)",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 74.98,
+   "y": 69.06,
+   "partNo": "NSS",
+   "desc": "SPARK PLUG - includes gasket (obtain locally)",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 53.53,
+   "y": 30.72,
+   "partNo": "C33022",
+   "desc": "CABLE - battery to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 73.75,
+   "y": 74.23,
+   "partNo": "NSS",
+   "desc": "SOLENOID - carburetor (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C46880",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C32407",
+   "desc": "KEY - ignition",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Applies to 6020L before PIN 17193591 and 6020BH before PIN 17193505 (Honda engine). Engine electrical parts marked \"obtain locally\" come from your local engine dealer.",
+ "dotSizePct": 2.83
+}

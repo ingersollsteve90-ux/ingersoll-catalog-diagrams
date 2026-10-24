@@ -1,0 +1,263 @@
+{
+ "sectionTitle": "Hydraulic Pump, Coupling and Mount (6018BH, 6020BH)",
+ "breadcrumb": "Hydraulic Pump, Coupling and Mount (6018BH, 6020BH)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/hydraulic_pump_backhoes.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.23,
+   "y": 40.88,
+   "variants": [
+    {
+     "serialNote": "6020BH, PIN 17193505 and after, Kohler engine",
+     "partNo": "C47559",
+     "desc": "MOUNT - pump (6020BH) (PIN 17193505 and after) (Kohler engine)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020BH, before PIN 17193505, Honda engine",
+     "partNo": "C46859",
+     "desc": "MOUNT - pump (6020BH) (before PIN 17193505) (Honda engine)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6018BH, Onan engine",
+     "partNo": "C33041",
+     "desc": "MOUNT - pump (6018BH) (Onan engine)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 10.62,
+   "y": 47.47,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 15.86,
+   "y": 43.65,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 6.07,
+   "y": 23.49,
+   "variants": [
+    {
+     "serialNote": "BOLT - 3/8\" -16 x 1\"",
+     "partNo": "113-207",
+     "desc": "BOLT - 3/8\" -16 x 1\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "BOLT - 7/16\" -14 x 1\"",
+     "partNo": "113-310",
+     "desc": "BOLT - 7/16\" -14 x 1\"",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 10.04,
+   "y": 20.81,
+   "variants": [
+    {
+     "serialNote": "LOCKWASHER - 3/8\"",
+     "partNo": "192-21",
+     "desc": "LOCKWASHER - 3/8\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "LOCKWASHER - 7/16\"",
+     "partNo": "192-22",
+     "desc": "LOCKWASHER - 7/16\"",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 14.31,
+   "y": 18.32,
+   "partNo": "195-104",
+   "desc": "WASHER - .438\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 56.89,
+   "y": 10.39,
+   "partNo": "C28321",
+   "desc": "KEY - 1/4\" x 1/4\" x 3/4\" (engine shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 44.86,
+   "y": 30.56,
+   "variants": [
+    {
+     "serialNote": "6018BH, Onan engine",
+     "partNo": "C33265",
+     "desc": "COUPLING - pump (6018BH) (Onan engine)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020BH, PIN 17193505 and after, Kohler engine",
+     "partNo": "C47794",
+     "desc": "COUPLING - pump (6020BH) (PIN 17193505 and after) (Kohler engine)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020BH, before PIN 17193505, Honda engine",
+     "partNo": "C46937",
+     "desc": "COUPLING - pump (6020BH) (before PIN 17193505) (Honda engine)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 45.44,
+   "y": 8.2,
+   "partNo": "178-858",
+   "desc": "SCREW - set",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 50.97,
+   "y": 27.31,
+   "partNo": "C43819",
+   "desc": "KEY - 3/16\" x 1\" (pump shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 63.0,
+   "y": 19.95,
+   "partNo": "NSS",
+   "desc": "GASKET - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 73.86,
+   "y": 69.07,
+   "partNo": "NSS",
+   "desc": "GASKET - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 55.92,
+   "y": 23.96,
+   "partNo": "NSS",
+   "desc": "PLATE - wear",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 64.45,
+   "y": 74.42,
+   "partNo": "NSS",
+   "desc": "PLATE - wear",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 60.09,
+   "y": 22.34,
+   "partNo": "NSS",
+   "desc": "SEAL - wear plate",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 68.72,
+   "y": 71.07,
+   "partNo": "NSS",
+   "desc": "SEAL - wear plate",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 94.03,
+   "y": 18.32,
+   "partNo": "NSS",
+   "desc": "SEAL - shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 89.67,
+   "y": 22.63,
+   "partNo": "NSS",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 69.88,
+   "y": 39.44,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 16.15,
+   "y": 51.48,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 80.55,
+   "y": 65.05,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 45.93,
+   "y": 88.85,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 66.97,
+   "y": 18.13,
+   "partNo": "NSS",
+   "desc": "PLUG - internal",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C46971",
+   "desc": "PUMP - hydraulic, double",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C43818",
+   "desc": "KIT - seal, complete",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.34
+}

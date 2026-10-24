@@ -1,0 +1,118 @@
+{
+ "sectionTitle": "Choke and Throttle Controls",
+ "breadcrumb": "Choke and Throttle Controls",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/choke_throttle_controls.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 14.12,
+   "y": 48.15,
+   "partNo": "C46373",
+   "desc": "CONTROL - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 37.71,
+   "y": 8.74,
+   "partNo": "C35291",
+   "desc": "KNOB - choke/throttle",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 13.34,
+   "y": 14.23,
+   "partNo": "C35291",
+   "desc": "KNOB - choke/throttle",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 45.19,
+   "y": 22.67,
+   "variants": [
+    {
+     "serialNote": "6020L, 6020BH",
+     "partNo": "C46886",
+     "desc": "CONTROL - choke (6020L, 6020BH)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6018, 6018BH",
+     "partNo": "C46372",
+     "desc": "CONTROL - choke (6018, 6018BH)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 24.99,
+   "y": 59.43,
+   "partNo": "C34117",
+   "desc": "NUT - No. 10 - 24 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 23.63,
+   "y": 18.21,
+   "partNo": "111-5",
+   "desc": "BOLT - No. 10 - 24 x 5/8\" black, carriage",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 94.03,
+   "y": 40.86,
+   "partNo": "C47707",
+   "desc": "BRACKET - inter-lock switch mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 86.65,
+   "y": 48.44,
+   "partNo": "182-10",
+   "desc": "SCREW - #4 - 40 x 7/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 58.59,
+   "y": 22.57,
+   "partNo": "C33697",
+   "desc": "NUT - #4 - 40",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 92.96,
+   "y": 18.5,
+   "partNo": "861-C1",
+   "desc": "SCREW - M5 - .8 x 8",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 92.96,
+   "y": 26.83,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - #10",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 73.83,
+   "y": 23.71,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter-lock",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.34
+}

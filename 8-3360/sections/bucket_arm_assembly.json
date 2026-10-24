@@ -1,0 +1,300 @@
+{
+ "sectionTitle": "Bucket and Arm Assembly",
+ "breadcrumb": "Bucket and Arm Assembly",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/bucket_arm_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 61.35,
+   "y": 12.46,
+   "variants": [
+    {
+     "serialNote": "6018, 6020L, shown",
+     "partNo": "C17311",
+     "desc": "ARM ASSEMBLY - bucket lift (6018, 6020L) (shown)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6018BH, 6020BH",
+     "partNo": "C47070",
+     "desc": "ARM ASSEMBLY - bucket lift (6018BH, 6020BH)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 74.11,
+   "y": 39.8,
+   "partNo": "C17322",
+   "desc": "ARM - bucket",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 19.25,
+   "y": 18.69,
+   "partNo": "219-20",
+   "desc": "FITTING - lube",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 77.43,
+   "y": 32.7,
+   "partNo": "219-20",
+   "desc": "FITTING - lube",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 81.51,
+   "y": 28.03,
+   "partNo": "C18249",
+   "desc": "LINK - bucket cylinder",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 63.69,
+   "y": 29.39,
+   "partNo": "C18249",
+   "desc": "LINK - bucket cylinder",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 94.18,
+   "y": 41.46,
+   "variants": [
+    {
+     "serialNote": "6018BH, 6020BH",
+     "partNo": "C47076",
+     "desc": "BUCKET - loader 48\" (6018BH, 6020BH)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6018, 6020L, shown",
+     "partNo": "C33181",
+     "desc": "BUCKET - loader 48\" (6018, 6020L) (shown)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 13.7,
+   "y": 11.0,
+   "partNo": "C17337",
+   "desc": "ROD - arm assembly mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 6.5,
+   "y": 21.99,
+   "partNo": "C17987",
+   "desc": "COLLAR",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 21.21,
+   "y": 88.37,
+   "partNo": "C47200",
+   "desc": "PIN - cylinder mounting 3/4\" x 3-1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 5.81,
+   "y": 13.23,
+   "partNo": "C44068",
+   "desc": "PIN - 1/4\" x 1\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "9",
+   "x": 28.03,
+   "y": 27.64,
+   "partNo": "C44068",
+   "desc": "PIN - 1/4\" x 1\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "9",
+   "x": 15.26,
+   "y": 89.35,
+   "partNo": "C44068",
+   "desc": "PIN - 1/4\" x 1\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 46.25,
+   "y": 44.48,
+   "variants": [
+    {
+     "serialNote": "6018, 6020L",
+     "partNo": "C17334",
+     "desc": "PIN - bucket mounting, 3-5/16\" (6018, 6020L)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "6018BH, 6020BH",
+     "partNo": "C47088",
+     "desc": "PIN - bucket mounting, 4\" (6018BH, 6020BH)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 53.56,
+   "y": 35.03,
+   "partNo": "C17335",
+   "desc": "PIN - 5\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 61.84,
+   "y": 39.8,
+   "partNo": "C17336",
+   "desc": "PIN - 4-3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 37.68,
+   "y": 38.44,
+   "partNo": "195-545",
+   "desc": "WASHER - 13/32\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 58.82,
+   "y": 40.77,
+   "partNo": "195-545",
+   "desc": "WASHER - 13/32\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 50.63,
+   "y": 43.5,
+   "partNo": "C28232",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 37.78,
+   "y": 45.06,
+   "partNo": "C28232",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 55.7,
+   "y": 45.74,
+   "partNo": "C28232",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 20.24,
+   "y": 75.43,
+   "partNo": "C18145",
+   "desc": "BUSHING - oilite",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 15.75,
+   "y": 76.4,
+   "partNo": "195-533",
+   "desc": "WASHER - 1-1/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 11.46,
+   "y": 78.74,
+   "partNo": "132-311",
+   "desc": "PIN - cotter 5/32\" x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 90.29,
+   "y": 54.6,
+   "partNo": "C47077",
+   "desc": "EDGE - cutting 48\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 22.67,
+   "y": 21.7,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 80.54,
+   "y": 34.74,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 53.26,
+   "y": 87.59,
+   "partNo": "C17714",
+   "desc": "PIN - cylinder mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 58.71,
+   "y": 81.27,
+   "partNo": "113-122",
+   "desc": "BOLT - 5/16\" - 18 x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 67.39,
+   "y": 93.04,
+   "partNo": "131-176",
+   "desc": "NUT - lock 5/16\" hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 24.62,
+   "y": 4.96,
+   "partNo": "C12975",
+   "desc": "WASHER - .76\" x 1.12\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 36.8,
+   "y": 26.38,
+   "partNo": "C47199",
+   "desc": "PIN - lift arm 3/4\" x 3\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.75
+}

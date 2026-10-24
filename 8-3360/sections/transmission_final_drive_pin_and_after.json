@@ -1,0 +1,370 @@
+{
+ "sectionTitle": "Transmission and Final Drive (PIN Break and After)",
+ "breadcrumb": "Transmission and Final Drive (PIN Break and After)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/transmission_final_drive_pin_and_after.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 67.73,
+   "y": 79.57,
+   "partNo": "NSS",
+   "desc": "CASE - transmission (order assembly above)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 67.32,
+   "y": 29.88,
+   "partNo": "C12713",
+   "desc": "BEARING - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 18.0,
+   "y": 47.71,
+   "partNo": "C12713",
+   "desc": "BEARING - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 70.62,
+   "y": 66.14,
+   "partNo": "C26245",
+   "desc": "BEARING - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 29.05,
+   "y": 76.56,
+   "partNo": "C26245",
+   "desc": "BEARING - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 80.7,
+   "y": 57.75,
+   "partNo": "C26246",
+   "desc": "SEAL - axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 25.18,
+   "y": 78.22,
+   "partNo": "C26246",
+   "desc": "SEAL - axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 29.92,
+   "y": 21.79,
+   "partNo": "C13241",
+   "desc": "BEARING - sleeve",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 43.96,
+   "y": 88.81,
+   "partNo": "C13385",
+   "desc": "BEARING - sleeve",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 75.94,
+   "y": 72.37,
+   "partNo": "C13266",
+   "desc": "SEAL - shift rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 40.58,
+   "y": 55.61,
+   "partNo": "C28281",
+   "desc": "BEARING - roller",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 40.0,
+   "y": 90.71,
+   "partNo": "C24803",
+   "desc": "SEAL - shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 39.22,
+   "y": 60.19,
+   "variants": [
+    {
+     "serialNote": "PLUG - filler and drain 3/8\" square head",
+     "partNo": "221-3",
+     "desc": "PLUG - filler and drain 3/8\" square head",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "PLUG - pipe 3/8\" hex socket",
+     "partNo": "221-1842",
+     "desc": "PLUG - pipe 3/8\" hex socket",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 53.56,
+   "y": 85.14,
+   "variants": [
+    {
+     "serialNote": "PLUG - filler and drain 3/8\" square head",
+     "partNo": "221-3",
+     "desc": "PLUG - filler and drain 3/8\" square head",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "PLUG - pipe 3/8\" hex socket",
+     "partNo": "221-1842",
+     "desc": "PLUG - pipe 3/8\" hex socket",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 12.77,
+   "y": 84.26,
+   "partNo": "C26249",
+   "desc": "SHAFT - axle, short R.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 86.99,
+   "y": 46.35,
+   "partNo": "C26250",
+   "desc": "SHAFT - axle, long L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 69.55,
+   "y": 10.1,
+   "partNo": "C36935",
+   "desc": "COVER - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 91.45,
+   "y": 70.61,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 36.61,
+   "y": 27.06,
+   "partNo": "C26342",
+   "desc": "RING - retainer, axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 17.43,
+   "y": 25.49,
+   "partNo": "126-128",
+   "desc": "KEY - woodruff, brake idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 64.32,
+   "y": 21.11,
+   "partNo": "C13196",
+   "desc": "GASKET - transmission cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 43.49,
+   "y": 4.78,
+   "partNo": "C28241",
+   "desc": "BREATHER - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 62.48,
+   "y": 8.83,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 62.96,
+   "y": 5.03,
+   "partNo": "187-C2",
+   "desc": "SCREW - 1/4\" - 20 x 1\" tap",
+   "reqd": "6"
+  },
+  {
+   "ref": "21",
+   "x": 58.51,
+   "y": 45.08,
+   "partNo": "C47578",
+   "desc": "FORK - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 83.51,
+   "y": 68.86,
+   "partNo": "C37222",
+   "desc": "ROD - gear shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 63.25,
+   "y": 44.01,
+   "partNo": "C14168",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 52.4,
+   "y": 56.0,
+   "partNo": "C14168",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 47.08,
+   "y": 52.68,
+   "partNo": "C47670",
+   "desc": "GEAR - cluster input",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 30.79,
+   "y": 52.78,
+   "partNo": "C30031",
+   "desc": "KIT - bolt (set of four)",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 94.06,
+   "y": 63.31,
+   "partNo": "195-541",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 61.41,
+   "y": 35.34,
+   "partNo": "C12718",
+   "desc": "WASHER - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 24.78,
+   "y": 43.23,
+   "partNo": "C12718",
+   "desc": "WASHER - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 36.89,
+   "y": 92.53,
+   "partNo": "C33305",
+   "desc": "BRAKE DRUM",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 26.05,
+   "y": 49.85,
+   "partNo": "C14223",
+   "desc": "WASHER - spacer",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "30",
+   "x": 22.76,
+   "y": 23.65,
+   "partNo": "C46927",
+   "desc": "GEAR - brake idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 26.73,
+   "y": 22.77,
+   "partNo": "C14222",
+   "desc": "RING - retainer, brake idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 34.96,
+   "y": 5.61,
+   "variants": [
+    {
+     "serialNote": "BOLT - 1/2\" x 1-1/4\" NC transaxle mounting",
+     "partNo": "113-417",
+     "desc": "BOLT - 1/2\" x 1-1/4\" NC transaxle mounting",
+     "reqd": "6"
+    },
+    {
+     "serialNote": "BOLT - 1/2\" - 13 x 1-1/4\", 12 pt. flange",
+     "partNo": "166-86",
+     "desc": "BOLT - 1/2\" - 13 x 1-1/4\", 12 pt. flange",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "33",
+   "x": 34.96,
+   "y": 9.22,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "34",
+   "x": 29.34,
+   "y": 38.65,
+   "partNo": "C46929",
+   "desc": "DIFFERENTIAL - (also includes item 25)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C26322",
+   "desc": "CASE ASSEMBLY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to 6020L PIN 17193591 and after and 6020BH PIN 17193505 and after.",
+ "dotSizePct": 2.67
+}

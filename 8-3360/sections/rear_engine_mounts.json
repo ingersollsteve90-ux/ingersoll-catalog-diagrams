@@ -1,0 +1,105 @@
+{
+ "sectionTitle": "Rear Engine Mounts",
+ "breadcrumb": "Rear Engine Mounts",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/rear_engine_mounts.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 85.02,
+   "y": 40.02,
+   "variants": [
+    {
+     "serialNote": "Honda engine",
+     "partNo": "C46869",
+     "desc": "MOUNT - engine, rear (For Honda engine)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Onan and Kohler engines (shown)",
+     "partNo": "C22949",
+     "desc": "MOUNT - engine, rear (shown) (For Onan and Kohler engines)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 84.83,
+   "y": 89.11,
+   "variants": [
+    {
+     "serialNote": "3/8\" x 2\"",
+     "partNo": "113-219",
+     "desc": "BOLT - 3/8\" - 16 x 2\"",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "6018, 6018BH (3/8\" x 1-1/4\")",
+     "partNo": "113-208",
+     "desc": "BOLT - 3/8\" - 16 x 1-1/4\" (6018, 6018BH)",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 81.53,
+   "y": 25.68,
+   "partNo": "195-103",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 47.54,
+   "y": 22.7,
+   "partNo": "193-68",
+   "desc": "LOCKWASHER - 3/8\" (6020L, 6020BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 79.83,
+   "y": 10.68,
+   "partNo": "131-1352",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 40.27,
+   "y": 33.69,
+   "partNo": "C21652",
+   "desc": "BUSHING - mount",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 89.55,
+   "y": 61.91,
+   "partNo": "113-441",
+   "desc": "BOLT - 1/2\" - 13 x 2-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 26.87,
+   "y": 24.93,
+   "partNo": "131-1182",
+   "desc": "NUT - lock 1/2\" - 13",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 10.63,
+   "y": 60.79,
+   "partNo": "195-533",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.78
+}

@@ -1,0 +1,199 @@
+{
+ "sectionTitle": "Electrical System - 6018, 6018BH (Onan Engine)",
+ "breadcrumb": "Electrical System - 6018, 6018BH (Onan Engine)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/electrical_system_6018_onan.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 12.11,
+   "y": 19.5,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 20.82,
+   "y": 14.23,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 10.39,
+   "y": 39.44,
+   "partNo": "C24460",
+   "desc": "CONNECTOR - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 57.37,
+   "y": 24.3,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - inter-lock switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 94.88,
+   "y": 47.69,
+   "partNo": "C31943",
+   "desc": "CABLE - battery negative to ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 38.61,
+   "y": 86.22,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 67.99,
+   "y": 85.55,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT - 12 volt (repairs: see the Headlight Assembly section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 34.88,
+   "y": 93.41,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT - 12 volt (repairs: see the Headlight Assembly section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 23.97,
+   "y": 78.65,
+   "partNo": "C43044",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 61.2,
+   "y": 62.55,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 5.12,
+   "y": 27.46,
+   "partNo": "C30530",
+   "desc": "SWITCH - ignition (includes key and hardware)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 63.59,
+   "y": 26.98,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter-lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 37.56,
+   "y": 4.93,
+   "partNo": "C29413",
+   "desc": "AMMETER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 34.5,
+   "y": 58.9,
+   "partNo": "C45917",
+   "desc": "HOURMETER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 8.57,
+   "y": 57.46,
+   "partNo": "NSS",
+   "desc": "STATOR - charging (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 20.91,
+   "y": 85.94,
+   "partNo": "NSS",
+   "desc": "RECTIFIER - 12 volt (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 74.4,
+   "y": 22.38,
+   "partNo": "NSS",
+   "desc": "STARTER AND SOLENOID (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 55.45,
+   "y": 58.52,
+   "partNo": "NSS",
+   "desc": "CONTROL - ignition (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 50.57,
+   "y": 35.51,
+   "partNo": "C32299",
+   "desc": "CABLE - spark plug 18-1/2\" (cut to length)",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 35.36,
+   "y": 34.17,
+   "partNo": "NSS",
+   "desc": "SPARK PLUG - includes gasket (obtain locally)",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 33.73,
+   "y": 52.67,
+   "partNo": "NSS",
+   "desc": "CONDENSER (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 46.27,
+   "y": 58.42,
+   "partNo": "NSS",
+   "desc": "COIL - ignition, 12 volt (obtain locally)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C34746",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C32407",
+   "desc": "KEY - ignition",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Applies to 6018 and 6018BH (Onan engine). Engine electrical parts marked \"obtain locally\" come from your local engine dealer.",
+ "dotSizePct": 2.6
+}

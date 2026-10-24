@@ -1,0 +1,299 @@
+{
+ "sectionTitle": "Hydraulic System (Bucket Control)",
+ "breadcrumb": "Hydraulic System (Bucket Control)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/hydraulic_bucket_control.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 10.1,
+   "y": 5.11,
+   "partNo": "C18179",
+   "desc": "VALVE - bucket control (repairs: see the Hydraulic Control Valve (Bucket) section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 67.55,
+   "y": 25.95,
+   "partNo": "C26433",
+   "desc": "CYLINDER - lift arm (repairs: see the Cylinder - Lift Arm section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 71.65,
+   "y": 70.97,
+   "partNo": "C26432",
+   "desc": "CYLINDER - bucket (repairs: see the Cylinder - Bucket section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 76.11,
+   "y": 95.11,
+   "partNo": "219-17",
+   "desc": "FITTING - lubrication, straight",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 69.69,
+   "y": 84.51,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 16.91,
+   "y": 12.41,
+   "partNo": "218-5057",
+   "desc": "FITTING - hydraulic (includes 218-5005 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 10.98,
+   "y": 23.52,
+   "partNo": "218-5057",
+   "desc": "FITTING - hydraulic (includes 218-5005 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 33.18,
+   "y": 9.3,
+   "partNo": "C25162",
+   "desc": "TUBE - bucket valve to L.H. tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 20.03,
+   "y": 77.79,
+   "partNo": "C25161",
+   "desc": "TUBE - bucket valve to R.H. tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 68.24,
+   "y": 59.18,
+   "partNo": "218-533",
+   "desc": "FITTING - 45°",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 88.0,
+   "y": 84.6,
+   "partNo": "218-443",
+   "desc": "FITTING - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 89.27,
+   "y": 52.26,
+   "partNo": "C26439",
+   "desc": "TUBE - bucket cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 10.49,
+   "y": 47.58,
+   "partNo": "720-303",
+   "desc": "HOSE - bucket cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 62.48,
+   "y": 59.08,
+   "partNo": "720-303",
+   "desc": "HOSE - bucket cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 32.88,
+   "y": 69.12,
+   "partNo": "C25164",
+   "desc": "CLIP - tube mounting",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 38.24,
+   "y": 73.11,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" - 20 x 1/2\" tapping",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 54.79,
+   "y": 5.11,
+   "partNo": "C25165",
+   "desc": "GROMMET - tower",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 33.66,
+   "y": 22.64,
+   "partNo": "C25167",
+   "desc": "FITTING - special 90° (includes 218-5005 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 25.29,
+   "y": 31.02,
+   "partNo": "C25167",
+   "desc": "FITTING - special 90° (includes 218-5005 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 21.0,
+   "y": 37.75,
+   "partNo": "C26032",
+   "desc": "TUBE - bucket valve to R.H. tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 50.51,
+   "y": 30.24,
+   "partNo": "C32121",
+   "desc": "TUBE - bucket valve to L.H. tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 12.24,
+   "y": 31.7,
+   "partNo": "C25160",
+   "desc": "TUBE - bucket valve to R.H. tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 43.79,
+   "y": 16.89,
+   "partNo": "C25158",
+   "desc": "TUBE - bucket valve to L.H. tower",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 48.37,
+   "y": 51.77,
+   "partNo": "C25153",
+   "desc": "TUBE - lift cylinder, rod end",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 78.56,
+   "y": 39.49,
+   "partNo": "C26435",
+   "desc": "TUBE - lift cylinder, piston end",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 36.68,
+   "y": 39.98,
+   "partNo": "720-301",
+   "desc": "HOSE - lift cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 32.01,
+   "y": 52.95,
+   "partNo": "720-301",
+   "desc": "HOSE - lift cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 50.22,
+   "y": 78.56,
+   "partNo": "C25155",
+   "desc": "TUBE - bucket cylinder R.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 47.59,
+   "y": 79.05,
+   "partNo": "C25156",
+   "desc": "TUBE - bucket cylinder L.H",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 68.43,
+   "y": 39.98,
+   "partNo": "218-1022",
+   "desc": "FITTING - hydraulic",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 67.26,
+   "y": 50.5,
+   "partNo": "218-1022",
+   "desc": "FITTING - hydraulic",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 77.49,
+   "y": 20.5,
+   "partNo": "214-262",
+   "desc": "CLAMP - 2-5/16\" to 3-1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 94.24,
+   "y": 68.2,
+   "partNo": "214-262",
+   "desc": "CLAMP - 2-5/16\" to 3-1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 29.97,
+   "y": 62.69,
+   "partNo": "C33218",
+   "desc": "CLIP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 25.1,
+   "y": 65.51,
+   "partNo": "C34808",
+   "desc": "SCREW - 1/4\" - 20 x 3/4\" self tap, flange head",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 18.86,
+   "y": 57.81,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.75
+}

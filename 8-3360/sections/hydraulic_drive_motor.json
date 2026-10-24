@@ -1,0 +1,286 @@
+{
+ "sectionTitle": "Hydraulic Drive Motor",
+ "breadcrumb": "Hydraulic Drive Motor",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/hydraulic_drive_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 60.14,
+   "y": 83.32,
+   "partNo": "C47089",
+   "desc": "BOLT - 3/8\" - 24 **",
+   "reqd": "7"
+  },
+  {
+   "ref": "2",
+   "x": 51.56,
+   "y": 79.43,
+   "partNo": "C31309",
+   "desc": "COVER - end shown **",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 48.01,
+   "y": 57.0,
+   "partNo": "C31310",
+   "desc": "COMMUTATOR AND RING SET",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29.57,
+   "y": 65.87,
+   "partNo": "C31311",
+   "desc": "MANIFOLD",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 25.3,
+   "y": 43.7,
+   "variants": [
+    {
+     "serialNote": "Before PIN (6018 17191946, 6020L 17192133)",
+     "partNo": "C31313",
+     "desc": "ROTOR ASSEMBLY *",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "PIN and after (6018 17191946, 6020L 17192133; 6018BH, 6020BH all)",
+     "partNo": "C47090",
+     "desc": "ROTOR ASSEMBLY **",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 5.58,
+   "y": 51.37,
+   "partNo": "C31314",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 87.71,
+   "y": 43.56,
+   "variants": [
+    {
+     "serialNote": "Before PIN (6018 17191946, 6020L 17192133)",
+     "partNo": "C31316",
+     "desc": "LINK - drive *",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "PIN and after (6018 17191946, 6020L 17192133; 6018BH, 6020BH all)",
+     "partNo": "C47091",
+     "desc": "LINK - drive **",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 76.58,
+   "y": 34.58,
+   "partNo": "C31317",
+   "desc": "BEARING - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 69.74,
+   "y": 32.68,
+   "variants": [
+    {
+     "serialNote": "Before PIN (6018 17191946, 6020L 17192133)",
+     "partNo": "C31318",
+     "desc": "SHAFT - coupling *",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "PIN and after (6018 17191946, 6020L 17192133; 6018BH, 6020BH all)",
+     "partNo": "C47092",
+     "desc": "SHAFT - coupling **",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 53.96,
+   "y": 22.49,
+   "partNo": "C31319",
+   "desc": "WASHER - thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 60.16,
+   "y": 25.86,
+   "partNo": "C31319",
+   "desc": "WASHER - thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 46.56,
+   "y": 36.64,
+   "partNo": "C31320",
+   "desc": "BEARING - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 41.64,
+   "y": 9.36,
+   "partNo": "C31321",
+   "desc": "HOUSING - drive end",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 31.61,
+   "y": 9.28,
+   "partNo": "C31322",
+   "desc": "BEARING - outer",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 90.82,
+   "y": 72.14,
+   "partNo": "C34417",
+   "desc": "COVER - end (with relief) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 70.55,
+   "y": 94.66,
+   "partNo": "C34418",
+   "desc": "PLUG AND \"O\" RING *",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 68.25,
+   "y": 87.48,
+   "partNo": "C34419",
+   "desc": "\"O\" RING *",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 77.76,
+   "y": 85.27,
+   "partNo": "C34420",
+   "desc": "VALVE - relief (3000 PSI) *",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 94.56,
+   "y": 80.77,
+   "partNo": "C34421",
+   "desc": "BOLT - thru (use with C34417 end cover) *",
+   "reqd": "7"
+  },
+  {
+   "ref": "19",
+   "x": 41.07,
+   "y": 69.46,
+   "partNo": "NSS",
+   "desc": "SEAL - commutator ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 85.54,
+   "y": 37.92,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 12.06,
+   "y": 54.79,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 26.28,
+   "y": 62.94,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 34.15,
+   "y": 68.4,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 48.37,
+   "y": 77.51,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "21",
+   "x": 41.26,
+   "y": 32.08,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 48.18,
+   "y": 19.81,
+   "partNo": "NSS",
+   "desc": "WASHER - backup",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 24.93,
+   "y": 5.34,
+   "partNo": "NSS",
+   "desc": "SEAL - dirt (not used)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "MOTOR - hydraulic (use C46957) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C46957",
+   "desc": "MOTOR - hydraulic **",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C31323",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Use before PIN: 6018 17191946, 6020L 17192133. ** Use PIN and after: 6018 17191946, 6020L 17192133; 6018BH and 6020BH all after.",
+ "dotSizePct": 2.79
+}

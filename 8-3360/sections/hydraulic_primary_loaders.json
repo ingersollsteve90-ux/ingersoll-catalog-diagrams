@@ -1,0 +1,569 @@
+{
+ "sectionTitle": "Hydraulic System (Primary) - 6018, 6020L Loaders",
+ "breadcrumb": "Hydraulic System (Primary) - 6018, 6020L Loaders",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/hydraulic_primary_loaders.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 62.09,
+   "y": 46.1,
+   "partNo": "C32170",
+   "desc": "PUMP - hydraulic (repairs: see the Hydraulic Pump, Coupling and Mount (6018, 6020L) section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 73.14,
+   "y": 45.42,
+   "partNo": "217-179",
+   "desc": "FITTING - 1\" hose x 1-5/16\" - 12 (includes 218-5010 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 59.67,
+   "y": 51.53,
+   "partNo": "218-5137",
+   "desc": "FITTING - 5/8\" O.D. x 7/8\" - 14, 45° adjustable (includes 218-5007 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 80.72,
+   "y": 53.89,
+   "partNo": "217-398",
+   "desc": "FITTING - 3/4\" hose x 7/8\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 69.65,
+   "y": 58.63,
+   "partNo": "218-5117",
+   "desc": "FITTING - 5/8\" O.D. x 3/4\" - 16, 90° adjustable (includes 218-5006 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 83.62,
+   "y": 39.57,
+   "partNo": "C32107",
+   "desc": "HOSE - 1\" I.D. 90° pump inlet",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 82.07,
+   "y": 36.95,
+   "partNo": "214-255",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 79.55,
+   "y": 40.84,
+   "partNo": "214-255",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 91.68,
+   "y": 48.85,
+   "variants": [
+    {
+     "serialNote": "6018",
+     "partNo": "C31432",
+     "desc": "HOSE - 3/4\" I.D. 90° pump inlet (6018)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020L",
+     "partNo": "C37230",
+     "desc": "HOSE - 3/4\" I.D. pump inlet (6020L)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 67.55,
+   "y": 93.26,
+   "partNo": "C46976",
+   "desc": "HOSE - pump to PTO",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 38.5,
+   "y": 58.67,
+   "partNo": "218-5232",
+   "desc": "FITTING - 90° elbow 5/8\" x 7/8\" - 14",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 68.42,
+   "y": 82.09,
+   "partNo": "C33394",
+   "desc": "HOSE - pump to relief valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 29.67,
+   "y": 67.05,
+   "partNo": "C32111",
+   "desc": "TUBE - pump to relief valve tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 78.28,
+   "y": 28.02,
+   "variants": [
+    {
+     "serialNote": "6018",
+     "partNo": "C31431",
+     "desc": "HOSE - oil filter to oil tank (cut to required length) (6018)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020L",
+     "partNo": "C47069",
+     "desc": "HOSE - oil filter to oil tank (6020L)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 56.44,
+   "y": 40.94,
+   "partNo": "217-135",
+   "desc": "CONNECTOR - 90° 3/4\" hose x 3/4\" NPTF thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 24.55,
+   "y": 85.94,
+   "partNo": "C15389",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 78.29,
+   "y": 36.33,
+   "partNo": "217-155",
+   "desc": "CONNECTOR - 3/4\" hose x 3/4\" NPTF thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 42.36,
+   "y": 35.82,
+   "partNo": "C33046",
+   "desc": "HOSE - 3/4\" I.D. x 19\" (cut to required length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 17.61,
+   "y": 15.93,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 77.5,
+   "y": 24.78,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 6.06,
+   "y": 27.48,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 73.13,
+   "y": 28.61,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 93.42,
+   "y": 33.05,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 33.35,
+   "y": 33.75,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 52.66,
+   "y": 39.68,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "18",
+   "x": 85.86,
+   "y": 52.46,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "19",
+   "x": 11.11,
+   "y": 13.93,
+   "partNo": "C32148",
+   "desc": "HOSE - 90° heat exchanger to manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 55.02,
+   "y": 91.25,
+   "partNo": "C32114",
+   "desc": "TUBE - travel valve to manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 56.26,
+   "y": 72.36,
+   "partNo": "C44892",
+   "desc": "MANIFOLD - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 42.87,
+   "y": 61.1,
+   "partNo": "C44885",
+   "desc": "TUBE - manifold to relief valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 45.19,
+   "y": 49.45,
+   "partNo": "C46649",
+   "desc": "VALVE - relief 1800 PSI",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 12.7,
+   "y": 78.99,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 30.15,
+   "y": 51.86,
+   "partNo": "218-842",
+   "desc": "FITTING - tee swivel 5/8\" tube x 7/8\" - 14",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 31.61,
+   "y": 43.09,
+   "partNo": "C33112",
+   "desc": "FITTING - tube reducer 5/8\" to 3/8\" tube x 9/16 \" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 64.98,
+   "y": 32.47,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 12.6,
+   "y": 82.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 39.86,
+   "y": 48.64,
+   "partNo": "C25245",
+   "desc": "FITTING - 5/8\" tube x 3/4\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 42.58,
+   "y": 57.5,
+   "partNo": "C25245",
+   "desc": "FITTING - 5/8\" tube x 3/4\" - 14 (includes 218-5007 \"O\" ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 67.69,
+   "y": 11.77,
+   "partNo": "C47058",
+   "desc": "RESERVOIR - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 78.07,
+   "y": 4.66,
+   "partNo": "C46387",
+   "desc": "CAP - oil tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 26.72,
+   "y": 12.17,
+   "partNo": "C32047",
+   "desc": "EXCHANGER - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 27.43,
+   "y": 33.94,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "33",
+   "x": 9.85,
+   "y": 33.69,
+   "partNo": "131-934",
+   "desc": "NUT - 1/4\" - 20 flange lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "34",
+   "x": 42.59,
+   "y": 80.35,
+   "partNo": "218-5065",
+   "desc": "FITTING - 3/4\" tube x 7/8\" - 14 (includes 218-5006 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 45.89,
+   "y": 75.57,
+   "partNo": "218-836",
+   "desc": "FITTING - 3/8\" tube x 3/8\" tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 24.72,
+   "y": 70.91,
+   "partNo": "218-5058",
+   "desc": "FITTING - 3/8\" tube x 3/4\" - 16 (includes 218-5006 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 88.87,
+   "y": 71.25,
+   "variants": [
+    {
+     "serialNote": "use PIN 17191257 and after",
+     "partNo": "C46450",
+     "desc": "TUBE - bucket valve \"out\" to return manifold (use PIN 17191257 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "use before 17191257",
+     "partNo": "C32179",
+     "desc": "TUBE - bucket valve \"out\" to return manifold (use before 17191257)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "37",
+   "x": 48.36,
+   "y": 81.91,
+   "variants": [
+    {
+     "serialNote": "use PIN 17191257 and after",
+     "partNo": "C46450",
+     "desc": "TUBE - bucket valve \"out\" to return manifold (use PIN 17191257 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "use before 17191257",
+     "partNo": "C32179",
+     "desc": "TUBE - bucket valve \"out\" to return manifold (use before 17191257)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "38",
+   "x": 75.87,
+   "y": 41.71,
+   "partNo": "C33038",
+   "desc": "FILTER ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 64.79,
+   "y": 29.78,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "39",
+   "x": 23.2,
+   "y": 89.21,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "40",
+   "x": 46.53,
+   "y": 17.88,
+   "partNo": "C32213",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 41.62,
+   "y": 20.25,
+   "partNo": "195-521",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "42",
+   "x": 38.63,
+   "y": 22.91,
+   "partNo": "121-21",
+   "desc": "BOLT - 1/4\" - 20 x 1/2\" flange lock",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "43",
+   "x": 55.57,
+   "y": 20.3,
+   "variants": [
+    {
+     "serialNote": "NUT - 1/4\" - 20 flange lock",
+     "partNo": "131-934",
+     "desc": "NUT - 1/4\" - 20 flange lock",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "NUT - 3/8\" - 16",
+     "partNo": "131-1352",
+     "desc": "NUT - 3/8\" - 16",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "43",
+   "x": 69.53,
+   "y": 22.24,
+   "variants": [
+    {
+     "serialNote": "NUT - 1/4\" - 20 flange lock",
+     "partNo": "131-934",
+     "desc": "NUT - 1/4\" - 20 flange lock",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "NUT - 3/8\" - 16",
+     "partNo": "131-1352",
+     "desc": "NUT - 3/8\" - 16",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "44",
+   "x": 59.83,
+   "y": 26.08,
+   "partNo": "C22947",
+   "desc": "TIE - nylon",
+   "reqd": "2"
+  },
+  {
+   "ref": "45",
+   "x": 38.25,
+   "y": 24.81,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "46",
+   "x": 56.12,
+   "y": 61.93,
+   "partNo": "218-756",
+   "desc": "CAP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 83.82,
+   "y": 69.64,
+   "partNo": "218-980",
+   "desc": "FITTING - 90° 3/8\" tube x 9/16\" - 18 swivel (use before PIN 17181257)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C46650",
+   "desc": "CARTRIDGE - relief 1800 PSI",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C33039",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.27
+}

@@ -1,0 +1,229 @@
+{
+ "sectionTitle": "Electrical System - 6020L, 6020BH (Kohler Engine, PIN Break and After)",
+ "breadcrumb": "Electrical System - 6020L, 6020BH (Kohler Engine, PIN Break and After)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/electrical_system_6020_kohler_pin_and_after.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 18.96,
+   "y": 53.6,
+   "partNo": "C31947",
+   "desc": "KIT - fuse holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6.37,
+   "y": 52.83,
+   "partNo": "C30260",
+   "desc": "FUSE - 30 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 26.81,
+   "y": 25.75,
+   "partNo": "C24460",
+   "desc": "CONNECTOR - ignition switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 87.67,
+   "y": 41.44,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - inter-lock switch",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 87.2,
+   "y": 61.44,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - inter-lock switch",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 30.03,
+   "y": 70.15,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - inter-lock switch",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 37.98,
+   "y": 35.99,
+   "partNo": "C46528",
+   "desc": "CONNECTOR - engine",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 24.83,
+   "y": 6.9,
+   "partNo": "C44169",
+   "desc": "CONNECTOR - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 18.67,
+   "y": 13.6,
+   "partNo": "C44169",
+   "desc": "CONNECTOR - headlight",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 7.22,
+   "y": 5.27,
+   "partNo": "C32178",
+   "desc": "HEADLIGHT - 12 volt (repairs: see the Headlight Assembly section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 25.58,
+   "y": 19.05,
+   "partNo": "C43044",
+   "desc": "SWITCH - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 34.2,
+   "y": 51.78,
+   "partNo": "C41010",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 29.84,
+   "y": 25.56,
+   "partNo": "C30267",
+   "desc": "SWITCH - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 87.01,
+   "y": 63.93,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter-lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 32.49,
+   "y": 69.77,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter-lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 46.5,
+   "y": 89.48,
+   "partNo": "C30275",
+   "desc": "SWITCH - inter-lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 9.12,
+   "y": 20.01,
+   "partNo": "C29413",
+   "desc": "AMMETER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 44.32,
+   "y": 9.19,
+   "partNo": "C45917",
+   "desc": "HOURMETER - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 30.98,
+   "y": 48.81,
+   "partNo": "C46875",
+   "desc": "CABLE - battery to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 44.23,
+   "y": 82.4,
+   "partNo": "C25338",
+   "desc": "CONNECTOR - seat switch (6020L)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 46.97,
+   "y": 87.66,
+   "partNo": "C30279",
+   "desc": "CONNECTOR - inter-lock switch (6020L)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 49.15,
+   "y": 58.76,
+   "partNo": "C33024",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 32.02,
+   "y": 84.5,
+   "partNo": "C45537",
+   "desc": "SWITCH - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 87.38,
+   "y": 43.16,
+   "partNo": "C47708",
+   "desc": "SWITCH - inter-lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 19.24,
+   "y": 56.08,
+   "partNo": "C31943",
+   "desc": "CABLE - battery ground",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "C47732",
+   "desc": "HARNESS - wire, main",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C32407",
+   "desc": "KEY - ignition",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "C47565",
+   "desc": "HARNESS - wire, rear PTO (6020L)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Applies to 6020L PIN 17193591 and after and 6020BH PIN 17193505 and after (Kohler engine).",
+ "dotSizePct": 2.43
+}

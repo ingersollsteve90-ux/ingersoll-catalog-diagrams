@@ -1,0 +1,65 @@
+{
+ "sectionTitle": "Cylinder - Lift Arm",
+ "breadcrumb": "Cylinder - Lift Arm",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/cylinder_lift_arm.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 62.29,
+   "y": 85.26,
+   "partNo": "C26433",
+   "desc": "CYLINDER - lift arm",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 89.11,
+   "y": 24.77,
+   "partNo": "NSS",
+   "desc": "SEAL - wiper",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 73.81,
+   "y": 15.29,
+   "partNo": "NSS",
+   "desc": "\"O\" RING AND SEAL - rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 81.34,
+   "y": 14.78,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - body",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 24.35,
+   "y": 14.82,
+   "partNo": "NSS",
+   "desc": "SEAL - piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 22.81,
+   "y": 74.75,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C26445",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.25
+}

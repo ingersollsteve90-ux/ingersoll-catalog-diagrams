@@ -1,0 +1,289 @@
+{
+ "sectionTitle": "Hydraulic Pump, Coupling and Mount (6018, 6020L)",
+ "breadcrumb": "Hydraulic Pump, Coupling and Mount (6018, 6020L)",
+ "catalogLabel": "Catalog 8-3360",
+ "modelNumbers": "Catalog 8-3360 — Ingersoll 6018, 6018BH, 6020L and 6020BH Compact Wheel Loaders (Later 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3360/hydraulic_pump_loaders.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 72.37,
+   "y": 12.54,
+   "variants": [
+    {
+     "serialNote": "6018, Onan engines",
+     "partNo": "C33041",
+     "desc": "MOUNT - pump (6018) (Onan engines)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020L, before PIN 17193591, Honda engines",
+     "partNo": "C46859",
+     "desc": "MOUNT - pump (6020L) (before PIN 17193591) (Honda engines)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020L, PIN 17193591 and after, Kohler engines",
+     "partNo": "C47559",
+     "desc": "MOUNT - pump (6020L) (PIN 17193591 and after) (Kohler engines)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 82.24,
+   "y": 64.09,
+   "partNo": "113-208",
+   "desc": "BOLT - 3/8\" - 16 x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 51.36,
+   "y": 36.33,
+   "partNo": "131-938",
+   "desc": "NUT - 3/8\" - 16 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 92.34,
+   "y": 28.6,
+   "variants": [
+    {
+     "serialNote": "3/8\" (teflon sealant on lower bolts)",
+     "partNo": "113-207",
+     "desc": "BOLT - 3/8\" - 16 x 1\" (use teflon sealant on lower bolts)",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "7/16\"",
+     "partNo": "113-310",
+     "desc": "BOLT - 7/16\" -14 x 1\"",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 88.46,
+   "y": 25.74,
+   "variants": [
+    {
+     "serialNote": "LOCKWASHER - 3/8\"",
+     "partNo": "192-21",
+     "desc": "LOCKWASHER - 3/8\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "LOCKWASHER - 7/16\"",
+     "partNo": "192-22",
+     "desc": "LOCKWASHER - 7/16\"",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 83.7,
+   "y": 23.45,
+   "partNo": "195-104",
+   "desc": "WASHER - .438\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 47.38,
+   "y": 7.48,
+   "partNo": "C28321",
+   "desc": "KEY - 1/4\" x 1/4\" x 3/4\" (engine shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 55.79,
+   "y": 7.8,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 59.67,
+   "y": 15.21,
+   "partNo": "126-13",
+   "desc": "KEY - 3/16\" x 5/8\" woodruff carbon (pump shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 93.7,
+   "y": 38.08,
+   "partNo": "C32170",
+   "desc": "PUMP - hydraulic, double",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 55.61,
+   "y": 82.71,
+   "partNo": "C32955",
+   "desc": "KIT - seal (main pump section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 84.67,
+   "y": 92.42,
+   "partNo": "C33110",
+   "desc": "SEAL - shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 80.41,
+   "y": 68.66,
+   "partNo": "NSS",
+   "desc": "SEAL - \"V\" (\"V\" side towards cover)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 72.09,
+   "y": 87.49,
+   "partNo": "NSS",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 74.12,
+   "y": 64.27,
+   "partNo": "NSS",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 66.07,
+   "y": 83.0,
+   "partNo": "NSS",
+   "desc": "PLATE - wear (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 59.1,
+   "y": 52.46,
+   "partNo": "NSS",
+   "desc": "PLATE - thrust (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 55.22,
+   "y": 50.24,
+   "partNo": "C33111",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 68.59,
+   "y": 59.53,
+   "partNo": "C33111",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 17.36,
+   "y": 56.11,
+   "partNo": "C32956",
+   "desc": "KIT - seal (secondary pump section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 42.36,
+   "y": 41.11,
+   "partNo": "NSS",
+   "desc": "SEAL - \"V\" (\"V\" side towards body)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 31.89,
+   "y": 59.54,
+   "partNo": "NSS",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 36.63,
+   "y": 37.95,
+   "partNo": "NSS",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 25.4,
+   "y": 55.37,
+   "partNo": "NSS",
+   "desc": "PLATE - wear (bronze side towards gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 20.07,
+   "y": 25.38,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 30.62,
+   "y": 33.21,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 46.7,
+   "y": 29.94,
+   "variants": [
+    {
+     "serialNote": "6018, Onan engines",
+     "partNo": "C33265",
+     "desc": "COUPLING - pump (6018) (Onan engines)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "6020L, before PIN 17193591, Honda engines",
+     "partNo": "C46937",
+     "desc": "COUPLING - pump (6020L) (before PIN 17193591) (Honda engines)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "PIN 17193591 and after, Kohler engines",
+     "partNo": "C47794",
+     "desc": "COUPLING - pump (PIN 17193591 and after) (Kohler engines)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "SEAL - shaft (not used)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.37
+}
