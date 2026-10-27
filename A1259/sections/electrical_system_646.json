@@ -1,0 +1,143 @@
+{
+ "sectionTitle": "Electrical System (646)",
+ "breadcrumb": "Electrical System (646)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/electrical_system_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.38,
+   "y": 41.5,
+   "partNo": "C18265",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64.69,
+   "y": 4.88,
+   "partNo": "C18283",
+   "desc": "LAMP ASSEMBLY - oil indicator",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 53.63,
+   "y": 70.3,
+   "partNo": "C18266",
+   "desc": "CABLE - battery positive (red 27\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 57.07,
+   "y": 50.76,
+   "partNo": "C14566",
+   "desc": "CABLE - battery ground (black 12\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 25.92,
+   "y": 46.22,
+   "partNo": "C18268",
+   "desc": "WIRE - battery positive to amp. gauge (white 14-1/2\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 29.45,
+   "y": 24.13,
+   "partNo": "C18401",
+   "desc": "WIRE ASSEMBLY - fused (yellow 10-3/4\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 48.7,
+   "y": 18.19,
+   "partNo": "223-20",
+   "desc": "FUSE - 20 amp.",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 43.31,
+   "y": 71.33,
+   "partNo": "C18270",
+   "desc": "WIRE - ignition switch to lights (pink 44\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 48.7,
+   "y": 72.28,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 47.21,
+   "y": 90.5,
+   "partNo": "C14302",
+   "desc": "HEADLAMP - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 75.01,
+   "y": 76.15,
+   "partNo": "C14302",
+   "desc": "HEADLAMP - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 29.45,
+   "y": 43.2,
+   "partNo": "C18197",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 13.56,
+   "y": 19.04,
+   "partNo": "C17976",
+   "desc": "SWITCH - ignition (includes key)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 9.84,
+   "y": 17.43,
+   "partNo": "C17763",
+   "desc": "KEY - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 31.78,
+   "y": 11.01,
+   "partNo": "C18389",
+   "desc": "GAUGE - ammeter",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "B50213",
+   "desc": "BULB - oil indicator 12 volt, (red)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C23744",
+   "desc": "KIT - neutral start switches",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.75
+}

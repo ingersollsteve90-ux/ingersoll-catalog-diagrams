@@ -1,0 +1,67 @@
+{
+ "sectionTitle": "D10 Wheel Weights",
+ "breadcrumb": "D10 Wheel Weights",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/d10_wheel_weights.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.04,
+   "y": 75.72,
+   "partNo": "NSS",
+   "desc": "WEIGHT - wheel (order as machinery item)",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 93.73,
+   "y": 13.44,
+   "partNo": "111-530",
+   "desc": "BOLT - 1/2\" x 2-1/2\" NC round head, square neck ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 62.56,
+   "y": 59.16,
+   "partNo": "111-531",
+   "desc": "BOLT - 1/2\" x 2-3/4\" NC round head, square neck ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 18.36,
+   "y": 43.64,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 18.08,
+   "y": 89.65,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 12.88,
+   "y": 93.11,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 13.17,
+   "y": 45.7,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "8"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.76
+}

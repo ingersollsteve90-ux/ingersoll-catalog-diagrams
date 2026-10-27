@@ -1,0 +1,381 @@
+{
+ "sectionTitle": "Hydraulic Control Valve - Tractor (C21497)",
+ "breadcrumb": "Hydraulic Control Valve - Tractor (C21497)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/hydraulic_control_valve_tractor_c21497.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 86.26,
+   "y": 20.82,
+   "partNo": "C21497",
+   "desc": "VALVE - tractor control",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 67.94,
+   "y": 53.51,
+   "partNo": "NSS",
+   "desc": "BODY - valve (order C21497)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 74.93,
+   "y": 65.14,
+   "partNo": "NSS",
+   "desc": "SPOOL - valve (order C21497)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 63.78,
+   "y": 83.88,
+   "partNo": "NSS",
+   "desc": "SPOOL - valve (order C21497)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 58.59,
+   "y": 79.64,
+   "partNo": "A7982",
+   "desc": "SEAL - \"O\" ring, spool",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 71.06,
+   "y": 61.08,
+   "partNo": "A7982",
+   "desc": "SEAL - \"O\" ring, spool",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 88.9,
+   "y": 75.94,
+   "partNo": "A7982",
+   "desc": "SEAL - \"O\" ring, spool",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 38.95,
+   "y": 63.76,
+   "partNo": "A7982",
+   "desc": "SEAL - \"O\" ring, spool",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 43.11,
+   "y": 44.55,
+   "partNo": "C17440",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 39.9,
+   "y": 41.78,
+   "partNo": "D59376",
+   "desc": "SPRING - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 35.65,
+   "y": 38.83,
+   "partNo": "C17442",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 30.55,
+   "y": 34.67,
+   "partNo": "C17439",
+   "desc": "DETENT - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 17.14,
+   "y": 50.55,
+   "partNo": "C17438",
+   "desc": "COVER - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 13.55,
+   "y": 24.79,
+   "partNo": "211-7",
+   "desc": "BALL - steel 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 9.12,
+   "y": 34.12,
+   "partNo": "211-7",
+   "desc": "BALL - steel 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 37.44,
+   "y": 58.49,
+   "partNo": "211-7",
+   "desc": "BALL - steel 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 15.82,
+   "y": 20.09,
+   "partNo": "C17444",
+   "desc": "SPRING - detent",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 7.23,
+   "y": 38.83,
+   "partNo": "C17444",
+   "desc": "SPRING - detent",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 5.53,
+   "y": 44.83,
+   "partNo": "C17443",
+   "desc": "SCREW - detent, cap",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 18.46,
+   "y": 16.3,
+   "partNo": "C17443",
+   "desc": "SCREW - detent, cap",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 7.89,
+   "y": 25.07,
+   "partNo": "169-114",
+   "desc": "SCREW, cover",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 29.51,
+   "y": 14.55,
+   "partNo": "169-114",
+   "desc": "SCREW, cover",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 23.85,
+   "y": 47.51,
+   "partNo": "129-531",
+   "desc": "CAP - relief adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 28.0,
+   "y": 50.74,
+   "partNo": "C17435",
+   "desc": "GASKET - relief adjust cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 31.02,
+   "y": 53.23,
+   "partNo": "C17433",
+   "desc": "SCREW - relief adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 34.52,
+   "y": 55.72,
+   "partNo": "C21505",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 44.71,
+   "y": 84.72,
+   "partNo": "C18852",
+   "desc": "BUSHING - power beyond",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 48.68,
+   "y": 81.58,
+   "partNo": "218-5007",
+   "desc": "SEAL - \"O\" ring, bushing",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 52.64,
+   "y": 77.98,
+   "partNo": "A30097",
+   "desc": "SEAL - \"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 58.31,
+   "y": 92.66,
+   "partNo": "221-841",
+   "desc": "PLUG - pipe 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 49.15,
+   "y": 30.33,
+   "partNo": "195-521",
+   "desc": "WASHER - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 45.18,
+   "y": 27.19,
+   "partNo": "C18850",
+   "desc": "SPRING - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 42.07,
+   "y": 24.61,
+   "partNo": "C18853",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 34.89,
+   "y": 19.25,
+   "partNo": "193-524",
+   "desc": "SCREW - with lockwasher",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 32.06,
+   "y": 17.04,
+   "partNo": "C18847",
+   "desc": "COVER - return",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 50.09,
+   "y": 7.62,
+   "partNo": "C21510",
+   "desc": "CAP - relief adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 60.1,
+   "y": 16.21,
+   "partNo": "C21507",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 66.62,
+   "y": 21.1,
+   "partNo": "211-9",
+   "desc": "BALL - steel 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 53.49,
+   "y": 10.58,
+   "partNo": "C21508",
+   "desc": "GASKET - relief adjust cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 57.08,
+   "y": 13.07,
+   "partNo": "C21509",
+   "desc": "SCREW - relief adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 63.41,
+   "y": 18.42,
+   "partNo": "C21506",
+   "desc": "RETAINER - ball, relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 67.94,
+   "y": 25.99,
+   "partNo": "C21522",
+   "desc": "SEAT - ball, relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 71.62,
+   "y": 19.07,
+   "partNo": "171-247",
+   "desc": "SCREW - valve mounting 5/16\" x 1-1/4\" flat head machine",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 70.87,
+   "y": 32.46,
+   "partNo": "131-351",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "partNo": "C18851",
+   "desc": "KIT - detent (includes 6, 7, 8, 9, 10, 11, 12, 13 & 14)",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "partNo": "C21511",
+   "desc": "KIT - relief (includes items 11, 15, 16, 17 & 18)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "partNo": "C21521",
+   "desc": "KIT - relief (includes items 28, 29, 30, 31, 32, 33 & 34)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.96
+}

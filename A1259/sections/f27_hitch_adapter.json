@@ -1,0 +1,35 @@
+{
+ "sectionTitle": "F27 Hitch Adapter",
+ "breadcrumb": "F27 Hitch Adapter",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/f27_hitch_adapter.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.77,
+   "y": 38.88,
+   "partNo": "C14872",
+   "desc": "BRACKET - hitch adapter",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 45.85,
+   "y": 24.77,
+   "partNo": "C14568",
+   "desc": "PIN - drawbar",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 40.37,
+   "y": 39.06,
+   "partNo": "113-425",
+   "desc": "BOLT - 1/2\" x 3\" NC hex, zinc plated",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.33
+}

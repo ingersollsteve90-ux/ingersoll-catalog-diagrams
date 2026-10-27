@@ -1,0 +1,212 @@
+{
+ "sectionTitle": "Electrical System (644)",
+ "breadcrumb": "Electrical System (644)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/electrical_system_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 69.25,
+   "y": 54.95,
+   "partNo": "C18260",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 41.32,
+   "y": 28.7,
+   "partNo": "C17187",
+   "desc": "WIRE - ignition switch to solenoid (yellow 8\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 27.35,
+   "y": 50.19,
+   "partNo": "C14565",
+   "desc": "CABLE - battery positive (red 10-1/2\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 55.85,
+   "y": 62.99,
+   "partNo": "C18267",
+   "desc": "CABLE - battery ground (black 16\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 45.66,
+   "y": 42.99,
+   "partNo": "223-20",
+   "desc": "FUSE - 20 amp.",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 61.89,
+   "y": 9.83,
+   "partNo": "C14553",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 50.85,
+   "y": 46.08,
+   "partNo": "A70221",
+   "desc": "REGULATOR - voltage",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 92.38,
+   "y": 37.57,
+   "variants": [
+    {
+     "partNo": "C16852",
+     "desc": "STARTER - generator 12 volt, Delco No. 1101875 (see C16852 Starter-Generator section)",
+     "reqd": "1",
+     "serialNote": "1101875 (see C16852 Starter-Generator section)"
+    },
+    {
+     "partNo": "A70202",
+     "desc": "STARTER - generator 12 volt, Delco No. 1101970 (see A70202 Starter-Generator section)",
+     "reqd": "1",
+     "serialNote": "1101970 (see A70202 Starter-Generator section)"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 92.1,
+   "y": 58.22,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 14.13,
+   "y": 20.95,
+   "partNo": "C18389",
+   "desc": "GAUGE - ammeter",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 88.42,
+   "y": 81.76,
+   "partNo": "C14302",
+   "desc": "HEADLAMP ASSEMBLY - 12 volt (see Electrical System Hardware)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 19.51,
+   "y": 72.42,
+   "partNo": "C18197",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 50.85,
+   "y": 90.17,
+   "partNo": "KO231281",
+   "desc": "COIL - ignition 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 37.35,
+   "y": 88.86,
+   "partNo": "KO232535",
+   "desc": "COVER - breaker contacts",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 55.85,
+   "y": 23.09,
+   "partNo": "C17275",
+   "desc": "WIRE - regulator ground to solenoid (white 7\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 44.34,
+   "y": 80.36,
+   "partNo": "M20007",
+   "desc": "SPARK PLUG (includes gasket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 53.02,
+   "y": 81.02,
+   "partNo": "A27251",
+   "desc": "GASKET - spark plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 61.99,
+   "y": 69.15,
+   "partNo": "KO238057",
+   "desc": "CABLE - high tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 68.12,
+   "y": 79.33,
+   "partNo": "KO230722",
+   "desc": "CONDENSER",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 36.5,
+   "y": 13.94,
+   "partNo": "C18261",
+   "desc": "WIRE - amp. gauge to solenoid (orange 6\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 11.68,
+   "y": 9.64,
+   "partNo": "C18262",
+   "desc": "WIRE - solenoid to ground (black 3\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 13.47,
+   "y": 36.08,
+   "partNo": "C17976",
+   "desc": "SWITCH - ignition (includes key)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 10.55,
+   "y": 32.34,
+   "partNo": "C17763",
+   "desc": "KEY - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "353-407",
+   "desc": "PLUG - hole, dash",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.71
+}

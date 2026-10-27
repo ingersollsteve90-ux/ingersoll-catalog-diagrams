@@ -1,0 +1,382 @@
+{
+ "sectionTitle": "Oil Base, Oil Pump and Gear Cover (646 Onan)",
+ "breadcrumb": "Oil Base, Oil Pump and Gear Cover (646 Onan)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/oil_base_pump_gear_cover_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 90.55,
+   "y": 33.29,
+   "partNo": "C20551",
+   "desc": "COVER ASSEMBLY - gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 85.82,
+   "y": 21.5,
+   "partNo": "C20310",
+   "desc": "SEAL - oil, governor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 86.66,
+   "y": 24.89,
+   "partNo": "C20544",
+   "desc": "BEARING - governor shaft, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 83.33,
+   "y": 6.58,
+   "partNo": "C20545",
+   "desc": "SHAFT AND ARM ASSEMBLY - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 62.77,
+   "y": 21.5,
+   "partNo": "C20546",
+   "desc": "YOKE - governor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 58.7,
+   "y": 23.29,
+   "partNo": "C20547",
+   "desc": "RING - retainer, yoke",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 63.05,
+   "y": 32.82,
+   "partNo": "C20309",
+   "desc": "PIN - stop, governor cup",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 66.94,
+   "y": 22.44,
+   "partNo": "C20549",
+   "desc": "BEARING - governor shaft, lower",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 60.65,
+   "y": 30.37,
+   "partNo": "211-5",
+   "desc": "BEARING - ball, governor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 93.69,
+   "y": 37.35,
+   "partNo": "C20312",
+   "desc": "SEAL - gear cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 59.72,
+   "y": 35.56,
+   "partNo": "C20552",
+   "desc": "GASKET - gear cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 70.74,
+   "y": 20.84,
+   "partNo": "C20314",
+   "desc": "PIN - gear cover",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 71.29,
+   "y": 9.89,
+   "partNo": "C20579",
+   "desc": "ARM - governor extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 69.07,
+   "y": 7.24,
+   "partNo": "177-97",
+   "desc": "BOLT - governor arm extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 87.49,
+   "y": 50.28,
+   "partNo": "13-528",
+   "desc": "BOLT - 5/16 x 1-3/4\" n.c. hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 90.55,
+   "y": 50.38,
+   "partNo": "13-536",
+   "desc": "BOLT - 5/16 x 2-1/4\" n.c. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 84.34,
+   "y": 47.36,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "18",
+   "x": 13.06,
+   "y": 78.79,
+   "partNo": "C20556",
+   "desc": "BASE - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 33.06,
+   "y": 63.5,
+   "partNo": "C20555",
+   "desc": "GASKET - oil base",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 44.17,
+   "y": 93.42,
+   "partNo": "C20557",
+   "desc": "BOLT - oil base to block",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 36.02,
+   "y": 94.36,
+   "partNo": "221-13",
+   "desc": "PLUG - oil drain 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 38.89,
+   "y": 95.02,
+   "partNo": "221-14",
+   "desc": "PLUG - oil drain 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 51.3,
+   "y": 66.52,
+   "variants": [
+    {
+     "partNo": "C20563",
+     "desc": "TUBE - oil filler (used with vacuum fuel pump)",
+     "reqd": "1",
+     "serialNote": "vacuum fuel pump)"
+    },
+    {
+     "partNo": "C20562",
+     "desc": "TUBE - oil filler (used with mechanical fuel pump)",
+     "reqd": "1",
+     "serialNote": "mechanical fuel pump)"
+    }
+   ]
+  },
+  {
+   "ref": "24",
+   "x": 40.28,
+   "y": 57.83,
+   "partNo": "C20553",
+   "desc": "CAP - oil filler",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 38.15,
+   "y": 60.1,
+   "partNo": "C20554",
+   "desc": "GASKET - oil cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 48.8,
+   "y": 77.09,
+   "partNo": "C20564",
+   "desc": "GASKET - tube, oil filler",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 50.28,
+   "y": 69.63,
+   "partNo": "13-410",
+   "desc": "BOLT - oil filler tube mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 51.94,
+   "y": 73.22,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - filler tube and oil pump mtg.",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 16.03,
+   "y": 19.99,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - filler tube and oil pump mtg.",
+   "reqd": "4"
+  },
+  {
+   "ref": "29",
+   "x": 30.19,
+   "y": 48.4,
+   "partNo": "C20570",
+   "desc": "INTAKE - oil pump (includes cup, screen and pipe)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 20.56,
+   "y": 13.38,
+   "partNo": "C20323",
+   "desc": "OIL PUMP ASSEMBLY (internal components NSS)",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 45.0,
+   "y": 16.87,
+   "partNo": "C20325",
+   "desc": "KIT - gasket oil pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 10.66,
+   "y": 23.1,
+   "partNo": "13-416",
+   "desc": "BOLT - oil pump mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 9.73,
+   "y": 44.34,
+   "partNo": "14-612",
+   "desc": "BOLT - 3/8\" n.c. hex, oil by-pass",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 9.64,
+   "y": 54.81,
+   "partNo": "C20320",
+   "desc": "SPRING - oil by-pass",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 10.1,
+   "y": 61.7,
+   "partNo": "C20322",
+   "desc": "VALVE - oil by-pass",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 8.34,
+   "y": 49.81,
+   "partNo": "C20274",
+   "desc": "WASHER - oil by-pass",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 83.23,
+   "y": 59.44,
+   "partNo": "C20566",
+   "desc": "FILTER - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 91.75,
+   "y": 64.63,
+   "partNo": "C20577",
+   "desc": "GASKET - oil filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 79.72,
+   "y": 56.51,
+   "partNo": "C20568",
+   "desc": "SWITCH - oil indicator",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 57.78,
+   "y": 39.05,
+   "partNo": "C20565",
+   "desc": "ADAPTER - oil filter (used on early models)",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 43.15,
+   "y": 50.66,
+   "partNo": "C20330",
+   "desc": "GASKET - adapter, oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 92.3,
+   "y": 59.53,
+   "partNo": "13-516",
+   "desc": "BOLT - 5/16 x 1\" n.c. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 88.32,
+   "y": 60.0,
+   "partNo": "C20331",
+   "desc": "WASHER - copper",
+   "reqd": "2"
+  },
+  {
+   "ref": "44",
+   "x": 44.63,
+   "y": 88.79,
+   "partNo": "92-9",
+   "desc": "LOCKWASHER - oil base mtg.",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.02
+}

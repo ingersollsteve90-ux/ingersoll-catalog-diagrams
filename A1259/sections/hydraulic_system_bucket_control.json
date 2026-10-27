@@ -1,0 +1,315 @@
+{
+ "sectionTitle": "Hydraulic System - Bucket Control",
+ "breadcrumb": "Hydraulic System - Bucket Control",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/hydraulic_system_bucket_control.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 55.51,
+   "y": 12.62,
+   "partNo": "C17714",
+   "desc": "PIN - cylinder mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 57.43,
+   "y": 9.32,
+   "partNo": "113-122",
+   "desc": "BOLT - 5/16\" x 1-1/2\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 69.18,
+   "y": 19.32,
+   "partNo": "131-173",
+   "desc": "NUT - lock 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 11.73,
+   "y": 7.52,
+   "partNo": "218-5066",
+   "desc": "FITTING - hydraulic (includes 218-5006 \"O\"-ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 36.42,
+   "y": 23.85,
+   "partNo": "218-5066",
+   "desc": "FITTING - hydraulic (includes 218-5006 \"O\"-ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 41.01,
+   "y": 7.43,
+   "partNo": "C18175",
+   "desc": "TUBE - valve to bucket valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 35.41,
+   "y": 27.72,
+   "partNo": "218-5351",
+   "desc": "FITTING - hydraulic, bucket valve (includes 218-5005 \"O\"-ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 24.21,
+   "y": 37.63,
+   "partNo": "218-5351",
+   "desc": "FITTING - hydraulic, bucket valve (includes 218-5005 \"O\"-ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 41.1,
+   "y": 24.61,
+   "partNo": "C18170",
+   "desc": "TUBE - bucket valve to left bulkhead",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 17.79,
+   "y": 38.96,
+   "partNo": "C18171",
+   "desc": "TUBE - bucket valve to right bulkhead",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 50.0,
+   "y": 74.82,
+   "partNo": "218-533",
+   "desc": "FITTING - 45°, bucket cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 71.02,
+   "y": 86.72,
+   "partNo": "218-455",
+   "desc": "FITTING - straight, bucket cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 68.36,
+   "y": 66.52,
+   "partNo": "C18164",
+   "desc": "TUBE - bucket cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 35.96,
+   "y": 68.22,
+   "partNo": "C18156",
+   "desc": "HOSE - bucket, cylinder",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 36.97,
+   "y": 78.88,
+   "partNo": "C18304",
+   "desc": "CLIP - hose tube mounting",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 35.32,
+   "y": 81.34,
+   "partNo": "187-1036",
+   "desc": "SCREW - clip mounting",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 51.19,
+   "y": 39.05,
+   "partNo": "218-5243",
+   "desc": "TEE - bucket valve (includes 218-5005 \"O\"-ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 43.94,
+   "y": 33.1,
+   "partNo": "C18295",
+   "desc": "FITTING - special 45° (includes 218-5005 \"O\"-ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 38.62,
+   "y": 49.91,
+   "partNo": "C18169",
+   "desc": "TUBE - bucket valve to right front bulkhead",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 69.36,
+   "y": 33.1,
+   "partNo": "C18176",
+   "desc": "TUBE - bucket valve to left front bulkhead",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 29.63,
+   "y": 41.98,
+   "partNo": "C18168",
+   "desc": "TUBE - bucket valve to right rear bulkhead",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 56.33,
+   "y": 24.33,
+   "partNo": "C18174",
+   "desc": "TUBE - bucket valve to left front bulkhead",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 11.64,
+   "y": 54.63,
+   "partNo": "C18166",
+   "desc": "HOSE TUBE - left rear to lift arm cylinder, rod end*",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 14.67,
+   "y": 54.44,
+   "partNo": "C18157",
+   "desc": "HOSE TUBE - right rear to lift arm cylinder, rod end*",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 15.4,
+   "y": 58.5,
+   "partNo": "C18165",
+   "desc": "HOSE TUBE - right front to lift arm cylinder, foot end*",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 18.34,
+   "y": 58.4,
+   "partNo": "C18158",
+   "desc": "HOSE TUBE - left front to lift arm cylinder, foot end*",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 34.12,
+   "y": 53.49,
+   "partNo": "218-1254",
+   "desc": "NUT - jam 9/16\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "25",
+   "x": 22.83,
+   "y": 44.43,
+   "partNo": "218-1254",
+   "desc": "NUT - jam 9/16\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "26",
+   "x": 59.36,
+   "y": 57.93,
+   "partNo": "218-443",
+   "desc": "FITTING - lift arm cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "26",
+   "x": 70.92,
+   "y": 58.21,
+   "partNo": "218-443",
+   "desc": "FITTING - lift arm cylinder",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 71.29,
+   "y": 68.69,
+   "partNo": "214-262",
+   "desc": "CLAMP - hose, large",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 75.15,
+   "y": 41.32,
+   "partNo": "214-260",
+   "desc": "CLAMP - hose, small",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 19.81,
+   "y": 61.52,
+   "partNo": "C18172",
+   "desc": "HOSE TUBE - bucket cylinder, top left*",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 19.9,
+   "y": 63.4,
+   "partNo": "C18173",
+   "desc": "HOSE TUBE - bucket cylinder, top right*",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 28.89,
+   "y": 89.27,
+   "partNo": "218-1255",
+   "desc": "NUT - jam 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "32",
+   "x": 11.18,
+   "y": 28.95,
+   "partNo": "C18179",
+   "desc": "VALVE - bucket control (repairs: Hydraulic Control Valve - Bucket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 80.29,
+   "y": 43.86,
+   "partNo": "C11527",
+   "desc": "CYLINDER - lift arm (repairs: Cylinder - Lift Arm)",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 69.55,
+   "y": 90.21,
+   "partNo": "C11528",
+   "desc": "CYLINDER - bucket (repairs: Cylinder - Bucket)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Will no longer be furnished after depletion of stock.",
+ "dotSizePct": 2.88
+}

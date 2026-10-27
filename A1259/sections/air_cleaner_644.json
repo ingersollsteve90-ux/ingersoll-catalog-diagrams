@@ -1,0 +1,83 @@
+{
+ "sectionTitle": "Air Cleaner (644)",
+ "breadcrumb": "Air Cleaner (644)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/air_cleaner_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.05,
+   "y": 24.96,
+   "partNo": "KOA235100",
+   "desc": "AIR CLEANER ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 8.17,
+   "y": 67.58,
+   "partNo": "C26703",
+   "desc": "NUT - wing 3/8\" NC",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 62.56,
+   "y": 21.92,
+   "partNo": "NSS",
+   "desc": "BASE - air cleaner (order KOA235100)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 18.18,
+   "y": 54.33,
+   "partNo": "NSS",
+   "desc": "COVER - air cleaner (order KOA235100)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 48.49,
+   "y": 32.42,
+   "partNo": "A70090",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 74.64,
+   "y": 20.45,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 54.82,
+   "y": 31.22,
+   "partNo": "177-94",
+   "desc": "SCREW - #10 x 5/16\" NF fillister hd.",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 58.59,
+   "y": 27.54,
+   "partNo": "195-512",
+   "desc": "WASHER - 3/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 34.42,
+   "y": 42.54,
+   "partNo": "KO237421",
+   "desc": "PRE-CLEANER (optional)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.07
+}

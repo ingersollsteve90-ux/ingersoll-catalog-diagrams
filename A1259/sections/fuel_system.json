@@ -1,0 +1,246 @@
+{
+ "sectionTitle": "Fuel System",
+ "breadcrumb": "Fuel System",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/fuel_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 82.16,
+   "y": 10.84,
+   "partNo": "KOA237490",
+   "desc": "CARBURETOR ASSEMBLY (repairs: Carburetor - 644)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 89.6,
+   "y": 10.08,
+   "partNo": "A72100",
+   "desc": "GASKET - carburetor flange",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 57.71,
+   "y": 13.29,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel pump and carburetor",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 86.62,
+   "y": 36.22,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel pump and carburetor",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 57.53,
+   "y": 29.99,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel pump and carburetor",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 30.11,
+   "y": 41.88,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel pump and carburetor",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 57.62,
+   "y": 16.6,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 57.34,
+   "y": 26.69,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 72.12,
+   "y": 41.22,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 44.79,
+   "y": 83.22,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 57.62,
+   "y": 21.31,
+   "partNo": "C15007",
+   "desc": "HOSE - carburetor 5-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 93.59,
+   "y": 29.99,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 92.57,
+   "y": 32.45,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 61.06,
+   "y": 32.45,
+   "partNo": "KOA236205",
+   "desc": "PUMP - fuel, 644 (repairs: Fuel Pump - 644)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 56.69,
+   "y": 36.98,
+   "partNo": "71-410",
+   "desc": "SCREW - 1/4\" x 5/8\" NC fillister head",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 60.41,
+   "y": 35.37,
+   "partNo": "193-60",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 74.91,
+   "y": 30.09,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 14.77,
+   "y": 49.62,
+   "partNo": "C18274",
+   "desc": "HOSE - fuel line, return 77\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 88.3,
+   "y": 33.58,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mounting, all models",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 39.96,
+   "y": 80.39,
+   "partNo": "C10657",
+   "desc": "ELBOW ASSEMBLY - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 19.6,
+   "y": 83.31,
+   "partNo": "C14690",
+   "desc": "CUSHION - fuel tank",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 57.16,
+   "y": 88.59,
+   "variants": [
+    {
+     "partNo": "C18275",
+     "desc": "HOSE - fuel line 52\" (644)",
+     "reqd": "1",
+     "serialNote": "52\" (644)"
+    },
+    {
+     "partNo": "C18273",
+     "desc": "HOSE - fuel line 54\" (646)",
+     "reqd": "1",
+     "serialNote": "54\" (646)"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 48.51,
+   "y": 39.62,
+   "partNo": "C18133",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 37.17,
+   "y": 37.73,
+   "partNo": "C11529",
+   "desc": "CAP - fuel tank (includes insert)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 36.06,
+   "y": 42.17,
+   "partNo": "C11545",
+   "desc": "INSERT - fuel cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 36.06,
+   "y": 84.44,
+   "partNo": "C18190",
+   "desc": "STRAP - fuel tank mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 6.96,
+   "y": 91.24,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4 x 1/2\" NC round head, machine, zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 9.47,
+   "y": 94.16,
+   "partNo": "129-504",
+   "desc": "NUT - square 1/4\" NC",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.61
+}

@@ -1,0 +1,217 @@
+{
+ "sectionTitle": "Cylinder - Lift Arm",
+ "breadcrumb": "Cylinder - Lift Arm",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/cylinder_lift_arm.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6.03,
+   "y": 30.48,
+   "partNo": "T24080",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6.03,
+   "y": 37.39,
+   "partNo": "T24081",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 81.51,
+   "y": 70.8,
+   "partNo": "NSS",
+   "desc": "RING - retaining (order T41499 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 5.47,
+   "y": 42.91,
+   "partNo": "NSS",
+   "desc": "RING - retaining (order T41499 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 6.6,
+   "y": 53.41,
+   "partNo": "C18575",
+   "desc": "ROD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 34.34,
+   "y": 41.07,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod (order T41499 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 80.47,
+   "y": 15.94,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod (order T41499 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 33.21,
+   "y": 53.04,
+   "partNo": "NSS",
+   "desc": "WIPER - rod (order T41499 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 80.29,
+   "y": 24.04,
+   "partNo": "NSS",
+   "desc": "WIPER - rod (order T41499 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 33.77,
+   "y": 58.56,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod (order T41499 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 80.19,
+   "y": 30.76,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod (order T41499 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 32.55,
+   "y": 66.29,
+   "partNo": "T42253",
+   "desc": "HEAD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 32.55,
+   "y": 75.96,
+   "partNo": "NSS",
+   "desc": "SEAL - head",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 80.76,
+   "y": 39.69,
+   "partNo": "NSS",
+   "desc": "SEAL - head",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 33.49,
+   "y": 84.43,
+   "partNo": "T42254",
+   "desc": "BUSHING - head",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 55.19,
+   "y": 17.23,
+   "partNo": "T24084",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 55.57,
+   "y": 24.04,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston (order T41499 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 80.66,
+   "y": 48.9,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston (order T41499 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 80.95,
+   "y": 62.8,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston (order T41499 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 55.38,
+   "y": 38.03,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston (order T41499 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 55.28,
+   "y": 31.41,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, piston (order T41499 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 81.32,
+   "y": 55.98,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, piston (order T41499 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 55.76,
+   "y": 43.83,
+   "partNo": "25-159",
+   "desc": "NUT - jam",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 55.94,
+   "y": 58.84,
+   "partNo": "C18576",
+   "desc": "BODY - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 76.23,
+   "y": 28.55,
+   "partNo": "T41499",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C11527",
+   "desc": "CYLINDER - lift arm",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.8
+}

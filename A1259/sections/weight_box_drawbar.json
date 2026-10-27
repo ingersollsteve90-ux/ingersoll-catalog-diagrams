@@ -1,0 +1,43 @@
+{
+ "sectionTitle": "Weight Box and Drawbar",
+ "breadcrumb": "Weight Box and Drawbar",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/weight_box_drawbar.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 89.46,
+   "y": 25.57,
+   "partNo": "C17641",
+   "desc": "WEIGHT BOX",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.75,
+   "y": 73.78,
+   "partNo": "C13360",
+   "desc": "DRAWBAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 66.83,
+   "y": 65.63,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 76.49,
+   "y": 69.66,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 6.15
+}

@@ -1,0 +1,179 @@
+{
+ "sectionTitle": "Hydraulic Pump and Coupling (646)",
+ "breadcrumb": "Hydraulic Pump and Coupling (646)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/hydraulic_pump_coupling_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 16.41,
+   "y": 70.33,
+   "partNo": "NSS",
+   "desc": "PUMP - hydraulic (order C20025 pump; see Hydraulic Pump - 646 (C20025))",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 25.19,
+   "y": 26.45,
+   "partNo": "C18759",
+   "desc": "BODY - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 71.32,
+   "y": 65.82,
+   "partNo": "C18760",
+   "desc": "COVER - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 84.53,
+   "y": 82.29,
+   "partNo": "C18767",
+   "desc": "RING - retaining, external tooth",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 81.04,
+   "y": 80.55,
+   "partNo": "C18768",
+   "desc": "RING - snap",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 78.4,
+   "y": 77.33,
+   "partNo": "C18766",
+   "desc": "SEAL - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 57.64,
+   "y": 59.84,
+   "partNo": "C18764",
+   "desc": "SEAL - pressure load",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 51.7,
+   "y": 54.51,
+   "partNo": "C18763",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 42.55,
+   "y": 46.6,
+   "partNo": "C18761",
+   "desc": "GEAR - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 36.98,
+   "y": 77.97,
+   "partNo": "C18762",
+   "desc": "GEAR - driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 38.68,
+   "y": 43.28,
+   "partNo": "C18765",
+   "desc": "PLATE - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 30.85,
+   "y": 36.02,
+   "partNo": "C18769",
+   "desc": "SEAL - gasket",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 15.28,
+   "y": 26.26,
+   "partNo": "A7200",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 10.37,
+   "y": 23.5,
+   "partNo": "113-274",
+   "desc": "BOLT",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 46.23,
+   "y": 50.55,
+   "partNo": "126-112",
+   "desc": "KEY - woodruff",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 66.89,
+   "y": 15.5,
+   "partNo": "C18235",
+   "desc": "COUPLING - pump (646)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 78.31,
+   "y": 13.84,
+   "partNo": "NSS",
+   "desc": "HUB (order C18235)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 90.48,
+   "y": 23.69,
+   "partNo": "NSS",
+   "desc": "HUB (order C18235)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 84.44,
+   "y": 18.81,
+   "partNo": "C18258",
+   "desc": "SPIDER - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 63.68,
+   "y": 12.09,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 51.6,
+   "y": 35.65,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 5/16\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.8
+}

@@ -1,0 +1,267 @@
+{
+ "sectionTitle": "Starter Motor (646 Onan)",
+ "breadcrumb": "Starter Motor (646 Onan)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/starter_motor_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 33.5,
+   "y": 8.77,
+   "partNo": "C20589",
+   "desc": "BRACKET - starter mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 39.65,
+   "y": 11.98,
+   "partNo": "C20587",
+   "desc": "SPACER - starter mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 23.61,
+   "y": 12.07,
+   "partNo": "13-620",
+   "desc": "BOLT - starter bracket mtg.",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 48.79,
+   "y": 5.0,
+   "partNo": "C20615",
+   "desc": "BOLT - starter to bracket mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 43.85,
+   "y": 6.13,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - starter mtg.",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 28.55,
+   "y": 10.56,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - starter mtg.",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 54.48,
+   "y": 6.79,
+   "partNo": "C20586",
+   "desc": "MOTOR - starting 12 volt *",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 33.4,
+   "y": 45.38,
+   "partNo": "C20663",
+   "desc": "YOKE ASSEMBLY - frame (includes items 8, 9, 10 & 11)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 18.58,
+   "y": 60.94,
+   "partNo": "C20678",
+   "desc": "BRUSH - starter motor",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 45.52,
+   "y": 42.74,
+   "partNo": "C20683",
+   "desc": "COIL ASSEMBLY - field",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 48.69,
+   "y": 47.36,
+   "partNo": "C20686",
+   "desc": "POLE - shoe",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 31.63,
+   "y": 50.0,
+   "partNo": "C20687",
+   "desc": "SCREW - coil mtg., field",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 54.01,
+   "y": 51.51,
+   "partNo": "C20664",
+   "desc": "ARMATURE - starter motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 56.62,
+   "y": 47.64,
+   "partNo": "C20673",
+   "desc": "HOLDER - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 61.47,
+   "y": 46.23,
+   "partNo": "C20672",
+   "desc": "SPRING - lever (B)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 67.25,
+   "y": 45.19,
+   "partNo": "C20671",
+   "desc": "SPRING - lever (A)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 75.36,
+   "y": 43.4,
+   "partNo": "C20670",
+   "desc": "LEVER - clutch fork",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 80.96,
+   "y": 45.75,
+   "partNo": "C20665",
+   "desc": "CLUTCH - engaging, starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 84.97,
+   "y": 61.7,
+   "partNo": "C20666",
+   "desc": "STOP - pinion",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 89.44,
+   "y": 60.38,
+   "partNo": "C20667",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 93.64,
+   "y": 58.49,
+   "partNo": "C20668",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 18.2,
+   "y": 83.97,
+   "partNo": "C20674",
+   "desc": "END CAP - starter, rear (includes bearing)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 22.12,
+   "y": 77.93,
+   "partNo": "C20685",
+   "desc": "BEARING - rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 8.97,
+   "y": 83.31,
+   "partNo": "C20680",
+   "desc": "BOLT - through",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 5.8,
+   "y": 60.76,
+   "partNo": "C20679",
+   "desc": "SPRING - brush",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 44.31,
+   "y": 72.17,
+   "partNo": "C20676",
+   "desc": "WASHER - armature",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 48.23,
+   "y": 71.42,
+   "partNo": "C20677",
+   "desc": "WASHER - insulating",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 51.59,
+   "y": 70.29,
+   "partNo": "C20675",
+   "desc": "WASHER - armature",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 59.7,
+   "y": 71.98,
+   "partNo": "C20682",
+   "desc": "SWITCH ASSEMBLY - solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 76.11,
+   "y": 68.4,
+   "partNo": "C20681",
+   "desc": "SCREW - solenoid mtg.",
+   "reqd": "3"
+  },
+  {
+   "ref": "30",
+   "x": 84.22,
+   "y": 94.72,
+   "partNo": "C20669",
+   "desc": "FRAME ASSEMBLY - drive end (includes bearing)",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 92.61,
+   "y": 88.78,
+   "partNo": "C20684",
+   "desc": "BEARING - front",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* For recommended electrical connection also use C23744 neutral start switch kit.",
+ "dotSizePct": 3.24
+}

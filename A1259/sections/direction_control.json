@@ -1,0 +1,227 @@
+{
+ "sectionTitle": "Direction Control",
+ "breadcrumb": "Direction Control",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/direction_control.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 27.43,
+   "y": 41.5,
+   "partNo": "C21512",
+   "desc": "ARM - control",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 65.27,
+   "y": 11.85,
+   "partNo": "C17569",
+   "desc": "LEVER - direction control",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 62.03,
+   "y": 42.82,
+   "partNo": "C16898",
+   "desc": "FOLLOWER - cam",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 53.79,
+   "y": 56.23,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 62.12,
+   "y": 27.24,
+   "partNo": "195-520",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 24.74,
+   "y": 78.61,
+   "partNo": "C19900",
+   "desc": "PEDAL - motion control",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 46.58,
+   "y": 67.66,
+   "partNo": "C17553",
+   "desc": "ROD - pedal control",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 49.26,
+   "y": 85.79,
+   "partNo": "129-102",
+   "desc": "NUT - lock 5/16\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 16.42,
+   "y": 74.08,
+   "partNo": "C18277",
+   "desc": "SPRING - pedal return",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 78.13,
+   "y": 63.88,
+   "partNo": "C17551",
+   "desc": "DISC - friction",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 76.65,
+   "y": 68.04,
+   "partNo": "C12127",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 78.13,
+   "y": 73.7,
+   "partNo": "C18391",
+   "desc": "WASHER - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 76.37,
+   "y": 81.44,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 76.46,
+   "y": 89.66,
+   "partNo": "129-145",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 27.33,
+   "y": 46.98,
+   "partNo": "C19902",
+   "desc": "BRACKET - valve control",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 20.95,
+   "y": 49.24,
+   "partNo": "C18012",
+   "desc": "BRACKET - guide",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 16.79,
+   "y": 56.23,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 51.57,
+   "y": 63.12,
+   "partNo": "131-176",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 45.56,
+   "y": 23.37,
+   "partNo": "C17557",
+   "desc": "ROD - valve control",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 46.11,
+   "y": 50.09,
+   "partNo": "195-102",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 34.18,
+   "y": 35.36,
+   "partNo": "C16683",
+   "desc": "BALL JOINT",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 28.72,
+   "y": 32.81,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 40.38,
+   "y": 36.31,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 47.41,
+   "y": 6.0,
+   "partNo": "131-176",
+   "desc": "NUT - lock 5/16\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 80.44,
+   "y": 4.96,
+   "partNo": "A37247",
+   "desc": "KNOB - control lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 75.63,
+   "y": 31.78,
+   "partNo": "C12093",
+   "desc": "BUSHING - flip lok",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 52.68,
+   "y": 24.88,
+   "partNo": "132-46",
+   "desc": "PIN - cotter 1/8\" x 3/4\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.61
+}

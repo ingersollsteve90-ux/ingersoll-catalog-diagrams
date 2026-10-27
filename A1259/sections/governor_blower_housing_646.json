@@ -1,0 +1,372 @@
+{
+ "sectionTitle": "Governor and Blower Housing (646 Onan)",
+ "breadcrumb": "Governor and Blower Housing (646 Onan)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/governor_blower_housing_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.0,
+   "y": 29.9,
+   "partNo": "C20550",
+   "desc": "NUT - lock, governor throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 46.04,
+   "y": 31.5,
+   "partNo": "C20569",
+   "desc": "BALLJOINT - governor throttle rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 31.61,
+   "y": 34.52,
+   "partNo": "C20605",
+   "desc": "NUT - ball joint",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 57.36,
+   "y": 28.2,
+   "partNo": "C20572",
+   "desc": "ROD - governor throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 59.43,
+   "y": 17.73,
+   "partNo": "C20573",
+   "desc": "CLIP - rod, governor throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 69.24,
+   "y": 7.35,
+   "partNo": "C20606",
+   "desc": "ARM - governor pivot (used prior to S/N 9663306)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 60.75,
+   "y": 29.99,
+   "partNo": "C20619",
+   "desc": "WASHER - governor arm (used prior to S/N 9663306)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 87.25,
+   "y": 23.58,
+   "partNo": "131-702",
+   "desc": "NUT - lock, governor arm (used prior to S/N 9663306)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 80.08,
+   "y": 14.33,
+   "partNo": "C20607",
+   "desc": "BRACKET - governor control (used prior to S/N 9663306)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 86.3,
+   "y": 77.74,
+   "partNo": "C20608",
+   "desc": "BRACKET - governor control (used S/N 9663306 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 31.8,
+   "y": 10.74,
+   "partNo": "C20609",
+   "desc": "ADAPTER - governor arm (used prior to S/N 9663306)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 22.47,
+   "y": 13.01,
+   "partNo": "129-27",
+   "desc": "NUT - #10",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 43.96,
+   "y": 9.89,
+   "partNo": "C20611",
+   "desc": "ROD - governor, high speed",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 59.43,
+   "y": 6.4,
+   "partNo": "C20612",
+   "desc": "SPRING - governor (used prior to S/N 9663306)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 61.79,
+   "y": 5.46,
+   "partNo": "C20613",
+   "desc": "SPRING - governor (used S/N 9663306 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 62.35,
+   "y": 62.55,
+   "partNo": "C20622",
+   "desc": "ARM - governor, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 61.13,
+   "y": 57.45,
+   "partNo": "C20372",
+   "desc": "SWIVEL - governor arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 59.43,
+   "y": 64.25,
+   "partNo": "195-14",
+   "desc": "WASHER - #6",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 61.79,
+   "y": 68.12,
+   "partNo": "136-2",
+   "desc": "PIN - cotter",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 62.92,
+   "y": 53.96,
+   "partNo": "169-74",
+   "desc": "SCREW - #8 x 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 62.45,
+   "y": 71.61,
+   "partNo": "C20624",
+   "desc": "SPACER - governor arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 73.76,
+   "y": 64.53,
+   "partNo": "121-3",
+   "desc": "BOLT - locking 1/4 x 1/2\" n.c. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 92.53,
+   "y": 71.04,
+   "partNo": "C20627",
+   "desc": "SCREW - #10 x 1\" n.f.",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 88.94,
+   "y": 74.72,
+   "partNo": "C20628",
+   "desc": "WASHER - #10",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 79.33,
+   "y": 87.18,
+   "partNo": "C20628",
+   "desc": "WASHER - #10",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 71.31,
+   "y": 94.54,
+   "partNo": "129-27",
+   "desc": "NUT - #10 N.F. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 75.74,
+   "y": 91.99,
+   "partNo": "C20626",
+   "desc": "CLIP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 94.23,
+   "y": 87.56,
+   "partNo": "C20626",
+   "desc": "CLIP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 93.19,
+   "y": 81.52,
+   "partNo": "C20625",
+   "desc": "GROMMET - rubber",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 11.53,
+   "y": 71.7,
+   "variants": [
+    {
+     "partNo": "C20578",
+     "desc": "BAFFLE - cylinder L.H. (used prior to S/N 9663306)",
+     "reqd": "1",
+     "serialNote": "prior to S/N 9663306)"
+    },
+    {
+     "partNo": "C20580",
+     "desc": "BAFFLE - cylinder L.H. (used S/N 9663306 and after)",
+     "reqd": "1",
+     "serialNote": "S/N 9663306 and after)"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 17.18,
+   "y": 78.03,
+   "variants": [
+    {
+     "partNo": "C20581",
+     "desc": "HOUSING - blower (used prior to S/N 9663306)",
+     "reqd": "1",
+     "serialNote": "prior to S/N 9663306)"
+    },
+    {
+     "partNo": "C20582",
+     "desc": "HOUSING - blower (used S/N 9663306 and after)",
+     "reqd": "1",
+     "serialNote": "S/N 9663306 and after)"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 53.49,
+   "y": 63.97,
+   "variants": [
+    {
+     "partNo": "C20583",
+     "desc": "BAFFLE - cylinder R.H. (used prior to S/N 9663306)",
+     "reqd": "1",
+     "serialNote": "prior to S/N 9663306)"
+    },
+    {
+     "partNo": "C20584",
+     "desc": "BAFFLE - cylinder R.H. (used S/N 9663306 and after)",
+     "reqd": "1",
+     "serialNote": "S/N 9663306 and after)"
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 50.57,
+   "y": 92.56,
+   "partNo": "C20614",
+   "desc": "BAFFLE - air",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 66.03,
+   "y": 81.05,
+   "partNo": "C20610",
+   "desc": "GROMMET - rubber",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 33.4,
+   "y": 47.83,
+   "partNo": "C20616",
+   "desc": "PLUG - blower housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 60.66,
+   "y": 85.39,
+   "partNo": "C20620",
+   "desc": "TUBE - drain, oil filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 46.32,
+   "y": 63.21,
+   "partNo": "C20621",
+   "desc": "STUD - cylinder air baffle",
+   "reqd": "4"
+  },
+  {
+   "ref": "35",
+   "x": 23.31,
+   "y": 48.21,
+   "partNo": "C20621",
+   "desc": "STUD - cylinder air baffle",
+   "reqd": "4"
+  },
+  {
+   "ref": "36",
+   "x": 5.21,
+   "y": 48.49,
+   "partNo": "25-118",
+   "desc": "NUT - baffle mtg.",
+   "reqd": "4"
+  },
+  {
+   "ref": "36",
+   "x": 67.16,
+   "y": 75.48,
+   "partNo": "25-118",
+   "desc": "NUT - baffle mtg.",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 84.98,
+   "y": 63.4,
+   "partNo": "C20374",
+   "desc": "CLIP - cable, throttle",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.99
+}

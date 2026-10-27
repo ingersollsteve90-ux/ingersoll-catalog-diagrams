@@ -1,0 +1,35 @@
+{
+ "sectionTitle": "Exhaust System (644)",
+ "breadcrumb": "Exhaust System (644)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/exhaust_system_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 83.45,
+   "y": 55.36,
+   "partNo": "C18246",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 81.05,
+   "y": 11.9,
+   "partNo": "C10372",
+   "desc": "GASKET - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 8.42,
+   "y": 9.96,
+   "partNo": "61-510",
+   "desc": "SCREW - 5/16\" x 5/8\" NC socket head",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.67
+}

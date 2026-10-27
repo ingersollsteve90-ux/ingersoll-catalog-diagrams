@@ -1,0 +1,167 @@
+{
+ "sectionTitle": "Hydraulic Drive Motor",
+ "breadcrumb": "Hydraulic Drive Motor",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/hydraulic_drive_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6.06,
+   "y": 30.66,
+   "partNo": "NSS",
+   "desc": "RING - retaining (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 9.87,
+   "y": 28.86,
+   "partNo": "NSS",
+   "desc": "SPACER (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 20.39,
+   "y": 24.24,
+   "partNo": "NSS",
+   "desc": "SEAL - oil (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 37.8,
+   "y": 12.73,
+   "partNo": "C14827",
+   "desc": "HOUSING ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 74.02,
+   "y": 53.3,
+   "partNo": "C14837",
+   "desc": "END CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 57.26,
+   "y": 61.51,
+   "partNo": "NSS",
+   "desc": "SEAL (see kit below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 57.08,
+   "y": 4.8,
+   "partNo": "NSS",
+   "desc": "SEAL (see kit below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 26.26,
+   "y": 50.38,
+   "partNo": "C14828",
+   "desc": "SHAFT - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 36.22,
+   "y": 46.04,
+   "partNo": "C14829",
+   "desc": "DRIVE LINK",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 50.56,
+   "y": 37.36,
+   "partNo": "C14830",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 68.43,
+   "y": 27.83,
+   "partNo": "C14831",
+   "desc": "ROTOR ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 78.77,
+   "y": 23.01,
+   "partNo": "C14832",
+   "desc": "PLATE - manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 13.78,
+   "y": 82.55,
+   "partNo": "C14833",
+   "desc": "MANIFOLD",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 29.61,
+   "y": 77.65,
+   "partNo": "C14834",
+   "desc": "COMMUTATOR AND RING SET",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 34.27,
+   "y": 75.38,
+   "partNo": "NSS",
+   "desc": "RING - sealing (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 43.76,
+   "y": 67.55,
+   "partNo": "C14836",
+   "desc": "SLEEVE",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 87.05,
+   "y": 49.91,
+   "partNo": "C14838",
+   "desc": "BOLT - 3/8\" x 4-3/8\" NF hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "17",
+   "x": 15.09,
+   "y": 26.69,
+   "partNo": "C19212",
+   "desc": "SHIM",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C14655",
+   "desc": "MOTOR - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C19037",
+   "desc": "KIT - \"O\" ring and seal (includes items 1, 2, 3, 6 and 14)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.78
+}

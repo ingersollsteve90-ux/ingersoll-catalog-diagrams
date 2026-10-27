@@ -1,0 +1,222 @@
+{
+ "sectionTitle": "Seat, Fenders and Tool Tray",
+ "breadcrumb": "Seat, Fenders and Tool Tray",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/seat_fenders_tool_tray.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 27.91,
+   "y": 86.52,
+   "partNo": "C17488",
+   "desc": "SUPPORT - seat, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 13.03,
+   "y": 80.01,
+   "partNo": "C17485",
+   "desc": "SUPPORT - seat, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 17.65,
+   "y": 73.69,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 54.81,
+   "y": 59.25,
+   "partNo": "113-433",
+   "desc": "BOLT - 1/2\" x 3/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 30.78,
+   "y": 68.21,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 44.18,
+   "y": 65.1,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 20.61,
+   "y": 65.95,
+   "partNo": "C16430",
+   "desc": "TRAY - tool",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 63.31,
+   "y": 37.73,
+   "partNo": "C16429",
+   "desc": "PIN - seat hinge",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 53.51,
+   "y": 10.74,
+   "partNo": "C18217",
+   "desc": "SEAT",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 13.13,
+   "y": 49.34,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 12.02,
+   "y": 29.99,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 16.18,
+   "y": 52.83,
+   "partNo": "195-2021",
+   "desc": "WASHER - 5/16\" x 1-1/4\" O.D.",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 17.84,
+   "y": 57.55,
+   "partNo": "26-524",
+   "desc": "BOLT - 5/16\" x 1-1/2\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 6.66,
+   "y": 42.83,
+   "partNo": "C14534",
+   "desc": "BUMPER - seat",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 51.39,
+   "y": 43.49,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex flange",
+   "reqd": "14"
+  },
+  {
+   "ref": "13",
+   "x": 64.6,
+   "y": 73.4,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex flange",
+   "reqd": "14"
+  },
+  {
+   "ref": "14",
+   "x": 47.04,
+   "y": 31.22,
+   "partNo": "C17152",
+   "desc": "HINGE - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 44.64,
+   "y": 90.96,
+   "partNo": "C14728",
+   "desc": "GRIP - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 86.5,
+   "y": 48.68,
+   "variants": [
+    {
+     "partNo": "C17456",
+     "desc": "FENDER - L.H.",
+     "reqd": "1",
+     "serialNote": "L.H."
+    },
+    {
+     "partNo": "C17457",
+     "desc": "FENDER - R.H.",
+     "reqd": "1",
+     "serialNote": "R.H."
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 76.34,
+   "y": 81.62,
+   "partNo": "C17491",
+   "desc": "LEVER - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 72.36,
+   "y": 79.82,
+   "partNo": "195-2029",
+   "desc": "WASHER - 7/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 82.16,
+   "y": 84.45,
+   "partNo": "C17216",
+   "desc": "SPRING - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 87.15,
+   "y": 86.52,
+   "partNo": "C17066",
+   "desc": "WASHER - cupped",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 91.22,
+   "y": 88.98,
+   "partNo": "131-178",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 67.28,
+   "y": 78.12,
+   "partNo": "113-257",
+   "desc": "BOLT - 3/8\" x 2-1/2\" NC hex",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.23
+}

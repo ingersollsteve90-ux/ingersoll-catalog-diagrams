@@ -1,0 +1,164 @@
+{
+ "sectionTitle": "PTO Clutch and Linkage",
+ "breadcrumb": "PTO Clutch and Linkage",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/pto_clutch_linkage.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 89.13,
+   "y": 45.59,
+   "variants": [
+    {
+     "partNo": "C18254",
+     "desc": "CLUTCH ASSEMBLY - less screen, 644 (see the Clutch Assembly (PTO) sections)",
+     "reqd": "1",
+     "serialNote": "less screen, 644 (see the Clutch Assembly (PTO) sections)"
+    },
+    {
+     "partNo": "C18255",
+     "desc": "CLUTCH ASSEMBLY - 646 (see the Clutch Assembly (PTO) sections)",
+     "reqd": "1",
+     "serialNote": "646 (see the Clutch Assembly (PTO) sections)"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 27.27,
+   "y": 18.38,
+   "partNo": "C17679",
+   "desc": "HANDLE - clutch engaging",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 26.9,
+   "y": 7.4,
+   "partNo": "C14728",
+   "desc": "GRIP - clutch handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 43.57,
+   "y": 49.81,
+   "partNo": "C17681",
+   "desc": "ARM - clutch pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 70.12,
+   "y": 34.05,
+   "partNo": "113-113",
+   "desc": "BOLT - 5/16\" x 7/8\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 65.0,
+   "y": 39.02,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 59.87,
+   "y": 42.4,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 20.1,
+   "y": 29.73,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 8.08,
+   "y": 34.7,
+   "partNo": "132-48",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 92.39,
+   "y": 65.95,
+   "partNo": "132-48",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 15.16,
+   "y": 61.92,
+   "variants": [
+    {
+     "partNo": "C18279",
+     "desc": "ROD - clutch (644)",
+     "reqd": "1",
+     "serialNote": "644"
+    },
+    {
+     "partNo": "C18280",
+     "desc": "ROD - clutch (646)",
+     "reqd": "1",
+     "serialNote": "646"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 20.1,
+   "y": 82.47,
+   "variants": [
+    {
+     "partNo": "C16682",
+     "desc": "GUIDE - clutch rod, 644",
+     "reqd": "1",
+     "serialNote": "644"
+    },
+    {
+     "partNo": "C18825",
+     "desc": "GUIDE - clutch rod, 646",
+     "reqd": "1",
+     "serialNote": "646"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 19.72,
+   "y": 92.98,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 20.28,
+   "y": 76.37,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 20.84,
+   "y": 70.93,
+   "partNo": "131-178",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.17
+}

@@ -1,0 +1,241 @@
+{
+ "sectionTitle": "LT-16 and LT-17 Hydraulic PTO Valve",
+ "breadcrumb": "LT-16 and LT-17 Hydraulic PTO Valve",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/lt16_lt17_hydraulic_pto_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.08,
+   "y": 11.39,
+   "partNo": "C11888",
+   "desc": "BRACKET - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.28,
+   "y": 21.39,
+   "partNo": "C11889",
+   "desc": "HANDLE - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 78.03,
+   "y": 12.62,
+   "partNo": "36627",
+   "desc": "PIN - clevis",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 81.81,
+   "y": 17.71,
+   "partNo": "132-5",
+   "desc": "PIN - cotter 1/16 x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 55.5,
+   "y": 5.16,
+   "partNo": "75-410",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 58.47,
+   "y": 11.1,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 65.68,
+   "y": 27.44,
+   "partNo": "221-842",
+   "desc": "PLUG - relief 3/8\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 65.32,
+   "y": 31.69,
+   "partNo": "D39712",
+   "desc": "WASHER - relief, thin .010",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 66.04,
+   "y": 35.08,
+   "partNo": "A55894",
+   "desc": "WASHER - relief, thick .020",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 66.67,
+   "y": 38.29,
+   "partNo": "T40189",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 65.68,
+   "y": 42.64,
+   "partNo": "211-11",
+   "desc": "BALL - relief 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 65.77,
+   "y": 45.66,
+   "partNo": "C11896",
+   "desc": "SEAT - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 64.87,
+   "y": 49.24,
+   "partNo": "A27891",
+   "desc": "SEAL - \"O\" ring, relief seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 26.3,
+   "y": 27.34,
+   "partNo": "C11891",
+   "desc": "SEAL - \"U\" cup",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 26.93,
+   "y": 46.88,
+   "partNo": "C11891",
+   "desc": "SEAL - \"U\" cup",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 60.36,
+   "y": 52.45,
+   "partNo": "NSS",
+   "desc": "BODY AND SPOOL ASSEMBLY (order C18314 valve)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 58.38,
+   "y": 70.96,
+   "partNo": "C11895",
+   "desc": "ADAPTER - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 29.27,
+   "y": 72.47,
+   "partNo": "95-4",
+   "desc": "WASHER - detent 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 27.02,
+   "y": 76.91,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 27.74,
+   "y": 81.44,
+   "partNo": "75-48",
+   "desc": "SCREW - 1/4\" x 1/2\" rd. hd. machine",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 23.41,
+   "y": 86.63,
+   "partNo": "C11893",
+   "desc": "BONNET - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 28.64,
+   "y": 92.67,
+   "partNo": "169-108",
+   "desc": "SCREW - bonnet #8\" x 2-1/2\" fillister hd.",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 56.31,
+   "y": 81.34,
+   "partNo": "C11901",
+   "desc": "PIN - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 62.26,
+   "y": 83.14,
+   "partNo": "C11892",
+   "desc": "SPRING - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 68.84,
+   "y": 84.55,
+   "partNo": "C11886",
+   "desc": "WASHER - detent cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 75.23,
+   "y": 87.29,
+   "partNo": "C11887",
+   "desc": "CAP - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 9.45,
+   "y": 58.59,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 17.2,
+   "y": 62.74,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "—",
+   "partNo": "C18281",
+   "desc": "VALVE - hydraulic PTO",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.15
+}

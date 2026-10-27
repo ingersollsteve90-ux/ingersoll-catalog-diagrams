@@ -1,0 +1,134 @@
+{
+ "sectionTitle": "Hydraulic Reservoir Mounting",
+ "breadcrumb": "Hydraulic Reservoir Mounting",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/hydraulic_reservoir_mounting.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.71,
+   "y": 20.41,
+   "variants": [
+    {
+     "partNo": "C18000",
+     "desc": "SUPPORT - reservoir R.H. (644)",
+     "reqd": "1",
+     "serialNote": "R.H. (644)"
+    },
+    {
+     "partNo": "C18001",
+     "desc": "SUPPORT - reservoir L.H. (644)",
+     "reqd": "1",
+     "serialNote": "L.H. (644)"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 30.18,
+   "y": 80.53,
+   "partNo": "C18125",
+   "desc": "SUPPORT - reservoir R.H. (646)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 62.37,
+   "y": 40.48,
+   "partNo": "C18126",
+   "desc": "SUPPORT - reservoir L.H. (646)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 35.46,
+   "y": 47.85,
+   "partNo": "113-118",
+   "desc": "BOLT - 5/16\" x 5/8\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 29.33,
+   "y": 47.76,
+   "partNo": "C18117",
+   "desc": "RESERVOIR - hydraulic oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 6.11,
+   "y": 8.64,
+   "partNo": "C11529",
+   "desc": "CAP - reservoir with insert",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 6.58,
+   "y": 17.42,
+   "partNo": "C11545",
+   "desc": "INSERT - reservoir cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 60.86,
+   "y": 16.02,
+   "partNo": "A70100",
+   "desc": "STRAP - reservoir mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 60.19,
+   "y": 7.99,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4\" x 1-1/4\" round head machine",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 61.23,
+   "y": 26.1,
+   "partNo": "129-504",
+   "desc": "NUT - 1/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 55.0,
+   "y": 33.76,
+   "partNo": "C14690",
+   "desc": "CUSHION - reservoir",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 88.33,
+   "y": 61.58,
+   "partNo": "C14246",
+   "desc": "BRACKET - heat exchanger mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 94.18,
+   "y": 69.23,
+   "partNo": "187-1251",
+   "desc": "SCREW - 1/4\" x 1-1/4\" NC flat head phillips",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 81.43,
+   "y": 55.79,
+   "partNo": "C14195",
+   "desc": "EXCHANGER - heat",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.4
+}

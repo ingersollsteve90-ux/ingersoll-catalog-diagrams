@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "Cylinder - Bucket",
+ "breadcrumb": "Cylinder - Bucket",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/cylinder_bucket.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 5.46,
+   "y": 28.19,
+   "partNo": "C18573",
+   "desc": "BODY - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6.49,
+   "y": 51.47,
+   "partNo": "131-667",
+   "desc": "NUT - jam",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 5.93,
+   "y": 57.73,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston (order C18574 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 80.2,
+   "y": 10.79,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston (order C18574 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 80.29,
+   "y": 22.85,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston (order C18574 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 5.83,
+   "y": 70.8,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston (order C18574 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 6.12,
+   "y": 64.54,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, piston (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 80.67,
+   "y": 17.42,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, piston (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 6.31,
+   "y": 77.8,
+   "partNo": "D54909",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 29.71,
+   "y": 26.9,
+   "partNo": "C18486",
+   "desc": "HEAD ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 34.15,
+   "y": 18.8,
+   "partNo": "NSS",
+   "desc": "BUSHING - head (order C18486 head assembly)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 80.67,
+   "y": 31.13,
+   "partNo": "NSS",
+   "desc": "BUSHING - head (order C18486 head assembly)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 33.39,
+   "y": 34.54,
+   "partNo": "NSS",
+   "desc": "HEAD - cylinder (order C18486 head assembly)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 33.67,
+   "y": 41.26,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 80.67,
+   "y": 39.97,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 80.77,
+   "y": 47.24,
+   "partNo": "NSS",
+   "desc": "WASHER - backup (order C18574 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 33.58,
+   "y": 49.82,
+   "partNo": "NSS",
+   "desc": "WASHER - backup (order C18574 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 33.86,
+   "y": 55.8,
+   "partNo": "NSS",
+   "desc": "SEAL (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 81.43,
+   "y": 54.51,
+   "partNo": "NSS",
+   "desc": "SEAL (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 34.81,
+   "y": 66.29,
+   "partNo": "C18572",
+   "desc": "ROD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 56.13,
+   "y": 41.26,
+   "partNo": "NSS",
+   "desc": "RING - retaining (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 81.14,
+   "y": 62.24,
+   "partNo": "NSS",
+   "desc": "RING - retaining (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 56.23,
+   "y": 48.53,
+   "partNo": "D54915",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 56.32,
+   "y": 55.8,
+   "partNo": "D54917",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 35.28,
+   "y": 27.08,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, head (order C18574 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 75.76,
+   "y": 26.25,
+   "partNo": "C18574",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.83
+}

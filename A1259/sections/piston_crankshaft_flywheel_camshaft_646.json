@@ -1,0 +1,326 @@
+{
+ "sectionTitle": "Piston, Crankshaft, Flywheel and Camshaft (646 Onan)",
+ "breadcrumb": "Piston, Crankshaft, Flywheel and Camshaft (646 Onan)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/piston_crankshaft_flywheel_camshaft_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 21.3,
+   "y": 21.81,
+   "partNo": "C20233",
+   "desc": "RING - center pin, camshaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 23.38,
+   "y": 16.25,
+   "partNo": "C20224",
+   "desc": "CUP - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 30.65,
+   "y": 15.59,
+   "partNo": "211-14",
+   "desc": "BALL - fly, governor",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 53.78,
+   "y": 63.86,
+   "partNo": "C20308",
+   "desc": "GEAR - ring, flywheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 16.01,
+   "y": 35.58,
+   "partNo": "C20317",
+   "desc": "FLYWHEEL - engine (includes ring gear)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 36.59,
+   "y": 41.04,
+   "partNo": "C20228",
+   "desc": "GEAR SET - timing (includes cam and crankshaft gears)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 42.26,
+   "y": 12.76,
+   "partNo": "C20229",
+   "desc": "WASHER - thrust, cam gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 55.57,
+   "y": 6.54,
+   "partNo": "126-9",
+   "desc": "KEY - woodruff, cam and crankshaft gear mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 60.2,
+   "y": 56.13,
+   "partNo": "126-9",
+   "desc": "KEY - woodruff, cam and crankshaft gear mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 51.42,
+   "y": 12.29,
+   "partNo": "C20327",
+   "desc": "CAMSHAFT - engine (includes C20233 pin)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 47.26,
+   "y": 12.67,
+   "partNo": "C20233",
+   "desc": "PIN - camshaft center",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 87.67,
+   "y": 62.91,
+   "variants": [
+    {
+     "partNo": "C20342",
+     "desc": "PISTON AND PIN ASSEMBLY - standard",
+     "reqd": "2",
+     "serialNote": "standard"
+    },
+    {
+     "partNo": "C20351",
+     "desc": "PISTON AND PIN ASSEMBLY - .005\"",
+     "reqd": "2",
+     "serialNote": ".005\""
+    },
+    {
+     "partNo": "C20352",
+     "desc": "PISTON AND PIN ASSEMBLY - .010\"",
+     "reqd": "2",
+     "serialNote": ".010\""
+    },
+    {
+     "partNo": "C20357",
+     "desc": "PISTON AND PIN ASSEMBLY - .020\"",
+     "reqd": "2",
+     "serialNote": ".020\""
+    },
+    {
+     "partNo": "C20358",
+     "desc": "PISTON AND PIN ASSEMBLY - .030\"",
+     "reqd": "2",
+     "serialNote": ".030\""
+    },
+    {
+     "partNo": "C20373",
+     "desc": "PISTON AND PIN ASSEMBLY - .040\"",
+     "reqd": "2",
+     "serialNote": ".040\""
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 74.64,
+   "y": 48.96,
+   "partNo": "C20379",
+   "desc": "PIN - piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 79.45,
+   "y": 64.23,
+   "partNo": "C20380",
+   "desc": "RETAINER - piston pin",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 80.68,
+   "y": 37.75,
+   "partNo": "C20381",
+   "desc": "CONNECTING ROD ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 45.94,
+   "y": 40.48,
+   "partNo": "C20381",
+   "desc": "CONNECTING ROD ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 85.97,
+   "y": 36.33,
+   "partNo": "C20481",
+   "desc": "BUSHING - piston pin",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 45.19,
+   "y": 34.26,
+   "partNo": "C20402",
+   "desc": "BOLT - connecting rod",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 74.55,
+   "y": 75.74,
+   "variants": [
+    {
+     "partNo": "C20382",
+     "desc": "RING SET - piston (standard)",
+     "reqd": "2",
+     "serialNote": "standard"
+    },
+    {
+     "partNo": "C20383",
+     "desc": "RING SET - piston (.005\" oversize)",
+     "reqd": "2",
+     "serialNote": ".005\" oversize"
+    },
+    {
+     "partNo": "C20384",
+     "desc": "RING SET - piston (.010\" oversize)",
+     "reqd": "2",
+     "serialNote": ".010\" oversize"
+    },
+    {
+     "partNo": "C20386",
+     "desc": "RING SET - piston (.020\" oversize)",
+     "reqd": "2",
+     "serialNote": ".020\" oversize"
+    },
+    {
+     "partNo": "C20394",
+     "desc": "RING SET - piston (.030\" oversize)",
+     "reqd": "2",
+     "serialNote": ".030\" oversize"
+    },
+    {
+     "partNo": "C20400",
+     "desc": "RING SET - piston (.040\" oversize)",
+     "reqd": "2",
+     "serialNote": ".040\" oversize"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 66.71,
+   "y": 24.08,
+   "variants": [
+    {
+     "partNo": "C20403",
+     "desc": "BEARING - connecting rod (standard)",
+     "reqd": "4",
+     "serialNote": "standard"
+    },
+    {
+     "partNo": "C20408",
+     "desc": "BEARING - connecting rod (.002\" undersize)",
+     "reqd": "4",
+     "serialNote": ".002\" undersize"
+    },
+    {
+     "partNo": "C20409",
+     "desc": "BEARING - connecting rod (.010\" undersize)",
+     "reqd": "4",
+     "serialNote": ".010\" undersize"
+    },
+    {
+     "partNo": "C20410",
+     "desc": "BEARING - connecting rod (.020\" undersize)",
+     "reqd": "4",
+     "serialNote": ".020\" undersize"
+    },
+    {
+     "partNo": "C20480",
+     "desc": "BEARING - connecting rod (.030\" undersize)",
+     "reqd": "4",
+     "serialNote": ".030\" undersize"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 10.73,
+   "y": 52.55,
+   "partNo": "C20482",
+   "desc": "WASHER - flywheel mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 53.87,
+   "y": 56.32,
+   "partNo": "126-13",
+   "desc": "KEY - flywheel mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 5.72,
+   "y": 56.79,
+   "partNo": "C20483",
+   "desc": "BOLT - flywheel mtg., special",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 39.24,
+   "y": 62.25,
+   "partNo": "C20218",
+   "desc": "RETAINER - crankshaft gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 46.32,
+   "y": 61.22,
+   "partNo": "C20219",
+   "desc": "WASHER - retaining, crankshaft gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 68.31,
+   "y": 55.37,
+   "partNo": "C20487",
+   "desc": "CRANKSHAFT - engine",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 18.75,
+   "y": 71.59,
+   "partNo": "92-7",
+   "desc": "LOCKWASHER - 7/16\" flywheel mtg.",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.52
+}

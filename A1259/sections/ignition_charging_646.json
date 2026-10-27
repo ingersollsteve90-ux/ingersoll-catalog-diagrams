@@ -1,0 +1,291 @@
+{
+ "sectionTitle": "Ignition and Charging System (646 Onan)",
+ "breadcrumb": "Ignition and Charging System (646 Onan)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/ignition_charging_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6.13,
+   "y": 23.47,
+   "partNo": "C20591",
+   "desc": "ROTOR - alternator",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 21.81,
+   "y": 21.68,
+   "partNo": "NSS",
+   "desc": "REGULATOR, RECTIFIER ASSEMBLY (use C30933 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 11.88,
+   "y": 20.36,
+   "partNo": "C20593",
+   "desc": "SCREW - rotor mounting",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 9.66,
+   "y": 22.44,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - rotor mtg.",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 23.29,
+   "y": 38.11,
+   "partNo": "C20594",
+   "desc": "SCREW - stator mounting",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 26.26,
+   "y": 36.88,
+   "partNo": "92-3",
+   "desc": "LOCKWASHER - stator mtg.",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 15.59,
+   "y": 18.66,
+   "partNo": "C20590",
+   "desc": "STATOR ASSEMBLY (includes items 8, 9 & 10)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 46.75,
+   "y": 25.08,
+   "partNo": "C20596",
+   "desc": "CONNECTOR - socket",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 49.17,
+   "y": 5.44,
+   "partNo": "C20597",
+   "desc": "HOLDER - fuse",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 29.87,
+   "y": 4.97,
+   "partNo": "C20599",
+   "desc": "CONNECTOR - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 43.6,
+   "y": 32.63,
+   "partNo": "C20604",
+   "desc": "CONNECTOR - plug, regulator",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 26.54,
+   "y": 16.68,
+   "partNo": "13-414",
+   "desc": "SCREW - 1/4 x 7/8\" regulator, rectifier, mtg.",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 21.53,
+   "y": 17.9,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 33.77,
+   "y": 10.07,
+   "partNo": "C20585",
+   "desc": "CLIP - wire holder",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 33.4,
+   "y": 24.51,
+   "partNo": "C20617",
+   "desc": "BRACKET - socket mtg., wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 45.27,
+   "y": 55.1,
+   "partNo": "C20507",
+   "desc": "CABLE - spark plug 23-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 9.29,
+   "y": 58.97,
+   "partNo": "C20348",
+   "desc": "CABLE - spark plug 19\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 21.16,
+   "y": 85.49,
+   "partNo": "C20349",
+   "desc": "COIL - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 28.76,
+   "y": 77.85,
+   "partNo": "C20344",
+   "desc": "BRACKET - cable, spark plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 19.49,
+   "y": 72.66,
+   "partNo": "16905",
+   "desc": "RETAINER - \"O\" ring, spark plug cables",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 37.11,
+   "y": 70.58,
+   "partNo": "O5999AB",
+   "desc": "SPARK PLUG",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 68.55,
+   "y": 62.37,
+   "partNo": "C20514",
+   "desc": "BOX ASSEMBLY - breaker contact (includes items 23, 24, 25 & 26)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 93.59,
+   "y": 57.65,
+   "partNo": "C20318",
+   "desc": "COVER - breaker box",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 88.21,
+   "y": 55.48,
+   "partNo": "C20321",
+   "desc": "GASKET - breaker box",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 73.65,
+   "y": 94.08,
+   "partNo": "C20484",
+   "desc": "POINT SET - breaker contacts",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 90.99,
+   "y": 75.02,
+   "partNo": "C20343",
+   "desc": "CONDENSER - breaker contacts",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 68.08,
+   "y": 89.74,
+   "partNo": "C20332",
+   "desc": "CAM - point gap adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 71.98,
+   "y": 69.35,
+   "partNo": "C20505",
+   "desc": "GASKET - breaker box mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 76.9,
+   "y": 95.03,
+   "partNo": "C20506",
+   "desc": "PLUNGER ASSEMBLY (includes plunger, guide & diaphragm)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 86.54,
+   "y": 92.86,
+   "partNo": "C20509",
+   "desc": "DIAPHRAGM - breaker box",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 74.39,
+   "y": 77.19,
+   "partNo": "C20515",
+   "desc": "STRAP - point set to terminal block",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 65.77,
+   "y": 81.43,
+   "partNo": "C20516",
+   "desc": "BLOCK AND TERMINAL ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 69.11,
+   "y": 93.14,
+   "partNo": "C20548",
+   "desc": "SCREW - #8 x 1/4\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "34",
+   "x": 74.58,
+   "y": 56.23,
+   "partNo": "C20535",
+   "desc": "SCREW - breaker box mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 58.81,
+   "y": 19.04,
+   "partNo": "C20588",
+   "desc": "CLIP - wire harness",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.97
+}

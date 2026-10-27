@@ -1,0 +1,315 @@
+{
+ "sectionTitle": "Hydraulic System (644)",
+ "breadcrumb": "Hydraulic System (644)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/hydraulic_system_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 47.13,
+   "y": 81.53,
+   "partNo": "C15335",
+   "desc": "SUPPORT - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 16.5,
+   "y": 74.09,
+   "partNo": "114-200",
+   "desc": "BOLT - 3/8\" x 1\" NF hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 27.97,
+   "y": 92.09,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 20.11,
+   "y": 75.03,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 31.95,
+   "y": 93.41,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 35.84,
+   "y": 77.95,
+   "partNo": "C17298",
+   "desc": "COUPLING - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 52.13,
+   "y": 49.09,
+   "partNo": "C15481",
+   "desc": "PUMP - hydraulic (repairs: Hydraulic Pump and Coupling - 644)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 40.93,
+   "y": 80.49,
+   "partNo": "C17354",
+   "desc": "KEY - square",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 60.92,
+   "y": 41.73,
+   "partNo": "218-5066",
+   "desc": "FITTING - pump out (includes 218-5006 \"O\"-ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 63.6,
+   "y": 27.3,
+   "partNo": "C18167",
+   "desc": "TUBE - pump to valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 31.95,
+   "y": 8.07,
+   "partNo": "C18321",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\"-ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 30.38,
+   "y": 22.78,
+   "partNo": "C18321",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\"-ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 7.8,
+   "y": 32.12,
+   "partNo": "C18321",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\"-ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "11",
+   "x": 37.51,
+   "y": 10.14,
+   "partNo": "C18159",
+   "desc": "TUBE - valve to motor, upper",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 27.51,
+   "y": 19.57,
+   "partNo": "C18160",
+   "desc": "TUBE - valve to motor, lower",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 18.9,
+   "y": 35.23,
+   "partNo": "218-5065",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\"-ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 39.26,
+   "y": 39.0,
+   "partNo": "218-5065",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\"-ring)",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 21.13,
+   "y": 61.17,
+   "partNo": "C18162",
+   "desc": "TUBE - valve to tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 28.34,
+   "y": 64.27,
+   "partNo": "218-596",
+   "desc": "TEE - 1-1/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 37.23,
+   "y": 67.38,
+   "partNo": "C18163",
+   "desc": "TUBE - heat exchanger to tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 62.96,
+   "y": 50.69,
+   "partNo": "C14619",
+   "desc": "HOSE - 4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 62.96,
+   "y": 79.64,
+   "partNo": "C14619",
+   "desc": "HOSE - 4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 82.21,
+   "y": 54.94,
+   "partNo": "C14245",
+   "desc": "HOSE - 3\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 75.64,
+   "y": 63.52,
+   "partNo": "C14195",
+   "desc": "EXCHANGER - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 75.82,
+   "y": 58.24,
+   "partNo": "214-8",
+   "desc": "CLAMP - hose",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 79.71,
+   "y": 50.69,
+   "partNo": "214-8",
+   "desc": "CLAMP - hose",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 83.69,
+   "y": 59.28,
+   "partNo": "214-8",
+   "desc": "CLAMP - hose",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 67.95,
+   "y": 69.27,
+   "partNo": "214-8",
+   "desc": "CLAMP - hose",
+   "reqd": "6"
+  },
+  {
+   "ref": "21",
+   "x": 46.21,
+   "y": 53.52,
+   "partNo": "C18289",
+   "desc": "TUBE - pump suction",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 14.74,
+   "y": 18.44,
+   "partNo": "A30095",
+   "desc": "SEAL - hydraulic motor to case",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 10.76,
+   "y": 4.58,
+   "partNo": "166-86",
+   "desc": "SCREW - 1/2\" x 1-1/4\" NC flanged 12 pt.",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 6.04,
+   "y": 20.23,
+   "partNo": "171-247",
+   "desc": "SCREW - 5/16\" x 1-1/4\" NC, flat head machine",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 6.6,
+   "y": 27.4,
+   "partNo": "131-351",
+   "desc": "NUT - lock 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 22.88,
+   "y": 15.7,
+   "partNo": "C14655",
+   "desc": "MOTOR - hydraulic drive (repairs: Hydraulic Drive Motor)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 21.96,
+   "y": 18.25,
+   "partNo": "NSS",
+   "desc": "VALVE - hydraulic control (repairs: Hydraulic Control Valve - Tractor) order C21557 kit",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 78.69,
+   "y": 30.32,
+   "partNo": "C18117",
+   "desc": "RESERVOIR - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 59.35,
+   "y": 10.05,
+   "partNo": "218-5353",
+   "desc": "FITTING - valve, bucket (includes 218-5006 \"O\"-rings)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 24.46,
+   "y": 51.44,
+   "partNo": "C18161",
+   "desc": "TUBE - bucket to tee",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.71
+}

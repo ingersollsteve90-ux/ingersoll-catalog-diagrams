@@ -1,0 +1,91 @@
+{
+ "sectionTitle": "Exhaust System (646)",
+ "breadcrumb": "Exhaust System (646)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/exhaust_system_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 92.62,
+   "y": 68.03,
+   "partNo": "C18121",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 83.04,
+   "y": 14.04,
+   "partNo": "C18215",
+   "desc": "PIPE - exhaust, left",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 25.43,
+   "y": 23.86,
+   "partNo": "C18214",
+   "desc": "PIPE - exhaust, right",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 23.38,
+   "y": 48.68,
+   "partNo": "C18250",
+   "desc": "GASKET - exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 29.99,
+   "y": 5.83,
+   "partNo": "61-512",
+   "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 30.18,
+   "y": 14.42,
+   "partNo": "192-45",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 52.79,
+   "y": 48.77,
+   "partNo": "192-45",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 57.54,
+   "y": 45.38,
+   "partNo": "C18216",
+   "desc": "CLAMP - muffler",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 88.9,
+   "y": 52.17,
+   "partNo": "111-204",
+   "desc": "BOLT - 5/16\" x 1-1/4\" NC rd. hd. square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 46.28,
+   "y": 54.81,
+   "partNo": "129-518",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.36
+}

@@ -1,0 +1,57 @@
+{
+ "sectionTitle": "Fuel Pump (644)",
+ "breadcrumb": "Fuel Pump (644)",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/fuel_pump_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 10.11,
+   "y": 56.68,
+   "partNo": "KO236387",
+   "desc": "KIT - fuel pump (for KOA236205)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.35,
+   "y": 67.72,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "VALVE ASSEMBLY (in KO236387 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "GASKET - valve (in KO236387 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "DIAPHRAGM ASSEMBLY (in KO236387 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "SPRING - diaphragm (in KO236387 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "GASKET - valve (in KO236387 kit)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 6.09
+}

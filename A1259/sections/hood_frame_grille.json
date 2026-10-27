@@ -1,0 +1,330 @@
+{
+ "sectionTitle": "Hood, Frame and Grille",
+ "breadcrumb": "Hood, Frame and Grille",
+ "catalogLabel": "Catalog A1259",
+ "modelNumbers": "Catalog A1259 — Case 644 (prior to S/N 9662906) and 646 (prior to S/N 9663323) Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1259/hood_frame_grille.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 58.24,
+   "y": 50.09,
+   "variants": [
+    {
+     "partNo": "C17534",
+     "desc": "FRAME - main (644)",
+     "reqd": "1",
+     "serialNote": "644"
+    },
+    {
+     "partNo": "C17533",
+     "desc": "FRAME - main (646)",
+     "reqd": "1",
+     "serialNote": "646"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 18.62,
+   "y": 95.58,
+   "variants": [
+    {
+     "partNo": "C17563",
+     "desc": "PAD - foot, L.H.",
+     "reqd": "1",
+     "serialNote": "L.H."
+    },
+    {
+     "partNo": "C18024",
+     "desc": "PAD - foot, R.H.",
+     "reqd": "1",
+     "serialNote": "R.H."
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 7.52,
+   "y": 91.81,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 11.04,
+   "y": 90.58,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 8.07,
+   "y": 78.41,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 40.56,
+   "y": 89.73,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 91.93,
+   "y": 66.23,
+   "partNo": "C17598",
+   "desc": "TRAY - battery",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 90.91,
+   "y": 55.57,
+   "partNo": "C16239",
+   "desc": "STRAP - battery hold down",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 49.26,
+   "y": 50.66,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 84.99,
+   "y": 88.13,
+   "partNo": "C19018",
+   "desc": "PIN - axle pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 92.67,
+   "y": 91.15,
+   "partNo": "187-1046",
+   "desc": "BOLT - 3/8\" NC indented hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 89.52,
+   "y": 90.3,
+   "partNo": "219-17",
+   "desc": "FITTING - lube",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 76.01,
+   "y": 27.82,
+   "partNo": "C17657",
+   "desc": "GRILLE - frame",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 84.71,
+   "y": 55.0,
+   "partNo": "C18201",
+   "desc": "GRILLE - insert",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 83.23,
+   "y": 28.29,
+   "partNo": "C17656",
+   "desc": "PANEL - head light",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 92.2,
+   "y": 36.41,
+   "partNo": "187-1080",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex slotted, black",
+   "reqd": "7"
+  },
+  {
+   "ref": "17",
+   "x": 63.42,
+   "y": 35.94,
+   "partNo": "C17653",
+   "desc": "NUT - 1/4\" tinnerman",
+   "reqd": "7"
+  },
+  {
+   "ref": "18",
+   "x": 68.6,
+   "y": 45.85,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 68.42,
+   "y": 43.2,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 60.55,
+   "y": 21.88,
+   "partNo": "C18193",
+   "desc": "BUMPER - rubber, hood",
+   "reqd": "3"
+  },
+  {
+   "ref": "21",
+   "x": 24.64,
+   "y": 41.22,
+   "partNo": "C17647",
+   "desc": "PANEL - dash",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 19.92,
+   "y": 56.61,
+   "partNo": "187-1036",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex self tap.",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 23.25,
+   "y": 29.61,
+   "partNo": "C17662",
+   "desc": "SUPPORT - grille",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 35.01,
+   "y": 35.94,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" x 3/4\" NC round head, square neck",
+   "reqd": "8"
+  },
+  {
+   "ref": "25",
+   "x": 56.11,
+   "y": 39.9,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "26",
+   "x": 60.55,
+   "y": 37.73,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "27",
+   "x": 66.38,
+   "y": 9.8,
+   "variants": [
+    {
+     "partNo": "C18003",
+     "desc": "HOOD - 644",
+     "reqd": "1",
+     "serialNote": "644"
+    },
+    {
+     "partNo": "C18586",
+     "desc": "HOOD - (646)",
+     "reqd": "1",
+     "serialNote": "646"
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 52.04,
+   "y": 95.11,
+   "variants": [
+    {
+     "partNo": "113-412",
+     "desc": "BOLT - 1/2\" x 1-3/4\" NC hex (engine mounting)",
+     "reqd": "3",
+     "serialNote": "1-3/4\" NC hex (engine mounting)"
+    },
+    {
+     "partNo": "113-410",
+     "desc": "BOLT - 1/2\" x 1-1/2\" NC hex (left front engine mounting)",
+     "reqd": "1",
+     "serialNote": "1-1/2\" NC hex (left front engine mounting)"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 54.44,
+   "y": 88.22,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "30",
+   "x": 46.76,
+   "y": 81.14,
+   "variants": [
+    {
+     "partNo": "129-105",
+     "desc": "NUT - 1/2\" NC hex",
+     "reqd": "3",
+     "serialNote": "1/2\" NC hex"
+    },
+    {
+     "partNo": "131-165",
+     "desc": "NUT - lock 1/2\" NC hex jam (left front engine mount)",
+     "reqd": "1",
+     "serialNote": "lock 1/2\" NC hex jam (left front engine mount)"
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 90.35,
+   "y": 77.56,
+   "partNo": "C18055",
+   "desc": "PIN - latch",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 93.78,
+   "y": 80.39,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 53.42,
+   "y": 50.94,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.7
+}
