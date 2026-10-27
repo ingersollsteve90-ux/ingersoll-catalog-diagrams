@@ -1,0 +1,131 @@
+{
+ "sectionTitle": "Fuel System (Tractor)",
+ "breadcrumb": "Fuel System (Tractor)",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/fuel_system_tractor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 29.2,
+   "y": 65.6,
+   "partNo": "C26521",
+   "desc": "FITTING - hose 1/8\" - 27 NPTF",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 50.4,
+   "y": 54.6,
+   "partNo": "C28962",
+   "desc": "RETAINER - fuel line",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 46.3,
+   "y": 77.2,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel line, long (use C28937 cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 47.6,
+   "y": 19.9,
+   "partNo": "C32089",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 38,
+   "y": 3,
+   "partNo": "C11529",
+   "desc": "CAP - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 75.5,
+   "y": 96.8,
+   "partNo": "NSS",
+   "desc": "HOSE - fuel line, short (use C28937 cut to length)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 78.8,
+   "y": 22.3,
+   "partNo": "C23527",
+   "desc": "LINER - tank",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 8.6,
+   "y": 72.9,
+   "partNo": "C14690",
+   "desc": "CUSHION - fuel tank",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 32.7,
+   "y": 69.9,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 84.1,
+   "y": 67.1,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 68.7,
+   "y": 93.1,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 57.6,
+   "y": 86.1,
+   "partNo": "C32376",
+   "desc": "CLAMP - hose 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 70,
+   "y": 73.5,
+   "partNo": "C31978",
+   "desc": "FILTER - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 96.9,
+   "y": 74.3,
+   "partNo": "C24689",
+   "desc": "CLIP - \"J\" fuel line retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 93.5,
+   "y": 93.7,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\" - 20 self tap",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.47
+}

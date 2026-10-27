@@ -1,0 +1,107 @@
+{
+ "sectionTitle": "Manual Pump (Power Steering)",
+ "breadcrumb": "Manual Pump (Power Steering)",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/manual_pump_power_steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 73.9,
+   "y": 95,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 40.1,
+   "y": 2.2,
+   "partNo": "C33002",
+   "desc": "KIT - cover and manifold",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 36.8,
+   "y": 13.3,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "4",
+   "x": 35.9,
+   "y": 7.5,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 55.6,
+   "y": 22.4,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 25.2,
+   "y": 28.8,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 75.7,
+   "y": 37.2,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 93,
+   "y": 49.3,
+   "partNo": "NSS",
+   "desc": "RING - seal",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 10.8,
+   "y": 7.5,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 34.7,
+   "y": 37.6,
+   "partNo": "NSS",
+   "desc": "SEAL - commutator",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 85.6,
+   "y": 74.4,
+   "partNo": "NSS",
+   "desc": "SEAL - face",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 89,
+   "y": 77.7,
+   "partNo": "NSS",
+   "desc": "RING - back-up",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C27992 PUMP - steering, manual, four port (1); C30281 KIT - seal (1).",
+ "dotSizePct": 2.6
+}

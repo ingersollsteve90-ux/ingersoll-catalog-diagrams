@@ -1,0 +1,107 @@
+{
+ "sectionTitle": "Choke and Throttle Controls",
+ "breadcrumb": "Choke and Throttle Controls",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/choke_throttle_controls.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 9.7,
+   "y": 46.3,
+   "partNo": "C33407",
+   "desc": "CONTROL - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 11.1,
+   "y": 8.8,
+   "partNo": "C30073",
+   "desc": "HANDLE - throttle, orange",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 50.9,
+   "y": 27,
+   "partNo": "C32076",
+   "desc": "CONTROL - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 50.5,
+   "y": 13,
+   "partNo": "C30074",
+   "desc": "HANDLE - choke, black",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 66.1,
+   "y": 4.4,
+   "partNo": "187-1511",
+   "desc": "SCREW - tapping #10 - 32 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 27.6,
+   "y": 42.1,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - #10 (early production)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 18.2,
+   "y": 51.4,
+   "partNo": "C34117",
+   "desc": "NUT - #10 - 24 flange lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 20.8,
+   "y": 12.8,
+   "partNo": "111-5",
+   "desc": "BOLT - #10 - 24 x 5/8\" Phillips, black",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 68.3,
+   "y": 17.7,
+   "partNo": "C22369",
+   "desc": "BOLT - washer head #10 - 32 x 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 96.7,
+   "y": 17.2,
+   "partNo": "C29957",
+   "desc": "BRACKET - choke cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 91.7,
+   "y": 7,
+   "partNo": "C29506",
+   "desc": "CLIP - retaining choke cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 69.1,
+   "y": 49,
+   "partNo": "C33408",
+   "desc": "PLATE - stop, choke control (early production)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.1
+}

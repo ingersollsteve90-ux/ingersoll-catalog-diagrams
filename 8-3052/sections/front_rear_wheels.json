@@ -1,0 +1,159 @@
+{
+ "sectionTitle": "Front and Rear Wheels",
+ "breadcrumb": "Front and Rear Wheels",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/front_rear_wheels.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 29.7,
+   "y": 15.1,
+   "variants": [
+    {
+     "serialNote": "6018B, 6018BH",
+     "partNo": "C32032",
+     "desc": "WHEEL - rim, rear 10 x 15 (6018B, 6018BH)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "6018",
+     "partNo": "C33464",
+     "desc": "WHEEL - rim, rear 7 x 15 silver (6018)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 2.6,
+   "y": 64.2,
+   "partNo": "C27763",
+   "desc": "BOLT - rear wheel lug",
+   "reqd": "12"
+  },
+  {
+   "ref": "3",
+   "x": 49.5,
+   "y": 49.1,
+   "partNo": "C28317",
+   "desc": "CAP - dust",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 62.4,
+   "y": 70,
+   "partNo": "132-335",
+   "desc": "PIN - cotter 1/8\" x 1-1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 57,
+   "y": 42.5,
+   "partNo": "25-1312",
+   "desc": "NUT - castle 3/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 70.9,
+   "y": 62.6,
+   "partNo": "C28972",
+   "desc": "WASHER - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 62.9,
+   "y": 33.7,
+   "partNo": "C28262",
+   "desc": "BEARING - cone",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 97.3,
+   "y": 33.3,
+   "partNo": "C28262",
+   "desc": "BEARING - cone",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 89.4,
+   "y": 5.8,
+   "partNo": "C28316",
+   "desc": "SEAL - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 68.3,
+   "y": 22.6,
+   "partNo": "C28305",
+   "desc": "NUT - wheel",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 73.4,
+   "y": 14.4,
+   "partNo": "NSS",
+   "desc": "HUB ASSEMBLY - front wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 82,
+   "y": 12.6,
+   "partNo": "C28988",
+   "desc": "RACE - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 78.6,
+   "y": 55.1,
+   "partNo": "C28988",
+   "desc": "RACE - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 93.9,
+   "y": 45.3,
+   "partNo": "C18300",
+   "desc": "STUD - wheel",
+   "reqd": "5"
+  },
+  {
+   "ref": "13",
+   "x": 31.1,
+   "y": 54.6,
+   "variants": [
+    {
+     "serialNote": "8 x 7; 6018",
+     "partNo": "C33462",
+     "desc": "WHEEL - rim, front (8 x 7) silver (6018)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "6018B, 6018BH",
+     "partNo": "C32029",
+     "desc": "WHEEL - rim, front 10 x 6 (6018B, 6018BH)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "6018BH",
+     "partNo": "C26902",
+     "desc": "WHEEL - rim, front 8 x 7 black (6018BH)",
+     "reqd": "2"
+    }
+   ]
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C33400 HUB AND BEARING ASSEMBLY - front wheel (2); NSS HUB - wheel (1).",
+ "dotSizePct": 2.76
+}

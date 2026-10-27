@@ -1,0 +1,268 @@
+{
+ "sectionTitle": "Front Axle",
+ "breadcrumb": "Front Axle",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/front_axle.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 77,
+   "y": 46,
+   "partNo": "C17296",
+   "desc": "AXLE - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 92.7,
+   "y": 74.3,
+   "partNo": "C33225",
+   "desc": "SPINDLE - L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 96.2,
+   "y": 74.3,
+   "partNo": "C33226",
+   "desc": "SPINDLE - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 53.7,
+   "y": 82.6,
+   "partNo": "192-25",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 47,
+   "y": 32.5,
+   "partNo": "192-25",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 73.5,
+   "y": 26.6,
+   "partNo": "C30163",
+   "desc": "ARM - upper, spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 65.5,
+   "y": 3.6,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" x 1-1/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 68.9,
+   "y": 14.1,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 71.7,
+   "y": 20,
+   "partNo": "195-536",
+   "desc": "WASHER - 9/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 75.3,
+   "y": 36.2,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 78.9,
+   "y": 58.9,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 18.8,
+   "y": 48.3,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 20.1,
+   "y": 42.2,
+   "partNo": "C28248",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 18.6,
+   "y": 54.2,
+   "variants": [
+    {
+     "serialNote": "1-1/4\" bushing (**)",
+     "partNo": "C33419",
+     "desc": "BUSHING - spindle 1-1/4\" length",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "NSS (*) - use two C33419 and one C33418",
+     "partNo": "NSS",
+     "desc": "BUSHING - spindle (use two C33419 and one C33418)",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 15.7,
+   "y": 78.1,
+   "variants": [
+    {
+     "serialNote": "1-1/4\" bushing (**)",
+     "partNo": "C33419",
+     "desc": "BUSHING - spindle 1-1/4\" length",
+     "reqd": "4"
+    },
+    {
+     "serialNote": "NSS (*) - use two C33419 and one C33418",
+     "partNo": "NSS",
+     "desc": "BUSHING - spindle (use two C33419 and one C33418)",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 15.2,
+   "y": 71.7,
+   "variants": [
+    {
+     "serialNote": "Spacer (**)",
+     "partNo": "C33418",
+     "desc": "SPACER - bushing",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "NSS (*) - use two C33419 and one C33418",
+     "partNo": "NSS",
+     "desc": "SPACER - bushing (use two C33419 and one C33418",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 39.9,
+   "y": 68.4,
+   "partNo": "219-17",
+   "desc": "FITTING - lubrication",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 42.5,
+   "y": 72.5,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 31.6,
+   "y": 94,
+   "partNo": "C13106",
+   "desc": "COVER - lubrication fitting",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 39.9,
+   "y": 89.4,
+   "partNo": "C25942",
+   "desc": "TIE ROD",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 11.6,
+   "y": 84.2,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 46.2,
+   "y": 36.8,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 59.7,
+   "y": 91.7,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "16",
+   "x": 53,
+   "y": 62.8,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "17",
+   "x": 58.1,
+   "y": 58.5,
+   "partNo": "C25943",
+   "desc": "BALL JOINT - R.H. (includes lube fitting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 3.9,
+   "y": 88.4,
+   "partNo": "C25943",
+   "desc": "BALL JOINT - R.H. (includes lube fitting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 35.4,
+   "y": 9.3,
+   "partNo": "C25943",
+   "desc": "BALL JOINT - R.H. (includes lube fitting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 27.3,
+   "y": 91,
+   "partNo": "219-413",
+   "desc": "FITTING - lubrication",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.21
+}

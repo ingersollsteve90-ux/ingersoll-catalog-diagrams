@@ -1,0 +1,155 @@
+{
+ "sectionTitle": "PTO Hydraulic Lines (6018)",
+ "breadcrumb": "PTO Hydraulic Lines (6018)",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/pto_hydraulic_lines.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 73.3,
+   "y": 81.6,
+   "partNo": "C46976",
+   "desc": "HOSE - pump to PTO (rear)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 87.1,
+   "y": 39.1,
+   "partNo": "C18285",
+   "desc": "TUBE - travel valve to PTO",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 51.7,
+   "y": 84.7,
+   "partNo": "C15389",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 49.4,
+   "y": 92.4,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 40.9,
+   "y": 74,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 41.2,
+   "y": 64.7,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 28.8,
+   "y": 22.8,
+   "partNo": "218-5107",
+   "desc": "FITTING - 90° adjustable elbow (PTO inlet & outlet)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 8,
+   "y": 53.7,
+   "partNo": "218-5201",
+   "desc": "FITTING - 90° swivel 7/8\" - 14 (PTO work ports)",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 23.2,
+   "y": 36.5,
+   "partNo": "C22829",
+   "desc": "TUBE - hydraulic loop",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 25.1,
+   "y": 4.2,
+   "partNo": "C32149",
+   "desc": "HOSE - PTO valve (inlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 52.4,
+   "y": 10.9,
+   "partNo": "C32150",
+   "desc": "HOSE - PTO valve (outlet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 3,
+   "y": 80,
+   "partNo": "C46934",
+   "desc": "FITTING - pipe nipple 1/2\" (optional equipment)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 19.3,
+   "y": 76.5,
+   "partNo": "C46934",
+   "desc": "FITTING - pipe nipple 1/2\" (optional equipment)",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 33,
+   "y": 69.8,
+   "partNo": "C37187",
+   "desc": "NIPPLE - quick disconnect (male) (optional equipment)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 16.1,
+   "y": 69.8,
+   "partNo": "C37188",
+   "desc": "CONNECTOR - quick disconnect (female) (optional equipment)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 19.6,
+   "y": 90.5,
+   "partNo": "C40641",
+   "desc": "CAP - dust (optional equipment)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 2.9,
+   "y": 93,
+   "partNo": "C40642",
+   "desc": "PLUG - dust (optional equipment)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 78.3,
+   "y": 38.9,
+   "partNo": "218-5062",
+   "desc": "FITTING - 5/8\" tube x 7/8\" - 14 (optional equipment)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.6
+}

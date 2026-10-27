@@ -1,0 +1,115 @@
+{
+ "sectionTitle": "Backhoe Hydraulic Lines (6018BH) - Before PIN 14153035",
+ "breadcrumb": "Backhoe Hydraulic Lines (6018BH) - Before PIN 14153035",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/backhoe_lines_6018bh.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 53.6,
+   "y": 74.8,
+   "partNo": "C32262",
+   "desc": "TUBE - pump to backhoe (rear)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 75,
+   "y": 96.5,
+   "partNo": "C32263",
+   "desc": "TUBE - backhoe to relief valve tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 43.2,
+   "y": 40.7,
+   "partNo": "C28278",
+   "desc": "HOSE - hydraulic",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 2.3,
+   "y": 41.8,
+   "partNo": "C28278",
+   "desc": "HOSE - hydraulic",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 44.2,
+   "y": 56.2,
+   "partNo": "218-465",
+   "desc": "FITTING - 7/8\" 14 x 1/2\" NPTF",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 17.5,
+   "y": 87.4,
+   "partNo": "C15389",
+   "desc": "CLAMP - tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 20.3,
+   "y": 93,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" - 20 x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 20.1,
+   "y": 82.1,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 21.7,
+   "y": 75.5,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" - 20",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 3.1,
+   "y": 25.3,
+   "partNo": "218-5265",
+   "desc": "FITTING - 9/16\" - 18 x 1/2\" female swivel NPSM",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 17.8,
+   "y": 23.2,
+   "partNo": "218-5005",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 32.3,
+   "y": 5.6,
+   "partNo": "218-5360",
+   "desc": "FITTING - 9/16\" x 7/8\" - 14 flare (includes 218-5005 \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 45.4,
+   "y": 13,
+   "partNo": "C29655",
+   "desc": "TUBE - hydraulic, backhoe (in)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Use before PIN 14153035.",
+ "dotSizePct": 3.49
+}

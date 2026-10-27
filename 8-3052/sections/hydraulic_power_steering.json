@@ -1,0 +1,155 @@
+{
+ "sectionTitle": "Hydraulic Power Steering System",
+ "breadcrumb": "Hydraulic Power Steering System",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/hydraulic_power_steering.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 43.1,
+   "y": 55.8,
+   "partNo": "218-5058",
+   "desc": "FITTING - 3/8\" tube x 3/4\" - 16 straight (includes \"O\" ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 54.6,
+   "y": 50.9,
+   "partNo": "C32126",
+   "desc": "TUBE - steering to loader valve (in)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 59.5,
+   "y": 45.3,
+   "partNo": "C32401",
+   "desc": "TUBE - steering (in) to relief valve tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 4.9,
+   "y": 10.2,
+   "partNo": "C27990",
+   "desc": "WHEEL - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 23.9,
+   "y": 4.7,
+   "partNo": "C16945",
+   "desc": "CAP - steering wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 23.9,
+   "y": 10.2,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" - 18",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 67.4,
+   "y": 10.5,
+   "partNo": "C27992",
+   "desc": "PUMP - steering, (repairs: see the Manual Pump (Power Steering) section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 52.6,
+   "y": 5.1,
+   "partNo": "C27991",
+   "desc": "NUT - 5/16\" - 24 acorn, black",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 88.7,
+   "y": 61.8,
+   "partNo": "218-5105",
+   "desc": "FITTING - 90° elbow, adjustable",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 97.6,
+   "y": 66.3,
+   "partNo": "218-5105",
+   "desc": "FITTING - 90° elbow, adjustable",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 87.9,
+   "y": 76.2,
+   "partNo": "218-5005",
+   "desc": "\"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 96.4,
+   "y": 74.8,
+   "partNo": "218-5005",
+   "desc": "\"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 62.1,
+   "y": 58.3,
+   "partNo": "C32399",
+   "desc": "HOSE - steering pump (L.T.) to cylinder, 25\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 72.6,
+   "y": 45.5,
+   "partNo": "C32125",
+   "desc": "HOSE - steering pump (R.T.) to cylinder, 31\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 86.1,
+   "y": 96.2,
+   "partNo": "C32027",
+   "desc": "CYLINDER - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 72.8,
+   "y": 73,
+   "partNo": "C16128",
+   "desc": "PIN - clevis 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 71.8,
+   "y": 85,
+   "partNo": "195-541",
+   "desc": "WASHER - .656\" I.D. x 1.31\" O.D.",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 71.8,
+   "y": 89,
+   "partNo": "132-91",
+   "desc": "PIN - cotter 3/16\" x 1\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C26443 KIT - gasket (1).",
+ "dotSizePct": 3.0
+}

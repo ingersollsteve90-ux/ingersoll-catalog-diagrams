@@ -1,0 +1,43 @@
+{
+ "sectionTitle": "Model F27 Hitch Adapter",
+ "breadcrumb": "Model F27 Hitch Adapter",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/f27_hitch_adapter.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 87.6,
+   "y": 25.4,
+   "partNo": "NSS",
+   "desc": "BRACKET - hitch adapter (order as machinery item)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 75.1,
+   "y": 6,
+   "partNo": "C14568",
+   "desc": "PIN - drawbar",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 32.9,
+   "y": 37,
+   "partNo": "22-844",
+   "desc": "BOLT - 1/2\" x 2-3/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 50.7,
+   "y": 43.1,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" - 13",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.22
+}

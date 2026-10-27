@@ -1,0 +1,235 @@
+{
+ "sectionTitle": "Hydraulic Drive Motor (6018; 6018BH/6018B PIN 14131993 and After)",
+ "breadcrumb": "Hydraulic Drive Motor (6018; 6018BH/6018B PIN 14131993 and After)",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/hydraulic_drive_motor_6018.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 61.2,
+   "y": 91.8,
+   "partNo": "C31327",
+   "desc": "BOLT - 3/8\" - 24 x 4-5/8\" (use with C31309 cover)",
+   "reqd": "7"
+  },
+  {
+   "ref": "2",
+   "x": 55,
+   "y": 89.1,
+   "partNo": "C31309",
+   "desc": "COVER - end (shown) (without relief)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 50.4,
+   "y": 57.9,
+   "partNo": "C31310",
+   "desc": "COMMUTATOR AND RING SET",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29.6,
+   "y": 71.9,
+   "partNo": "C31311",
+   "desc": "MANIFOLD",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 25.2,
+   "y": 40.4,
+   "partNo": "C31313",
+   "desc": "ROTOR ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 4.3,
+   "y": 53.9,
+   "partNo": "C31314",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 93.8,
+   "y": 42.8,
+   "partNo": "C31316",
+   "desc": "LINK - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 81.1,
+   "y": 31.9,
+   "partNo": "C31317",
+   "desc": "BEARING - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 74.4,
+   "y": 28.4,
+   "partNo": "C31318",
+   "desc": "SHAFT - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 57.1,
+   "y": 15.3,
+   "partNo": "C31319",
+   "desc": "WASHER - thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 64.1,
+   "y": 19.3,
+   "partNo": "C31319",
+   "desc": "WASHER - thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 48.8,
+   "y": 33.3,
+   "partNo": "C31320",
+   "desc": "BEARING - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 47,
+   "y": 7.2,
+   "partNo": "C31321",
+   "desc": "HOUSING - drive end",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 19.4,
+   "y": 13.3,
+   "partNo": "C31322",
+   "desc": "BEARING - outer",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 91.9,
+   "y": 74,
+   "partNo": "C34417",
+   "desc": "COVER - end (with relief)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 82.3,
+   "y": 95.3,
+   "partNo": "C34418",
+   "desc": "PLUG AND \"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 66.9,
+   "y": 96.9,
+   "partNo": "C34419",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 77.6,
+   "y": 91.1,
+   "partNo": "C34420",
+   "desc": "VALVE - relief (3000 PSI)",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 97.2,
+   "y": 86.5,
+   "partNo": "C34421",
+   "desc": "BOLT - thru (use with C34417 end cover)",
+   "reqd": "7"
+  },
+  {
+   "ref": "19",
+   "x": 42.3,
+   "y": 75.5,
+   "partNo": "NSS",
+   "desc": "SEAL - commutator ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 9.7,
+   "y": 56.9,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 25.9,
+   "y": 68.4,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 35.7,
+   "y": 75.5,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 50.4,
+   "y": 85.3,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 90.8,
+   "y": 35.1,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "5"
+  },
+  {
+   "ref": "21",
+   "x": 42.1,
+   "y": 28.6,
+   "partNo": "NSS",
+   "desc": "SEAL - ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 50.1,
+   "y": 12.3,
+   "partNo": "NSS",
+   "desc": "WASHER - backup",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 14.4,
+   "y": 7.4,
+   "partNo": "NSS",
+   "desc": "SEAL - dirt (not used)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Also listed, not shown on diagram: C32957 MOTOR - hydraulic (1); C31323 KIT - seal (1).",
+ "dotSizePct": 2.9
+}

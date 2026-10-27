@@ -1,0 +1,67 @@
+{
+ "sectionTitle": "Engine Oil Drain",
+ "breadcrumb": "Engine Oil Drain",
+ "catalogLabel": "Catalog 8-3052",
+ "modelNumbers": "Catalog 8-3052 — Ingersoll 6018 (before PIN 14190349) and 6018BH (before PIN 14190351) Compact Wheel Loaders (Early 6000 Series)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/8-3052/engine_oil_drain.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 64.4,
+   "y": 11,
+   "partNo": "C14399",
+   "desc": "PLUG - oil drain",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 73.8,
+   "y": 23.5,
+   "partNo": "C14906",
+   "desc": "GASKET - oil drain",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 83,
+   "y": 40.6,
+   "partNo": "C19473",
+   "desc": "NIPPLE - pipe 2.5\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 93.8,
+   "y": 51.8,
+   "partNo": "221-86",
+   "desc": "REDUCER - pipe 3/8\" - 14 to 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 21.6,
+   "y": 64.1,
+   "partNo": "221-3",
+   "desc": "PLUG - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 22.4,
+   "y": 50.6,
+   "partNo": "221-376",
+   "desc": "ELBOW - pipe 90° 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 29.4,
+   "y": 44,
+   "partNo": "221-167",
+   "desc": "NIPPLE - pipe 3/8\" x 3-1/2\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.22
+}
