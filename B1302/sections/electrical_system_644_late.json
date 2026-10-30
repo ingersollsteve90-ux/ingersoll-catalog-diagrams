@@ -1,0 +1,267 @@
+{
+ "sectionTitle": "Electrical System - 644 (Late)",
+ "breadcrumb": "Electrical System - 644 (Late)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/electrical_system_644_late.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28.95,
+   "y": 46.88,
+   "partNo": "C24833",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 38.73,
+   "y": 64.73,
+   "partNo": "C24815",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 81.57,
+   "y": 31.59,
+   "partNo": "C24834",
+   "desc": "CABLE - solenoid to starter (black)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 70.2,
+   "y": 9.31,
+   "partNo": "C14565",
+   "desc": "CABLE - solenoid to battery positive (red)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 73.39,
+   "y": 10.82,
+   "partNo": "C23029",
+   "desc": "CABLE - battery negative to ground (black)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 72.36,
+   "y": 56.61,
+   "partNo": "C24813",
+   "desc": "CONNECTOR - stator",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 22.19,
+   "y": 53.12,
+   "partNo": "C19378",
+   "desc": "CONNECTOR - rectifier",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 67.19,
+   "y": 64.45,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - lights",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 23.88,
+   "y": 19.22,
+   "partNo": "C18389",
+   "desc": "AMMETER - 30 amp 12v.",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 12.42,
+   "y": 40.28,
+   "partNo": "C21945",
+   "desc": "RECTIFIER - voltage, 12v.",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 26.7,
+   "y": 75.3,
+   "partNo": "C23327",
+   "desc": "WIRE - switch to switch (black)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 14.58,
+   "y": 72.94,
+   "partNo": "C23448",
+   "desc": "WIRE - switch to ground (black)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 46.62,
+   "y": 35.08,
+   "partNo": "C18197",
+   "desc": "BATTERY - 12v",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 64.75,
+   "y": 11.48,
+   "partNo": "C18113",
+   "desc": "CAP - battery",
+   "reqd": "6"
+  },
+  {
+   "ref": "15",
+   "x": 7.16,
+   "y": 31.97,
+   "partNo": "C23010",
+   "desc": "SWITCH ASSEMBLY - ignition (includes key and lockwasher only)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 9.79,
+   "y": 22.53,
+   "partNo": "A24509",
+   "desc": "KEY - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 86.64,
+   "y": 6.66,
+   "partNo": "C14553",
+   "desc": "SOLENOID - start, 12v",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 80.07,
+   "y": 63.6,
+   "partNo": "C22571",
+   "desc": "HEADLAMP ASSEMBLY - 12v (repairs: see Electrical System Hardware - 644 and 644BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 81.66,
+   "y": 47.36,
+   "partNo": "C24889",
+   "desc": "STARTER - bendix drive (repairs: see Starter - 644 (S/N 9744750 and after))",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 75.56,
+   "y": 46.51,
+   "partNo": "V34427",
+   "desc": "STATOR - 15 amp",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 36.09,
+   "y": 68.98,
+   "partNo": "C22765",
+   "desc": "SWITCH - neutral start",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 18.06,
+   "y": 81.72,
+   "partNo": "C22765",
+   "desc": "SWITCH - neutral start",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 59.58,
+   "y": 90.6,
+   "partNo": "KO231281",
+   "desc": "COIL - ignition, 12v (includes bracket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 61.65,
+   "y": 85.78,
+   "partNo": "V34435",
+   "desc": "BRACKET - coil mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 51.41,
+   "y": 73.79,
+   "partNo": "C24301",
+   "desc": "SPARK PLUG - resistor (includes gasket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 50.28,
+   "y": 79.08,
+   "partNo": "A27251",
+   "desc": "GASKET - spark plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 57.14,
+   "y": 70.58,
+   "partNo": "V34433",
+   "desc": "CABLE - high tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 42.01,
+   "y": 91.54,
+   "partNo": "KO230722",
+   "desc": "CONDENSER",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 27.92,
+   "y": 29.04,
+   "partNo": "223-30",
+   "desc": "FUSE - 30 amp (included in harness)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 36.47,
+   "y": 83.42,
+   "partNo": "NSS",
+   "desc": "BREAKER CONTACT ASSEMBLY - ignition (repairs: see Breaker Contacts - 644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 74.24,
+   "y": 37.16,
+   "partNo": "C23328",
+   "desc": "WIRE - solenoid to neutral start switch (black)",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 39.85,
+   "y": 34.23,
+   "partNo": "C18261",
+   "desc": "WIRE - ammeter positive to solenoid (black)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Used S/N 9744750 and after.",
+ "dotSizePct": 2.62
+}

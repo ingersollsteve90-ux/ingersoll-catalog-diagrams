@@ -1,0 +1,91 @@
+{
+ "sectionTitle": "Air Cleaner - 644 and 644BH",
+ "breadcrumb": "Air Cleaner - 644 and 644BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/air_cleaner_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 64.13,
+   "y": 72.32,
+   "partNo": "KO237895",
+   "desc": "AIR CLEANER ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 80.34,
+   "y": 86.53,
+   "partNo": "KO237423",
+   "desc": "GASKET - cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 63.19,
+   "y": 20.12,
+   "partNo": "NSS",
+   "desc": "BASE - air cleaner (order KO237895)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 20.51,
+   "y": 53.28,
+   "partNo": "NSS",
+   "desc": "COVER - air cleaner (order KO237895)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 49.06,
+   "y": 31.32,
+   "partNo": "A70090",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 73.84,
+   "y": 19.03,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 55.28,
+   "y": 29.32,
+   "partNo": "177-94",
+   "desc": "SCREW - #10 x 5/16\" NF fillister head",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 59.33,
+   "y": 26.5,
+   "partNo": "193-6",
+   "desc": "WASHER - 3/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 36.24,
+   "y": 40.8,
+   "partNo": "KO237421",
+   "desc": "PRE-CLEANER (optional)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 11.75,
+   "y": 65.94,
+   "partNo": "129-409",
+   "desc": "NUT - wing",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.87
+}

@@ -1,0 +1,108 @@
+{
+ "sectionTitle": "Engine Mount Plates - 644 and 644BH",
+ "breadcrumb": "Engine Mount Plates - 644 and 644BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/engine_mount_plates_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 61.29,
+   "y": 34.61,
+   "variants": [
+    {
+     "serialNote": "R.H.",
+     "partNo": "C20477",
+     "desc": "PLATE - engine mount R.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. prior to S/N 9731697",
+     "partNo": "C20476",
+     "desc": "PLATE - engine mount L.H. (used prior to S/N 9731697)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. S/N 9731697 and after",
+     "partNo": "C23951",
+     "desc": "PLATE - engine mount L.H. (used S/N 9731697 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 28.63,
+   "y": 17.62,
+   "partNo": "C18793",
+   "desc": "MOUNT - engine",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 72.21,
+   "y": 52.94,
+   "partNo": "C18793",
+   "desc": "MOUNT - engine",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 84.16,
+   "y": 64.41,
+   "partNo": "D22988",
+   "desc": "WASHER - snubber",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 23.31,
+   "y": 14.6,
+   "partNo": "151-210",
+   "desc": "RIVET - 3/16\" x 7/16\"",
+   "reqd": "16"
+  },
+  {
+   "ref": "5",
+   "x": 33.01,
+   "y": 84.78,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 33.48,
+   "y": 76.33,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "6",
+   "x": 17.05,
+   "y": 80.51,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "7",
+   "x": 8.84,
+   "y": 73.75,
+   "partNo": "113-233",
+   "desc": "BOLT - 3/8\" x 1-3/4\" hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 91.25,
+   "y": 72.59,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" - 16 hex",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.6
+}

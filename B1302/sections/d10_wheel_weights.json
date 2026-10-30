@@ -1,0 +1,67 @@
+{
+ "sectionTitle": "D10 Wheel Weights",
+ "breadcrumb": "D10 Wheel Weights",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/d10_wheel_weights.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 34.82,
+   "y": 65.73,
+   "partNo": "NSS",
+   "desc": "WEIGHT - wheel (Order as machinery item)",
+   "reqd": "4"
+  },
+  {
+   "ref": "2",
+   "x": 89.56,
+   "y": 15.37,
+   "partNo": "111-530",
+   "desc": "BOLT - 1/2\" x 2-1/2\" NC round head, square neck ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 58.28,
+   "y": 57.0,
+   "partNo": "111-531",
+   "desc": "BOLT - 1/2\" x 2-3/4\" NC round head, square neck ZP",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 20.19,
+   "y": 38.09,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 19.55,
+   "y": 80.81,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 15.68,
+   "y": 41.64,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 12.0,
+   "y": 86.9,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "8"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.99
+}

@@ -1,0 +1,177 @@
+{
+ "sectionTitle": "LL9 Holding Valve",
+ "breadcrumb": "LL9 Holding Valve",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/ll9_holding_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 60.2,
+   "y": 43.28,
+   "partNo": "C24995",
+   "desc": "VALVE - holding",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.52,
+   "y": 80.12,
+   "partNo": "C25007",
+   "desc": "TUBE - valve to valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 78.43,
+   "y": 63.81,
+   "partNo": "C25008",
+   "desc": "TUBE - valve to valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 35.83,
+   "y": 78.46,
+   "partNo": "C24994",
+   "desc": "TUBE - valve to motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 89.96,
+   "y": 40.42,
+   "partNo": "218-5062",
+   "desc": "CONNECTOR - straight, male",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 78.62,
+   "y": 44.66,
+   "partNo": "218-5062",
+   "desc": "CONNECTOR - straight, male",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 20.91,
+   "y": 61.79,
+   "partNo": "218-5062",
+   "desc": "CONNECTOR - straight, male",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 90.15,
+   "y": 33.15,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 69.18,
+   "y": 48.99,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 15.62,
+   "y": 54.51,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 68.99,
+   "y": 57.0,
+   "partNo": "218-5066",
+   "desc": "CONNECTOR - straight, male",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 65.21,
+   "y": 81.68,
+   "partNo": "218-5066",
+   "desc": "CONNECTOR - straight, male",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 64.93,
+   "y": 54.88,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 60.49,
+   "y": 77.81,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 41.88,
+   "y": 61.79,
+   "partNo": "218-5117",
+   "desc": "ELBOW - adjustable",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 46.22,
+   "y": 64.74,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 50.76,
+   "y": 40.7,
+   "partNo": "218-5404",
+   "desc": "CONNECTOR - straight, male",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 54.72,
+   "y": 42.26,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 41.4,
+   "y": 32.41,
+   "partNo": "218-5251",
+   "desc": "CONNECTOR - straight, male/female swivel",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 34.79,
+   "y": 48.16,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "A7623",
+   "desc": "\"O\" RING - end caps",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.7
+}

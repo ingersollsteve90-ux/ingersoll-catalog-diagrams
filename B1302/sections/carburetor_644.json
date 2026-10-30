@@ -1,0 +1,178 @@
+{
+ "sectionTitle": "Carburetor - 644 and 644BH",
+ "breadcrumb": "Carburetor - 644 and 644BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/carburetor_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 23.8,
+   "y": 40.75,
+   "partNo": "KO200380",
+   "desc": "SPRING - tension, idle adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 13.38,
+   "y": 31.59,
+   "variants": [
+    {
+     "serialNote": "Engine S/N 3020407 to 5125238",
+     "partNo": "KO237489",
+     "desc": "NEEDLE - Hi Speed adjust (used engine S/N 3020407 to S/N 5125238)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Prior to engine S/N 3020406",
+     "partNo": "KO275373",
+     "desc": "NEEDLE - high speed adjust (used prior to engine S/N 3020406)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Engine S/N 5125238 and after",
+     "partNo": "C24652",
+     "desc": "NEEDLE - high speed adjust (used engine S/N 5125238 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 12.91,
+   "y": 42.53,
+   "partNo": "KO200383",
+   "desc": "SPRING - fuel adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 28.4,
+   "y": 36.92,
+   "partNo": "KO275231",
+   "desc": "NEEDLE - idle adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 78.83,
+   "y": 58.69,
+   "partNo": "KO200408",
+   "desc": "FLOAT - carburetor",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 79.86,
+   "y": 79.9,
+   "partNo": "KO235448",
+   "desc": "BOWL - carburetor",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 76.48,
+   "y": 90.74,
+   "partNo": "KO235447",
+   "desc": "NUT AND GASKET ASSEM. - carburetor bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 77.61,
+   "y": 35.61,
+   "partNo": "A72013",
+   "desc": "KIT - carburetor repair",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 85.4,
+   "y": 10.2,
+   "partNo": "NSS",
+   "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 8.03,
+   "y": 67.94,
+   "partNo": "NSS",
+   "desc": "INLET NEEDLE AND SEAT ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 64.27,
+   "y": 18.05,
+   "partNo": "NSS",
+   "desc": "GASKET - bowl ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 79.86,
+   "y": 65.23,
+   "partNo": "NSS",
+   "desc": "GASKET - bowl ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 64.65,
+   "y": 22.44,
+   "partNo": "NSS",
+   "desc": "GASKET - bowl baffle",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 79.86,
+   "y": 72.14,
+   "partNo": "NSS",
+   "desc": "GASKET - bowl baffle",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 64.18,
+   "y": 29.44,
+   "partNo": "KO200372",
+   "desc": "GASKET - bowl screw",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 61.36,
+   "y": 88.77,
+   "partNo": "KO200372",
+   "desc": "GASKET - bowl screw",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 64.27,
+   "y": 10.2,
+   "partNo": "F19892",
+   "desc": "PIN - float hinge",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 59.39,
+   "y": 54.48,
+   "partNo": "F19892",
+   "desc": "PIN - float hinge",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24408",
+   "desc": "CARBURETOR ASSEMBLY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.17
+}

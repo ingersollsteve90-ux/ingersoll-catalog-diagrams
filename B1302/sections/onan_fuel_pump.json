@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "Fuel Pump Assembly - 646 and 646BH",
+ "breadcrumb": "Fuel Pump Assembly - 646 and 646BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/onan_fuel_pump.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 53.68,
+   "y": 60.54,
+   "partNo": "C20653",
+   "desc": "PUMP - fuel, vacuum",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 13.08,
+   "y": 37.7,
+   "partNo": "C20740",
+   "desc": "BASE - fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 28.94,
+   "y": 57.3,
+   "partNo": "C20440",
+   "desc": "SPRING - diaphragm",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.42,
+   "y": 55.18,
+   "partNo": "C20448",
+   "desc": "PLATE - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 31.3,
+   "y": 26.61,
+   "partNo": "C20434",
+   "desc": "GASKET - base fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 40.46,
+   "y": 22.26,
+   "partNo": "C20437",
+   "desc": "DIAPHRAGM - fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 49.62,
+   "y": 17.27,
+   "partNo": "C20428",
+   "desc": "VALVE PLATE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 59.16,
+   "y": 11.54,
+   "partNo": "C20738",
+   "desc": "GASKET - cover, fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 67.85,
+   "y": 9.32,
+   "partNo": "C20739",
+   "desc": "COVER - fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 84.46,
+   "y": 21.8,
+   "partNo": "C20433",
+   "desc": "SCREW - cover, fuel pump",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 31.59,
+   "y": 73.39,
+   "partNo": "C20645",
+   "desc": "PLATE - mechanical fuel pump hole cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 41.5,
+   "y": 70.99,
+   "partNo": "C20247",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 33.0,
+   "y": 68.4,
+   "partNo": "13-410",
+   "desc": "BOLT - 1/4\" x 5/8\" n.c. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 29.98,
+   "y": 78.11,
+   "partNo": "C20735",
+   "desc": "GASKET - plate, fuel pump hole cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 76.15,
+   "y": 72.28,
+   "partNo": "C20647",
+   "desc": "TUBE - vacuum line",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 72.09,
+   "y": 76.63,
+   "partNo": "222-1014",
+   "desc": "FITTING - inverted male",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 54.82,
+   "y": 55.36,
+   "partNo": "C20411",
+   "desc": "CAP - fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 86.54,
+   "y": 45.19,
+   "partNo": "214-102",
+   "desc": "CLAMP - hose",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 54.82,
+   "y": 51.11,
+   "partNo": "214-102",
+   "desc": "CLAMP - hose",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 77.19,
+   "y": 62.67,
+   "partNo": "C20650",
+   "desc": "BRACKET - fuel pump mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 86.07,
+   "y": 50.83,
+   "partNo": "C20651",
+   "desc": "SCREW - #10 x 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 52.17,
+   "y": 68.03,
+   "partNo": "193-1000",
+   "desc": "NUT - #10 n.f. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 67.18,
+   "y": 70.8,
+   "partNo": "C22429",
+   "desc": "HOSE - vacuum, fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 77.0,
+   "y": 43.71,
+   "partNo": "C22417",
+   "desc": "HOSE - fuel pump to carburetor",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 72.38,
+   "y": 51.85,
+   "partNo": "C22275",
+   "desc": "SCREW - #6 x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 85.69,
+   "y": 61.83,
+   "partNo": "C22279",
+   "desc": "NUT - #6 - 32 hex",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.58
+}

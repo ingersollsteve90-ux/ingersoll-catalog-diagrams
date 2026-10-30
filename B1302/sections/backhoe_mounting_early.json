@@ -1,0 +1,275 @@
+{
+ "sectionTitle": "Backhoe Mounting Components - 644BH and 646BH (Early)",
+ "breadcrumb": "Backhoe Mounting Components - 644BH and 646BH (Early)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/backhoe_mounting_early.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 31.91,
+   "y": 19.23,
+   "partNo": "C22693",
+   "desc": "ARM - mounting, lower L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 24.13,
+   "y": 52.55,
+   "partNo": "C22690",
+   "desc": "ARM - mounting, lower R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 61.25,
+   "y": 17.72,
+   "partNo": "C21831",
+   "desc": "ARM - mounting, side",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 82.61,
+   "y": 63.5,
+   "partNo": "C21832",
+   "desc": "WEIGHT - counter",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 86.92,
+   "y": 59.72,
+   "partNo": "C21833",
+   "desc": "WEIGHT - counter",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 71.09,
+   "y": 65.86,
+   "partNo": "C21833",
+   "desc": "WEIGHT - counter",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 86.08,
+   "y": 43.58,
+   "partNo": "C21834",
+   "desc": "WEIGHT - counter, upper",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 68.37,
+   "y": 71.71,
+   "partNo": "C21845",
+   "desc": "ROD - threaded, 13-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 32.94,
+   "y": 9.41,
+   "partNo": "A30338",
+   "desc": "PIN - klik",
+   "reqd": "10"
+  },
+  {
+   "ref": "8",
+   "x": 17.76,
+   "y": 24.8,
+   "partNo": "A30338",
+   "desc": "PIN - klik",
+   "reqd": "10"
+  },
+  {
+   "ref": "8",
+   "x": 26.01,
+   "y": 29.42,
+   "partNo": "A30338",
+   "desc": "PIN - klik",
+   "reqd": "10"
+  },
+  {
+   "ref": "8",
+   "x": 54.87,
+   "y": 39.99,
+   "partNo": "A30338",
+   "desc": "PIN - klik",
+   "reqd": "10"
+  },
+  {
+   "ref": "9",
+   "x": 19.92,
+   "y": 50.66,
+   "partNo": "C21901",
+   "desc": "PIN - 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "9",
+   "x": 30.41,
+   "y": 60.48,
+   "partNo": "C21901",
+   "desc": "PIN - 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "10",
+   "x": 45.22,
+   "y": 6.58,
+   "partNo": "C21904",
+   "desc": "PIN - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 11.58,
+   "y": 47.26,
+   "partNo": "C21904",
+   "desc": "PIN - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 82.61,
+   "y": 34.61,
+   "partNo": "131-1131",
+   "desc": "NUT - lock 3/4\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "11",
+   "x": 92.64,
+   "y": 56.42,
+   "partNo": "131-1131",
+   "desc": "NUT - lock 3/4\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "11",
+   "x": 56.65,
+   "y": 77.75,
+   "partNo": "131-1131",
+   "desc": "NUT - lock 3/4\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "11",
+   "x": 68.93,
+   "y": 79.07,
+   "partNo": "131-1131",
+   "desc": "NUT - lock 3/4\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "12",
+   "x": 84.68,
+   "y": 38.77,
+   "partNo": "195-545",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "14"
+  },
+  {
+   "ref": "12",
+   "x": 32.66,
+   "y": 41.03,
+   "partNo": "195-545",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "14"
+  },
+  {
+   "ref": "12",
+   "x": 51.59,
+   "y": 41.88,
+   "partNo": "195-545",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "14"
+  },
+  {
+   "ref": "12",
+   "x": 89.45,
+   "y": 57.46,
+   "partNo": "195-545",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "14"
+  },
+  {
+   "ref": "12",
+   "x": 59.93,
+   "y": 74.73,
+   "partNo": "195-545",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "14"
+  },
+  {
+   "ref": "12",
+   "x": 68.93,
+   "y": 76.24,
+   "partNo": "195-545",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "14"
+  },
+  {
+   "ref": "13",
+   "x": 37.25,
+   "y": 7.62,
+   "partNo": "195-553",
+   "desc": "WASHER - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 13.83,
+   "y": 27.63,
+   "partNo": "195-553",
+   "desc": "WASHER - 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 16.73,
+   "y": 70.29,
+   "partNo": "113-421",
+   "desc": "BOLT - 1/2\" x 2\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 32.01,
+   "y": 87.57,
+   "partNo": "131-1182",
+   "desc": "NUT - lock, 1/2\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "16",
+   "x": 29.85,
+   "y": 75.01,
+   "partNo": "C21828",
+   "desc": "BRACKET - mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 32.47,
+   "y": 84.36,
+   "partNo": "C21921",
+   "desc": "SPACER - long",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 11.29,
+   "y": 73.5,
+   "partNo": "C21922",
+   "desc": "SPACER - short",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Early production. Order catalog 1275 for the D-100 backhoe parts breakdown.",
+ "dotSizePct": 2.61
+}

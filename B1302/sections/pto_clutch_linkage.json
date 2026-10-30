@@ -1,0 +1,265 @@
+{
+ "sectionTitle": "PTO Clutch and Linkage",
+ "breadcrumb": "PTO Clutch and Linkage",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/pto_clutch_linkage.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 22.1,
+   "y": 69.15,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH (less screen)",
+     "partNo": "C19803",
+     "desc": "CLUTCH ASSEMBLY - less screen, 644 and 644BH (repairs: see Clutch Assembly (PTO))",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646 / 646BH",
+     "partNo": "C21635",
+     "desc": "CLUTCH ASSEMBLY - 646 and 646BH (repairs: see Clutch Assembly (PTO))",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 68.29,
+   "y": 20.18,
+   "partNo": "C17679",
+   "desc": "HANDLE - clutch engaging",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 68.76,
+   "y": 9.69,
+   "partNo": "C14728",
+   "desc": "GRIP - clutch handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 53.2,
+   "y": 39.33,
+   "partNo": "C21615",
+   "desc": "ARM - clutch pivot (early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 92.51,
+   "y": 36.41,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 89.68,
+   "y": 40.88,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 86.29,
+   "y": 44.25,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 31.53,
+   "y": 27.11,
+   "partNo": "C20093",
+   "desc": "BUSHING - fliplock",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 49.06,
+   "y": 10.6,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 20.12,
+   "y": 86.75,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 31.34,
+   "y": 53.83,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH",
+     "partNo": "C21590",
+     "desc": "ROD - clutch (644 and 644BH)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646 / 646BH",
+     "partNo": "C19862",
+     "desc": "ROD - clutch (646 and 646BH)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 58.67,
+   "y": 52.92,
+   "partNo": "C19767",
+   "desc": "GUIDE - clutch rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 51.04,
+   "y": 81.92,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 49.06,
+   "y": 53.74,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 45.57,
+   "y": 48.36,
+   "partNo": "131-1181",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 28.04,
+   "y": 76.99,
+   "partNo": "C20053",
+   "desc": "BUSHING - nylon",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 48.77,
+   "y": 86.75,
+   "partNo": "C20053",
+   "desc": "BUSHING - nylon",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 46.7,
+   "y": 13.89,
+   "partNo": "C14906",
+   "desc": "WASHER - 3/8\" nylon",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 44.34,
+   "y": 17.44,
+   "partNo": "C19867",
+   "desc": "SPRING - clutch rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 25.21,
+   "y": 80.0,
+   "partNo": "C19867",
+   "desc": "SPRING - clutch rod",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 9.47,
+   "y": 9.14,
+   "partNo": "C23743",
+   "desc": "ARM - clutch pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 22.29,
+   "y": 83.47,
+   "partNo": "C23743",
+   "desc": "ARM - clutch pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 20.03,
+   "y": 18.54,
+   "partNo": "C23440",
+   "desc": "ACTIVATOR - switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 12.86,
+   "y": 29.02,
+   "partNo": "182-528",
+   "desc": "SCREW - #10 - 32 x 1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 13.99,
+   "y": 10.42,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - #10",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 16.54,
+   "y": 6.32,
+   "partNo": "129-37",
+   "desc": "NUT - #10 - 32",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 23.89,
+   "y": 30.57,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" x 3/4\" rd. head sq. neck",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 23.33,
+   "y": 16.71,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 26.34,
+   "y": 10.42,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.89
+}

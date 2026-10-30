@@ -1,0 +1,75 @@
+{
+ "sectionTitle": "Backhoe Hydraulic Components - 646BH (Early)",
+ "breadcrumb": "Backhoe Hydraulic Components - 646BH (Early)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/backhoe_hydraulic_646bh.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 73.64,
+   "y": 44.41,
+   "partNo": "C18285",
+   "desc": "TUBE - valve to hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 58.67,
+   "y": 85.38,
+   "partNo": "C18286",
+   "desc": "TUBE - pump to hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 18.64,
+   "y": 21.77,
+   "partNo": "C21996",
+   "desc": "HOSE - loader to backhoe",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 13.36,
+   "y": 77.5,
+   "partNo": "C15389",
+   "desc": "CLAMP - tube support",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 14.77,
+   "y": 84.37,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 14.59,
+   "y": 71.36,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 15.62,
+   "y": 65.86,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 25.13,
+   "y": 89.14,
+   "partNo": "214-254",
+   "desc": "CLAMP - hose 1-1/4\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Used prior to S/N 9732040.",
+ "dotSizePct": 3.14
+}

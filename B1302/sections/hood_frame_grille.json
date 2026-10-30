@@ -1,0 +1,462 @@
+{
+ "sectionTitle": "Hood, Frame and Grille",
+ "breadcrumb": "Hood, Frame and Grille",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/hood_frame_grille.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 68.21,
+   "y": 56.32,
+   "variants": [
+    {
+     "serialNote": "644 prior to S/N 9771567",
+     "partNo": "C21664",
+     "desc": "FRAME - main 644 (also order C23010 switch and C23330 nut prior to S/N 9718951) (used prior to S/N 9771567)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "644BH prior to S/N 9771567",
+     "partNo": "C23819",
+     "desc": "FRAME - main 644BH (also order C23010 switch and C23330 nut prior to S/N 9718951) (used prior to S/N 9771567)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646 prior to S/N 9771784",
+     "partNo": "C21663",
+     "desc": "FRAME - main 646 (also order C23010 switch and C23330 nut prior to S/N 9718432) (used prior to S/N 9771784)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646BH prior to S/N 9771784",
+     "partNo": "C23820",
+     "desc": "FRAME - main 646BH (also order C23010 switch and C23330 nut prior to S/N 9718432) (used prior to S/N 9771784)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646 S/N 9771567 and after",
+     "partNo": "C25171",
+     "desc": "FRAME - main 646 (used S/N 9771567 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "644 S/N 9771784 and after",
+     "partNo": "C25172",
+     "desc": "FRAME - main 644 (used S/N 9771784 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646BH S/N 9771784 and after",
+     "partNo": "C25278",
+     "desc": "FRAME - main 646BH (used S/N 9771784 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 19.03,
+   "y": 92.09,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C17563",
+     "desc": "PAD - foot, L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C18024",
+     "desc": "PAD - foot, R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "3",
+   "x": 8.4,
+   "y": 88.6,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "4",
+   "x": 53.42,
+   "y": 40.0,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "18"
+  },
+  {
+   "ref": "4",
+   "x": 65.16,
+   "y": 42.64,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "18"
+  },
+  {
+   "ref": "4",
+   "x": 11.45,
+   "y": 87.65,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "18"
+  },
+  {
+   "ref": "5",
+   "x": 68.49,
+   "y": 40.19,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 8.12,
+   "y": 75.76,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 71.63,
+   "y": 33.86,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex",
+   "reqd": "12"
+  },
+  {
+   "ref": "6",
+   "x": 56.84,
+   "y": 38.86,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex",
+   "reqd": "12"
+  },
+  {
+   "ref": "6",
+   "x": 40.94,
+   "y": 86.42,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex",
+   "reqd": "12"
+  },
+  {
+   "ref": "7",
+   "x": 89.94,
+   "y": 63.68,
+   "partNo": "C17598",
+   "desc": "TRAY - battery",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 89.29,
+   "y": 53.49,
+   "partNo": "C16239",
+   "desc": "STRAP - battery hold down",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 54.35,
+   "y": 50.75,
+   "partNo": "113-102",
+   "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 84.11,
+   "y": 84.82,
+   "partNo": "C19018",
+   "desc": "PIN - axle pivot",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 89.01,
+   "y": 86.42,
+   "partNo": "187-1046",
+   "desc": "BOLT - 3/8\" NC hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 81.9,
+   "y": 93.97,
+   "partNo": "219-17",
+   "desc": "FITTING - lube",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 75.05,
+   "y": 27.82,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH prior to S/N 9731697",
+     "partNo": "C21912",
+     "desc": "GRILLE - frame (644 and 644BH) (used prior to S/N 9731697)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646 / 646BH (and 644 / 644BH S/N 9731697 and after)",
+     "partNo": "C21533",
+     "desc": "GRILLE - frame (646 and 646BH) (also 644 and 644BH S/N 9731697 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 83.19,
+   "y": 52.74,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH",
+     "partNo": "C18201",
+     "desc": "GRILLE - insert (644 and 644BH)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646 / 646BH",
+     "partNo": "C19375",
+     "desc": "GRILLE - insert (646 and 646BH)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 81.06,
+   "y": 27.16,
+   "partNo": "C21545",
+   "desc": "PANEL - headlight",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 90.86,
+   "y": 35.18,
+   "partNo": "187-1080",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex slotted, black",
+   "reqd": "9"
+  },
+  {
+   "ref": "17",
+   "x": 58.69,
+   "y": 31.98,
+   "partNo": "C17653",
+   "desc": "NUT - 1/4\" tinnerman",
+   "reqd": "9"
+  },
+  {
+   "ref": "18",
+   "x": 67.38,
+   "y": 44.24,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 23.56,
+   "y": 40.47,
+   "partNo": "C17647",
+   "desc": "PANEL - dash",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 40.2,
+   "y": 42.73,
+   "partNo": "187-1036",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex self tapping",
+   "reqd": "7"
+  },
+  {
+   "ref": "20",
+   "x": 19.77,
+   "y": 55.19,
+   "partNo": "187-1036",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex self tapping",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 12.47,
+   "y": 31.13,
+   "partNo": "C21667",
+   "desc": "SUPPORT - grille, R.H. (644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 13.3,
+   "y": 15.75,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH (L.H.)",
+     "partNo": "C19863",
+     "desc": "SUPPORT - grille, L.H. (644 and 644BH)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646 / 646BH",
+     "partNo": "C19863",
+     "desc": "SUPPORT - grille, (646 and 646BH)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "23",
+   "x": 23.1,
+   "y": 33.2,
+   "partNo": "111-340",
+   "desc": "BOLT - 3/8\" x 3/4\" NC round head, square neck",
+   "reqd": "8"
+  },
+  {
+   "ref": "24",
+   "x": 60.63,
+   "y": 10.18,
+   "partNo": "C21538",
+   "desc": "HOOD",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 52.13,
+   "y": 88.41,
+   "variants": [
+    {
+     "serialNote": "646 / 646BH engine mounting",
+     "partNo": "113-412",
+     "desc": "BOLT - 1/2\" x 1-3/4\" NC hex (engine mounting) 646 and 646BH",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "646 / 646BH left front engine mounting",
+     "partNo": "113-410",
+     "desc": "BOLT - 1/2\" x 1-1/2\" NC hex (left front engine mounting) 646 and 646BH",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "26",
+   "x": 71.63,
+   "y": 75.38,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "27",
+   "x": 45.84,
+   "y": 78.31,
+   "variants": [
+    {
+     "serialNote": "Hex nut",
+     "partNo": "129-105",
+     "desc": "NUT - 1/2\" NC hex",
+     "reqd": "3"
+    },
+    {
+     "serialNote": "646 / 646BH left front lock nut",
+     "partNo": "131-165",
+     "desc": "NUT - lock 1/2\" NC hex jam (left front engine mount) 646 and 646BH",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 88.83,
+   "y": 74.72,
+   "partNo": "C18055",
+   "desc": "PIN - latch",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 91.97,
+   "y": 77.27,
+   "partNo": "C10898",
+   "desc": "PIN - safety",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 57.21,
+   "y": 51.79,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 73.39,
+   "y": 14.9,
+   "partNo": "C21638",
+   "desc": "STRIP - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 77.74,
+   "y": 92.94,
+   "partNo": "C18733",
+   "desc": "PIN - attachment",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 60.91,
+   "y": 93.22,
+   "partNo": "131-1318",
+   "desc": "NUT - lock 1/2\" NF jam",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 78.57,
+   "y": 22.07,
+   "partNo": "182-528",
+   "desc": "SCREW - #10 x 1/2\" pan head",
+   "reqd": "3"
+  },
+  {
+   "ref": "35",
+   "x": 44.73,
+   "y": 27.26,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - #10",
+   "reqd": "3"
+  },
+  {
+   "ref": "36",
+   "x": 46.39,
+   "y": 24.99,
+   "partNo": "195-513",
+   "desc": "WASHER - #10",
+   "reqd": "3"
+  },
+  {
+   "ref": "37",
+   "x": 47.5,
+   "y": 29.9,
+   "partNo": "129-37",
+   "desc": "NUT - #10",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.68
+}

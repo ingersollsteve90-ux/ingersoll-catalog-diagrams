@@ -1,0 +1,57 @@
+{
+ "sectionTitle": "Fuel Pump - 644 and 644BH",
+ "breadcrumb": "Fuel Pump - 644 and 644BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/fuel_pump_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 14.25,
+   "y": 54.94,
+   "partNo": "KO236387",
+   "desc": "KIT - fuel pump (for C22987)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 85.84,
+   "y": 66.97,
+   "partNo": "C22738",
+   "desc": "GASKET - fuel pump mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "VALVE ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "GASKET - valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "DIAPHRAGM ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "SPRING - diaphragm",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "GASKET - valve",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Not available for the plastic fuel pump.",
+ "dotSizePct": 5.62
+}

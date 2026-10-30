@@ -1,0 +1,387 @@
+{
+ "sectionTitle": "A70202 Starter-Generator - 644 and 646BH (Delco 1101970)",
+ "breadcrumb": "A70202 Starter-Generator - 644 and 646BH (Delco 1101970)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/starter_generator_a70202.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 54.43,
+   "y": 9.7,
+   "partNo": "R15106",
+   "desc": "BOLT - through (includes washer)",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 32.09,
+   "y": 9.42,
+   "partNo": "A72104",
+   "desc": "FRAME ASSEMBLY - commutator end",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 38.74,
+   "y": 12.25,
+   "partNo": "R15087",
+   "desc": "RING - bearing retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 45.29,
+   "y": 15.08,
+   "partNo": "A25461",
+   "desc": "BEARING - commutator end ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 47.51,
+   "y": 28.01,
+   "partNo": "A72039",
+   "desc": "HOLDER KIT - ground brush",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 30.53,
+   "y": 46.13,
+   "partNo": "A72040",
+   "desc": "HOLDER KIT - insulated brush",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 32.19,
+   "y": 26.59,
+   "partNo": "A72038",
+   "desc": "BRUSH ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 14.56,
+   "y": 31.31,
+   "partNo": "A72038",
+   "desc": "BRUSH ASSEMBLY",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 44.65,
+   "y": 26.69,
+   "partNo": "R15090",
+   "desc": "ARM - brush pressure",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 13.45,
+   "y": 40.0,
+   "partNo": "R15090",
+   "desc": "ARM - brush pressure",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 28.86,
+   "y": 32.73,
+   "partNo": "R16161",
+   "desc": "SPRING - brush arm",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 25.82,
+   "y": 36.41,
+   "partNo": "R16161",
+   "desc": "SPRING - brush arm",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 21.2,
+   "y": 65.86,
+   "partNo": "A72043",
+   "desc": "COIL ASSEMBLY - field R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 16.96,
+   "y": 45.28,
+   "partNo": "A72048",
+   "desc": "STUD - armature terminal",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 14.83,
+   "y": 42.73,
+   "partNo": "R16147",
+   "desc": "BUSHING - insulated, armature stud",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 84.98,
+   "y": 48.21,
+   "partNo": "A41927",
+   "desc": "WASHER - armature stud",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 56.65,
+   "y": 60.1,
+   "partNo": "A41927",
+   "desc": "WASHER - armature stud",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 70.31,
+   "y": 45.75,
+   "partNo": "129-18",
+   "desc": "NUT - terminal stud 12-24 hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 54.25,
+   "y": 55.29,
+   "partNo": "129-18",
+   "desc": "NUT - terminal stud 12-24 hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 86.18,
+   "y": 45.56,
+   "partNo": "192-17",
+   "desc": "LOCKWASHER - terminal stud #12",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 55.35,
+   "y": 57.64,
+   "partNo": "192-17",
+   "desc": "LOCKWASHER - terminal stud #12",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 84.06,
+   "y": 50.85,
+   "partNo": "NSS",
+   "desc": "WASHER - insulated, field stud (order A40702)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 90.61,
+   "y": 36.31,
+   "partNo": "A72042",
+   "desc": "COIL ASSEMBLY - field L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 76.58,
+   "y": 27.16,
+   "partNo": "NSS",
+   "desc": "STUD - field terminal (see Ref. 40)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 78.15,
+   "y": 23.86,
+   "partNo": "NSS",
+   "desc": "BUSHING - insulated, field stud (Order A40702)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 61.17,
+   "y": 28.67,
+   "partNo": "A25447",
+   "desc": "INSULATOR - field coil",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 28.31,
+   "y": 62.93,
+   "partNo": "A25447",
+   "desc": "INSULATOR - field coil",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 54.25,
+   "y": 31.78,
+   "partNo": "A40736",
+   "desc": "SHOE - pole, plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 42.34,
+   "y": 56.8,
+   "partNo": "A40736",
+   "desc": "SHOE - pole, notched",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 48.71,
+   "y": 54.72,
+   "partNo": "A72041",
+   "desc": "ARMATURE",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 66.24,
+   "y": 47.55,
+   "partNo": "126-111",
+   "desc": "KEY - Woodruff, armature",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 75.84,
+   "y": 66.33,
+   "partNo": "74-610",
+   "desc": "SCREW - pole",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 86.55,
+   "y": 71.24,
+   "partNo": "NSS",
+   "desc": "BODY - starter, generator (Order A70202)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 34.59,
+   "y": 60.19,
+   "partNo": "173-237",
+   "desc": "SCREW - 10-32 x 1/2\" Rd. Hd.",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 38.19,
+   "y": 61.7,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\" plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "29",
+   "x": 28.77,
+   "y": 76.24,
+   "partNo": "A44433",
+   "desc": "RETAINER ASSEMBLY - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 33.39,
+   "y": 78.31,
+   "partNo": "NSS",
+   "desc": "GASKET - bearing retainer (Order A44433) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 37.82,
+   "y": 80.01,
+   "partNo": "A43356",
+   "desc": "BEARING - ball, drive end",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 50.09,
+   "y": 85.39,
+   "partNo": "A72046",
+   "desc": "FRAME ASSEMBLY - drive end",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 61.63,
+   "y": 90.39,
+   "partNo": "A72047",
+   "desc": "SPACER - pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 64.4,
+   "y": 91.34,
+   "partNo": "C14344",
+   "desc": "PULLEY - starter, generator drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 67.54,
+   "y": 92.66,
+   "partNo": "192-26",
+   "desc": "LOCKWASHER - 11/16\" plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 70.58,
+   "y": 94.17,
+   "partNo": "A25546",
+   "desc": "NUT - armature shaft, drive end",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 42.15,
+   "y": 81.62,
+   "partNo": "A43499",
+   "desc": "RETAINER - grease",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 45.94,
+   "y": 83.41,
+   "partNo": "NSS",
+   "desc": "SEAL - felt (Order A44433) *",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 55.81,
+   "y": 51.79,
+   "partNo": "NSS",
+   "desc": "SPACER - armature shaft, inner",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 84.8,
+   "y": 10.64,
+   "partNo": "A40702",
+   "desc": "KIT - stud (Includes items 16, 18 and 19)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.6
+}

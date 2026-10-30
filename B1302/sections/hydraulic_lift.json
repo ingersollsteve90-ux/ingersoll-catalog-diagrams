@@ -1,0 +1,403 @@
+{
+ "sectionTitle": "Hydraulic Lift",
+ "breadcrumb": "Hydraulic Lift",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/hydraulic_lift.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 45.64,
+   "y": 33.29,
+   "partNo": "C19384",
+   "desc": "ROD - lift control",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 35.53,
+   "y": 29.42,
+   "partNo": "C19025",
+   "desc": "BALL JOINT",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 51.67,
+   "y": 23.66,
+   "partNo": "129-122",
+   "desc": "NUT - 5/16\" NF hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 43.88,
+   "y": 22.15,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 68.18,
+   "y": 24.79,
+   "partNo": "C17566",
+   "desc": "LEVER - lift control",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 67.62,
+   "y": 43.67,
+   "partNo": "195-541",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 71.42,
+   "y": 38.86,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 50.09,
+   "y": 8.17,
+   "partNo": "A37247",
+   "desc": "KNOB - lift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 68.36,
+   "y": 19.22,
+   "partNo": "C12093",
+   "desc": "BUSHING - flip lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 45.46,
+   "y": 61.42,
+   "partNo": "C17585",
+   "desc": "CROSS SHAFT ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 63.35,
+   "y": 75.87,
+   "partNo": "C17250",
+   "desc": "BRACKET - clamp",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 62.71,
+   "y": 79.93,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 48.98,
+   "y": 68.41,
+   "partNo": "131-1181",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 75.6,
+   "y": 85.22,
+   "partNo": "C17579",
+   "desc": "BRACKET - cylinder mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 53.34,
+   "y": 55.19,
+   "partNo": "C18251",
+   "desc": "PIN - cylinder mounting, rod end",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 69.75,
+   "y": 76.06,
+   "partNo": "C17536",
+   "desc": "PIN - cylinder mounting, foot end",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 47.5,
+   "y": 54.82,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 83.48,
+   "y": 68.7,
+   "partNo": "132-361",
+   "desc": "PIN - cotter 3/16\" x 2-1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 30.62,
+   "y": 44.52,
+   "partNo": "C18154",
+   "desc": "HOSE - valve to cylinder, short",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 40.36,
+   "y": 31.87,
+   "partNo": "C18155",
+   "desc": "HOSE - valve to cylinder, long",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 7.8,
+   "y": 23.18,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH prior to S/N 9718424",
+     "partNo": "218-5056",
+     "desc": "FITTING - valve (includes 218-5004 \"O\" ring) 644 and 644BH (used prior to S/N 9718424)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH prior to S/N 9718930",
+     "partNo": "218-5056",
+     "desc": "FITTING - valve (includes 218-5004 \"O\" Ring) 646 and 646BH (used prior to S/N 9718930)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 11.79,
+   "y": 25.26,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH prior to S/N 9718424",
+     "partNo": "218-5056",
+     "desc": "FITTING - valve (includes 218-5004 \"O\" ring) 644 and 644BH (used prior to S/N 9718424)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH prior to S/N 9718930",
+     "partNo": "218-5056",
+     "desc": "FITTING - valve (includes 218-5004 \"O\" Ring) 646 and 646BH (used prior to S/N 9718930)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "22",
+   "x": 86.35,
+   "y": 82.95,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 87.19,
+   "y": 68.51,
+   "partNo": "195-525",
+   "desc": "WASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 87.37,
+   "y": 65.2,
+   "partNo": "131-1181",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 68.36,
+   "y": 72.38,
+   "partNo": "C19475",
+   "desc": "CYLINDER - hydraulic lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 17.63,
+   "y": 84.46,
+   "partNo": "C19479",
+   "desc": "BODY - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 23.57,
+   "y": 86.54,
+   "partNo": "C19104",
+   "desc": "ROD AND PISTON ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 45.08,
+   "y": 83.61,
+   "partNo": "C17732",
+   "desc": "FOOT - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 10.49,
+   "y": 80.69,
+   "partNo": "NSS",
+   "desc": "SEAL",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 13.55,
+   "y": 81.54,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 31.54,
+   "y": 90.51,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 71.79,
+   "y": 28.66,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 71.52,
+   "y": 31.49,
+   "partNo": "195-518",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 19.21,
+   "y": 14.88,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH S/N 9718424 and after",
+     "partNo": "218-753",
+     "desc": "CAP - 37° flare 644 and 644BH (used S/N 9718424 and after)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH S/N 9718930 and after",
+     "partNo": "218-753",
+     "desc": "CAP - 37° flare 646 and 646BH (used S/N 9718930 and after)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "34",
+   "x": 21.81,
+   "y": 28.94,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH S/N 9718424 and after",
+     "partNo": "218-753",
+     "desc": "CAP - 37° flare 644 and 644BH (used S/N 9718424 and after)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH S/N 9718930 and after",
+     "partNo": "218-753",
+     "desc": "CAP - 37° flare 646 and 646BH (used S/N 9718930 and after)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "35",
+   "x": 21.07,
+   "y": 22.24,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH S/N 9718424 and after",
+     "partNo": "218-5291",
+     "desc": "FITTING - valve, tee (includes 218-5004 \"O\" Ring) 644 and 644BH (used S/N 9718424 and after)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH S/N 9718930 and after",
+     "partNo": "218-5291",
+     "desc": "FITTING - valve, tee (includes 218-5004 \"O\" Ring) 646 and 646BH (used S/N 9718930 and after)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "35",
+   "x": 35.81,
+   "y": 26.02,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH S/N 9718424 and after",
+     "partNo": "218-5291",
+     "desc": "FITTING - valve, tee (includes 218-5004 \"O\" Ring) 644 and 644BH (used S/N 9718424 and after)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH S/N 9718930 and after",
+     "partNo": "218-5291",
+     "desc": "FITTING - valve, tee (includes 218-5004 \"O\" Ring) 646 and 646BH (used S/N 9718930 and after)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "36",
+   "x": 67.16,
+   "y": 46.13,
+   "partNo": "C12127",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 52.87,
+   "y": 38.76,
+   "partNo": "C17551",
+   "desc": "DISC - friction",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C17268",
+   "desc": "KIT - SEAL, cylinder (consists of items 29, 30 and 31)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.55
+}

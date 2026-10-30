@@ -1,0 +1,65 @@
+{
+ "sectionTitle": "LT26 Three Point Hitch - Cylinder and Drawbar Mounting",
+ "breadcrumb": "LT26 Three Point Hitch - Cylinder and Drawbar Mounting",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/lt26_hitch_cylinder_drawbar.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.77,
+   "y": 24.1,
+   "partNo": "C20117",
+   "desc": "HITCH PLATE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 42.16,
+   "y": 59.86,
+   "partNo": "C19481",
+   "desc": "PIN - lower cylinder mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 46.41,
+   "y": 35.39,
+   "partNo": "C14976",
+   "desc": "PIN - upper cylinder mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 45.19,
+   "y": 49.46,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "4",
+   "x": 68.31,
+   "y": 51.43,
+   "partNo": "132-310",
+   "desc": "PIN - cotter 1/8\" x 1\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 87.57,
+   "y": 63.53,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" x 1-1/4\" NC hex, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.32
+}

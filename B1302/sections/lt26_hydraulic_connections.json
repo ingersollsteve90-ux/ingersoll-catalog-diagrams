@@ -1,0 +1,121 @@
+{
+ "sectionTitle": "LT26 Three Point Hitch - Hydraulic Connections and Components",
+ "breadcrumb": "LT26 Three Point Hitch - Hydraulic Connections and Components",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/lt26_hydraulic_connections.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 88.74,
+   "y": 81.23,
+   "partNo": "221-1139",
+   "desc": "NIPPLE - 1/4\" x 3\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 88.64,
+   "y": 88.34,
+   "partNo": "221-1375",
+   "desc": "ELBOW - 90°",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 56.6,
+   "y": 21.5,
+   "partNo": "C17188",
+   "desc": "HOSE - hydraulic short",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 64.8,
+   "y": 36.52,
+   "partNo": "C17189",
+   "desc": "HOSE - hydraulic long",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 22.86,
+   "y": 22.95,
+   "partNo": "218-5291",
+   "desc": "FITTING - tee (includes 218-5004 \"O\" ring) (early production)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 71.96,
+   "y": 41.35,
+   "partNo": "C19480",
+   "desc": "CYLINDER ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 22.95,
+   "y": 50.18,
+   "partNo": "C19476",
+   "desc": "BODY - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 29.93,
+   "y": 58.47,
+   "partNo": "C19469",
+   "desc": "ROD AND PISTON ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 40.1,
+   "y": 67.03,
+   "partNo": "C14692",
+   "desc": "FOOT - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 14.85,
+   "y": 45.9,
+   "partNo": "NSS",
+   "desc": "SEAL - wiper",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 17.67,
+   "y": 49.27,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 36.99,
+   "y": 64.3,
+   "partNo": "NSS",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 38.6,
+   "y": 11.85,
+   "partNo": "218-5479",
+   "desc": "FITTING - tee, swivel (late production)",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "partNo": "C17268",
+   "desc": "KIT - seal (Consists of items 10, 11 and 12)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.83
+}

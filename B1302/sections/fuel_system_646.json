@@ -1,0 +1,123 @@
+{
+ "sectionTitle": "Fuel System - 646 and 646BH",
+ "breadcrumb": "Fuel System - 646 and 646BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/fuel_system_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 19.04,
+   "y": 21.64,
+   "partNo": "C18133",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 28.39,
+   "y": 10.18,
+   "partNo": "C11529",
+   "desc": "CAP - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 28.86,
+   "y": 16.28,
+   "partNo": "C11545",
+   "desc": "INSERT - fuel cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 36.79,
+   "y": 72.36,
+   "partNo": "C18190",
+   "desc": "STRAP - tank mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 19.7,
+   "y": 71.25,
+   "partNo": "C14690",
+   "desc": "CUSHION - fuel tank",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 7.15,
+   "y": 84.0,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4 x 1-1/2\" round hd. machine",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 9.98,
+   "y": 89.27,
+   "partNo": "129-504",
+   "desc": "NUT - 1/4\" NC square",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 49.24,
+   "y": 53.14,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 52.17,
+   "y": 56.28,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 71.33,
+   "y": 69.13,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 80.68,
+   "y": 78.55,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 60.29,
+   "y": 60.62,
+   "partNo": "C19238",
+   "desc": "HOSE - fuel line 46\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 92.85,
+   "y": 81.88,
+   "partNo": "C15007",
+   "desc": "HOSE - fuel line 5-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 78.5,
+   "y": 73.84,
+   "partNo": "D59949",
+   "desc": "FILTER - fuel",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.89
+}

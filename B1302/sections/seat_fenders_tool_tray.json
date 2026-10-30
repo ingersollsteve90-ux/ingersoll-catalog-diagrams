@@ -1,0 +1,242 @@
+{
+ "sectionTitle": "Seat, Fenders and Tool Tray",
+ "breadcrumb": "Seat, Fenders and Tool Tray",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/seat_fenders_tool_tray.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28.31,
+   "y": 85.78,
+   "partNo": "C17488",
+   "desc": "SUPPORT - seat, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 14.23,
+   "y": 78.89,
+   "partNo": "C17485",
+   "desc": "SUPPORT - seat, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 54.82,
+   "y": 59.44,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 18.3,
+   "y": 72.75,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 44.07,
+   "y": 64.92,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 31.19,
+   "y": 67.56,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 21.08,
+   "y": 65.1,
+   "partNo": "C19417",
+   "desc": "TRAY - tool",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 63.99,
+   "y": 38.1,
+   "partNo": "C16429",
+   "desc": "PIN - seat hinge",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 54.91,
+   "y": 11.58,
+   "partNo": "C18217",
+   "desc": "SEAT",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 13.95,
+   "y": 30.27,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 14.87,
+   "y": 49.06,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 17.38,
+   "y": 52.27,
+   "partNo": "195-2021",
+   "desc": "WASHER - 5/16\" x 1-1/4\" O.D.",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 18.86,
+   "y": 57.17,
+   "partNo": "113-122",
+   "desc": "BOLT - 5/16\" x 1-1/2\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 8.76,
+   "y": 42.35,
+   "partNo": "C14534",
+   "desc": "BUMPER - seat",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 51.76,
+   "y": 43.96,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex flange",
+   "reqd": "14"
+  },
+  {
+   "ref": "13",
+   "x": 63.44,
+   "y": 73.7,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex flange",
+   "reqd": "14"
+  },
+  {
+   "ref": "14",
+   "x": 47.96,
+   "y": 31.12,
+   "partNo": "C17152",
+   "desc": "HINGE - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 43.79,
+   "y": 90.5,
+   "partNo": "C14728",
+   "desc": "GRIP - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 91.33,
+   "y": 51.89,
+   "variants": [
+    {
+     "serialNote": "L.H. (644 / 646)",
+     "partNo": "C17456",
+     "desc": "FENDER - L.H. (644 and 646)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (644 / 646)",
+     "partNo": "C17457",
+     "desc": "FENDER - R.H. (644 and 646)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "L.H. (644BH / 646BH)",
+     "partNo": "C22850",
+     "desc": "FENDER - L.H. (644BH and 646BH)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H. (644BH / 646BH)",
+     "partNo": "C22849",
+     "desc": "FENDER - R.H. (644BH and 646BH)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 74.75,
+   "y": 82.0,
+   "partNo": "C17491",
+   "desc": "LEVER - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 70.85,
+   "y": 80.21,
+   "partNo": "195-2029",
+   "desc": "WASHER - 7/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 80.21,
+   "y": 85.02,
+   "partNo": "C17216",
+   "desc": "SPRING - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 84.94,
+   "y": 86.82,
+   "partNo": "C17066",
+   "desc": "WASHER - cupped",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 88.93,
+   "y": 89.65,
+   "partNo": "131-1181",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 66.13,
+   "y": 78.42,
+   "partNo": "113-257",
+   "desc": "BOLT - 3/8\" x 2-1/2\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 84.85,
+   "y": 39.52,
+   "partNo": "C21838",
+   "desc": "PAD - step, fender (644BH and 646BH)",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.14
+}

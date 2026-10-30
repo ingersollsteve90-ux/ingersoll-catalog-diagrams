@@ -1,0 +1,99 @@
+{
+ "sectionTitle": "Exhaust System - 646 and 646BH",
+ "breadcrumb": "Exhaust System - 646 and 646BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/exhaust_system_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 57.99,
+   "y": 67.19,
+   "partNo": "C20109",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.79,
+   "y": 16.55,
+   "partNo": "C21640",
+   "desc": "PIPE - exhaust, left",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 86.71,
+   "y": 30.67,
+   "partNo": "C21639",
+   "desc": "PIPE - exhaust, right",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 30.39,
+   "y": 58.08,
+   "partNo": "C18250",
+   "desc": "GASKET - exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 9.76,
+   "y": 28.53,
+   "partNo": "61-510",
+   "desc": "BOLT - 5/16\" x 3/4\" NC socket head",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 17.75,
+   "y": 78.9,
+   "partNo": "192-45",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 21.94,
+   "y": 74.53,
+   "partNo": "NSS",
+   "desc": "CLAMP - muffler (use L47766)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 47.49,
+   "y": 81.32,
+   "partNo": "111-204",
+   "desc": "BOLT - 5/16\" x 1-1/4\" NC rd. hd. square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 12.55,
+   "y": 84.29,
+   "partNo": "129-518",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 60.5,
+   "y": 40.06,
+   "partNo": "L47766",
+   "desc": "CLAMP - muffler",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 53.72,
+   "y": 53.35,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" - 18 hex",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.42
+}

@@ -1,0 +1,99 @@
+{
+ "sectionTitle": "Breaker Contacts - 644 and 644BH",
+ "breadcrumb": "Breaker Contacts - 644 and 644BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/breaker_contacts_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28.0,
+   "y": 37.95,
+   "partNo": "NSS",
+   "desc": "LEAD - breaker contact (order from local supplier)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 87.15,
+   "y": 33.51,
+   "partNo": "C23870",
+   "desc": "ROD - breaker contact push",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 13.03,
+   "y": 63.38,
+   "partNo": "V34421",
+   "desc": "SCREW - #10 x 3/8\" round head, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 66.77,
+   "y": 73.84,
+   "partNo": "V34421",
+   "desc": "SCREW - #10 x 3/8\" round head, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 41.07,
+   "y": 23.59,
+   "partNo": "KO275182",
+   "desc": "CLIP - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 48.29,
+   "y": 85.1,
+   "partNo": "V34857",
+   "desc": "COVER - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 58.48,
+   "y": 79.25,
+   "partNo": "KO220174",
+   "desc": "GASKET - cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 77.77,
+   "y": 65.25,
+   "partNo": "187-408",
+   "desc": "SCREW - #6 x 3/8\" self-tapping",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 69.38,
+   "y": 22.08,
+   "partNo": "173-224",
+   "desc": "SCREW - #8 x 1/4\" round head NC",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 75.24,
+   "y": 25.45,
+   "partNo": "193-5",
+   "desc": "LOCKWASHER - #8 internal tooth",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 81.29,
+   "y": 29.52,
+   "partNo": "C24135",
+   "desc": "POINT SET - breaker assembly",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.12
+}

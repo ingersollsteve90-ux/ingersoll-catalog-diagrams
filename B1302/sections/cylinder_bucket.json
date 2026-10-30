@@ -1,0 +1,225 @@
+{
+ "sectionTitle": "Cylinder - Bucket",
+ "breadcrumb": "Cylinder - Bucket",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/cylinder_bucket.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 9.49,
+   "y": 26.58,
+   "partNo": "C18573",
+   "desc": "BODY - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 10.72,
+   "y": 46.76,
+   "partNo": "131-677",
+   "desc": "NUT - jam",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 81.35,
+   "y": 12.32,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 81.44,
+   "y": 23.34,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 9.68,
+   "y": 52.59,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 9.78,
+   "y": 63.8,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 81.44,
+   "y": 18.34,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 9.78,
+   "y": 58.61,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 9.78,
+   "y": 69.63,
+   "partNo": "D54909",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 32.82,
+   "y": 26.11,
+   "partNo": "C18486",
+   "desc": "HEAD ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 36.88,
+   "y": 18.98,
+   "partNo": "NSS",
+   "desc": "BUSHING - head",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 81.82,
+   "y": 30.37,
+   "partNo": "NSS",
+   "desc": "BUSHING - head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 36.31,
+   "y": 32.59,
+   "partNo": "NSS",
+   "desc": "HEAD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 81.54,
+   "y": 38.33,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 36.21,
+   "y": 38.43,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 81.35,
+   "y": 45.46,
+   "partNo": "NSS",
+   "desc": "WASHER - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 36.78,
+   "y": 45.65,
+   "partNo": "NSS",
+   "desc": "WASHER - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 36.4,
+   "y": 51.3,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 81.63,
+   "y": 51.48,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 36.78,
+   "y": 60.74,
+   "partNo": "C18572",
+   "desc": "ROD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 57.74,
+   "y": 39.07,
+   "partNo": "NSS",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 81.35,
+   "y": 57.96,
+   "partNo": "NSS",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 58.03,
+   "y": 45.93,
+   "partNo": "D54915",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 57.74,
+   "y": 51.94,
+   "partNo": "D54917",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 38.95,
+   "y": 25.84,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, head",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 76.72,
+   "y": 26.76,
+   "partNo": "C18574",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C11528",
+   "desc": "CYLINDER - bucket",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.77
+}

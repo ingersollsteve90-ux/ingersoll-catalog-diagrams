@@ -1,0 +1,459 @@
+{
+ "sectionTitle": "Front Axle and Steering Gear",
+ "breadcrumb": "Front Axle and Steering Gear",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/front_axle_steering_gear.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.47,
+   "y": 76.15,
+   "partNo": "C17296",
+   "desc": "AXLE - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.8,
+   "y": 79.55,
+   "partNo": "C22249",
+   "desc": "SPINDLE - L.H. (also requires item 42)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 93.43,
+   "y": 79.55,
+   "partNo": "C17398",
+   "desc": "SPINDLE - R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 86.85,
+   "y": 73.98,
+   "partNo": "126-32",
+   "desc": "KEY - 1/4\" x 1-1/4\" woodruff (644 used prior to S/N 9731682) (646 used prior to S/N 9732122)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 82.15,
+   "y": 55.95,
+   "partNo": "C17407",
+   "desc": "ARM - upper spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 78.67,
+   "y": 46.03,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" x 1-3/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 52.91,
+   "y": 59.06,
+   "partNo": "113-417",
+   "desc": "BOLT - 1/2\" x 1-3/4\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 79.7,
+   "y": 49.72,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 40.69,
+   "y": 65.11,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 80.55,
+   "y": 52.17,
+   "partNo": "195-536",
+   "desc": "WASHER - 9/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 82.81,
+   "y": 60.57,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 52.07,
+   "y": 68.22,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 83.84,
+   "y": 71.62,
+   "partNo": "C17684",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 53.1,
+   "y": 65.39,
+   "partNo": "A59939",
+   "desc": "RING - retaining",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 51.69,
+   "y": 71.62,
+   "partNo": "C12888",
+   "desc": "BUSHING - spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 49.34,
+   "y": 84.65,
+   "partNo": "C12888",
+   "desc": "BUSHING - spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 50.19,
+   "y": 80.87,
+   "partNo": "C18248",
+   "desc": "SPACER - bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 54.04,
+   "y": 45.56,
+   "partNo": "219-17",
+   "desc": "FITTING - lube",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 64.29,
+   "y": 79.93,
+   "partNo": "219-17",
+   "desc": "FITTING - lube",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 66.07,
+   "y": 81.82,
+   "partNo": "C13106",
+   "desc": "COVER - lube fitting",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 67.11,
+   "y": 90.12,
+   "partNo": "C17401",
+   "desc": "TIE ROD",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 60.53,
+   "y": 51.6,
+   "partNo": "C17402",
+   "desc": "ROD - drag link",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 53.95,
+   "y": 48.4,
+   "partNo": "C17404",
+   "desc": "BALL JOINT - R.H. thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 43.89,
+   "y": 90.22,
+   "partNo": "C17404",
+   "desc": "BALL JOINT - R.H. thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 66.26,
+   "y": 67.84,
+   "partNo": "C11501",
+   "desc": "BALL JOINT - L.H. thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 71.9,
+   "y": 75.77,
+   "partNo": "C11501",
+   "desc": "BALL JOINT - L.H. thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 56.67,
+   "y": 49.53,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" NF hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "19",
+   "x": 66.73,
+   "y": 53.3,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" NF hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "19",
+   "x": 80.27,
+   "y": 92.58,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" NF hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "19",
+   "x": 59.59,
+   "y": 93.9,
+   "partNo": "129-127",
+   "desc": "NUT - 5/8\" NF hex",
+   "reqd": "5"
+  },
+  {
+   "ref": "20",
+   "x": 66.26,
+   "y": 56.14,
+   "partNo": "192-25",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 81.96,
+   "y": 89.18,
+   "partNo": "192-25",
+   "desc": "LOCKWASHER - 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 63.72,
+   "y": 66.43,
+   "partNo": "129-327",
+   "desc": "NUT - 5/8\" NF hex L.H. thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 67.86,
+   "y": 78.32,
+   "partNo": "129-327",
+   "desc": "NUT - 5/8\" NF hex L.H. thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 75.0,
+   "y": 14.69,
+   "partNo": "C18014",
+   "desc": "WHEEL - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 64.1,
+   "y": 9.59,
+   "partNo": "C12975",
+   "desc": "WASHER - 5/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 63.72,
+   "y": 6.86,
+   "partNo": "131-1113",
+   "desc": "NUT - lock 5/8\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 49.62,
+   "y": 8.08,
+   "partNo": "C16945",
+   "desc": "CAP - steering wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 38.81,
+   "y": 13.18,
+   "partNo": "C15096",
+   "desc": "BUSHING - flanged nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 40.69,
+   "y": 15.64,
+   "partNo": "126-16",
+   "desc": "KEY - woodruff #10",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 44.17,
+   "y": 27.34,
+   "partNo": "126-16",
+   "desc": "KEY - woodruff #10",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 40.51,
+   "y": 21.21,
+   "partNo": "C17572",
+   "desc": "SHAFT - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 31.11,
+   "y": 38.77,
+   "partNo": "C17703",
+   "desc": "JOINT - universal (includes 219-57 lube fitting)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 46.24,
+   "y": 32.82,
+   "partNo": "178-860",
+   "desc": "SETSCREW - 1/4\" x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 32.05,
+   "y": 54.06,
+   "partNo": "C17255",
+   "desc": "BEARING - oilite",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 31.95,
+   "y": 62.37,
+   "partNo": "C17570",
+   "desc": "PLATE - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 41.82,
+   "y": 68.22,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "34",
+   "x": 53.76,
+   "y": 42.92,
+   "partNo": "C17252",
+   "desc": "GEAR - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 32.05,
+   "y": 56.61,
+   "partNo": "C24679",
+   "desc": "BEARING - thrust, universal",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 40.6,
+   "y": 51.7,
+   "partNo": "C17257",
+   "desc": "BEARING - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 48.31,
+   "y": 37.16,
+   "partNo": "C17550",
+   "desc": "WASHER - 3/4\" universal",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 47.84,
+   "y": 35.08,
+   "partNo": "A31220",
+   "desc": "RING - retaining, universal",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 51.79,
+   "y": 41.13,
+   "partNo": "195-2115",
+   "desc": "WASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 52.35,
+   "y": 38.1,
+   "partNo": "A34428",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 57.8,
+   "y": 41.69,
+   "partNo": "129-167",
+   "desc": "NUT - jam 5/8\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 86.94,
+   "y": 79.27,
+   "partNo": "T13449",
+   "desc": "KEY - 1/4\" x 1/4\" x 1-3/8\" (644 used S/N 9731682 and after) (646 used S/N 9732122 and after)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.36
+}

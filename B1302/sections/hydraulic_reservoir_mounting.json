@@ -1,0 +1,211 @@
+{
+ "sectionTitle": "Hydraulic Reservoir Mounting",
+ "breadcrumb": "Hydraulic Reservoir Mounting",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/hydraulic_reservoir_mounting.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 72.85,
+   "y": 14.33,
+   "partNo": "C21665",
+   "desc": "SUPPORT - reservoir (644 and 644BH) (used prior to S/N 9731697)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 13.74,
+   "y": 80.29,
+   "partNo": "C23922",
+   "desc": "SUPPORT - reservoir R.H. (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 18.18,
+   "y": 53.02,
+   "partNo": "C21550",
+   "desc": "SUPPORT - reservoir L.H. (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 16.24,
+   "y": 58.02,
+   "partNo": "113-101",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 31.13,
+   "y": 69.91,
+   "partNo": "195-103",
+   "desc": "WASHER - 5/16\" x 7/8\" (646 and 646BH)",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 69.89,
+   "y": 58.78,
+   "partNo": "C21637",
+   "desc": "SUPPORT - reservoir (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 16.15,
+   "y": 36.98,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" N.C. hex flange (646 and 646BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 75.53,
+   "y": 63.12,
+   "partNo": "192-20",
+   "desc": "WASHER - lock 5/16\" (646 and 646BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 72.29,
+   "y": 60.66,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\" (646 and 646BH)",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 78.86,
+   "y": 66.04,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" x #18, hex (646 and 646BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 45.1,
+   "y": 34.24,
+   "partNo": "C21553",
+   "desc": "RESERVOIR - hydraulic oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 44.45,
+   "y": 25.37,
+   "partNo": "C25237",
+   "desc": "CAP - reservoir with insert",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 43.99,
+   "y": 29.62,
+   "partNo": "NSS",
+   "desc": "INSERT - reservoir cap (use C25239 and C25240)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 63.87,
+   "y": 29.52,
+   "partNo": "C16796",
+   "desc": "STRAP - reservoir mounting (1 only on 646 and 646BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 74.97,
+   "y": 25.09,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4\", round head machine (1 only on 646 and 646BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 75.62,
+   "y": 47.26,
+   "partNo": "129-504",
+   "desc": "NUT - 1/4\" NC hex (1 only on 646 and 646BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 79.41,
+   "y": 68.78,
+   "partNo": "C14690",
+   "desc": "CUSHION - reservoir",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 87.09,
+   "y": 76.33,
+   "partNo": "C14246",
+   "desc": "BRACKET - heat exchanger mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 92.18,
+   "y": 79.54,
+   "partNo": "187-1252",
+   "desc": "SCREW - 1/4\" x 1-1/2\" NC flat head Phillips",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 81.36,
+   "y": 92.56,
+   "partNo": "C21548",
+   "desc": "EXCHANGER - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 70.9,
+   "y": 54.53,
+   "partNo": "C21648",
+   "desc": "SEAL - channel (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 29.47,
+   "y": 31.79,
+   "partNo": "C21649",
+   "desc": "SEAL - channel (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 35.76,
+   "y": 32.82,
+   "partNo": "C21650",
+   "desc": "SEAL - channel (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 10.78,
+   "y": 34.05,
+   "partNo": "C21638",
+   "desc": "SEAL - strip (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 41.4,
+   "y": 18.76,
+   "partNo": "C23679",
+   "desc": "SUPPORT - reservoir (644 and 644BH) used S/N 9731697 and after",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.63
+}

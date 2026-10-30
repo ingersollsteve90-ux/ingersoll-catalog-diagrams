@@ -1,0 +1,102 @@
+{
+ "sectionTitle": "Backhoe Seat Assembly - 644BH and 646BH (Early)",
+ "breadcrumb": "Backhoe Seat Assembly - 644BH and 646BH (Early)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/backhoe_seat_early.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 46.04,
+   "y": 59.35,
+   "partNo": "C21853",
+   "desc": "SUPPORT - seat assembly",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 85.57,
+   "y": 56.89,
+   "partNo": "131-176",
+   "desc": "NUT - lock 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 89.45,
+   "y": 68.03,
+   "partNo": "C21875",
+   "desc": "PIN - adjust, seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 45.59,
+   "y": 67.75,
+   "partNo": "C21848",
+   "desc": "POST ASSEMBLY - seat support",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 87.19,
+   "y": 82.29,
+   "partNo": "C21824",
+   "desc": "PLATE - ASSEMBLY - rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 32.53,
+   "y": 77.38,
+   "partNo": "113-410",
+   "desc": "BOLT - 1/2\" x 1-1/2\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 45.77,
+   "y": 87.11,
+   "partNo": "113-410",
+   "desc": "BOLT - 1/2\" x 1-1/2\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 45.05,
+   "y": 82.76,
+   "partNo": "192-213",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 50.27,
+   "y": 89.09,
+   "partNo": "192-213",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 32.89,
+   "y": 55.0,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C24520",
+     "desc": "PAD - foot rest, L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C24519",
+     "desc": "PAD - foot rest, R.H.",
+     "reqd": "1"
+    }
+   ]
+  }
+ ],
+ "footnotes": "Used prior to S/N 9732040.",
+ "dotSizePct": 3.44
+}

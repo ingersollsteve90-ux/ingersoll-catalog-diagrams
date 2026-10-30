@@ -1,0 +1,265 @@
+{
+ "sectionTitle": "Clutch Assembly (PTO) - 644 (S/N 9744750 and after)",
+ "breadcrumb": "Clutch Assembly (PTO) - 644 (S/N 9744750 and after)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/clutch_assembly_pto_644_late.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 84.56,
+   "y": 9.88,
+   "partNo": "C16616",
+   "desc": "FAN - cooling",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 30.08,
+   "y": 60.95,
+   "partNo": "C23677",
+   "desc": "HUB - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 66.4,
+   "y": 75.01,
+   "partNo": "C15718",
+   "desc": "PLATE - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 57.13,
+   "y": 94.08,
+   "partNo": "164-40",
+   "desc": "BOLT - 5/16\" - 18 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 53.06,
+   "y": 92.85,
+   "partNo": "193-76",
+   "desc": "LOCKWASHER - 5/16\" countersunk external tooth",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 34.16,
+   "y": 42.07,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 68.07,
+   "y": 79.64,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 79.56,
+   "y": 84.74,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 57.69,
+   "y": 50.66,
+   "partNo": "C22671",
+   "desc": "PULLEY AND DISC ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 44.44,
+   "y": 45.0,
+   "partNo": "C23740",
+   "desc": "KIT - friction disc",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 59.73,
+   "y": 38.67,
+   "partNo": "C23245",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 62.51,
+   "y": 52.17,
+   "partNo": "C23245",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 82.52,
+   "y": 60.95,
+   "partNo": "C23245",
+   "desc": "BEARING - ball",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 39.53,
+   "y": 43.86,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 74.74,
+   "y": 81.81,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 85.39,
+   "y": 86.44,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 63.43,
+   "y": 24.42,
+   "partNo": "C23033",
+   "desc": "CAM - clutch",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 88.17,
+   "y": 62.65,
+   "partNo": "C23033",
+   "desc": "CAM - clutch",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 59.26,
+   "y": 16.02,
+   "partNo": "C16786",
+   "desc": "SPRING - clutch load",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 76.5,
+   "y": 10.92,
+   "partNo": "C23630",
+   "desc": "SPACER - hub",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 82.8,
+   "y": 34.71,
+   "partNo": "C23625",
+   "desc": "NUT - adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 89.56,
+   "y": 16.87,
+   "partNo": "O2815N",
+   "desc": "WASHER - fan 17/32\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 16.55,
+   "y": 57.55,
+   "partNo": "C24743",
+   "desc": "BOLT - 1/2\" - 20 x 5-1/2\" NF",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 88.64,
+   "y": 28.2,
+   "partNo": "129-125",
+   "desc": "NUT - 1/2\" - 20 NF",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 83.82,
+   "y": 48.21,
+   "partNo": "C23627",
+   "desc": "GUIDE - adjusting nut",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 77.15,
+   "y": 31.03,
+   "partNo": "C23624",
+   "desc": "WASHER - spacer",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 55.47,
+   "y": 21.21,
+   "partNo": "C23391",
+   "desc": "ARM - engaging",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 57.04,
+   "y": 71.62,
+   "partNo": "C15746",
+   "desc": "SCREEN - grass",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 42.12,
+   "y": 65.86,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" - 16 x 1\" NC",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 38.51,
+   "y": 63.4,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 71.4,
+   "y": 56.99,
+   "partNo": "C25608",
+   "desc": "SPACER - .200\" (use to replace three .050\" spacers on early production)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24774",
+   "desc": "CLUTCH AND FAN ASSEMBLY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.75
+}

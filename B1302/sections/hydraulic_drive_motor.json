@@ -1,0 +1,226 @@
+{
+ "sectionTitle": "Hydraulic Drive Motor",
+ "breadcrumb": "Hydraulic Drive Motor",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/hydraulic_drive_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 7.57,
+   "y": 31.68,
+   "partNo": "C16516",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 12.25,
+   "y": 29.98,
+   "partNo": "NSS",
+   "desc": "SPACER - (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 20.94,
+   "y": 25.83,
+   "partNo": "NSS",
+   "desc": "SEAL - oil (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 38.32,
+   "y": 14.5,
+   "partNo": "C14827",
+   "desc": "HOUSING ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 72.05,
+   "y": 53.97,
+   "partNo": "C14837",
+   "desc": "END CAP",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 56.45,
+   "y": 6.94,
+   "partNo": "NSS",
+   "desc": "SEAL - (see kit below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 56.45,
+   "y": 62.27,
+   "partNo": "NSS",
+   "desc": "SEAL - (see kit below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 26.64,
+   "y": 51.51,
+   "partNo": "C14828",
+   "desc": "SHAFT - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 35.8,
+   "y": 47.36,
+   "partNo": "C14829",
+   "desc": "DRIVE LINK",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 49.53,
+   "y": 38.39,
+   "partNo": "C14830",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 67.01,
+   "y": 29.51,
+   "partNo": "C14831",
+   "desc": "ROTOR ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 76.45,
+   "y": 24.22,
+   "partNo": "C14832",
+   "desc": "PLATE - manifold (used prior to motor code 127-7)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 14.96,
+   "y": 82.29,
+   "partNo": "D59700",
+   "desc": "MANIFOLD - (used prior to motor code 127-7)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 28.97,
+   "y": 78.04,
+   "variants": [
+    {
+     "serialNote": "Prior to motor code 127-7",
+     "partNo": "C14834",
+     "desc": "COMMUTATOR AND RING SET - (used prior to motor code 127-7)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Motor code 127-7 and after",
+     "partNo": "D60857",
+     "desc": "COMMUTATOR AND RING SET - (used motor code 127-7 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 34.95,
+   "y": 76.15,
+   "partNo": "NSS",
+   "desc": "RING - sealing (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 43.36,
+   "y": 67.56,
+   "partNo": "C14836",
+   "desc": "SLEEVE",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 83.92,
+   "y": 50.66,
+   "partNo": "C14838",
+   "desc": "BOLT - 3/8\" x 4-3/8\" NF hex",
+   "reqd": "7"
+  },
+  {
+   "ref": "17",
+   "x": 16.64,
+   "y": 28.19,
+   "partNo": "NSS",
+   "desc": "WASHER - back up, .010\" (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C14655",
+   "desc": "MOTOR - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24731",
+   "desc": "KIT - manifold (used motor code 127-7 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C19037",
+   "desc": "KIT - \"O\" ring and seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "RING - sealing",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "SEAL - dirt (not used - throw away item)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "SEAL",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "SEAL",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "SPACER - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "WASHER - back up, .010\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.63
+}

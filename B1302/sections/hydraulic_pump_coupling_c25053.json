@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "C25053 Hydraulic Pump and Coupling - 644",
+ "breadcrumb": "C25053 Hydraulic Pump and Coupling - 644",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/hydraulic_pump_coupling_c25053.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 22.14,
+   "y": 62.52,
+   "partNo": "C25053",
+   "desc": "PUMP - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 45.66,
+   "y": 89.21,
+   "partNo": "F53109",
+   "desc": "PIN - dowel",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 26.77,
+   "y": 29.07,
+   "partNo": "TBD",
+   "desc": "COVER - rear (no part number printed)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29.04,
+   "y": 72.85,
+   "partNo": "C15731",
+   "desc": "GEAR ASSEMBLY - driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 32.25,
+   "y": 34.37,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 68.13,
+   "y": 68.37,
+   "partNo": "C15732",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 47.64,
+   "y": 48.63,
+   "partNo": "C15733",
+   "desc": "BODY - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 74.27,
+   "y": 70.38,
+   "partNo": "C15734",
+   "desc": "COVER - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 77.76,
+   "y": 78.7,
+   "partNo": "C15735",
+   "desc": "SEAL - rotary",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 36.87,
+   "y": 40.68,
+   "partNo": "NSS",
+   "desc": "GEAR ASSEMBLY - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 52.46,
+   "y": 54.48,
+   "partNo": "C15737",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 56.89,
+   "y": 57.59,
+   "partNo": "C15738",
+   "desc": "SHIELD - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 61.24,
+   "y": 61.33,
+   "partNo": "C15739",
+   "desc": "GASKET",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 64.73,
+   "y": 64.35,
+   "partNo": "C15740",
+   "desc": "SEAL",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 15.82,
+   "y": 24.86,
+   "partNo": "13-540",
+   "desc": "BOLT",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 41.78,
+   "y": 43.42,
+   "partNo": "A21075",
+   "desc": "KEY - 1/8\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 19.69,
+   "y": 29.52,
+   "partNo": "A50773",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 64.35,
+   "y": 16.73,
+   "partNo": "C25208",
+   "desc": "COUPLING - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 92.68,
+   "y": 25.69,
+   "partNo": "NSS",
+   "desc": "HUB - (order item 17)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 74.27,
+   "y": 13.07,
+   "partNo": "NSS",
+   "desc": "HUB - (order item 17)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 82.58,
+   "y": 16.91,
+   "partNo": "C15036",
+   "desc": "SPIDER",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 88.81,
+   "y": 18.46,
+   "partNo": "83-55",
+   "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 68.51,
+   "y": 41.86,
+   "partNo": "83-55",
+   "desc": "SCREW - set 5/16\" x 5/16\" NC socket head",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24862",
+   "desc": "SHAFT - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24863",
+   "desc": "GEAR - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24864",
+   "desc": "KEY - gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24865",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.68
+}

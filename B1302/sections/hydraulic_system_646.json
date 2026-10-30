@@ -1,0 +1,459 @@
+{
+ "sectionTitle": "Hydraulic System - 646 and 646BH",
+ "breadcrumb": "Hydraulic System - 646 and 646BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/hydraulic_system_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 9.08,
+   "y": 71.99,
+   "partNo": "NSS",
+   "desc": "SUPPORT - pump (order item 34)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 34.21,
+   "y": 42.54,
+   "partNo": "114-200",
+   "desc": "BOLT - 3/8\" x 1\" NF hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 15.92,
+   "y": 69.06,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8\" x 1-1/2\" NC hex (used prior to S/N 9732040)",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 66.07,
+   "y": 40.09,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 37.16,
+   "y": 44.05,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "4",
+   "x": 18.6,
+   "y": 70.29,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "5",
+   "x": 56.47,
+   "y": 38.3,
+   "variants": [
+    {
+     "serialNote": "Before S/N 9790960",
+     "partNo": "C25210",
+     "desc": "COUPLING - pump (repairs: see Hydraulic Pump and Coupling - 646 and 646BH (Early)) (use before S/N 9790960)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 9790960 and after",
+     "partNo": "C25290",
+     "desc": "COUPLING - pump (use S/N 9790960 and after) (repairs: see Hydraulic Pump and Coupling - 646 and 646BH (Late))",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 40.49,
+   "y": 69.44,
+   "partNo": "NSS",
+   "desc": "PUMP - hydraulic (repairs: see Hydraulic Pump and Coupling - 646 and 646BH (Early)) (used prior to S/N 9758236) (order C23961, H309047, 217-390 and 218-5008)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 52.96,
+   "y": 46.98,
+   "partNo": "B90366",
+   "desc": "KEY - square",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 39.75,
+   "y": 34.99,
+   "partNo": "218-5107",
+   "desc": "FITTING - 90° pump out (includes 218-5007 \"O\" - ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 58.96,
+   "y": 27.54,
+   "partNo": "C18284",
+   "desc": "TUBE - pump to valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 33.37,
+   "y": 8.66,
+   "partNo": "218-5062",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\" - ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 32.08,
+   "y": 22.63,
+   "partNo": "218-5062",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\" - ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "10",
+   "x": 9.36,
+   "y": 31.22,
+   "partNo": "218-5062",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\" - ring)",
+   "reqd": "5"
+  },
+  {
+   "ref": "11",
+   "x": 38.92,
+   "y": 11.3,
+   "partNo": "C18159",
+   "desc": "TUBE - valve to motor, upper (see Hydraulic System - Bucket Control (Late), S/N 9771784 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 29.4,
+   "y": 19.89,
+   "partNo": "C18160",
+   "desc": "TUBE - valve to motor, lower (see Hydraulic System - Bucket Control (Late), S/N 9771784 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 20.26,
+   "y": 34.24,
+   "partNo": "218-5065",
+   "desc": "FITTING - hydraulic (includes 218-5007 \"O\" - ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 17.4,
+   "y": 62.27,
+   "partNo": "C21611",
+   "desc": "TUBE - valve to tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 18.69,
+   "y": 49.06,
+   "partNo": "218-596",
+   "desc": "TEE - 1-1/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 28.11,
+   "y": 64.44,
+   "partNo": "C21662",
+   "desc": "TUBE - heat exchanger to tee (Series \"B\" connections: see Backhoe Hydraulic Components - 646BH Series B)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 43.72,
+   "y": 51.51,
+   "partNo": "214-256",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 58.04,
+   "y": 59.53,
+   "partNo": "214-256",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 35.5,
+   "y": 80.3,
+   "partNo": "214-256",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 38.92,
+   "y": 85.39,
+   "partNo": "214-256",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 78.08,
+   "y": 57.93,
+   "partNo": "C14245",
+   "desc": "HOSE - 3\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 66.63,
+   "y": 68.69,
+   "partNo": "C14245",
+   "desc": "HOSE - 3\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 80.11,
+   "y": 83.79,
+   "partNo": "C21548",
+   "desc": "EXCHANGER - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 83.07,
+   "y": 55.57,
+   "partNo": "214-256",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 70.87,
+   "y": 69.73,
+   "partNo": "214-256",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 59.79,
+   "y": 74.63,
+   "partNo": "214-256",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 29.13,
+   "y": 92.0,
+   "variants": [
+    {
+     "serialNote": "646 prior to S/N 9758236",
+     "partNo": "C19447",
+     "desc": "TUBE - pump suction (646) (used prior to S/N 9758236)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646BH prior to S/N 9732040",
+     "partNo": "C19447",
+     "desc": "TUBE - pump suction (646BH) used prior to S/N 9732040",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646BH Series B S/N 9732040 to 9758236",
+     "partNo": "C23914",
+     "desc": "TUBE - pump suction (646BH Series \"B\") (used S/N 9732040 to S/N 9758236)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "22",
+   "x": 16.47,
+   "y": 18.38,
+   "partNo": "A30095",
+   "desc": "SEAL - hydraulic motor to case",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 12.87,
+   "y": 5.92,
+   "partNo": "166-86",
+   "desc": "SCREW - 1/2\" x 1-1/4\" NC flanged 12 pt.",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 8.07,
+   "y": 18.95,
+   "partNo": "171-247",
+   "desc": "SCREW - 5/16\" x 1-1/4\" NC, flat head machine",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 8.07,
+   "y": 27.35,
+   "partNo": "131-351",
+   "desc": "NUT - lock 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 24.23,
+   "y": 16.31,
+   "partNo": "C14655",
+   "desc": "MOTOR - hydraulic drive (repairs: see Hydraulic Drive Motor)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 23.21,
+   "y": 18.29,
+   "partNo": "C21497",
+   "desc": "VALVE - hydraulic control (repairs: see Hydraulic Control Valve - Tractor)",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 71.15,
+   "y": 15.93,
+   "partNo": "C21553",
+   "desc": "RESERVOIR - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 46.4,
+   "y": 80.67,
+   "partNo": "C19438",
+   "desc": "HOSE - rubber (used prior to S/N 9758236)",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 22.48,
+   "y": 70.2,
+   "partNo": "C17622",
+   "desc": "SPACER - pump support",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 59.61,
+   "y": 11.4,
+   "partNo": "218-5353",
+   "desc": "FITTING - valve, bucket (includes 218-5006 \"O\" - rings)",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 17.67,
+   "y": 45.56,
+   "partNo": "C21616",
+   "desc": "TUBE - bucket valve to tee",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 28.29,
+   "y": 85.49,
+   "variants": [
+    {
+     "serialNote": "646 prior to S/N 9758236",
+     "partNo": "C19438",
+     "desc": "HOSE - rubber (646) (used prior to S/N 9758236)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646BH Series B S/N 9732040 to 9758236",
+     "partNo": "C23916",
+     "desc": "HOSE - rubber (646BH Series \"B\") (used S/N 9732040 to S/N 9758236)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646BH prior to S/N 9732040",
+     "partNo": "C19438",
+     "desc": "HOSE - rubber (646BH) used prior to S/N 9732040",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "34",
+   "x": 61.55,
+   "y": 55.57,
+   "partNo": "C23634",
+   "desc": "SUPPORT - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 59.88,
+   "y": 36.5,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "36",
+   "x": 35.31,
+   "y": 36.31,
+   "variants": [
+    {
+     "serialNote": "S/N 9758236 to 9790960",
+     "partNo": "C23961",
+     "desc": "PUMP - hydraulic (used S/N 9758236 to S/N 9790960) (repairs: see Hydraulic Pump and Coupling - 646 and 646BH (Early))",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 9790960 and after",
+     "partNo": "C25287",
+     "desc": "PUMP - hydraulic (use S/N 9790960 and after) (repairs: see Hydraulic Pump and Coupling - 646 and 646BH (Late))",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "37",
+   "x": 51.39,
+   "y": 55.19,
+   "partNo": "H309047",
+   "desc": "HOSE - tank to pump (used S/N 9758236 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 45.1,
+   "y": 47.92,
+   "partNo": "217-390",
+   "desc": "FITTING - pump inlet (used S/N 9758236 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 45.1,
+   "y": 45.75,
+   "partNo": "218-5008",
+   "desc": "\"O\" RING - for 217-390 fitting (used S/N 9758236 and after)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "For Series \"B\" backhoe hydraulic connections, see Backhoe Hydraulic Components - 646BH Series B.",
+ "dotSizePct": 2.63
+}

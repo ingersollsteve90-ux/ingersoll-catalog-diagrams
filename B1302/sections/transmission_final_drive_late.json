@@ -1,0 +1,474 @@
+{
+ "sectionTitle": "Transmission and Final Drive (Late)",
+ "breadcrumb": "Transmission and Final Drive (Late)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/transmission_final_drive_late.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 11.88,
+   "y": 57.83,
+   "partNo": "NSS",
+   "desc": "CASE - transmission (order assembly above)",
+   "reqd": "1"
+  },
+  {
+   "ref": "1",
+   "x": 47.77,
+   "y": 60.38,
+   "partNo": "NSS",
+   "desc": "CASE - transmission (order assembly above)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 73.28,
+   "y": 23.96,
+   "partNo": "C12713",
+   "desc": "BEARING - flanged",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 21.06,
+   "y": 46.23,
+   "partNo": "C12713",
+   "desc": "BEARING - flanged",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 71.05,
+   "y": 68.96,
+   "partNo": "C24804",
+   "desc": "BEARING - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 28.48,
+   "y": 75.76,
+   "partNo": "C24804",
+   "desc": "BEARING - flanged",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 80.24,
+   "y": 59.34,
+   "partNo": "C24803",
+   "desc": "SEAL - axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 27.28,
+   "y": 86.42,
+   "partNo": "C24803",
+   "desc": "SEAL - axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 40.08,
+   "y": 29.34,
+   "partNo": "C13241",
+   "desc": "BEARING - sleeve",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 42.12,
+   "y": 90.85,
+   "partNo": "C13385",
+   "desc": "BEARING - sleeve",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 80.33,
+   "y": 85.94,
+   "partNo": "C13266",
+   "desc": "SEAL - shift rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 44.43,
+   "y": 56.79,
+   "partNo": "F7232",
+   "desc": "BEARING - roller",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 76.43,
+   "y": 87.45,
+   "partNo": "TBD",
+   "desc": "No line item printed for this callout (TBD)",
+   "reqd": ""
+  },
+  {
+   "ref": "10",
+   "x": 40.63,
+   "y": 61.98,
+   "partNo": "221-4",
+   "desc": "PLUG - filler and drain 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 51.21,
+   "y": 86.51,
+   "partNo": "221-4",
+   "desc": "PLUG - filler and drain 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 18.74,
+   "y": 80.66,
+   "partNo": "C22638",
+   "desc": "SHAFT - axle, short R.H. (644 and 646)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 90.44,
+   "y": 65.28,
+   "partNo": "C22637",
+   "desc": "SHAFT - axle, long L.H. (644 and 646)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 74.12,
+   "y": 13.87,
+   "partNo": "C13197",
+   "desc": "COVER - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 91.65,
+   "y": 82.17,
+   "partNo": "138-2073",
+   "desc": "PIN - roll 3/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 44.53,
+   "y": 29.34,
+   "partNo": "B52144",
+   "desc": "RING - retainer, axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 25.51,
+   "y": 33.87,
+   "partNo": "126-128",
+   "desc": "KEY - woodruff, brake idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 64.56,
+   "y": 21.23,
+   "partNo": "C13196",
+   "desc": "GASKET - transmission cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 49.54,
+   "y": 6.32,
+   "partNo": "A50096",
+   "desc": "BREATHER - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 67.62,
+   "y": 10.56,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "20",
+   "x": 67.62,
+   "y": 8.11,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex",
+   "reqd": "6"
+  },
+  {
+   "ref": "21",
+   "x": 60.3,
+   "y": 47.36,
+   "partNo": "C12725",
+   "desc": "FORK - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 86.64,
+   "y": 83.87,
+   "partNo": "C24802",
+   "desc": "ROD - gear shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 64.1,
+   "y": 46.23,
+   "partNo": "C14168",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 53.15,
+   "y": 57.26,
+   "partNo": "C14168",
+   "desc": "RING - retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 49.26,
+   "y": 55.94,
+   "partNo": "C14644",
+   "desc": "GEAR - cluster input",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 52.5,
+   "y": 30.85,
+   "partNo": "C12551",
+   "desc": "GEAR - high 41 tooth",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 31.73,
+   "y": 42.83,
+   "partNo": "C12552",
+   "desc": "GEAR - low 55 tooth",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 24.96,
+   "y": 7.64,
+   "partNo": "NSS",
+   "desc": "KIT - diff. case (Includes Ref. 34 & 35)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 21.06,
+   "y": 25.09,
+   "partNo": "NSS",
+   "desc": "KIT - diff. case (Includes Ref. 34 & 35)",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 34.79,
+   "y": 92.64,
+   "partNo": "C25258",
+   "desc": "BRAKE DRUM (also use C25254)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 15.96,
+   "y": 7.64,
+   "partNo": "NSS",
+   "desc": "GEAR - differential pinion",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 26.9,
+   "y": 23.21,
+   "partNo": "NSS",
+   "desc": "GEAR - differential pinion",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 23.1,
+   "y": 9.62,
+   "partNo": "NSS",
+   "desc": "GEAR - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 23.1,
+   "y": 22.55,
+   "partNo": "NSS",
+   "desc": "GEAR - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 10.21,
+   "y": 7.64,
+   "partNo": "NSS",
+   "desc": "WASHER - pinion thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "31",
+   "x": 30.43,
+   "y": 24.43,
+   "partNo": "NSS",
+   "desc": "WASHER - pinion thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 20.04,
+   "y": 9.62,
+   "partNo": "NSS",
+   "desc": "PIN - differential cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 10.77,
+   "y": 14.72,
+   "partNo": "NSS",
+   "desc": "PIN - differential cross lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 75.04,
+   "y": 37.55,
+   "partNo": "28-680",
+   "desc": "SCREW - 3/8\" x 5\" NF hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "35",
+   "x": 35.53,
+   "y": 52.45,
+   "partNo": "131-1232",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "36",
+   "x": 67.72,
+   "y": 26.32,
+   "partNo": "C12718",
+   "desc": "WASHER - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 32.38,
+   "y": 51.6,
+   "partNo": "C12718",
+   "desc": "WASHER - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 28.85,
+   "y": 53.4,
+   "partNo": "C14223",
+   "desc": "WASHER - spacer",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "38",
+   "x": 30.8,
+   "y": 32.45,
+   "partNo": "C25254",
+   "desc": "GEAR - brake idler (also use C25258)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 34.97,
+   "y": 31.79,
+   "partNo": "C14222",
+   "desc": "RING - retainer, brake idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 43.41,
+   "y": 7.26,
+   "variants": [
+    {
+     "serialNote": "Hex bolt 1/2\" x 1-1/4\"",
+     "partNo": "113-417",
+     "desc": "BOLT - 1/2\" x 1-1/4\" NC transaxle mounting",
+     "reqd": "6"
+    },
+    {
+     "serialNote": "12 pt. flange bolt",
+     "partNo": "166-86",
+     "desc": "BOLT - 1/2\" - 13 x 1-1/4\" 12 pt. flange",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "41",
+   "x": 43.32,
+   "y": 9.62,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "42",
+   "x": 35.9,
+   "y": 72.17,
+   "partNo": "C22843",
+   "desc": "SHAFT - axle, short R.H. (644BH and 646BH) (used in LL-120 Hi-Flotation kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 88.4,
+   "y": 47.74,
+   "partNo": "C22842",
+   "desc": "SHAFT - axle, long L.H. (644BH and 646BH) (used in LL-120 Hi-Flotation kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 23.19,
+   "y": 28.87,
+   "partNo": "C25177",
+   "desc": "DIFFERENTIAL",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24843",
+   "desc": "CASE ASSEMBLY - (644 and 646) (used S/N 9757922 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24846",
+   "desc": "CASE ASSEMBLY - (644BH and 646BH) (used S/N 9757922 and after)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Used on 644 S/N 9757922 and after; 646 and 646BH S/N 9758258 and after.\nRef 9 is called out on the diagram but has no line item in the printed parts list; part number TBD.",
+ "dotSizePct": 2.56
+}

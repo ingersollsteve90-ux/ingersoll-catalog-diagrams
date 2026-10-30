@@ -1,0 +1,251 @@
+{
+ "sectionTitle": "Governor and Blower Housing - 646 and 646BH",
+ "breadcrumb": "Governor and Blower Housing - 646 and 646BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/onan_governor_blower_housing.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 54.05,
+   "y": 35.28,
+   "partNo": "129-665",
+   "desc": "NUT - lock, governor throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 49.72,
+   "y": 36.79,
+   "partNo": "C20569",
+   "desc": "BALL JOINT - governor throttle rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 35.95,
+   "y": 38.77,
+   "partNo": "193-1000",
+   "desc": "NUT - ball joint",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 60.84,
+   "y": 34.24,
+   "partNo": "C20572",
+   "desc": "ROD - governor throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 63.57,
+   "y": 24.7,
+   "partNo": "C20573",
+   "desc": "CLIP - rod, governor throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 26.34,
+   "y": 36.88,
+   "partNo": "C22404",
+   "desc": "ARM - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 41.14,
+   "y": 20.36,
+   "partNo": "195-14",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 10.12,
+   "y": 7.9,
+   "partNo": "C20374",
+   "desc": "CLIP - throttle cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 11.26,
+   "y": 37.26,
+   "partNo": "C20370",
+   "desc": "BRACKET - governor control",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 10.6,
+   "y": 50.76,
+   "partNo": "25-118",
+   "desc": "NUT - baffle mtg.",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 67.63,
+   "y": 79.92,
+   "partNo": "25-118",
+   "desc": "NUT - baffle mtg.",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 26.9,
+   "y": 51.7,
+   "partNo": "C20621",
+   "desc": "STUD - cylinder air baffle",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 48.21,
+   "y": 67.18,
+   "partNo": "C20621",
+   "desc": "STUD - cylinder air baffle",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 59.9,
+   "y": 88.42,
+   "partNo": "C20620",
+   "desc": "TUBE - drain, oil filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 36.43,
+   "y": 51.04,
+   "partNo": "C22401",
+   "desc": "PLUG - blower housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 19.27,
+   "y": 10.36,
+   "partNo": "C20371",
+   "desc": "SPRING - governor idle",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 41.33,
+   "y": 24.51,
+   "partNo": "C20376",
+   "desc": "SPRING - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 55.47,
+   "y": 68.31,
+   "partNo": "C22388",
+   "desc": "BAFFLE - cylinder R.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 13.8,
+   "y": 18.38,
+   "partNo": "C20372",
+   "desc": "SWIVEL - governor arm",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 23.32,
+   "y": 9.22,
+   "partNo": "195-14",
+   "desc": "WASHER - #6",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 31.43,
+   "y": 11.3,
+   "partNo": "136-2",
+   "desc": "PIN - cotter",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 18.7,
+   "y": 26.4,
+   "partNo": "169-74",
+   "desc": "SCREW - #8 x 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 19.83,
+   "y": 37.45,
+   "partNo": "C20375",
+   "desc": "SPACER - governor bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 39.91,
+   "y": 10.83,
+   "partNo": "121-3",
+   "desc": "BOLT - locking 1/4 x 1/2\" n.c. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 15.4,
+   "y": 7.43,
+   "partNo": "C22414",
+   "desc": "SCREW - governor idle #6 x 1\" rd. hd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 19.55,
+   "y": 78.69,
+   "partNo": "C22387",
+   "desc": "HOUSING - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 79.22,
+   "y": 88.51,
+   "partNo": "C22275",
+   "desc": "SCREW - #6 x 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 92.52,
+   "y": 92.66,
+   "partNo": "C20626",
+   "desc": "CLIP - hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 92.23,
+   "y": 87.28,
+   "partNo": "C20625",
+   "desc": "GROMMET - rubber",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 14.84,
+   "y": 72.84,
+   "partNo": "C20580",
+   "desc": "BAFFLE - cylinder L.H.",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.05
+}

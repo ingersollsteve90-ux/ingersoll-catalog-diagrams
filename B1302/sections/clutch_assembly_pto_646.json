@@ -1,0 +1,377 @@
+{
+ "sectionTitle": "Clutch Assembly (PTO) - 646 (644 prior to S/N 9744750)",
+ "breadcrumb": "Clutch Assembly (PTO) - 646 (644 prior to S/N 9744750)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/clutch_assembly_pto_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 23.44,
+   "y": 65.1,
+   "partNo": "C15721",
+   "desc": "SCREEN - grass (644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 10.89,
+   "y": 57.08,
+   "partNo": "C18907",
+   "desc": "HUB - clutch (644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 56.5,
+   "y": 57.36,
+   "partNo": "C15718",
+   "desc": "PLATE - clutch (644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 43.86,
+   "y": 72.0,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH",
+     "partNo": "164-40",
+     "desc": "SCREW - 5/16\" x 3/4\" NC flat head socket (644 and 644BH)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH",
+     "partNo": "164-50",
+     "desc": "SCREW - 3/8\" x 3/4\" NC flat head socket (646 and 646BH)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 39.56,
+   "y": 70.3,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH",
+     "partNo": "193-76",
+     "desc": "LOCKWASHER - 5/16\" counter sunk ext. tooth (644 and 644BH)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH",
+     "partNo": "193-56",
+     "desc": "LOCKWASHER - 3/8\" counter sunk, ext. tooth (646 and 646BH)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 48.99,
+   "y": 33.76,
+   "partNo": "C23740",
+   "desc": "KIT - disc, friction",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 36.17,
+   "y": 30.93,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 60.44,
+   "y": 59.63,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 73.91,
+   "y": 65.29,
+   "partNo": "C15515",
+   "desc": "WASHER - spring",
+   "reqd": "6"
+  },
+  {
+   "ref": "8",
+   "x": 53.39,
+   "y": 24.23,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "8",
+   "x": 44.14,
+   "y": 33.38,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "8",
+   "x": 68.41,
+   "y": 42.64,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "8",
+   "x": 67.04,
+   "y": 62.27,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "8",
+   "x": 78.58,
+   "y": 66.8,
+   "partNo": "C15557",
+   "desc": "WASHER - spacer .050",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "9",
+   "x": 58.7,
+   "y": 38.48,
+   "partNo": "C22671",
+   "desc": "PULLEY ASSEMBLY - clutch (includes disc)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 47.07,
+   "y": 23.09,
+   "partNo": "C23245",
+   "desc": "BEARING - cam and pulley",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 64.56,
+   "y": 40.65,
+   "partNo": "C23245",
+   "desc": "BEARING - cam and pulley",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 78.12,
+   "y": 45.66,
+   "partNo": "C23245",
+   "desc": "BEARING - cam and pulley",
+   "reqd": "3"
+  },
+  {
+   "ref": "11",
+   "x": 72.17,
+   "y": 44.24,
+   "variants": [
+    {
+     "serialNote": "Shim .005\"",
+     "partNo": "C21596",
+     "desc": "WASHER - shim .005\"",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": "Spacer .010\"",
+     "partNo": "C15556",
+     "desc": "WASHER - spacer .010",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 39.38,
+   "y": 20.36,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH prior to S/N 9718432",
+     "partNo": "NSS",
+     "desc": "CAM - clutch 644 and 644BH (service with (2) C23033 cams and (1) C23391 arm) Prior to S/N 9718432",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH prior to S/N 9718950",
+     "partNo": "NSS",
+     "desc": "CAM - clutch 646 and 646BH (service with (2) C23033 cams and (1) C23392 arm) prior to S/N 9718950",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH S/N 9718950 and after",
+     "partNo": "C23033",
+     "desc": "CAM - clutch 646 and 646BH (used S/N 9718950 and after)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "644 / 644BH S/N 9718432 and after",
+     "partNo": "C23033",
+     "desc": "CAM - clutch 644 and 644BH (used S/N 9718432 and after)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 84.71,
+   "y": 47.55,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH prior to S/N 9718432",
+     "partNo": "NSS",
+     "desc": "CAM - clutch 644 and 644BH (service with (2) C23033 cams and (1) C23391 arm) Prior to S/N 9718432",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH prior to S/N 9718950",
+     "partNo": "NSS",
+     "desc": "CAM - clutch 646 and 646BH (service with (2) C23033 cams and (1) C23392 arm) prior to S/N 9718950",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "646 / 646BH S/N 9718950 and after",
+     "partNo": "C23033",
+     "desc": "CAM - clutch 646 and 646BH (used S/N 9718950 and after)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "644 / 644BH S/N 9718432 and after",
+     "partNo": "C23033",
+     "desc": "CAM - clutch 644 and 644BH (used S/N 9718432 and after)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "13",
+   "x": 62.37,
+   "y": 28.0,
+   "partNo": "C16786",
+   "desc": "SPRING - clutch",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 42.86,
+   "y": 8.75,
+   "partNo": "F59014",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 74.0,
+   "y": 31.59,
+   "partNo": "C18908",
+   "desc": "SPACER - hub (644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 86.18,
+   "y": 9.69,
+   "partNo": "O2815N",
+   "desc": "WASHER - 17/32\" (644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 91.03,
+   "y": 12.43,
+   "partNo": "C18940",
+   "desc": "BOLT - 1/2\" x 1-3/4\" NC hex., L.H. thread (644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 41.12,
+   "y": 6.01,
+   "variants": [
+    {
+     "serialNote": "644 / 644BH",
+     "partNo": "C23391",
+     "desc": "ARM - engaging (644 and 644BH)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646 / 646BH",
+     "partNo": "C23392",
+     "desc": "ARM - engaging (646 and 646BH)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "19",
+   "x": 84.81,
+   "y": 6.01,
+   "partNo": "C16616",
+   "desc": "FAN - cooling (644 and 644BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 38.28,
+   "y": 49.15,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" NC hex (644 and 644BH)",
+   "reqd": "4"
+  },
+  {
+   "ref": "21",
+   "x": 24.81,
+   "y": 44.05,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" (644 and 644BH)",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 88.01,
+   "y": 83.04,
+   "partNo": "C19196",
+   "desc": "PLATE - clutch (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 20.32,
+   "y": 82.29,
+   "partNo": "C18263",
+   "desc": "WASHER - spacer (646 and 646BH)",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 28.48,
+   "y": 85.21,
+   "partNo": "C18291",
+   "desc": "BOLT - 7/16\" x 7-1/4\" NC hex (646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "CLUTCH ASSEMBLY - less screen (644 and 644BH) (use C24744)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C21635",
+   "desc": "CLUTCH ASSEMBLY - (646 and 646BH)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.94
+}

@@ -1,0 +1,201 @@
+{
+ "sectionTitle": "Hydraulic Pump and Coupling - 646 and 646BH (Early)",
+ "breadcrumb": "Hydraulic Pump and Coupling - 646 and 646BH (Early)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/hydraulic_pump_coupling_646_early.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 30.46,
+   "y": 81.12,
+   "variants": [
+    {
+     "serialNote": "S/N 9758236 and after (shown)",
+     "partNo": "C23961",
+     "desc": "PUMP - hydraulic (shown) (used S/N 9758236 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Prior to S/N 9758236",
+     "partNo": "NSS",
+     "desc": "PUMP - hydraulic (used prior to S/N 9758236) (order C23961, H309047, 217-390 and 218-5008)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 72.47,
+   "y": 68.69,
+   "partNo": "C19277",
+   "desc": "BODY ASSEMBLY (includes bushings)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 30.46,
+   "y": 34.53,
+   "variants": [
+    {
+     "serialNote": "Prior to S/N 9758236",
+     "partNo": "C19278",
+     "desc": "COVER ASSEMBLY - (includes bushings & pins) (used prior to S/N 9758236)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 9758236 and after (shown)",
+     "partNo": "C25101",
+     "desc": "COVER ASSEMBLY - (includes bushings & dowel pins) (shown) (used S/N 9758236 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 48.3,
+   "y": 54.24,
+   "partNo": "126-12",
+   "desc": "KEY - woodruff",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 81.72,
+   "y": 81.67,
+   "partNo": "C18768",
+   "desc": "RING - snap",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 78.98,
+   "y": 78.64,
+   "partNo": "C19281",
+   "desc": "SEAL - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 58.78,
+   "y": 62.34,
+   "partNo": "C18764",
+   "desc": "SEAL - pressure load",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 53.59,
+   "y": 57.27,
+   "partNo": "C19279",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 44.9,
+   "y": 49.91,
+   "partNo": "C18761",
+   "desc": "GEAR - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 39.9,
+   "y": 79.19,
+   "partNo": "C18762",
+   "desc": "GEAR - driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 41.13,
+   "y": 46.59,
+   "partNo": "C19280",
+   "desc": "PLATE - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 36.5,
+   "y": 43.37,
+   "partNo": "C18769",
+   "desc": "SEAL - gasket",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 21.49,
+   "y": 33.61,
+   "partNo": "195-2028",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 16.68,
+   "y": 31.95,
+   "partNo": "113-233",
+   "desc": "BOLT",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 67.84,
+   "y": 20.26,
+   "partNo": "C25210",
+   "desc": "COUPLING - pump (646)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 64.44,
+   "y": 16.94,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 53.87,
+   "y": 38.58,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 78.89,
+   "y": 18.69,
+   "partNo": "NSS",
+   "desc": "HUB - (order C25210)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 89.74,
+   "y": 27.72,
+   "partNo": "NSS",
+   "desc": "HUB - (order C25210)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 84.55,
+   "y": 22.65,
+   "partNo": "C18258",
+   "desc": "SPIDER - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 23.66,
+   "y": 65.84,
+   "partNo": "221-841",
+   "desc": "PLUG - pipe",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Use before S/N 9790960.",
+ "dotSizePct": 2.7
+}

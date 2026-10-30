@@ -1,0 +1,217 @@
+{
+ "sectionTitle": "LT26 Three Point Hitch - Frame, Lift Rods and Arms",
+ "breadcrumb": "LT26 Three Point Hitch - Frame, Lift Rods and Arms",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/lt26_hitch_frame_lift_rods_arms.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28.66,
+   "y": 26.33,
+   "partNo": "C20117",
+   "desc": "HITCH PLATE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 47.73,
+   "y": 9.93,
+   "partNo": "219-405",
+   "desc": "FITTING - lube",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 57.55,
+   "y": 12.05,
+   "partNo": "C14722",
+   "desc": "NUT - lift rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 66.9,
+   "y": 48.07,
+   "partNo": "C14724",
+   "desc": "ROD ASSEMBLY - R.H. lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 67.18,
+   "y": 40.24,
+   "partNo": "138-308",
+   "desc": "PIN - roll 1/4\" x 3\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 79.27,
+   "y": 11.31,
+   "partNo": "132-91",
+   "desc": "PIN - cotter 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 52.08,
+   "y": 40.97,
+   "partNo": "132-91",
+   "desc": "PIN - cotter 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 7.04,
+   "y": 74.32,
+   "partNo": "132-91",
+   "desc": "PIN - cotter 3/16\" x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 55.48,
+   "y": 37.01,
+   "partNo": "195-541",
+   "desc": "WASHER - plain 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 8.55,
+   "y": 68.88,
+   "partNo": "195-541",
+   "desc": "WASHER - plain 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 83.71,
+   "y": 21.17,
+   "partNo": "C14715",
+   "desc": "ARM - lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 14.31,
+   "y": 55.9,
+   "partNo": "C14715",
+   "desc": "ARM - lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 48.02,
+   "y": 80.31,
+   "partNo": "C14991",
+   "desc": "CHAIN - stay 19 links",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 12.8,
+   "y": 79.94,
+   "partNo": "113-118",
+   "desc": "BOLT - 5/16\" x 5/8\" NC hex, zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 14.88,
+   "y": 85.74,
+   "partNo": "131-176",
+   "desc": "NUT - lock 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 27.06,
+   "y": 88.78,
+   "partNo": "B52118",
+   "desc": "PIN - klik",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 46.79,
+   "y": 49.17,
+   "partNo": "A30338",
+   "desc": "PIN - klik",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 56.42,
+   "y": 89.89,
+   "partNo": "A30338",
+   "desc": "PIN - klik",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 20.35,
+   "y": 45.12,
+   "partNo": "C14725",
+   "desc": "ROD - lift L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 65.11,
+   "y": 53.87,
+   "partNo": "C14717",
+   "desc": "PIN - clevis",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 68.41,
+   "y": 67.32,
+   "partNo": "C14703",
+   "desc": "CENTER TUBE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 71.15,
+   "y": 74.96,
+   "partNo": "C14709",
+   "desc": "BALL END ASSEMBLY R.H. THREAD",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 64.16,
+   "y": 58.75,
+   "partNo": "C14710",
+   "desc": "BALL END ASSEMBLY L.H. THREAD",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 57.46,
+   "y": 81.6,
+   "partNo": "138-59",
+   "desc": "PIN - roll 1/8\" x 7/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 78.99,
+   "y": 79.02,
+   "partNo": "C16128",
+   "desc": "PIN - clevis 5/8\" x 3\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C14712",
+   "desc": "LINK ASSEMBLY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.54
+}

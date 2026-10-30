@@ -1,0 +1,185 @@
+{
+ "sectionTitle": "C19743 Hydraulic Pump and Coupling - 644 and 644BH",
+ "breadcrumb": "C19743 Hydraulic Pump and Coupling - 644 and 644BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/hydraulic_pump_coupling_c19743.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 18.45,
+   "y": 63.94,
+   "partNo": "NSS",
+   "desc": "PUMP - hydraulic (use C25053 pump)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 63.98,
+   "y": 53.39,
+   "partNo": "C20456",
+   "desc": "BODY - pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 25.44,
+   "y": 20.93,
+   "partNo": "C20457",
+   "desc": "COVER ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 38.66,
+   "y": 33.22,
+   "partNo": "C20460",
+   "desc": "GEAR - pump, drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 28.65,
+   "y": 61.92,
+   "partNo": "C20461",
+   "desc": "GEAR - pump, driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 48.58,
+   "y": 42.48,
+   "partNo": "C20462",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 52.55,
+   "y": 48.44,
+   "partNo": "NSS",
+   "desc": "SEAL AND SPACER - wear plate (See Kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 73.8,
+   "y": 65.22,
+   "partNo": "A35690",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 32.62,
+   "y": 27.62,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring (See Kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 19.58,
+   "y": 53.21,
+   "partNo": "221-849",
+   "desc": "PLUG - pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 23.93,
+   "y": 51.47,
+   "partNo": "D58188",
+   "desc": "PIN - dowel",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 70.88,
+   "y": 60.64,
+   "partNo": "NSS",
+   "desc": "SEAL - shaft (See Kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 17.88,
+   "y": 13.96,
+   "partNo": "113-5",
+   "desc": "BOLT - 1/4\" x 1-1/2\" NC hex, grade 5",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 21.0,
+   "y": 16.71,
+   "partNo": "D58189",
+   "desc": "WASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 44.14,
+   "y": 38.99,
+   "partNo": "C20455",
+   "desc": "KEY - square 3/16\" x 13/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 61.81,
+   "y": 40.37,
+   "partNo": "C25208",
+   "desc": "COUPLING - pump (644)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 62.85,
+   "y": 24.6,
+   "partNo": "NSS",
+   "desc": "HUB - coupling (order item 16)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 76.73,
+   "y": 38.99,
+   "partNo": "NSS",
+   "desc": "HUB - coupling (order item 16)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 84.48,
+   "y": 12.58,
+   "partNo": "C15036",
+   "desc": "SPIDER",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 80.89,
+   "y": 10.57,
+   "partNo": "83-55",
+   "desc": "SETSCREW - 5/16\" x 5/16\" NC soc. hd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 89.01,
+   "y": 13.59,
+   "partNo": "83-55",
+   "desc": "SETSCREW - 5/16\" x 5/16\" NC soc. hd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "C24334",
+   "desc": "KIT - seal (includes items 7, 9 and 12)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.8
+}

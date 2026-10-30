@@ -1,0 +1,188 @@
+{
+ "sectionTitle": "Baffles and Shrouds - 644 and 644BH",
+ "breadcrumb": "Baffles and Shrouds - 644 and 644BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/baffles_shrouds_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 42.35,
+   "y": 10.28,
+   "partNo": "C19634",
+   "desc": "DEFLECTOR - engine air (used prior to S/N 9731697)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 59.63,
+   "y": 19.22,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 62.94,
+   "y": 15.62,
+   "partNo": "13-48",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex, zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 63.79,
+   "y": 42.63,
+   "partNo": "KO237677",
+   "desc": "BAFFLE - cylinder head",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 40.18,
+   "y": 59.22,
+   "partNo": "KO235652",
+   "desc": "BAFFLE - carburetor side air",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 64.54,
+   "y": 91.47,
+   "partNo": "KO235207",
+   "desc": "PULLEY - starter (used prior to S/N 9744750)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 87.49,
+   "y": 32.67,
+   "partNo": "C23902",
+   "desc": "BELT - drive, starter-generator (used prior to S/N 9744750)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 73.89,
+   "y": 63.64,
+   "partNo": "193-107",
+   "desc": "WASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 55.19,
+   "y": 16.08,
+   "partNo": "KO235054",
+   "desc": "BAFFLE - (used prior to S/N 9731697)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 80.22,
+   "y": 69.54,
+   "partNo": "175-436",
+   "desc": "SCREW - 1/4\" x 5/8\" NC truss head Phillips, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 40.84,
+   "y": 77.19,
+   "variants": [
+    {
+     "serialNote": "Prior to S/N 9731697",
+     "partNo": "KO235901",
+     "desc": "HOUSING - blower (used prior to S/N 9731697)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 9731697 to 9744750",
+     "partNo": "C24729",
+     "desc": "HOUSING - blower (used S/N 9731697 to S/N 9744750)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 9744750 and after",
+     "partNo": "C24879",
+     "desc": "HOUSING - blower (used S/N 9744750 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 70.78,
+   "y": 21.34,
+   "partNo": "13-410",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 33.09,
+   "y": 80.32,
+   "partNo": "13-410",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 59.54,
+   "y": 82.81,
+   "partNo": "13-410",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 66.43,
+   "y": 24.38,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 76.63,
+   "y": 67.42,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 36.87,
+   "y": 74.79,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 57.08,
+   "y": 80.69,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 24.12,
+   "y": 56.73,
+   "partNo": "C22684",
+   "desc": "DEFLECTOR - engine air (used S/N 9731697 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 69.74,
+   "y": 57.19,
+   "partNo": "KO236676",
+   "desc": "BAFFLE - cylinder (used S/N 9731697 and after)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.89
+}

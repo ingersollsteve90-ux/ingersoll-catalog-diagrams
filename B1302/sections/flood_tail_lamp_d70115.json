@@ -1,0 +1,115 @@
+{
+ "sectionTitle": "D70115 Flood and Tail Lamp (Optional)",
+ "breadcrumb": "D70115 Flood and Tail Lamp (Optional)",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/flood_tail_lamp_d70115.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 31.66,
+   "y": 28.31,
+   "partNo": "D70115",
+   "desc": "LIGHT ASSEMBLY - flood and tail",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 56.64,
+   "y": 9.61,
+   "partNo": "A25213",
+   "desc": "RETAINER - sealed beam",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 66.84,
+   "y": 19.73,
+   "partNo": "A40855",
+   "desc": "LAMP - sealed beam #4409X",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 58.98,
+   "y": 55.42,
+   "partNo": "33686",
+   "desc": "BULB - tail #1141",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 85.46,
+   "y": 33.83,
+   "partNo": "NSS",
+   "desc": "SHELL - light (order D70115 light assembly)",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 91.54,
+   "y": 54.43,
+   "partNo": "193-543",
+   "desc": "SCREW AND LOCKWASHER - #8 - 32 x 3/8\" N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 8.56,
+   "y": 67.53,
+   "partNo": "A34046",
+   "desc": "BRACKET - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 9.3,
+   "y": 60.84,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8\" x 1-1/2\" N.C. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 8.84,
+   "y": 78.46,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 8.84,
+   "y": 84.7,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 30.17,
+   "y": 62.47,
+   "partNo": "10923",
+   "desc": "WASHER - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 29.79,
+   "y": 80.99,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 29.89,
+   "y": 87.41,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" N.C. hex",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.48
+}

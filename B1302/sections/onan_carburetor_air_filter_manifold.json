@@ -1,0 +1,308 @@
+{
+ "sectionTitle": "Carburetor, Air Filter and Manifold - 646 and 646BH",
+ "breadcrumb": "Carburetor, Air Filter and Manifold - 646 and 646BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/onan_carburetor_air_filter_manifold.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 60.46,
+   "y": 6.09,
+   "partNo": "129-505",
+   "desc": "NUT - wing 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 80.82,
+   "y": 25.54,
+   "partNo": "C22426",
+   "desc": "TUBE - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 74.4,
+   "y": 16.1,
+   "partNo": "C22425",
+   "desc": "COVER - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 70.55,
+   "y": 25.16,
+   "partNo": "C22424",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 32.3,
+   "y": 39.71,
+   "partNo": "C22423",
+   "desc": "BASE - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 39.36,
+   "y": 46.32,
+   "partNo": "A28077",
+   "desc": "\"O\" RING - 1-7/16\" I.D.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 60.0,
+   "y": 54.72,
+   "partNo": "C19170",
+   "desc": "CLAMP ASSEMBLY - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 53.94,
+   "y": 48.39,
+   "partNo": "NSS",
+   "desc": "CLAMP - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 42.57,
+   "y": 49.62,
+   "partNo": "92-3",
+   "desc": "LOCKWASHER - #10",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 39.18,
+   "y": 51.79,
+   "partNo": "129-77",
+   "desc": "NUT - #10 NF square",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 65.32,
+   "y": 52.74,
+   "partNo": "174-222",
+   "desc": "SCREW - #10 x 2-1/4\" NF rd. hd. machine",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 82.1,
+   "y": 56.23,
+   "partNo": "C22428",
+   "desc": "LOCKWASHER - star",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 81.55,
+   "y": 61.99,
+   "partNo": "C22427",
+   "desc": "HOSE - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 61.1,
+   "y": 70.77,
+   "partNo": "C22418",
+   "desc": "CARBURETOR - engine (repairs: see C22418 Carburetor - 646 and 646BH)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 37.8,
+   "y": 58.22,
+   "partNo": "C20630",
+   "desc": "BRACKET - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 32.76,
+   "y": 60.48,
+   "partNo": "C20374",
+   "desc": "CLIP - throttle cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 50.46,
+   "y": 94.0,
+   "partNo": "C22420",
+   "desc": "MANIFOLD - engine, intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 40.83,
+   "y": 80.6,
+   "partNo": "C20564",
+   "desc": "GASKET - carburetor mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 56.7,
+   "y": 88.15,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - carburetor mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 57.15,
+   "y": 91.17,
+   "partNo": "113-5",
+   "desc": "BOLT - carburetor mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 26.33,
+   "y": 90.13,
+   "partNo": "C20632",
+   "desc": "GASKET - manifold, intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 65.41,
+   "y": 66.05,
+   "partNo": "C10678",
+   "desc": "ELBOW",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 32.85,
+   "y": 82.01,
+   "partNo": "C10678",
+   "desc": "ELBOW",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 64.49,
+   "y": 77.95,
+   "partNo": "13-632",
+   "desc": "BOLT - manifold mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 40.46,
+   "y": 74.46,
+   "partNo": "C22430",
+   "desc": "NIPPLE - pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 64.58,
+   "y": 80.88,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - manifold mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 81.28,
+   "y": 38.1,
+   "partNo": "C21498",
+   "desc": "HOSE - air intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 91.09,
+   "y": 42.45,
+   "partNo": "C21976",
+   "desc": "SLEEVE - air intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 14.78,
+   "y": 19.69,
+   "partNo": "C22581",
+   "desc": "PRE-CLEANER - air cleaner (optional)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 32.11,
+   "y": 65.39,
+   "partNo": "217-15",
+   "desc": "ELBOW - carburetor outlet",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 9.0,
+   "y": 77.86,
+   "partNo": "C22432",
+   "desc": "HOSE - vacuum",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 37.34,
+   "y": 76.16,
+   "partNo": "C22431",
+   "desc": "HOSE - vacuum",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 14.04,
+   "y": 71.44,
+   "variants": [
+    {
+     "serialNote": "Vent assembly",
+     "partNo": "C22421",
+     "desc": "VENT ASSEMBLY - carburetor",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Vent diaphragm",
+     "partNo": "C25260",
+     "desc": "DIAPHRAGM - vent",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "34",
+   "x": 34.41,
+   "y": 77.95,
+   "partNo": "C22471",
+   "desc": "HOSE - drain",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 27.99,
+   "y": 66.81,
+   "partNo": "C22422",
+   "desc": "CLAMP - hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "—",
+   "partNo": "C22551",
+   "desc": "AIR CLEANER ASSEMBLY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.78
+}

@@ -1,0 +1,187 @@
+{
+ "sectionTitle": "Starter Motor - 646 and 646BH",
+ "breadcrumb": "Starter Motor - 646 and 646BH",
+ "catalogLabel": "Catalog B1302",
+ "modelNumbers": "Catalog B1302 — Case 644 and 644BH (S/N 9698284 and after) and 646 and 646BH (S/N 9698983 and after) Compact Wheel Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B1302/onan_starter_motor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 52.64,
+   "y": 7.57,
+   "partNo": "13-620",
+   "desc": "BOLT - 3/8 x 1-1/4\" hex. head",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 48.49,
+   "y": 8.42,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 56.71,
+   "y": 8.42,
+   "partNo": "C22433",
+   "desc": "MOTOR - starting, 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 66.63,
+   "y": 76.44,
+   "partNo": "C22460",
+   "desc": "COIL ASSEMBLY - field",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 71.07,
+   "y": 78.03,
+   "partNo": "C22458",
+   "desc": "BRUSH - positive",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 44.9,
+   "y": 81.05,
+   "partNo": "C22447",
+   "desc": "ARMATURE - starter motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 76.73,
+   "y": 72.58,
+   "partNo": "C22459",
+   "desc": "HOLDER ASSEMBLY - brush",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 73.62,
+   "y": 74.93,
+   "partNo": "C22443",
+   "desc": "SPRING - brush",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 75.32,
+   "y": 47.08,
+   "partNo": "C22444",
+   "desc": "BRUSH - negative",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 30.82,
+   "y": 58.94,
+   "partNo": "C22737",
+   "desc": "LEVER ASSEMBLY - clutch fork",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 28.75,
+   "y": 87.82,
+   "partNo": "C22446",
+   "desc": "CLUTCH ASSEMBLY - engaging, starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 23.74,
+   "y": 89.79,
+   "partNo": "C22442",
+   "desc": "STOP SET - pinion",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 8.72,
+   "y": 63.55,
+   "partNo": "C22437",
+   "desc": "SCREW SET - starter motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 92.98,
+   "y": 68.06,
+   "partNo": "C22437",
+   "desc": "SCREW SET - starter motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 34.32,
+   "y": 57.53,
+   "partNo": "C22435",
+   "desc": "SPRING SET - lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 86.08,
+   "y": 70.13,
+   "partNo": "C22445",
+   "desc": "END CAP - rear, starter (includes bearing)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 81.93,
+   "y": 70.79,
+   "partNo": "C22436",
+   "desc": "BEARING - rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 88.54,
+   "y": 51.32,
+   "partNo": "C22439",
+   "desc": "BOLT - through",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 54.44,
+   "y": 78.79,
+   "partNo": "C22448",
+   "desc": "WASHER SET - starter motor",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 48.77,
+   "y": 50.85,
+   "partNo": "C22438",
+   "desc": "SWITCH ASSEMBLY - solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 17.6,
+   "y": 91.49,
+   "partNo": "C22440",
+   "desc": "FRAME ASSEMBLY - drive end (includes bearing)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 7.11,
+   "y": 92.05,
+   "partNo": "C22441",
+   "desc": "BEARING - front",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.78
+}
