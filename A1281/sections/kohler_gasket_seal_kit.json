@@ -1,0 +1,208 @@
+{
+ "sectionTitle": "Engine Gasket and Seal Kit (644 Kohler Engine)",
+ "breadcrumb": "Engine Gasket and Seal Kit (644 Kohler Engine)",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/kohler_gasket_seal_kit.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 70.3,
+   "y": 41.3,
+   "partNo": "KO237727",
+   "desc": "KIT - engine gasket",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 45.8,
+   "y": 13.1,
+   "partNo": "R16287",
+   "desc": "SEAL - crankshaft, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 3.8,
+   "y": 67.6,
+   "partNo": "R16287",
+   "desc": "SEAL - crankshaft, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 71.1,
+   "y": 16.5,
+   "partNo": "KO235025",
+   "desc": "GASKET - camshaft cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 12.9,
+   "y": 89.0,
+   "partNo": "KO235025",
+   "desc": "GASKET - camshaft cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 67.2,
+   "y": 23.9,
+   "partNo": "KO235353",
+   "desc": "GASKET - oil pan",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 39.5,
+   "y": 86.5,
+   "partNo": "KO235353",
+   "desc": "GASKET - oil pan",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 46.8,
+   "y": 16.6,
+   "variants": [
+    {
+     "serialNote": "Bearing plate shim (KO235757)",
+     "partNo": "KO235757",
+     "desc": "GASKET - shim, bearing plate (.010\")",
+     "reqd": "6"
+    },
+    {
+     "serialNote": "Shim .010\" (KO235070)",
+     "partNo": "KO235070",
+     "desc": "GASKET - shim (.010\")",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "5",
+   "x": 54.6,
+   "y": 69.9,
+   "variants": [
+    {
+     "serialNote": "Bearing plate shim (KO235757)",
+     "partNo": "KO235757",
+     "desc": "GASKET - shim, bearing plate (.010\")",
+     "reqd": "6"
+    },
+    {
+     "serialNote": "Shim .010\" (KO235070)",
+     "partNo": "KO235070",
+     "desc": "GASKET - shim (.010\")",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "6",
+   "x": 66.7,
+   "y": 6.4,
+   "partNo": "C18097",
+   "desc": "SEAL - crankshaft, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 78.8,
+   "y": 83.3,
+   "partNo": "C18097",
+   "desc": "SEAL - crankshaft, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 92.6,
+   "y": 11.7,
+   "partNo": "KO220174",
+   "desc": "GASKET - breaker cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 88.7,
+   "y": 13.1,
+   "partNo": "A72100",
+   "desc": "GASKET - carburetor flange",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 84.3,
+   "y": 14.2,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump flange",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 80.0,
+   "y": 16.4,
+   "partNo": "KO275341",
+   "desc": "GASKET - carburetor air horn",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 91.1,
+   "y": 26.7,
+   "partNo": "KO235048",
+   "desc": "GASKET - breather plate",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 86.3,
+   "y": 29.7,
+   "partNo": "KO275144",
+   "desc": "GASKET - valve cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 61.3,
+   "y": 15.8,
+   "partNo": "B53393",
+   "desc": "GASKET - fuel strainer bowl (not used)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 88.3,
+   "y": 34.0,
+   "partNo": "KO235057",
+   "desc": "GASKET - pan (not used)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 64.9,
+   "y": 18.5,
+   "partNo": "KO237658",
+   "desc": "GASKET - cylinder head",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 42.0,
+   "y": 52.1,
+   "partNo": "KO237658",
+   "desc": "GASKET - cylinder head",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 81.0,
+   "y": 30.6,
+   "partNo": "KO231032",
+   "desc": "SEAL - breather",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

@@ -1,0 +1,213 @@
+{
+ "sectionTitle": "Electrical System - 644",
+ "breadcrumb": "Electrical System - 644",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/electrical_system_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 40.4,
+   "y": 63.6,
+   "partNo": "C19365",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 33.4,
+   "y": 21.8,
+   "partNo": "C17187",
+   "desc": "WIRE - ignition switch to solenoid (yellow 8\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 31.2,
+   "y": 57.9,
+   "partNo": "C14565",
+   "desc": "CABLE - battery positive (red 10-1/2\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 60.7,
+   "y": 76.6,
+   "partNo": "C18267",
+   "desc": "CABLE - battery ground (black 16\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 46.7,
+   "y": 49.2,
+   "partNo": "223-20",
+   "desc": "FUSE - 20 amp.",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 63.0,
+   "y": 5.6,
+   "partNo": "C14553",
+   "desc": "SOLENOID - start",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 48.1,
+   "y": 27.8,
+   "partNo": "A70221",
+   "desc": "REGULATOR - voltage",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 92.9,
+   "y": 39.4,
+   "variants": [
+    {
+     "serialNote": "Delco 1101875",
+     "partNo": "C16852",
+     "desc": "STARTER - generator 12 volt, Delco No. 1101875 (see \"C16852 Starter-Generator (Delco 1101875)\" section)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Delco 1101970",
+     "partNo": "A70202",
+     "desc": "STARTER - generator 12 volt, Delco No. 1101970 (see \"A70202 Starter-Generator (Delco 1101970)\" section)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 91.9,
+   "y": 60.1,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 13.1,
+   "y": 38.7,
+   "partNo": "C18389",
+   "desc": "GAUGE - ammeter",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 89.4,
+   "y": 87.8,
+   "partNo": "C22571",
+   "desc": "HEADLAMP ASSEMBLY - 12 volt (see \"Electrical System Hardware - 644\" section)",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 20.3,
+   "y": 80.7,
+   "partNo": "C18197",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 81.3,
+   "y": 33.0,
+   "partNo": "KO231281",
+   "desc": "COIL - ignition 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 65.4,
+   "y": 12.2,
+   "partNo": "KO232535",
+   "desc": "COVER - breaker contacts",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 59.4,
+   "y": 24.1,
+   "partNo": "C17275",
+   "desc": "WIRE - regulator ground to solenoid (white 7\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 72.1,
+   "y": 7.1,
+   "partNo": "M20007",
+   "desc": "SPARK PLUG (includes gasket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 72.0,
+   "y": 13.1,
+   "partNo": "A27251",
+   "desc": "GASKET - spark plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 92.5,
+   "y": 7.2,
+   "partNo": "KO238057",
+   "desc": "CABLE - high tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 93.5,
+   "y": 17.0,
+   "partNo": "KO230722",
+   "desc": "CONDENSER",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 28.4,
+   "y": 22.8,
+   "partNo": "C18261",
+   "desc": "WIRE - amp. gauge to solenoid (orange 6\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 35.7,
+   "y": 8.8,
+   "partNo": "C18140",
+   "desc": "WIRE - solenoid to safety switch (black 6\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 11.8,
+   "y": 48.5,
+   "partNo": "C21595",
+   "desc": "SWITCH - ignition (includes key)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 8.8,
+   "y": 44.5,
+   "partNo": "C17763",
+   "desc": "KEY - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 8.8,
+   "y": 8.5,
+   "partNo": "C19055",
+   "desc": "WIRE - safety switch (black 21\")",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: C19521 CLIP - wire holder (2); 353-407 PLUG - hole, dash (1)."
+}

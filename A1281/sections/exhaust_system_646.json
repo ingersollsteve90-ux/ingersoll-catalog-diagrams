@@ -1,0 +1,90 @@
+{
+ "sectionTitle": "Exhaust System - 646",
+ "breadcrumb": "Exhaust System - 646",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/exhaust_system_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 93.6,
+   "y": 68.4,
+   "partNo": "C18121",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 84.1,
+   "y": 12.6,
+   "partNo": "C18215",
+   "desc": "PIPE - exhaust, left",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 25.0,
+   "y": 23.3,
+   "partNo": "C18214",
+   "desc": "PIPE - exhaust, right",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 21.5,
+   "y": 49.0,
+   "partNo": "C18250",
+   "desc": "GASKET - exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 29.5,
+   "y": 4.6,
+   "partNo": "61-512",
+   "desc": "BOLT - 5/16\" x 3/4\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 28.9,
+   "y": 13.2,
+   "partNo": "192-45",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 53.0,
+   "y": 48.8,
+   "partNo": "192-45",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 57.7,
+   "y": 44.9,
+   "partNo": "C18216",
+   "desc": "CLAMP - muffler",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 90.7,
+   "y": 52.8,
+   "partNo": "111-204",
+   "desc": "BOLT - 5/16\" x 1-1/4\" NC rd. hd. square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 46.9,
+   "y": 54.6,
+   "partNo": "129-518",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

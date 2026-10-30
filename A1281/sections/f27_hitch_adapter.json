@@ -1,0 +1,34 @@
+{
+ "sectionTitle": "F27 Hitch Adapter",
+ "breadcrumb": "F27 Hitch Adapter",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/f27_hitch_adapter.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.4,
+   "y": 38.6,
+   "partNo": "C14872",
+   "desc": "BRACKET - hitch adapter",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 45.6,
+   "y": 21.9,
+   "partNo": "C14568",
+   "desc": "PIN - drawbar",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 40.3,
+   "y": 39.3,
+   "partNo": "113-425",
+   "desc": "BOLT - 1/2\" x 3\" NC hex, zinc plated",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

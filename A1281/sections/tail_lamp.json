@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Tail Lamp",
+ "breadcrumb": "Tail Lamp",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/tail_lamp.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 21.5,
+   "y": 18.6,
+   "partNo": "A20965",
+   "desc": "LAMP ASSEMBLY - flood and tail",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 34.0,
+   "y": 46.5,
+   "partNo": "B50255",
+   "desc": "MOLDING - lamp retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 50.9,
+   "y": 7.2,
+   "partNo": "10934",
+   "desc": "SCREW - molding",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 55.6,
+   "y": 7.9,
+   "partNo": "A40855",
+   "desc": "LAMP - sealed unit",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 48.5,
+   "y": 59.1,
+   "partNo": "B50223",
+   "desc": "BULB - red 15 C.P. 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 59.8,
+   "y": 54.9,
+   "partNo": "B50273",
+   "desc": "WIRE - switch",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 48.2,
+   "y": 75.6,
+   "partNo": "B50273",
+   "desc": "WIRE - switch",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 65.8,
+   "y": 22.5,
+   "partNo": "173-73",
+   "desc": "SCREW - wire",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 96.3,
+   "y": 73.2,
+   "partNo": "173-73",
+   "desc": "SCREW - wire",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 68.8,
+   "y": 29.5,
+   "partNo": "193-4",
+   "desc": "WASHER - 1/4\" lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 93.0,
+   "y": 66.1,
+   "partNo": "193-4",
+   "desc": "WASHER - 1/4\" lock",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 61.8,
+   "y": 86.7,
+   "partNo": "NSS",
+   "desc": "SWITCH (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 88.7,
+   "y": 27.7,
+   "partNo": "NSS",
+   "desc": "KNOB - switch (see kit below)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 82.8,
+   "y": 31.4,
+   "partNo": "A39888",
+   "desc": "NUT - switch",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 72.7,
+   "y": 32.6,
+   "partNo": "10927",
+   "desc": "SPRING - terminal",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 78.1,
+   "y": 31.9,
+   "partNo": "NSS",
+   "desc": "BODY",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 90.1,
+   "y": 59.8,
+   "partNo": "B50293",
+   "desc": "TERMINAL - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 68.6,
+   "y": 90.9,
+   "partNo": "129-105",
+   "desc": "NUT - 1/2\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 69.6,
+   "y": 82.6,
+   "partNo": "192-23",
+   "desc": "WASHER - 1/2\" lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 68.7,
+   "y": 75.6,
+   "partNo": "10923",
+   "desc": "WASHER - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 5.0,
+   "y": 62.3,
+   "partNo": "113-209",
+   "desc": "BOLT - 3/8\" x 1-1/2\" NC hex, zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 5.2,
+   "y": 79.0,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 3.8,
+   "y": 87.7,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" NC hex, zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 27.3,
+   "y": 74.7,
+   "partNo": "A34046",
+   "desc": "BRACKET - mounting, tail lamp",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: A43182 KIT - switch, includes knob (1)."
+}

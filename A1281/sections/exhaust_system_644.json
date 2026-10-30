@@ -1,0 +1,34 @@
+{
+ "sectionTitle": "Exhaust System - 644",
+ "breadcrumb": "Exhaust System - 644",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/exhaust_system_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 84.3,
+   "y": 55.5,
+   "partNo": "C18246",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 82.7,
+   "y": 10.7,
+   "partNo": "C10372",
+   "desc": "GASKET - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 7.2,
+   "y": 9.9,
+   "partNo": "61-510",
+   "desc": "SCREW - 5/16\" x 5/8\" NC socket head",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

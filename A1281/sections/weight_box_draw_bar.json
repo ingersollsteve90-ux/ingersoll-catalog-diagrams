@@ -1,0 +1,42 @@
+{
+ "sectionTitle": "Weight Box and Draw Bar",
+ "breadcrumb": "Weight Box and Draw Bar",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/weight_box_draw_bar.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 91.4,
+   "y": 24.4,
+   "partNo": "C17641",
+   "desc": "WEIGHT BOX",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 92.5,
+   "y": 74.2,
+   "partNo": "C13360",
+   "desc": "DRAWBAR",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 67.1,
+   "y": 65.3,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 77.8,
+   "y": 69.8,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

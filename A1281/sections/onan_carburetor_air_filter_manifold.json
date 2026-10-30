@@ -1,0 +1,210 @@
+{
+ "sectionTitle": "Carburetor, Air Filter and Manifold (Onan Engine)",
+ "breadcrumb": "Carburetor, Air Filter and Manifold (Onan Engine)",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/onan_carburetor_air_filter_manifold.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 50.7,
+   "y": 3.7,
+   "partNo": "129-900",
+   "desc": "NUT - wing #10 NF",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 52.2,
+   "y": 6.4,
+   "partNo": "195-513",
+   "desc": "WASHER - #10",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 59.6,
+   "y": 11.8,
+   "partNo": "C18629",
+   "desc": "COVER - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 59.3,
+   "y": 24.4,
+   "partNo": "A70090",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 59.2,
+   "y": 32.6,
+   "partNo": "C18628",
+   "desc": "BASE - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 29.2,
+   "y": 37.8,
+   "partNo": "A28077",
+   "desc": "\"O\" RING - 1-7/16\" I.D.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 60.9,
+   "y": 45.0,
+   "partNo": "174-222",
+   "desc": "SCREW - #10 x 2-1/4\" NF rd. hd. machine",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 54.8,
+   "y": 47.1,
+   "partNo": "C19170",
+   "desc": "CLAMP ASSEMBLY - air cleaner (includes items 7, 9 and 10)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 33.0,
+   "y": 41.7,
+   "partNo": "192-17",
+   "desc": "LOCKWASHER - #10",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 28.6,
+   "y": 43.9,
+   "partNo": "129-77",
+   "desc": "NUT - #10 NF square",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 4.8,
+   "y": 16.7,
+   "partNo": "KO237421",
+   "desc": "PRE-CLEANER - air cleaner (optional)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 69.3,
+   "y": 40.6,
+   "partNo": "C19169",
+   "desc": "TUBE - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 74.2,
+   "y": 47.8,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 85.6,
+   "y": 81.1,
+   "partNo": "C20634",
+   "desc": "WRENCH - carburetor adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 27.5,
+   "y": 65.2,
+   "partNo": "C20660",
+   "desc": "CARBURETOR - engine",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 26.8,
+   "y": 54.4,
+   "partNo": "C20630",
+   "desc": "BRACKET - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 20.0,
+   "y": 57.0,
+   "partNo": "C20374",
+   "desc": "CLIP - throttle cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 42.8,
+   "y": 92.1,
+   "partNo": "C20631",
+   "desc": "MANIFOLD - engine, intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 31.4,
+   "y": 76.6,
+   "partNo": "C20564",
+   "desc": "GASKET - carburetor mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 50.5,
+   "y": 88.8,
+   "partNo": "13-424",
+   "desc": "BOLT - carburetor mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 50.6,
+   "y": 86.1,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - carburetor mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 13.1,
+   "y": 87.9,
+   "partNo": "C20632",
+   "desc": "GASKET - manifold, intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 52.5,
+   "y": 55.6,
+   "partNo": "C10678",
+   "desc": "ELBOW - carburetor inlet",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 19.4,
+   "y": 77.3,
+   "partNo": "13-632",
+   "desc": "BOLT - manifold mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 18.1,
+   "y": 80.9,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - manifold mtg.",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: C18627 AIR CLEANER ASSEMBLY (1)."
+}

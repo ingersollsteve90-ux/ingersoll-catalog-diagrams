@@ -1,0 +1,464 @@
+{
+ "sectionTitle": "Engine Block and Attaching Parts (Onan Engine)",
+ "breadcrumb": "Engine Block and Attaching Parts (Onan Engine)",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/onan_engine_block.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 7.3,
+   "y": 28.5,
+   "partNo": "C20489",
+   "desc": "BLOCK ASSEM. - cylinder, standard bore",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 45.2,
+   "y": 43.9,
+   "partNo": "C20252",
+   "desc": "PLUG - camshaft expansion",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 63.5,
+   "y": 51.8,
+   "partNo": "C20497",
+   "desc": "STUD - bearing plate, rear",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 65.8,
+   "y": 29.2,
+   "partNo": "C20262",
+   "desc": "BEARING - crankshaft, standard (undersize see below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 60.1,
+   "y": 30.2,
+   "partNo": "C20267",
+   "desc": "WASHER - thrust, crankshaft bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 68.3,
+   "y": 49.5,
+   "partNo": "C20511",
+   "desc": "KIT - gasket, bearing plate",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 86.5,
+   "y": 44.5,
+   "partNo": "C20512",
+   "desc": "PLATE - bearing (excludes bearing)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 9.7,
+   "y": 60.7,
+   "partNo": "C20513",
+   "desc": "BEARING - camshaft, front or rear",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 82.1,
+   "y": 22.3,
+   "partNo": "C20271",
+   "desc": "SEAL - bearing plate",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 54.8,
+   "y": 33.1,
+   "partNo": "C20272",
+   "desc": "PIN - main bearing stop",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 95.8,
+   "y": 39.3,
+   "partNo": "129-513",
+   "desc": "NUT - stud, bearing plate",
+   "reqd": "5"
+  },
+  {
+   "ref": "12",
+   "x": 92.4,
+   "y": 42.0,
+   "partNo": "C20519",
+   "desc": "LOCKWASHER - rear bearing plate",
+   "reqd": "5"
+  },
+  {
+   "ref": "13",
+   "x": 41.2,
+   "y": 77.8,
+   "partNo": "C20520",
+   "desc": "TUBE - oil, crankcase",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 67.9,
+   "y": 58.5,
+   "partNo": "C20528",
+   "desc": "INSERT - valve seat, intake (oversize see below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 52.4,
+   "y": 73.3,
+   "partNo": "C20523",
+   "desc": "INSERT - valve seat, exhaust (oversize see below)",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 49.5,
+   "y": 35.2,
+   "partNo": "C20534",
+   "desc": "GUIDE - valve, intake",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 30.3,
+   "y": 37.4,
+   "partNo": "C20533",
+   "desc": "GUIDE - valve, exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 10.2,
+   "y": 26.7,
+   "partNo": "C21569",
+   "desc": "BLOCK ASSEM. - short (includes: cylinder and crankcase, all bearings, crankshaft, camshaft, timing gear, governor gear case, rods, pistons, rings, valves, oil pump and breather tube)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 15.7,
+   "y": 3.4,
+   "partNo": "C20490",
+   "desc": "CAP - breather tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 15.4,
+   "y": 21.9,
+   "partNo": "C20491",
+   "desc": "TUBE - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 15.6,
+   "y": 16.4,
+   "partNo": "C20492",
+   "desc": "BAFFLE - breather tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 36.3,
+   "y": 8.2,
+   "partNo": "C20493",
+   "desc": "SEAL - \"O\"-ring, breather tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 15.4,
+   "y": 11.9,
+   "partNo": "C20536",
+   "desc": "CLAMP - breather cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 15.8,
+   "y": 7.6,
+   "partNo": "C20504",
+   "desc": "SCREEN - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 88.0,
+   "y": 96.3,
+   "partNo": "C20540",
+   "desc": "BOLT - 5/16 x 1-1/4\" n.c. hex",
+   "reqd": "8"
+  },
+  {
+   "ref": "26",
+   "x": 91.9,
+   "y": 96.6,
+   "partNo": "C20541",
+   "desc": "BOLT - 5/16 x 1-3/4\" n.c. hex",
+   "reqd": "10"
+  },
+  {
+   "ref": "27",
+   "x": 82.8,
+   "y": 94.3,
+   "partNo": "C20248",
+   "desc": "WASHER - 5/16\"",
+   "reqd": "18"
+  },
+  {
+   "ref": "28",
+   "x": 81.2,
+   "y": 64.6,
+   "partNo": "C20499",
+   "desc": "GASKET - cylinder head",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 88.8,
+   "y": 64.7,
+   "variants": [
+    {
+     "serialNote": "used prior to eng. no. 292517",
+     "partNo": "C20500",
+     "desc": "HEAD - cylinder R.H. (used prior to eng. no. 292517)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "used eng. no. 292517 and after",
+     "partNo": "C20501",
+     "desc": "HEAD - cylinder R.H. (used eng. no. 292517 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 92.4,
+   "y": 64.6,
+   "variants": [
+    {
+     "serialNote": "used prior to eng. no. 292517",
+     "partNo": "C20502",
+     "desc": "HEAD - cylinder L.H. (used prior to eng. no. 292517)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "used eng. no. 292517 and after",
+     "partNo": "C20503",
+     "desc": "HEAD - cylinder L.H. (used eng. no. 292517 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 68.1,
+   "y": 27.1,
+   "variants": [
+    {
+     "serialNote": ".002 undersize",
+     "partNo": "C20263",
+     "desc": "BEARING - crankshaft, rear (.002 undersize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".010 undersize",
+     "partNo": "C20264",
+     "desc": "BEARING - crankshaft, rear (.010 undersize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".020 undersize",
+     "partNo": "C20265",
+     "desc": "BEARING - crankshaft, rear (.020 undersize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".030 undersize",
+     "partNo": "C20266",
+     "desc": "BEARING - crankshaft, rear (.030 undersize)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "32",
+   "x": 53.3,
+   "y": 18.7,
+   "partNo": "C20494",
+   "desc": "COVER - valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 53.2,
+   "y": 23.5,
+   "partNo": "C20495",
+   "desc": "GASKET - cover, valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 45.2,
+   "y": 34.3,
+   "partNo": "C20498",
+   "desc": "SEAL - valve, intake",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 47.1,
+   "y": 11.5,
+   "partNo": "13-436",
+   "desc": "BOLT - valve cover",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 47.2,
+   "y": 17.1,
+   "partNo": "C20247",
+   "desc": "WASHER - valve cover, copper",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 42.6,
+   "y": 30.2,
+   "partNo": "C20517",
+   "desc": "ROTATOR - valve",
+   "reqd": "4"
+  },
+  {
+   "ref": "38",
+   "x": 47.6,
+   "y": 31.0,
+   "partNo": "C20293",
+   "desc": "SPRING - valve",
+   "reqd": "4"
+  },
+  {
+   "ref": "39",
+   "x": 17.5,
+   "y": 30.9,
+   "partNo": "C20294",
+   "desc": "LOCK - valve and spring",
+   "reqd": "8"
+  },
+  {
+   "ref": "40",
+   "x": 15.7,
+   "y": 26.7,
+   "variants": [
+    {
+     "serialNote": "Standard",
+     "partNo": "C20276",
+     "desc": "TAPPET - valve, standard",
+     "reqd": "4"
+    },
+    {
+     "serialNote": ".005\" oversize",
+     "partNo": "C20277",
+     "desc": "TAPPET - valve, .005\" oversize",
+     "reqd": "4"
+    }
+   ]
+  },
+  {
+   "ref": "41",
+   "x": 72.7,
+   "y": 62.4,
+   "partNo": "C20521",
+   "desc": "VALVE - intake",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 58.4,
+   "y": 76.3,
+   "partNo": "C20522",
+   "desc": "VALVE - exhaust",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 49.8,
+   "y": 75.3,
+   "variants": [
+    {
+     "serialNote": ".002\" oversize",
+     "partNo": "C20524",
+     "desc": "INSERT - valve seat, exhaust (.002\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".005\" oversize",
+     "partNo": "C20525",
+     "desc": "INSERT - valve seat, exhaust (.005\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".010\" oversize",
+     "partNo": "C20526",
+     "desc": "INSERT - valve seat, exhaust (.010\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".025\" oversize",
+     "partNo": "C20527",
+     "desc": "INSERT - valve seat, exhaust (.025\" oversize)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "44",
+   "x": 71.1,
+   "y": 57.2,
+   "variants": [
+    {
+     "serialNote": ".002\" oversize",
+     "partNo": "C20529",
+     "desc": "INSERT - valve seat, intake (.002\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".005\" oversize",
+     "partNo": "C20530",
+     "desc": "INSERT - valve seat, intake (.005\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".010\" oversize",
+     "partNo": "C20531",
+     "desc": "INSERT - valve seat, intake (.010\" oversize)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": ".025\" oversize",
+     "partNo": "C20532",
+     "desc": "INSERT - valve seat, intake (.025\" oversize)",
+     "reqd": "2"
+    }
+   ]
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nCylinder heads: used prior to / used engine no. 292517 and after.\nAlso listed, not shown on diagram: C20655 KIT - gasket, complete engine (1); C20754 KIT - gasket, carbon removal (includes: valve cover gaskets, cylinder head gaskets, intake manifold gaskets and exhaust gaskets) (1); C20755 KIT - overhaul, engine (standard) includes: valves, valve spring and retainers, ring set, oil filter, breather tube, points, plugs, condenser, crankshaft retainer ring and gasket kit (1)."
+}

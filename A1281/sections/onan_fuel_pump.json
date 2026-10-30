@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "Fuel Pump Assembly (Onan Engine)",
+ "breadcrumb": "Fuel Pump Assembly (Onan Engine)",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/onan_fuel_pump.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 55.4,
+   "y": 67.1,
+   "partNo": "C20653",
+   "desc": "PUMP - fuel, vacuum (used S/N 9663306 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 3.6,
+   "y": 39.1,
+   "partNo": "C20740",
+   "desc": "BASE - fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 24.5,
+   "y": 62.7,
+   "partNo": "C20440",
+   "desc": "SPRING - diaphragm",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 30.3,
+   "y": 59.0,
+   "partNo": "C20448",
+   "desc": "PLATE - spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 27.1,
+   "y": 26.2,
+   "partNo": "C20434",
+   "desc": "GASKET - base fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 37.6,
+   "y": 20.9,
+   "partNo": "C20437",
+   "desc": "DIAPHRAGM - fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 49.4,
+   "y": 14.6,
+   "partNo": "C20428",
+   "desc": "VALVE PLATE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 62.5,
+   "y": 8.6,
+   "partNo": "C20738",
+   "desc": "GASKET - cover, fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 72.8,
+   "y": 7.3,
+   "partNo": "C20739",
+   "desc": "COVER - fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 94.8,
+   "y": 20.6,
+   "partNo": "C20433",
+   "desc": "SCREW - cover, fuel pump",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 27.1,
+   "y": 81.8,
+   "partNo": "C20645",
+   "desc": "PLATE - mechanical fuel pump hole cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 39.9,
+   "y": 79.4,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 29.3,
+   "y": 75.9,
+   "partNo": "13-410",
+   "desc": "BOLT - 1/4\" x 5/8\" n.c. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 25.8,
+   "y": 86.9,
+   "partNo": "C20735",
+   "desc": "GASKET - plate, fuel pump hole cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 83.9,
+   "y": 80.3,
+   "partNo": "C20647",
+   "desc": "TUBE - vacuum line",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 78.1,
+   "y": 85.5,
+   "partNo": "222-1014",
+   "desc": "FITTING - inverted male",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 56.6,
+   "y": 61.0,
+   "partNo": "C20411",
+   "desc": "CAP - fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 95.7,
+   "y": 48.1,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 57.0,
+   "y": 55.4,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 84.7,
+   "y": 67.8,
+   "partNo": "C20650",
+   "desc": "BRACKET - fuel pump mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 95.4,
+   "y": 55.4,
+   "partNo": "C20651",
+   "desc": "SCREW - #10 x 5/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 53.1,
+   "y": 75.2,
+   "partNo": "129-27",
+   "desc": "NUT - #10 n.f. hex.",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 72.1,
+   "y": 78.7,
+   "partNo": "C16202",
+   "desc": "HOSE - vacuum, fuel pump",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 84.7,
+   "y": 46.6,
+   "partNo": "C15526",
+   "desc": "HOSE - fuel pump to carburetor",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

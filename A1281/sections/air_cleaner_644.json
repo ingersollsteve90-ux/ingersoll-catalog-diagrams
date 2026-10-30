@@ -1,0 +1,82 @@
+{
+ "sectionTitle": "Air Cleaner - 644",
+ "breadcrumb": "Air Cleaner - 644",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/air_cleaner_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 37.7,
+   "y": 23.5,
+   "partNo": "KOA235100",
+   "desc": "AIR CLEANER ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6.7,
+   "y": 68.2,
+   "partNo": "129-409",
+   "desc": "NUT - wing 3/8\" NC",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 61.8,
+   "y": 19.4,
+   "partNo": "NSS",
+   "desc": "BASE - air cleaner (order KOA235100)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 16.2,
+   "y": 54.3,
+   "partNo": "NSS",
+   "desc": "COVER - air cleaner (order KOA235100)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 47.2,
+   "y": 30.9,
+   "partNo": "A70090",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 73.7,
+   "y": 17.2,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 54.1,
+   "y": 29.7,
+   "partNo": "177-94",
+   "desc": "SCREW - #10 x 5/16\" NF fillister hd.",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 57.9,
+   "y": 25.6,
+   "partNo": "195-512",
+   "desc": "WASHER - 3/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 33.7,
+   "y": 41.7,
+   "partNo": "KO237421",
+   "desc": "PRE-CLEANER (optional)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

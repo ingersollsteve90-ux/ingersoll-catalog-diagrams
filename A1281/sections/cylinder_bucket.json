@@ -1,0 +1,218 @@
+{
+ "sectionTitle": "Cylinder - Bucket",
+ "breadcrumb": "Cylinder - Bucket",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/cylinder_bucket.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 3.7,
+   "y": 25.4,
+   "partNo": "C18573",
+   "desc": "BODY - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 4.8,
+   "y": 50.0,
+   "partNo": "131-677",
+   "desc": "NUT - jam",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 81.6,
+   "y": 8.2,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 81.3,
+   "y": 21.6,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 3.7,
+   "y": 57.7,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 3.8,
+   "y": 71.3,
+   "partNo": "NSS",
+   "desc": "WASHER - backup, piston",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 81.6,
+   "y": 14.9,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 4.3,
+   "y": 64.2,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, piston",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 4.1,
+   "y": 77.9,
+   "partNo": "D54909",
+   "desc": "PISTON - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 29.1,
+   "y": 24.7,
+   "partNo": "C18486",
+   "desc": "HEAD ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 33.6,
+   "y": 16.3,
+   "partNo": "NSS",
+   "desc": "BUSHING - head",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 81.4,
+   "y": 30.2,
+   "partNo": "NSS",
+   "desc": "BUSHING - head",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 32.6,
+   "y": 32.6,
+   "partNo": "C18487",
+   "desc": "HEAD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 81.7,
+   "y": 39.8,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 32.6,
+   "y": 40.0,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 81.6,
+   "y": 48.1,
+   "partNo": "NSS",
+   "desc": "WASHER - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 33.6,
+   "y": 48.8,
+   "partNo": "NSS",
+   "desc": "WASHER - backup",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 33.0,
+   "y": 54.9,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 81.7,
+   "y": 55.3,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 32.8,
+   "y": 67.0,
+   "partNo": "C18572",
+   "desc": "ROD - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 55.9,
+   "y": 40.4,
+   "partNo": "NSS",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 81.7,
+   "y": 63.9,
+   "partNo": "NSS",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 55.9,
+   "y": 48.8,
+   "partNo": "D54915",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 56.4,
+   "y": 56.0,
+   "partNo": "D54917",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 36.0,
+   "y": 24.4,
+   "partNo": "NSS",
+   "desc": "SEAL - \"O\" ring, head",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 76.3,
+   "y": 25.4,
+   "partNo": "C18574",
+   "desc": "KIT - seal",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: C11528 CYLINDER - bucket (1)."
+}

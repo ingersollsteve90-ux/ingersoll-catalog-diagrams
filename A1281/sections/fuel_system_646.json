@@ -1,0 +1,122 @@
+{
+ "sectionTitle": "Fuel System - 646",
+ "breadcrumb": "Fuel System - 646",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/fuel_system_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 16.2,
+   "y": 20.7,
+   "partNo": "C18133",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 25.5,
+   "y": 7.4,
+   "partNo": "C11529",
+   "desc": "CAP - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 26.3,
+   "y": 14.4,
+   "partNo": "C11545",
+   "desc": "INSERT - fuel cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 35.3,
+   "y": 75.3,
+   "partNo": "C18190",
+   "desc": "STRAP - tank mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 16.8,
+   "y": 73.7,
+   "partNo": "C14690",
+   "desc": "CUSHION - fuel tank",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 3.6,
+   "y": 87.9,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4 x 1-1/2\" round hd. machine",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 6.6,
+   "y": 93.3,
+   "partNo": "129-504",
+   "desc": "NUT - 1/4\" NC square",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 48.2,
+   "y": 53.2,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 51.9,
+   "y": 56.8,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 72.5,
+   "y": 70.4,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 83.1,
+   "y": 79.5,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 60.3,
+   "y": 61.4,
+   "partNo": "C18275",
+   "desc": "HOSE - fuel line 44\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 96.1,
+   "y": 83.9,
+   "partNo": "C15007",
+   "desc": "HOSE - fuel line 5-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 80.7,
+   "y": 75.4,
+   "partNo": "D59949",
+   "desc": "FILTER - fuel",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

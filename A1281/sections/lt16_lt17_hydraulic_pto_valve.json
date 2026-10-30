@@ -1,0 +1,234 @@
+{
+ "sectionTitle": "LT-16 and LT-17 Hydraulic PTO Valve",
+ "breadcrumb": "LT-16 and LT-17 Hydraulic PTO Valve",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/lt16_lt17_hydraulic_pto_valve.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 19.7,
+   "y": 9.6,
+   "partNo": "C11888",
+   "desc": "BRACKET - handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 93.3,
+   "y": 21.0,
+   "partNo": "C11889",
+   "desc": "HANDLE - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 80.6,
+   "y": 11.6,
+   "partNo": "36627",
+   "desc": "PIN - clevis",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 83.7,
+   "y": 16.8,
+   "partNo": "132-5",
+   "desc": "PIN - cotter 1/16 x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 57.6,
+   "y": 3.8,
+   "partNo": "75-410",
+   "desc": "SCREW",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 59.3,
+   "y": 9.5,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 66.9,
+   "y": 26.4,
+   "partNo": "221-842",
+   "desc": "PLUG - relief 3/8\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 67.4,
+   "y": 30.5,
+   "partNo": "D39712",
+   "desc": "WASHER - relief, .010\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "9",
+   "x": 67.6,
+   "y": 34.4,
+   "partNo": "A55894",
+   "desc": "WASHER - relief, .020\"",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "10",
+   "x": 66.9,
+   "y": 37.9,
+   "partNo": "T40189",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 67.2,
+   "y": 41.6,
+   "partNo": "211-11",
+   "desc": "BALL - relief 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 66.5,
+   "y": 44.8,
+   "partNo": "C18417",
+   "desc": "SEAT - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 65.1,
+   "y": 48.8,
+   "partNo": "A27891",
+   "desc": "SEAL - \"O\" ring, relief seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 23.9,
+   "y": 25.6,
+   "partNo": "C11891",
+   "desc": "SEAL - \"U\" cup",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 26.4,
+   "y": 46.1,
+   "partNo": "C11891",
+   "desc": "SEAL - \"U\" cup",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 59.8,
+   "y": 52.9,
+   "partNo": "NSS",
+   "desc": "BODY AND SPOOL ASSEMBLY (order C18314 valve)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 56.9,
+   "y": 72.0,
+   "partNo": "C11895",
+   "desc": "ADAPTER - spool",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 26.8,
+   "y": 72.8,
+   "partNo": "95-4",
+   "desc": "WASHER - detent 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 25.4,
+   "y": 77.6,
+   "partNo": "36628",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 24.7,
+   "y": 82.2,
+   "partNo": "75-48",
+   "desc": "SCREW - 1/4\" x 1/2\" rd. hd. machine",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 21.1,
+   "y": 87.2,
+   "partNo": "C11893",
+   "desc": "BONNET - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 25.8,
+   "y": 94.0,
+   "partNo": "169-108",
+   "desc": "SCREW - bonnet #8 x 2-1/2\" fillister hd.",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 54.6,
+   "y": 82.5,
+   "partNo": "C11901",
+   "desc": "PIN - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 61.1,
+   "y": 84.6,
+   "partNo": "C11892",
+   "desc": "SPRING - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 67.6,
+   "y": 86.2,
+   "partNo": "C11886",
+   "desc": "WASHER - detent cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 73.9,
+   "y": 89.0,
+   "partNo": "C11887",
+   "desc": "CAP - detent",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 6.7,
+   "y": 58.3,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "27",
+   "x": 14.6,
+   "y": 62.5,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: C18314 VALVE - hydraulic PTO (1)."
+}

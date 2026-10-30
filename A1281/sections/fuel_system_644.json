@@ -1,0 +1,226 @@
+{
+ "sectionTitle": "Fuel System - 644",
+ "breadcrumb": "Fuel System - 644",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/fuel_system_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 84.8,
+   "y": 6.3,
+   "partNo": "C21816",
+   "desc": "CARBURETOR (see \"Carburetor - 644 (Kohler)\" section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 92.8,
+   "y": 4.7,
+   "partNo": "A72100",
+   "desc": "GASKET - carburetor flange",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 57.8,
+   "y": 10.5,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel pump and carburetor",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 57.8,
+   "y": 39.5,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel pump and carburetor",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 88.9,
+   "y": 50.5,
+   "partNo": "C10678",
+   "desc": "ELBOW - fuel pump and carburetor",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 58.0,
+   "y": 16.4,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 57.8,
+   "y": 33.8,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 73.4,
+   "y": 59.4,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 42.4,
+   "y": 60.1,
+   "partNo": "214-251",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 58.3,
+   "y": 23.6,
+   "partNo": "C15007",
+   "desc": "HOSE - carburetor 5-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 96.4,
+   "y": 39.3,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 95.0,
+   "y": 44.7,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 61.1,
+   "y": 44.3,
+   "partNo": "KOA236205",
+   "desc": "PUMP - fuel, 644 (see \"Fuel Pump - 644 (Kohler)\" section)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 56.6,
+   "y": 51.8,
+   "partNo": "71-410",
+   "desc": "SCREW - 1/4\" x 5/8\" NC fillister head",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 60.6,
+   "y": 49.2,
+   "partNo": "193-60",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 76.7,
+   "y": 39.7,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 90.2,
+   "y": 45.9,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mounting, all models",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 38.4,
+   "y": 57.3,
+   "partNo": "C10657",
+   "desc": "ELBOW ASSEMBLY - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 17.2,
+   "y": 73.2,
+   "partNo": "C14690",
+   "desc": "CUSHION - fuel tank",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 48.0,
+   "y": 63.9,
+   "partNo": "C18275",
+   "desc": "HOSE - fuel line (44\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 56.8,
+   "y": 95.5,
+   "partNo": "C18275",
+   "desc": "HOSE - fuel line (44\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 10.9,
+   "y": 19.0,
+   "partNo": "C18133",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 20.7,
+   "y": 6.3,
+   "partNo": "C11529",
+   "desc": "CAP - fuel tank (includes insert)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 21.2,
+   "y": 13.6,
+   "partNo": "C11545",
+   "desc": "INSERT - fuel cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 35.1,
+   "y": 75.5,
+   "partNo": "C18190",
+   "desc": "STRAP - fuel tank mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 3.4,
+   "y": 86.6,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4\" x 1-1/2\" NC round head, machine, zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 6.0,
+   "y": 92.5,
+   "partNo": "129-504",
+   "desc": "NUT - square 1/4\" NC",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

@@ -1,0 +1,304 @@
+{
+ "sectionTitle": "C20688 Carburetor (Onan Engine)",
+ "breadcrumb": "C20688 Carburetor (Onan Engine)",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/onan_carburetor_c20688.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 30.2,
+   "y": 9.6,
+   "partNo": "169-97",
+   "desc": "SCREW - bowl cover",
+   "reqd": "3"
+  },
+  {
+   "ref": "2",
+   "x": 82.7,
+   "y": 7.9,
+   "partNo": "NSS",
+   "desc": "SCREW - choke fly #4 x 3/16\" (order C20689 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 67.2,
+   "y": 4.6,
+   "partNo": "C20691",
+   "desc": "FLY - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 71.1,
+   "y": 8.8,
+   "partNo": "NSS",
+   "desc": "COVER ASSEMBLY - carburetor (order C20688 carburetor)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 93.3,
+   "y": 10.5,
+   "partNo": "C20693",
+   "desc": "SHAFT ASSEMBLY - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 72.3,
+   "y": 27.7,
+   "partNo": "C20694",
+   "desc": "PIN - float",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 67.9,
+   "y": 33.2,
+   "partNo": "NSS",
+   "desc": "GASKET - body to bowl (order C20689 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 32.9,
+   "y": 27.0,
+   "variants": [
+    {
+     "serialNote": "Float, valve seat gasket",
+     "partNo": "NSS",
+     "desc": "GASKET - float, valve seat (order C20689 kit)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Needle, main adjusting gasket",
+     "partNo": "NSS",
+     "desc": "GASKET - needle, main adjusting (order C20689 kit)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 37.4,
+   "y": 70.9,
+   "variants": [
+    {
+     "serialNote": "Float, valve seat gasket",
+     "partNo": "NSS",
+     "desc": "GASKET - float, valve seat (order C20689 kit)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Needle, main adjusting gasket",
+     "partNo": "NSS",
+     "desc": "GASKET - needle, main adjusting (order C20689 kit)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 35.2,
+   "y": 34.4,
+   "partNo": "NSS",
+   "desc": "NEEDLE AND SEAT ASSEM. (order C20689 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 78.4,
+   "y": 23.7,
+   "partNo": "C20708",
+   "desc": "PLUG - gas inlet",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 18.0,
+   "y": 17.5,
+   "partNo": "C20712",
+   "desc": "PIN - stop choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 73.2,
+   "y": 39.8,
+   "partNo": "C20700",
+   "desc": "FLOAT ASSEMBLY - carburetor",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 20.2,
+   "y": 76.1,
+   "partNo": "C20701",
+   "desc": "LEVER - idler stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 27.3,
+   "y": 75.1,
+   "partNo": "NSS",
+   "desc": "NEEDLE - idler adjust (order C20689 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 38.6,
+   "y": 57.5,
+   "partNo": "C20439",
+   "desc": "SPRING - idle adjust",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 16.6,
+   "y": 57.0,
+   "partNo": "C20704",
+   "desc": "SPRING - throttle stop adj.",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 19.3,
+   "y": 50.2,
+   "partNo": "169-61",
+   "desc": "SCREW - throttle stop #6 x 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 83.2,
+   "y": 60.2,
+   "partNo": "NSS",
+   "desc": "SCREW - throttle fly #4 x 1/4\" (order C20689 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 65.6,
+   "y": 78.2,
+   "partNo": "C20705",
+   "desc": "FLY - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 93.3,
+   "y": 62.3,
+   "partNo": "NSS",
+   "desc": "SHAFT ASSEMBLY - throttle (order C20689 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 56.8,
+   "y": 79.8,
+   "partNo": "C20707",
+   "desc": "NOZZLE - nut and jet",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 66.8,
+   "y": 47.2,
+   "partNo": "C20699",
+   "desc": "NOZZLE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 66.1,
+   "y": 53.7,
+   "partNo": "NSS",
+   "desc": "GASKET - nozzle (order C20689 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 73.7,
+   "y": 56.7,
+   "partNo": "NSS",
+   "desc": "BODY ASSEMBLY - carburetor (order C20688 carburetor)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 70.1,
+   "y": 63.5,
+   "partNo": "C20709",
+   "desc": "BUSHING - throttle shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 35.5,
+   "y": 52.6,
+   "partNo": "129-665",
+   "desc": "NUT - throttle stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 9.0,
+   "y": 70.5,
+   "partNo": "C20711",
+   "desc": "SCREW - throttle stop mtg. clamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 36.6,
+   "y": 77.0,
+   "partNo": "C20713",
+   "desc": "NUT - main adjust needle retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 35.2,
+   "y": 81.7,
+   "partNo": "NSS",
+   "desc": "PACKING - main adjust needle (order C20689 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 33.6,
+   "y": 86.3,
+   "partNo": "C20715",
+   "desc": "RETAINER - main adjust needle",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 34.3,
+   "y": 90.9,
+   "partNo": "C20716",
+   "desc": "PIN - main adjust needle",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 32.7,
+   "y": 95.1,
+   "partNo": "NSS",
+   "desc": "NEEDLE - main adjust (order C20689 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 51.5,
+   "y": 87.9,
+   "partNo": "C20718",
+   "desc": "NEEDLE ASSEMBLY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: C20689 KIT - repair, carburetor (includes items 2, 4, 7, 8, 9, 14, 18, 20, 23, 29, 30 & 32) (1)."
+}

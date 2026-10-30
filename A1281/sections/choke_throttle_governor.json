@@ -1,0 +1,328 @@
+{
+ "sectionTitle": "Choke, Throttle and Governor",
+ "breadcrumb": "Choke, Throttle and Governor",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/choke_throttle_governor.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 3.6,
+   "y": 54.2,
+   "variants": [
+    {
+     "serialNote": "644",
+     "partNo": "C18311",
+     "desc": "CONTROL - throttle (644)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646",
+     "partNo": "C19465",
+     "desc": "CONTROL - throttle (646)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 5.4,
+   "y": 26.7,
+   "partNo": "C12224",
+   "desc": "HANDLE - throttle control, black",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 44.1,
+   "y": 51.7,
+   "variants": [
+    {
+     "serialNote": "644",
+     "partNo": "C18312",
+     "desc": "CONTROL - choke (644)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "646",
+     "partNo": "C18271",
+     "desc": "CONTROL - choke (646)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 23.5,
+   "y": 20.2,
+   "partNo": "C14506",
+   "desc": "HANDLE - choke control, white",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 16.1,
+   "y": 33.8,
+   "partNo": "111-1",
+   "desc": "BOLT - 10-24 x 1/2\" round head, square neck",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 26.8,
+   "y": 54.8,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - #10 std. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 27.4,
+   "y": 59.9,
+   "partNo": "129-17",
+   "desc": "NUT - #10-24 plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 38.1,
+   "y": 8.2,
+   "partNo": "KO237653",
+   "desc": "LEVER - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 35.2,
+   "y": 12.5,
+   "partNo": "15-420",
+   "desc": "BOLT - 1/4\" x 1-1/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 53.7,
+   "y": 58.9,
+   "partNo": "15-420",
+   "desc": "BOLT - 1/4\" x 1-1/4\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 34.4,
+   "y": 27.3,
+   "partNo": "195-515",
+   "desc": "WASHER - 1/4\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 36.0,
+   "y": 33.7,
+   "partNo": "25-104",
+   "desc": "NUT - 1/4\" hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 54.6,
+   "y": 50.7,
+   "partNo": "KO235496",
+   "desc": "SPRING - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 56.6,
+   "y": 56.0,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 60.8,
+   "y": 53.9,
+   "partNo": "C18098",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 64.4,
+   "y": 51.0,
+   "partNo": "KO275690",
+   "desc": "WASHER - wavy",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 68.3,
+   "y": 47.4,
+   "partNo": "KO231052",
+   "desc": "CLAMP - swivel, wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 71.6,
+   "y": 43.5,
+   "partNo": "KO235086",
+   "desc": "LEVER - speed control",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 78.0,
+   "y": 41.8,
+   "partNo": "KO235085",
+   "desc": "SPACER - speed control bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 82.7,
+   "y": 37.6,
+   "partNo": "KO235084",
+   "desc": "BRACKET - high speed stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 68.2,
+   "y": 21.2,
+   "partNo": "129-37",
+   "desc": "NUT - #10-32 hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 52.8,
+   "y": 33.9,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\" plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 53.0,
+   "y": 29.0,
+   "partNo": "A10326",
+   "desc": "JOINT - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 48.0,
+   "y": 7.8,
+   "partNo": "KO235277",
+   "desc": "ROD - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 51.9,
+   "y": 5.0,
+   "partNo": "KO235278",
+   "desc": "RING - retaining, throttle rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 57.1,
+   "y": 7.0,
+   "partNo": "KO235476",
+   "desc": "BUSHING - governor cross shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 62.8,
+   "y": 5.5,
+   "partNo": "KOA235256-S",
+   "desc": "SHAFT ASSEMBLY - governor cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 84.6,
+   "y": 8.4,
+   "partNo": "C18103",
+   "desc": "BEARING - needle governor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 87.7,
+   "y": 10.4,
+   "partNo": "KOA235743-S",
+   "desc": "GEAR ASSEMBLY - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 90.2,
+   "y": 14.7,
+   "partNo": "KO235125-S",
+   "desc": "SHAFT - governor stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 78.4,
+   "y": 34.7,
+   "partNo": "C18099",
+   "desc": "WASHER - governor stop pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 74.0,
+   "y": 36.0,
+   "partNo": "KO231355",
+   "desc": "PIN - governor stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 29.1,
+   "y": 65.8,
+   "partNo": "KO235900",
+   "desc": "BRACKET - throttle cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 44.1,
+   "y": 83.4,
+   "partNo": "KO235603",
+   "desc": "CLIP - bracket",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 95.2,
+   "y": 87.4,
+   "partNo": "KO235603",
+   "desc": "CLIP - bracket",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 94.9,
+   "y": 61.9,
+   "partNo": "KOA236919",
+   "desc": "BRACKET - choke cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 26.9,
+   "y": 70.5,
+   "partNo": "169-95",
+   "desc": "SCREW - #10 x 3/8\" NC fillister head",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

@@ -1,0 +1,26 @@
+{
+ "sectionTitle": "Fuel Pump - 644 (Kohler)",
+ "breadcrumb": "Fuel Pump - 644 (Kohler)",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/fuel_pump_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 7.8,
+   "y": 57.9,
+   "partNo": "KO236387",
+   "desc": "KIT - fuel pump (for KOA236205)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 91.7,
+   "y": 69.5,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mtg.",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: NSS VALVE ASSEMBLY (2); NSS GASKET - valve (2); NSS DIAPHRAGM ASSEMBLY (1); NSS SPRING - diaphragm (1); NSS GASKET - valve (1)."
+}

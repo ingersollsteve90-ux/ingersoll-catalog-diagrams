@@ -1,0 +1,178 @@
+{
+ "sectionTitle": "Hydraulic Pump and Coupling - 646 (C20122 pump)",
+ "breadcrumb": "Hydraulic Pump and Coupling - 646 (C20122 pump)",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/hydraulic_pump_coupling_646_c20122.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 26.2,
+   "y": 80.0,
+   "partNo": "C20122",
+   "desc": "PUMP - hydraulic (used S/N 9680417 and after)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 71.5,
+   "y": 66.2,
+   "partNo": "C19277",
+   "desc": "BODY ASSEMBLY (includes bushings)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 27.6,
+   "y": 27.7,
+   "partNo": "C19278",
+   "desc": "COVER ASSEMBLY (includes bushings & dowel pins)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 46.1,
+   "y": 50.4,
+   "partNo": "126-12",
+   "desc": "KEY - woodruff",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 81.7,
+   "y": 81.2,
+   "partNo": "C18768",
+   "desc": "RING - snap",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 79.2,
+   "y": 77.8,
+   "partNo": "C19281",
+   "desc": "SEAL - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 57.3,
+   "y": 60.2,
+   "partNo": "C18764",
+   "desc": "SEAL - pressure load",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 51.9,
+   "y": 54.0,
+   "partNo": "C19279",
+   "desc": "PLATE - wear",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 42.3,
+   "y": 45.3,
+   "partNo": "C18761",
+   "desc": "GEAR - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 36.2,
+   "y": 78.2,
+   "partNo": "C18762",
+   "desc": "GEAR - driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 38.0,
+   "y": 41.6,
+   "partNo": "C19280",
+   "desc": "PLATE - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 33.6,
+   "y": 37.7,
+   "partNo": "C18769",
+   "desc": "SEAL - gasket",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 17.0,
+   "y": 27.6,
+   "partNo": "195-2028",
+   "desc": "WASHER",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 12.5,
+   "y": 24.9,
+   "partNo": "113-233",
+   "desc": "BOLT",
+   "reqd": "4"
+  },
+  {
+   "ref": "15",
+   "x": 23.2,
+   "y": 64.1,
+   "partNo": "221-841",
+   "desc": "PLUG - pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 67.7,
+   "y": 13.5,
+   "partNo": "C18235",
+   "desc": "COUPLING - pump",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 63.7,
+   "y": 9.1,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 52.1,
+   "y": 33.8,
+   "partNo": "178-858",
+   "desc": "SCREW - set 5/16\" x 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 91.4,
+   "y": 21.6,
+   "partNo": "NSS",
+   "desc": "HUB (order C18235)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 78.8,
+   "y": 11.9,
+   "partNo": "NSS",
+   "desc": "HUB (order C18235)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 85.9,
+   "y": 16.4,
+   "partNo": "C18258",
+   "desc": "SPIDER - coupling",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nPump C20122 used S/N 9680417 and after."
+}

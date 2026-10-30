@@ -1,0 +1,200 @@
+{
+ "sectionTitle": "Baffles and Shrouds - 644",
+ "breadcrumb": "Baffles and Shrouds - 644",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/baffles_shrouds_644.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 32.6,
+   "y": 11.2,
+   "partNo": "C18989",
+   "desc": "DEFLECTOR - engine air",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 55.9,
+   "y": 13.0,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 60.3,
+   "y": 9.3,
+   "partNo": "113-6",
+   "desc": "BOLT - 1/4\" x 1/2\" NC hex, zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 60.6,
+   "y": 40.0,
+   "partNo": "KO237677",
+   "desc": "BAFFLE - cylinder head",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 33.7,
+   "y": 58.6,
+   "partNo": "KO235652",
+   "desc": "BAFFLE - carburetor side air",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 62.0,
+   "y": 94.4,
+   "partNo": "KO235207",
+   "desc": "PULLEY - starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 88.6,
+   "y": 28.4,
+   "partNo": "C14345",
+   "desc": "BELT - drive, starter-generator",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 72.6,
+   "y": 63.5,
+   "partNo": "195-515",
+   "desc": "WASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 79.6,
+   "y": 68.8,
+   "partNo": "175-436",
+   "desc": "SCREW - 1/4\" x 5/8\" NC truss head Phillips, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 34.8,
+   "y": 80.7,
+   "partNo": "KO235901",
+   "desc": "HOUSING - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 68.6,
+   "y": 16.5,
+   "partNo": "113-2",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 25.3,
+   "y": 82.8,
+   "partNo": "113-2",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 56.4,
+   "y": 85.8,
+   "partNo": "113-2",
+   "desc": "BOLT - 1/4\" x 3/4\" NC hex, zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 64.2,
+   "y": 19.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 76.2,
+   "y": 67.2,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 29.9,
+   "y": 76.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 53.3,
+   "y": 83.1,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 51.4,
+   "y": 9.5,
+   "partNo": "KO235054",
+   "desc": "BAFFLE - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 23.5,
+   "y": 29.3,
+   "partNo": "C19021",
+   "desc": "SUPPORT - engine air deflector",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 30.3,
+   "y": 30.7,
+   "partNo": "113-118",
+   "desc": "BOLT - 5/16\" x 5/8\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 19.5,
+   "y": 27.7,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 10.5,
+   "y": 48.2,
+   "partNo": "195-521",
+   "desc": "WASHER - 5/16\" plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 3.8,
+   "y": 43.9,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" zinc plated",
+   "reqd": "4"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nRef 9 has no callout on the diagram; it is the same part as ref 13 (192-19 LOCKWASHER - 1/4\" zinc plated)."
+}

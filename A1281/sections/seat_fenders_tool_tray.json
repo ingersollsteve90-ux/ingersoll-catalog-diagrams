@@ -1,0 +1,221 @@
+{
+ "sectionTitle": "Seat, Fenders and Tool Tray",
+ "breadcrumb": "Seat, Fenders and Tool Tray",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/seat_fenders_tool_tray.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 25.7,
+   "y": 87.7,
+   "partNo": "C17488",
+   "desc": "SUPPORT - seat, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 10.4,
+   "y": 80.5,
+   "partNo": "C17485",
+   "desc": "SUPPORT - seat, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 55.0,
+   "y": 60.3,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 14.6,
+   "y": 73.8,
+   "partNo": "113-424",
+   "desc": "BOLT - 1/2\" x 1\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 43.4,
+   "y": 66.0,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 29.2,
+   "y": 68.7,
+   "partNo": "192-23",
+   "desc": "LOCKWASHER - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 18.4,
+   "y": 66.3,
+   "partNo": "C19417",
+   "desc": "TRAY - tool",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 64.4,
+   "y": 38.1,
+   "partNo": "C16429",
+   "desc": "PIN - seat hinge",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 54.7,
+   "y": 9.7,
+   "partNo": "C18217",
+   "desc": "SEAT",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 10.1,
+   "y": 29.3,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber",
+   "reqd": "8"
+  },
+  {
+   "ref": "9",
+   "x": 10.9,
+   "y": 49.0,
+   "partNo": "C15410",
+   "desc": "CUSHION - rubber",
+   "reqd": "8"
+  },
+  {
+   "ref": "10",
+   "x": 13.6,
+   "y": 52.7,
+   "partNo": "195-2021",
+   "desc": "WASHER - 5/16\" x 1-1/4\" O.D.",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 15.4,
+   "y": 57.9,
+   "partNo": "26-524",
+   "desc": "BOLT - 5/16\" x 1-1/2\" NC hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 4.4,
+   "y": 42.6,
+   "partNo": "C14534",
+   "desc": "BUMPER - seat",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 51.7,
+   "y": 43.6,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex flange",
+   "reqd": "14"
+  },
+  {
+   "ref": "13",
+   "x": 65.2,
+   "y": 75.1,
+   "partNo": "121-106",
+   "desc": "BOLT - 5/16\" x 1/2\" NC hex flange",
+   "reqd": "14"
+  },
+  {
+   "ref": "14",
+   "x": 47.2,
+   "y": 30.7,
+   "partNo": "C17152",
+   "desc": "HINGE - seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 43.2,
+   "y": 92.5,
+   "partNo": "C14728",
+   "desc": "GRIP - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 88.9,
+   "y": 49.5,
+   "variants": [
+    {
+     "serialNote": "L.H.",
+     "partNo": "C17456",
+     "desc": "FENDER - L.H.",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "R.H.",
+     "partNo": "C17457",
+     "desc": "FENDER - R.H.",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 77.0,
+   "y": 83.2,
+   "partNo": "C17491",
+   "desc": "LEVER - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 73.0,
+   "y": 81.2,
+   "partNo": "195-2029",
+   "desc": "WASHER - 7/16\" x 1-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 83.5,
+   "y": 86.5,
+   "partNo": "C17216",
+   "desc": "SPRING - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 88.4,
+   "y": 88.6,
+   "partNo": "C17066",
+   "desc": "WASHER - cupped",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 93.1,
+   "y": 91.2,
+   "partNo": "131-178",
+   "desc": "NUT - lock 3/8\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 68.1,
+   "y": 79.8,
+   "partNo": "113-257",
+   "desc": "BOLT 3/8\" x 2-1/2\" NC hex",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders."
+}

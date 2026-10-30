@@ -1,0 +1,146 @@
+{
+ "sectionTitle": "Electrical System - 646",
+ "breadcrumb": "Electrical System - 646",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/electrical_system_646.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 69.8,
+   "y": 41.4,
+   "partNo": "C18265",
+   "desc": "HARNESS - wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64.1,
+   "y": 3.0,
+   "partNo": "C18283",
+   "desc": "LAMP ASSEMBLY - oil indicator",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 43.3,
+   "y": 69.2,
+   "partNo": "C18266",
+   "desc": "CABLE - battery positive (red 27\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 56.7,
+   "y": 51.5,
+   "partNo": "C14566",
+   "desc": "CABLE - battery ground (black 12\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 23.5,
+   "y": 45.4,
+   "partNo": "C18268",
+   "desc": "WIRE - battery positive to amp. gauge (white 14-1/2\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 27.4,
+   "y": 22.2,
+   "partNo": "C18401",
+   "desc": "WIRE ASSEMBLY - fused (yellow 10-3/4\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 47.5,
+   "y": 16.3,
+   "partNo": "223-31",
+   "desc": "FUSE - 30 amp.",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 30.6,
+   "y": 79.9,
+   "partNo": "C18270",
+   "desc": "WIRE - ignition switch to lights (pink 44\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 37.9,
+   "y": 85.8,
+   "partNo": "C14537",
+   "desc": "CONNECTOR - headlamp",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 72.7,
+   "y": 77.8,
+   "partNo": "C22571",
+   "desc": "HEADLAMP - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 43.8,
+   "y": 91.9,
+   "partNo": "C22571",
+   "desc": "HEADLAMP - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 26.7,
+   "y": 41.8,
+   "partNo": "C18197",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 10.9,
+   "y": 16.6,
+   "partNo": "C21595",
+   "desc": "SWITCH - ignition (includes key)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 7.9,
+   "y": 14.9,
+   "partNo": "C17763",
+   "desc": "KEY - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 30.5,
+   "y": 10.4,
+   "partNo": "C18389",
+   "desc": "GAUGE - ammeter",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 35.7,
+   "y": 66.2,
+   "partNo": "C18203",
+   "desc": "WIRE - solenoid to safety switch (black 14\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 50.2,
+   "y": 55.3,
+   "partNo": "C19055",
+   "desc": "WIRE - safety switch to PTO switch (black 21\")",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: B50213 BULB - oil indicator 12 volt (red) (1); 214-1102 CLIP - wire, grille (2); C19521 CLIP - wire holder (1)."
+}

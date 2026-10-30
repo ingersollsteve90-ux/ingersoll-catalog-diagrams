@@ -1,0 +1,202 @@
+{
+ "sectionTitle": "LT26 Three Point Hitch - Frame, Lift Rods and Arms",
+ "breadcrumb": "LT26 Three Point Hitch - Frame, Lift Rods and Arms",
+ "catalogLabel": "Catalog A1281",
+ "modelNumbers": "Catalog A1281 — Case 644 and 646 Compact Wheel Loaders",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A1281/lt26_hitch_frame_lift_rods_arms.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 28.8,
+   "y": 27.2,
+   "partNo": "C20117",
+   "desc": "HITCH PLATE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 49.8,
+   "y": 10.1,
+   "partNo": "219-405",
+   "desc": "FITTING - lube",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 61.5,
+   "y": 12.1,
+   "partNo": "C14722",
+   "desc": "NUT - lift rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 71.9,
+   "y": 49.5,
+   "partNo": "C14724",
+   "desc": "ROD ASSEMBLY - R.H. lift",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 72.1,
+   "y": 41.0,
+   "partNo": "138-309",
+   "desc": "PIN - roll 1/4 x 4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 82.1,
+   "y": 10.6,
+   "partNo": "132-91",
+   "desc": "PIN - cotter 3/16 x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 55.5,
+   "y": 41.9,
+   "partNo": "132-91",
+   "desc": "PIN - cotter 3/16 x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "6",
+   "x": 3.9,
+   "y": 76.2,
+   "partNo": "132-91",
+   "desc": "PIN - cotter 3/16 x 1\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "7",
+   "x": 58.8,
+   "y": 37.9,
+   "partNo": "195-541",
+   "desc": "WASHER - plain 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 5.4,
+   "y": 70.2,
+   "partNo": "195-541",
+   "desc": "WASHER - plain 5/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 87.7,
+   "y": 20.8,
+   "partNo": "C14715",
+   "desc": "ARM - lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 12.2,
+   "y": 57.1,
+   "partNo": "C14715",
+   "desc": "ARM - lift",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 50.6,
+   "y": 82.6,
+   "partNo": "C14991",
+   "desc": "CHAIN - stay 19 links",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 10.6,
+   "y": 81.5,
+   "partNo": "113-118",
+   "desc": "BOLT - 5/16\" x 5/8\" NC hex, zinc plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 12.8,
+   "y": 88.2,
+   "partNo": "131-176",
+   "desc": "NUT - lock 5/16\" NC hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 25.9,
+   "y": 91.3,
+   "partNo": "B52118",
+   "desc": "PIN - klik",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 48.5,
+   "y": 50.6,
+   "partNo": "A30338",
+   "desc": "PIN - klik",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 19.0,
+   "y": 46.3,
+   "partNo": "C14725",
+   "desc": "ROD - lift L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 69.8,
+   "y": 55.7,
+   "partNo": "C14717",
+   "desc": "PIN - clevis",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 72.8,
+   "y": 69.3,
+   "partNo": "C14703",
+   "desc": "CENTER TUBE ASSEMBLY",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 76.4,
+   "y": 76.8,
+   "partNo": "C14709",
+   "desc": "BALL END ASSEMBLY R.H. THREAD",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 68.8,
+   "y": 60.5,
+   "partNo": "C14710",
+   "desc": "BALL END ASSEMBLY L.H. THREAD",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 61.4,
+   "y": 83.3,
+   "partNo": "138-59",
+   "desc": "PIN - roll 1/8\" x 7/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 85.4,
+   "y": 80.9,
+   "partNo": "C16128",
+   "desc": "PIN - clevis 5/8\" x 3\"",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Case 644 (Kohler engine, S/N 9662906-9698283) and 646 (Onan engine, S/N 9663323-9698982) compact wheel loaders.\nAlso listed, not shown on diagram: C14712 LINK ASSEMBLY (1)."
+}
