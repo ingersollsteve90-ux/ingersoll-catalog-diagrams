@@ -1,0 +1,246 @@
+{
+ "sectionTitle": "Steering Gear",
+ "breadcrumb": "Steering Gear",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/steering_gear.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 18.5,
+   "y": 3.42,
+   "partNo": "C10569",
+   "desc": "CAP - steering wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 20.28,
+   "y": 6.59,
+   "partNo": "A70392",
+   "desc": "RING - cap retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 20.77,
+   "y": 10.56,
+   "partNo": "25-1510",
+   "desc": "NUT - jam 5/8\" N.F. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 34.4,
+   "y": 15.61,
+   "partNo": "A70058",
+   "desc": "WHEEL - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 28.58,
+   "y": 29.0,
+   "partNo": "C12126",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 39.84,
+   "y": 51.52,
+   "partNo": "T25683",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 72.83,
+   "y": 67.78,
+   "partNo": "T25683",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 41.71,
+   "y": 54.99,
+   "partNo": "C12125",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 43.2,
+   "y": 59.35,
+   "partNo": "C12205",
+   "desc": "BUSHING - flanged",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 46.26,
+   "y": 68.67,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12116",
+     "desc": "SHAFT - steering (155)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "C11685",
+     "desc": "SHAFT - steering (195)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "10",
+   "x": 15.83,
+   "y": 65.7,
+   "partNo": "131-351",
+   "desc": "NUT - lock 5/16\" N.C. hex (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 15.83,
+   "y": 69.37,
+   "partNo": "G49048",
+   "desc": "WASHER - plain (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 18.11,
+   "y": 73.43,
+   "partNo": "C13596",
+   "desc": "BUSHING - flanged (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 21.37,
+   "y": 80.67,
+   "partNo": "C13614",
+   "desc": "GEAR - steering (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 28.68,
+   "y": 94.66,
+   "partNo": "15-540",
+   "desc": "BOLT - 5/16\" x 2-1/2\" N.C. hex (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 72.83,
+   "y": 71.35,
+   "partNo": "195-2082",
+   "desc": "WASHER (**)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 73.62,
+   "y": 74.62,
+   "partNo": "C12206",
+   "desc": "BUSHING (**)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 73.92,
+   "y": 78.99,
+   "partNo": "NSS",
+   "desc": "GEAR - steering (Order C13801 Kit) (**)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 80.53,
+   "y": 8.08,
+   "partNo": "C13801",
+   "desc": "KIT - steering gear (Includes Ref. No's. 19 through 26) (**)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 75.89,
+   "y": 11.85,
+   "partNo": "219-57",
+   "desc": "FITTING - lube",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 74.51,
+   "y": 14.62,
+   "partNo": "129-167",
+   "desc": "NUT - jam 5/8\" N.C. hex Z.P.",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 74.71,
+   "y": 20.18,
+   "partNo": "129-167",
+   "desc": "NUT - jam 5/8\" N.C. hex Z.P.",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 75.4,
+   "y": 17.5,
+   "partNo": "193-34",
+   "desc": "LOCKWASHER - 5/8\" internal tooth",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 74.21,
+   "y": 22.75,
+   "partNo": "F62147",
+   "desc": "WASHER - plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 74.21,
+   "y": 26.13,
+   "partNo": "129-582",
+   "desc": "NUT - jam 7/8\" N.C. hex Z.P.",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 75.2,
+   "y": 29.3,
+   "partNo": "193-36",
+   "desc": "LOCKWASHER - 7/8\" internal tooth",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 75.6,
+   "y": 32.57,
+   "partNo": "C13795",
+   "desc": "BUSHING - flanged",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 76.39,
+   "y": 39.32,
+   "partNo": "C13800",
+   "desc": "GEAR - steering",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Used on Model 155 Tractors with Serial Number 9618951 and above; used on Model 195 Tractors with Serial Number 9622282 and above.\n** Applicable to Model 155 Tractors with Serial Number 9618950 and below; applicable to Model 195 Tractors with Serial Number 9622281 and below.",
+ "dotSizePct": 3.41
+}

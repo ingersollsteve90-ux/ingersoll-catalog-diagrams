@@ -1,0 +1,491 @@
+{
+ "sectionTitle": "Transmission and Final Drive",
+ "breadcrumb": "Transmission and Final Drive",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/transmission_final_drive.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 53.85,
+   "y": 85.99,
+   "partNo": "C11640",
+   "desc": "CASE - transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 34.92,
+   "y": 68.87,
+   "partNo": "A70137",
+   "desc": "GASKET - housing to case",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 56.04,
+   "y": 56.73,
+   "partNo": "A70137",
+   "desc": "GASKET - housing to case",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 65.01,
+   "y": 52.55,
+   "partNo": "A70142",
+   "desc": "BUSHING - flanged, rear axle housing",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 32.03,
+   "y": 88.08,
+   "partNo": "A70142",
+   "desc": "BUSHING - flanged, rear axle housing",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 26.75,
+   "y": 90.57,
+   "partNo": "C12147",
+   "desc": "HOUSING - rear axle, right hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 70.29,
+   "y": 51.65,
+   "partNo": "C12146",
+   "desc": "HOUSING - rear axle, left hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 18.87,
+   "y": 94.15,
+   "partNo": "A70141",
+   "desc": "BUSHING - plain, rear axle housing",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 86.44,
+   "y": 57.52,
+   "partNo": "A70141",
+   "desc": "BUSHING - plain, rear axle housing",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 90.92,
+   "y": 54.84,
+   "partNo": "A70143",
+   "desc": "SEAL - rear axle housing",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 15.09,
+   "y": 96.14,
+   "partNo": "A70143",
+   "desc": "SEAL - rear axle housing",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 72.88,
+   "y": 33.14,
+   "partNo": "C12144",
+   "desc": "SHAFT - axle, left hand (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8A",
+   "x": 81.95,
+   "y": 16.72,
+   "partNo": "C12584",
+   "desc": "SHAFT - axle, left hand (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 25.45,
+   "y": 73.35,
+   "partNo": "C12143",
+   "desc": "SHAFT - axle, right hand (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9A",
+   "x": 7.42,
+   "y": 52.25,
+   "partNo": "C12583",
+   "desc": "SHAFT - axle, right hand (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 61.72,
+   "y": 82.21,
+   "partNo": "221-4",
+   "desc": "PLUG - pipe, 1/2\" square head",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 70.39,
+   "y": 36.92,
+   "partNo": "138-102",
+   "desc": "PIN - axle retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 30.13,
+   "y": 70.76,
+   "partNo": "138-102",
+   "desc": "PIN - axle retaining",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 94.71,
+   "y": 60.41,
+   "partNo": "C10259",
+   "desc": "COUPLING - motor input",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 72.39,
+   "y": 72.15,
+   "partNo": "C12156",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 95.4,
+   "y": 74.74,
+   "partNo": "B18208",
+   "desc": "RING - coupling, retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 91.42,
+   "y": 61.21,
+   "partNo": "C10291",
+   "desc": "WASHER - input shaft stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 91.32,
+   "y": 76.53,
+   "partNo": "C11998",
+   "desc": "SHAFT, transmission input",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 56.24,
+   "y": 48.27,
+   "partNo": "C12009",
+   "desc": "CLUSTER - input gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 40.9,
+   "y": 92.46,
+   "partNo": "C10299",
+   "desc": "RACE - bearing inner",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 77.67,
+   "y": 83.2,
+   "partNo": "C10299",
+   "desc": "RACE - bearing inner",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 81.95,
+   "y": 81.41,
+   "partNo": "F19478",
+   "desc": "BEARING - input shaft, middle",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 36.91,
+   "y": 94.25,
+   "partNo": "C12013",
+   "desc": "BEARING - input shaft, end",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 78.07,
+   "y": 62.1,
+   "partNo": "A70127",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C., special sealing",
+   "reqd": "12"
+  },
+  {
+   "ref": "21",
+   "x": 22.36,
+   "y": 91.66,
+   "partNo": "A70127",
+   "desc": "BOLT - 3/8\" x 1-1/4\" N.C., special sealing",
+   "reqd": "12"
+  },
+  {
+   "ref": "22",
+   "x": 37.91,
+   "y": 4.08,
+   "partNo": "C10303",
+   "desc": "PLUG - breather, transmission",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 68.4,
+   "y": 79.02,
+   "partNo": "13-820",
+   "desc": "BOLT - 1/2\" x 1-1/4\", case to frame",
+   "reqd": "6"
+  },
+  {
+   "ref": "24",
+   "x": 65.01,
+   "y": 80.51,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER, 1/2\" SAE",
+   "reqd": "6"
+  },
+  {
+   "ref": "25",
+   "x": 29.14,
+   "y": 17.81,
+   "partNo": "C10302",
+   "desc": "GASKET - transmission case cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 53.95,
+   "y": 4.08,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16\" SAE",
+   "reqd": "7"
+  },
+  {
+   "ref": "27",
+   "x": 41.59,
+   "y": 4.28,
+   "partNo": "13-512",
+   "desc": "BOLT - 5/16\" x 3/4\" N.C., trans. cover",
+   "reqd": "7"
+  },
+  {
+   "ref": "28",
+   "x": 59.33,
+   "y": 3.78,
+   "partNo": "C10296",
+   "desc": "COVER - transmission case",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 60.43,
+   "y": 50.56,
+   "partNo": "C12011",
+   "desc": "FORK - gear shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 82.85,
+   "y": 65.39,
+   "partNo": "C10254",
+   "desc": "LEVER - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 68.4,
+   "y": 74.24,
+   "partNo": "C10261",
+   "desc": "SPRING - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 69.89,
+   "y": 62.6,
+   "partNo": "138-2002",
+   "desc": "PIN - shift fork, locating",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 40.5,
+   "y": 31.05,
+   "partNo": "C10253",
+   "desc": "GEAR - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 55.64,
+   "y": 30.75,
+   "partNo": "C10253",
+   "desc": "GEAR - differential",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 28.44,
+   "y": 42.4,
+   "partNo": "138-2036",
+   "desc": "PIN - differential pin, locking",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 47.87,
+   "y": 45.18,
+   "partNo": "138-2036",
+   "desc": "PIN - differential pin, locking",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 28.74,
+   "y": 54.74,
+   "partNo": "132-69",
+   "desc": "PIN - cotter, 5/32\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "35",
+   "x": 22.36,
+   "y": 42.79,
+   "partNo": "132-69",
+   "desc": "PIN - cotter, 5/32\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "36",
+   "x": 29.04,
+   "y": 23.79,
+   "partNo": "C10252",
+   "desc": "PINION - differential",
+   "reqd": "4"
+  },
+  {
+   "ref": "36",
+   "x": 55.64,
+   "y": 42.4,
+   "partNo": "C10252",
+   "desc": "PINION - differential",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 24.16,
+   "y": 26.87,
+   "partNo": "A70131",
+   "desc": "SPACER - differential pinion",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 56.24,
+   "y": 36.52,
+   "partNo": "A70131",
+   "desc": "SPACER - differential pinion",
+   "reqd": "4"
+  },
+  {
+   "ref": "38",
+   "x": 45.88,
+   "y": 30.85,
+   "partNo": "C10243",
+   "desc": "HOUSING - differential gear",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 28.14,
+   "y": 49.26,
+   "partNo": "C10298",
+   "desc": "PIN - differential pinion",
+   "reqd": "4"
+  },
+  {
+   "ref": "39",
+   "x": 21.96,
+   "y": 32.25,
+   "partNo": "C10298",
+   "desc": "PIN - differential pinion",
+   "reqd": "4"
+  },
+  {
+   "ref": "40",
+   "x": 51.16,
+   "y": 30.85,
+   "partNo": "C10292",
+   "desc": "WASHER - transmission",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 28.44,
+   "y": 45.78,
+   "partNo": "C10292",
+   "desc": "WASHER - transmission",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 67.6,
+   "y": 6.87,
+   "partNo": "95-5",
+   "desc": "WASHER - 5/16\" SAE, plain",
+   "reqd": "3"
+  },
+  {
+   "ref": "42",
+   "x": 67.4,
+   "y": 3.78,
+   "partNo": "13-510",
+   "desc": "BOLT - 5/16\" x 5/8\" trans. cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 76.27,
+   "y": 70.26,
+   "partNo": "C11332",
+   "desc": "SEAL - shift shaft oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 62.62,
+   "y": 91.66,
+   "partNo": "C12729",
+   "desc": "BOLT - 1/2\" x 1\" N.C. Hex, Socket Button Head (155)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.08
+}

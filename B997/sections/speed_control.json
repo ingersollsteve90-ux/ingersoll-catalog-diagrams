@@ -1,0 +1,102 @@
+{
+ "sectionTitle": "Speed Control",
+ "breadcrumb": "Speed Control",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/speed_control.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 19.46,
+   "y": 88.35,
+   "partNo": "132-320",
+   "desc": "PIN - cotter 3/32\" x 3/4\" Z.P.",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 56.99,
+   "y": 20.1,
+   "partNo": "C12139",
+   "desc": "LEVER - speed control",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 45.76,
+   "y": 59.2,
+   "variants": [
+    {
+     "serialNote": "With C12149 control valve",
+     "partNo": "C11943",
+     "desc": "ROD - speed control (Use with C12149 control valve)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "With C13341 control valve",
+     "partNo": "C14059",
+     "desc": "ROD - speed control (Use with C13341 control valve)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 34.53,
+   "y": 10.45,
+   "partNo": "C12093",
+   "desc": "BUSHING - fliplock",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 46.8,
+   "y": 84.87,
+   "partNo": "C11942",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 24.92,
+   "y": 6.87,
+   "partNo": "A37247",
+   "desc": "KNOB - speed control lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 46.8,
+   "y": 92.83,
+   "partNo": "C12127",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 89.51,
+   "y": 52.93,
+   "partNo": "C12168",
+   "desc": "JOINT - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 90.1,
+   "y": 74.02,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" std. plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 90.54,
+   "y": 81.48,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" N.C., hex, Z.P.",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 6.78
+}

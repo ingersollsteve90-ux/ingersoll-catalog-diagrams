@@ -1,0 +1,172 @@
+{
+ "sectionTitle": "Hydraulic Pump",
+ "breadcrumb": "Hydraulic Pump",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/hydraulic_pump.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 18.27,
+   "y": 61.81,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C10493",
+     "desc": "PUMP - hydraulic (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C10258",
+     "desc": "PUMP - hydraulic (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 32.57,
+   "y": 7.24,
+   "partNo": "13-652",
+   "desc": "BOLT - 3/8\" x 3-1/4\" N.C. hex head",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 39.43,
+   "y": 10.92,
+   "partNo": "195-2028",
+   "desc": "WASHER - special",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 56.42,
+   "y": 5.44,
+   "partNo": "C11644",
+   "desc": "COVER - rear, pump body",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 64.47,
+   "y": 9.13,
+   "partNo": "A72003",
+   "desc": "SEAL - pump cover",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 60.2,
+   "y": 86.61,
+   "partNo": "A72003",
+   "desc": "SEAL - pump cover",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 70.83,
+   "y": 12.71,
+   "partNo": "A35956",
+   "desc": "BEARING - pump gear",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 43.61,
+   "y": 77.94,
+   "partNo": "A35956",
+   "desc": "BEARING - pump gear",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 79.48,
+   "y": 17.39,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "C11642",
+     "desc": "GEAR - pump drive (For C10258 pump on Model 155)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "A72005",
+     "desc": "GEAR - pump drive (For C10493 pump on Model 195)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 78.29,
+   "y": 42.19,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "C11643",
+     "desc": "GEAR - pump driven (For C10258 pump on Model 155)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "A72004",
+     "desc": "GEAR - pump driven (For C10493 pump on Model 195)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 89.71,
+   "y": 22.37,
+   "partNo": "126-12",
+   "desc": "KEY - Woodruff #6",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 29.2,
+   "y": 69.88,
+   "partNo": "NSS",
+   "desc": "BODY - pump (Order C10258 or C10493)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 48.18,
+   "y": 80.23,
+   "partNo": "A72001",
+   "desc": "GASKET - brass, front cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 53.84,
+   "y": 83.02,
+   "partNo": "A72002",
+   "desc": "SPACER - gasket, front cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 67.26,
+   "y": 90.49,
+   "partNo": "A72007",
+   "desc": "COVER - front pump body",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 75.01,
+   "y": 94.67,
+   "partNo": "A50421",
+   "desc": "SEAL - pump shaft",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.71
+}

@@ -1,0 +1,447 @@
+{
+ "sectionTitle": "Hydraulic System (Late)",
+ "breadcrumb": "Hydraulic System (Late)",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/hydraulic_system_late.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 75.87,
+   "y": 58.52,
+   "partNo": "A70109",
+   "desc": "SUPPORT - hydraulic pump mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 51.46,
+   "y": 68.6,
+   "partNo": "115-204",
+   "desc": "BOLT - 3/8\" x 1\" N.C. hex Z.P.",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 55.14,
+   "y": 71.0,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" Z.P.",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 51.36,
+   "y": 50.14,
+   "partNo": "166-561",
+   "desc": "BOLT - 7/16\" x 1\" Ferry Cap Z.P.",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 53.55,
+   "y": 52.84,
+   "partNo": "193-31",
+   "desc": "LOCKWASHER - 7/16\" internal tooth",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 65.51,
+   "y": 59.12,
+   "partNo": "W5063-S",
+   "desc": "KEY - 1/4\" square x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 66.7,
+   "y": 52.84,
+   "partNo": "218-5059",
+   "desc": "FITTING - \"O\" ring 1/2 tube x 3/4\" thread",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 20.17,
+   "y": 57.43,
+   "partNo": "218-5059",
+   "desc": "FITTING - \"O\" ring 1/2 tube x 3/4\" thread",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 40.6,
+   "y": 45.45,
+   "partNo": "218-5059",
+   "desc": "FITTING - \"O\" ring 1/2 tube x 3/4\" thread",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 13.3,
+   "y": 53.14,
+   "partNo": "218-5059",
+   "desc": "FITTING - \"O\" ring 1/2 tube x 3/4\" thread",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 62.52,
+   "y": 56.33,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 37.11,
+   "y": 43.96,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 9.61,
+   "y": 50.94,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "8",
+   "x": 14.89,
+   "y": 56.43,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING - 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 40.0,
+   "y": 65.71,
+   "partNo": "218-5108",
+   "desc": "FITTING - \"O\" ring 90° 3/4\" tube x 1-1/16\" thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 45.18,
+   "y": 65.01,
+   "partNo": "218-5008",
+   "desc": "\"O\" RING - 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 55.44,
+   "y": 36.77,
+   "partNo": "C14091",
+   "desc": "TUBE - rear valve to upper motor port (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 36.61,
+   "y": 40.17,
+   "partNo": "C14090",
+   "desc": "TUBE - front valve to lower motor port (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 62.52,
+   "y": 74.59,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12067",
+     "desc": "TUBE - transmission to heat exchanger (155)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "C10267",
+     "desc": "TUBE - transmission to heat exchanger (195)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 25.95,
+   "y": 71.99,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12070",
+     "desc": "TUBE - pump to transmission (155)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "C10264",
+     "desc": "TUBE - pump to transmission (195)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "15",
+   "x": 78.36,
+   "y": 41.06,
+   "partNo": "C13414",
+   "desc": "TUBE - pump to valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 54.35,
+   "y": 90.95,
+   "partNo": "C13663",
+   "desc": "TUBE - valve to heat exchanger",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 56.64,
+   "y": 55.03,
+   "partNo": "A70111",
+   "desc": "COUPLING - pump drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 8.72,
+   "y": 71.29,
+   "partNo": "A70117",
+   "desc": "FITTING - transmission w/filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 92.41,
+   "y": 69.6,
+   "partNo": "C12072",
+   "desc": "EXCHANGER - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 86.43,
+   "y": 68.0,
+   "partNo": "C10348",
+   "desc": "BRACKET - heat exchanger mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 77.96,
+   "y": 69.8,
+   "partNo": "171-209",
+   "desc": "SCREW - 1/4\" x 1\" N.C. flat hd. Phillips Z.P.",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 82.04,
+   "y": 70.6,
+   "partNo": "193-52",
+   "desc": "LOCKWASHER - 1/4\" external tooth",
+   "reqd": "4"
+  },
+  {
+   "ref": "23",
+   "x": 30.04,
+   "y": 76.68,
+   "partNo": "218-455",
+   "desc": "FITTING - 5/8\" tube x 1/2\" male pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 61.22,
+   "y": 82.47,
+   "partNo": "214-253",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "24",
+   "x": 74.27,
+   "y": 89.55,
+   "partNo": "214-253",
+   "desc": "CLAMP - hose",
+   "reqd": "4"
+  },
+  {
+   "ref": "25",
+   "x": 69.49,
+   "y": 87.16,
+   "partNo": "C18721",
+   "desc": "HOSE - 5/8\" heat exchanger",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 13.4,
+   "y": 32.08,
+   "partNo": "A70128",
+   "desc": "GASKET - motor to case",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 8.02,
+   "y": 30.39,
+   "partNo": "A70127",
+   "desc": "BOLT - special 3/8\" x 1-1/4\" jay lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "28",
+   "x": 31.93,
+   "y": 32.78,
+   "partNo": "218-5060",
+   "desc": "FITTING - \"O\" ring 1/2 tube x 7/8 thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 38.41,
+   "y": 22.01,
+   "partNo": "218-5060",
+   "desc": "FITTING - \"O\" ring 1/2 tube x 7/8 thread",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 28.24,
+   "y": 57.73,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING - 5/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "29",
+   "x": 27.94,
+   "y": 30.99,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING - 5/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "29",
+   "x": 32.63,
+   "y": 19.21,
+   "partNo": "218-5007",
+   "desc": "\"O\" RING - 5/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "30",
+   "x": 18.88,
+   "y": 14.52,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12305",
+     "desc": "MOTOR - hydraulic (155) (Repairs see page 41)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "C12304",
+     "desc": "MOTOR - hydraulic (195) (Repairs see page 41)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "31",
+   "x": 35.72,
+   "y": 57.73,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "C10258",
+     "desc": "PUMP - hydraulic (155) (Repairs see page 39)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "C10493",
+     "desc": "PUMP - hydraulic (195) (Repairs see page 39)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "32",
+   "x": 25.45,
+   "y": 38.57,
+   "partNo": "C13341",
+   "desc": "VALVE - hydraulic control (Repairs see page 37)",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 31.83,
+   "y": 58.02,
+   "partNo": "218-5062",
+   "desc": "FITTING - \"O\" ring 5/8 tube x 7/8 thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 12.7,
+   "y": 39.87,
+   "partNo": "73-528",
+   "desc": "SCREW - 5/16\" x 1-3/4\" N.C. flat head",
+   "reqd": "3"
+  },
+  {
+   "ref": "35",
+   "x": 12.8,
+   "y": 45.05,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "36",
+   "x": 11.41,
+   "y": 48.15,
+   "partNo": "25-105",
+   "desc": "NUT - 5/16\" N.C. hex",
+   "reqd": "3"
+  },
+  {
+   "ref": "37",
+   "x": 49.07,
+   "y": 63.81,
+   "partNo": "126-12",
+   "desc": "KEY - Woodruff",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 74.17,
+   "y": 26.9,
+   "partNo": "C14093",
+   "desc": "TUBE - rear valve to lower motor post (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 81.05,
+   "y": 30.29,
+   "partNo": "C14092",
+   "desc": "TUBE - rear valve to upper motor post (195)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Used on Model 155 tractors S/N 9623328 and after and Model 195 tractors S/N 9627528 and after.",
+ "dotSizePct": 3.23
+}

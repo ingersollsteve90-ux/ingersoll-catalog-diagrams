@@ -1,0 +1,321 @@
+{
+ "sectionTitle": "Carburetor (A72073)",
+ "breadcrumb": "Carburetor (A72073)",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/carburetor_a72073.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 10.16,
+   "y": 16.79,
+   "partNo": "A72077",
+   "desc": "JET ASSY - high speed & idle adj.",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 10.96,
+   "y": 24.65,
+   "partNo": "KO200383",
+   "desc": "SPRING - idle jet",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 10.76,
+   "y": 29.83,
+   "partNo": "A72085",
+   "desc": "SPRING - choke detent ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 10.46,
+   "y": 34.31,
+   "partNo": "211-3",
+   "desc": "BALL - 1/8\" steel",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 10.16,
+   "y": 37.79,
+   "partNo": "F19895",
+   "desc": "SCREW - #3-48 rd. hd. mach., brass",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 89.93,
+   "y": 26.15,
+   "partNo": "F19895",
+   "desc": "SCREW - #3-48 rd. hd. mach., brass",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 10.07,
+   "y": 40.57,
+   "partNo": "A72074",
+   "desc": "VALVE ASSY - choke disc",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 66.75,
+   "y": 82.37,
+   "partNo": "KO200443",
+   "desc": "INLET NEEDLE & SEAT ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 29.98,
+   "y": 47.04,
+   "partNo": "KO200443",
+   "desc": "INLET NEEDLE & SEAT ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 10.07,
+   "y": 43.86,
+   "partNo": "A72102",
+   "desc": "GASKET - needle seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 9.87,
+   "y": 53.61,
+   "partNo": "F19892",
+   "desc": "PIN - carburetor float",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 26.42,
+   "y": 82.47,
+   "partNo": "F19892",
+   "desc": "PIN - carburetor float",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 9.87,
+   "y": 56.4,
+   "partNo": "KO200408",
+   "desc": "FLOAT ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 9.87,
+   "y": 58.98,
+   "partNo": "KO200375",
+   "desc": "GASKET - carburetor bowl ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 25.92,
+   "y": 87.34,
+   "partNo": "KO200375",
+   "desc": "GASKET - carburetor bowl ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 9.57,
+   "y": 62.66,
+   "partNo": "KO200439",
+   "desc": "GASKET - carburetor bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 26.22,
+   "y": 90.62,
+   "partNo": "KO200439",
+   "desc": "GASKET - carburetor bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 10.66,
+   "y": 68.34,
+   "partNo": "KO235448",
+   "desc": "BOWL - carburetor",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 10.07,
+   "y": 73.51,
+   "partNo": "KO235447",
+   "desc": "NUT & GASKET ASSY - bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 81.12,
+   "y": 72.52,
+   "partNo": "KO200372",
+   "desc": "GASKET - bowl screw",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 26.02,
+   "y": 94.8,
+   "partNo": "KO200372",
+   "desc": "GASKET - bowl screw",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 9.37,
+   "y": 49.63,
+   "partNo": "A72101",
+   "desc": "SEAT - high idle jet",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 88.75,
+   "y": 41.57,
+   "partNo": "A72075",
+   "desc": "SHAFT & LEVER ASSY - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 90.53,
+   "y": 38.98,
+   "partNo": "A72087",
+   "desc": "PLUG - 3/8\" expansion",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 89.64,
+   "y": 34.21,
+   "partNo": "A72098",
+   "desc": "SPRING - lean-rich adjusting screw",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 90.43,
+   "y": 31.52,
+   "partNo": "A72099",
+   "desc": "SCREW - adjusting (lean-rich)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 90.13,
+   "y": 28.73,
+   "partNo": "A72090",
+   "desc": "VALVE - throttle disc",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 75.17,
+   "y": 21.17,
+   "partNo": "A72088",
+   "desc": "PLUG - carb. body passage",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 75.47,
+   "y": 17.19,
+   "partNo": "A72089",
+   "desc": "SHAFT - throttle lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 76.26,
+   "y": 13.81,
+   "partNo": "A72097",
+   "desc": "SEAL - throttle shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 75.76,
+   "y": 4.16,
+   "partNo": "A72094",
+   "desc": "DOG ASSY - throttle shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 76.06,
+   "y": 9.23,
+   "partNo": "A72092",
+   "desc": "SCREW - idle stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 76.06,
+   "y": 6.64,
+   "partNo": "KO200380",
+   "desc": "SPRING - idle screw tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 26.42,
+   "y": 8.73,
+   "partNo": "169-77",
+   "desc": "SCREW - throttle dog clamp #8 x 1/2\" N.C. fill. hd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 26.51,
+   "y": 6.05,
+   "partNo": "A72096",
+   "desc": "LEVER - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 26.02,
+   "y": 3.46,
+   "partNo": "A72095",
+   "desc": "SCREW ASSY - throttle lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 90.13,
+   "y": 36.59,
+   "partNo": "NSS",
+   "desc": "BODY - carb. (Order A72073 Carb. Assy)",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 51.49,
+   "y": 78.78,
+   "partNo": "A72103",
+   "desc": "KIT - carburetor repair",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "A72073",
+   "desc": "CARBURETOR ASSY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 6.6
+}

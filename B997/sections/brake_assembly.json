@@ -1,0 +1,178 @@
+{
+ "sectionTitle": "Brake Assembly",
+ "breadcrumb": "Brake Assembly",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/brake_assembly.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 44.98,
+   "y": 72.13,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12140",
+     "desc": "BRACKET - brake - 155",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "C12141",
+     "desc": "BRACKET - brake - 195",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 84.74,
+   "y": 36.32,
+   "partNo": "C12621",
+   "desc": "CARRIER - solid side (includes lining)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 79.66,
+   "y": 33.34,
+   "partNo": "NSS",
+   "desc": "LINING - friction",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 65.41,
+   "y": 32.34,
+   "partNo": "151-106",
+   "desc": "RIVET - lining",
+   "reqd": "8"
+  },
+  {
+   "ref": "5",
+   "x": 75.47,
+   "y": 43.18,
+   "partNo": "C12624",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 58.43,
+   "y": 13.34,
+   "partNo": "C12624",
+   "desc": "SPACER",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 60.53,
+   "y": 56.91,
+   "partNo": "C12620",
+   "desc": "CARRIER - cam side (includes lining)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 32.33,
+   "y": 72.92,
+   "partNo": "C12623",
+   "desc": "CAM - actuating",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 50.46,
+   "y": 55.91,
+   "partNo": "C13811",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 11.21,
+   "y": 90.43,
+   "partNo": "C14652",
+   "desc": "RING - external retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 18.08,
+   "y": 83.07,
+   "partNo": "C12625",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 29.04,
+   "y": 83.77,
+   "partNo": "C12619",
+   "desc": "CAM - actuator",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 88.22,
+   "y": 6.98,
+   "partNo": "114-201",
+   "desc": "BOLT - 3/8\" x 2-1/4\" N.F. Hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 4.53,
+   "y": 59.2,
+   "partNo": "131-366",
+   "desc": "NUT - lock, 3/8\" N.F.",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 24.36,
+   "y": 87.94,
+   "partNo": "131-366",
+   "desc": "NUT - lock, 3/8\" N.F.",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 79.66,
+   "y": 39.6,
+   "partNo": "O1594-N",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 62.42,
+   "y": 8.37,
+   "partNo": "O1594-N",
+   "desc": "WASHER",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 81.55,
+   "y": 57.8,
+   "partNo": "C12656",
+   "desc": "KIT - brake lining",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "NSS",
+   "desc": "LINING - friction (in C12656 kit)",
+   "reqd": "4"
+  },
+  {
+   "ref": "—",
+   "partNo": "114-213",
+   "desc": "RIVET - lining (in C12656 kit)",
+   "reqd": "16"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.34
+}

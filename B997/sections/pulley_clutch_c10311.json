@@ -1,0 +1,203 @@
+{
+ "sectionTitle": "Pulley Clutch (C10311)",
+ "breadcrumb": "Pulley Clutch (C10311)",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/pulley_clutch_c10311.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 93.89,
+   "y": 57.88,
+   "partNo": "C13086",
+   "desc": "RING - retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 92.11,
+   "y": 27.92,
+   "partNo": "C13086",
+   "desc": "RING - retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 86.58,
+   "y": 25.44,
+   "partNo": "C13089",
+   "desc": "RETAINER",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 36.85,
+   "y": 3.61,
+   "partNo": "T36619",
+   "desc": "COVER - cam",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 55.83,
+   "y": 43.1,
+   "partNo": "T36615",
+   "desc": "SPACER - shim",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "5",
+   "x": 52.17,
+   "y": 40.22,
+   "partNo": "C13081",
+   "desc": "SPACER - drive plate",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 47.43,
+   "y": 35.06,
+   "partNo": "C13080",
+   "desc": "PLATE - friction",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 34.97,
+   "y": 67.21,
+   "partNo": "C13077",
+   "desc": "WASHER - spring",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 30.23,
+   "y": 32.68,
+   "partNo": "C13077",
+   "desc": "WASHER - spring",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 22.12,
+   "y": 57.49,
+   "partNo": "NSS",
+   "desc": "HUB - assembly (order C19696 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 75.9,
+   "y": 19.38,
+   "partNo": "C13087",
+   "desc": "SPRING - load",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 63.94,
+   "y": 14.62,
+   "partNo": "NSS",
+   "desc": "RING - stop (furnished with Part No. C13085)",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 57.61,
+   "y": 13.93,
+   "partNo": "NSS",
+   "desc": "RING - stop (furnished with Part No. C13085)",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 62.36,
+   "y": 43.5,
+   "partNo": "NSS",
+   "desc": "RING - stop (furnished with Part No. C13085)",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 64.93,
+   "y": 45.98,
+   "partNo": "C13085",
+   "desc": "BEARING - cam w/stop ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 47.13,
+   "y": 5.79,
+   "partNo": "C13083",
+   "desc": "CAM - assembly",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 81.53,
+   "y": 49.45,
+   "partNo": "C13083",
+   "desc": "CAM - assembly",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 20.74,
+   "y": 28.81,
+   "partNo": "C13076",
+   "desc": "SPACER - pulley bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 42.29,
+   "y": 70.98,
+   "partNo": "C13076",
+   "desc": "SPACER - pulley bearing",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 80.15,
+   "y": 79.22,
+   "partNo": "C14095",
+   "desc": "PULLEY - (Requires C14039 ring)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 54.25,
+   "y": 74.06,
+   "partNo": "C13079",
+   "desc": "BEARING - pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 81.73,
+   "y": 65.92,
+   "partNo": "211-9",
+   "desc": "BALL - cam",
+   "reqd": "3"
+  },
+  {
+   "ref": "16",
+   "x": 92.41,
+   "y": 53.52,
+   "partNo": "211-9",
+   "desc": "BALL - cam",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 64.63,
+   "y": 77.13,
+   "partNo": "C14039",
+   "desc": "RING - pulley tolerance",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Order the C19696 clutch kit for replacement.",
+ "dotSizePct": 3.2
+}

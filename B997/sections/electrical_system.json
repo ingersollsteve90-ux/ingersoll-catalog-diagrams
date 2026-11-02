@@ -1,0 +1,273 @@
+{
+ "sectionTitle": "Electrical System",
+ "breadcrumb": "Electrical System",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/electrical_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 85.72,
+   "y": 64.23,
+   "partNo": "A70202",
+   "desc": "STARTER - generator",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 56.64,
+   "y": 36.71,
+   "partNo": "C10458",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 26.85,
+   "y": 5.1,
+   "partNo": "C11247",
+   "desc": "SWITCH - starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 44.18,
+   "y": 24.74,
+   "partNo": "C13985",
+   "desc": "SWITCH - ignition (Includes key)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 32.53,
+   "y": 15.37,
+   "partNo": "C12684",
+   "desc": "KEY - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 16.89,
+   "y": 25.34,
+   "partNo": "C10474",
+   "desc": "SWITCH - light",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 86.52,
+   "y": 12.08,
+   "partNo": "A70221",
+   "desc": "REGULATOR - voltage 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 73.97,
+   "y": 93.75,
+   "partNo": "A24572",
+   "desc": "HEADLAMP - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 77.55,
+   "y": 96.24,
+   "partNo": "A11276",
+   "desc": "GASKET - headlight retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 31.53,
+   "y": 67.52,
+   "partNo": "M20007",
+   "desc": "SPARK PLUG (Includes gasket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 41.49,
+   "y": 74.4,
+   "partNo": "A27251",
+   "desc": "GASKET - spark plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 50.36,
+   "y": 71.91,
+   "partNo": "KO238057",
+   "desc": "CABLE - high tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 60.32,
+   "y": 78.39,
+   "partNo": "KO230722",
+   "desc": "CONDENSER",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 36.21,
+   "y": 85.77,
+   "partNo": "KO231281",
+   "desc": "COIL - ignition 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 24.56,
+   "y": 78.89,
+   "partNo": "KO232535",
+   "desc": "COVER - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 25.66,
+   "y": 73.7,
+   "partNo": "KO231533",
+   "desc": "WIRE - breaker contact (Includes grommet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 73.17,
+   "y": 9.59,
+   "partNo": "C12193",
+   "desc": "WIRE - regulator ground to starter switch (White 12\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 49.16,
+   "y": 31.22,
+   "partNo": "C12194",
+   "desc": "WIRE - regulator to light switch (Yellow 19\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 78.25,
+   "y": 74.6,
+   "partNo": "C12269",
+   "desc": "WIRE - connector to lights (Black)",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 15.5,
+   "y": 61.64,
+   "partNo": "C12270",
+   "desc": "WIRE - light switch to head lamp (Black)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 66.0,
+   "y": 18.56,
+   "partNo": "C13812",
+   "desc": "WIRE ASSEMBLY - regulator (Red 9\") (Black 13\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 88.31,
+   "y": 83.97,
+   "partNo": "C10985",
+   "desc": "WIRE - head lamp to head lamp ground (Black 9\" and 5\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 17.99,
+   "y": 53.46,
+   "partNo": "C10592",
+   "desc": "WIRE - ignition switch to coil (Green 36\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 88.81,
+   "y": 43.79,
+   "partNo": "C12192",
+   "desc": "WIRE - regulator to generator field (Black 17\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 65.9,
+   "y": 67.12,
+   "partNo": "C12197",
+   "desc": "CABLE - battery to starter switch (Black 18\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 66.9,
+   "y": 38.8,
+   "partNo": "C12198",
+   "desc": "CABLE - battery to ground (Black 10-3/4\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 79.25,
+   "y": 44.99,
+   "partNo": "C12199",
+   "desc": "CABLE - starter switch to generator (Black 20-1/2\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 13.5,
+   "y": 6.6,
+   "variants": [
+    {
+     "serialNote": "* Model 155 S/N 9622668 and after; Model 195 S/N 9627170 and after",
+     "partNo": "C13618",
+     "desc": "LAMP ASSEMBLY - warning generator indicator",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "** Model 155 before S/N 9622668; Model 195 before S/N 9627170",
+     "partNo": "C12209",
+     "desc": "LAMP ASSEMBLY - generator warning (Red lens)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 10.81,
+   "y": 20.36,
+   "variants": [
+    {
+     "serialNote": "* Model 155 S/N 9622668 and after; Model 195 S/N 9627170 and after",
+     "partNo": "A24354",
+     "desc": "BULB - warning lamp (Red)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "** Model 155 before S/N 9622668; Model 195 before S/N 9627170",
+     "partNo": "B50213",
+     "desc": "BULB - warning lamp (White)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 43.69,
+   "y": 37.11,
+   "partNo": "C10549",
+   "desc": "BRACKET - battery hold down",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Used on Model 155 Tractors Serial Number 9622668 and after; used on Model 195 Tractors Serial Number 9627170 and after.\n** Used on Model 155 Tractors prior to Serial Number 9622668; used on Model 195 Tractors prior to Serial Number 9627170.",
+ "dotSizePct": 3.39
+}

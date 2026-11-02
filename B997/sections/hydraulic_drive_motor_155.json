@@ -1,0 +1,211 @@
+{
+ "sectionTitle": "Hydraulic Drive Motor (155)",
+ "breadcrumb": "Hydraulic Drive Motor (155)",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/hydraulic_drive_motor_155.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.2,
+   "y": 7.2,
+   "partNo": "C12305",
+   "desc": "MOTOR - hydraulic drive (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 19.87,
+   "y": 51.64,
+   "partNo": "NSS",
+   "desc": "OIL SEAL - mtg. plate (See ref. 21) (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 9.51,
+   "y": 68.66,
+   "partNo": "NSS",
+   "desc": "OIL SEAL - mtg. plate (See ref. 21) (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 23.66,
+   "y": 48.18,
+   "partNo": "A72028",
+   "desc": "PLATE - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 28.74,
+   "y": 79.45,
+   "partNo": "166-23",
+   "desc": "CAPSCREW - ferry 5/16\" x 5/8\" N.C.",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 32.43,
+   "y": 76.28,
+   "partNo": "193-82",
+   "desc": "LOCKWASHER - int. shakeproof 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 31.13,
+   "y": 41.25,
+   "partNo": "138-134",
+   "desc": "PIN - roll 1/4\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 37.51,
+   "y": 34.62,
+   "partNo": "NSS",
+   "desc": "QUAD RING - mtg. plate (See ref. 21) (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 13.0,
+   "y": 65.5,
+   "partNo": "NSS",
+   "desc": "QUAD RING - mtg. plate (See ref. 21) (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 42.29,
+   "y": 31.35,
+   "partNo": "A17528",
+   "desc": "\"O\" RING - mtg. plate to hsg. (See ref. 21) (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 18.58,
+   "y": 84.1,
+   "partNo": "A17528",
+   "desc": "\"O\" RING - mtg. plate to hsg. (See ref. 21) (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 46.58,
+   "y": 27.2,
+   "partNo": "A72030",
+   "desc": "RACE - output shaft bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 51.56,
+   "y": 22.15,
+   "partNo": "A72031",
+   "desc": "BEARING - thrust, output shaft thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 52.65,
+   "y": 93.01,
+   "partNo": "A72031",
+   "desc": "BEARING - thrust, output shaft thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 67.6,
+   "y": 8.39,
+   "partNo": "C12682",
+   "desc": "SHAFT AND HOUSING",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 78.46,
+   "y": 35.71,
+   "partNo": "A72034",
+   "desc": "PLUG - housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 5.63,
+   "y": 72.62,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - hsg. plug (See ref. 21) (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 67.0,
+   "y": 45.21,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - hsg. plug (See ref. 21) (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 58.93,
+   "y": 87.47,
+   "partNo": "A72027",
+   "desc": "COUPLING - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 65.6,
+   "y": 81.33,
+   "partNo": "A72026",
+   "desc": "PLATE - spacer",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 74.87,
+   "y": 73.22,
+   "partNo": "A72025",
+   "desc": "GEROTOR SET (1-1/4\" thick)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 82.64,
+   "y": 65.69,
+   "partNo": "A72051",
+   "desc": "SPACER - cplg. drive (3/4\" thick)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 87.92,
+   "y": 61.34,
+   "partNo": "A72024",
+   "desc": "CAP - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 94.7,
+   "y": 55.8,
+   "partNo": "166-531",
+   "desc": "CAPSCREW - ferry 5/16\" x 2-1/2\" N.F.",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 11.71,
+   "y": 59.66,
+   "partNo": "A72036",
+   "desc": "KIT - \"O\" ring and seal (Incl. items marked w/*)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.07
+}

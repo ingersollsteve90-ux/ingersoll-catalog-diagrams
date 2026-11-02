@@ -1,0 +1,386 @@
+{
+ "sectionTitle": "Hood, Frame and Grille",
+ "breadcrumb": "Hood, Frame and Grille",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/hood_frame_grille.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 83.6,
+   "y": 40.09,
+   "partNo": "C14024",
+   "desc": "GRILLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 73.69,
+   "y": 75.93,
+   "partNo": "C10349",
+   "desc": "BRACKET - grille mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 88.05,
+   "y": 70.47,
+   "partNo": "C10413",
+   "desc": "PANEL - grille",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 83.6,
+   "y": 52.0,
+   "partNo": "A24526",
+   "desc": "MEDALLION - radiator grille",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 62.49,
+   "y": 35.42,
+   "partNo": "131-413",
+   "desc": "PALNUT - 1/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 73.98,
+   "y": 92.21,
+   "partNo": "182-509",
+   "desc": "SCREW - 5/16\"-18 x 1\" pan head, Phillips",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 74.08,
+   "y": 84.86,
+   "partNo": "193-9",
+   "desc": "LOCKWASHER - 5/16\" SAE external tooth",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 58.62,
+   "y": 69.77,
+   "partNo": "C10370",
+   "desc": "PANEL - front, side, right hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 53.86,
+   "y": 69.38,
+   "partNo": "C10371",
+   "desc": "PANEL - front, side, left hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 5.31,
+   "y": 82.48,
+   "variants": [
+    {
+     "serialNote": "Right hand",
+     "partNo": "C12234",
+     "desc": "PANEL - rear, side, right hand",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Left hand",
+     "partNo": "C12114",
+     "desc": "PANEL - rear, side, left hand",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 45.54,
+   "y": 69.28,
+   "partNo": "C10596",
+   "desc": "SCREW - #10 Phillips pan head",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 77.95,
+   "y": 9.31,
+   "partNo": "C10360",
+   "desc": "HOOD",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 57.43,
+   "y": 32.34,
+   "partNo": "C10361",
+   "desc": "SCREW - 1/4\"-20 x 1/2\", lock, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 61.99,
+   "y": 29.96,
+   "partNo": "C11534",
+   "desc": "BUSHING - hood",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 58.92,
+   "y": 62.92,
+   "partNo": "C12165",
+   "desc": "WRAPPER - front panel",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 22.55,
+   "y": 15.86,
+   "partNo": "C12203",
+   "desc": "BRACKET - fuel tank mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 52.48,
+   "y": 31.95,
+   "partNo": "193-8",
+   "desc": "WASHER - 1/4\" shakeproof",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 4.71,
+   "y": 20.43,
+   "partNo": "193-8",
+   "desc": "WASHER - 1/4\" shakeproof",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 45.54,
+   "y": 32.34,
+   "partNo": "193-8",
+   "desc": "WASHER - 1/4\" shakeproof",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 43.46,
+   "y": 23.71,
+   "partNo": "173-207",
+   "desc": "SCREW - 1/4\" x 5/8\" rd. hd. machine",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 7.98,
+   "y": 22.81,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C., zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 42.67,
+   "y": 51.41,
+   "partNo": "C11533",
+   "desc": "SPACER - hood",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 14.62,
+   "y": 11.99,
+   "partNo": "111-128",
+   "desc": "BOLT - 1/4\"-20 x 3/4\" rd. hd., square neck",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 9.47,
+   "y": 96.58,
+   "partNo": "C10283",
+   "desc": "FOOTPAD",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 10.66,
+   "y": 90.33,
+   "partNo": "15-514",
+   "desc": "BOLT - 5/16\" x 7/8\" N.C., hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 45.54,
+   "y": 73.55,
+   "partNo": "25-105",
+   "desc": "NUT - 5/16\" N.C., hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 10.26,
+   "y": 87.45,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16\" SAE",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 16.21,
+   "y": 56.77,
+   "partNo": "C11582",
+   "desc": "CHANNEL - instrument panel liner",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 50.99,
+   "y": 73.65,
+   "variants": [
+    {
+     "serialNote": "Model 195, before S/N 9628317",
+     "partNo": "C14077",
+     "desc": "FRAME - main (195) (used prior to S/N 9628317)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155, before S/N 9624443",
+     "partNo": "C14076",
+     "desc": "FRAME - main (155) (used prior to S/N 9624443)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195, S/N 9628317 and after",
+     "partNo": "C14315",
+     "desc": "FRAME - main (195) (used S/N 9628317 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155, S/N 9624443 and after",
+     "partNo": "C14314",
+     "desc": "FRAME - main (155) (used S/N 9624443 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 16.01,
+   "y": 43.56,
+   "variants": [
+    {
+     "serialNote": "Model 195, before S/N 9628317",
+     "partNo": "C13983",
+     "desc": "SUPPORT - steering (195) (used prior to S/N 9628317)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155, before S/N 9624443",
+     "partNo": "C13984",
+     "desc": "SUPPORT - steering (155) (used prior to S/N 9624443)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 195, S/N 9628317 and after",
+     "partNo": "C14312",
+     "desc": "SUPPORT - steering (195) (used S/N 9628317 and after)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155, S/N 9624443 and after",
+     "partNo": "C14311",
+     "desc": "SUPPORT - steering (155) (used S/N 9624443 and after)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 44.35,
+   "y": 42.37,
+   "partNo": "187-1009",
+   "desc": "SCREW - 1/4\"-20 x 3/8\" shakeproof",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 15.81,
+   "y": 50.12,
+   "partNo": "187-1043",
+   "desc": "SCREW - 1/4\"-20 x 1/2\" self-tapping, hex head",
+   "reqd": "3"
+  },
+  {
+   "ref": "31",
+   "x": 5.31,
+   "y": 86.65,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\"-20 x 1/2\" self-tapping",
+   "reqd": "6"
+  },
+  {
+   "ref": "32",
+   "x": 28.69,
+   "y": 52.0,
+   "partNo": "193-57",
+   "desc": "WASHER - 1/4\" external tooth (in C14063 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 39.0,
+   "y": 44.36,
+   "partNo": "C13388",
+   "desc": "LOCATOR - speed control (in C14063 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 26.22,
+   "y": 35.42,
+   "partNo": "111-129",
+   "desc": "SCREW - 1/4\"-20 x 1\" rd. hd., square neck, Z.P. (in C14063 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 40.98,
+   "y": 47.73,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C., hex, Z.P. (in C14063 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 89.74,
+   "y": 41.28,
+   "partNo": "A11275",
+   "desc": "RING - headlamp retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 93.8,
+   "y": 43.86,
+   "partNo": "187-1008",
+   "desc": "SCREW - #6 x 1/2\" pan head, self-tapping",
+   "reqd": "6"
+  },
+  {
+   "ref": "—",
+   "partNo": "C14063",
+   "desc": "KIT - speed control locator (*)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "*Use as replacement on Model 155 tractors prior to s/n 9622668 and on Model 195 tractors prior to s/n 9627170.",
+ "dotSizePct": 3.1
+}

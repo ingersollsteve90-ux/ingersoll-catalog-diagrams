@@ -1,0 +1,304 @@
+{
+ "sectionTitle": "Brake Mounting",
+ "breadcrumb": "Brake Mounting",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/brake_mounting.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 91.99,
+   "y": 60.79,
+   "partNo": "C12597",
+   "desc": "PEDAL - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 64.88,
+   "y": 76.1,
+   "partNo": "C12604",
+   "desc": "LOCK - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 60.25,
+   "y": 79.98,
+   "partNo": "C13357",
+   "desc": "SPRING - brake lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 71.78,
+   "y": 49.55,
+   "partNo": "C12135",
+   "desc": "ROD - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 56.11,
+   "y": 57.11,
+   "partNo": "213-4",
+   "desc": "CLEVIS - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 41.82,
+   "y": 24.78,
+   "partNo": "141-4",
+   "desc": "PIN - clevis, 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 66.46,
+   "y": 37.51,
+   "partNo": "C12145",
+   "desc": "ROD - pull, L.H.",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 42.81,
+   "y": 19.71,
+   "partNo": "213-3",
+   "desc": "CLEVIS - 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 74.93,
+   "y": 7.68,
+   "partNo": "141-3",
+   "desc": "PIN - clevis, 5/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 68.23,
+   "y": 72.13,
+   "partNo": "A11538",
+   "desc": "RING - external retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 77.5,
+   "y": 85.75,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 71.68,
+   "y": 13.15,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 44.78,
+   "y": 40.2,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 50.89,
+   "y": 31.94,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 6.24,
+   "y": 54.82,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "11",
+   "x": 25.07,
+   "y": 76.1,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 82.03,
+   "y": 15.93,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8\" x 3/4\" N.C., hex",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 46.75,
+   "y": 62.88,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C12132",
+     "desc": "SHAFT - brake (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C14147",
+     "desc": "SHAFT - brake (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "14",
+   "x": 39.75,
+   "y": 40.3,
+   "partNo": "138-2005",
+   "desc": "PIN - spiral, 1/4\" x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 37.88,
+   "y": 75.11,
+   "partNo": "NSS",
+   "desc": "LEVER (order items 24 and 25)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 21.42,
+   "y": 68.94,
+   "partNo": "NSS",
+   "desc": "STRAP - pull, R.H. (order items 24 and 25)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 54.53,
+   "y": 31.94,
+   "partNo": "195-521",
+   "desc": "WASHER - plain plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 32.65,
+   "y": 74.02,
+   "partNo": "195-521",
+   "desc": "WASHER - plain plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 10.38,
+   "y": 55.52,
+   "partNo": "195-521",
+   "desc": "WASHER - plain plated",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 81.64,
+   "y": 92.71,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 75.62,
+   "y": 73.82,
+   "partNo": "C12612",
+   "desc": "SPRING - brake extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 22.6,
+   "y": 84.16,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "NSS",
+     "desc": "BRAKE - (155) (See page 31)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "NSS",
+     "desc": "BRAKE - (195) (See page 31)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "20",
+   "x": 73.26,
+   "y": 32.14,
+   "variants": [
+    {
+     "serialNote": "Model 155",
+     "partNo": "NSS",
+     "desc": "BRAKE - (155) (See page 31)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Model 195",
+     "partNo": "NSS",
+     "desc": "BRAKE - (195) (See page 31)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 78.38,
+   "y": 25.68,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" Z.P.",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 75.43,
+   "y": 90.92,
+   "partNo": "195-533",
+   "desc": "WASHER - Z.P.",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 71.09,
+   "y": 93.21,
+   "partNo": "C12115",
+   "desc": "WASHER - wavy 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "partNo": "C14018",
+   "desc": "ROD - pull",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "partNo": "C14019",
+   "desc": "LEVER",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Refs 24 and 25 have no callout on the diagram; they are ordered in place of NSS refs 15 and 16.",
+ "dotSizePct": 3.02
+}

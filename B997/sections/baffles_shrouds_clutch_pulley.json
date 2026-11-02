@@ -1,0 +1,243 @@
+{
+ "sectionTitle": "Baffles, Shrouds and Clutch Pulley",
+ "breadcrumb": "Baffles, Shrouds and Clutch Pulley",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/baffles_shrouds_clutch_pulley.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 27.74,
+   "y": 23.39,
+   "partNo": "NSS",
+   "desc": "DEFLECTOR - engine air (Order item 24)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 58.24,
+   "y": 15.13,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\", plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 62.02,
+   "y": 11.75,
+   "partNo": "113-6",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 33.42,
+   "y": 28.96,
+   "partNo": "KO235955",
+   "desc": "BAFFLE - cylinder head",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 22.36,
+   "y": 63.28,
+   "partNo": "KO235368",
+   "desc": "BAFFLE - carburetor side air",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 4.43,
+   "y": 40.7,
+   "partNo": "KO235207",
+   "desc": "PULLEY - starter",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 10.01,
+   "y": 45.77,
+   "partNo": "KO235052",
+   "desc": "SCREEN - blower air intake",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 16.48,
+   "y": 14.43,
+   "partNo": "195-515",
+   "desc": "WASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "9",
+   "x": 19.77,
+   "y": 17.12,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "10",
+   "x": 23.36,
+   "y": 19.61,
+   "partNo": "175-436",
+   "desc": "SCREW - 1/4\" x 5/8\" N.C. truss hd. Phillips, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 39.9,
+   "y": 78.6,
+   "partNo": "KO235951",
+   "desc": "HOUSING - blower",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 26.45,
+   "y": 66.76,
+   "partNo": "113-2",
+   "desc": "BOLT 1/4\" x 3/4\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 58.93,
+   "y": 83.97,
+   "partNo": "113-2",
+   "desc": "BOLT 1/4\" x 3/4\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 69.3,
+   "y": 18.12,
+   "partNo": "113-2",
+   "desc": "BOLT 1/4\" x 3/4\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 55.84,
+   "y": 80.79,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 35.91,
+   "y": 75.41,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 65.41,
+   "y": 21.2,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "14",
+   "x": 54.15,
+   "y": 11.35,
+   "partNo": "KO235054",
+   "desc": "BAFFLE - cylinder",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 65.11,
+   "y": 58.6,
+   "partNo": "NSS",
+   "desc": "CLUTCH - pulley (Order C19696 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 78.56,
+   "y": 71.14,
+   "partNo": "C10312",
+   "desc": "SPACER - short",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 83.84,
+   "y": 75.12,
+   "partNo": "NSS",
+   "desc": "FAN - engine (order C17217 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 88.83,
+   "y": 79.59,
+   "partNo": "195-104",
+   "desc": "WASHER - 3/8\" plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 92.41,
+   "y": 82.48,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" SAE",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 95.6,
+   "y": 85.06,
+   "partNo": "115-208",
+   "desc": "BOLT - 3/8\" x 3-1/2\" N.C., hex (for pulley clutch)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 65.91,
+   "y": 53.43,
+   "partNo": "A70205",
+   "desc": "BELT - drive, starter, generator",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 46.88,
+   "y": 21.8,
+   "partNo": "C12603",
+   "desc": "CHANNEL - deflector",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 66.21,
+   "y": 89.34,
+   "partNo": "C13756",
+   "desc": "WASHER - fan, rubber",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 87.83,
+   "y": 72.43,
+   "partNo": "C13756",
+   "desc": "WASHER - fan, rubber",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 23.86,
+   "y": 12.25,
+   "partNo": "C18296",
+   "desc": "DEFLECTOR - engine air",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.94
+}

@@ -1,0 +1,155 @@
+{
+ "sectionTitle": "Implement Lift",
+ "breadcrumb": "Implement Lift",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/implement_lift.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 31.33,
+   "y": 83.81,
+   "partNo": "C13356",
+   "desc": "LEVER - implement lift (keyed type)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 59.73,
+   "y": 13.08,
+   "partNo": "C13289",
+   "desc": "PAD - lift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 13.8,
+   "y": 78.34,
+   "partNo": "C10338",
+   "desc": "ROD - lift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 55.74,
+   "y": 47.55,
+   "partNo": "C14528",
+   "desc": "LEVER - pivot (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 74.17,
+   "y": 27.09,
+   "partNo": "C12280",
+   "desc": "ROD - depth adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 17.08,
+   "y": 7.42,
+   "partNo": "C10356",
+   "desc": "BUTTON - thumb",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 18.18,
+   "y": 15.07,
+   "partNo": "C10482",
+   "desc": "SPRING - compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 32.13,
+   "y": 5.13,
+   "partNo": "138-2026",
+   "desc": "PIN - spiral, 1/8\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 55.84,
+   "y": 40.7,
+   "partNo": "113-219",
+   "desc": "BOLT - 3/8\" x 2\" N.C., hex, Z.P. (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 48.87,
+   "y": 9.11,
+   "partNo": "129-601",
+   "desc": "NUT - wing 3/8\" Z.P.",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 19.97,
+   "y": 92.55,
+   "partNo": "195-545",
+   "desc": "WASHER - 13/16\" plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 72.88,
+   "y": 15.36,
+   "partNo": "115-203",
+   "desc": "BOLT - 3/8\"-16 x 3/4\" N.C., hex head",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 68.69,
+   "y": 62.35,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" Z.P.",
+   "reqd": "3"
+  },
+  {
+   "ref": "13",
+   "x": 67.0,
+   "y": 17.85,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" Z.P.",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 56.44,
+   "y": 71.59,
+   "partNo": "129-601",
+   "desc": "KEY - Woodruff #11 (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 63.12,
+   "y": 71.29,
+   "partNo": "129-103",
+   "desc": "NUT - 3/8\" N.C., hex, Z.P. (*)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 83.64,
+   "y": 64.34,
+   "partNo": "C12570",
+   "desc": "LEVER ASSEMBLY - implement lift, pinned type, (Not available) (Order one each items 1, 4, 9, 13, 14, & 15) (**)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 85.73,
+   "y": 74.67,
+   "partNo": "135-137",
+   "desc": "PIN - drive 10k 1/4\" x 1-1/2\" (**)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "* Used on Model 155 S/N 9622882 and after and Model 195 S/N 9627208 and after.\n** Used on Model 155 prior to S/N 9622882 and Model 195 prior to S/N 9627208.",
+ "dotSizePct": 3.2
+}

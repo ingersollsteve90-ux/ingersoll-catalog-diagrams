@@ -1,0 +1,91 @@
+{
+ "sectionTitle": "Air Cleaner",
+ "breadcrumb": "Air Cleaner",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/air_cleaner.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 38.11,
+   "y": 23.29,
+   "partNo": "KOA235100",
+   "desc": "AIR CLEANER ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6.04,
+   "y": 76.01,
+   "partNo": "129-409",
+   "desc": "NUT - wing, 3/8\" N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 15.9,
+   "y": 93.22,
+   "partNo": "KOA536",
+   "desc": "WASHER - copper",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 23.17,
+   "y": 49.45,
+   "partNo": "NSS",
+   "desc": "COVER - air cleaner (Order KOA235100)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 27.05,
+   "y": 46.37,
+   "partNo": "A70090",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 55.94,
+   "y": 22.69,
+   "partNo": "NSS",
+   "desc": "BASE - air cleaner (Order KOA235100)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 60.32,
+   "y": 77.21,
+   "partNo": "177-94",
+   "desc": "SCREW - fill. hd. 10-32 x 5/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 65.3,
+   "y": 73.82,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 69.58,
+   "y": 69.84,
+   "partNo": "195-512",
+   "desc": "WASHER - plain, 3/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 73.87,
+   "y": 17.92,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.37
+}

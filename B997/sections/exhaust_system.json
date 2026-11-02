@@ -1,0 +1,51 @@
+{
+ "sectionTitle": "Exhaust System",
+ "breadcrumb": "Exhaust System",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/exhaust_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 84.15,
+   "y": 42.13,
+   "partNo": "NSS",
+   "desc": "MUFFLER - exhaust (Order item 5)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 87.53,
+   "y": 10.4,
+   "partNo": "C10372",
+   "desc": "GASKET - exhaust pad",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 40.6,
+   "y": 8.82,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 30.45,
+   "y": 17.71,
+   "partNo": "61-510",
+   "desc": "SCREW - 5/16-18 x 5/8\" socket hd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 23.2,
+   "y": 40.55,
+   "partNo": "C18039",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.99
+}

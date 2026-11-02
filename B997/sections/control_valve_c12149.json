@@ -1,0 +1,283 @@
+{
+ "sectionTitle": "Hydraulic Control Valve (C-12149, Early)",
+ "breadcrumb": "Hydraulic Control Valve (C-12149, Early)",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/control_valve_c12149.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 38.9,
+   "y": 5.86,
+   "partNo": "166-6",
+   "desc": "CAPSCREW - 1/4\" x 1\" N.C. ferry head",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 19.78,
+   "y": 7.45,
+   "partNo": "166-8",
+   "desc": "CAPSCREW - 1/4\" x 1-1/2\" N.C. ferry head",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 42.39,
+   "y": 7.35,
+   "partNo": "A72065",
+   "desc": "CAP - valve end",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 46.08,
+   "y": 10.24,
+   "partNo": "A72059",
+   "desc": "PLUG - relief valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 49.36,
+   "y": 12.53,
+   "partNo": "A7982",
+   "desc": "\"O\" RING - relief valve plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 52.65,
+   "y": 15.21,
+   "partNo": "A72069",
+   "desc": "SHIM - relief valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 56.64,
+   "y": 17.6,
+   "partNo": "A72058",
+   "desc": "SPRING - relief valve (outer)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 60.72,
+   "y": 20.49,
+   "partNo": "A72071",
+   "desc": "SPRING - relief valve (inner)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 64.11,
+   "y": 22.88,
+   "partNo": "A72057",
+   "desc": "SPOOL - relief valve poppet",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 67.89,
+   "y": 25.77,
+   "partNo": "A72055",
+   "desc": "SEAT - relief valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 72.38,
+   "y": 33.83,
+   "partNo": "O9638AB",
+   "desc": "SNAP RING - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 85.33,
+   "y": 42.99,
+   "partNo": "A72060",
+   "desc": "WASHER - valve spool end spacer",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 75.26,
+   "y": 36.12,
+   "partNo": "A72060",
+   "desc": "WASHER - valve spool end spacer",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 78.55,
+   "y": 38.11,
+   "partNo": "A72063",
+   "desc": "SPACER - valve spool end",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 88.41,
+   "y": 45.38,
+   "partNo": "A72066",
+   "desc": "WASHER - retainer relief valve plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 91.9,
+   "y": 47.66,
+   "partNo": "A72067",
+   "desc": "RING - back up",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 95.19,
+   "y": 49.85,
+   "partNo": "A72062",
+   "desc": "SEAL - quad ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 71.08,
+   "y": 73.05,
+   "partNo": "A72062",
+   "desc": "SEAL - quad ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 46.67,
+   "y": 45.67,
+   "partNo": "A72056",
+   "desc": "PLUG",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 42.99,
+   "y": 47.96,
+   "partNo": "D26872",
+   "desc": "\"O\" RING - plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 32.63,
+   "y": 44.98,
+   "partNo": "C12524",
+   "desc": "BODY AND SPOOL ASSEMBLY - SAE ports",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 74.57,
+   "y": 76.23,
+   "partNo": "A72068",
+   "desc": "RETAINER - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 78.15,
+   "y": 78.62,
+   "partNo": "A72070",
+   "desc": "SEAL - vee",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 82.34,
+   "y": 81.71,
+   "partNo": "A72064",
+   "desc": "CAP - valve end",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 16.89,
+   "y": 62.5,
+   "partNo": "A72072",
+   "desc": "KIT - valve seal repair",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 21.17,
+   "y": 73.55,
+   "partNo": "A72070",
+   "desc": "SEAL - vee (in A72072 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 24.96,
+   "y": 74.84,
+   "partNo": "D26872",
+   "desc": "\"O\" RING - 5/8\" (in A72072 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 13.1,
+   "y": 67.37,
+   "partNo": "A7982",
+   "desc": "\"O\" RING - 13/16\" (in A72072 kit)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 16.59,
+   "y": 69.37,
+   "partNo": "A72062",
+   "desc": "QUAD RING (in A72072 kit)",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 62.91,
+   "y": 66.98,
+   "partNo": "T13224",
+   "desc": "SEAL - \"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 37.41,
+   "y": 47.96,
+   "partNo": "221-841",
+   "desc": "PLUG - conversion",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 81.94,
+   "y": 40.8,
+   "partNo": "C10989",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 67.39,
+   "y": 70.86,
+   "partNo": "C10988",
+   "desc": "WASHER - special",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 56.93,
+   "y": 63.09,
+   "partNo": "C10987",
+   "desc": "BRACKET MOUNTING",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Used on Model 155 tractors prior to S/N 9623328 and Model 195 tractors prior to S/N 9627528.",
+ "dotSizePct": 3.35
+}

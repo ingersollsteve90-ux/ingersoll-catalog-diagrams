@@ -1,0 +1,97 @@
+{
+ "sectionTitle": "Hydraulic Control Valve (C-13341, Late)",
+ "breadcrumb": "Hydraulic Control Valve (C-13341, Late)",
+ "catalogLabel": "Catalog B997",
+ "modelNumbers": "Catalog B997 — Case 155 and 195 Compact Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/B997/control_valve_c13341.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 30.24,
+   "y": 7.39,
+   "partNo": "C13512",
+   "desc": "PLUG - adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 36.22,
+   "y": 11.96,
+   "partNo": "16905",
+   "desc": "SEAL - \"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 39.8,
+   "y": 16.63,
+   "partNo": "C13515",
+   "desc": "SPRING - relief",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 44.38,
+   "y": 20.11,
+   "partNo": "211-10",
+   "desc": "BALL",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 50.06,
+   "y": 22.7,
+   "partNo": "C13510",
+   "desc": "SEAT - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 53.75,
+   "y": 27.07,
+   "partNo": "A27891",
+   "desc": "SEAL - \"O\" ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 60.92,
+   "y": 34.03,
+   "partNo": "NSS",
+   "desc": "SPOOL (Order C13341 valve)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 93.88,
+   "y": 65.45,
+   "partNo": "C13514",
+   "desc": "SEAL - quad ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 94.98,
+   "y": 76.49,
+   "partNo": "C13513",
+   "desc": "RING - retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 74.36,
+   "y": 42.49,
+   "partNo": "NSS",
+   "desc": "BODY - valve (Order C13341 valve)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "partNo": "221-12",
+   "desc": "PLUG - pipe 1/4\" NPT",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Used on Model 155 tractors S/N 9623328 and after and Model 195 tractors S/N 9627528 and after.\nRef 11 (221-12 pipe plug) has no callout on the diagram.",
+ "dotSizePct": 3.47
+}
