@@ -1,0 +1,920 @@
+{
+ "sectionTitle": "Transmission (Peerless #2310)",
+ "breadcrumb": "Transmission (Peerless #2310)",
+ "catalogLabel": "Catalog A978",
+ "modelNumbers": "Catalog A978 — Case Model 120 Compact (Garden) Tractor",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A978/transmission.jpg",
+ "footnotes": "",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 2.3,
+   "y": 75.1,
+   "partNo": "C11161",
+   "desc": "LEVER & HOUSING ASSY - shift (Incl. Nos. 2 thru 7)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6.5,
+   "y": 79.8,
+   "partNo": "C11219",
+   "desc": "RING - snap",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 15.2,
+   "y": 73.3,
+   "partNo": "35012",
+   "desc": "RING - quad",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 6.5,
+   "y": 75.7,
+   "partNo": "C11220",
+   "desc": "PIN - roll",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 15.5,
+   "y": 71.3,
+   "partNo": "C11162",
+   "desc": "HOUSING - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 15.3,
+   "y": 78.2,
+   "partNo": "C11163",
+   "desc": "KEEPER - shift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 15.1,
+   "y": 75.7,
+   "partNo": "C11164",
+   "desc": "LEVER - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 15.4,
+   "y": 67.1,
+   "partNo": "C11164",
+   "desc": "LEVER - shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 19.4,
+   "y": 29.9,
+   "partNo": "C11165",
+   "desc": "ROD ASSY - shift (Incl. Nos. 9 thru 12 and 24)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 19.9,
+   "y": 39.6,
+   "partNo": "C11166",
+   "desc": "SPRING",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 34.4,
+   "y": 24.7,
+   "partNo": "C11166",
+   "desc": "SPRING",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 34.3,
+   "y": 23.2,
+   "partNo": "211-5",
+   "desc": "BALL - steel",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 22.4,
+   "y": 40.4,
+   "partNo": "211-5",
+   "desc": "BALL - steel",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 17.4,
+   "y": 38.7,
+   "partNo": "C11167",
+   "desc": "FORK - shifter",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 40.2,
+   "y": 27.3,
+   "partNo": "C11167",
+   "desc": "FORK - shifter",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 25.7,
+   "y": 34.7,
+   "partNo": "C11168",
+   "desc": "ROD - shifter",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 33.3,
+   "y": 20.0,
+   "partNo": "C11169",
+   "desc": "ROD ASSY - shift (Incl. Nos. 9, 10, 11, 14 and 24)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 37.4,
+   "y": 28.6,
+   "partNo": "C11170",
+   "desc": "ROD - shifter",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 48.1,
+   "y": 83.1,
+   "partNo": "C11171",
+   "desc": "AXLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 32.3,
+   "y": 90.8,
+   "partNo": "C11171",
+   "desc": "AXLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 92.7,
+   "y": 45.4,
+   "partNo": "C11171",
+   "desc": "AXLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 81.8,
+   "y": 14.6,
+   "partNo": "C11171",
+   "desc": "AXLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 53.5,
+   "y": 34.0,
+   "partNo": "C11178",
+   "desc": "WASHER - thrust",
+   "reqd": "12"
+  },
+  {
+   "ref": "16",
+   "x": 65.0,
+   "y": 75.6,
+   "partNo": "C11178",
+   "desc": "WASHER - thrust",
+   "reqd": "12"
+  },
+  {
+   "ref": "16",
+   "x": 53.3,
+   "y": 80.5,
+   "partNo": "C11178",
+   "desc": "WASHER - thrust",
+   "reqd": "12"
+  },
+  {
+   "ref": "16",
+   "x": 86.4,
+   "y": 48.4,
+   "partNo": "C11178",
+   "desc": "WASHER - thrust",
+   "reqd": "12"
+  },
+  {
+   "ref": "16",
+   "x": 34.2,
+   "y": 51.0,
+   "partNo": "C11178",
+   "desc": "WASHER - thrust",
+   "reqd": "12"
+  },
+  {
+   "ref": "16",
+   "x": 73.5,
+   "y": 55.2,
+   "partNo": "C11178",
+   "desc": "WASHER - thrust",
+   "reqd": "12"
+  },
+  {
+   "ref": "17",
+   "x": 59.1,
+   "y": 81.2,
+   "partNo": "13-440",
+   "desc": "SCREW - cap, hex head, 1/4\"-20 x 2-1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 62.3,
+   "y": 80.1,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 83.5,
+   "y": 64.7,
+   "partNo": "C11172",
+   "desc": "GEAR - ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 67.7,
+   "y": 64.2,
+   "partNo": "C11173",
+   "desc": "PIN - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 67.3,
+   "y": 61.2,
+   "partNo": "C11174",
+   "desc": "BLOCK - drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 71.2,
+   "y": 75.7,
+   "partNo": "C11174",
+   "desc": "BLOCK - drive",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 67.4,
+   "y": 62.7,
+   "partNo": "C11175",
+   "desc": "PINION - bevel",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 67.8,
+   "y": 72.0,
+   "partNo": "C11175",
+   "desc": "PINION - bevel",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 54.9,
+   "y": 40.9,
+   "partNo": "C11176",
+   "desc": "SHAFT & GEAR - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 35.0,
+   "y": 28.5,
+   "partNo": "A11538",
+   "desc": "RING - snap",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 23.6,
+   "y": 36.1,
+   "partNo": "A11538",
+   "desc": "RING - snap",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 49.8,
+   "y": 36.2,
+   "partNo": "C11177",
+   "desc": "SHAFT & BEARING ASSY - pinion (Incl. No. 26)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 41.4,
+   "y": 32.1,
+   "partNo": "A27287",
+   "desc": "BEARING",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 48.9,
+   "y": 44.7,
+   "partNo": "C11179",
+   "desc": "GEAR CLUSTER ASSY - (Incl. No. 28)",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 35.7,
+   "y": 41.8,
+   "partNo": "C11180",
+   "desc": "BUSHING",
+   "reqd": "3"
+  },
+  {
+   "ref": "28",
+   "x": 44.3,
+   "y": 39.3,
+   "partNo": "C11180",
+   "desc": "BUSHING",
+   "reqd": "3"
+  },
+  {
+   "ref": "29",
+   "x": 31.8,
+   "y": 31.6,
+   "partNo": "C11181",
+   "desc": "STOP - shifter",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 52.2,
+   "y": 12.2,
+   "partNo": "C11182",
+   "desc": "GASKET - case and cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 7.0,
+   "y": 83.1,
+   "partNo": "C11183",
+   "desc": "GASKET - shift lever housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 41.3,
+   "y": 40.3,
+   "partNo": "C11184",
+   "desc": "GEAR - shifting (3rd and 4th)",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 46.6,
+   "y": 37.2,
+   "partNo": "C11185",
+   "desc": "GEAR - shifting (1st, 2nd and reverse)",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 66.8,
+   "y": 48.6,
+   "partNo": "C11186",
+   "desc": "GEAR - bevel",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 63.8,
+   "y": 66.6,
+   "partNo": "C11186",
+   "desc": "GEAR - bevel",
+   "reqd": "2"
+  },
+  {
+   "ref": "35",
+   "x": 58.7,
+   "y": 38.9,
+   "partNo": "C11187",
+   "desc": "GEAR - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 40.6,
+   "y": 48.6,
+   "partNo": "C11188",
+   "desc": "GEAR CLUSTER ASSY - (Incl. No. 28)",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 45.8,
+   "y": 46.3,
+   "partNo": "C11189",
+   "desc": "SPACER",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 69.8,
+   "y": 57.2,
+   "partNo": "C11222",
+   "desc": "RING - snap",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 67.7,
+   "y": 66.0,
+   "partNo": "C11222",
+   "desc": "RING - snap",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 33.2,
+   "y": 36.8,
+   "partNo": "C11190",
+   "desc": "SHAFT - input",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 30.5,
+   "y": 38.1,
+   "partNo": "C11191",
+   "desc": "SPUR GEAR - input shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 59.2,
+   "y": 46.6,
+   "partNo": "C11201",
+   "desc": "WASHER - thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 72.1,
+   "y": 40.0,
+   "partNo": "C11201",
+   "desc": "WASHER - thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 81.8,
+   "y": 4.6,
+   "partNo": "C11192",
+   "desc": "SEAL & RETAINER ASSY - oil (Incl. No. 45)",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 21.4,
+   "y": 86.0,
+   "partNo": "C11192",
+   "desc": "SEAL & RETAINER ASSY - oil (Incl. No. 45)",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 68.4,
+   "y": 42.1,
+   "partNo": "C11193",
+   "desc": "GEAR - output",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 64.6,
+   "y": 44.1,
+   "partNo": "C11194",
+   "desc": "PINION - output",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 87.1,
+   "y": 12.5,
+   "partNo": "C11195",
+   "desc": "SEAL - oil",
+   "reqd": "3"
+  },
+  {
+   "ref": "45",
+   "x": 68.7,
+   "y": 7.8,
+   "partNo": "C11195",
+   "desc": "SEAL - oil",
+   "reqd": "3"
+  },
+  {
+   "ref": "45",
+   "x": 27.2,
+   "y": 93.7,
+   "partNo": "C11195",
+   "desc": "SEAL - oil",
+   "reqd": "3"
+  },
+  {
+   "ref": "46",
+   "x": 92.1,
+   "y": 9.7,
+   "partNo": "C11196",
+   "desc": "HOUSING - axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "46",
+   "x": 13.0,
+   "y": 89.4,
+   "partNo": "C11196",
+   "desc": "HOUSING - axle",
+   "reqd": "2"
+  },
+  {
+   "ref": "47",
+   "x": 47.8,
+   "y": 85.8,
+   "partNo": "C11197",
+   "desc": "CASE ASSY - Transaxle (Inc. Nos. 54, 55, 57, and 63) left hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 58.0,
+   "y": 10.1,
+   "partNo": "C11218",
+   "desc": "COVER ASSY - Transaxle (Incl. Nos. 54, 55, 57, 59 and 63)",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 74.5,
+   "y": 20.8,
+   "partNo": "83-412",
+   "desc": "SCREW - socket head cap, 1/4\"-20 x 3/4\"",
+   "reqd": "9"
+  },
+  {
+   "ref": "49",
+   "x": 5.8,
+   "y": 73.5,
+   "partNo": "83-412",
+   "desc": "SCREW - socket head cap, 1/4\"-20 x 3/4\"",
+   "reqd": "9"
+  },
+  {
+   "ref": "50",
+   "x": 34.6,
+   "y": 71.8,
+   "partNo": "F53650",
+   "desc": "PIN - dowel",
+   "reqd": "4"
+  },
+  {
+   "ref": "51",
+   "x": 22.6,
+   "y": 98.5,
+   "partNo": "83-514",
+   "desc": "SCREW - cap hex head, 5/16\"-18 x 7/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "51",
+   "x": 97.9,
+   "y": 7.7,
+   "partNo": "83-514",
+   "desc": "SCREW - cap hex head, 5/16\"-18 x 7/8\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "52",
+   "x": 29.2,
+   "y": 85.8,
+   "partNo": "221-672",
+   "desc": "PLUG - magnetic drain",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 25.2,
+   "y": 97.4,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - split 5/16\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "53",
+   "x": 94.5,
+   "y": 8.6,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - split 5/16\"",
+   "reqd": "8"
+  },
+  {
+   "ref": "54",
+   "x": 56.7,
+   "y": 32.7,
+   "partNo": "C11200",
+   "desc": "BEARING - needle",
+   "reqd": "2"
+  },
+  {
+   "ref": "54",
+   "x": 31.9,
+   "y": 52.3,
+   "partNo": "C11200",
+   "desc": "BEARING - needle",
+   "reqd": "2"
+  },
+  {
+   "ref": "55",
+   "x": 29.3,
+   "y": 45.8,
+   "partNo": "A27999",
+   "desc": "BEARING - needle",
+   "reqd": "3"
+  },
+  {
+   "ref": "55",
+   "x": 55.4,
+   "y": 55.8,
+   "partNo": "A27999",
+   "desc": "BEARING - needle",
+   "reqd": "3"
+  },
+  {
+   "ref": "55",
+   "x": 69.3,
+   "y": 46.4,
+   "partNo": "A27999",
+   "desc": "BEARING - needle",
+   "reqd": "3"
+  },
+  {
+   "ref": "56",
+   "x": 27.7,
+   "y": 78.9,
+   "partNo": "C11202",
+   "desc": "BEARING - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "57",
+   "x": 56.7,
+   "y": 47.8,
+   "partNo": "C11203",
+   "desc": "BEARING - needle",
+   "reqd": "2"
+  },
+  {
+   "ref": "57",
+   "x": 75.2,
+   "y": 38.7,
+   "partNo": "C11203",
+   "desc": "BEARING - needle",
+   "reqd": "2"
+  },
+  {
+   "ref": "58",
+   "x": 97.9,
+   "y": 6.2,
+   "partNo": "C11204",
+   "desc": "BEARING - ball",
+   "reqd": "2"
+  },
+  {
+   "ref": "58",
+   "x": 7.8,
+   "y": 92.5,
+   "partNo": "C11204",
+   "desc": "BEARING - ball",
+   "reqd": "2"
+  },
+  {
+   "ref": "59",
+   "x": 67.9,
+   "y": 34.6,
+   "partNo": "A12652",
+   "desc": "BEARING - needle",
+   "reqd": "1"
+  },
+  {
+   "ref": "60",
+   "x": 24.9,
+   "y": 80.0,
+   "partNo": "C11206",
+   "desc": "SEAL - oil",
+   "reqd": "1"
+  },
+  {
+   "ref": "61",
+   "x": 63.3,
+   "y": 52.3,
+   "partNo": "C11205",
+   "desc": "WASHER",
+   "reqd": "1"
+  },
+  {
+   "ref": "62",
+   "x": 60.7,
+   "y": 53.3,
+   "partNo": "C11207",
+   "desc": "SHAFT & PINION",
+   "reqd": "1"
+  },
+  {
+   "ref": "63",
+   "x": 37.5,
+   "y": 88.5,
+   "partNo": "R21491",
+   "desc": "BEARING - needle",
+   "reqd": "2"
+  },
+  {
+   "ref": "63",
+   "x": 77.1,
+   "y": 17.1,
+   "partNo": "R21491",
+   "desc": "BEARING - needle",
+   "reqd": "2"
+  },
+  {
+   "ref": "64",
+   "x": 44.2,
+   "y": 31.1,
+   "partNo": "C11209",
+   "desc": "SHAFT - reverse idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "65",
+   "x": 38.3,
+   "y": 33.9,
+   "partNo": "C11210",
+   "desc": "SPACER - reverse idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "66",
+   "x": 35.9,
+   "y": 35.5,
+   "partNo": "C11211",
+   "desc": "IDLER - reverse",
+   "reqd": "1"
+  },
+  {
+   "ref": "67",
+   "x": 58.5,
+   "y": 54.8,
+   "partNo": "C11212",
+   "desc": "SPUR GEAR - (22 teeth)",
+   "reqd": "1"
+  },
+  {
+   "ref": "68",
+   "x": 70.6,
+   "y": 47.4,
+   "partNo": "C11213",
+   "desc": "BEARING - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "68",
+   "x": 81.7,
+   "y": 41.4,
+   "partNo": "C11213",
+   "desc": "BEARING - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "68",
+   "x": 49.9,
+   "y": 72.9,
+   "partNo": "C11213",
+   "desc": "BEARING - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "68",
+   "x": 60.6,
+   "y": 67.5,
+   "partNo": "C11213",
+   "desc": "BEARING - thrust",
+   "reqd": "4"
+  },
+  {
+   "ref": "69",
+   "x": 80.1,
+   "y": 52.1,
+   "partNo": "C11214",
+   "desc": "CARRIER ASSY - differential (Incl. No. 71)",
+   "reqd": "1"
+  },
+  {
+   "ref": "70",
+   "x": 54.2,
+   "y": 68.8,
+   "partNo": "C11215",
+   "desc": "CARRIER ASSY - differential (Incl. No. 71)",
+   "reqd": "1"
+  },
+  {
+   "ref": "71",
+   "x": 78.1,
+   "y": 43.5,
+   "partNo": "C11216",
+   "desc": "BUSHING",
+   "reqd": "2"
+  },
+  {
+   "ref": "71",
+   "x": 56.4,
+   "y": 77.3,
+   "partNo": "C11216",
+   "desc": "BUSHING",
+   "reqd": "2"
+  },
+  {
+   "ref": "72",
+   "x": 89.6,
+   "y": 10.8,
+   "partNo": "C11208",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "72",
+   "x": 24.9,
+   "y": 95.7,
+   "partNo": "C11208",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  },
+  {
+   "ref": "73",
+   "x": 62.2,
+   "y": 37.1,
+   "partNo": "C11223",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "74",
+   "x": 32.1,
+   "y": 44.6,
+   "partNo": "C10822",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "75",
+   "x": 43.9,
+   "y": 90.7,
+   "partNo": "C11224",
+   "desc": "PLUG - pipe",
+   "reqd": "1"
+  },
+  {
+   "ref": "76",
+   "x": 15.7,
+   "y": 52.2,
+   "partNo": "C10487",
+   "desc": "KNOB - gear shift",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "C10486",
+   "desc": "TRANSMISSION - Peerless - #2310",
+   "reqd": "1"
+  }
+ ]
+}

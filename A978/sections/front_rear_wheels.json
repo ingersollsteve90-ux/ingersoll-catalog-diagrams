@@ -1,0 +1,135 @@
+{
+ "sectionTitle": "Front and Rear Wheels",
+ "breadcrumb": "Front and Rear Wheels",
+ "catalogLabel": "Catalog A978",
+ "modelNumbers": "Catalog A978 — Case Model 120 Compact (Garden) Tractor",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A978/front_rear_wheels.jpg",
+ "footnotes": "",
+ "dotSizePct": 3.29,
+ "hotspots": [
+  {
+   "ref": "20",
+   "x": 3.4,
+   "y": 13.9,
+   "partNo": "A30064",
+   "desc": "BOLT - rear wheel lug",
+   "reqd": "8"
+  },
+  {
+   "ref": "21",
+   "x": 6.8,
+   "y": 60.7,
+   "partNo": "C10314",
+   "desc": "BOLT - rear wheel lug",
+   "reqd": "10"
+  },
+  {
+   "ref": "22",
+   "x": 14.8,
+   "y": 5.9,
+   "partNo": "A70183",
+   "desc": "WHEEL - rear (For four bolt hub)",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 33.1,
+   "y": 95.1,
+   "partNo": "C10263",
+   "desc": "WHEEL - rear (For five bolt hub)",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 52.3,
+   "y": 29.0,
+   "partNo": "A70144",
+   "desc": "HUB - rear wheel, 4 hole",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 45.9,
+   "y": 34.0,
+   "partNo": "C10446",
+   "desc": "HUB - rear wheel, 5 hole",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 74.6,
+   "y": 4.1,
+   "partNo": "A70479",
+   "desc": "WHEEL - front",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 65.5,
+   "y": 10.1,
+   "partNo": "219-1",
+   "desc": "FITTING - lubrication, 1/8\" NPT",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 58.2,
+   "y": 15.5,
+   "partNo": "132-73",
+   "desc": "PIN - cotter, 5/32\" x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 65.3,
+   "y": 63.7,
+   "partNo": "C10552",
+   "desc": "WASHER - 3/4\" x 1-1/4\", spacer",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 96.3,
+   "y": 41.7,
+   "partNo": "C10552",
+   "desc": "WASHER - 3/4\" x 1-1/4\", spacer",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 70.2,
+   "y": 59.7,
+   "partNo": "A70398",
+   "desc": "BUSHING - front wheel",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 91.4,
+   "y": 45.6,
+   "partNo": "A70398",
+   "desc": "BUSHING - front wheel",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 56.5,
+   "y": 70.3,
+   "partNo": "C10534",
+   "desc": "CAP - plastic front wheel",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "partNo": "195-45",
+   "desc": "WASHER - 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "partNo": "126-28",
+   "desc": "KEY - Woodruff",
+   "reqd": "2"
+  }
+ ]
+}

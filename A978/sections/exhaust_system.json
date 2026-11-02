@@ -1,0 +1,43 @@
+{
+ "sectionTitle": "Exhaust System",
+ "breadcrumb": "Exhaust System",
+ "catalogLabel": "Catalog A978",
+ "modelNumbers": "Catalog A978 — Case Model 120 Compact (Garden) Tractor",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A978/exhaust_system.jpg",
+ "footnotes": "",
+ "dotSizePct": 6.54,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 80.2,
+   "y": 42.8,
+   "partNo": "C12071",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 84.4,
+   "y": 6.6,
+   "partNo": "C10372",
+   "desc": "GASKET - exhaust pad",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 20.6,
+   "y": 8.3,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 7.2,
+   "y": 16.5,
+   "partNo": "61-510",
+   "desc": "SCREW - 5/16-18 x 5/8\" socket hd.",
+   "reqd": "2"
+  }
+ ]
+}

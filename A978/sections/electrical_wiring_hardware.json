@@ -1,0 +1,590 @@
+{
+ "sectionTitle": "Electrical Wiring and Hardware",
+ "breadcrumb": "Electrical Wiring and Hardware",
+ "catalogLabel": "Catalog A978",
+ "modelNumbers": "Catalog A978 — Case Model 120 Compact (Garden) Tractor",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A978/electrical_wiring_hardware.jpg",
+ "footnotes": "* Used on Model 120 tractor with serial nos. 9608001 to 9608237 and again beginning with serial no. 9608450 and up.\n** Used on Model 120 tractor with serial nos. 9608237 through 9608450.",
+ "dotSizePct": 2.97,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 5.4,
+   "y": 16.8,
+   "partNo": "C10474",
+   "desc": "SWITCH - light",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 20.5,
+   "y": 10.1,
+   "partNo": "C10397",
+   "desc": "LIGHT - generator indicator (with leads)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 43.0,
+   "y": 2.4,
+   "variants": [
+    {
+     "serialNote": "S/N 9608001-9608237 and 9608450 & up",
+     "partNo": "C11249",
+     "desc": "SWITCH - ignition (incl. key and nut) (Keys not furnished--must be made locally)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "S/N 9608237-9608450",
+     "partNo": "A11373",
+     "desc": "SWITCH - ignition (incl. key and nut)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 28.2,
+   "y": 2.7,
+   "partNo": "A20346",
+   "desc": "KEY - ignition switch (for A11373 only)",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 58.0,
+   "y": 31.1,
+   "partNo": "C10549",
+   "desc": "HOLD-DOWN - battery",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 48.5,
+   "y": 17.2,
+   "partNo": "C10461",
+   "desc": "BOLT - carriage, battery positive",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 37.4,
+   "y": 13.8,
+   "partNo": "129-419",
+   "desc": "NUT - wing, battery positive",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 12.7,
+   "y": 41.9,
+   "partNo": "C10472",
+   "desc": "CLIP - wire holder",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 77.5,
+   "y": 8.9,
+   "partNo": "KO235197",
+   "desc": "SUPPORT - starter generator adj. bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 66.1,
+   "y": 18.8,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" N.C. hex plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 69.7,
+   "y": 20.2,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 83.9,
+   "y": 11.7,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 91.4,
+   "y": 30.5,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 75.0,
+   "y": 22.7,
+   "partNo": "113-113",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 80.9,
+   "y": 10.1,
+   "partNo": "113-113",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 94.5,
+   "y": 31.4,
+   "partNo": "113-113",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 86.7,
+   "y": 12.8,
+   "partNo": "195-520",
+   "desc": "WASHER - 5/16\" plain plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 90.3,
+   "y": 14.3,
+   "partNo": "KO235203",
+   "desc": "BRACKET - adjusting, starter generator",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 88.3,
+   "y": 28.8,
+   "partNo": "A70202",
+   "desc": "STARTER-GENERATOR - Delco No. 1101970",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 70.0,
+   "y": 43.2,
+   "partNo": "KO235196",
+   "desc": "SUPPORT - starter, generator",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 66.0,
+   "y": 34.5,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 73.6,
+   "y": 38.0,
+   "partNo": "113-221",
+   "desc": "BOLT - 3/8\" x 7/8\" N.C. hex hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 74.6,
+   "y": 53.0,
+   "partNo": "A24572",
+   "desc": "HEADLAMP - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 78.8,
+   "y": 54.4,
+   "partNo": "A11276",
+   "desc": "GASKET - retainer ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 84.8,
+   "y": 57.5,
+   "partNo": "A11275",
+   "desc": "RING - headlamp retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 89.4,
+   "y": 59.5,
+   "partNo": "187-1102",
+   "desc": "SCREW - #6 x 1/2\" pan hd. self-tapping",
+   "reqd": "6"
+  },
+  {
+   "ref": "23",
+   "x": 66.0,
+   "y": 58.3,
+   "partNo": "KO230722",
+   "desc": "CONDENSER",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 59.5,
+   "y": 61.5,
+   "partNo": "KO231281",
+   "desc": "COIL - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 55.2,
+   "y": 63.2,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 51.6,
+   "y": 64.5,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 54.3,
+   "y": 41.5,
+   "partNo": "KOA235095",
+   "desc": "CABLE - hi-tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 38.3,
+   "y": 41.4,
+   "partNo": "M20007",
+   "desc": "SPARK PLUG - (includes gasket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 47.7,
+   "y": 45.6,
+   "partNo": "A27251",
+   "desc": "GASKET - spark plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 51.9,
+   "y": 20.8,
+   "partNo": "A21481",
+   "desc": "SOLENOID - starting",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 66.3,
+   "y": 15.7,
+   "partNo": "113-101",
+   "desc": "BOLT - 5/16\" x 1/2\" UN hex hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 62.7,
+   "y": 21.8,
+   "partNo": "192-20",
+   "desc": "WASHER - 5/16\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 58.3,
+   "y": 25.5,
+   "partNo": "C10836",
+   "desc": "NUT - speed type \"U\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 71.3,
+   "y": 5.9,
+   "partNo": "A70221",
+   "desc": "REGULATOR - voltage Delco No. 1118988",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 66.4,
+   "y": 4.4,
+   "partNo": "187-131",
+   "desc": "SCREW - 10\" x 1/2\", self-tapping flat head",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 33.1,
+   "y": 19.1,
+   "partNo": "C10470",
+   "desc": "CABLE - battery - positive to solenoid",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 16.3,
+   "y": 24.4,
+   "partNo": "C10473",
+   "desc": "CABLE - battery - negative to ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 62.6,
+   "y": 26.3,
+   "partNo": "C10471",
+   "desc": "CABLE - solenoid to starter-generator",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 91.9,
+   "y": 45.5,
+   "partNo": "C10985",
+   "desc": "WIRE ASSY - headlight to ground",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 30.5,
+   "y": 16.9,
+   "partNo": "129-409",
+   "desc": "NUT - wing, battery negative",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 24.7,
+   "y": 29.7,
+   "partNo": "C10469",
+   "desc": "BOLT - carriage, battery negative",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 73.2,
+   "y": 41.8,
+   "partNo": "C10588",
+   "desc": "WIRE - switch to headlights, 40\" black",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 18.1,
+   "y": 16.3,
+   "partNo": "C10587",
+   "desc": "WIRE - regulator to light switch, 10\" yellow",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 70.5,
+   "y": 9.8,
+   "partNo": "C10590",
+   "desc": "WIRE - regulator to solenoid, 4-3/4\" black",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 53.3,
+   "y": 16.1,
+   "partNo": "C10586",
+   "desc": "WIRE - regulator ground to solenoid, 7-1/4\" white",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 42.4,
+   "y": 11.9,
+   "partNo": "C10589",
+   "desc": "WIRE - ignition switch to regulator, 6-1/2\" red",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 47.1,
+   "y": 13.6,
+   "partNo": "C10591",
+   "desc": "WIRE - ignition switch to solenoid, 10\" blue",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 9.0,
+   "y": 34.4,
+   "partNo": "C10592",
+   "desc": "WIRE - ignition switch to coil, 36\" green",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 74.4,
+   "y": 19.5,
+   "partNo": "C10585",
+   "desc": "WIRE - regulator field to generator field, 22-3/4\" black",
+   "reqd": "1"
+  },
+  {
+   "ref": "50",
+   "x": 54.1,
+   "y": 24.2,
+   "partNo": "M20164",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "51",
+   "x": 31.2,
+   "y": 48.8,
+   "partNo": "KOA231533",
+   "desc": "LEAD - breaker contact (incl. grommet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "51",
+   "x": 38.5,
+   "y": 79.6,
+   "partNo": "KOA231533",
+   "desc": "LEAD - breaker contact (incl. grommet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "52",
+   "x": 39.2,
+   "y": 82.3,
+   "partNo": "KO220297",
+   "desc": "GROMMET - breaker contact lead",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 28.7,
+   "y": 89.4,
+   "partNo": "173-210",
+   "desc": "SCREW - #10-24 x 3/8\" rd. hd., plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "53",
+   "x": 60.8,
+   "y": 92.6,
+   "partNo": "173-210",
+   "desc": "SCREW - #10-24 x 3/8\" rd. hd., plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "54",
+   "x": 31.9,
+   "y": 87.8,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "54",
+   "x": 63.6,
+   "y": 90.7,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "55",
+   "x": 50.7,
+   "y": 97.3,
+   "partNo": "KO232535",
+   "desc": "COVER - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "55",
+   "x": 30.9,
+   "y": 54.6,
+   "partNo": "KO232535",
+   "desc": "COVER - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "56",
+   "x": 55.6,
+   "y": 95.0,
+   "partNo": "KO220174",
+   "desc": "GASKET - cover, breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "57",
+   "x": 67.0,
+   "y": 89.3,
+   "partNo": "187-408",
+   "desc": "SCREW - terminal, #6-32 x 3/8\" self-tapping",
+   "reqd": "1"
+  },
+  {
+   "ref": "58",
+   "x": 62.3,
+   "y": 72.7,
+   "partNo": "173-224",
+   "desc": "SCREW - breaker contact mtg. #8 x 1/4\" N.C. rd. hd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "59",
+   "x": 65.5,
+   "y": 73.9,
+   "partNo": "193-5",
+   "desc": "LOCKWASHER - #8 internal shakeproof",
+   "reqd": "1"
+  },
+  {
+   "ref": "60",
+   "x": 68.8,
+   "y": 75.4,
+   "partNo": "KO220475",
+   "desc": "POINT SET - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "61",
+   "x": 72.4,
+   "y": 76.4,
+   "partNo": "KO220476",
+   "desc": "BRACKET - mounting breaker contacts",
+   "reqd": "1"
+  },
+  {
+   "ref": "62",
+   "x": 75.8,
+   "y": 78.0,
+   "partNo": "KOX389-1",
+   "desc": "ROD - breaker contact push",
+   "reqd": "1"
+  },
+  {
+   "ref": "63",
+   "x": 46.1,
+   "y": 73.9,
+   "partNo": "KO275303",
+   "desc": "CLIP - breaker contact wire",
+   "reqd": "1"
+  }
+ ]
+}

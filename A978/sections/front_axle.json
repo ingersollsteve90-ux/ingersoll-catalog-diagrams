@@ -1,0 +1,235 @@
+{
+ "sectionTitle": "Front Axle",
+ "breadcrumb": "Front Axle",
+ "catalogLabel": "Catalog A978",
+ "modelNumbers": "Catalog A978 — Case Model 120 Compact (Garden) Tractor",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A978/front_axle.jpg",
+ "footnotes": "",
+ "dotSizePct": 3.07,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 7.6,
+   "y": 41.6,
+   "partNo": "25-118",
+   "desc": "NUT - 1/2\" N.C., hex plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "1",
+   "x": 21.4,
+   "y": 19.6,
+   "partNo": "25-118",
+   "desc": "NUT - 1/2\" N.C., hex plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 17.7,
+   "y": 23.5,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2\" SAE, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 3.4,
+   "y": 37.1,
+   "partNo": "C12102",
+   "desc": "JOINT - ball, 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29.8,
+   "y": 27.8,
+   "partNo": "C10247",
+   "desc": "ROD - drag link",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 76.7,
+   "y": 59.6,
+   "partNo": "113-205",
+   "desc": "BOLT - 3/8\" x 5/8\" NC hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 94.8,
+   "y": 42.3,
+   "partNo": "141-6",
+   "desc": "PIN - tie bar and drag link",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 37.8,
+   "y": 28.4,
+   "partNo": "141-6",
+   "desc": "PIN - tie bar and drag link",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 72.2,
+   "y": 65.0,
+   "partNo": "141-6",
+   "desc": "PIN - tie bar and drag link",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 34.1,
+   "y": 65.3,
+   "partNo": "132-47",
+   "desc": "PIN - cotter, 1/8\" x 7/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 91.4,
+   "y": 77.4,
+   "partNo": "132-47",
+   "desc": "PIN - cotter, 1/8\" x 7/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "7",
+   "x": 79.0,
+   "y": 92.7,
+   "partNo": "132-47",
+   "desc": "PIN - cotter, 1/8\" x 7/8\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 94.9,
+   "y": 27.8,
+   "partNo": "132-73",
+   "desc": "PIN - cotter, 5/32\" x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 65.3,
+   "y": 8.7,
+   "partNo": "132-73",
+   "desc": "PIN - cotter, 5/32\" x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 51.1,
+   "y": 19.2,
+   "partNo": "132-73",
+   "desc": "PIN - cotter, 5/32\" x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 34.3,
+   "y": 73.1,
+   "partNo": "132-73",
+   "desc": "PIN - cotter, 5/32\" x 1-1/2\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 34.3,
+   "y": 80.5,
+   "partNo": "195-45",
+   "desc": "WASHER - plain, 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 95.0,
+   "y": 35.2,
+   "partNo": "195-45",
+   "desc": "WASHER - plain, 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 55.3,
+   "y": 15.6,
+   "partNo": "195-45",
+   "desc": "WASHER - plain, 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 84.7,
+   "y": 5.6,
+   "partNo": "195-45",
+   "desc": "WASHER - plain, 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 84.3,
+   "y": 29.3,
+   "partNo": "C10209",
+   "desc": "AXLE - front",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 67.1,
+   "y": 60.2,
+   "partNo": "C10240",
+   "desc": "SPINDLE - right hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 84.6,
+   "y": 40.7,
+   "partNo": "C10241",
+   "desc": "SPINDLE - left hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 76.3,
+   "y": 68.4,
+   "partNo": "C10235",
+   "desc": "TIE BAR - spindle",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 84.3,
+   "y": 13.0,
+   "partNo": "219-8",
+   "desc": "FITTING - lube",
+   "reqd": "3"
+  },
+  {
+   "ref": "14",
+   "x": 60.2,
+   "y": 52.9,
+   "partNo": "219-8",
+   "desc": "FITTING - lube",
+   "reqd": "3"
+  },
+  {
+   "ref": "15",
+   "x": 67.1,
+   "y": 50.9,
+   "partNo": "C10501",
+   "desc": "PIN - axle pivot (See C10500 for tractor w/PTO)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 71.9,
+   "y": 56.0,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" SAE",
+   "reqd": "1"
+  }
+ ]
+}

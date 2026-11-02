@@ -1,0 +1,67 @@
+{
+ "sectionTitle": "Engine to Transmission Belt Adjustment",
+ "breadcrumb": "Engine to Transmission Belt Adjustment",
+ "catalogLabel": "Catalog A978",
+ "modelNumbers": "Catalog A978 — Case Model 120 Compact (Garden) Tractor",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A978/belt_adjustment.jpg",
+ "footnotes": "",
+ "dotSizePct": 3.97,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 4.4,
+   "y": 74.3,
+   "partNo": "C10718",
+   "desc": "BRACKET - belt adjusting",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 20.1,
+   "y": 18.3,
+   "partNo": "113-250",
+   "desc": "BOLT - 3/8\"-16 x 2-1/2\", belt adjusting",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 53.0,
+   "y": 35.3,
+   "partNo": "13-618",
+   "desc": "BOLT - 3/8\"-16 x 1-1/8\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "3",
+   "x": 9.5,
+   "y": 50.2,
+   "partNo": "13-618",
+   "desc": "BOLT - 3/8\"-16 x 1-1/8\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "4",
+   "x": 73.2,
+   "y": 47.7,
+   "partNo": "95-6",
+   "desc": "WASHER - flat, 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 22.0,
+   "y": 55.3,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "5",
+   "x": 73.2,
+   "y": 37.8,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "5"
+  }
+ ]
+}

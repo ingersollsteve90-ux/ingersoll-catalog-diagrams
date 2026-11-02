@@ -1,0 +1,131 @@
+{
+ "sectionTitle": "Transmission Belt Drive",
+ "breadcrumb": "Transmission Belt Drive",
+ "catalogLabel": "Catalog A978",
+ "modelNumbers": "Catalog A978 — Case Model 120 Compact (Garden) Tractor",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A978/transmission_belt_drive.jpg",
+ "footnotes": "",
+ "dotSizePct": 3.53,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 95.0,
+   "y": 25.1,
+   "partNo": "C10409",
+   "desc": "BRACKET - idler",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 86.7,
+   "y": 84.2,
+   "partNo": "C10463",
+   "desc": "SHEAVE - idler, 4\" OD",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 78.3,
+   "y": 30.6,
+   "partNo": "C10463",
+   "desc": "SHEAVE - idler, 4\" OD",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 80.4,
+   "y": 94.3,
+   "partNo": "13-820",
+   "desc": "BOLT - 1/2\" x 1-1/4\", idler mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 58.9,
+   "y": 32.5,
+   "partNo": "13-820",
+   "desc": "BOLT - 1/2\" x 1-1/4\", idler mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 55.3,
+   "y": 47.3,
+   "partNo": "131-354",
+   "desc": "NUT - 1/2\", hex, idler mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 60.1,
+   "y": 39.6,
+   "partNo": "C10551",
+   "desc": "BUSHING - idler, sheave",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 72.3,
+   "y": 71.9,
+   "partNo": "C10551",
+   "desc": "BUSHING - idler, sheave",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 3.8,
+   "y": 36.7,
+   "partNo": "C10425",
+   "desc": "SHEAVE - 6\" (on C11190 transmission shaft)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 13.5,
+   "y": 67.6,
+   "partNo": "126-16",
+   "desc": "KEY - Woodruff #9",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 45.3,
+   "y": 80.6,
+   "partNo": "C10389",
+   "desc": "BELT - 76-1/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 46.9,
+   "y": 5.1,
+   "partNo": "C11259",
+   "desc": "GUARD - belt",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 87.4,
+   "y": 9.4,
+   "partNo": "187-1014",
+   "desc": "SCREW - 1/4\" x 1/2\" self-tapping",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 35.6,
+   "y": 56.0,
+   "partNo": "13-612",
+   "desc": "BOLT - 3/8\"-16 x 3/4\", hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 34.0,
+   "y": 41.7,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  }
+ ]
+}

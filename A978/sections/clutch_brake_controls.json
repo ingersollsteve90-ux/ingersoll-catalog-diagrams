@@ -1,0 +1,323 @@
+{
+ "sectionTitle": "Clutch and Brake Controls",
+ "breadcrumb": "Clutch and Brake Controls",
+ "catalogLabel": "Catalog A978",
+ "modelNumbers": "Catalog A978 — Case Model 120 Compact (Garden) Tractor",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A978/clutch_brake_controls.jpg",
+ "footnotes": "",
+ "dotSizePct": 3.31,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 62.6,
+   "y": 69.6,
+   "partNo": "C10310",
+   "desc": "PEDAL - foot brake and clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 55.4,
+   "y": 67.0,
+   "partNo": "C10774",
+   "desc": "LINK - brake, front",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 25.6,
+   "y": 70.8,
+   "partNo": "C10775",
+   "desc": "LINK - brake, rear",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 41.5,
+   "y": 59.8,
+   "partNo": "C10773",
+   "desc": "LINK - brake, lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 81.1,
+   "y": 68.5,
+   "partNo": "132-24",
+   "desc": "PIN - cotter, 3/32\" x 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "5",
+   "x": 22.0,
+   "y": 56.0,
+   "partNo": "132-24",
+   "desc": "PIN - cotter, 3/32\" x 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "6",
+   "x": 21.3,
+   "y": 67.1,
+   "partNo": "195-103",
+   "desc": "WASHER - flat, 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 34.7,
+   "y": 57.1,
+   "partNo": "195-103",
+   "desc": "WASHER - flat, 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "6",
+   "x": 77.7,
+   "y": 62.0,
+   "partNo": "195-103",
+   "desc": "WASHER - flat, 5/16\"",
+   "reqd": "5"
+  },
+  {
+   "ref": "7",
+   "x": 51.9,
+   "y": 75.2,
+   "partNo": "C10776",
+   "desc": "NUT - brake, lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 12.7,
+   "y": 91.1,
+   "partNo": "129-101",
+   "desc": "NUT - hex, brake adjusting",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 76.0,
+   "y": 49.4,
+   "partNo": "C10794",
+   "desc": "BELLCRANK - clutch control",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 77.2,
+   "y": 42.1,
+   "partNo": "C10571",
+   "desc": "NYLINER - 1/2\" I.D. x 9/16\" O.D.",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 54.9,
+   "y": 53.7,
+   "partNo": "C10571",
+   "desc": "NYLINER - 1/2\" I.D. x 9/16\" O.D.",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 42.1,
+   "y": 55.4,
+   "partNo": "132-46",
+   "desc": "PIN - cotter, 1/8\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 50.5,
+   "y": 56.2,
+   "partNo": "92-8",
+   "desc": "WASHER - flat, 9/16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 86.6,
+   "y": 38.0,
+   "partNo": "C10750",
+   "desc": "SPACER - bellcrank",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 91.5,
+   "y": 48.1,
+   "partNo": "C10518",
+   "desc": "LINK - clutch pedal",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 53.7,
+   "y": 43.7,
+   "partNo": "C10519",
+   "desc": "LINK - clutch",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 64.6,
+   "y": 24.0,
+   "partNo": "C10519",
+   "desc": "LINK - clutch",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 60.6,
+   "y": 57.1,
+   "partNo": "126-24",
+   "desc": "PIN - cotter, 3/32\" x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "16",
+   "x": 46.8,
+   "y": 21.2,
+   "partNo": "126-24",
+   "desc": "PIN - cotter, 3/32\" x 1/2\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 53.5,
+   "y": 21.0,
+   "partNo": "192-19",
+   "desc": "WASHER - flat, 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "17",
+   "x": 36.1,
+   "y": 37.8,
+   "partNo": "192-19",
+   "desc": "WASHER - flat, 1/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "18",
+   "x": 50.4,
+   "y": 40.1,
+   "partNo": "C10792",
+   "desc": "EYEBOLT",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 42.3,
+   "y": 22.0,
+   "partNo": "A70418",
+   "desc": "SPRING - clutch",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 68.3,
+   "y": 31.4,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\"-20, hex plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 3.8,
+   "y": 69.2,
+   "partNo": "C10307",
+   "desc": "DRUM - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 10.3,
+   "y": 82.4,
+   "partNo": "126-16",
+   "desc": "KEY - Woodruff #9",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 16.2,
+   "y": 69.7,
+   "partNo": "83-46",
+   "desc": "SCREW - set, 1/4\"-20 x 3/8\" cup pt.",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 22.4,
+   "y": 91.9,
+   "partNo": "C11284",
+   "desc": "BAND - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 29.8,
+   "y": 93.9,
+   "partNo": "C10741",
+   "desc": "BUSHING - brake band support",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 40.5,
+   "y": 78.0,
+   "partNo": "13-640",
+   "desc": "BOLT - 3/8\"-16 N.C. x 2-1/2\", hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 39.6,
+   "y": 82.3,
+   "partNo": "95-6",
+   "desc": "WASHER - flat, 3/8\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 50.9,
+   "y": 88.6,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 59.3,
+   "y": 91.8,
+   "partNo": "25-106",
+   "desc": "NUT - 3/8\"-16, hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 70.0,
+   "y": 23.4,
+   "partNo": "13-612",
+   "desc": "BOLT - 3/8\" x 3/4\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 73.3,
+   "y": 21.0,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "32",
+   "x": 77.2,
+   "y": 19.7,
+   "partNo": "95-6",
+   "desc": "WASHER - flat, 3/8\"",
+   "reqd": "4"
+  }
+ ]
+}
