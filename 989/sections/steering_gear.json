@@ -1,0 +1,126 @@
+{
+ "sectionTitle": "Steering Gear",
+ "breadcrumb": "Steering Gear",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/steering_gear.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 31.33,
+   "y": 5.19,
+   "partNo": "C10569",
+   "desc": "CAP - steering wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 31.1,
+   "y": 10.54,
+   "partNo": "C10570",
+   "desc": "RING - cap retainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 30.64,
+   "y": 13.97,
+   "partNo": "25-1510",
+   "desc": "NUT - jam, 5/8\"-18 FHNUNF",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 8.88,
+   "y": 24.79,
+   "partNo": "A70058",
+   "desc": "WHEEL - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 11.85,
+   "y": 89.68,
+   "partNo": "C11676",
+   "desc": "GEAR - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 11.62,
+   "y": 86.04,
+   "partNo": "C12206",
+   "desc": "BUSHING - bronze 3/4\" I.D. x 7/8\" O.D. x 7/8\" long",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 33.15,
+   "y": 71.8,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C11685",
+     "desc": "SHAFT - steering (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12116",
+     "desc": "SHAFT - steering (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 32.35,
+   "y": 65.05,
+   "partNo": "C12205",
+   "desc": "BUSHING - flange",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 31.1,
+   "y": 37.31,
+   "partNo": "C12126",
+   "desc": "BUSHING - nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 33.61,
+   "y": 59.38,
+   "partNo": "T25683",
+   "desc": "RING - retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 32.92,
+   "y": 62.37,
+   "partNo": "C12125",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 10.82,
+   "y": 83.26,
+   "partNo": "C12007",
+   "desc": "RING - external retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 11.85,
+   "y": 80.15,
+   "partNo": "195-2082",
+   "desc": "WASHER",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 6.5
+}

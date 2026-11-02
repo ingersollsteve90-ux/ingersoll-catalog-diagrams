@@ -1,0 +1,59 @@
+{
+ "sectionTitle": "Hydraulic Pump Drive Coupling",
+ "breadcrumb": "Hydraulic Pump Drive Coupling",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/pump_drive_coupling.jpg",
+ "hotspots": [
+  {
+   "ref": "18",
+   "x": 16.0,
+   "y": 34.47,
+   "partNo": "A70111",
+   "desc": "COUPLING - pump drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 66.95,
+   "y": 11.86,
+   "partNo": "83-55",
+   "desc": "SCREW - 5/16\" x 5/16\" N.C. socket head set",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 92.47,
+   "y": 88.36,
+   "partNo": "83-55",
+   "desc": "SCREW - 5/16\" x 5/16\" N.C. socket head set",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 74.77,
+   "y": 19.51,
+   "partNo": "NSS",
+   "desc": "HUB - half, 5/8\" dia. bore (Order A70111)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 83.78,
+   "y": 28.31,
+   "partNo": "A70112",
+   "desc": "SPIDER - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 93.02,
+   "y": 37.33,
+   "partNo": "NSS",
+   "desc": "HUB - half, 1\" dia. bore (Order A70111)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.2
+}

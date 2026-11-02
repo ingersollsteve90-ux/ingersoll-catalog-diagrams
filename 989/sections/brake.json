@@ -1,0 +1,147 @@
+{
+ "sectionTitle": "Brake",
+ "breadcrumb": "Brake",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/brake.jpg",
+ "hotspots": [
+  {
+   "ref": "20",
+   "x": 81.85,
+   "y": 43.54,
+   "partNo": "C12016",
+   "desc": "PEDAL - brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 42.96,
+   "y": 71.45,
+   "partNo": "C12019",
+   "desc": "ROD - brake-lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 89.0,
+   "y": 78.35,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 36.75,
+   "y": 66.86,
+   "partNo": "132-26",
+   "desc": "PIN - cotter, 3/32\" x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 29.82,
+   "y": 10.93,
+   "partNo": "C11620",
+   "desc": "LEVER - brake lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 45.37,
+   "y": 10.71,
+   "partNo": "131-352",
+   "desc": "NUT - 3/8\"-16, self-locking",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 19.41,
+   "y": 64.34,
+   "partNo": "C10467",
+   "desc": "ROD-EYE",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 7.84,
+   "y": 60.29,
+   "partNo": "C11531",
+   "desc": "ANCHOR, spring",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 22.14,
+   "y": 24.83,
+   "partNo": "C11523",
+   "desc": "SPRING, extension",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 53.99,
+   "y": 40.48,
+   "partNo": "C10528",
+   "desc": "VALVE - park and brake",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 54.21,
+   "y": 10.6,
+   "partNo": "NSS",
+   "desc": "SPOOL",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 68.82,
+   "y": 19.24,
+   "partNo": "F62075",
+   "desc": "\"O\" RING",
+   "reqd": "3"
+  },
+  {
+   "ref": "31",
+   "x": 53.99,
+   "y": 19.24,
+   "partNo": "B18208",
+   "desc": "SNAP RING",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 43.69,
+   "y": 43.43,
+   "partNo": "C11792",
+   "desc": "STOP - brake rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 35.7,
+   "y": 57.66,
+   "partNo": "178-26",
+   "desc": "SCREW - set, 1/4\" x 3/8\" N.C. Cone Pt.",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 29.82,
+   "y": 25.59,
+   "partNo": "113-206",
+   "desc": "BOLT - 3/8 x 3/4 FHBUNC plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 48.11,
+   "y": 49.78,
+   "partNo": "A27410",
+   "desc": "\"O\" RING - brake valve to hydraulic motor",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.4
+}

@@ -1,0 +1,59 @@
+{
+ "sectionTitle": "Exhaust System",
+ "breadcrumb": "Exhaust System",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/exhaust_system.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 91.64,
+   "y": 51.99,
+   "partNo": "C12071",
+   "desc": "MUFFLER - exhaust",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 91.53,
+   "y": 8.14,
+   "partNo": "C10372",
+   "desc": "GASKET - exhaust pad",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 43.3,
+   "y": 13.29,
+   "partNo": "92-5",
+   "desc": "WASHER - lock, 5/16\" SAE",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 8.25,
+   "y": 63.95,
+   "partNo": "61-510",
+   "desc": "SCREW - 5/16-18 x 5/8\" socket hd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 33.3,
+   "y": 70.85,
+   "partNo": "71-410",
+   "desc": "SCREW - 1/4\" x 5/8\" N.C., fillister head",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 40.44,
+   "y": 65.81,
+   "partNo": "193-60",
+   "desc": "LOCKWASHER - 1/4\" SAE, plated",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 6.3
+}

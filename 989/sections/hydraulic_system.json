@@ -1,0 +1,443 @@
+{
+ "sectionTitle": "Hydraulic System",
+ "breadcrumb": "Hydraulic System",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/hydraulic_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 16.19,
+   "y": 3.45,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C10270",
+     "desc": "MOTOR - hydraulic (195) Repairs Page 41",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C10271",
+     "desc": "MOTOR - hydraulic (155) Repairs Page 41",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 11.45,
+   "y": 5.73,
+   "partNo": "A70128",
+   "desc": "GASKET - motor to transfer case",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 34.18,
+   "y": 49.68,
+   "variants": [
+    {
+     "serialNote": "* Model 155 S/N 9615251 to 9615379; Model 195 S/N 9620251 to 9620323",
+     "partNo": "218-493",
+     "desc": "FITTING - 90°, 1/2\" tube x 1/2\" NPT (Model 155 S/N 9615251 to 9615379; Model 195 S/N 9620251 to 9620323)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "** Model 155 S/N 9615380 and up; Model 195 S/N 9620324 and up",
+     "partNo": "218-5106",
+     "desc": "FITTING - 90° elbow, 1/2\" tube x 3/4\"-16 \"O\" ring (Model 155 S/N 9615380 and up; Model 195 S/N 9620324 and up)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "4",
+   "x": 4.4,
+   "y": 8.53,
+   "partNo": "A70127",
+   "desc": "BOLT - special, Jay-Lock",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 46.39,
+   "y": 11.12,
+   "partNo": "166-23",
+   "desc": "BOLT - 5/16\"-18 x 5/8\" N.C.",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 42.18,
+   "y": 9.46,
+   "partNo": "193-29",
+   "desc": "LOCKWASHER - 5/16\" internal tooth",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 37.97,
+   "y": 26.25,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C12049",
+     "desc": "TUBE - frt. valve port to brake (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12051",
+     "desc": "TUBE - frt. valve port to brake (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "8",
+   "x": 32.6,
+   "y": 21.9,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C12050",
+     "desc": "TUBE - rear valve port to brake (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12052",
+     "desc": "TUBE - rear valve port to brake (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "9",
+   "x": 27.02,
+   "y": 20.55,
+   "partNo": "C10528",
+   "desc": "VALVE - park and brake (Repairs Page 49)",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 36.39,
+   "y": 53.3,
+   "partNo": "218-5108",
+   "desc": "FITTING - 90°, 3/4\" tube x 1-1/16\" thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 23.34,
+   "y": 30.5,
+   "variants": [
+    {
+     "serialNote": "* Model 155 S/N 9615251 to 9615379; Model 195 S/N 9620251 to 9620323",
+     "partNo": "C10495",
+     "desc": "VALVE - control NPT ports (Repairs Page 37) (Model 155 S/N 9615251 to 9615379; Model 195 S/N 9620251 to 9620323)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "** Model 155 S/N 9615380 and up; Model 195 S/N 9620324 and up",
+     "partNo": "C12149",
+     "desc": "VALVE - control SAE ports (Repairs Page 37) (Model 155 S/N 9615380 and up; Model 195 S/N 9620324 and up)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "12",
+   "x": 28.5,
+   "y": 48.85,
+   "partNo": "218-494",
+   "desc": "FITTING - 90°, 5/8\" tube x 3/4\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 59.02,
+   "y": 84.19,
+   "partNo": "C10266",
+   "desc": "TUBE - heat exchanger to valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 76.59,
+   "y": 67.3,
+   "partNo": "C10418",
+   "desc": "CLAMP - hose (tube end)",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 69.96,
+   "y": 88.34,
+   "partNo": "C10418",
+   "desc": "CLAMP - hose (tube end)",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 68.07,
+   "y": 75.48,
+   "partNo": "C10419",
+   "desc": "HOSE",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 81.43,
+   "y": 80.25,
+   "partNo": "C10677",
+   "desc": "CLAMP - hose (heat exchanger end)",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 44.07,
+   "y": 76.52,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C10267",
+     "desc": "TUBE - trans. to heat exchanger (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12067",
+     "desc": "TUBE - trans. to heat exchanger (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "18",
+   "x": 37.65,
+   "y": 74.55,
+   "partNo": "218-445",
+   "desc": "FITTING - 3/4\" tube x 3/4\" NPT",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 11.03,
+   "y": 58.07,
+   "partNo": "A70117",
+   "desc": "FITTING - w/filter",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 21.45,
+   "y": 66.16,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C10264",
+     "desc": "TUBE - pump to transmission (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12070",
+     "desc": "TUBE - pump to transmission (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "21",
+   "x": 59.12,
+   "y": 35.58,
+   "partNo": "C10265",
+   "desc": "TUBE - pump to valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 51.02,
+   "y": 30.71,
+   "partNo": "218-1056",
+   "desc": "FITTING - 90° elbow, 1/2\" tube x 3/4\" thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 49.54,
+   "y": 53.41,
+   "partNo": "218-5006",
+   "desc": "\"O\" RING - 1/2\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 68.8,
+   "y": 43.35,
+   "partNo": "218-5059",
+   "desc": "FITTING - \"O\" ring, 1/2\" tube x 3/4\" thread",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 55.75,
+   "y": 42.52,
+   "partNo": "218-5008",
+   "desc": "\"O\" RING - 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 38.5,
+   "y": 47.71,
+   "partNo": "166-561",
+   "desc": "SCREW - ferry cap, 7/16\"-20 x 1\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 41.34,
+   "y": 49.26,
+   "partNo": "193-31",
+   "desc": "LOCKWASHER - 7/16\" external tooth",
+   "reqd": "2"
+  },
+  {
+   "ref": "28",
+   "x": 49.97,
+   "y": 39.52,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C10493",
+     "desc": "PUMP - hydraulic (195) (Repairs Page 39)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C10258",
+     "desc": "PUMP - hydraulic (155) (Repairs Page 39)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 71.64,
+   "y": 45.01,
+   "partNo": "126-12",
+   "desc": "KEY - Woodruff",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 75.85,
+   "y": 47.08,
+   "partNo": "A70111",
+   "desc": "COUPLING - (Repairs Page 39)",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 79.12,
+   "y": 48.64,
+   "partNo": "W5063-S",
+   "desc": "KEY - 1/4\" square x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 58.17,
+   "y": 60.87,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" N.C. hex plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "33",
+   "x": 62.49,
+   "y": 62.74,
+   "partNo": "192-21",
+   "desc": "WASHER - 3/8\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "34",
+   "x": 84.17,
+   "y": 51.13,
+   "partNo": "A70109",
+   "desc": "SUPPORT - hydraulic pump mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 92.16,
+   "y": 59.83,
+   "partNo": "C12072",
+   "desc": "EXCHANGER - heat",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 81.54,
+   "y": 61.08,
+   "partNo": "171-209",
+   "desc": "SCREW - 1/4\" x 1\" N.C. hex plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "37",
+   "x": 84.06,
+   "y": 63.25,
+   "partNo": "193-52",
+   "desc": "LOCKWASHER - 1/4\" external tooth",
+   "reqd": "4"
+  },
+  {
+   "ref": "38",
+   "x": 88.48,
+   "y": 58.9,
+   "partNo": "C10348",
+   "desc": "BRACKET - heat exchanger",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 46.39,
+   "y": 43.66,
+   "partNo": "73-410",
+   "desc": "SCREW - 1/4\"-20 x 5/8\" N.C. flat head",
+   "reqd": "2"
+  },
+  {
+   "ref": "40",
+   "x": 44.91,
+   "y": 30.4,
+   "partNo": "25-104",
+   "desc": "NUT - 1/4\"-20 N.C.",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 44.6,
+   "y": 41.28,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\" SAE",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 25.55,
+   "y": 14.95,
+   "partNo": "A27410",
+   "desc": "\"O\" RING",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "* Model 155 S/N 9615251 to 9615379; Model 195 S/N 9620251 to 9620323.\n** Model 155 S/N 9615380 and up; Model 195 S/N 9620324 and up.",
+ "dotSizePct": 3.4
+}

@@ -1,0 +1,267 @@
+{
+ "sectionTitle": "Fuel System and Fuel Pump",
+ "breadcrumb": "Fuel System and Fuel Pump",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/fuel_system_fuel_pump.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 83.47,
+   "y": 41.19,
+   "partNo": "C10479",
+   "desc": "TANK - fuel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 77.59,
+   "y": 5.71,
+   "partNo": "C11529",
+   "desc": "CAP - fuel tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 73.5,
+   "y": 40.87,
+   "partNo": "A70100",
+   "desc": "STRAP - fuel tank mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 35.21,
+   "y": 44.21,
+   "partNo": "173-215",
+   "desc": "SCREW - 1/4\" x 1-1/4\" rd. hd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 35.52,
+   "y": 31.59,
+   "partNo": "131-350",
+   "desc": "NUT - 1/4\" square",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 64.9,
+   "y": 57.67,
+   "partNo": "C10657",
+   "desc": "ELBOW - fuel line",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 57.34,
+   "y": 68.0,
+   "partNo": "C12211",
+   "desc": "HOSE - fuel line",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 30.48,
+   "y": 81.77,
+   "partNo": "C10678",
+   "desc": "FITTING - elbow, fuel line, nylon",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 61.33,
+   "y": 63.09,
+   "partNo": "214-253",
+   "desc": "CLAMP - 1/2\" hose",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 35.63,
+   "y": 52.24,
+   "partNo": "A72100",
+   "desc": "GASKET - carburetor flange",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 52.52,
+   "y": 59.03,
+   "partNo": "A72073",
+   "desc": "CARBURETOR ASSEMBLY (Repairs Page 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 50.94,
+   "y": 68.83,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" SAE std.",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 47.27,
+   "y": 71.34,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex head",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 26.6,
+   "y": 68.62,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 77.7,
+   "y": 10.93,
+   "partNo": "C11545",
+   "desc": "INSERT - fuel cap",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 36.67,
+   "y": 5.4,
+   "partNo": "C12203",
+   "desc": "BRACKET - fuel tank mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 42.13,
+   "y": 73.63,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 21.99,
+   "y": 86.26,
+   "partNo": "71-410",
+   "desc": "SCREW - 1/4\" x 5/8\" N.C. fillister head",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 25.97,
+   "y": 83.86,
+   "partNo": "193-60",
+   "desc": "LOCKWASHER - 1/4\" SAE std.",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 15.27,
+   "y": 72.9,
+   "partNo": "222-41",
+   "desc": "ELBOW - includes sleeve and nut",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 15.06,
+   "y": 66.95,
+   "partNo": "222-101",
+   "desc": "SLEEVE - for 3/16\" O.D. tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 27.44,
+   "y": 48.7,
+   "partNo": "222-101",
+   "desc": "SLEEVE - for 3/16\" O.D. tube",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 23.87,
+   "y": 46.72,
+   "partNo": "222-112",
+   "desc": "NUT - for 3/16\" O.D. tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 15.17,
+   "y": 63.62,
+   "partNo": "222-112",
+   "desc": "NUT - for 3/16\" O.D. tube",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 14.64,
+   "y": 59.13,
+   "partNo": "KO235097",
+   "desc": "LINE - fuel pump to carburetor",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 30.48,
+   "y": 50.26,
+   "partNo": "222-4021",
+   "desc": "CONNECTOR ASSEMBLY - includes sleeve and nut",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 15.48,
+   "y": 77.18,
+   "partNo": "KOA235845",
+   "desc": "FUEL PUMP - (for 10 HP model) (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 37.2,
+   "y": 85.63,
+   "partNo": "KOA236205",
+   "desc": "FUEL PUMP - (for 12 HP model) (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 69.94,
+   "y": 83.75,
+   "partNo": "KO230675",
+   "desc": "FUEL PUMP KIT - for KOA235845 pump (incl. spring - fuel pump valve, valve - fuel pump (2), gasket - valve, diaphragm assembly, spring - diaphragm; all NSS)",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 35.63,
+   "y": 35.45,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 95.33,
+   "y": 84.27,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 4.15,
+   "y": 30.34,
+   "partNo": "KO236387",
+   "desc": "FUEL PUMP KIT - for KOA236205 pump (incl. gasket - valve housing, valve assembly (2), gasket - valve (2), diaphragm assembly, spring - diaphragm; all NSS)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.3
+}

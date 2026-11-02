@@ -1,0 +1,91 @@
+{
+ "sectionTitle": "Air Cleaner",
+ "breadcrumb": "Air Cleaner",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/air_cleaner.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 48.11,
+   "y": 37.73,
+   "partNo": "KOA235100",
+   "desc": "AIR CLEANER ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 21.5,
+   "y": 81.59,
+   "partNo": "129-409",
+   "desc": "NUT - wing, 3/8\" N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 24.12,
+   "y": 79.88,
+   "partNo": "KOA536",
+   "desc": "WASHER - copper",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 35.54,
+   "y": 59.5,
+   "partNo": "NSS",
+   "desc": "COVER - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 38.37,
+   "y": 56.51,
+   "partNo": "A70090",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 62.47,
+   "y": 37.41,
+   "partNo": "NSS",
+   "desc": "BASE - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 65.61,
+   "y": 82.87,
+   "partNo": "177-131",
+   "desc": "SCREW - fill. hd. 10-32 x 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 69.28,
+   "y": 79.88,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 72.64,
+   "y": 76.89,
+   "partNo": "195-512",
+   "desc": "WASHER - plain, 3/16\" SAE",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 75.78,
+   "y": 25.78,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.8
+}

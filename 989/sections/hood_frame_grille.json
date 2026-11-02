@@ -1,0 +1,308 @@
+{
+ "sectionTitle": "Hood, Frame and Grille",
+ "breadcrumb": "Hood, Frame and Grille",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/hood_frame_grille.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 83.06,
+   "y": 39.8,
+   "partNo": "C11295",
+   "desc": "GRILLE",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 74.87,
+   "y": 75.34,
+   "partNo": "C10349",
+   "desc": "BRACKET - grille mounting",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 89.37,
+   "y": 69.54,
+   "partNo": "C10413",
+   "desc": "PANEL - grille",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 89.58,
+   "y": 46.74,
+   "partNo": "A24526",
+   "desc": "MEDALLION - radiator grille",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 61.42,
+   "y": 35.65,
+   "partNo": "131-138",
+   "desc": "NUT - 1/4\" Timmerman",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 75.39,
+   "y": 91.4,
+   "partNo": "182-509",
+   "desc": "SCREW - 5/16\"-18 x 1\" pan head, Phillips",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 75.18,
+   "y": 84.15,
+   "partNo": "193-9",
+   "desc": "LOCKWASHER - 5/16\" SAE external tooth",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 59.42,
+   "y": 69.74,
+   "partNo": "C10370",
+   "desc": "PANEL - front, side, right hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 53.96,
+   "y": 69.33,
+   "partNo": "C10371",
+   "desc": "PANEL - front, side, left hand",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 4.26,
+   "y": 83.22,
+   "variants": [
+    {
+     "serialNote": "Right hand",
+     "partNo": "C12234",
+     "desc": "PANEL - rear, side, right hand",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "Left hand",
+     "partNo": "C12114",
+     "desc": "PANEL - rear, side, left hand",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "11",
+   "x": 45.45,
+   "y": 69.33,
+   "partNo": "C10596",
+   "desc": "SCREW - #10 Phillips pan head",
+   "reqd": "6"
+  },
+  {
+   "ref": "12",
+   "x": 76.55,
+   "y": 10.05,
+   "partNo": "C10360",
+   "desc": "HOOD",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 56.27,
+   "y": 32.96,
+   "partNo": "C10361",
+   "desc": "SCREW - 1/4\"-20 x 1/2\", lock, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "14",
+   "x": 61.21,
+   "y": 30.88,
+   "partNo": "C11534",
+   "desc": "BUSHING - hood",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 59.0,
+   "y": 62.9,
+   "partNo": "C12165",
+   "desc": "WRAPPER - front panel",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 19.6,
+   "y": 17.83,
+   "partNo": "C12203",
+   "desc": "BRACKET - fuel tank mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 50.07,
+   "y": 32.96,
+   "partNo": "193-8",
+   "desc": "WASHER - 1/4\" shakeproof",
+   "reqd": "3"
+  },
+  {
+   "ref": "17",
+   "x": 41.45,
+   "y": 37.62,
+   "partNo": "193-8",
+   "desc": "WASHER - 1/4\" shakeproof",
+   "reqd": "3"
+  },
+  {
+   "ref": "18",
+   "x": 40.93,
+   "y": 32.85,
+   "partNo": "173-207",
+   "desc": "SCREW - 1/4\" x 5/8\" rd. hd. machine",
+   "reqd": "3"
+  },
+  {
+   "ref": "19",
+   "x": 49.75,
+   "y": 35.75,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C., zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 33.99,
+   "y": 37.52,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C., zinc plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 41.14,
+   "y": 52.13,
+   "partNo": "C11533",
+   "desc": "SPACER - hood",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 11.51,
+   "y": 14.41,
+   "partNo": "113-3",
+   "desc": "BOLT - 1/4\"-20 x 3/4\" plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 9.19,
+   "y": 97.0,
+   "partNo": "C10283",
+   "desc": "FOOTPAD",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 10.24,
+   "y": 90.99,
+   "partNo": "15-514",
+   "desc": "BOLT - 5/16\" x 7/8\" N.C., rd. hd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 45.87,
+   "y": 73.58,
+   "partNo": "25-105",
+   "desc": "NUT - 5/16\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 9.72,
+   "y": 87.98,
+   "partNo": "92-5",
+   "desc": "LOCKWASHER - 5/16\" SAE",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 14.45,
+   "y": 55.55,
+   "partNo": "C11582",
+   "desc": "CHANNEL - instrument panel liner",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 50.8,
+   "y": 73.58,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C12047",
+     "desc": "FRAME - main (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12048",
+     "desc": "FRAME - main (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 13.82,
+   "y": 44.87,
+   "variants": [
+    {
+     "serialNote": "Model 195",
+     "partNo": "C11483",
+     "desc": "SUPPORT - steering (195)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 155",
+     "partNo": "C12057",
+     "desc": "SUPPORT - steering (155)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 13.92,
+   "y": 48.5,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" SAE std. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 13.61,
+   "y": 51.71,
+   "partNo": "172-225",
+   "desc": "SCREW - 1/4\"-20 x 3/8\" rd. hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 5.1,
+   "y": 87.26,
+   "partNo": "187-1036",
+   "desc": "SCREW - 1/4\"-20 x 1/2\" self-tapping",
+   "reqd": "6"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.3
+}

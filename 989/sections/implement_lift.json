@@ -1,0 +1,115 @@
+{
+ "sectionTitle": "Implement Lift",
+ "breadcrumb": "Implement Lift",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/implement_lift.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 71.11,
+   "y": 69.68,
+   "partNo": "C12570",
+   "desc": "LEVER - implement lift (includes items 4 and 9)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 67.43,
+   "y": 15.61,
+   "partNo": "C10336",
+   "desc": "PAD - lift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 8.11,
+   "y": 77.25,
+   "partNo": "C10338",
+   "desc": "ROD - lift lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 92.32,
+   "y": 49.68,
+   "partNo": "NSS",
+   "desc": "LEVER - pivot (use C12570)",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 92.0,
+   "y": 40.59,
+   "partNo": "C12280",
+   "desc": "ROD - depth adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 55.2,
+   "y": 8.58,
+   "partNo": "C10356",
+   "desc": "BUTTON - thumb",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 34.63,
+   "y": 21.88,
+   "partNo": "C10482",
+   "desc": "SPRING, compression",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 25.54,
+   "y": 11.07,
+   "partNo": "C10485",
+   "desc": "PIN - spiral, 1/8\" x 3/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 66.45,
+   "y": 46.32,
+   "partNo": "138-2033",
+   "desc": "PIN - spiral, 1/4\" x 1-3/8\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 56.28,
+   "y": 37.24,
+   "partNo": "129-410",
+   "desc": "NUT - wing",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 27.7,
+   "y": 71.2,
+   "partNo": "195-45",
+   "desc": "WASHER - 13/16 SAE, plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 92.54,
+   "y": 23.18,
+   "partNo": "15-612",
+   "desc": "BOLT - 3/8\"-16 x 3/4\" N.C. hex head",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 77.06,
+   "y": 20.69,
+   "partNo": "92-6",
+   "desc": "LOCKWASHER - 3/8\" SAE",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.2
+}

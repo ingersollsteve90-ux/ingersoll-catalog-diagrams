@@ -1,0 +1,59 @@
+{
+ "sectionTitle": "Drawbar and Tow Hitch",
+ "breadcrumb": "Drawbar and Tow Hitch",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/drawbar_tow_hitch.jpg",
+ "hotspots": [
+  {
+   "ref": "15",
+   "x": 34.69,
+   "y": 40.29,
+   "partNo": "C10449",
+   "desc": "DRAWBAR - hitch",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 87.82,
+   "y": 9.27,
+   "partNo": "15-816",
+   "desc": "BOLT - 1/2\"-13 N.C. x 1\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 34.8,
+   "y": 90.08,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2\" SAE",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 91.12,
+   "y": 37.53,
+   "partNo": "92-8",
+   "desc": "LOCKWASHER - 1/2\" SAE",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 7.57,
+   "y": 88.09,
+   "partNo": "15-824",
+   "desc": "BOLT - 1/2\"-13 N.C. x 2-1/4\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 51.66,
+   "y": 89.86,
+   "partNo": "25-108",
+   "desc": "NUT - 1/2\"-13 N.C., hex",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 6.1
+}

@@ -1,0 +1,139 @@
+{
+ "sectionTitle": "Front P.T.O. (Optional)",
+ "breadcrumb": "Front P.T.O. (Optional)",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/front_pto.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 55.81,
+   "y": 75.45,
+   "partNo": "C10500",
+   "desc": "CARRIER - pivot and bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 51.48,
+   "y": 72.14,
+   "partNo": "C10502",
+   "desc": "BEARING - sintered bronze",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 60.56,
+   "y": 78.77,
+   "partNo": "C10502",
+   "desc": "BEARING - sintered bronze",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 68.69,
+   "y": 85.29,
+   "partNo": "C10503",
+   "desc": "SHAFT - PTO pulley",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 78.3,
+   "y": 66.47,
+   "partNo": "126-22",
+   "desc": "KEY - Woodruff #13 SAE",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 94.98,
+   "y": 76.63,
+   "partNo": "C10504",
+   "desc": "PULLEY - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 20.65,
+   "y": 39.73,
+   "partNo": "C10505",
+   "desc": "PULLEY - driven adjustable",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 64.57,
+   "y": 81.98,
+   "partNo": "C10506",
+   "desc": "WASHER - thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 42.5,
+   "y": 42.83,
+   "partNo": "C10506",
+   "desc": "WASHER - thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 28.88,
+   "y": 8.83,
+   "partNo": "C10507",
+   "desc": "BELT - 3 V section 30\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 72.91,
+   "y": 52.99,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" SAE",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 77.45,
+   "y": 49.25,
+   "partNo": "113-221",
+   "desc": "BOLT - 3/8\"-16 x 7/8\" hex head",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 67.32,
+   "y": 55.13,
+   "partNo": "195-522",
+   "desc": "WASHER - 3/8\" SAE plain",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 21.92,
+   "y": 20.27,
+   "partNo": "83-56",
+   "desc": "SETSCREW - 5/16\" x 3/8\" socket head",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 88.43,
+   "y": 71.92,
+   "partNo": "83-56",
+   "desc": "SETSCREW - 5/16\" x 3/8\" socket head",
+   "reqd": "3"
+  },
+  {
+   "ref": "12",
+   "x": 38.91,
+   "y": 24.44,
+   "partNo": "83-56",
+   "desc": "SETSCREW - 5/16\" x 3/8\" socket head",
+   "reqd": "3"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.7
+}

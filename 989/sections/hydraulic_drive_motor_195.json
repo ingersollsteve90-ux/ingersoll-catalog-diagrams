@@ -1,0 +1,211 @@
+{
+ "sectionTitle": "Hydraulic Drive Motor (195)",
+ "breadcrumb": "Hydraulic Drive Motor (195)",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/hydraulic_drive_motor_195.jpg",
+ "hotspots": [
+  {
+   "ref": "25",
+   "x": 37.89,
+   "y": 10.75,
+   "partNo": "C10270",
+   "desc": "MOTOR - hydraulic drive (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 7.88,
+   "y": 59.08,
+   "partNo": "NSS",
+   "desc": "OIL SEAL - mtg. plate (See ref. 45) (in kit A72036)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 23.05,
+   "y": 41.87,
+   "partNo": "NSS",
+   "desc": "OIL SEAL - mtg. plate (See ref. 45) (in kit A72036)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 30.94,
+   "y": 35.18,
+   "partNo": "A72028",
+   "desc": "PLATE - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 27.68,
+   "y": 72.04,
+   "partNo": "166-23",
+   "desc": "CAPSCREW - ferry 5/16\" x 5/8\" N.C.",
+   "reqd": "4"
+  },
+  {
+   "ref": "29",
+   "x": 32.1,
+   "y": 67.79,
+   "partNo": "193-29",
+   "desc": "LOCKWASHER - int. shakeproof 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "30",
+   "x": 36.21,
+   "y": 31.46,
+   "partNo": "138-134",
+   "desc": "PIN - roll, 1/4\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "31",
+   "x": 11.36,
+   "y": 57.49,
+   "partNo": "NSS",
+   "desc": "QUAD RING - mtg. plate (See ref. 45) (in kit A72036)",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 39.15,
+   "y": 28.49,
+   "partNo": "NSS",
+   "desc": "QUAD RING - mtg. plate (See ref. 45) (in kit A72036)",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 20.1,
+   "y": 72.68,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - (See ref. 45) (in kit A72036)",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 42.73,
+   "y": 26.26,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - (See ref. 45) (in kit A72036)",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 46.95,
+   "y": 22.86,
+   "partNo": "A72030",
+   "desc": "RACE - output shaft bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 51.16,
+   "y": 18.82,
+   "partNo": "A72031",
+   "desc": "BEARING - thrust, output shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "34",
+   "x": 45.58,
+   "y": 94.03,
+   "partNo": "A72031",
+   "desc": "BEARING - thrust, output shaft",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 65.58,
+   "y": 7.77,
+   "partNo": "C11645",
+   "desc": "SHAFT AND HOUSING",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 78.74,
+   "y": 34.44,
+   "partNo": "A72034",
+   "desc": "PLUG - housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 68.74,
+   "y": 42.62,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - housing plug (See ref. 45) (in kit A72036)",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 4.41,
+   "y": 62.16,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - housing plug (See ref. 45) (in kit A72036)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 51.68,
+   "y": 89.57,
+   "partNo": "A72027",
+   "desc": "COUPLING - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 61.58,
+   "y": 81.39,
+   "partNo": "A72026",
+   "desc": "PLATE - spacer",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 69.79,
+   "y": 75.02,
+   "partNo": "A72112",
+   "desc": "GEROTOR SET (2\" thick)",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 80.22,
+   "y": 66.31,
+   "partNo": "A72113",
+   "desc": "SPACER - cplg. drv. (1-1/2\" thick)",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 85.8,
+   "y": 62.16,
+   "partNo": "A72024",
+   "desc": "CAP - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 91.7,
+   "y": 57.38,
+   "partNo": "166-532",
+   "desc": "CAPSCREW - ferry, 5/16\" x 3-1/4\" N.F.",
+   "reqd": "7"
+  },
+  {
+   "ref": "45",
+   "x": 12.62,
+   "y": 50.69,
+   "partNo": "A72036",
+   "desc": "KIT - \"O\" ring and seal (incl. item marked w/*)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Seals and O-rings marked NSS are supplied in kit A72036.",
+ "dotSizePct": 3.2
+}

@@ -1,0 +1,345 @@
+{
+ "sectionTitle": "Crankcase Breather, Camshaft and Valves (155 and 195)",
+ "breadcrumb": "Crankcase Breather, Camshaft and Valves (155 and 195)",
+ "catalogLabel": "Catalog 989",
+ "modelNumbers": "Catalog 989 — Case 155 and 195 Garden Tractors (155 prior to S/N 9615882, 195 prior to S/N 9620622)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/989/crankcase_breather_camshaft_valves.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 16.4,
+   "y": 66.97,
+   "partNo": "25-104",
+   "desc": "NUT - 1/4\" N.C. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 20.49,
+   "y": 65.24,
+   "partNo": "92-4",
+   "desc": "LOCKWASHER - 1/4\" SAE",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 24.89,
+   "y": 63.21,
+   "partNo": "KO275220",
+   "desc": "STUD - valve cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29.19,
+   "y": 61.68,
+   "partNo": "KO275143",
+   "desc": "COVER - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 39.01,
+   "y": 57.51,
+   "partNo": "KO231032",
+   "desc": "SEAL - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 49.24,
+   "y": 52.83,
+   "partNo": "KO235048",
+   "desc": "GASKET - valve cover",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 41.77,
+   "y": 19.57,
+   "partNo": "KO235048",
+   "desc": "GASKET - valve cover",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 16.7,
+   "y": 30.15,
+   "partNo": "KO235118",
+   "desc": "FILTER - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 23.15,
+   "y": 27.3,
+   "partNo": "KO235117",
+   "desc": "BAFFLE - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 30.21,
+   "y": 24.46,
+   "partNo": "KO235047",
+   "desc": "REED - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 36.76,
+   "y": 21.91,
+   "partNo": "KO235631",
+   "desc": "PLATE - breather",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 83.92,
+   "y": 24.25,
+   "partNo": "KO235826",
+   "desc": "VALVE - exhaust (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 83.82,
+   "y": 28.32,
+   "partNo": "KO235008",
+   "desc": "VALVE - intake (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 62.23,
+   "y": 32.49,
+   "partNo": "KO230170-S",
+   "desc": "INSERT - exhaust valve seat (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 83.82,
+   "y": 38.19,
+   "partNo": "KO235007-S",
+   "desc": "GUIDE - valve (155)",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 13.63,
+   "y": 74.49,
+   "partNo": "KO235011",
+   "desc": "SEAT - valve spring (155)",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 13.74,
+   "y": 77.85,
+   "partNo": "KO235010",
+   "desc": "SPRING - valve (155)",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 13.94,
+   "y": 80.7,
+   "partNo": "KO230011",
+   "desc": "RETAINER - valve spring (155)",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 14.04,
+   "y": 85.28,
+   "partNo": "KO240013",
+   "desc": "LOCK - valve retainer (155)",
+   "reqd": "4"
+  },
+  {
+   "ref": "22",
+   "x": 93.03,
+   "y": 82.02,
+   "partNo": "KOA235327",
+   "desc": "LIFTER ASSY (155)",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 84.74,
+   "y": 79.48,
+   "partNo": "NSS",
+   "desc": "SCREW - tappet adjusting (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 84.74,
+   "y": 84.97,
+   "partNo": "NSS",
+   "desc": "LIFTER - valve (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 55.89,
+   "y": 91.17,
+   "partNo": "KOA235646",
+   "desc": "CAMSHAFT ASSY (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 60.49,
+   "y": 92.9,
+   "variants": [
+    {
+     "serialNote": ".005\"",
+     "partNo": "KO275066",
+     "desc": "SPACER - camshaft, .005\" (155)",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": ".010\"",
+     "partNo": "KO275067",
+     "desc": "SPACER - camshaft, .010\" (155)",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "27",
+   "x": 65.51,
+   "y": 94.73,
+   "partNo": "KO235053",
+   "desc": "PIN - camshaft (155)",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 87.1,
+   "y": 24.35,
+   "partNo": "KO235826",
+   "desc": "VALVE - exhaust (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 86.89,
+   "y": 28.32,
+   "partNo": "KO235008",
+   "desc": "VALVE - intake (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 65.0,
+   "y": 32.59,
+   "partNo": "KO230170-S",
+   "desc": "INSERT - exhaust valve seat (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 86.79,
+   "y": 38.08,
+   "partNo": "KO235007-S",
+   "desc": "GUIDE - valve (195)",
+   "reqd": "2"
+  },
+  {
+   "ref": "41",
+   "x": 16.5,
+   "y": 74.49,
+   "partNo": "KO235011",
+   "desc": "SEAT - valve spring (195)",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 16.81,
+   "y": 77.85,
+   "partNo": "KO235010",
+   "desc": "SPRING - valve (195)",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 16.81,
+   "y": 80.5,
+   "partNo": "KO230011",
+   "desc": "RETAINER - valve spring (195)",
+   "reqd": "2"
+  },
+  {
+   "ref": "44",
+   "x": 16.81,
+   "y": 85.07,
+   "partNo": "KO240013",
+   "desc": "LOCK - valve retainer (195)",
+   "reqd": "4"
+  },
+  {
+   "ref": "45",
+   "x": 96.0,
+   "y": 82.22,
+   "partNo": "KOA235327",
+   "desc": "LIFTER ASSY (195)",
+   "reqd": "2"
+  },
+  {
+   "ref": "46",
+   "x": 87.5,
+   "y": 79.48,
+   "partNo": "NSS",
+   "desc": "SCREW - tappet adjusting (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 87.81,
+   "y": 84.97,
+   "partNo": "NSS",
+   "desc": "LIFTER - valve (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 55.68,
+   "y": 93.11,
+   "partNo": "KOA235646",
+   "desc": "CAMSHAFT ASSY (195)",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 60.39,
+   "y": 95.04,
+   "variants": [
+    {
+     "serialNote": ".005\"",
+     "partNo": "KO275066",
+     "desc": "SPACER - camshaft, .005\" (195)",
+     "reqd": "UAR"
+    },
+    {
+     "serialNote": ".010\"",
+     "partNo": "KO275067",
+     "desc": "SPACER - camshaft, .010\" (195)",
+     "reqd": "UAR"
+    }
+   ]
+  },
+  {
+   "ref": "50",
+   "x": 65.3,
+   "y": 96.87,
+   "partNo": "KO235053",
+   "desc": "PIN - camshaft (195)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Refs 14-27: Model 155 camshaft and valves. Refs 37-50: Model 195 camshaft and valves. Refs 1-10 (crankcase breather): both models.",
+ "dotSizePct": 3.0
+}
