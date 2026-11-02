@@ -1,0 +1,123 @@
+{
+ "sectionTitle": "Pulley Clutch",
+ "breadcrumb": "Pulley Clutch",
+ "catalogLabel": "Catalog A977",
+ "modelNumbers": "Catalog A977 — Case 150 and 190 Garden Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A977/pulley_clutch.jpg",
+ "footnotes": "",
+ "dotSizePct": 4.05,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 20.2,
+   "y": 33.3,
+   "partNo": "C10880",
+   "reqd": "1",
+   "desc": "LEVER - clutch control"
+  },
+  {
+   "ref": "2",
+   "x": 50.8,
+   "y": 61.4,
+   "partNo": "C10525",
+   "reqd": "2",
+   "desc": "LINK - clutch control"
+  },
+  {
+   "ref": "3",
+   "x": 13.6,
+   "y": 5.8,
+   "partNo": "C10487",
+   "reqd": "1",
+   "desc": "KNOB - lever"
+  },
+  {
+   "ref": "4",
+   "x": 85.8,
+   "y": 79.1,
+   "partNo": "132-24",
+   "reqd": "2",
+   "desc": "PIN - cotter, 3/32\" x 1/2\""
+  },
+  {
+   "ref": "4",
+   "x": 40.5,
+   "y": 25.2,
+   "partNo": "132-24",
+   "reqd": "2",
+   "desc": "PIN - cotter, 3/32\" x 1/2\""
+  },
+  {
+   "ref": "5",
+   "x": 75.6,
+   "y": 94.2,
+   "partNo": "C10883",
+   "reqd": "1",
+   "desc": "PIN - safety"
+  },
+  {
+   "ref": "6",
+   "x": 30.4,
+   "y": 34,
+   "partNo": "141-2",
+   "reqd": "1",
+   "desc": "PIN - clevis, 1/4\" x 3/4\""
+  },
+  {
+   "ref": "7",
+   "x": 51.6,
+   "y": 92.8,
+   "partNo": "15-512",
+   "reqd": "1",
+   "desc": "BOLT - 5/16\"-18 N.C. x 3/4\""
+  },
+  {
+   "ref": "8",
+   "x": 36.7,
+   "y": 90,
+   "partNo": "92-5",
+   "reqd": "1",
+   "desc": "LOCKWASHER - 5/16\" SAE"
+  },
+  {
+   "ref": "9",
+   "x": 29.4,
+   "y": 92.8,
+   "partNo": "25-105",
+   "reqd": "1",
+   "desc": "NUT - 5/16\"-18 N.C."
+  },
+  {
+   "ref": "10",
+   "x": 72.9,
+   "y": 81.5,
+   "partNo": "195-17",
+   "reqd": "3",
+   "desc": "WASHER - 1/4\" plain"
+  },
+  {
+   "ref": "10",
+   "x": 50.8,
+   "y": 33.1,
+   "partNo": "195-17",
+   "reqd": "3",
+   "desc": "WASHER - 1/4\" plain"
+  },
+  {
+   "ref": "11",
+   "x": 67.4,
+   "y": 49.8,
+   "partNo": "C10311",
+   "reqd": "1",
+   "desc": "CLUTCH - PTO \"V\" belt (Parts not serviced)"
+  },
+  {
+   "ref": "12",
+   "x": 74.1,
+   "y": 56.3,
+   "partNo": "C10312",
+   "reqd": "1",
+   "desc": "SPACER - fan short"
+  }
+ ]
+}

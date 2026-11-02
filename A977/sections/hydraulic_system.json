@@ -1,0 +1,377 @@
+{
+ "sectionTitle": "Hydraulic System",
+ "breadcrumb": "Hydraulic System",
+ "catalogLabel": "Catalog A977",
+ "modelNumbers": "Catalog A977 — Case 150 and 190 Garden Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A977/hydraulic_system.jpg",
+ "footnotes": "",
+ "dotSizePct": 2.97,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 14.9,
+   "y": 2.9,
+   "variants": [
+    {
+     "serialNote": "Model 190",
+     "partNo": "C10270",
+     "desc": "MOTOR - hydraulic (190) (Repairs Page 41)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 150",
+     "partNo": "C10271",
+     "desc": "MOTOR - hydraulic (150) (Repairs Page 41)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "2",
+   "x": 10,
+   "y": 5.3,
+   "partNo": "A70128",
+   "reqd": "1",
+   "desc": "GASKET - motor to transfer case"
+  },
+  {
+   "ref": "3",
+   "x": 33.6,
+   "y": 54.2,
+   "partNo": "218-493",
+   "reqd": "2",
+   "desc": "FITTING, 90°, 1/2\" tube x 1/2\" NPT"
+  },
+  {
+   "ref": "4",
+   "x": 3.2,
+   "y": 8.5,
+   "partNo": "A70127",
+   "reqd": "4",
+   "desc": "BOLT - special, Jay-Lock"
+  },
+  {
+   "ref": "5",
+   "x": 46.1,
+   "y": 10.7,
+   "partNo": "166-23",
+   "reqd": "4",
+   "desc": "BOLT - 5/16\"-18 x 5/8\" N.C."
+  },
+  {
+   "ref": "6",
+   "x": 41.6,
+   "y": 9.2,
+   "partNo": "193-29",
+   "reqd": "4",
+   "desc": "LOCKWASHER - 5/16\" internal tooth"
+  },
+  {
+   "ref": "7",
+   "x": 37.6,
+   "y": 28.2,
+   "partNo": "C10268",
+   "reqd": "1",
+   "desc": "TUBE - frt. valve port to motor"
+  },
+  {
+   "ref": "8",
+   "x": 32.2,
+   "y": 23.2,
+   "partNo": "C10269",
+   "reqd": "1",
+   "desc": "TUBE - rear valve port to motor"
+  },
+  {
+   "ref": "9",
+   "x": 26.5,
+   "y": 21.9,
+   "partNo": "C12774",
+   "reqd": "1",
+   "desc": "VALVE - park and brake (Repairs Page 49)"
+  },
+  {
+   "ref": "10",
+   "x": 36.4,
+   "y": 58.2,
+   "partNo": "218-5108",
+   "reqd": "1",
+   "desc": "FITTING - 90°, 3/4\" tube x 1-1/16 thread"
+  },
+  {
+   "ref": "11",
+   "x": 49.7,
+   "y": 57.9,
+   "partNo": "218-5008",
+   "reqd": "1",
+   "desc": "\"O\" RING - 3/4\""
+  },
+  {
+   "ref": "12",
+   "x": 28.3,
+   "y": 53.8,
+   "partNo": "218-494",
+   "reqd": "1",
+   "desc": "FITTING - 90°, 5/8\" tube x 3/4\" NPT"
+  },
+  {
+   "ref": "13",
+   "x": 60.3,
+   "y": 92.8,
+   "partNo": "C10266",
+   "reqd": "1",
+   "desc": "TUBE - heat exchanger to valve"
+  },
+  {
+   "ref": "14",
+   "x": 77.3,
+   "y": 73.4,
+   "partNo": "214-253",
+   "reqd": "2",
+   "desc": "CLAMP - hose (tube end)"
+  },
+  {
+   "ref": "14",
+   "x": 71.1,
+   "y": 97.4,
+   "partNo": "214-253",
+   "reqd": "2",
+   "desc": "CLAMP - hose (tube end)"
+  },
+  {
+   "ref": "15",
+   "x": 69.3,
+   "y": 82.7,
+   "partNo": "C10419",
+   "reqd": "2",
+   "desc": "HOSE"
+  },
+  {
+   "ref": "16",
+   "x": 82.8,
+   "y": 87.2,
+   "partNo": "C10677",
+   "reqd": "2",
+   "desc": "CLAMP - hose (heat exchanger end)"
+  },
+  {
+   "ref": "17",
+   "x": 45,
+   "y": 84,
+   "partNo": "C10267",
+   "reqd": "1",
+   "desc": "TUBE - trans. to heat exchanger"
+  },
+  {
+   "ref": "18",
+   "x": 38.3,
+   "y": 81.5,
+   "partNo": "218-445",
+   "reqd": "1",
+   "desc": "FITTING - 3/4\" tube x 3/4\" NPT"
+  },
+  {
+   "ref": "19",
+   "x": 11,
+   "y": 64,
+   "partNo": "A70117",
+   "reqd": "1",
+   "desc": "FITTING - w/filter"
+  },
+  {
+   "ref": "20",
+   "x": 21.5,
+   "y": 72.7,
+   "partNo": "C10264",
+   "reqd": "1",
+   "desc": "TUBE - pump to transmission"
+  },
+  {
+   "ref": "21",
+   "x": 59.6,
+   "y": 37.8,
+   "partNo": "C10265",
+   "reqd": "1",
+   "desc": "TUBE - pump to valve"
+  },
+  {
+   "ref": "22",
+   "x": 50.9,
+   "y": 33,
+   "partNo": "218-1056",
+   "reqd": "1",
+   "desc": "FITTING - 90° elbow, 1/2\" tube x 3/4\" NPT"
+  },
+  {
+   "ref": "23",
+   "x": 22.7,
+   "y": 33.4,
+   "partNo": "C10495",
+   "reqd": "1",
+   "desc": "VALVE - control (Repairs Page 37)"
+  },
+  {
+   "ref": "24",
+   "x": 69.2,
+   "y": 46.6,
+   "partNo": "218-5059",
+   "reqd": "1",
+   "desc": "FITTING - \"O\" ring 1/2\" tube x 3/4\" thread"
+  },
+  {
+   "ref": "25",
+   "x": 56.6,
+   "y": 46.2,
+   "partNo": "218-5006",
+   "reqd": "1",
+   "desc": "\"O\" RING - 1/2\""
+  },
+  {
+   "ref": "26",
+   "x": 38.6,
+   "y": 51.8,
+   "partNo": "166-561",
+   "reqd": "2",
+   "desc": "SCREW - ferry cap, 7/16\"-20 x 1\""
+  },
+  {
+   "ref": "27",
+   "x": 41.2,
+   "y": 54,
+   "partNo": "193-31",
+   "reqd": "2",
+   "desc": "LOCKWASHER - 7/16\" external tooth"
+  },
+  {
+   "ref": "28",
+   "x": 50.5,
+   "y": 42.2,
+   "variants": [
+    {
+     "serialNote": "Model 190",
+     "partNo": "C10493",
+     "desc": "PUMP - hydraulic (190) (Repairs Page 39)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "Model 150",
+     "partNo": "C10258",
+     "desc": "PUMP - hydraulic (150) (Repairs Page 39)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 72.3,
+   "y": 49,
+   "partNo": "126-12",
+   "reqd": "1",
+   "desc": "KEY - Woodruff"
+  },
+  {
+   "ref": "30",
+   "x": 76.1,
+   "y": 51.5,
+   "partNo": "A70111",
+   "reqd": "1",
+   "desc": "COUPLING - (Repairs Page 39)"
+  },
+  {
+   "ref": "31",
+   "x": 80.1,
+   "y": 52.7,
+   "partNo": "W5063-S",
+   "reqd": "1",
+   "desc": "KEY - 1/4\" square x 3/4\""
+  },
+  {
+   "ref": "32",
+   "x": 58.9,
+   "y": 66.3,
+   "partNo": "113-207",
+   "reqd": "4",
+   "desc": "BOLT - 3/8\" x 1\" N.C. hex plated"
+  },
+  {
+   "ref": "33",
+   "x": 63.1,
+   "y": 68.3,
+   "partNo": "192-21",
+   "reqd": "4",
+   "desc": "WASHER - 3/8\" plated"
+  },
+  {
+   "ref": "34",
+   "x": 85.6,
+   "y": 55.7,
+   "partNo": "A70109",
+   "reqd": "1",
+   "desc": "SUPPORT - hydraulic pump mounting"
+  },
+  {
+   "ref": "35",
+   "x": 93.7,
+   "y": 64.8,
+   "partNo": "C10262",
+   "reqd": "1",
+   "desc": "EXCHANGER - heat"
+  },
+  {
+   "ref": "36",
+   "x": 82.4,
+   "y": 66.6,
+   "partNo": "171-209",
+   "reqd": "4",
+   "desc": "SCREW - 1/4\" x 1\" N.C. hex plated"
+  },
+  {
+   "ref": "37",
+   "x": 85.7,
+   "y": 68.5,
+   "partNo": "193-52",
+   "reqd": "4",
+   "desc": "LOCKWASHER - 1/4\" external tooth"
+  },
+  {
+   "ref": "38",
+   "x": 89.3,
+   "y": 64.1,
+   "partNo": "C10348",
+   "reqd": "2",
+   "desc": "BRACKET, heat exchanger"
+  },
+  {
+   "ref": "39",
+   "x": 46.6,
+   "y": 46.9,
+   "partNo": "73-410",
+   "reqd": "2",
+   "desc": "SCREW - 1/4\"-20 x 5/8\" N.C. flat head"
+  },
+  {
+   "ref": "40",
+   "x": 45,
+   "y": 32.5,
+   "partNo": "25-104",
+   "reqd": "2",
+   "desc": "NUT - 1/4\"-20 N.C."
+  },
+  {
+   "ref": "41",
+   "x": 44.2,
+   "y": 44.9,
+   "partNo": "92-4",
+   "reqd": "2",
+   "desc": "LOCKWASHER - 1/4\" SAE"
+  },
+  {
+   "ref": "42",
+   "x": 24.7,
+   "y": 15.7,
+   "partNo": "A27410",
+   "reqd": "2",
+   "desc": "\"O\" RING - hydraulic motor to brake valve"
+  }
+ ]
+}

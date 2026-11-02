@@ -1,0 +1,115 @@
+{
+ "sectionTitle": "Implement Lift",
+ "breadcrumb": "Implement Lift",
+ "catalogLabel": "Catalog A977",
+ "modelNumbers": "Catalog A977 — Case 150 and 190 Garden Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A977/implement_lift.jpg",
+ "footnotes": "",
+ "dotSizePct": 4.69,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 72,
+   "y": 70.9,
+   "partNo": "C10343",
+   "reqd": "1",
+   "desc": "LEVER - implement lift"
+  },
+  {
+   "ref": "2",
+   "x": 67.9,
+   "y": 13.9,
+   "partNo": "C10336",
+   "reqd": "1",
+   "desc": "PAD - lift lever"
+  },
+  {
+   "ref": "3",
+   "x": 5.5,
+   "y": 78.3,
+   "partNo": "C10338",
+   "reqd": "1",
+   "desc": "ROD - lift lever"
+  },
+  {
+   "ref": "4",
+   "x": 93.3,
+   "y": 49.2,
+   "partNo": "C10342",
+   "reqd": "1",
+   "desc": "LEVER - pivot"
+  },
+  {
+   "ref": "5",
+   "x": 93.3,
+   "y": 40.5,
+   "partNo": "C10347",
+   "reqd": "1",
+   "desc": "ROD - depth adjusting"
+  },
+  {
+   "ref": "6",
+   "x": 54.5,
+   "y": 7.4,
+   "partNo": "C10356",
+   "reqd": "1",
+   "desc": "BUTTON - thumb"
+  },
+  {
+   "ref": "7",
+   "x": 33.3,
+   "y": 21.2,
+   "partNo": "C10482",
+   "reqd": "1",
+   "desc": "SPRING, compression"
+  },
+  {
+   "ref": "8",
+   "x": 24.5,
+   "y": 10,
+   "partNo": "C10485",
+   "reqd": "1",
+   "desc": "PIN - spiral, 1/8\" x 3/4\""
+  },
+  {
+   "ref": "9",
+   "x": 67,
+   "y": 46,
+   "partNo": "138-2033",
+   "reqd": "1",
+   "desc": "PIN - spiral, 1/4\" x 1-1/4\""
+  },
+  {
+   "ref": "10",
+   "x": 55.7,
+   "y": 36.8,
+   "partNo": "129-410",
+   "reqd": "1",
+   "desc": "NUT - wing"
+  },
+  {
+   "ref": "11",
+   "x": 26.5,
+   "y": 71.7,
+   "partNo": "195-45",
+   "reqd": "1",
+   "desc": "WASHER - 13/16 SAE, plain"
+  },
+  {
+   "ref": "12",
+   "x": 94.5,
+   "y": 22.1,
+   "partNo": "15-612",
+   "reqd": "2",
+   "desc": "BOLT - 3/8\"-16 x 3/4\" N.C. hex head"
+  },
+  {
+   "ref": "13",
+   "x": 78,
+   "y": 19.3,
+   "partNo": "92-6",
+   "reqd": "2",
+   "desc": "LOCKWASHER - 3/8\" SAE"
+  }
+ ]
+}

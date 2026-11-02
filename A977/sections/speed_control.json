@@ -1,0 +1,195 @@
+{
+ "sectionTitle": "Speed Control",
+ "breadcrumb": "Speed Control",
+ "catalogLabel": "Catalog A977",
+ "modelNumbers": "Catalog A977 — Case 150 and 190 Garden Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A977/speed_control.jpg",
+ "footnotes": "The two-piece control link (refs 17 and 18), as illustrated, replaces all previous types.",
+ "dotSizePct": 3.73,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 46,
+   "y": 50.7,
+   "partNo": "C10755",
+   "reqd": "1",
+   "desc": "CONTROL - lever"
+  },
+  {
+   "ref": "2",
+   "x": 47.9,
+   "y": 3.8,
+   "partNo": "C11231",
+   "reqd": "1",
+   "desc": "QUADRANT - speed control"
+  },
+  {
+   "ref": "3",
+   "x": 17.3,
+   "y": 32.1,
+   "partNo": "C11230",
+   "reqd": "1",
+   "desc": "CLAMP - quadrant"
+  },
+  {
+   "ref": "4",
+   "x": 9.2,
+   "y": 4.4,
+   "partNo": "115-1",
+   "reqd": "2",
+   "desc": "SCREW - 1/4\"-20 x 1/2\", plated"
+  },
+  {
+   "ref": "5",
+   "x": 41.6,
+   "y": 42.3,
+   "partNo": "131-350",
+   "reqd": "2",
+   "desc": "NUT - 1/4\"-20 N.C., self-locking"
+  },
+  {
+   "ref": "6",
+   "x": 25.2,
+   "y": 36,
+   "partNo": "15-528",
+   "reqd": "1",
+   "desc": "BOLT - 5/16\"-18 x 2-3/4\" hex"
+  },
+  {
+   "ref": "7",
+   "x": 10,
+   "y": 27.9,
+   "partNo": "92-5",
+   "reqd": "3",
+   "desc": "LOCKWASHER - 5/16\" SAE"
+  },
+  {
+   "ref": "7",
+   "x": 59.1,
+   "y": 82.9,
+   "partNo": "92-5",
+   "reqd": "3",
+   "desc": "LOCKWASHER - 5/16\" SAE"
+  },
+  {
+   "ref": "8",
+   "x": 59.5,
+   "y": 78.7,
+   "partNo": "25-105",
+   "reqd": "3",
+   "desc": "NUT - 5/16\"-18 N.C., hex"
+  },
+  {
+   "ref": "8",
+   "x": 4.1,
+   "y": 25.5,
+   "partNo": "25-105",
+   "reqd": "3",
+   "desc": "NUT - 5/16\"-18 N.C., hex"
+  },
+  {
+   "ref": "9",
+   "x": 60.1,
+   "y": 4.3,
+   "partNo": "C10562",
+   "reqd": "1",
+   "desc": "KNOB - speed control lever"
+  },
+  {
+   "ref": "10",
+   "x": 54.2,
+   "y": 9.1,
+   "partNo": "C10565",
+   "reqd": "1",
+   "desc": "RING - star"
+  },
+  {
+   "ref": "11",
+   "x": 59.7,
+   "y": 69.5,
+   "partNo": "C10538",
+   "reqd": "1",
+   "desc": "SPRING - compression"
+  },
+  {
+   "ref": "12",
+   "x": 35.4,
+   "y": 4,
+   "partNo": "C10571",
+   "reqd": "2",
+   "desc": "NYLINER - 1/2\" I.D. x 9/16\" O.D."
+  },
+  {
+   "ref": "12",
+   "x": 59.7,
+   "y": 74.2,
+   "partNo": "C10571",
+   "reqd": "2",
+   "desc": "NYLINER - 1/2\" I.D. x 9/16\" O.D."
+  },
+  {
+   "ref": "13",
+   "x": 69.3,
+   "y": 44.8,
+   "partNo": "195-102",
+   "reqd": "2",
+   "desc": "WASHER - 1/4\" SAE, plain"
+  },
+  {
+   "ref": "13",
+   "x": 91.2,
+   "y": 86.4,
+   "partNo": "195-102",
+   "reqd": "2",
+   "desc": "WASHER - 1/4\" SAE, plain"
+  },
+  {
+   "ref": "14",
+   "x": 96,
+   "y": 86.8,
+   "partNo": "132-26",
+   "reqd": "2",
+   "desc": "PIN - cotter, 3/32\" x 1/2\""
+  },
+  {
+   "ref": "14",
+   "x": 65.9,
+   "y": 38.9,
+   "partNo": "132-26",
+   "reqd": "2",
+   "desc": "PIN - cotter, 3/32\" x 1/2\""
+  },
+  {
+   "ref": "15",
+   "x": 86.2,
+   "y": 86.3,
+   "partNo": "12-516",
+   "reqd": "2",
+   "desc": "BOLT - rd. hd. square neck, 5/16\"-18 x 1\""
+  },
+  {
+   "ref": "16",
+   "x": 64.1,
+   "y": 83.1,
+   "partNo": "95-5",
+   "reqd": "2",
+   "desc": "WASHER - 5/16\" plain"
+  },
+  {
+   "ref": "17",
+   "x": 86.2,
+   "y": 78.8,
+   "partNo": "C11586",
+   "reqd": "1",
+   "desc": "LINK - weldment (* the two piece control link, as illustrated, replaces all previous types)"
+  },
+  {
+   "ref": "18",
+   "x": 86.3,
+   "y": 72.5,
+   "partNo": "C11588",
+   "reqd": "1",
+   "desc": "LINK - speed control (* the two piece control link, as illustrated, replaces all previous types)"
+  }
+ ]
+}

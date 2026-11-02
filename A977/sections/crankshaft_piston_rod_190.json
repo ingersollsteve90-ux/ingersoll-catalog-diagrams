@@ -1,0 +1,269 @@
+{
+ "sectionTitle": "Crankshaft, Piston and Connecting Rod (190)",
+ "breadcrumb": "Crankshaft, Piston and Connecting Rod (190)",
+ "catalogLabel": "Catalog A977",
+ "modelNumbers": "Catalog A977 — Case 150 and 190 Garden Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A977/crankshaft_piston_rod_190.jpg",
+ "footnotes": "",
+ "dotSizePct": 2.7,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 84.9,
+   "y": 3.9,
+   "partNo": "NSS",
+   "reqd": "1",
+   "desc": "PISTON AND ROD ASSY. (Std. size)"
+  },
+  {
+   "ref": "2",
+   "x": 69.8,
+   "y": 20.9,
+   "partNo": "KO235889",
+   "reqd": "1",
+   "desc": "RING SET - piston (for oversize see item 16)"
+  },
+  {
+   "ref": "3",
+   "x": 65.7,
+   "y": 9.8,
+   "partNo": "NSS",
+   "reqd": "1",
+   "desc": "RING - top compression"
+  },
+  {
+   "ref": "4",
+   "x": 65.1,
+   "y": 18.5,
+   "partNo": "NSS",
+   "reqd": "1",
+   "desc": "RING - 2nd compression (incl. expander)"
+  },
+  {
+   "ref": "5",
+   "x": 65.7,
+   "y": 31.2,
+   "partNo": "NSS",
+   "reqd": "1",
+   "desc": "RING - oil (incl. expander)"
+  },
+  {
+   "ref": "6",
+   "x": 34.3,
+   "y": 47.2,
+   "partNo": "KOA235827",
+   "reqd": "1",
+   "desc": "PISTON ASSY (for oversize see item 15)"
+  },
+  {
+   "ref": "7",
+   "x": 38.6,
+   "y": 41.9,
+   "partNo": "KO235811",
+   "reqd": "2",
+   "desc": "RETAINER - piston pin"
+  },
+  {
+   "ref": "8",
+   "x": 39,
+   "y": 50,
+   "partNo": "KO235803",
+   "reqd": "1",
+   "desc": "PIN - piston"
+  },
+  {
+   "ref": "9",
+   "x": 38.6,
+   "y": 45,
+   "partNo": "NSS",
+   "reqd": "1",
+   "desc": "PISTON"
+  },
+  {
+   "ref": "10",
+   "x": 36.7,
+   "y": 88.6,
+   "partNo": "KOA235828",
+   "reqd": "1",
+   "desc": "CONNECTING ROD ASSY (for undersize see item 18)"
+  },
+  {
+   "ref": "11",
+   "x": 40.6,
+   "y": 82.9,
+   "partNo": "KO235003",
+   "reqd": "2",
+   "desc": "WASHER - special"
+  },
+  {
+   "ref": "12",
+   "x": 40.6,
+   "y": 86.3,
+   "partNo": "KOX22-35",
+   "reqd": "2",
+   "desc": "LOCKWASHER"
+  },
+  {
+   "ref": "13",
+   "x": 40.8,
+   "y": 91,
+   "partNo": "KO235526",
+   "reqd": "2",
+   "desc": "SCREW - cap, connecting rod"
+  },
+  {
+   "ref": "14",
+   "x": 49.8,
+   "y": 62.2,
+   "partNo": "NSS",
+   "reqd": "1",
+   "desc": "ROD - connecting"
+  },
+  {
+   "ref": "14",
+   "x": 40.6,
+   "y": 95.3,
+   "partNo": "NSS",
+   "reqd": "1",
+   "desc": "ROD - connecting"
+  },
+  {
+   "ref": "15",
+   "x": 32.2,
+   "y": 43.4,
+   "variants": [
+    {
+     "serialNote": ".010\" oversize",
+     "partNo": "KOA235865",
+     "desc": "PISTON ASSY - .010\" oversize",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".020\" oversize",
+     "partNo": "KOA235866",
+     "desc": "PISTON ASSY - .020\" oversize",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".030\" oversize",
+     "partNo": "KOA235867",
+     "desc": "PISTON ASSY - .030\" oversize",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "16",
+   "x": 32,
+   "y": 24.9,
+   "variants": [
+    {
+     "serialNote": ".010\" oversize",
+     "partNo": "KO235890",
+     "desc": "RING SET - piston .010\" oversize",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".020\" oversize",
+     "partNo": "KO235891",
+     "desc": "RING SET - piston .020\" oversize",
+     "reqd": "1"
+    },
+    {
+     "serialNote": ".030\" oversize",
+     "partNo": "KO235892",
+     "desc": "RING SET - piston .030\" oversize",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "17",
+   "x": 38.3,
+   "y": 52.3,
+   "partNo": "KO235868",
+   "reqd": "1",
+   "desc": "PIN - piston .005\" oversize"
+  },
+  {
+   "ref": "18",
+   "x": 27.4,
+   "y": 82.8,
+   "partNo": "KOA235828-10",
+   "reqd": "1",
+   "desc": "CONNECTING ROD ASSY. - .010\" undersize"
+  },
+  {
+   "ref": "19",
+   "x": 34.8,
+   "y": 56.2,
+   "partNo": "KOX379-6",
+   "reqd": "1",
+   "desc": "OIL SEAL - crankshaft rear"
+  },
+  {
+   "ref": "20",
+   "x": 41.4,
+   "y": 58.6,
+   "partNo": "40035",
+   "reqd": "2",
+   "desc": "BEARING - crankshaft ball"
+  },
+  {
+   "ref": "20",
+   "x": 79.6,
+   "y": 75.4,
+   "partNo": "40035",
+   "reqd": "2",
+   "desc": "BEARING - crankshaft ball"
+  },
+  {
+   "ref": "21",
+   "x": 45.1,
+   "y": 60.2,
+   "partNo": "W5063-S",
+   "reqd": "1",
+   "desc": "KEY - 1/4\" square x 3/4\" (pump cplg.)"
+  },
+  {
+   "ref": "22",
+   "x": 59.3,
+   "y": 66.7,
+   "partNo": "KOA235949",
+   "reqd": "1",
+   "desc": "CRANKSHAFT"
+  },
+  {
+   "ref": "23",
+   "x": 72.3,
+   "y": 72.2,
+   "partNo": "KOX366-1",
+   "reqd": "1",
+   "desc": "KEY - flat 1/4\" x 3/16\" x 1-3/4\" (flywheel)"
+  },
+  {
+   "ref": "24",
+   "x": 86.8,
+   "y": 78.2,
+   "partNo": "KOX271-30",
+   "reqd": "1",
+   "desc": "OIL SEAL - crankshaft front"
+  },
+  {
+   "ref": "25",
+   "x": 91.7,
+   "y": 80.3,
+   "partNo": "KOX25-71",
+   "reqd": "1",
+   "desc": "WASHER - 3/4\""
+  },
+  {
+   "ref": "26",
+   "x": 96.8,
+   "y": 82.9,
+   "partNo": "KOX119-16",
+   "reqd": "1",
+   "desc": "NUT - special Marsden 3/4\" NF"
+  }
+ ]
+}

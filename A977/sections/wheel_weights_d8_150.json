@@ -1,0 +1,51 @@
+{
+ "sectionTitle": "Wheel Weights - D8 (150)",
+ "breadcrumb": "Wheel Weights - D8 (150)",
+ "catalogLabel": "Catalog A977",
+ "modelNumbers": "Catalog A977 — Case 150 and 190 Garden Tractors",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A977/wheel_weights_d8_150.jpg",
+ "footnotes": "",
+ "dotSizePct": 3.85,
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 47.4,
+   "y": 81.2,
+   "partNo": "NSS",
+   "reqd": "4",
+   "desc": "WEIGHT - wheel, 12\" (order as machinery item)"
+  },
+  {
+   "ref": "1",
+   "x": 25.6,
+   "y": 93.3,
+   "partNo": "NSS",
+   "reqd": "4",
+   "desc": "WEIGHT - wheel, 12\" (order as machinery item)"
+  },
+  {
+   "ref": "2",
+   "x": 95.3,
+   "y": 21.9,
+   "partNo": "C10860",
+   "reqd": "8",
+   "desc": "BOLT - carriage, 1/2\" x 3-3/4\""
+  },
+  {
+   "ref": "3",
+   "x": 11.2,
+   "y": 73.8,
+   "partNo": "92-8",
+   "reqd": "8",
+   "desc": "LOCKWASHER - 1/2\" SAE std."
+  },
+  {
+   "ref": "4",
+   "x": 3.8,
+   "y": 77.2,
+   "partNo": "129-105",
+   "reqd": "8",
+   "desc": "NUT - FHNUNC 1/2\"-13"
+  }
+ ]
+}
