@@ -1,0 +1,219 @@
+{
+ "sectionTitle": "A70123 Hydraulic Drive Motor (130)",
+ "breadcrumb": "A70123 Hydraulic Drive Motor (130)",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/hydraulic_drive_motor_130.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 39.7,
+   "y": 8.58,
+   "partNo": "A70123",
+   "desc": "MOTOR - hydraulic drive (130)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 10.05,
+   "y": 68.57,
+   "partNo": "NSS",
+   "desc": "OIL SEAL - mtg. plate (*in kit, see ref. 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 20.25,
+   "y": 51.35,
+   "partNo": "NSS",
+   "desc": "OIL SEAL - mtg. plate (*in kit, see ref. 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 24.07,
+   "y": 47.5,
+   "partNo": "A72028",
+   "desc": "PLATE - mounting",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 29.12,
+   "y": 78.46,
+   "partNo": "166-23",
+   "desc": "CAPSCREW - ferry 5/16\" x 5/8\" N.C.",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 32.93,
+   "y": 75.25,
+   "partNo": "193-29",
+   "desc": "LOCKWASHER - int. shakeproof 5/16\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 31.69,
+   "y": 41.83,
+   "partNo": "138-134",
+   "desc": "PIN - roll 1/4\" x 1\"",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 13.67,
+   "y": 65.0,
+   "partNo": "NSS",
+   "desc": "QUAD RING - mtg. plate (*in kit, see ref. 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 38.08,
+   "y": 35.32,
+   "partNo": "NSS",
+   "desc": "QUAD RING - mtg. plate (*in kit, see ref. 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 42.47,
+   "y": 32.03,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - mtg. plate to hsg. (*in kit, see ref. 21) Case A17528",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 19.01,
+   "y": 82.85,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - mtg. plate to hsg. (*in kit, see ref. 21) Case A17528",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 46.95,
+   "y": 28.09,
+   "partNo": "A72030",
+   "desc": "RACE - output shaft bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 52.0,
+   "y": 23.6,
+   "partNo": "A72031",
+   "desc": "BEARING - thrust, output shaft thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 53.15,
+   "y": 91.37,
+   "partNo": "A72031",
+   "desc": "BEARING - thrust, output shaft thrust",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 57.15,
+   "y": 19.39,
+   "partNo": "126-24",
+   "desc": "KEY - Woodruff",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 67.26,
+   "y": 9.77,
+   "partNo": "A72035",
+   "desc": "SHAFT AND HOUSING",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 78.22,
+   "y": 36.61,
+   "partNo": "A72034",
+   "desc": "PLUG - housing",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 6.43,
+   "y": 71.59,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - hsg. plug (*in kit, see ref. 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 66.78,
+   "y": 46.04,
+   "partNo": "NSS",
+   "desc": "\"O\" RING - hsg. plug (*in kit, see ref. 21)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 59.25,
+   "y": 86.24,
+   "partNo": "A72027",
+   "desc": "COUPLING - drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 66.02,
+   "y": 80.38,
+   "partNo": "A72026",
+   "desc": "PLATE - spacer",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 74.98,
+   "y": 72.05,
+   "partNo": "A72025",
+   "desc": "GEROTOR SET (1-1/4\" thick)",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 82.7,
+   "y": 65.0,
+   "partNo": "A72051",
+   "desc": "SPACER - cplg. drive (3/4\" thick)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 87.57,
+   "y": 60.51,
+   "partNo": "A72024",
+   "desc": "CAP - end",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 93.76,
+   "y": 55.01,
+   "partNo": "166-531",
+   "desc": "CAPSCREW - ferry 5/16\" x 2-1/2\" N.F.",
+   "reqd": "7"
+  },
+  {
+   "ref": "21",
+   "x": 12.24,
+   "y": 58.58,
+   "partNo": "A72036",
+   "desc": "KIT - \"O\" ring and seal (incl. items marked w/*)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Refs 2, 7, 8 and 14 are not sold separately; they come in kit A72036 (ref 21).",
+ "dotSizePct": 2.66
+}

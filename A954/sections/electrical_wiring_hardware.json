@@ -1,0 +1,547 @@
+{
+ "sectionTitle": "Electrical Wiring and Hardware",
+ "breadcrumb": "Electrical Wiring and Hardware",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/electrical_wiring_hardware.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 11.72,
+   "y": 11.99,
+   "partNo": "A70222",
+   "desc": "SWITCH - light",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 16.39,
+   "y": 9.62,
+   "partNo": "R18748",
+   "desc": "AMMETER - 30 amp.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 24.24,
+   "y": 6.21,
+   "partNo": "A11373",
+   "desc": "SWITCH - ignition (incl. keys and nut)",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 26.66,
+   "y": 4.97,
+   "partNo": "A20346",
+   "desc": "KEY - ignition switch",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 22.83,
+   "y": 21.95,
+   "partNo": "A70208",
+   "desc": "HOLD-DOWN - battery",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 33.67,
+   "y": 21.95,
+   "partNo": "A70207",
+   "desc": "ROD - battery hold-down",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 43.84,
+   "y": 17.96,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\", pltd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 43.94,
+   "y": 15.59,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C. hex, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 75.96,
+   "y": 9.9,
+   "partNo": "KO235197",
+   "desc": "SUPPORT - starter generator adj. brkt.",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 66.53,
+   "y": 19.48,
+   "partNo": "129-102",
+   "desc": "NUT - 5/16\" N.C. hex, plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 69.71,
+   "y": 20.9,
+   "partNo": "195-20",
+   "desc": "LOCKWASHER - 5/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 81.94,
+   "y": 12.56,
+   "partNo": "195-20",
+   "desc": "LOCKWASHER - 5/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "11",
+   "x": 88.75,
+   "y": 30.1,
+   "partNo": "195-20",
+   "desc": "LOCKWASHER - 5/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 91.46,
+   "y": 31.34,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 78.76,
+   "y": 11.04,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "12",
+   "x": 74.38,
+   "y": 23.09,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "13",
+   "x": 84.74,
+   "y": 13.89,
+   "partNo": "195-520",
+   "desc": "WASHER - 5/16\" plain plated",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 87.63,
+   "y": 15.21,
+   "partNo": "KO235203",
+   "desc": "BRACKET - adjusting, starter generator",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 86.23,
+   "y": 28.68,
+   "partNo": "A70202",
+   "desc": "STARTER-GENERATOR Delco No. 1101970",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 69.89,
+   "y": 42.15,
+   "partNo": "KO235196",
+   "desc": "SUPPORT - starter, generator",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 66.44,
+   "y": 33.8,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "18",
+   "x": 73.44,
+   "y": 37.21,
+   "partNo": "113-221",
+   "desc": "BOLT - 3/8\" x 7/8\" N.C. hex hd., plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 74.66,
+   "y": 51.44,
+   "partNo": "A24572",
+   "desc": "HEADLAMP - 12 volt",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 77.83,
+   "y": 52.48,
+   "partNo": "A11276",
+   "desc": "GASKET - retainer ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 83.62,
+   "y": 55.42,
+   "partNo": "A11275",
+   "desc": "RING - headlamp retainer",
+   "reqd": "2"
+  },
+  {
+   "ref": "22",
+   "x": 87.73,
+   "y": 57.13,
+   "partNo": "187-1102",
+   "desc": "SCREW - #6 x 1/2 pan hd. self tapping",
+   "reqd": "6"
+  },
+  {
+   "ref": "23",
+   "x": 67.19,
+   "y": 56.37,
+   "partNo": "KO230722",
+   "desc": "CONDENSER",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 61.12,
+   "y": 59.12,
+   "partNo": "KO231281",
+   "desc": "COIL - ignition",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 57.48,
+   "y": 60.64,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 54.39,
+   "y": 62.15,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 56.54,
+   "y": 40.72,
+   "partNo": "KOA235095",
+   "desc": "CABLE - hi-tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 42.63,
+   "y": 40.82,
+   "partNo": "M20007",
+   "desc": "SPARK PLUG - (includes gasket)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 51.13,
+   "y": 44.42,
+   "partNo": "O7768AB",
+   "desc": "GASKET - spark plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 18.07,
+   "y": 45.84,
+   "partNo": "A21481",
+   "desc": "SOLENOID - starting Delco No. 1498",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 28.06,
+   "y": 43.47,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" UN hex hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 20.5,
+   "y": 47.17,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4 plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "32",
+   "x": 6.96,
+   "y": 29.63,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4 plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "33",
+   "x": 10.23,
+   "y": 28.21,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C. hex, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "33",
+   "x": 21.25,
+   "y": 49.64,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C. hex, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "34",
+   "x": 10.6,
+   "y": 39.49,
+   "partNo": "A70221",
+   "desc": "REGULATOR - voltage Delco No. 1118988",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 6.4,
+   "y": 37.69,
+   "partNo": "73-46",
+   "desc": "SCREW - 1/4\" x 3/8\" N.C. flt. hd. mach.",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 21.71,
+   "y": 31.9,
+   "partNo": "A70211",
+   "desc": "CABLE - battery-positive to solenoid 10\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 49.63,
+   "y": 20.81,
+   "partNo": "A70212",
+   "desc": "CABLE - battery negative to ground 12\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 49.73,
+   "y": 30.58,
+   "partNo": "A70213",
+   "desc": "CABLE - solenoid to starter generator, 16\"",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 72.88,
+   "y": 40.72,
+   "partNo": "A70446",
+   "desc": "WIRE ASSY. - headlight 42\" lt. green",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 89.5,
+   "y": 43.76,
+   "partNo": "A70447",
+   "desc": "WIRE ASSY. - headlight 9\" lt. green",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 13.96,
+   "y": 41.2,
+   "partNo": "A70219",
+   "desc": "WIRE - sol. to reg. grd. 8-1/2\" white",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 7.15,
+   "y": 19.77,
+   "partNo": "A70214",
+   "desc": "WIRE - light sw. to volt. reg. 8\" white",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 22.65,
+   "y": 25.17,
+   "partNo": "A70403",
+   "desc": "WIRE HARNESS ASSY.",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 49.73,
+   "y": 28.21,
+   "partNo": "M20149",
+   "desc": "BATTERY - 12 volt",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 42.82,
+   "y": 77.71,
+   "partNo": "KOA231533",
+   "desc": "LEAD - breaker contact (incl. grommet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 35.91,
+   "y": 47.36,
+   "partNo": "KOA231533",
+   "desc": "LEAD - breaker contact (incl. grommet)",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 42.54,
+   "y": 80.36,
+   "partNo": "KO220297",
+   "desc": "GROMMET - breaker contact lead",
+   "reqd": "1"
+  },
+  {
+   "ref": "50",
+   "x": 33.01,
+   "y": 86.43,
+   "partNo": "173-210",
+   "desc": "SCREW - 10-24 x 3/8\" rd. hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "50",
+   "x": 61.12,
+   "y": 90.79,
+   "partNo": "173-210",
+   "desc": "SCREW - 10-24 x 3/8\" rd. hd. plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "51",
+   "x": 64.29,
+   "y": 89.47,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "51",
+   "x": 36.28,
+   "y": 85.2,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "52",
+   "x": 35.91,
+   "y": 53.24,
+   "partNo": "KO232535",
+   "desc": "COVER - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "52",
+   "x": 52.25,
+   "y": 95.06,
+   "partNo": "KO232535",
+   "desc": "COVER - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 56.92,
+   "y": 92.97,
+   "partNo": "KO220174",
+   "desc": "GASKET - cover, breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "54",
+   "x": 67.28,
+   "y": 88.14,
+   "partNo": "187-408",
+   "desc": "SCREW - terminal, #6-32 x 3/8\" self-tapping",
+   "reqd": "1"
+  },
+  {
+   "ref": "55",
+   "x": 63.45,
+   "y": 72.3,
+   "partNo": "173-224",
+   "desc": "SCREW - breaker contact mtg. #8 x 1/4\" N.C. rd. hd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "56",
+   "x": 66.72,
+   "y": 73.72,
+   "partNo": "193-5",
+   "desc": "LOCKWASHER - #8 internal shakeproof",
+   "reqd": "1"
+  },
+  {
+   "ref": "57",
+   "x": 69.71,
+   "y": 74.96,
+   "partNo": "KO220475",
+   "desc": "POINT SET - breaker contact",
+   "reqd": "1"
+  },
+  {
+   "ref": "58",
+   "x": 72.51,
+   "y": 76.38,
+   "partNo": "KO220476",
+   "desc": "BRACKET - mtg. breaker contacts",
+   "reqd": "1"
+  },
+  {
+   "ref": "59",
+   "x": 75.68,
+   "y": 77.71,
+   "partNo": "KOX389-1",
+   "desc": "ROD - breaker contact push",
+   "reqd": "1"
+  },
+  {
+   "ref": "60",
+   "x": 49.17,
+   "y": 72.68,
+   "partNo": "KO275303",
+   "desc": "CLIP - breaker contact wire",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.54
+}

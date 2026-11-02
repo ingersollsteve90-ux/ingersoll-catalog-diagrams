@@ -1,0 +1,431 @@
+{
+ "sectionTitle": "Fuel Pumps, A72073 Carburetor and B53256 Fuel Strainer",
+ "breadcrumb": "Fuel Pumps, A72073 Carburetor and B53256 Fuel Strainer",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/fuel_pumps_carburetor_strainer.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 6.94,
+   "y": 33.79,
+   "partNo": "A72111",
+   "desc": "FUEL PUMP REPAIR KIT",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 13.32,
+   "y": 24.31,
+   "partNo": "A72105",
+   "desc": "SPRING - fuel pump valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 13.41,
+   "y": 27.25,
+   "partNo": "A72107",
+   "desc": "VALVE - fuel pump",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 13.32,
+   "y": 29.43,
+   "partNo": "A72106",
+   "desc": "GASKET - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 13.14,
+   "y": 36.17,
+   "partNo": "A72109",
+   "desc": "DIAPHRAGM ASSY.",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 13.6,
+   "y": 40.15,
+   "partNo": "A72110",
+   "desc": "SPRING - diaphragm",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 13.6,
+   "y": 42.62,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 52.91,
+   "y": 18.42,
+   "partNo": "A72077",
+   "desc": "JET ASSY - high speed & idle adj.",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 52.91,
+   "y": 25.82,
+   "partNo": "A72076",
+   "desc": "SPRING - idle jet",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 52.91,
+   "y": 30.57,
+   "partNo": "A72085",
+   "desc": "SPRING - choke detent ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 52.64,
+   "y": 35.03,
+   "partNo": "211-3",
+   "desc": "BALL - 1/8\" steel",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 92.78,
+   "y": 26.68,
+   "partNo": "A72091",
+   "desc": "SCREW - #3-48 rd. hd. mach., brass",
+   "reqd": "4"
+  },
+  {
+   "ref": "19",
+   "x": 52.64,
+   "y": 38.35,
+   "partNo": "A72091",
+   "desc": "SCREW - #3-48 rd. hd. mach., brass",
+   "reqd": "4"
+  },
+  {
+   "ref": "20",
+   "x": 52.54,
+   "y": 41.48,
+   "partNo": "A72074",
+   "desc": "VALVE ASSY - choke disc",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 81.5,
+   "y": 81.43,
+   "partNo": "A72086",
+   "desc": "INLET NEEDLE & SEAT ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 62.63,
+   "y": 46.98,
+   "partNo": "A72086",
+   "desc": "INLET NEEDLE & SEAT ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 52.64,
+   "y": 44.42,
+   "partNo": "A72102",
+   "desc": "GASKET - needle seat",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 52.45,
+   "y": 53.91,
+   "partNo": "A72079",
+   "desc": "PIN - carburetor float",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 61.42,
+   "y": 81.43,
+   "partNo": "A72079",
+   "desc": "PIN - carburetor float",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 53.01,
+   "y": 56.09,
+   "partNo": "A72078",
+   "desc": "FLOAT ASSY.",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 61.52,
+   "y": 86.55,
+   "partNo": "A72081",
+   "desc": "GASKET - carburetor bowl ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 52.64,
+   "y": 58.75,
+   "partNo": "A72081",
+   "desc": "GASKET - carburetor bowl ring",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 61.42,
+   "y": 89.49,
+   "partNo": "A72082",
+   "desc": "GASKET - carburetor bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 53.01,
+   "y": 62.45,
+   "partNo": "A72082",
+   "desc": "GASKET - carburetor bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 52.45,
+   "y": 68.14,
+   "partNo": "A72080",
+   "desc": "BOWL - carburetor",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 52.64,
+   "y": 72.7,
+   "partNo": "A72084",
+   "desc": "NUT & GASKET ASSY - bowl",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 89.45,
+   "y": 71.65,
+   "partNo": "A72083",
+   "desc": "GASKET - bowl screw",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 61.52,
+   "y": 93.67,
+   "partNo": "A72083",
+   "desc": "GASKET - bowl screw",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 52.54,
+   "y": 49.93,
+   "partNo": "A72101",
+   "desc": "SEAT - high idle jet",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 92.97,
+   "y": 41.96,
+   "partNo": "A72075",
+   "desc": "SHAFT & LEVER ASSY - choke",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 92.69,
+   "y": 39.68,
+   "partNo": "A72087",
+   "desc": "PLUG - 3/8\" expansion",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 92.88,
+   "y": 34.74,
+   "partNo": "A72098",
+   "desc": "SPRING - lean-rich adjusting screw",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 92.88,
+   "y": 32.47,
+   "partNo": "A72099",
+   "desc": "SCREW - adjusting (lean-rich)",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 92.69,
+   "y": 29.62,
+   "partNo": "A72090",
+   "desc": "VALVE - throttle disc",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 85.11,
+   "y": 21.65,
+   "partNo": "A72088",
+   "desc": "PLUG - carb. body passage",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 85.11,
+   "y": 18.04,
+   "partNo": "A72089",
+   "desc": "SHAFT - throttle lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 85.38,
+   "y": 15.29,
+   "partNo": "A72097",
+   "desc": "SEAL - throttle shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 85.75,
+   "y": 4.95,
+   "partNo": "A72094",
+   "desc": "DOG ASSY - throttle shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 85.2,
+   "y": 10.17,
+   "partNo": "A72092",
+   "desc": "SCREW - idle stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 85.2,
+   "y": 7.51,
+   "partNo": "A72093",
+   "desc": "SPRING - idle screw tension",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 60.13,
+   "y": 9.98,
+   "partNo": "169-77",
+   "desc": "SCREW - throttle dog clamp #8 x 1/2\" N.C. fill. hd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 60.31,
+   "y": 7.51,
+   "partNo": "A72096",
+   "desc": "LEVER - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "44",
+   "x": 60.41,
+   "y": 5.14,
+   "partNo": "A72095",
+   "desc": "SCREW ASSY - throttle lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 93.06,
+   "y": 37.21,
+   "partNo": "NSS",
+   "desc": "BODY - carb. (Order A72073 Carb. Assy)",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 74.28,
+   "y": 78.3,
+   "partNo": "A72103",
+   "desc": "KIT - carburetor repair",
+   "reqd": "1"
+  },
+  {
+   "ref": "50",
+   "x": 25.62,
+   "y": 59.98,
+   "partNo": "B51980",
+   "desc": "COVER - fuel strainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "51",
+   "x": 35.15,
+   "y": 86.46,
+   "partNo": "B51978",
+   "desc": "CLAMP ASSY. - wire & thumb nut",
+   "reqd": "1"
+  },
+  {
+   "ref": "52",
+   "x": 35.25,
+   "y": 70.33,
+   "partNo": "B51979",
+   "desc": "STEM - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 35.06,
+   "y": 74.31,
+   "partNo": "B51977",
+   "desc": "SCREEN - strainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "54",
+   "x": 35.43,
+   "y": 78.2,
+   "partNo": "B59393",
+   "desc": "GASKET - strainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "55",
+   "x": 35.06,
+   "y": 82.47,
+   "partNo": "B51975",
+   "desc": "BOWL - strainer",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "A72073",
+   "desc": "CARBURETOR ASSY.",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "B53256",
+   "desc": "FUEL STRAINER ASSY.",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.77
+}

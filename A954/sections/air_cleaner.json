@@ -1,0 +1,91 @@
+{
+ "sectionTitle": "Air Cleaner",
+ "breadcrumb": "Air Cleaner",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/air_cleaner.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 38.92,
+   "y": 23.8,
+   "partNo": "KOA235100",
+   "desc": "AIR CLEANER ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 6.45,
+   "y": 76.48,
+   "partNo": "129-409",
+   "desc": "NUT - wing, 3/8\" N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 9.98,
+   "y": 74.04,
+   "partNo": "KOA536",
+   "desc": "WASHER - copper",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 23.35,
+   "y": 49.53,
+   "partNo": "NSS",
+   "desc": "COVER - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 27.56,
+   "y": 47.0,
+   "partNo": "A70090",
+   "desc": "ELEMENT - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 56.11,
+   "y": 24.18,
+   "partNo": "NSS",
+   "desc": "BASE - air cleaner",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 59.93,
+   "y": 79.3,
+   "partNo": "177-131",
+   "desc": "SCREW - fill.hd. 10-32 x 1/2\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "8",
+   "x": 64.9,
+   "y": 75.82,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\"",
+   "reqd": "3"
+  },
+  {
+   "ref": "9",
+   "x": 68.72,
+   "y": 72.44,
+   "partNo": "195-512",
+   "desc": "WASHER - plain, 3/16\" SAE",
+   "reqd": "3"
+  },
+  {
+   "ref": "10",
+   "x": 73.11,
+   "y": 10.0,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.95
+}

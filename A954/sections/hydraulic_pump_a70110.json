@@ -1,0 +1,139 @@
+{
+ "sectionTitle": "A70110 Hydraulic Pump",
+ "breadcrumb": "A70110 Hydraulic Pump",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/hydraulic_pump_a70110.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 17.37,
+   "y": 57.27,
+   "partNo": "A70110",
+   "desc": "PUMP - hydraulic",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 37.21,
+   "y": 7.55,
+   "partNo": "13-652",
+   "desc": "BOLT - 3/8\" x 3-1/4\" N.C. hex hd.",
+   "reqd": "4"
+  },
+  {
+   "ref": "3",
+   "x": 43.61,
+   "y": 11.45,
+   "partNo": "A72000",
+   "desc": "WASHER - special",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 60.31,
+   "y": 6.21,
+   "partNo": "A72006",
+   "desc": "COVER - rear, pump body",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 67.08,
+   "y": 10.02,
+   "partNo": "A72003",
+   "desc": "SEAL - pump cover",
+   "reqd": "2"
+  },
+  {
+   "ref": "5",
+   "x": 61.93,
+   "y": 86.05,
+   "partNo": "A72003",
+   "desc": "SEAL - pump cover",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 73.09,
+   "y": 13.93,
+   "partNo": "A35956",
+   "desc": "BEARING - pump gear",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 46.56,
+   "y": 76.71,
+   "partNo": "A35956",
+   "desc": "BEARING - pump gear",
+   "reqd": "4"
+  },
+  {
+   "ref": "7",
+   "x": 80.73,
+   "y": 18.41,
+   "partNo": "A72005",
+   "desc": "GEAR - pump, drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "8",
+   "x": 79.77,
+   "y": 42.7,
+   "partNo": "A72004",
+   "desc": "GEAR - pump, driven",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 90.36,
+   "y": 23.55,
+   "partNo": "126-12",
+   "desc": "KEY - Woodruff #6",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 33.4,
+   "y": 68.99,
+   "partNo": "NSS",
+   "desc": "BODY - pump (Order A70110 pump)",
+   "reqd": "1"
+  },
+  {
+   "ref": "11",
+   "x": 51.15,
+   "y": 79.66,
+   "partNo": "A72001",
+   "desc": "GASKET - brass, front cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "12",
+   "x": 56.11,
+   "y": 82.52,
+   "partNo": "A72002",
+   "desc": "SPACER - gasket, front cover",
+   "reqd": "1"
+  },
+  {
+   "ref": "13",
+   "x": 68.89,
+   "y": 89.86,
+   "partNo": "A72007",
+   "desc": "COVER - front pump body",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 75.96,
+   "y": 93.86,
+   "partNo": "A35960",
+   "desc": "SEAL - pump shaft",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.15
+}

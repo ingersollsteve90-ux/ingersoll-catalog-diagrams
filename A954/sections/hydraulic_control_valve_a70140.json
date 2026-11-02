@@ -1,0 +1,243 @@
+{
+ "sectionTitle": "A70140 Hydraulic Control Valve",
+ "breadcrumb": "A70140 Hydraulic Control Valve",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/hydraulic_control_valve_a70140.jpg",
+ "hotspots": [
+  {
+   "ref": "21",
+   "x": 43.23,
+   "y": 7.31,
+   "partNo": "166-6",
+   "desc": "CAPSCREW - 1/4\" x 1\" N.C. ferry hd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 23.95,
+   "y": 8.88,
+   "partNo": "166-8",
+   "desc": "CAPSCREW - 1/4\" x 1-1/2\" N.C. ferry hd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 46.37,
+   "y": 9.98,
+   "partNo": "A72065",
+   "desc": "CAP - valve end",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 48.86,
+   "y": 13.11,
+   "partNo": "A72059",
+   "desc": "PLUG - relief valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 13.56,
+   "y": 71.74,
+   "partNo": "A7982",
+   "desc": "\"O\" RING - relief valve plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 52.39,
+   "y": 16.15,
+   "partNo": "A7982",
+   "desc": "\"O\" RING - relief valve plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 55.63,
+   "y": 19.09,
+   "partNo": "A72069",
+   "desc": "SHIM - relief valve",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 59.35,
+   "y": 22.31,
+   "partNo": "A72058",
+   "desc": "SPRING - relief valve (outer)",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 62.88,
+   "y": 25.54,
+   "partNo": "A72071",
+   "desc": "SPRING - valve relief (inner)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 66.12,
+   "y": 28.3,
+   "partNo": "A72057",
+   "desc": "SPOOL - relief valve poppet",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 69.46,
+   "y": 31.15,
+   "partNo": "A72055",
+   "desc": "SEAT - relief valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 77.57,
+   "y": 44.4,
+   "partNo": "O9638AB",
+   "desc": "SNAP RING - valve",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 86.16,
+   "y": 52.32,
+   "partNo": "A72060",
+   "desc": "WASHER - valve spool end spacer",
+   "reqd": "2"
+  },
+  {
+   "ref": "32",
+   "x": 80.05,
+   "y": 46.71,
+   "partNo": "A72060",
+   "desc": "WASHER - valve spool end spacer",
+   "reqd": "2"
+  },
+  {
+   "ref": "33",
+   "x": 83.11,
+   "y": 50.39,
+   "partNo": "A72063",
+   "desc": "SPACER - valve spool end",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 88.73,
+   "y": 55.73,
+   "partNo": "A72066",
+   "desc": "WASHER - retainer relief valve plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 91.69,
+   "y": 57.66,
+   "partNo": "A72067",
+   "desc": "RING - back up",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 94.17,
+   "y": 60.05,
+   "partNo": "A72062",
+   "desc": "SEAL - quad ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 52.77,
+   "y": 66.22,
+   "partNo": "A72062",
+   "desc": "SEAL - quad ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "36",
+   "x": 16.23,
+   "y": 74.5,
+   "partNo": "A72062",
+   "desc": "SEAL - quad ring",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 43.23,
+   "y": 45.42,
+   "partNo": "A72056",
+   "desc": "PLUG",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 24.15,
+   "y": 81.87,
+   "partNo": "A72061",
+   "desc": "\"O\" RING - plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 40.27,
+   "y": 49.56,
+   "partNo": "A72061",
+   "desc": "\"O\" RING - plug",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 31.49,
+   "y": 45.05,
+   "partNo": "A72052",
+   "desc": "BODY AND SPOOL ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 56.49,
+   "y": 69.35,
+   "partNo": "A72068",
+   "desc": "RETAINER - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 21.0,
+   "y": 78.83,
+   "partNo": "A72070",
+   "desc": "SEAL - vee",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 59.83,
+   "y": 72.39,
+   "partNo": "A72070",
+   "desc": "SEAL - vee",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 63.55,
+   "y": 75.79,
+   "partNo": "A72064",
+   "desc": "CAP - valve end",
+   "reqd": "1"
+  },
+  {
+   "ref": "43",
+   "x": 16.23,
+   "y": 66.22,
+   "partNo": "A72072",
+   "desc": "KIT - valve seal repair",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Kit A72072 (ref 43) contains refs 25, 36, 38 and 41.",
+ "dotSizePct": 2.7
+}

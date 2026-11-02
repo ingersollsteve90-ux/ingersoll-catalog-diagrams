@@ -1,0 +1,307 @@
+{
+ "sectionTitle": "Choke, Throttle and Governor",
+ "breadcrumb": "Choke, Throttle and Governor",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/choke_throttle_governor.jpg",
+ "hotspots": [
+  {
+   "ref": "26",
+   "x": 29.48,
+   "y": 28.35,
+   "partNo": "A70108",
+   "desc": "CONTROL - choke (incl. lockwasher & nut)",
+   "reqd": "1"
+  },
+  {
+   "ref": "29",
+   "x": 70.12,
+   "y": 78.82,
+   "partNo": "173-212",
+   "desc": "SCREW #10-24 x 1/2\" rd. hd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "30",
+   "x": 73.63,
+   "y": 81.26,
+   "partNo": "A70106",
+   "desc": "CLAMP - choke control",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 89.96,
+   "y": 71.22,
+   "partNo": "KO235056",
+   "desc": "BRACKET - choke control",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 94.23,
+   "y": 74.04,
+   "partNo": "129-7",
+   "desc": "NUT - #10-24 hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 10.29,
+   "y": 51.15,
+   "partNo": "A70107",
+   "desc": "CONTROL - throttle (incl. lockwasher & nut)",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 21.97,
+   "y": 60.25,
+   "partNo": "193-70",
+   "desc": "LOCKWASHER - #10 int. ext. shakeproof pltd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 19.13,
+   "y": 62.59,
+   "partNo": "177-131",
+   "desc": "SCREW - #10-24 x 1/2\" rd. fill. hd. pltd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "37",
+   "x": 38.31,
+   "y": 55.56,
+   "partNo": "177-131",
+   "desc": "SCREW - #10-24 x 1/2\" rd. fill. hd. pltd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 32.61,
+   "y": 70.85,
+   "partNo": "129-7",
+   "desc": "NUT - #10-24 N.C.",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 38.21,
+   "y": 64.09,
+   "partNo": "A70105",
+   "desc": "BRACKET - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 38.02,
+   "y": 59.78,
+   "partNo": "A70106",
+   "desc": "CLAMP - cable",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 38.88,
+   "y": 11.09,
+   "partNo": "KO235494",
+   "desc": "LEVER - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 38.78,
+   "y": 17.28,
+   "partNo": "15-420",
+   "desc": "BOLT - 1/4\" x 1-1/4\" N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "42",
+   "x": 54.54,
+   "y": 59.22,
+   "partNo": "15-420",
+   "desc": "BOLT - 1/4\" x 1-1/4\" N.C. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "43",
+   "x": 38.88,
+   "y": 29.85,
+   "partNo": "195-515",
+   "desc": "WASHER - 1/4\" pltd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "44",
+   "x": 38.78,
+   "y": 35.29,
+   "partNo": "25-104",
+   "desc": "NUT - 1/4\" hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "45",
+   "x": 54.26,
+   "y": 49.27,
+   "partNo": "KO235496",
+   "desc": "SPRING - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "46",
+   "x": 57.77,
+   "y": 57.25,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" pltd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "47",
+   "x": 60.62,
+   "y": 54.71,
+   "partNo": "KOX25-67",
+   "desc": "WASHER - thrust",
+   "reqd": "1"
+  },
+  {
+   "ref": "48",
+   "x": 63.56,
+   "y": 52.74,
+   "partNo": "KO275690",
+   "desc": "WASHER - wavy",
+   "reqd": "1"
+  },
+  {
+   "ref": "49",
+   "x": 66.89,
+   "y": 50.02,
+   "partNo": "KO231052",
+   "desc": "CLAMP - swivel, wire",
+   "reqd": "1"
+  },
+  {
+   "ref": "50",
+   "x": 70.21,
+   "y": 47.49,
+   "partNo": "KO235086",
+   "desc": "LEVER - speed control",
+   "reqd": "1"
+  },
+  {
+   "ref": "51",
+   "x": 75.91,
+   "y": 43.64,
+   "partNo": "KO235085",
+   "desc": "SPACER - speed control brkt.",
+   "reqd": "1"
+  },
+  {
+   "ref": "52",
+   "x": 79.9,
+   "y": 40.27,
+   "partNo": "KO235084",
+   "desc": "BRACKET - high speed stop",
+   "reqd": "1"
+  },
+  {
+   "ref": "53",
+   "x": 66.6,
+   "y": 25.35,
+   "partNo": "129-37",
+   "desc": "NUT - #10-32, hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "54",
+   "x": 54.73,
+   "y": 35.86,
+   "partNo": "192-18",
+   "desc": "LOCKWASHER - 3/16\" pltd.",
+   "reqd": "1"
+  },
+  {
+   "ref": "55",
+   "x": 54.26,
+   "y": 30.98,
+   "partNo": "A10326",
+   "desc": "JOINT - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "56",
+   "x": 49.61,
+   "y": 14.37,
+   "partNo": "KO235277",
+   "desc": "ROD - throttle",
+   "reqd": "1"
+  },
+  {
+   "ref": "57",
+   "x": 52.64,
+   "y": 12.69,
+   "partNo": "KO235278",
+   "desc": "RING - retaining, throttle rod",
+   "reqd": "1"
+  },
+  {
+   "ref": "58",
+   "x": 55.78,
+   "y": 9.31,
+   "partNo": "KO235476",
+   "desc": "BUSHING - governor cross shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "59",
+   "x": 59.2,
+   "y": 7.43,
+   "partNo": "KOA235256",
+   "desc": "SHAFT ASSY - governor cross",
+   "reqd": "1"
+  },
+  {
+   "ref": "60",
+   "x": 81.13,
+   "y": 13.25,
+   "partNo": "KOX293-4",
+   "desc": "BEARING - needle, governor shaft",
+   "reqd": "1"
+  },
+  {
+   "ref": "61",
+   "x": 83.88,
+   "y": 15.88,
+   "partNo": "KOA235157",
+   "desc": "GEAR ASSY - governor",
+   "reqd": "1"
+  },
+  {
+   "ref": "62",
+   "x": 86.64,
+   "y": 17.94,
+   "partNo": "KO235125-S",
+   "desc": "SHAFT - governor stub",
+   "reqd": "1"
+  },
+  {
+   "ref": "63",
+   "x": 76.0,
+   "y": 34.73,
+   "partNo": "KOX25-55",
+   "desc": "WASHER - governor stop pin",
+   "reqd": "1"
+  },
+  {
+   "ref": "64",
+   "x": 72.2,
+   "y": 37.45,
+   "partNo": "KO231355",
+   "desc": "PIN - governor stop",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 2.67
+}

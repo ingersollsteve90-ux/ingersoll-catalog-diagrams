@@ -1,0 +1,273 @@
+{
+ "sectionTitle": "Steering Gear",
+ "breadcrumb": "Steering Gear",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/steering_gear.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 35.37,
+   "y": 6.35,
+   "partNo": "A70391",
+   "desc": "MEDALLION - steering wheel",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 35.37,
+   "y": 10.91,
+   "partNo": "A70393",
+   "desc": "DECAL - medallion",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 35.64,
+   "y": 14.62,
+   "partNo": "A70392",
+   "desc": "RING - medallion retaining",
+   "reqd": "1"
+  },
+  {
+   "ref": "4",
+   "x": 35.55,
+   "y": 17.76,
+   "partNo": "25-1510",
+   "desc": "NUT - 5/8\" N.F. hex",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 21.49,
+   "y": 27.84,
+   "partNo": "A70058",
+   "desc": "WHEEL - steering",
+   "reqd": "1"
+  },
+  {
+   "ref": "6",
+   "x": 59.69,
+   "y": 54.37,
+   "partNo": "A70057",
+   "desc": "U-BOLT - strg. gear mtg.",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 36.2,
+   "y": 60.46,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 36.2,
+   "y": 56.94,
+   "partNo": "129-121",
+   "desc": "NUT - 1/4\" N.C. hex, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 32.68,
+   "y": 73.97,
+   "partNo": "113-207",
+   "desc": "BOLT - 3/8\" x 1\" N.C. hex hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 36.38,
+   "y": 76.82,
+   "partNo": "192-21",
+   "desc": "LOCKWASHER - 3/8\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 36.01,
+   "y": 40.87,
+   "partNo": "F19645",
+   "desc": "SEAL - felt",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 35.92,
+   "y": 44.67,
+   "partNo": "A72011",
+   "desc": "BEARING - spacer (Nylon)",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 35.92,
+   "y": 48.48,
+   "partNo": "A72012",
+   "desc": "RETAINER - bearing",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 36.2,
+   "y": 53.33,
+   "partNo": "NSS",
+   "desc": "HOUSING AND TUBE ASSY (Order A70056)",
+   "reqd": "1"
+  },
+  {
+   "ref": "16",
+   "x": 61.08,
+   "y": 65.12,
+   "partNo": "25-1510",
+   "desc": "NUT - jam 5/8\" N.F. hex",
+   "reqd": "2"
+  },
+  {
+   "ref": "17",
+   "x": 55.9,
+   "y": 66.64,
+   "partNo": "A72014",
+   "desc": "WASHER - bronze",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 48.22,
+   "y": 89.66,
+   "partNo": "219-14",
+   "desc": "FITTING - lube",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 43.69,
+   "y": 91.37,
+   "partNo": "A72015",
+   "desc": "SEAL",
+   "reqd": "1"
+  },
+  {
+   "ref": "20",
+   "x": 39.34,
+   "y": 93.37,
+   "partNo": "A72013",
+   "desc": "RETAINER - seal",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 24.27,
+   "y": 77.77,
+   "partNo": "A72022",
+   "desc": "LEVER & BOLT ASSY",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 15.76,
+   "y": 81.29,
+   "partNo": "A72017",
+   "desc": "STUD - adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 7.16,
+   "y": 84.9,
+   "partNo": "A72010",
+   "desc": "NUT - adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "24",
+   "x": 92.8,
+   "y": 90.23,
+   "partNo": "A72021",
+   "desc": "PLUG - adjusting",
+   "reqd": "1"
+  },
+  {
+   "ref": "25",
+   "x": 92.71,
+   "y": 87.57,
+   "partNo": "A72018",
+   "desc": "CUP - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 91.42,
+   "y": 40.39,
+   "partNo": "A72018",
+   "desc": "CUP - bearing",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 91.51,
+   "y": 43.25,
+   "partNo": "A72020",
+   "desc": "BALL - retainer assembly",
+   "reqd": "2"
+  },
+  {
+   "ref": "26",
+   "x": 92.9,
+   "y": 80.43,
+   "partNo": "A72020",
+   "desc": "BALL - retainer assembly",
+   "reqd": "2"
+  },
+  {
+   "ref": "27",
+   "x": 91.32,
+   "y": 45.63,
+   "partNo": "NSS",
+   "desc": "RETAINER - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 92.8,
+   "y": 82.53,
+   "partNo": "NSS",
+   "desc": "RETAINER - ball",
+   "reqd": "1"
+  },
+  {
+   "ref": "28",
+   "x": 92.9,
+   "y": 84.52,
+   "partNo": "211-9",
+   "desc": "BALL - 5/16\" dia.",
+   "reqd": "8"
+  },
+  {
+   "ref": "28",
+   "x": 91.79,
+   "y": 47.53,
+   "partNo": "211-9",
+   "desc": "BALL - 5/16\" dia.",
+   "reqd": "8"
+  },
+  {
+   "ref": "29",
+   "x": 92.16,
+   "y": 62.93,
+   "partNo": "NSS",
+   "desc": "CAM AND TUBE ASSY - (Order A70056)",
+   "reqd": "1"
+  },
+  {
+   "ref": "—",
+   "partNo": "A70056",
+   "desc": "STEERING GEAR ASSY",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "The original catalog misprints the adjusting nut callout (bottom left) as a second \"24\". The dot marked 23 there is the adjusting nut.",
+ "dotSizePct": 2.9
+}

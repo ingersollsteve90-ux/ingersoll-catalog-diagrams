@@ -1,0 +1,59 @@
+{
+ "sectionTitle": "A70111 Pump Drive Coupling",
+ "breadcrumb": "A70111 Pump Drive Coupling",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/pump_drive_coupling_a70111.jpg",
+ "hotspots": [
+  {
+   "ref": "18",
+   "x": 16.74,
+   "y": 35.47,
+   "partNo": "A70111",
+   "desc": "COUPLING - pump drive",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 65.96,
+   "y": 12.75,
+   "partNo": "83-55",
+   "desc": "SCREW - 5/16\" x 5/16\" N.C. sckt. hd. set",
+   "reqd": "2"
+  },
+  {
+   "ref": "19",
+   "x": 91.57,
+   "y": 87.28,
+   "partNo": "83-55",
+   "desc": "SCREW - 5/16\" x 5/16\" N.C. sckt. hd. set",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 73.86,
+   "y": 19.95,
+   "partNo": "NSS",
+   "desc": "HUB - half, 5/8\" dia. bore (Order A70111)",
+   "reqd": "1"
+  },
+  {
+   "ref": "21",
+   "x": 83.29,
+   "y": 28.63,
+   "partNo": "A70112",
+   "desc": "SPIDER - coupling",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 92.14,
+   "y": 38.05,
+   "partNo": "NSS",
+   "desc": "HUB - half, 1\" dia. bore (Order A70111)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 4.58
+}

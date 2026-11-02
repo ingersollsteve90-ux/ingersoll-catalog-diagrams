@@ -1,0 +1,169 @@
+{
+ "sectionTitle": "Parking Brake",
+ "breadcrumb": "Parking Brake",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/parking_brake.jpg",
+ "hotspots": [
+  {
+   "ref": "28",
+   "x": 84.83,
+   "y": 9.66,
+   "variants": [
+    {
+     "serialNote": "130",
+     "partNo": "C10681",
+     "desc": "HUB - wheel (130) (4 hole)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "180",
+     "partNo": "C10682",
+     "desc": "HUB - wheel (180) (6 hole)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "29",
+   "x": 91.62,
+   "y": 10.12,
+   "variants": [
+    {
+     "serialNote": "130",
+     "partNo": "83-512",
+     "desc": "SCREW - set, wheel hub (130) (5/16 x 3/4\" N.C., sckt. hd., cup pt.)",
+     "reqd": "2"
+    },
+    {
+     "serialNote": "180",
+     "partNo": "83-614",
+     "desc": "SCREW - set, wheel hub (180) (3/8 x 7/8\" N.C., sckt. hd., cup pt.)",
+     "reqd": "2"
+    }
+   ]
+  },
+  {
+   "ref": "30",
+   "x": 50.19,
+   "y": 14.92,
+   "partNo": "O3312AB",
+   "desc": "KEY - hub (1/4\" sq. x 1-1/2\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "31",
+   "x": 44.05,
+   "y": 19.99,
+   "partNo": "C10683",
+   "desc": "BRACKET - anchor",
+   "reqd": "1"
+  },
+  {
+   "ref": "32",
+   "x": 38.39,
+   "y": 24.24,
+   "partNo": "219-8",
+   "desc": "FITTING - grease (1/4-28 str.)",
+   "reqd": "1"
+  },
+  {
+   "ref": "33",
+   "x": 32.92,
+   "y": 29.4,
+   "partNo": "13-620",
+   "desc": "BOLT - bracket (3/8 x 1-1/4\" N.C. hex)",
+   "reqd": "1"
+  },
+  {
+   "ref": "34",
+   "x": 57.55,
+   "y": 16.39,
+   "partNo": "95-6",
+   "desc": "WASHER - (5/32 x 5/16 x 1/32\")",
+   "reqd": "1"
+  },
+  {
+   "ref": "35",
+   "x": 54.34,
+   "y": 70.82,
+   "partNo": "C10691",
+   "desc": "\"U\" BOLT - bracket",
+   "reqd": "1"
+  },
+  {
+   "ref": "36",
+   "x": 80.3,
+   "y": 53.66,
+   "partNo": "92-6",
+   "desc": "WASHER - (3/8\" lock)",
+   "reqd": "3"
+  },
+  {
+   "ref": "36",
+   "x": 57.17,
+   "y": 8.65,
+   "partNo": "92-6",
+   "desc": "WASHER - (3/8\" lock)",
+   "reqd": "3"
+  },
+  {
+   "ref": "37",
+   "x": 80.01,
+   "y": 45.91,
+   "partNo": "25-106",
+   "desc": "NUT - (3/8\" N.C. hex)",
+   "reqd": "3"
+  },
+  {
+   "ref": "37",
+   "x": 77.47,
+   "y": 9.11,
+   "partNo": "25-106",
+   "desc": "NUT - (3/8\" N.C. hex)",
+   "reqd": "3"
+  },
+  {
+   "ref": "38",
+   "x": 21.02,
+   "y": 38.35,
+   "partNo": "C10687",
+   "desc": "LEVER - lock",
+   "reqd": "1"
+  },
+  {
+   "ref": "39",
+   "x": 80.11,
+   "y": 62.52,
+   "partNo": "C10692",
+   "desc": "GRIP - lever handle",
+   "reqd": "1"
+  },
+  {
+   "ref": "40",
+   "x": 8.47,
+   "y": 83.0,
+   "partNo": "C10688",
+   "desc": "PLATE - lever latch",
+   "reqd": "1"
+  },
+  {
+   "ref": "41",
+   "x": 44.71,
+   "y": 80.97,
+   "partNo": "VT2888",
+   "desc": "SPRING - lever latch",
+   "reqd": "1"
+  },
+  {
+   "ref": "42",
+   "x": 19.42,
+   "y": 73.86,
+   "partNo": "13-820",
+   "desc": "BOLT - latch plate (1/2 x 1-1/4\" N.C. hex)",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Refs 28 and 29: 130 and 180 versions.",
+ "dotSizePct": 4.51
+}

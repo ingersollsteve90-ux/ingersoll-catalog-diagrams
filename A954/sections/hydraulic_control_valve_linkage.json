@@ -1,0 +1,123 @@
+{
+ "sectionTitle": "Hydraulic Control Valve Linkage",
+ "breadcrumb": "Hydraulic Control Valve Linkage",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/hydraulic_control_valve_linkage.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 91.07,
+   "y": 20.17,
+   "partNo": "A23885",
+   "desc": "KNOB - hand lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 90.59,
+   "y": 25.13,
+   "partNo": "A70008",
+   "desc": "LEVER ASSY. - hand control (incl. Ref. Nos. 3 & 4)",
+   "reqd": "1"
+  },
+  {
+   "ref": "3",
+   "x": 70.11,
+   "y": 88.23,
+   "partNo": "138-98",
+   "desc": "PIN - roll (3/16\" x 1-1/4\")",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 61.78,
+   "y": 93.18,
+   "partNo": "NSS",
+   "desc": "LEVER - control valve lever",
+   "reqd": "1"
+  },
+  {
+   "ref": "5",
+   "x": 43.11,
+   "y": 68.5,
+   "partNo": "A70129",
+   "desc": "LINK - valve spool",
+   "reqd": "2"
+  },
+  {
+   "ref": "6",
+   "x": 65.89,
+   "y": 90.8,
+   "partNo": "195-534",
+   "desc": "WASHER - spacer, 9/16\" plated",
+   "reqd": "UAR"
+  },
+  {
+   "ref": "7",
+   "x": 26.83,
+   "y": 78.69,
+   "partNo": "A70130",
+   "desc": "PIN - valve spool link",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 53.64,
+   "y": 62.4,
+   "partNo": "A70130",
+   "desc": "PIN - valve spool link",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 58.52,
+   "y": 59.92,
+   "partNo": "132-7",
+   "desc": "PIN - cotter 1/16 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 32.1,
+   "y": 75.26,
+   "partNo": "132-7",
+   "desc": "PIN - cotter 1/16 x 3/4\"",
+   "reqd": "2"
+  },
+  {
+   "ref": "9",
+   "x": 55.46,
+   "y": 52.29,
+   "partNo": "A70135",
+   "desc": "PLATE - hand lever pressure",
+   "reqd": "2"
+  },
+  {
+   "ref": "10",
+   "x": 59.86,
+   "y": 49.62,
+   "partNo": "195-515",
+   "desc": "WASHER - 1/4\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 64.46,
+   "y": 47.05,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 68.38,
+   "y": 44.76,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex hd. plated",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 3.5
+}

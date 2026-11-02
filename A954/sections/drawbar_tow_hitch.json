@@ -1,0 +1,59 @@
+{
+ "sectionTitle": "Drawbar and Tow Hitch",
+ "breadcrumb": "Drawbar and Tow Hitch",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/drawbar_tow_hitch.jpg",
+ "hotspots": [
+  {
+   "ref": "36",
+   "x": 62.26,
+   "y": 30.38,
+   "partNo": "A70171",
+   "desc": "HITCH - assy., drawbar and tow",
+   "reqd": "1"
+  },
+  {
+   "ref": "37",
+   "x": 37.41,
+   "y": 48.99,
+   "partNo": "A70175",
+   "desc": "SHAFT - pivot, hitch",
+   "reqd": "1"
+  },
+  {
+   "ref": "38",
+   "x": 87.77,
+   "y": 11.39,
+   "partNo": "A70176",
+   "desc": "PIN - hair, cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "38",
+   "x": 23.71,
+   "y": 58.8,
+   "partNo": "A70176",
+   "desc": "PIN - hair, cotter",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 75.11,
+   "y": 20.74,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\" wrought",
+   "reqd": "2"
+  },
+  {
+   "ref": "39",
+   "x": 9.06,
+   "y": 70.59,
+   "partNo": "195-106",
+   "desc": "WASHER - 1/2\" wrought",
+   "reqd": "2"
+  }
+ ],
+ "footnotes": "",
+ "dotSizePct": 5.31
+}

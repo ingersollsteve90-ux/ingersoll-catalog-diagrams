@@ -1,0 +1,358 @@
+{
+ "sectionTitle": "Fuel System",
+ "breadcrumb": "Fuel System",
+ "catalogLabel": "Catalog A954",
+ "modelNumbers": "Catalog A954 — Case 130 and 180 Garden Tractors (Kohler K241S / K301S engines)",
+ "diagramUrl": "https://cdn.jsdelivr.net/gh/ingersollsteve90-ux/ingersoll-catalog-diagrams@main/A954/fuel_system.jpg",
+ "hotspots": [
+  {
+   "ref": "1",
+   "x": 61.58,
+   "y": 7.49,
+   "partNo": "A70094",
+   "desc": "BRACKET - L.H. fuel tank support",
+   "reqd": "1"
+  },
+  {
+   "ref": "2",
+   "x": 30.1,
+   "y": 17.04,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "2",
+   "x": 55.88,
+   "y": 5.03,
+   "partNo": "113-1",
+   "desc": "BOLT - 1/4\" x 1/2\" N.C. hex, plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 14.88,
+   "y": 28.11,
+   "partNo": "171-2",
+   "desc": "SCREW - 1/4\" x 1/2\" N.C. flt. hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "3",
+   "x": 45.33,
+   "y": 27.07,
+   "partNo": "171-2",
+   "desc": "SCREW - 1/4\" x 1/2\" N.C. flt. hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "4",
+   "x": 74.66,
+   "y": 13.07,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 50.75,
+   "y": 29.53,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 73.16,
+   "y": 25.65,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "4",
+   "x": 48.51,
+   "y": 38.8,
+   "partNo": "192-19",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 52.62,
+   "y": 40.69,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C. hex, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 77.46,
+   "y": 27.45,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C. hex, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 55.32,
+   "y": 31.52,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C. hex, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "5",
+   "x": 78.12,
+   "y": 14.58,
+   "partNo": "129-101",
+   "desc": "NUT - 1/4\" N.C. hex, plated",
+   "reqd": "4"
+  },
+  {
+   "ref": "6",
+   "x": 29.82,
+   "y": 24.14,
+   "partNo": "A70091",
+   "desc": "BRACKET - R.H. fuel tank support",
+   "reqd": "1"
+  },
+  {
+   "ref": "7",
+   "x": 30.01,
+   "y": 39.46,
+   "partNo": "A70099",
+   "desc": "CLAMP - fuel tank mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "7",
+   "x": 68.87,
+   "y": 10.7,
+   "partNo": "A70099",
+   "desc": "CLAMP - fuel tank mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "8",
+   "x": 82.32,
+   "y": 59.43,
+   "partNo": "A70101",
+   "desc": "TANK - fuel (includes cap A70526)",
+   "reqd": "1"
+  },
+  {
+   "ref": "9",
+   "x": 89.42,
+   "y": 19.6,
+   "partNo": "A70526",
+   "desc": "CAP - tank",
+   "reqd": "1"
+  },
+  {
+   "ref": "10",
+   "x": 62.61,
+   "y": 62.17,
+   "partNo": "A70100",
+   "desc": "STRAP - fuel tank mtg.",
+   "reqd": "2"
+  },
+  {
+   "ref": "11",
+   "x": 63.08,
+   "y": 65.86,
+   "partNo": "173-239",
+   "desc": "SCREW - 1/4\" x 1\" rd. hd. plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "12",
+   "x": 63.17,
+   "y": 58.58,
+   "partNo": "129-504",
+   "desc": "NUT - 1/4\" N.C. sq.",
+   "reqd": "2"
+  },
+  {
+   "ref": "13",
+   "x": 82.51,
+   "y": 70.31,
+   "partNo": "217-200",
+   "desc": "NIPPLE - 1/8\" x 3/4\" close - brass",
+   "reqd": "1"
+  },
+  {
+   "ref": "14",
+   "x": 82.69,
+   "y": 77.5,
+   "partNo": "B53256",
+   "desc": "FUEL STRAINER ASSY (repairs: see Fuel Strainer)",
+   "reqd": "1"
+  },
+  {
+   "ref": "15",
+   "x": 63.08,
+   "y": 69.65,
+   "partNo": "A70103",
+   "desc": "FITTING - fuel line, Nylon",
+   "reqd": "2"
+  },
+  {
+   "ref": "15",
+   "x": 22.26,
+   "y": 90.93,
+   "partNo": "A70103",
+   "desc": "FITTING - fuel line, Nylon",
+   "reqd": "2"
+  },
+  {
+   "ref": "16",
+   "x": 52.62,
+   "y": 77.78,
+   "partNo": "A70102",
+   "desc": "HOSE - fuel line",
+   "reqd": "1"
+  },
+  {
+   "ref": "17",
+   "x": 29.73,
+   "y": 61.51,
+   "partNo": "A72100",
+   "desc": "GASKET - carburetor flange",
+   "reqd": "1"
+  },
+  {
+   "ref": "18",
+   "x": 48.41,
+   "y": 69.55,
+   "partNo": "A72073",
+   "desc": "CARBURETOR ASSY (repairs: see Carburetor)",
+   "reqd": "1"
+  },
+  {
+   "ref": "19",
+   "x": 47.29,
+   "y": 80.05,
+   "partNo": "192-20",
+   "desc": "LOCKWASHER - 5/16\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "20",
+   "x": 42.62,
+   "y": 82.04,
+   "partNo": "113-103",
+   "desc": "BOLT - 5/16\" x 1\" N.C. hex hd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "21",
+   "x": 18.8,
+   "y": 77.5,
+   "partNo": "KO275341",
+   "desc": "GASKET - air horn",
+   "reqd": "1"
+  },
+  {
+   "ref": "22",
+   "x": 25.9,
+   "y": 59.62,
+   "partNo": "222-4021",
+   "desc": "CONNECTOR ASSY (includes sleeve and nut)",
+   "reqd": "1"
+  },
+  {
+   "ref": "23",
+   "x": 21.6,
+   "y": 58.29,
+   "partNo": "222-101",
+   "desc": "SLEEVE - (for 3/16\" O.D. tube)",
+   "reqd": "2"
+  },
+  {
+   "ref": "23",
+   "x": 6.94,
+   "y": 76.17,
+   "partNo": "222-101",
+   "desc": "SLEEVE - (for 3/16\" O.D. tube)",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 17.78,
+   "y": 56.4,
+   "partNo": "222-112",
+   "desc": "NUT - (for 3/16\" O.D. tube)",
+   "reqd": "2"
+  },
+  {
+   "ref": "24",
+   "x": 6.94,
+   "y": 71.92,
+   "partNo": "222-112",
+   "desc": "NUT - (for 3/16\" O.D. tube)",
+   "reqd": "2"
+  },
+  {
+   "ref": "25",
+   "x": 7.13,
+   "y": 67.94,
+   "partNo": "KO235097",
+   "desc": "LINE - fuel pump to carburetor",
+   "reqd": "1"
+  },
+  {
+   "ref": "26",
+   "x": 7.13,
+   "y": 81.66,
+   "partNo": "222-41",
+   "desc": "ELBOW - (includes sleeve and nut)",
+   "reqd": "1"
+  },
+  {
+   "ref": "27",
+   "x": 7.13,
+   "y": 85.45,
+   "variants": [
+    {
+     "serialNote": "130",
+     "partNo": "KOA235361",
+     "desc": "FUEL PUMP (130) Ident. no. on primer lever (repairs: see Fuel Pumps)",
+     "reqd": "1"
+    },
+    {
+     "serialNote": "180",
+     "partNo": "KOA235807",
+     "desc": "FUEL PUMP (180) Ident. no. on primer lever (repairs: see Fuel Pumps)",
+     "reqd": "1"
+    }
+   ]
+  },
+  {
+   "ref": "28",
+   "x": 13.1,
+   "y": 95.0,
+   "partNo": "71-410",
+   "desc": "SCREW - 1/4\" x 5/8\" N.C. fillister hd.",
+   "reqd": "2"
+  },
+  {
+   "ref": "29",
+   "x": 17.96,
+   "y": 92.83,
+   "partNo": "193-60",
+   "desc": "LOCKWASHER - 1/4\" plated",
+   "reqd": "2"
+  },
+  {
+   "ref": "30",
+   "x": 38.23,
+   "y": 84.22,
+   "partNo": "A72108",
+   "desc": "GASKET - fuel pump mtg.",
+   "reqd": "1"
+  }
+ ],
+ "footnotes": "Fuel pump (ref 27): KOA235361 on the 130, KOA235807 on the 180 (ident. no. on primer lever).",
+ "dotSizePct": 2.7
+}
